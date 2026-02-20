@@ -994,8 +994,12 @@
           "homeLang": "loud"
         },
         {
-          "targetLang": "sprecher",
-          "homeLang": "speaker"
+          "targetLang": "sprech",
+          "homeLang": "speak"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er"
         }
       ],
       "translation": "loudspeaker",
