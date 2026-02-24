@@ -1,0 +1,19 @@
+# Claude API (for generate_claude.py)
+anthropic
+
+# Morpheme splitting (for generate_dictionary.py)
+compound-split        # German + Dutch compound splitting
+pymorphy3             # Russian morphological analysis
+fugashi               # Japanese (MeCab wrapper)
+ipadic                # Japanese dictionary for fugashi
+jieba                 # Chinese word segmentation
+Morfessor             # Unsupervised morpheme segmentation (Spanish, French)
+
+# NLP
+spacy                 # Lemmatization, POS, article detection
+
+# Example sentences
+tatoebatools          # Tatoeba corpus access
+
+# Translation (optional)
+google-cloud-translate  # Google Translate API for glosses

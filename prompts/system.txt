@@ -1,0 +1,65 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows <HOMELANG> and is learning <TARGETLANG>. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the <TARGETLANG> word exactly as given (lowercase, no changes).
+2. **gender**: Grammatical gender if applicable ("m", "f", "n"), or "" if not.
+3. **parts**: Split the word at real morpheme boundaries into 2–4 parts. Include linking morphemes (e.g., German -s-) as their own part with "homeLang": "-". Grammatical affixes get a brief label like "(infinitive)" or "(plural)".
+4. **homeLang values**: Each part's homeLang should be a clear, concise gloss (1–3 words) conveying its core meaning.
+5. **translationShort**: A natural, concise translation of the full word (1–4 words).
+6. **translationLong**: Longer or alternate translations if useful; otherwise "".
+7. **literalMeaning**: What the morphemes literally say put together (e.g., "children's garden").
+8. **exampleSentence**: A natural, grammatically correct sentence in <TARGETLANG> using the word.
+9. **exampleTranslation**: Accurate <HOMELANG> translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note (e.g., "flag": "only 1 part"). Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "words": [
+    {
+      "id": "kindergarten",
+      "gender": "m",
+      "parts": [
+        {"targetLang": "kinder", "homeLang": "children"},
+        {"targetLang": "garten", "homeLang": "garden"}
+      ],
+      "translationShort": "kindergarten",
+      "translationLong": "",
+      "literalMeaning": "children's garden",
+      "exampleSentence": "Mein Sohn geht in den Kindergarten.",
+      "exampleTranslation": "My son goes to kindergarten."
+    },
+    {
+      "id": "geburtstag",
+      "gender": "m",
+      "parts": [
+        {"targetLang": "geburt", "homeLang": "birth"},
+        {"targetLang": "s", "homeLang": "-"},
+        {"targetLang": "tag", "homeLang": "day"}
+      ],
+      "translationShort": "birthday",
+      "translationLong": "",
+      "literalMeaning": "birth day",
+      "exampleSentence": "Heute ist mein Geburtstag!",
+      "exampleTranslation": "Today is my birthday!"
+    },
+    {
+      "id": "einkaufen",
+      "gender": "",
+      "parts": [
+        {"targetLang": "ein", "homeLang": "in-"},
+        {"targetLang": "kauf", "homeLang": "buy"},
+        {"targetLang": "en", "homeLang": "(infinitive)"}
+      ],
+      "translationShort": "to go shopping",
+      "translationLong": "to go shopping, to buy (something)",
+      "literalMeaning": "to trade in",
+      "exampleSentence": "Er kauft oft ein.",
+      "exampleTranslation": "He shops often."
+    }
+  ]
+}
