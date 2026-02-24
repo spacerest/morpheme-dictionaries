@@ -1,0 +1,563 @@
+{
+  "words": [
+    {
+      "id": "nachdenken",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nach",
+          "homeLang": "after",
+          "homeLangDetails": "As a verb prefix, 'nach-' often conveys following behind or going deeper into something — here, mentally pursuing a thought after it arises."
+        },
+        {
+          "targetLang": "denk",
+          "homeLang": "think"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to think, to reflect",
+      "translationLong": "to think about, to reflect on, to ponder, to contemplate",
+      "exampleSentence": "Ich muss kurz nachdenken, bevor ich antworte.",
+      "exampleTranslation": "I need to think for a moment before I answer."
+    },
+    {
+      "id": "versprechen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ver",
+          "homeLang": "for-",
+          "homeLangDetails": "A prefix with several senses. In 'versprechen', it converts 'speak' into a formal, binding act — something spoken so as to be held to. Contrast: 'sich versprechen' (to misspeak) — the 'going astray' sense of the same prefix."
+        },
+        {
+          "targetLang": "sprech",
+          "homeLang": "speak"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to promise",
+      "translationLong": "to promise, to vow",
+      "exampleSentence": "Er hat mir versprochen, pünktlich zu sein.",
+      "exampleTranslation": "He promised me he would be on time."
+    },
+    {
+      "id": "übertreiben",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "über",
+          "homeLang": "over"
+        },
+        {
+          "targetLang": "treib",
+          "homeLang": "drive",
+          "homeLangDetails": "From 'treiben' (to drive, to propel). The same root appears in 'Antrieb' (drive/motivation) and 'austreiben' (to expel). Here: to drive something past its proper limit."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to exaggerate",
+      "translationLong": "to exaggerate, to overdo, to go too far",
+      "exampleSentence": "Du übertreibst mal wieder total!",
+      "exampleTranslation": "You're totally exaggerating again!"
+    },
+    {
+      "id": "unterstützen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "unter",
+          "homeLang": "under"
+        },
+        {
+          "targetLang": "stütz",
+          "homeLang": "prop up",
+          "homeLangDetails": "From 'stützen' (to support, to prop). Related to 'Stütze' (a support, a pillar). Literally: to place a prop under something."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to support",
+      "translationLong": "to support, to assist, to back",
+      "exampleSentence": "Die Organisation unterstützt Kinder in schwierigen Situationen.",
+      "exampleTranslation": "The organization supports children in difficult situations."
+    },
+    {
+      "id": "entwickeln",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ent",
+          "homeLang": "un-",
+          "homeLangDetails": "A prefix meaning separation or the beginning of a process — often 'un-' or 'de-'. Here it suggests unfolding or unwinding something that was previously wrapped up."
+        },
+        {
+          "targetLang": "wickel",
+          "homeLang": "wrap",
+          "homeLangDetails": "From 'wickeln' (to wrap, to wind). Still used literally: 'ein Baby wickeln' means to wrap/swaddle a baby. 'Entwickeln' is literally to un-wrap — to unfurl potential."
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to develop",
+      "translationLong": "to develop, to evolve, to create",
+      "exampleSentence": "Das Team hat eine neue App entwickelt.",
+      "exampleTranslation": "The team developed a new app."
+    },
+    {
+      "id": "aufgeben",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auf",
+          "homeLang": "up",
+          "homeLangDetails": "As a separable prefix, 'auf-' often implies opening up or relinquishing — here, releasing something upward and away from oneself."
+        },
+        {
+          "targetLang": "geb",
+          "homeLang": "give"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to give up",
+      "translationLong": "to give up, to quit, to surrender; also: to mail (a letter), to place (an order)",
+      "exampleSentence": "Sie hat das Rauchen endlich aufgegeben.",
+      "exampleTranslation": "She finally gave up smoking."
+    },
+    {
+      "id": "vorbereiten",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vor",
+          "homeLang": "pre-",
+          "homeLangDetails": "A prefix meaning 'before' or 'in advance'. Here it places the act of readying something ahead of a future event."
+        },
+        {
+          "targetLang": "bereit",
+          "homeLang": "ready"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to prepare",
+      "translationLong": "to prepare, to get ready",
+      "exampleSentence": "Wir müssen uns gut auf die Prüfung vorbereiten.",
+      "exampleTranslation": "We need to prepare well for the exam."
+    },
+    {
+      "id": "übersetzen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "über",
+          "homeLang": "over, across"
+        },
+        {
+          "targetLang": "setz",
+          "homeLang": "set, place",
+          "homeLangDetails": "From 'setzen' (to set, to place). To translate is to 'set across' — carrying meaning from one language to another, as if crossing a river."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to translate",
+      "translationLong": "to translate; also (separable): to ferry across",
+      "exampleSentence": "Kannst du diesen Brief ins Englische übersetzen?",
+      "exampleTranslation": "Can you translate this letter into English?"
+    },
+    {
+      "id": "erkennen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "er",
+          "homeLang": "re-",
+          "homeLangDetails": "A prefix conveying the completion or achievement of a state. In 'erkennen', it transforms 'kennen' (to know/be familiar with) into the act of actively recognizing — bringing recognition into being."
+        },
+        {
+          "targetLang": "kenn",
+          "homeLang": "know"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to recognize",
+      "translationLong": "to recognize, to identify, to realize, to perceive",
+      "exampleSentence": "Ich habe ihn sofort an seiner Stimme erkannt.",
+      "exampleTranslation": "I recognized him immediately by his voice."
+    },
+    {
+      "id": "aufräumen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auf",
+          "homeLang": "up",
+          "homeLangDetails": "A separable prefix often implying completion or clearing. 'Auf-' here suggests clearing things upward and away — tidying into order."
+        },
+        {
+          "targetLang": "räum",
+          "homeLang": "clear space",
+          "homeLangDetails": "From 'Raum' (space, room) + the verbal suffix. 'Räumen' means to clear or vacate a space. The same root appears in 'Wohnraum' (living space) and 'einräumen' (to put away/concede)."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to tidy up",
+      "translationLong": "to tidy up, to clean up, to put things away",
+      "exampleSentence": "Bitte räum dein Zimmer auf, bevor du rausgehst.",
+      "exampleTranslation": "Please tidy up your room before you go out."
+    },
+    {
+      "id": "sich vorstellen",
+      "article": "",
+      "displayPrefix": "sich",
+      "parts": [
+        {
+          "targetLang": "vor",
+          "homeLang": "in front",
+          "homeLangDetails": "As a separable prefix, 'vor-' places something forward or before. In 'vorstellen', it evokes placing something in front of the mind's eye — or placing oneself in front of another to be seen."
+        },
+        {
+          "targetLang": "stell",
+          "homeLang": "place, put"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to imagine; to introduce oneself",
+      "translationLong": "to imagine, to picture; to introduce oneself",
+      "exampleSentence": "Können Sie sich vorstellen, wie das war?",
+      "exampleTranslation": "Can you imagine what that was like?"
+    },
+    {
+      "id": "sich entscheiden",
+      "article": "",
+      "displayPrefix": "sich",
+      "parts": [
+        {
+          "targetLang": "ent",
+          "homeLang": "away from",
+          "homeLangDetails": "A prefix of separation or decisive departure. In 'entscheiden', it suggests cutting away alternatives — separating from uncertainty."
+        },
+        {
+          "targetLang": "scheid",
+          "homeLang": "divide, cut",
+          "homeLangDetails": "From 'scheiden' (to separate, to part). Related to 'Scheide' (sheath, divide) and 'Abschied' (farewell — a parting). The idea: to make a clean cut between options."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to decide",
+      "translationLong": "to decide, to make a decision, to choose",
+      "exampleSentence": "Wir müssen uns bis morgen entscheiden.",
+      "exampleTranslation": "We need to make a decision by tomorrow."
+    },
+    {
+      "id": "sich bewerben",
+      "article": "",
+      "displayPrefix": "sich",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(on)",
+          "homeLangDetails": "A prefix that makes intransitive verbs transitive or directs action toward an object. Here it focuses 'werben' (to advertise, to court) onto a position or role — to campaign for oneself."
+        },
+        {
+          "targetLang": "werb",
+          "homeLang": "solicit, advertise",
+          "homeLangDetails": "From 'werben' (to advertise, to recruit, to court). Related to 'Werbung' (advertising). To apply is to actively court or pitch for a position."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to apply",
+      "translationLong": "to apply (for a job, a place), to put oneself forward",
+      "exampleSentence": "Sie hat sich um die Stelle als Ingenieurin beworben.",
+      "exampleTranslation": "She applied for the position as an engineer."
+    },
+    {
+      "id": "verabschieden",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ver",
+          "homeLang": "away",
+          "homeLangDetails": "Here 'ver-' intensifies or enacts the finality of the action — bringing a parting to completion."
+        },
+        {
+          "targetLang": "abschied",
+          "homeLang": "farewell",
+          "homeLangDetails": "'Abschied' itself comes from 'ab-' (away) + 'scheiden' (to separate/part). To 'verabschieden' someone is to formally enact that parting. Used also for passing laws: the parliament 'verabschiedet' a bill — sending it on its way."
+        }
+      ],
+      "translationShort": "to say goodbye",
+      "translationLong": "to say goodbye to, to bid farewell; also: to pass (a law)",
+      "exampleSentence": "Wir haben uns am Bahnhof voneinander verabschiedet.",
+      "exampleTranslation": "We said goodbye to each other at the train station."
+    },
+    {
+      "id": "verschlimmbessern",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ver",
+          "homeLang": "mis-",
+          "homeLangDetails": "Here 'ver-' carries its 'going astray' sense — the attempted improvement goes wrong."
+        },
+        {
+          "targetLang": "schlimm",
+          "homeLang": "worse"
+        },
+        {
+          "targetLang": "besser",
+          "homeLang": "better"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to make things worse while trying to improve them",
+      "translationLong": "to worsen something through misguided attempts at improvement",
+      "exampleSentence": "Er hat versucht, den Kratzer auszubessern, aber dabei nur alles verschlimmbessert.",
+      "exampleTranslation": "He tried to fix the scratch but only made everything worse in the process."
+    },
+    {
+      "id": "fernweh",
+      "article": "das",
+      "parts": [
+        {
+          "targetLang": "fern",
+          "homeLang": "far, distant"
+        },
+        {
+          "targetLang": "weh",
+          "homeLang": "ache, pain",
+          "homeLangDetails": "From 'Weh' (pain, ache) — the same root as in 'Heimweh' (homesickness, literally 'home-ache'). 'Fernweh' is its antonym: an aching pull toward distant places rather than toward home."
+        }
+      ],
+      "translationShort": "wanderlust",
+      "translationLong": "a longing for distant places, the ache of wanderlust",
+      "exampleSentence": "Das Fernweh packt mich jeden Frühling aufs Neue.",
+      "exampleTranslation": "The urge to travel grips me anew every spring."
+    },
+    {
+      "id": "schadenfreude",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "schaden",
+          "homeLang": "harm, damage"
+        },
+        {
+          "targetLang": "freude",
+          "homeLang": "joy, pleasure"
+        }
+      ],
+      "translationShort": "schadenfreude",
+      "translationLong": "pleasure derived from another's misfortune",
+      "exampleSentence": "Es war pure Schadenfreude, als er sah, wie sein Rivale stolperte.",
+      "exampleTranslation": "It was pure schadenfreude when he saw his rival stumble."
+    },
+    {
+      "id": "dankbarkeit",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "dank",
+          "homeLang": "thanks"
+        },
+        {
+          "targetLang": "bar",
+          "homeLang": "-able",
+          "homeLangDetails": "The suffix '-bar' is equivalent to English '-able' or '-ful' — indicating capacity or quality. 'Dankbar' means thankful/grateful (capable of giving thanks). See also: 'essbar' (edible), 'tragbar' (wearable)."
+        },
+        {
+          "targetLang": "keit",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "The suffix '-keit' (like '-heit') forms abstract nouns from adjectives. 'Dankbarkeit' is the state or quality of being thankful."
+        }
+      ],
+      "translationShort": "gratitude",
+      "translationLong": "gratitude, thankfulness, gratefulness",
+      "exampleSentence": "Sie empfand tiefe Dankbarkeit für die Hilfe ihrer Freunde.",
+      "exampleTranslation": "She felt deep gratitude for her friends' help."
+    },
+    {
+      "id": "sehnsucht",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "sehn",
+          "homeLang": "yearn, long",
+          "homeLangDetails": "From 'sich sehnen' (to yearn, to long for). The verb may itself relate to an older sense of 'sinnen' (to sense/to crave) blended with physical aching. The longing here is bodily as much as emotional."
+        },
+        {
+          "targetLang": "sucht",
+          "homeLang": "craving, addiction",
+          "homeLangDetails": "From 'Sucht' (addiction, compulsive craving) — related to 'suchen' (to seek). The same element appears in 'Eifersucht' (jealousy) and 'Gelbsucht' (jaundice). 'Sehnsucht' is a yearning so deep it feels compulsive."
+        }
+      ],
+      "translationShort": "longing, yearning",
+      "translationLong": "deep longing, intense yearning, wistful desire",
+      "exampleSentence": "Er empfand eine tiefe Sehnsucht nach seiner alten Heimat.",
+      "exampleTranslation": "He felt a deep longing for his old homeland."
+    },
+    {
+      "id": "gemütlichkeit",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "gemüt",
+          "homeLang": "spirit, heart",
+          "homeLangDetails": "'Gemüt' refers to the inner emotional temperament or disposition — the warmth of a person's soul. Related to 'Mut' (courage, spirit) and 'gemütlich' (cozy, warm, pleasant)."
+        },
+        {
+          "targetLang": "lich",
+          "homeLang": "-ly, -like",
+          "homeLangDetails": "An adjectival suffix equivalent to English '-ly' or '-like'. 'Gemütlich' means warm, cozy, convivial."
+        },
+        {
+          "targetLang": "keit",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "Converts the adjective 'gemütlich' into an abstract noun — the quality or atmosphere of being gemütlich."
+        }
+      ],
+      "translationShort": "coziness, conviviality",
+      "translationLong": "a warm, cozy, convivial atmosphere; the quality of comfortable well-being",
+      "exampleSentence": "Das kleine Café verströmte eine echte Gemütlichkeit.",
+      "exampleTranslation": "The little café exuded a genuine sense of coziness."
+    },
+    {
+      "id": "wanderlust",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "wander",
+          "homeLang": "hike, roam",
+          "homeLangDetails": "'Wandern' in German means specifically to hike or roam on foot — not just to wander aimlessly. It has a wholesome, purposeful sense of walking through nature or countryside."
+        },
+        {
+          "targetLang": "lust",
+          "homeLang": "desire, pleasure",
+          "homeLangDetails": "'Lust' in German means desire, urge, or pleasure — broader than the English 'lust'. 'Ich habe Lust' simply means 'I feel like (doing something)'. Here: the pleasurable urge to hike and roam."
+        }
+      ],
+      "translationShort": "wanderlust",
+      "translationLong": "love of hiking and roaming; the urge to travel and explore",
+      "exampleSentence": "Die Wanderlust trieb sie jedes Wochenende in die Berge.",
+      "exampleTranslation": "The love of hiking drove her into the mountains every weekend."
+    },
+    {
+      "id": "weltschmerz",
+      "article": "der",
+      "parts": [
+        {
+          "targetLang": "welt",
+          "homeLang": "world"
+        },
+        {
+          "targetLang": "schmerz",
+          "homeLang": "pain, grief"
+        }
+      ],
+      "translationShort": "world-weariness",
+      "translationLong": "world-weariness; anguish at the gap between the world as it is and as it should be",
+      "exampleSentence": "Nach den Nachrichten überfiel ihn wieder dieser typische Weltschmerz.",
+      "exampleTranslation": "After the news, that typical sense of world-weariness washed over him again."
+    },
+    {
+      "id": "mitgefühl",
+      "article": "das",
+      "parts": [
+        {
+          "targetLang": "mit",
+          "homeLang": "with, together"
+        },
+        {
+          "targetLang": "gefühl",
+          "homeLang": "feeling",
+          "homeLangDetails": "From 'Gefühl' (feeling, emotion) — itself from 'fühlen' (to feel). 'Mitgefühl' is feeling-with: sharing in another's emotional experience."
+        }
+      ],
+      "translationShort": "compassion, empathy",
+      "translationLong": "compassion, empathy, sympathy",
+      "exampleSentence": "Sie zeigte großes Mitgefühl für die Betroffenen.",
+      "exampleTranslation": "She showed great compassion for those affected."
+    },
+    {
+      "id": "torschlusspanik",
+      "article": "die",
+      "parts": [
+        {
+          "targetLang": "tor",
+          "homeLang": "gate"
+        },
+        {
+          "targetLang": "schluss",
+          "homeLang": "closing",
+          "homeLangDetails": "From 'schließen' (to close, to shut). 'Torschluss' literally means the closing of the gate — historically the moment city gates shut for the night, after which entry was impossible."
+        },
+        {
+          "targetLang": "panik",
+          "homeLang": "panic"
+        }
+      ],
+      "translationShort": "last-chance anxiety",
+      "translationLong": "fear that time is running out; panic at a closing window of opportunity",
+      "exampleSentence": "Mit dreißig begann sie, eine leichte Torschlusspanik wegen Kindern zu spüren.",
+      "exampleTranslation": "At thirty, she began to feel a mild panic about running out of time to have children."
+    },
+    {
+      "id": "gleichmut",
+      "article": "der",
+      "parts": [
+        {
+          "targetLang": "gleich",
+          "homeLang": "equal, same",
+          "homeLangDetails": "'Gleich' means equal, same, or level. In 'Gleichmut', it suggests an even, unvarying inner state — a spirit that stays the same regardless of circumstance."
+        },
+        {
+          "targetLang": "mut",
+          "homeLang": "spirit, courage",
+          "homeLangDetails": "'Mut' means courage or spirit — the inner disposition of a person. Related to 'Gemüt' (temperament) and 'mutig' (brave). Here it refers to the quality of one's inner bearing: an equable, steady spirit."
+        }
+      ],
+      "translationShort": "equanimity",
+      "translationLong": "equanimity, composure, even-temperedness",
+      "exampleSentence": "Sie begegnete den schlechten Nachrichten mit bewundernswertem Gleichmut.",
+      "exampleTranslation": "She faced the bad news with admirable equanimity."
+    }
+  ]
+}
