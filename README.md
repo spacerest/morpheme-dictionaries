@@ -2,6 +2,287 @@
 
 JSON dictionaries for a language-learning word puzzle game. Each entry splits a target-language word into its morphemes, with glosses, a translation, and an example sentence.
 
+All dictionary data lives in a single SQLite database (`morpheme_dicts.db`). JSON files in `dicts/` are exported from it — never edit them directly.
+
+## Quick start
+
+```bash
+pip install anthropic
+export ANTHROPIC_API_KEY=sk-ant-...
+
+# Generate entries for a new word list (writes to DB):
+python generate_claude.py \
+  --input word-lists/de-en-words.txt \
+  --home English --target German
+
+# Export to JSON for the app:
+python export_to_json.py --all
+```
+
+---
+
+## Database
+
+### Browsing the DB
+
+Install [DB Browser for SQLite](https://sqlitebrowser.org/):
+
+```bash
+sudo apt-get install sqlitebrowser   # Ubuntu/Debian
+sqlitebrowser morpheme_dicts.db
+```
+
+Useful queries:
+
+```sql
+-- Per-pair dashboard: status, goal, current count, reviewed count
+SELECT m.target_lang || '-' || m.home_lang AS pair,
+       m.status, m.priority, m.target_count,
+       COUNT(e.word_id) AS current,
+       SUM(e.review_status = 'passed') AS passed
+FROM lang_pair_meta m
+LEFT JOIN entries e USING (target_lang, home_lang)
+GROUP BY m.target_lang, m.home_lang
+ORDER BY m.priority NULLS LAST, pair;
+
+-- Show all German-English entries with their parts (entry_overview view)
+SELECT * FROM entry_overview WHERE pair = 'de-en';
+
+-- Entries still needing review for a pair
+SELECT word_id, translation_short FROM entries
+WHERE target_lang='de' AND home_lang='en' AND review_status IS NULL
+ORDER BY rowid;
+
+-- Find open verification flags
+SELECT word_id, category, issue FROM verification_flags
+WHERE target_lang='en' AND home_lang='tr' AND status='open';
+```
+
+### DB tables
+
+| Table | Description |
+|---|---|
+| `entries` | One row per word. Primary key: `(target_lang, home_lang, word_id)` |
+| `parts` | Morpheme breakdown. FK → entries, ordered by `part_index` |
+| `lang_pair_meta` | Per-pair goals, priority, status, and notes |
+| `verification_flags` | Flags from `verify_dict.py` (open/fixed/dismissed) |
+| `known_discrepancies` | Confirmed errors fed back into generation prompts |
+| `morphemes` | Glossary entries from `prompts/*/glossary.txt` |
+| `wordlist_words` | Word list tracking (pending/done/skipped) |
+
+#### entries columns of note
+
+| Column | Description |
+|---|---|
+| `review_status` | `NULL` = unreviewed, `'passed'` = approved, `'needs_work'` = flagged |
+| `import` | `1` = include in exports, `0` = exclude |
+| `export_dict_name` | Override the output filename for this entry's pair |
+
+#### lang_pair_meta
+
+Tracks per-language-pair goals and status. Auto-populated from `entries` on first open; edit directly in DB Browser or via `set_pair_meta()`.
+
+| Column | Description |
+|---|---|
+| `status` | `active`, `parked`, or `shipped` |
+| `priority` | Integer rank (1 = highest). NULL = unprioritised |
+| `target_count` | Goal number of words to ship for this pair |
+| `notes` | Free-text notes |
+
+Dashboard query:
+
+```sql
+SELECT m.target_lang || '-' || m.home_lang AS pair,
+       m.status, m.priority, m.target_count,
+       COUNT(e.word_id) AS current,
+       SUM(e.review_status = 'passed') AS passed,
+       m.notes
+FROM lang_pair_meta m
+LEFT JOIN entries e USING (target_lang, home_lang)
+GROUP BY m.target_lang, m.home_lang
+ORDER BY m.priority NULLS LAST, pair;
+```
+
+Or from Python:
+
+```python
+from morpheme_db import get_db, set_pair_meta
+conn = get_db()
+set_pair_meta(conn, 'de', 'en', priority=1, target_count=100, notes='needs curation')
+set_pair_meta(conn, 'ar', 'en', status='parked')
+```
+
+### Import / export
+
+```bash
+# Import all existing JSON + review files into DB (safe to re-run)
+python import_to_db.py
+
+# Export DB → JSON (default: dicts/)
+python export_to_json.py --all
+python export_to_json.py --target-lang tr --home-lang en
+
+# Export to app assets
+python export_to_json.py --all --app
+```
+
+---
+
+## Step-by-step guide
+
+### 1. Prerequisites
+
+```bash
+pip install anthropic
+```
+
+Get an Anthropic API key from [console.anthropic.com](https://console.anthropic.com) and set it:
+
+```bash
+export ANTHROPIC_API_KEY=sk-ant-...
+# or use the project-specific alias:
+export MORPHEME_SORT_ANTHROPIC_API_KEY=sk-ant-...
+```
+
+### 2. Generate a word list
+
+```bash
+python generate_wordlists.py --lang de   # generates word-lists/de-en-words.txt
+```
+
+Or write one manually — one word per line. Use `filter_words.py` to clean a raw corpus:
+
+```bash
+python filter_words.py \
+  --input word-lists/raw.txt \
+  --output word-lists/filtered.txt \
+  --min-len 6 --max-len 25
+```
+
+### 3. Generate the dictionary
+
+```bash
+python generate_claude.py \
+  --input word-lists/de-en-words.txt \
+  --home English --target German
+```
+
+Entries are written to `morpheme_dicts.db` after every batch. If interrupted, re-run the same command — words already in the DB are skipped automatically.
+
+**Cost:** roughly €4–6 per 1000 words using the default Sonnet model. Use `--model claude-haiku-4-5-20251001` to cut costs by ~4x at some quality trade-off.
+
+#### generate_claude.py options
+
+| Flag | Default | Description |
+|---|---|---|
+| `--input` | (required) | Word list file |
+| `--home` | (required) | Home language, e.g. `English` |
+| `--target` | (required) | Target language, e.g. `German` |
+| `--api-key` | env var | Anthropic API key |
+| `--batch-size` | `15` | Words per API call |
+| `--model` | `claude-sonnet-4-6` | Claude model |
+| `--db` | `morpheme_dicts.db` | DB file path |
+
+### 3b. Re-gloss for additional home languages
+
+Generate once, translate cheaply for each additional home language using Haiku:
+
+```bash
+# Generate the reference dict (English words, English glosses)
+python generate_claude.py \
+  --input word-lists/en-words.txt \
+  --target English --home English
+
+# Re-gloss for each additional home language (reads/writes DB)
+python regloss_dict.py \
+  --source-pair en-en --target-pair en-de \
+  --source-home English --home German
+
+python regloss_dict.py \
+  --source-pair en-en --target-pair en-fr \
+  --source-home English --home French
+```
+
+Re-glossing translates `homeLang`, `homeLangDetails`, `translationShort`, `translationLong`, and `exampleTranslation`, leaving all target-language content unchanged.
+
+#### regloss_dict.py options (DB mode)
+
+| Flag | Default | Description |
+|---|---|---|
+| `--source-pair` | (required) | Source lang pair in DB, e.g. `en-en` |
+| `--target-pair` | (required) | Output lang pair, e.g. `en-de` |
+| `--source-home` | (required) | Home language name of the source |
+| `--home` | (required) | Target home language name |
+| `--api-key` | env var | Anthropic API key |
+| `--batch-size` | `10` | Entries per API call |
+| `--model` | `claude-haiku-4-5-20251001` | Claude model |
+
+### 4. Sanity check
+
+Catch structural problems before spending API calls on LLM verification:
+
+```bash
+python sanity_check.py               # all pairs in DB
+python sanity_check.py --quiet       # only show pairs with issues
+python sanity_check.py --target-lang de --home-lang en   # single pair
+```
+
+### 5. Verify the output
+
+Run a second, cheaper pass to catch errors like false cognates, frozen compounds, and wrong morpheme boundaries:
+
+```bash
+python verify_dict.py --target-lang de --home-lang en
+```
+
+Flags are inserted into the `verification_flags` DB table and also written to `review/flagged-de-en.json` for human review.
+
+### 6. Log confirmed issues
+
+For each flag you agree with, it gets stored in `known_discrepancies`. Future generation runs will automatically avoid those errors. You can also add them manually:
+
+```bash
+# Insert directly into DB (or edit review/discrepancies.json + re-import)
+sqlite3 morpheme_dicts.db "
+INSERT INTO known_discrepancies (word_id, category, field, issue, correction, status)
+VALUES ('beispiel', 'frozen_compound', 'parts[1].homeLang',
+        'spiel here is archaic spel (narrative), not spielen (to play)',
+        'note in homeLangDetails that this is a frozen compound', 'confirmed');
+"
+```
+
+### 7. Fix flagged entries
+
+```bash
+python fix_dict.py --target-lang de --home-lang en
+```
+
+Fixes are written back to the DB and flags are marked resolved.
+
+### 8. Interactive cleanup (optional)
+
+For fine-grained review of individual entries, paste `prompts/cleanup-prompt.md` into a Claude chat session along with the entries. It walks through them one by one.
+
+---
+
+## Full pipeline (XX-en dicts)
+
+```bash
+bash pipeline_xxen.sh
+```
+
+Or step by step:
+
+```bash
+bash generate_all_xxen.sh           # generate all XX-en dicts
+python sanity_check.py              # structural checks
+bash verify_all_xxen.sh             # LLM verification (parallel, 3 jobs)
+# fix step runs automatically in pipeline_xxen.sh
+python export_to_json.py --all      # export to dicts/ when ready
+```
+
+---
+
 ## Dictionary format
 
 ```json
@@ -9,15 +290,14 @@ JSON dictionaries for a language-learning word puzzle game. Each entry splits a 
   "words": [
     {
       "id": "geburtstag",
-      "gender": "m",
+      "article": "der",
       "parts": [
         {"targetLang": "geburt", "homeLang": "birth"},
-        {"targetLang": "s", "homeLang": "-"},
+        {"targetLang": "s", "homeLang": "-", "homeLangDetails": "A Fugenlaut connecting element..."},
         {"targetLang": "tag", "homeLang": "day"}
       ],
       "translationShort": "birthday",
       "translationLong": "",
-      "literalMeaning": "birth day",
       "exampleSentence": "Heute ist mein Geburtstag!",
       "exampleTranslation": "Today is my birthday!"
     }
@@ -25,82 +305,97 @@ JSON dictionaries for a language-learning word puzzle game. Each entry splits a 
 }
 ```
 
-## Generating a dictionary with Claude
+**Fields:**
 
-`generate_claude.py` batches a word list through the Claude API and writes a JSON dictionary.
+| Field | Description |
+|---|---|
+| `id` | The target-language word |
+| `article` | Definite article if applicable (`der`, `die`, `das`, `le`, etc.), or `""` |
+| `displayPrefix` | Optional particle shown before the word in UI but not a game block (e.g. `sich` for reflexive verbs) |
+| `parts` | Array of morphemes: `targetLang`, `homeLang`, optional `homeLangDetails` |
+| `translationShort` | Natural 1–4 word translation |
+| `translationLong` | Longer or alternate meanings, or `""` |
+| `exampleSentence` | A sentence in the target language |
+| `exampleTranslation` | Translation of the example |
+| `flag` | Present only on entries with unusual morpheme counts |
 
-### Setup
-
-```bash
-pip install anthropic
-```
-
-### Usage
-
-```bash
-python generate_claude.py \
-  --input word-lists/de-en.txt \
-  --output dicts/de-en.json \
-  --home English \
-  --target German \
-  --api-key sk-ant-...
-```
-
-The `--api-key` argument is optional if the `ANTHROPIC_API_KEY` environment variable is set:
-
-```bash
-export ANTHROPIC_API_KEY=sk-ant-...
-python generate_claude.py --input word-lists/de-en.txt --output dicts/de-en.json --home English --target German
-```
-
-### All options
-
-| Flag | Default | Description |
-|---|---|---|
-| `--input` | (required) | Word list file, one word per line |
-| `--output` | (required) | Output JSON file |
-| `--home` | (required) | Home language, e.g. `English` |
-| `--target` | (required) | Target language, e.g. `German` |
-| `--api-key` | env var | Anthropic API key |
-| `--batch-size` | `25` | Words per API call |
-| `--model` | `claude-sonnet-4-6` | Claude model to use |
-
-### Resuming interrupted runs
-
-Progress is saved after every batch. If a run is interrupted, re-run the same command — words already present in the output file are skipped automatically.
-
-### Flagged entries
-
-Words with only 1 morpheme part or 5+ parts are flagged in the output (the game expects 2–4 parts per word). A summary is printed at the end of the run.
+---
 
 ## Prompts
 
-The Claude prompts are in `prompts/`:
+Prompts are organized by language pair. The script looks for a pair-specific file first (e.g. `prompts/de-en/system.txt`), then falls back to the top-level shared file.
 
-- `prompts/system.txt` — system prompt sent once per session
-- `prompts/user.txt` — user message template sent with each batch
-- `prompts/create-dict-prompt.md` — human-readable reference for both of the above
-- `prompts/cleanup-prompt.md` — interactive prompt for reviewing and editing entries one-by-one
+| File | Description |
+|---|---|
+| `prompts/system.txt` | Generic system prompt (fallback for new language pairs) |
+| `prompts/user.txt` | User message template sent with each batch |
+| `prompts/verify.txt` | Verification prompt for the second-pass checker |
+| `prompts/{pair}/system.txt` | Language-pair-specific system prompt with tuned examples |
+| `prompts/{pair}/glossary.txt` | Morpheme glosses; auto-fills `homeLangDetails` during generation |
+| `prompts/regloss.txt` | Prompt for re-glossing into a different home language |
+| `prompts/cleanup-prompt.md` | Interactive one-by-one review prompt |
+
+Language pair directories use ISO 639-1 codes: `de-en` (German → English), `en-fr` (English → French), etc.
+
+**Supported pairs:** `de-en`, `fr-en`, `es-en`, `it-en`, `pt-en`, `ru-en`, `zh-en`, `ja-en`, `ko-en`, `ar-en`, `nl-en`, `pl-en`, `sv-en`, `da-en`, `no-en`, `fi-en`, `tr-en`, and `en-*` versions of each.
+
+### Adding a new language pair
+
+```bash
+# Populate the glossary template for the new pair
+nano prompts/fr-en/glossary.txt
+
+# Optionally copy and adapt the system prompt
+cp prompts/de-en/system.txt prompts/fr-en/system.txt
+# edit to replace German examples with French ones
+```
+
+If no `system.txt` exists in the pair directory, the script falls back to `prompts/system.txt`.
+
+---
 
 ## Files
 
 ```
-generate_claude.py          Claude-based dictionary generator
-generate_dictionary.py      Rule-based generator (compound-split + Google Translate + Tatoeba)
-requirements.txt
+morpheme_dicts.db           Single source of truth (SQLite)
+morpheme_db.py              DB helper module (schema + CRUD)
+
+generate_claude.py          Claude-based dictionary generator (→ DB)
+regloss_dict.py             Re-gloss a dict for a different home language (→ DB)
+verify_dict.py              Second-pass verification using Claude (flags → DB)
+fix_dict.py                 Fix flagged entries using Claude (→ DB)
+sanity_check.py             Fast structural checks (reads DB)
+import_to_db.py             One-time import from JSON files into DB
+export_to_json.py           Export DB → JSON files (for app deployment)
+generate_wordlists.py       Generate word lists via Claude
+filter_words.py             Filter and deduplicate a raw word list
+
+generate_all_xxen.sh        Generate all XX-en dicts
+verify_all_xxen.sh          Verify all XX-en dicts (parallel)
+pipeline_xxen.sh            Full pipeline: generate → check → verify → fix
 
 dicts/
-  de-en-1.json              German–English, version 1
-  de-en-2.json              German–English, version 2
-  de-en-regenerated.json    German–English, regenerated
-  ru-en-1.json              Russian–English, version 1
+  de-en.json                German-English (exported from DB)
+  en-tr.json                English-Turkish
+  ...                       (all other language pairs)
 
 word-lists/
-  de-en.txt                 German word list (907 words)
+  de-en-words.txt           German word list for generation
+  ...
+
+review/
+  discrepancies.json        Confirmed errors (feeds back into generation)
+  flagged-*.json            Output from verify_dict.py, for human review
 
 prompts/
-  system.txt                Claude system prompt
-  user.txt                  Claude user message template
-  create-dict-prompt.md     Human-readable prompt reference
-  cleanup-prompt.md         Interactive review prompt
+  system.txt                Generic system prompt (fallback)
+  user.txt                  Shared batch message template
+  verify.txt                Verification prompt
+  de-en/                    German → English (complete)
+    system.txt
+    glossary.txt
+  en-de/                    English → German (glossary needs translation)
+    glossary.txt
+  fr-en/ es-en/ ru-en/ ...  Other xx-en pairs
+  en-fr/ en-es/ en-ru/ ...  Other en-xx pairs
 ```

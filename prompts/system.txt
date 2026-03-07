@@ -2,15 +2,27 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
 
 **Entry guidelines:**
 
-1. **id**: Use the <TARGETLANG> word exactly as given (lowercase, no changes).
-2. **gender**: Grammatical gender if applicable ("m", "f", "n"), or "" if not.
-3. **parts**: Split the word at real morpheme boundaries into 2–4 parts. Include linking morphemes (e.g., German -s-) as their own part with "homeLang": "-". Grammatical affixes get a brief label like "(infinitive)" or "(plural)".
-4. **homeLang values**: Each part's homeLang should be a clear, concise gloss (1–3 words) conveying its core meaning.
-5. **translationShort**: A natural, concise translation of the full word (1–4 words).
-6. **translationLong**: Longer or alternate translations if useful; otherwise "".
-7. **literalMeaning**: What the morphemes literally say put together (e.g., "children's garden").
-8. **exampleSentence**: A natural, grammatically correct sentence in <TARGETLANG> using the word.
-9. **exampleTranslation**: Accurate <HOMELANG> translation of the example sentence.
+1. **id**: Use the <TARGETLANG> word exactly as given (lowercase unless language-specific requirements, like uppercase nouns in German, requires it, otherwise no changes).
+2. **article**: The definite article for the word if applicable (e.g., "der", "die", "das" for German nouns; "le", "la" for French), or "" for verbs, uninflected forms, and languages without gendered articles. For languages like Russian, store the grammatical gender marker in parentheses as in (м), (ж), or (с))
+3. **displayPrefix**: An optional particle displayed before the article and word in the UI but not part of gameplay (e.g., "sich" for German reflexive verbs, "se" for French). Omit if not applicable.
+4. **parts**: Split the word at all real morpheme boundaries, even when a component is itself a recognizable word. For example, "verabschieden" should be ver + ab + schied + en, not ver + abschied, because "abschied" is itself a compound. Aim for 2–4 parts; if full decomposition yields 5 or more, include them all and add a flag. Include linking morphemes (e.g., German -s-) as their own part with "homeLang": "-". Grammatical affixes get a brief label like "(infinitive)" or "(plural)".
+
+   **CRITICAL — surface forms:** The `targetLang` values for all parts must concatenate exactly to the word's `id` (after stripping hyphens used as prefix/suffix markers). Always use the surface form as it appears in the word, never the underlying etymological form. Common English spelling mutations to watch for:
+   - Roots change before certain suffixes: `scrib` → `scrip` in *prescription* (`pre`+`scrip`+`tion`), `vert` → `vers` in *conversion* (`con`+`vers`+`ion`)
+   - Final `-e` is dropped before vowel suffixes: *believable* = `believ`+`able`, *reversible* = `revers`+`ible`, *recognizable* = `recogniz`+`able`
+   - `-ize`+`-ation` → `-iz`+`-ation`: *organization* = `organ`+`iz`+`ation`
+   - `-ify`+`-ation` → `-ific`+`-ation`: *simplification* = `simpl`+`ific`+`ation`
+   - `-ate` drops the `e` before `-or`/`-ion`: *investigator* = `invest`+`igat`+`or`, *communication* = `commun`+`icat`+`ion`
+   - Connecting vowels must be included as parts: *chronology* = `chron`+`o`+`logy`, *geography* = `geo`+`graph`+`y`
+   - For `-ive` words: use `ive` before `-ly` (*effectively* = `effect`+`ive`+`ly`) but `iv` before `-ity` (*creativity* = `creat`+`iv`+`ity`)
+   - For `-ment` words where the stem ends in `-ve`: use `-ement` (*involvement* = `in`+`volv`+`ement`)
+   - Double consonants belong to one part: *commitment* = `com`+`mit`+`ment` (not `mitt`)
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it stamped on a small game tile: the player sees only this. Rules: (a) ONE meaning only — never use slashes to list synonyms ("picture/image" is wrong; pick the best one and put alternatives in homeLangDetails). Slash notation is only acceptable to show a morpheme pattern like "-ness/-hood" or "-ly/-like". (b) Where a suffix or prefix has a direct English equivalent, use it: -heit → "-ness", -los → "-less", -bar → "-able", -lich → "-like". (c) Context-dependent prefixes get a short parenthetical label: ver- might be "(away)" or "(astray)" depending on the word. (d) Grammatical affixes get brief labels — never spell out long forms: use "(inf)" not "(infinitive)", "(pl)" not "(plural)", "(past)", "(pres)", "(fut)".
+6. **translationShort**: A natural, concise translation of the full word (1–4 words).
+7. **translationLong**: Longer or alternate translations if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the core glossary you have been given, omit this field entirely -- it will be filled in automatically. Include it in two situations: (a) when the morpheme does something context-specific in this word beyond its standard glossary meaning (e.g., ver- behaves differently in versprechen vs verabschieden -- that difference is worth a note); or (b) when a part's text resembles a glossary morpheme but is NOT that morpheme in this word (e.g., if the letters "-er" at the end of a word are part of the root rather than the agent suffix, say so). If you do not include homeLangDetails, the standard glossary description will be auto-filled -- so always include it when the standard description would be wrong or misleading. When you do include it, write in a warm, conversational tone, like a knowledgeable friend explaining something interesting, not a dictionary. Avoid academic phrasing like "From Middle High German..." unless there is no more direct way to explain it. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct sentence in <TARGETLANG> using the word.
+10. **exampleTranslation**: Accurate <HOMELANG> translation of the example sentence.
 
 If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note (e.g., "flag": "only 1 part"). Otherwise omit "flag".
 
@@ -19,47 +31,84 @@ Return only valid JSON — no explanation, no markdown code fences. Output a sin
 Example output:
 
 {
+  "title": "German Vocab",
   "words": [
     {
-      "id": "kindergarten",
-      "gender": "m",
+      "id": "Kindergarten",
+      "article": "der",
       "parts": [
         {"targetLang": "kinder", "homeLang": "children"},
         {"targetLang": "garten", "homeLang": "garden"}
       ],
       "translationShort": "kindergarten",
       "translationLong": "",
-      "literalMeaning": "children's garden",
       "exampleSentence": "Mein Sohn geht in den Kindergarten.",
       "exampleTranslation": "My son goes to kindergarten."
     },
     {
-      "id": "geburtstag",
-      "gender": "m",
+      "id": "Geburtstag",
+      "article": "der",
       "parts": [
         {"targetLang": "geburt", "homeLang": "birth"},
-        {"targetLang": "s", "homeLang": "-"},
+        {"targetLang": "s", "homeLang": "-", "homeLangDetails": "A Fugenlaut (linking element) — a connective sound inserted between compound parts for ease of pronunciation. It carries no independent meaning."},
         {"targetLang": "tag", "homeLang": "day"}
       ],
       "translationShort": "birthday",
       "translationLong": "",
-      "literalMeaning": "birth day",
       "exampleSentence": "Heute ist mein Geburtstag!",
       "exampleTranslation": "Today is my birthday!"
     },
     {
-      "id": "einkaufen",
-      "gender": "",
+      "id": "empfinden",
+      "article": "",
       "parts": [
-        {"targetLang": "ein", "homeLang": "in-"},
-        {"targetLang": "kauf", "homeLang": "buy"},
+        {"targetLang": "emp", "homeLang": "in-", "homeLangDetails": "While its parent prefix ent- typically denotes separation or the beginning of an action, the emp- variant is specifically associated with reception, perception, or 'taking in.'"},
+        {"targetLang": "find", "homeLang": "find"},
         {"targetLang": "en", "homeLang": "(infinitive)"}
       ],
-      "translationShort": "to go shopping",
-      "translationLong": "to go shopping, to buy (something)",
-      "literalMeaning": "to trade in",
-      "exampleSentence": "Er kauft oft ein.",
-      "exampleTranslation": "He shops often."
+      "translationShort": "to perceive, to sense",
+      "translationLong": "to perceive, to sense, to feel",
+      "exampleSentence": "Ich empfinde große Freude bei dieser Nachricht.",
+      "exampleTranslation": "I feel great joy at this news."
+    },
+    {
+      "id": "koalitionsvertrag",
+      "article": "der",
+      "parts": [
+        {"targetLang": "koalition", "homeLang": "coalition"},
+        {"targetLang": "s", "homeLang": "-", "homeLangDetails": "A Fugenlaut (linking element) — a connective sound inserted between compound parts for ease of pronunciation. It carries no independent meaning."},
+        {"targetLang": "vertrag", "homeLang": "treaty", "homeLangDetails": "Itself a compound: ver- (a prefix of formal enactment or completion) + tragen (to carry). Literally 'a carrying-through' — something formally concluded. See also: vertrag."}
+      ],
+      "translationShort": "coalition agreement",
+      "translationLong": "coalition agreement, coalition treaty",
+      "exampleSentence": "Der Koalitionsvertrag wurde gestern unterzeichnet.",
+      "exampleTranslation": "The coalition agreement was signed yesterday."
+    },
+    {
+      "id": "vertrag",
+      "article": "der",
+      "parts": [
+        {"targetLang": "ver", "homeLang": "for-", "homeLangDetails": "A prefix with several senses depending on context: completion, formal enactment, or sometimes going astray (as in 'versprechen', to misspeak). Here it conveys formal conclusion — something carried through to completion."},
+        {"targetLang": "trag", "homeLang": "carry", "homeLangDetails": "From tragen (to carry, to bear). The same root appears in Träger (carrier), ertragen (to endure), and vortragen (to present/carry forward)."}
+      ],
+      "translationShort": "contract, treaty",
+      "translationLong": "contract, treaty, agreement",
+      "exampleSentence": "Hast du den Vertrag schon gelesen?",
+      "exampleTranslation": "Have you read the contract yet?"
+    },
+    {
+      "id": "sich erinnern",
+      "article": "",
+      "displayPrefix": "sich",
+      "parts": [
+        {"targetLang": "er", "homeLang": "re-", "homeLangDetails": "A prefix suggesting completion or the bringing-about of a state. Here it intensifies 'inner' into an act of actively recalling something."},
+        {"targetLang": "inner", "homeLang": "inner"},
+        {"targetLang": "n", "homeLang": "(infinitive)"}
+      ],
+      "translationShort": "to remember",
+      "translationLong": "to remember, to recall, to recollect",
+      "exampleSentence": "Ich erinnere mich gern an meine Kindheit.",
+      "exampleTranslation": "I like to remember my childhood."
     }
   ]
 }

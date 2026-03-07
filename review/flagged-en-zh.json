@@ -1,0 +1,954 @@
+[
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' is glossed as '说' (speak), but 'dict' actually comes from Latin 'dicere' (to say/speak), which is correct. However, in the context of 'jurisdiction', the 'dict' part is not present. The correct split should be 'jur' + 'is' + 'dict' + 'ion', where 'jur' relates to law/swearing, not 'juris' as a single unit.",
+    "suggestion": "Reconsider the morpheme boundary. 'Jurisdiction' should be split as: jur (law/oath) + is (relating to) + dict (to say) + ion (noun suffix), or alternatively as jur + is + dict + ion. The current split treats 'juris' as one morpheme when it should be separated.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'jurisdiction' as 'juris + dict + ion', but 'juris' itself contains two morphemic elements: 'jur' (law/oath, from Latin iurare) and 'is' (a connecting element). The morpheme should be further decomposed.",
+    "suggestion": "Split as: jur (law) + is (relating to) + dict (to say) + ion (noun suffix), or at minimum acknowledge that 'juris' is a combining form that compresses multiple elements",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "destruction",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de-' is glossed as '向下/撤销' (down/cancel), but in 'destruction' it functions as a negation or reversal prefix meaning 'undo' or 'reverse'. The gloss is misleading about its actual function here.",
+    "suggestion": "Clarify that 'de-' means 'reverse/undo' or 'remove' rather than emphasizing 'downward'. The homeLangDetails partially address this but the primary homeLang label is imprecise.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reconstruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'re-con-struct-ion' splits 'con' separately, but 'con' is not a meaningful morpheme in 'reconstruction'. The word should be split as 're-' + 'construct' + '-ion', where 'construct' itself contains 'con-' + 'struct', but presenting 'con' as an independent part here is misleading.",
+    "suggestion": "Either split as 're-construct-ion' (3 parts) or clarify that 'con-struct' should be treated as a unit. As presented, treating 'con' separately suggests it modifies the whole word, which is incorrect.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'The building passed the safety inspection' translates as '这栋楼通过了安全检验', but '检验' (jiǎnyàn) emphasizes testing/examination for correctness, while '检查' (jiǎnchá) is more commonly used for general inspection. The translation is acceptable but 'inspection' in English typically leans toward '检查' or '安全检查' rather than '检验'.",
+    "suggestion": "Change to '这栋楼通过了安全检查' for more natural Chinese, or adjust translationShort to emphasize '检验' if that nuance is intentional.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de-' in 'description' does not mean '向下/撤销' (down/reverse). In 'description', 'de-' is not a reversive prefix—it's part of the Latin root 'describere' (to write down/describe). The gloss misleadingly suggests it negates or reverses 'scribere', when in fact it simply means 'to write about' or 'to depict'.",
+    "suggestion": "Change homeLang to something like '关于/描写' (about/depict) or note that 'de-' here is not the common reversive prefix but part of the original Latin verb meaning.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "subscription",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'scrib' is glossed as '写' (write), but in 'subscription' the root actually means 'to sign' or 'to subscribe to' (from Latin 'scribere' in the sense of signing one's name). While '写' is not technically wrong, it misses the core sense of 'signing up' or 'pledging', which is central to the word's meaning.",
+    "suggestion": "Change to '签署/书写' (sign/write) or consider '订署' (subscribe) to better capture the subscription sense.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "impression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss \"进入/否定\" (enter/negate) is misleading. The prefix \"im-\" is a variant of \"in-\" meaning \"into,\" but the explanation conflates this with Chinese \"否定\" (negation), which is not accurate. \"Im-\" in \"impression\" means \"into\" (im + press = press into), not a negation prefix.",
+    "suggestion": "Change to \"进入/向内\" (into/inward) or simply \"向内\" (inward), and clarify that \"im-\" is the prefix form of \"in-\" meaning to press inward.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "impression",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation \"我得到的印象是他不高兴\" is overly literal and sounds unnatural. The phrase \"得到的印象\" is awkward in Chinese.",
+    "suggestion": "Use a more natural phrasing like \"我的印象是他不高兴\" or \"我觉得他不高兴\" (My impression is that he wasn't happy / I felt he wasn't happy).",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "permission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss \"发送\" (send) is incorrect. The morpheme \"miss\" comes from Latin \"mittere\" meaning \"to send,\" but in \"permission,\" it has evolved to mean \"to let pass through\" or \"allow.\" The explanation conflates the root meaning with the actual sense in this compound.",
+    "suggestion": "Change to \"发送/允许\" (send/allow) or clarify the etymological path: \"miss\" originally meant \"send\" but in \"permission\" it means \"to allow to pass through.\"",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "commitment",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme is split as 'mitt' but the correct Latin root is 'mitt' from 'mittere' (to send). However, in 'commitment', the actual morphological split should recognize 'com' + 'mit' + 'ment', where 'mit' is the root. The current split 'mitt' appears to conflate the root with a doubled consonant that doesn't reflect the morphological structure.",
+    "suggestion": "Change parts[1].targetLang from 'mitt' to 'mit' to reflect the actual Latin root 'mittere'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation claims re- means 'back' in this context as an 'older Latin meaning,' but this is misleading. In 'reception', re- does mean 'back/again' (receiving = taking back), which is the standard meaning. The distinction between 're-' as 'back' versus 'again' is not as clear-cut as presented, and the explanation overstates the archaism.",
+    "suggestion": "Simplify the explanation: 're- means back/again; in reception it means receiving or taking in (taking something in)' without claiming an 'older' meaning distinct from the modern one",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "deception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation that 'deception is like reversing the reception process' is conceptually misleading. While de- is a negating/reversing prefix, deception (de + cept + ion) literally means 'taking away' or 'leading astray,' not simply reversing reception. The analogy conflates metaphorical meaning with morphological composition.",
+    "suggestion": "Clarify: 'de- means down, away, or negation; in deception it suggests leading someone away from the truth or taking away their correct understanding' rather than framing it as reversing reception",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '向后' (backward) for 're-' is misleading in modern English. While etymologically 're-' may derive from Latin meaning 'back', in 'reference' it means 'again' or 'back to' in the sense of consulting/returning to a source. The detailed explanation conflates etymology with synchronic meaning and the examples given (receive, recede, refer) don't consistently support a single 'backward' meaning.",
+    "suggestion": "Change homeLang to '再次' (again) or '回到' (back to), or simplify to acknowledge that in modern English 're-' typically means 'again' with etymological notes rather than as the primary gloss.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '携带' (carry) for 'fer' is etymologically accurate but synchronically misleading. In 'reference', 'fer' does not mean 'carry' in any intuitive sense; the word's meaning does not decompose as 're-' + 'carry' + '-ence'. This is a frozen compound where the morpheme meanings no longer transparently compose.",
+    "suggestion": "Either note this as a frozen compound where the original morpheme meanings are not productive, or remove the simplistic 'carry' gloss in favor of explaining that '-fer-' is from Latin 'ferre' but the modern meaning is opaque.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "interference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same as 'reference': the gloss '携带' (carry) for 'fer' does not reflect the synchronic meaning of 'interference'. The word does not transparently mean 'inter-carry-ence'.",
+    "suggestion": "Mark as frozen compound or provide etymological context rather than claiming modern productive morpheme composition.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "颠覆 is too narrow and implies violent overthrow. The word 'subversion' primarily means undermining or corrupting from within, not necessarily violent overthrow.",
+    "suggestion": "Consider '破坏' or '颠覆/破坏' to better capture the meaning of undermining authority or systems",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split 'oc' + 'cur' + 'rence' is incorrect. The correct morpheme breakdown should be 'oc' (variant of 'ob', meaning toward/against) + 'curr' (from currere, to run) + 'ence' (suffix). The morpheme 'cur' is incomplete; it should be 'curr' which is the actual root.",
+    "suggestion": "Change parts[0].targetLang from 'oc' to 'oc' (toward), parts[1].targetLang from 'cur' to 'curr' (run), and adjust accordingly",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'事件' (event) is too specific. 'occurrence' can mean the act or instance of something occurring, not necessarily a discrete 'event'. It's more about 'happening' or 'instance'.",
+    "suggestion": "Use '发生' (occurrence/happening) or '出现' (appearance/occurrence) instead of '事件'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme breakdown is overcomplicated and includes redundant suffixes. 'Precedent' is the base word (pre + ced + ent), and 'ed' is not a separate morpheme here—it's part of the adjective form 'unprecedented'. The structure should be: un- + precedent + -ed, or more simply: un- + preceden(t) + -ed, not split into five parts.",
+    "suggestion": "Simplify to: un (not/non) + preceden (go before) + -ed (adjective suffix marking past participle/state). Remove the redundant '-ent' as a separate part since 'precedent' is the lexical unit.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "recession",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss for 're-' as 'toward backward' is misleading in the context of 'recession'. While re- can mean 'back', in 'recession' it functions as a directional prefix meaning 'back/backward' (recede = go back), not as 'backward' in the sense given. The example 'receive' is a poor fit because it doesn't clearly show backward motion. The explanation conflates different meanings.",
+    "suggestion": "Clarify that re- here means 'back/away' (as in recede, retreat), and that 'recession' literally means 'a going back' or 'retreat'. Update homeLangDetails to emphasize recession as economic 'withdrawal' or 'pulling back'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "information",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' in 'information' does not mean '在内' (inside/within). The 'in-' here is from Latin 'informare' (to shape/form), where 'in-' is a causative prefix meaning 'to cause to be' or 'to put into form', not a locative preposition.",
+    "suggestion": "Change homeLang to something like '使得、赋予' (to cause, to give) or provide the historical Latin etymology rather than a misleading modern spatial meaning.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "information",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort repeats '信息，信息' (information, information), which appears to be a duplication error.",
+    "suggestion": "Change to '信息' (information) - remove the repetition.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'cor' is glossed as '共/together', but 'cor-' in 'corruption' comes from Latin 'corruptus' (spoiled/broken), not from a prefix meaning 'together'. The 'cor-' here is not a productive morpheme with the meaning 'together'.",
+    "suggestion": "Either remove the morpheme breakdown entirely or regloss 'cor' as part of the root 'corrupt' (spoiled/broken) rather than claiming it means 'together'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "corruption",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'corruption' into 'cor + rupt + ion', but 'cor' is not a genuine morpheme in English—the actual root is 'corrupt' (which itself comes from Latin 'corruptus'). The split misrepresents the morphological structure.",
+    "suggestion": "Split as 'corrupt (root) + ion (suffix)' or provide etymological context that 'corrupt' itself comes from Latin rather than claiming 'cor' is a meaningful prefix.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "microphone",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '微小' (very small) is misleading for 'micro' in this context. 'Micro' in 'microphone' means 'small in scale' or 'amplifying small signals,' not describing the microphone itself as tiny. The morpheme's actual function here is to indicate the device amplifies weak/small sounds.",
+    "suggestion": "Change homeLang to '微弱' (weak/faint) or provide more precise explanation: 'amplifying small/weak signals' rather than just '微小' (very small)",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation '在我们出发前，我们先同步一下手表吧' is unnatural. The phrasing should be more idiomatic in Chinese.",
+    "suggestion": "Change to '我们出发前先把手表对准一下吧' or '我们出发前把手表对好时间吧' (more natural expressions for synchronizing watches in Chinese)",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '主义/特征' and the explanation conflate different uses of '-ism'. In 'anachronism,' the suffix denotes a 'state, condition, or phenomenon' rather than an '-ism' ideology. The definition given (capitalism, realism) doesn't apply here.",
+    "suggestion": "Clarify that in 'anachronism,' '-ism' means 'a state or condition of' or 'the quality of,' not necessarily an ideology or belief system",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "「共鸣」is not an accurate translation of \"Empathy is important for being a good friend.\" The sentence is about empathy (同情心/同理心), not resonance/resonance. The translation should reflect the original meaning.",
+    "suggestion": "共鸣 should be 同理心 or 同情心. Better: \"同理心对做个好朋友很重要。\" or \"共鸣能力对做个好朋友很重要。\"",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-ous' is listed without a homeLang translation or homeLangDetails explanation. This makes the entry incomplete.",
+    "suggestion": "Add homeLang: '-的' (or '-ous' with Chinese equivalent) and homeLangDetails explaining it forms adjectives meaning 'having the quality of' or 'full of'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-able' is listed without a homeLang translation or homeLangDetails explanation. This makes the entry incomplete.",
+    "suggestion": "Add homeLang: '-的' (or '-able') and homeLangDetails explaining it forms adjectives meaning 'able to be' or 'capable of being'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-able' is listed without a homeLang translation or homeLangDetails explanation. This makes the entry incomplete.",
+    "suggestion": "Add homeLang: '-的' (or '-able') and homeLangDetails explaining it forms adjectives meaning 'able to be' or 'capable of being'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '难忘的，令人难以遗忘' is somewhat redundant and the phrasing is awkward. '令人难以遗忘' literally means 'causing people to have difficulty forgetting' which is awkward in Chinese.",
+    "suggestion": "Use '难忘的' or '令人难忘的' - a single, natural phrasing rather than two similar options",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '误会，沟通不畅' is inaccurate. '沟通不畅' (poor communication) is not the same as 'misunderstanding'. A misunderstanding is specifically a wrong understanding of something, not poor communication.",
+    "suggestion": "Change to '误会，误解' or simply '误会'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Chinese translation '她收到的支持力度令人感到压倒性的感动' is awkward and unnatural. '压倒性的感动' is an unusual phrase in Chinese.",
+    "suggestion": "Change to something like '她收到的支持令人感到压倒性的' or '她得到的支持感到难以承受' to sound more natural in Chinese",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "overestimation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'over' + 'estimate' + 'ion', but 'estimate' and 'ion' are shown as separate morphemes when 'estimation' is the base form. The morphological split should recognize that '-tion' attaches to 'estimate' to form 'estimation', then 'over-' attaches to that result. Current splitting obscures this derivational relationship.",
+    "suggestion": "Consider restructuring to show: over- + estimation, or clarify that -tion combines with estimate first. Alternatively: over- + estimate + -tion with clear notes on the order of attachment.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'inter' + 'change' + 'able', but 'change' + 'able' forms 'changeable' first, then 'inter-' combines with that. The current split doesn't reflect this derivational order clearly.",
+    "suggestion": "Consider restructuring to show: inter- + changeable, or add a note clarifying that -able attaches to 'change' first to form 'changeable', then 'inter-' attaches. Current presentation may mislead about morphological structure.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "modernization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as [modern] [ize] [tion], but this is incorrect. The correct morphological analysis should be [modern] [ize] + [ation], or more accurately [modern] [ization]. The suffix is -ization (not -ize + -tion as separate morphemes). The -ize and -tion are conflated and should be represented as a single -ization suffix.",
+    "suggestion": "Split as: modern + ization (or modern + ize + ation if splitting into subparts, but the current split misleads about how -tion relates to -ize)",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as [industrial] [ize] [tion], but this is incorrect. 'Industrial' is itself a compound that should be split further: indu + stri (from Latin) OR at minimum the analysis should reflect that 'industrial' is the adjective form of 'industry'. Additionally, like 'modernization', the -ize and -tion should be unified as -ization.",
+    "suggestion": "Split as: industry + al + ize + tion (or industry + alization), not industrial + ize + tion. The base morpheme is 'industry', not 'industrial'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort '现代化' is correct, but the homeLang gloss for the -tion suffix is redundant/misleading. It says '-tion: -化' when -tion is part of -ization. The split suggests -ize and -tion are separate, but they function as one suffix together.",
+    "suggestion": "Reconsider the morpheme split structure to avoid suggesting -tion is a standalone morpheme here. Alternatively, clarify that -ization is a single suffix.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 'dis' + 'appoint' + 'ment', but 'appoint' itself could be further analyzed as 'ap' + 'point' (from Old French apointier). However, the current split is acceptable for a modern English learner perspective since 'appoint' is the established root. The real issue is that the entry treats 'appoint' as a standalone morpheme when it's not commonly used independently in modern English—it primarily appears in compounds. This may be misleading for learners.",
+    "suggestion": "Consider adding a note that 'appoint' is primarily found in compounds and derivatives (appoint, appointment, disappointment, etc.), or verify this is the intended level of analysis for the game.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "acknowledgment",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits only 'acknowledge' + 'ment', but 'acknowledge' itself contains the morpheme 'knowledge' (know + -ledge), making the full structure: ac- (to) + knowledge + -ment. For consistency with morphological depth, this could be split further.",
+    "suggestion": "Either split as 'ac' + 'knowledge' + 'ment' (with notes on the prefix), or add a note explaining that 'acknowledge' is treated as a single morpheme despite its internal structure.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails note correctly identifies that 'outrage' is a frozen compound (from Old French, with 'out-' from Latin 'ultra' rather than Germanic 'out'), but the entry still presents it as a simple morpheme split. The explanation is good but may confuse learners who expect the morpheme to function transparently. The gloss '暴行' (violent act) is accurate to the historical meaning but doesn't clearly convey the modern sense needed for 'outrageous'.",
+    "suggestion": "Revise the homeLang gloss from '暴行' to something like '超越界限的行为' (behavior exceeding boundaries) or add a modern sense gloss, and ensure the homeLangDetails warning is prominent so learners don't decompose this as 'out' + 'rage'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into three morphemes: 'extra' + 'ordin' + 'ary', not just 'extra' + 'ordinary'. The 'ordinary' part is itself a compound that can be further decomposed.",
+    "suggestion": "Split into: extra (beyond) + ordin (order) + ary (adjective suffix), or at minimum acknowledge that 'ordinary' contains the root 'ordin' (order) + 'ary'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '注意到，评论' for 'remark' is misleading. While 'remark' can mean 'to notice or comment', in 'remarkable' the morphological sense is more specifically 'worthy of remark/mention', not the direct verb sense of 'to notice'.",
+    "suggestion": "Adjust the homeLang to better reflect the suffix pattern: perhaps '值得注意的' or clarify that it's 'remark' (noun: a notable observation) + '-able' rather than the verb sense",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation '这位运动员从伤病中取得了显著的恢复' is grammatically awkward. The phrase '取得了显著的恢复' is unnatural Chinese.",
+    "suggestion": "Better translation: '这位运动员伤病恢复得令人瞩目' or '这位运动员的伤病恢复令人印象深刻'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as compartment + al + ize, but 'compartment' itself is a compound (com + partment) or at least a derived form. More importantly, the splitting misses that the actual morphological structure is: compartment + -alize (not compartment + -al + -ize). The suffix sequence is -alize (a combined suffix meaning 'make into'), not separate -al and -ize suffixes applied sequentially.",
+    "suggestion": "Split as: compartment + alize, or if breaking down further: compart + ment + alize. The homeLang details for '-al' and '-ize' suggest they are applied separately, which is misleading about how this word is actually formed.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split further. 'comprehensible' is itself a derived form: comprehend + -ible (or: com + prehend + -ible). The entry only splits to 'in + comprehensible' and misses the internal structure of the second part.",
+    "suggestion": "Split as: in + comprehend + ible, or at minimum note in the entry that 'comprehensible' is itself a derived form (from comprehend + -ible).",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "incompatibility",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'compatible' itself is a derived form (com + patible, from Latin compatibilis), not a simple root. The entry misses this internal structure.",
+    "suggestion": "Split as: in + compatible, but note that 'compatible' is derived from com + patible (or acknowledge the Latin roots), or split more granularly if focusing on synchronic English morphology.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Chinese translation '这些指示用无法理解的术语写成的' is grammatically awkward. It's missing a verb or has poor structure. Should be something like '这些指示用无法理解的术语写成。' or '这些指示是用无法理解的术语写的。'",
+    "suggestion": "Change to: '这些指示是用无法理解的术语写的。' or '这些指示用无法理解的术语写成。'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'care' is glossed as '关心' (to care about/be concerned with), but in 'carefully' it means 'attention to avoiding harm/damage', not emotional concern. The gloss should reflect the sense of caution/attention rather than interpersonal concern.",
+    "suggestion": "Change '关心' to '小心' or '留意' to better reflect the sense of caution/attention in this context",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "carelessness",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "Same issue as 'carefully': 'care' is glossed as '关心' (emotional concern), but should reflect the sense of caution/attention/carefulness.",
+    "suggestion": "Change '关心' to '小心' or '留意'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is inaccurate. '耐心地' means 'patiently', not 'helpfully'. The translation should align with the meaning of 'in a helpful manner'.",
+    "suggestion": "Change '她耐心地解释了这些说明' to '她很有帮助地解释了这些说明' or '她热心地解释了这些说明'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang and translationShort/translationLong",
+    "issue": "The morphological breakdown hope + -ful + -ly suggests 'full of hope in a manner', but 'hopefully' as a sentence adverb means 'it is hoped that' or 'one hopes that', not 'in a hopeful manner'. The translation conflates two different uses of the word. While 'hopefully' can mean 'in a hopeful manner' when modifying an adjective/verb directly, the primary modern usage (especially in the example) is as a sentence adverb expressing the speaker's hope, which doesn't align with the morphological breakdown.",
+    "suggestion": "Either split the entry into two senses, or clarify that the morphological structure does not reflect the sentence-adverbial meaning. The translationShort could be '希望如此' (it is hoped) and translationLong should note the distinction between the literal compositional meaning and the sentence-adverbial usage.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang and translationShort/translationLong",
+    "issue": "Similar to 'hopefully', 'thankfully' as a sentence adverb means 'it is fortunate that' or 'luckily', not literally 'in a thankful manner'. The morphological breakdown thank + -ful + -ly suggests compositional meaning, but the primary modern usage is as a sentence adverb, which doesn't align with being 'full of thanks in a manner'.",
+    "suggestion": "Clarify that 'thankfully' functions primarily as a sentence adverb meaning 'fortunately/luckily' rather than the compositional reading. Consider revising the translationLong to emphasize the fortuitous meaning rather than the literal 'with gratitude' reading.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails for '-ful' incorrectly lists \"美丽、小心、强大\" as examples, but these are not adjectives formed with -ful. \"美丽\" (beautiful) and \"强大\" (powerful) are not -ful words; \"小心\" (careful) could be considered related but the examples are misleading.",
+    "suggestion": "Use clearer examples of -ful adjectives like: 感恩的(grateful)、有用的(useful)、美妙的(wonderful)、充满...的(full of)",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The description states '-ly can also turn adjectives into adjectives (like \"友好的、可爱的\"), but this is incorrect. -ly turns adjectives into adverbs; it does not create adjectives from adjectives in English.",
+    "suggestion": "Remove the incorrect second part. Revise to: \"把形容词变成副词，表示'以某种方式'。比如快速地、快乐地、惊人地。\"",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The entry splits 'beautifully' as beauty + -ful + -ly, but 'beauty' itself is already a derived form (beauty = beautiful + -ty). The more transparent morphological split should be beautiful + -ly, not beauty + -ful + -ly. The current breakdown obscures the actual synchronic structure.",
+    "suggestion": "Split as: beautiful (形容词，美丽的) + -ly (副词后缀)，or clarify in homeLangDetails that we're decomposing further back to beauty as a starting point rather than the direct adjectival form",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '以美丽的方式' (in a beautiful manner) is awkward and misleading. 'Beautifully' as an adverb typically describes how an action is performed (e.g., 'she sang beautifully'), not literally 'in a beautiful manner.' A better translation would be '美妙地' or '优美地' (in an exquisite/elegant manner).",
+    "suggestion": "Change translationShort to '美妙地' or '优美地' to better capture the adverbial sense",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'缺乏力量' (lack of power) is a literal translation but doesn't capture the full emotional/existential sense of 'powerlessness' as a noun. The translationLong ('无力或无影响力的状态') is better, but the short version should also convey the sense of helplessness or inability.",
+    "suggestion": "Change translationShort to '无力感' (sense of helplessness) or '无能为力' (inability to do anything about something) to better match the emotional weight of the English term",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into four parts (ad, vert, ise, ment), but 'ise' should be 'ize' and the morphological structure is misleading. The standard modern analysis is ad + vert + ise (or ize), but 'advertise' is the verb form, and 'advertisement' adds '-ment' to 'advertise'. The splitting treats 'ise' as a separate morpheme when it's actually part of the verb suffix '-ise/-ize', making the analysis confusing.",
+    "suggestion": "Consider restructuring as: ad + vert + ise + ment, OR more clearly: advertis(e) + ment, depending on the pedagogical goal. If keeping four parts, clarify that '-ise' is a verb-forming suffix, not a standalone morpheme.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '公开宣传' (public propaganda/promotion) is somewhat vague and doesn't clearly convey the commercial/promotional sense of 'advertisement'. It's also missing the element of being a concrete ad/advertisement (a noun referring to the actual ad itself, not just the act of advertising).",
+    "suggestion": "Use '广告' or '广告物' (advertisement/ad) as the primary meaning, or '广告宣传' to be more explicit about the promotional/advertising aspect.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation conflates the etymology of 'tain' with its actual function in 'entertain'. While 'tain' does derive from Latin 'tenere', the semantic connection described ('grab/hold attention') is folk etymology rather than the actual morphological meaning. 'Entertain' literally means 'to hold among/within', but the modern morpheme breakdown should not suggest that 'tain' independently means 'hold' in modern English morphology.",
+    "suggestion": "Clarify that while 'tain' has historical roots in 'tenere', in modern English it functions as a bound morpheme with no independent meaning. The homeLang should simply be 'tain' without the speculative semantic connection.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "department",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "'part' should include morphological details. It derives from Latin 'partem' and is itself a meaningful morpheme (meaning 'part'), but the entry lacks this explanation unlike the other entries with similar structure.",
+    "suggestion": "Add homeLangDetails to parts[1] explaining that 'part' comes from Latin 'partem' meaning 'part' or 'portion', similar in detail to how other morphemes are explained.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "replacement",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "'place' lacks morphological documentation. Unlike other entries that explain the origin and meaning of morphemes, 'place' is left bare despite being a meaningful bound morpheme in this context.",
+    "suggestion": "Add homeLangDetails to parts[1] explaining that 'place' comes from Old French 'place' meaning 'position' or 'location', consistent with the level of detail in other entries.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The morpheme \"ed\" is marked as a separate part, but it's actually part of the adjective \"expected\" (expect + ed). The correct split should be: un + expect + ed + ly, where \"ed\" forms the past participle adjective, not a standalone morpheme between \"expect\" and \"ly\".",
+    "suggestion": "Combine parts[1] and parts[2] as \"expected\" (homeLang: \"expected\"), or alternatively keep the current structure but clarify in homeLangDetails that \"ed\" is the past participle suffix forming an adjective from the verb.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unacceptable",
+    "category": "incomplete_split",
+    "field": "parts[1] and parts[2]",
+    "issue": "The morpheme \"accept\" should be split further as \"accept\" + \"able\" to show that \"-able\" is a suffix forming an adjective. The current structure shows \"accept\" as a standalone part followed by \"-able\", which is correct, but the homeLang for \"accept\" should indicate it's a verb root, not just a bare transliteration.",
+    "suggestion": "Add homeLangDetails to parts[1] (\"accept\") clarifying it's a verb root, or adjust the structure to show \"accept\" + \"able\" more clearly with appropriate glossing.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split is incomplete. 'willing' should be recognized as a single morpheme (will + -ing as adjective formation), not split into separate 'will' and 'ing' parts. The word structure is: un- + will(ing) + -ness, not un- + will + -ing + -ness.",
+    "suggestion": "Restructure parts to: 'un' (prefix), 'willing' (adjective base), 'ness' (suffix forming noun). Or if splitting further: 'un' + 'will' + '-ing' (forming adjective) + '-ness' (forming noun), but the current presentation is misleading about morpheme boundaries.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reconsideration",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split treats 'consider' as a single unit, but '-tion' is presented as a separate suffix. The structure should clarify that '-tion' attaches to 'consider' to form 'consideration', and 're-' prefixes the entire word. The current split obscures whether the internal structure is 're- + consider + -tion' (correct) or implies 're- + consider + -ation' derivation. The presentation is acceptable but could be clearer.",
+    "suggestion": "This is borderline acceptable as presented. If strict, clarify the order: 're-' + 'consider' + '-tion' to show that '-tion' is what attaches to the verb 'consider' first.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The part 'cycle' should be further split into 'cy' + 'cle' or the morpheme boundary is unclear. More importantly, 'recycle' is not simply 're' + 'cycle' in the modern sense—it's a back-formation from 'recycling' (noun) and the morphological structure should reflect that 'recycl-' is the root, not 'cycle' as a standalone morpheme.",
+    "suggestion": "Either treat 'recycl' as the root morpheme (with 're' + 'cycl' + 'ing'), or clarify that this is a modern compound where 'cycle' has been reanalyzed. The current split obscures the actual morphology.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase '回收利用，循环再用' mixes two different concepts. '回收' means 'to collect/recycle' (the process of gathering waste), while '循环再用' means 'to reuse in a cycle.' The morpheme 're-cycle' is about processing waste into new materials, not just reusing. The translation should emphasize the processing/transformation aspect.",
+    "suggestion": "Consider '回收/垃圾回收' (waste recycling) or '循环利用' (cyclical reuse) as the primary translation, depending on context. Current translation conflates two distinct meanings.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "communication",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix '-ication' should be split further into '-ation' (noun suffix) with '-ic-' as a connecting element, similar to how 'education' is split as 'e-duc-ation'. The current split obscures the morphological structure.",
+    "suggestion": "Split as: com-, mun-, -ic-, -ation (where -ic- is an adjectival connector and -ation is the noun suffix)",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "introduction",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "'intro' should be split into its component parts 'in-' (prefix meaning 'into/inward') and 'tro-' (related to 'duce'/'duc' meaning 'lead'), not treated as a single morpheme 'intro'.",
+    "suggestion": "Split 'intro' into 'in-' and 'tro-', or restructure as: in-, tro-, duc-, -tion",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'pronunciation' should be split as pro + nunci + ation, not pro + nunc + iation. The root is 'nunci' (related to 'announce'), and 'nunc' is not a valid morpheme boundary here.",
+    "suggestion": "Split as: pro (forward) + nunci (announce/speak) + ation (-tion suffix). Update parts[1] targetLang to 'nunci' and homeLang to '宣布/说话' or similar.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang is listed as '-phone' but 'nunc/nunci' has nothing to do with 'phone' (sound). This appears to be a confusion with the word 'telephone' which contains 'phone', not 'pronunciation'.",
+    "suggestion": "Change homeLang to reflect the actual meaning: '宣布/说话' (announce/speak), as 'nunci' comes from Latin 'nuntiare' meaning to announce.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split ex + plan + ation is incorrect. 'plan' is not a morpheme in 'explanation'. The correct split should be ex + plain + ation, where 'plain' comes from Latin 'planare' (to flatten/make clear). The 'e' before 'plain' in 'explain' is part of the root, not part of the prefix.",
+    "suggestion": "Split as: ex (out) + plain (make clear/flatten) + ation (-tion). Update parts[1] targetLang to 'plain' and homeLang to '平坦/清楚' (flatten/make clear).",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "examination",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The part 'ination' should be further split into 'in + ation' or recognized as 'in' (the assimilated prefix form before 'm') + 'ation'. The current split obscures the structure: ex + amin + ation should be ex + am + in + ation, where 'am' is the root (to weigh/test) and 'in' is a suffix that forms the verb stem.",
+    "suggestion": "Reconsider the split. More accurate: ex (out) + am (weigh) + in (verb-forming suffix) + ation (-tion). Or simplify to: ex + amin (weigh/test) + ation if treating 'amin' as the combined root+suffix.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split im + ag + ination is incorrect. The correct split should be im + agin + ation. 'ag' is not a standalone morpheme here; the root is 'agin' (from Latin 'imago' meaning image), and the boundary should be drawn after 'agin'.",
+    "suggestion": "Split as: im (in) + agin (image) + ation (-tion). Update parts[1] targetLang to 'agin' and homeLang to '形象' (image).",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '一次非正式的讨论' (a single informal discussion) is too narrow. 'Conversation' can be formal or informal, and the key aspect is the exchange of dialogue, not whether it's informal.",
+    "suggestion": "Change to '对话；交谈' or '两个或多个人之间的对话交流'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '光的反射' (reflection of light) is incomplete. While accurate for the optical meaning, it omits the equally important meaning of 'contemplation/deep thought', which is a primary sense of the word.",
+    "suggestion": "Change to '反射；沉思' or '光的反射；深思熟虑'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme split 'par' is incorrect. The actual root is 'pare' (to make ready), and the suffix is '-ation'. The entry should split as 'pare' + '-ation', not 'par' + 'ation'.",
+    "suggestion": "Change parts[1].targetLang from 'par' to 'pare' and adjust parts accordingly",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "organization",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '身体/工具' (body/tool) is misleading. In 'organization', the root 'organ' comes from Latin 'organum' meaning 'tool/instrument', but in this morphological context it means 'to arrange systematically' (from the verb 'organize'). The gloss should reflect the actual meaning in this word.",
+    "suggestion": "Change homeLang to '器官/工具' or better yet '组织' to reflect its use in the verb 'organize'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'Satisfaction' should be split as 'satis' (enough/sufficient) + 'fy' (make) + '-tion', not 'sat' + 'is' + 'faction'. The current split obscures the actual morphological structure.",
+    "suggestion": "Revise to: 'satis' (enough) + 'fy' (make) + '-tion', or if simplifying, 'satis' + '-faction' as a combined suffix",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "qualification",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'qual' should be further analyzed. 'Qualification' comes from Latin 'qualis' (of what kind) + '-ify' + '-ation'. The 'qual' part itself is incomplete and doesn't clearly represent the actual root.",
+    "suggestion": "Consider splitting as 'qual' (from Latin qualis, meaning 'of what kind/quality') or noting that this is a Latin-derived root that doesn't decompose further in modern English",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "identification",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'ident' should be further analyzed. It should be split as 'ident' + 'ify', but 'ident' itself is incomplete—the full root is related to Latin 'idem' (same). The splitting obscures the actual morphological structure.",
+    "suggestion": "Consider 'ident' (from Latin idem, the same) or clarify that this is a bound root that requires '-ify' to form a verb",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split 'e' + 'val' + 'uation' is incorrect. The word should be split as 'e' (ex-) + 'valu' + 'ation' or more accurately as a whole: 'evalu' (the verb stem from evaluate) + 'ation'. The current boundary breaks 'val' in a way that misrepresents the morphology.",
+    "suggestion": "Split as 'e' (ex-) + 'valu' + 'ation', or recognize that 'evaluate' is the verb stem and '-ation' is the suffix",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "understandable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'Stand' in 'understand' does not actually mean 'stand' in the sense of being upright. While etymologically related to standing, in 'understand' the 'stand' is a fossilized component from Old English 'understandan' where 'under' + 'stand' meant to stand under/among. The modern meaning 'comprehend' is not compositionally derived from stand + under in a way that reflects actual usage.",
+    "suggestion": "Mark as frozen_compound or note: 'stand (from Old English), meaning to be under/among, now fossilized; the modern sense \"comprehend\" is not transparently compositional'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "understandable",
+    "category": "frozen_compound",
+    "field": "parts[1]",
+    "issue": "The word is marked as decomposable, but 'understand' is a lexicalized compound where the synchronic reading of 'under' + 'stand' (stand under) does not transparently yield the meaning 'comprehend'. This is a frozen compound.",
+    "suggestion": "Consider flagging this as a frozen compound rather than a straightforward morphological decomposition, or provide etymological context",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix is split as 'ible' but it should be '-ible' to clarify it's a suffix, not a standalone morpheme. More importantly, '-ible' is a variant of '-able' and should be consistently labeled. The split 'cred-ible' is correct, but the morpheme label should reflect that '-ible' is the actual suffix form here.",
+    "suggestion": "Change parts[2].targetLang from 'ible' to '-ible' for consistency and clarity that it's a bound morpheme",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix is split as 'ible' but should be '-ible' to clarify it's a suffix, not a standalone morpheme.",
+    "suggestion": "Change parts[2].targetLang from 'ible' to '-ible' for consistency and clarity that it's a bound morpheme",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix is split as 'ible' but should be '-ible' to clarify it's a suffix, not a standalone morpheme.",
+    "suggestion": "Change parts[2].targetLang from 'ible' to '-ible' for consistency and clarity that it's a bound morpheme",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix is split as 'ible' but should be '-ible' to clarify it's a suffix, not a standalone morpheme.",
+    "suggestion": "Change parts[2].targetLang from 'ible' to '-ible' for consistency and clarity that it's a bound morpheme",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'respons' is glossed as '反应' (reaction/response), but this misleads the learner. 'Respons' comes from Latin 'respondere' meaning 'to answer/be answerable', and in 'responsible' it means 'accountable/answerable', not simply 'reaction'. The gloss '反应' does not capture the 'accountability' or 'answerability' sense.",
+    "suggestion": "Change homeLang to '答复；责任' or '可回答的；负责的' to better reflect the etymological and semantic sense of accountability/answerability",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation conflates two different prefix functions. In 'irreversible', 'ir-' is the negation prefix (meaning 'not'), not the 'entering' sense. While it's true that 'in-' can assimilate to 'ir-' before certain sounds, the homeLangDetails incorrectly suggests 'ir-' has an 'entering' meaning here when it only means 'not'. The explanation should focus on the negation meaning for this word.",
+    "suggestion": "Clarify that in 'irreversible', 'ir-' means 'not' (a negation prefix that assimilates before r-sounds). Remove or separate the 'entering' meaning example, as it is not relevant to this particular word.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "Similar to 'irreversible', the explanation conflates negation and 'entering' meanings. In 'indestructible', 'in-' functions as a pure negation prefix meaning 'not', not as an 'entering' prefix. The homeLangDetails incorrectly presents both meanings as applying to this word.",
+    "suggestion": "Clarify that in 'indestructible', 'in-' means 'not' (a negation prefix). Remove or separate the 'entering' meaning example, as it is not relevant to this particular word.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'historic' is itself a compound (histo- + ric) that could be further decomposed. However, in the context of teaching, 'historic' functions as a recognizable unit. More critically, the split misses that 'prehistoric' is actually 'pre- + historic', where 'historic' is already a derived adjective from 'history'.",
+    "suggestion": "Either keep 'historic' as-is if treating it as a single recognizable morpheme, or split it further as 'pre- + histo- + ric' to show the full morphological structure. Current entry is acceptable if 'historic' is intended as a single unit.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation misleadingly suggests 'anti' means 'against' in all contexts (反对/抗), but in 'antibiotic' it specifically means 'against' (bacteria), not 'opposed to' life as the 'bio' component might suggest. The example 'anticipate' is particularly problematic—'anti' in 'anticipate' doesn't mean 'against' at all; it's a false cognate that should not be listed as an example.",
+    "suggestion": "Remove 'anticipate' from the homeLangDetails. Clarify that 'anti' in antibiotic means 'against/opposing' (specifically bacteria), and distinguish this from the different meaning of 'anti' in 'anticipate' (which is from Latin 'ante', meaning 'before').",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "automatically",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'matic' should be further split into 'mat' (from Greek 'mathema', meaning 'thing learned' or Latin 'matus' relating to action) + 'ic' (adjective suffix). Grouping 'matic' as a single unit with the gloss 'movement/运动' is imprecise and misleading—'automatic' doesn't literally mean 'self-moving' but rather 'self-acting' or 'self-regulating'.",
+    "suggestion": "Split 'matic' into 'mat' + 'ic', or provide a more accurate gloss for 'matic' (e.g., relating to action/process) rather than simply '运动'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "television",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'远距离观看' (watching from a distance) is a literal, awkward translation that doesn't capture the modern meaning of television as a technology/device. It's more like a folk etymology than a natural translation.",
+    "suggestion": "Change to '电视' (television) or '电视机' (television set), which is how the word is naturally expressed in Chinese.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The first morpheme is listed as 'respons' but should be split as 'respond' + '-ible' or 'response' + '-able'. The root is 'respond' (to answer/reply), not 'respons'.",
+    "suggestion": "Split as 'respond' (回应) + '-ible/-able' (能够...的), or clarify the actual morphological structure",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "'可回应' (can respond) is not the most natural or precise translation. The root 'respond' means to answer or react, but the noun 'responsibility' emphasizes obligation and accountability.",
+    "suggestion": "Consider '回应' (respond/answer) as a more literal translation, or note that responsibility derives from ability to respond to duties",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "personality",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The suffix is listed as 'ality' but should be '-ity' alone. The 'al' is part of the root 'person-al', not part of the suffix.",
+    "suggestion": "Split as 'personal' + '-ity' (or 'person' + '-ality' if treating '-al' + '-ity' as combined), not 'person' + '-ality'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The first morpheme is listed as 'popular' but the root is 'popul-' (people) + '-ar' (adjective-forming suffix). Splitting as 'popular' obscures the morphology.",
+    "suggestion": "Split as 'popul' (人民) + '-ar' (形容词后缀) + '-ity' (名词后缀), or keep 'popular' + '-ity' but note this is a secondary analysis",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "productivity",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'product' in 'productivity' does not mean '产品' (product/goods). The root 'prod-' means 'to drive forward' or 'to produce', and '-uct' is a combining form. 'Product' as a standalone word means a finished good, but in 'productivity', the meaning is about the capacity to produce/be productive, not about physical products.",
+    "suggestion": "Change homeLang to '生产' (to produce) or provide more nuanced explanation that 'product' here relates to output/production rather than finished goods",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '具有创造性的品质' is awkward and overly literal. A more natural Chinese translation would simply be '创造力' or '创意能力'.",
+    "suggestion": "Change translationShort to '创造力' or '创意能力'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '具有灵活性的品质' is overly literal and awkward. The natural Chinese term is '灵活性' or '柔韧性'.",
+    "suggestion": "Change translationShort to '灵活性' or '灵活的品质'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 're-' in 'researcher' does not mean 'again/再次'. In this word, 're-' is part of the root 'research' which comes from Old French 'cerchier' (to search). The 're-' here means 'thoroughly' or 'repeatedly search', but synchronically it's not transparently decomposable as 're' + 'search' in the way suggested. The gloss misleads by treating it as a productive prefix when it's more of a lexicalized element.",
+    "suggestion": "Either remove the 're-' as a separate morpheme and treat 'research' as the base, or clarify that 're-' here is etymological rather than a synchronically productive prefix meaning 'again'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'product' is glossed as '产品' (product/goods), but in 'productive', the root means 'to produce/generate output' (productive = generating results), not 'product' as a finished good. The connection obscures the actual meaning.",
+    "suggestion": "Change 'product' homeLang to '生产' or '产生' to reflect that 'productive' relates to the verb 'produce' (to make/generate), not the noun 'product'.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "photographer",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The Chinese gloss \"光\" (light) is oversimplified. While \"photo\" does derive from Greek \"phōtos\" (light), the examples given (\"照相\", \"光合作用\", \"上相\") don't consistently support this as the primary meaning in modern usage. \"照相\" is the word for photography itself, not a decomposition showing \"light\" as a separate morpheme.",
+    "suggestion": "Either refine the homeLang to \"照\" (photograph/record by light) or clarify that this is an etymological root rather than a productive morpheme in modern Chinese.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "\"沟通者\" is awkward and unnatural in Chinese. The idiomatic way to express this concept is \"擅长沟通的人\" or simply \"沟通专家\".",
+    "suggestion": "Change exampleTranslation to: \"作为一位沟通专家，她擅长公开演讲。\" or \"作为一位擅长沟通的人，她擅长公开演讲。\"",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "\"调查员\" is correct, but \"检查了犯罪现场寻找线索\" is slightly awkward. The more natural phrasing would use \"检查\" or \"勘查\" followed by a clearer purpose structure.",
+    "suggestion": "Change to: \"调查员在犯罪现场检查线索。\" or \"调查员勘查了犯罪现场以寻找线索。\"",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "communicate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'mun' is glossed as '通' (communicate/pass through), but the Latin root 'munis' actually means 'duty' or 'service'. The meaning 'communicate' comes from the full etymological path through 'communis' (shared), not from 'mun' independently meaning 'communicate'.",
+    "suggestion": "Change homeLang to '共同' or '共' to reflect that 'munis' relates to shared duty/function, or provide more detailed homeLangDetails explaining the connection to 'communis'",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '仔细检查' (careful inspection) is narrower than the actual meaning. 'Investigate' emphasizes systematic inquiry and examination of evidence, not just careful inspection.",
+    "suggestion": "Change to '调查' or '进行调查' to better capture the investigative/inquiry aspect",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "participate",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'ticip' is not clearly a single morpheme. It would be more accurate to recognize this as 'ti' (participle marker) + 'cip' (from capere), or to explain that 'ticip' is a fused form from the Latin participium construction. The current splitting obscures the morphological structure.",
+    "suggestion": "Either split as 'ti' + 'cip' with explanation of the Latin participial construction, or significantly expand homeLangDetails to clarify that 'ticip' represents a fused ancient morpheme",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '为成就而表扬' (praise for achievement) is too narrow and includes a causality that isn't inherent in 'congratulate'. One can congratulate someone on many things, not just achievements. The phrase also sounds somewhat awkward.",
+    "suggestion": "Change to '祝贺' or '表示祝贺' (express congratulations), which is more accurate and natural",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The 'inter-' prefix here does not mean 'between/互动' in the context of 'misinterpret'. In 'interpret', the 'inter-' is not a standalone productive prefix meaning 'between'; rather, 'interpret' comes from Latin 'interpretari' (to explain/translate). The breakdown into inter + pret is etymologically misleading.",
+    "suggestion": "Either remove the 'inter-' breakdown and treat 'interpret' as an indivisible root, or clarify that this is a false synchronic split that doesn't reflect the word's actual meaning.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts[3]",
+    "issue": "The '-et' ending is not a separate morpheme in modern English. 'Misinterpret' is simply mis- + interpret, with no archaic '-et' infinitive ending present in this word. This appears to be a fabricated split.",
+    "suggestion": "Remove the 'et' part entirely. The word structure should be: mis- + interpret (or if breaking interpret further: mis- + inter- + pret, though inter-pret is itself problematic as noted above).",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The examples given (misunderstand, mistake, misrepresent) correctly show 'mis-' meaning 'wrongly/badly', but the explanation for 'inter-' suggesting it means 'between/互动' in international, interrupt, interact is confusing and not relevant to how 'inter-' functions in 'interpret'. This creates false cognitive load.",
+    "suggestion": "Clarify that in 'misinterpret', the relevant prefix is only 'mis-'. Do not introduce 'inter-' as a separate morpheme in this word, or clearly state it is not productively separable.",
+    "source_file": "en-zh.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The 'struct' part lacks a homeLangDetails explanation, making it incomplete compared to other entries. It should have a substantive gloss explaining the Latin root meaning 'to build'.",
+    "suggestion": "Add homeLangDetails for 'struct': something like 'struct/建造/搭建 - 来自拉丁语 struere，表示「建造」或「组织结构」，比如 structure（结构）、construct（建造）、instruct（指导）。'",
+    "source_file": "en-zh.json"
+  }
+]

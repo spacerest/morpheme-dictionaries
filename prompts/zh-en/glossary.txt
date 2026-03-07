@@ -1,0 +1,26 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# Add morphemes for this target language with English (home language) glosses here.
+# See prompts/de-en/glossary.txt for a complete example.
+
+# Prefixes
+不- | not, un- | This is Mandarin's workhorse negation prefix, slapped in front of adjectives and verbs to flip their meaning, much like English "un-" or "not." It's incredibly productive, so once you know it you can negate hundreds of words. Examples: 不好 (not good), 不对 (not right), 不客气 (you're welcome, literally "not polite").
+没- | not yet, have not | Used specifically to negate past actions or possession, parallel to saying "haven't" in English. It contrasts with 不-, which negates habits or states. Examples: 没有 (don't have / there isn't), 没来 (didn't come), 没问题 (no problem).
+非- | non-, un-, outside of | A slightly more formal or emphatic negation, often seen in written Chinese and set phrases. Think of it like English "non-" in words like "nonfiction." Examples: 非常 (extremely, literally "non-ordinary"), 非法 (illegal), 非正式 (informal).
+老- | old, venerable, habitual | Attaches to nouns and names to signal familiarity, age, or seniority, a bit like calling someone "Old Joe" in English. It can also intensify adjectives. Examples: 老师 (teacher), 老虎 (tiger), 老板 (boss).
+小- | small, young, little | The friendly counterpart to 老-, used to address younger people or indicate small size, like English "little" as a term of endearment. Examples: 小姐 (miss / young lady), 小心 (be careful), 小时 (hour, literally "little time").
+大- | big, great, major | Signals large size, importance, or high degree, much like English "great" or "big" in compound words. Examples: 大学 (university), 大家 (everyone), 大人 (adult).
+自- | self-, auto- | Works just like the English prefix "self-" or "auto-", indicating something done by or to oneself. Examples: 自己 (oneself), 自然 (nature / naturally), 自行车 (bicycle, literally "self-propelled vehicle").
+多- | many, multi-, much | Signals plurality or abundance, comparable to English "multi-" or "poly-". Examples: 多少 (how many / how much), 多数 (majority), 多谢 (many thanks).
+# Suffixes
+-子 | (noun suffix) | A super common suffix that nominalizes words, turning them into concrete nouns, a bit like "-er" or "-thing" in English. It often carries no strong meaning of its own anymore. Examples: 孩子 (child), 桌子 (table), 椅子 (chair).
+-家 | expert, specialist, -ist | When attached to a field, it means someone who practices it professionally, parallel to English "-ist" or "-er." It also stands alone meaning "home" or "family." Examples: 科学家 (scientist), 画家 (painter), 作家 (writer).
+-化 | -ize, -ify, become | Works just like English "-ize" or "-ify," turning nouns and adjectives into verbs or abstract processes. It's very productive in modern Chinese. Examples: 现代化 (modernize), 全球化 (globalization), 美化 (beautify).
+-语/-话 | language, speech | Both suffixes indicate a spoken language or dialect, similar to English "-ese" or "-ish" in language names. 语 feels slightly more formal; 话 is more colloquial. Examples: 中文/普通话 (Mandarin), 英语 (English), 广东话 (Cantonese).
+# Roots and stems
+-好- | good, well, easy to | One of the most versatile roots in the language, meaning "good" on its own but also functioning as a prefix meaning "easy to" when before a verb. Examples: 好吃 (delicious, literally "good to eat"), 好看 (good-looking), 好久 (a long time, literally "good while").
+-人- | person, people | The foundational root for "person," it appears in an enormous range of compounds, much like English "-man" or "person" in "salesperson." Examples: 中国人 (Chinese person), 工人 (worker), 大人 (adult).
+-心- | heart, mind, feeling | Represents the emotional and mental center, like English "heart" in "heartfelt" or "mind" in "mindful." It appears in countless words about feelings and intention. Examples: 小心 (careful), 开心 (happy), 担心 (to worry).
+-时- | time, hour, moment | This root carries the meaning of time and appears in many time-related compounds, similar to how English uses "time" or "-hour." Examples: 小时 (hour), 时间 (time), 有时 (sometimes).
+-学- | study, -ology, learn | Corresponds beautifully to English "-ology" when it follows a field name, but also simply means "to study" or "to learn." It's one of the most productive roots in academic vocabulary. Examples: 学生 (student), 科学 (science), 数学 (mathematics).
+-国- | country, nation | The root for "country" or "nation," appearing in country names and political vocabulary, a bit like Latin "nation-" in English borrowings. Examples: 中国 (China), 美国 (USA), 外国 (foreign country).
+-说- | speak, say, theory | At its core this means "to say" or "to speak," but it extends into the idea of explaining or theorizing, like English "say" and "speech." Examples: 说话 (to speak), 小说 (novel / fiction), 听说 (to have heard that).

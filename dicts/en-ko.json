@@ -1,0 +1,4352 @@
+{
+  "homeLang": "ko",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "안으로/아님"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "던지다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "주사",
+      "translationLong": "주입하는 행위, 신체에 강제로 들어가는 액체",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "간호사는 통증을 완화하기 위해 나에게 주사를 놓았다."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "앞으로/위해",
+          "homeLangDetails": "앞으로, 찬성하거나 대신해서라는 뜻이에요. Progress, produce, pronoun 같은 단어들에 쓰여요."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "던지다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "예상, 투영",
+      "translationLong": "바깥쪽으로 뻗어나가는 것, 미래에 대한 예측이나 추정",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "판매 예상은 다음 분기에 강한 성장을 보여준다."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "반대로",
+          "homeLangDetails": "뭔가에 반대하거나 맞서는 방향이라는 뜻이에요. 라틴어 ob-에서 왔고, 여기서는 뭔가를 던져서 반대하는 느낌을 담고 있어요."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "던지다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "이의",
+      "translationLong": "의견의 차이나 반대를 나타내는 표현",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "그는 회의 중에 그 제안에 이의를 제기했다."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "앞서",
+          "homeLangDetails": "시간이나 위치상 앞을 뜻해요. Predict, prepare, prehistoric 같은 단어에 들어가죠."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "말하다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "예측",
+      "translationLong": "미래에 일어날 일에 대한 진술",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "내일 날씨 예측은 비가 온다는 거예요."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "반대로",
+          "homeLangDetails": "라틴어 contra는 '반대'라는 뜻이에요. 여기서 '말하다'는 뜻의 dict와 합쳐져서 '반대로 말하다' 또는 '대항해서 말하다'는 느낌이 돼요."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "말하다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "모순",
+      "translationLong": "다른 진술이나 상황과 맞지 않는 진술 또는 상황",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "그의 두 진술 사이에는 명백한 모순이 있다."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "법"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "말하다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "관할권",
+      "translationLong": "법적 결정을 내리고 법률을 집행할 수 있는 공식적인 권한",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "이 사건은 연방 법원의 관할권에 속한다."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "건너",
+          "homeLangDetails": "한쪽에서 다른 쪽으로, 관통해서 가거나 한 상태에서 다른 상태로 변할 때 써요. Transport, transform, translate 같은 단어들에 들어가죠."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "운반하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "운송",
+      "translationLong": "사람이나 물건을 한 장소에서 다른 장소로 옮기는 행위",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "대중교통이 자동차를 운전하는 것보다 더 싸다."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/되돌리기",
+          "homeLangDetails": "아래로, 멀리, 또는 어떤 행위를 취소하는 방향이에요. Decrease, depart, deconstruct 같은 단어에 들어가고, 원래 뜻을 반대로 바꾸기도 해요."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "운반하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "추방",
+      "translationLong": "사람을 국가에서 강제로 제거하는 행위",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "추방 절차는 몇 개월이 걸렸다."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "안으로"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "운반하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "수입",
+      "translationLong": "해외에서 국가로 물품을 들여오는 행위",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "외국 물품의 수입이 올해 증가했다."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "함께"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "짓다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "건설",
+      "translationLong": "무언가를 짓는 과정, 지어지고 있는 건축물",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "새 다리의 건설은 2년이 걸릴 것이다."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/취소",
+          "homeLangDetails": "아래로, 반대 방향으로, 또는 어떤 행동을 되돌리는 뜻입니다. 감소, 떠남, 해체 같은 의미를 나타내요. 기본 단어의 반대 의미를 직접 나타내는 경우가 많습니다."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "짓다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "파괴, 소멸",
+      "translationLong": "어떤 것을 부수거나 망가뜨리는 행위; 심각한 손상이나 파괴",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "태풍은 광범위한 파괴를 일으켰다."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시",
+          "homeLangDetails": "반복이나 이전 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 이 접두사는 영어의 수천 개 단어에 나타나요. return, rebuild, reconsider 같은 말들이죠. '다시 하다'나 '돌아가다'는 의미로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "함께"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "짓다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "재건, 복구",
+      "translationLong": "손상되거나 파괴된 것을 다시 짓는 과정",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "화재 후 도시의 재건은 수년이 걸렸다."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "안으로/아니"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "보다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "검사, 점검",
+      "translationLong": "무언가를 자세히 살펴보거나 검토하는 행위",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "건물은 안전 검사를 통과했다."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "통해",
+          "homeLangDetails": "통해, 철저히, 완전히 같은 의미입니다. Perform, permit, persist 같은 단어들에 나타나요."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "보다"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "어떤 특성이나 경향을 나타냅니다. Active, creative, descriptive 같은 형용사들이 이 접미사를 사용해요."
+        }
+      ],
+      "translationShort": "관점, 시각",
+      "translationLong": "무언가를 보거나 이해하는 특정한 방식; 전망이나 시각",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "내 관점에서 보면 그 계획은 너무 위험하다."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "뒤로",
+          "homeLangDetails": "라틴어 retro는 '뒤로' 또는 '과거로'라는 뜻입니다. '보다'라는 뜻의 spect와 결합하면 '과거를 돌아본다'는 의미가 돼요."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "보다"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "어떤 특성이나 경향을 나타냅니다. Active, creative, descriptive 같은 형용사들이 이 접미사를 사용해요."
+        }
+      ],
+      "translationShort": "회고, 회고전",
+      "translationLong": "과거 사건을 검토하거나 살펴보는 것; 과거 사건과 관련된",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "박물관은 그 예술가의 작품 회고전을 개최했다."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "이전",
+          "homeLangDetails": "시간이나 위치상 이전을 의미합니다. Predict, prepare, prehistoric 같은 단어들에 나타나요."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "쓰다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "처방전, 지시",
+      "translationLong": "의약품을 지시하는 의사의 서면 처방; 일련의 지시사항",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "의사는 나에게 항생제 처방전을 써 줬다."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/취소",
+          "homeLangDetails": "아래로, 반대 방향으로, 또는 어떤 행동을 되돌리는 뜻입니다. 감소, 떠남, 해체 같은 의미를 나타내요. 기본 단어의 반대 의미를 직접 나타내는 경우가 많습니다."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "쓰다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "설명, 묘사",
+      "translationLong": "무언가에 대한 말이나 글로 된 설명; 묘사",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "그녀의 그 사건에 대한 설명은 매우 상세했다."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "아래",
+          "homeLangDetails": "아래, 낮은 위치, 또는 보조적인 것을 의미합니다. Subway, submarine, substitute 같은 단어들이 있어요."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "쓰다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "구독, 정기 구독료",
+      "translationLong": "서비스나 출판물에 대한 정기적인 요금 납입; 서명",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "나는 세 개의 잡지를 구독하고 있다."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "밖으로"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "누르다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "표현, 표정",
+      "translationLong": "감정이나 의미를 나타내는 것; 구절이나 단어",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "그녀의 표정은 그녀가 화났음을 보여 줬다."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/취소",
+          "homeLangDetails": "아래로, 반대 방향으로, 또는 어떤 행동을 되돌리는 뜻입니다. 감소, 떠남, 해체 같은 의미를 나타내요. 기본 단어의 반대 의미를 직접 나타내는 경우가 많습니다."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "누르다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "우울증, 함몰",
+      "translationLong": "슬픔이 두드러진 정신 건강 상태; 함몰되거나 파인 부분",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "그녀는 우울증 치료를 받았다."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "안으로/~에게"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "누르다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "느낌이나 생각; 누르거나 찍힌 자국",
+      "translationLong": "무언가에 대한 느낌이나 생각; 누르거나 눌러서 생긴 자국이나 오목함",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "나는 그가 행복하지 않다는 인상을 받았다."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "~로/~을 향해"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "끌다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "관심이나 흥미의 느낌",
+      "translationLong": "관심이나 흥미의 느낌; 사람들을 끌어당기는 것",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "그 테마파크는 관광객들의 주요 관광지이다."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "~밖으로"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "끌다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "제거하거나 꺼내는 행위",
+      "translationLong": "제거하거나 꺼내는 행위; 치아를 뽑는 것",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "치과의사는 발치를 권장했다."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "분산/흩어지게 하다",
+          "homeLangDetails": "아니다, 또는 흩어진다는 뜻이에요. Disagree(불동의), disconnect(단절), disappear(사라지다) 같은 단어들처럼 분리나 반대의 의미가 un-보다 더 강해요."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "끌다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "주의를 딴곳으로 돌리는 것",
+      "translationLong": "작업으로부터 주의를 딴곳으로 돌리는 것; 주의가 산만한 상태",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "그 소음은 시험 중에 큰 방해가 되었다."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "통해/완전히",
+          "homeLangDetails": "통해서, 철저하게, 또는 완전히라는 뜻이에요. Perform(수행하다), permit(허락하다), persist(지속하다) 같은 단어들에서 볼 수 있어요."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "보내다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "공식적인 허락이나 승인",
+      "translationLong": "무언가를 할 수 있도록 공식적으로 허락하거나 승인함",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "조기 퇴근을 하려면 관리자의 허가가 필요합니다."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "가로질러/~을 넘어",
+          "homeLangDetails": "가로질러, 통해서, 또는 한 상태에서 다른 상태로 변한다는 뜻이에요. Transport(운송하다), transform(변환하다), translate(번역하다) 같은 단어들을 보면 알 수 있어요."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "보내다",
+          "homeLangDetails": "라틴어 'mittere'(보내다)에서 온 말이에요. 영어에서 독립적으로 쓰이지 않고 항상 다른 형태소와 결합해서만 나타나는 묶인 어근이에요. Transmit(전송하다), submit(제출하다), permit(허락하다) 같은 단어들에서 이 어근을 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "무언가를 보내는 것; 자동차 변속기",
+      "translationLong": "한 장소에서 다른 장소로 무언가를 보내는 것; 자동차의 변속 장치",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "데이터 전송이 오류 없이 일어났다."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "함께"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "보내다",
+          "homeLangDetails": "라틴어 'mittere'(보내다)에서 온 묶인 어근이에요. 영어에서 혼자 쓰이지 않고 항상 다른 형태소와 함께 나타나요. Commit(헌신하다/저지르다), submit(제출하다), permit(허락하다) 등에서 같은 어근을 볼 수 있어요. 원래 뜻은 '보내다'였지만 지금은 '맡기다' 또는 '헌신하다'에 가까운 뉘앙스로 쓰여요."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-먼트",
+          "homeLangDetails": "동사에서 명사를 만드는데, 그 행동, 결과, 또는 수단을 나타내요. Government(정부), movement(움직임), enjoyment(즐거움) 같은 단어들을 보면 어떻게 쓰이는지 알 수 있어요."
+        }
+      ],
+      "translationShort": "약속이나 맹세; 헌신",
+      "translationLong": "무언가를 하겠다는 약속이나 맹세; 어떤 목표나 사람에 대한 헌신",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "그녀의 그 프로젝트에 대한 헌신은 흔들리지 않았다."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "뒤로/되돌아",
+          "homeLangDetails": "이 단어에서 re-는 '다시'보다는 라틴어 본래 의미인 '뒤로'를 가져요. Receive(받다)는 뒤로 가져오거나 받아들이는 것, recede(물러나다)는 뒤로 가는 것, refer(언급하다)는 원점으로 다시 가져오는 것이라고 생각하면 이해가 쉬워요."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "잡다",
+          "homeLangDetails": "라틴어 'capere'(잡다, 받아들이다)에서 온 묶인 어근이에요. 영어에서 독립적으로 쓰이지 않고 항상 다른 형태소와 결합해서만 나타나요. Receive(받다), accept(수락하다), intercept(가로채다), concept(개념) 같은 단어들에서 이 어근을 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "받는 행위; 공식적인 모임",
+      "translationLong": "받는 행위; 공식적인 모임이나 행사; 신호 수신의 질",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "웨딩 리셉션은 지역의 한 호텔에서 열렸다."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "통해/완전히",
+          "homeLangDetails": "통해서, 철저하게, 또는 완전히라는 뜻이에요. Perform(수행하다), permit(허락하다), persist(지속하다) 같은 단어들에서 볼 수 있어요."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "잡다",
+          "homeLangDetails": "라틴어 'capere'(잡다, 받아들이다)에서 온 묶인 어근이에요. 영어에서 독립적으로 쓰이지 않고 항상 다른 형태소와 결합해서만 나타나요. Receive(받다), accept(수락하다), intercept(가로채다), concept(개념) 같은 단어들에서 이 어근을 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "이해하거나 인식하는 능력",
+      "translationLong": "감각을 통해 무언가를 이해하거나 인식하는 능력; 인식",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "그의 시간에 대한 인식은 사고 후 달라졌다."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/취소하다",
+          "homeLangDetails": "아래로, 멀어지게, 또는 어떤 행동을 반대로 한다는 뜻이에요. Decrease(감소하다), depart(떠나다), deconstruct(분해하다) 같은 단어들을 보면 기본 단어의 의미를 반대로 하는 경우가 많아요."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "잡다",
+          "homeLangDetails": "라틴어 'capere'(잡다, 받아들이다)에서 온 묶인 어근이에요. 영어에서 독립적으로 쓰이지 않고 항상 다른 형태소와 결합해서만 나타나요. Receive(받다), accept(수락하다), intercept(가로채다), concept(개념) 같은 단어들에서 이 어근을 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "속이거나 현혹하는 행위",
+      "translationLong": "누군가를 속이거나 현혹하는 행위; 속임수나 거짓말",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "그 기만은 결국 들통났다."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "뒤로",
+          "homeLangDetails": "여기서 re-는 '다시'가 아니라 라틴어의 오래된 의미인 '뒤로'를 나타냅니다. receive는 '뒤로 가져오다' 또는 '받아들이다', recede는 '뒤로 물러나다', refer는 '어떤 출처로 돌려보내다'라는 뜻이에요."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "나르다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "참고자료",
+      "translationLong": "정보를 찾기 위해 참고하는 자료, 언급이나 알려줌",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "나는 그 책을 에세이의 참고자료로 사용했다."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "함께"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "나르다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "회의",
+      "translationLong": "공식적인 모임이나 논의",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "연간 회의에는 전 세계의 과학자들이 참석한다."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "사이에",
+          "homeLangDetails": "사이에 또는 그 사이사이. International, interrupt, interact 같은 단어들에서도 같은 의미로 쓰여요."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "나르다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "간섭",
+      "translationLong": "간섭하는 행위, 신호 전송을 방해하는 원치 않는 신호",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "라디오 간섭이 방송을 방해했다."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "함께"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "돌리다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "전환",
+      "translationLong": "한 형태, 상태, 또는 신념에서 다른 것으로 바뀌는 과정",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "창고를 아파트로 전환하는 데는 몇 개월이 걸렸다."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "안쪽으로"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "돌리다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "내향성",
+      "translationLong": "자신의 생각과 감정으로 집중하려는 경향",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "그녀의 내향성 때문에 그녀는 집에서 조용한 저녁을 선호했다."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "아래",
+          "homeLangDetails": "아래, 밑, 또는 이차적인 것. Subway, submarine, substitute 같은 단어들에서 같은 의미예요."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "돌리다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "전복",
+      "translationLong": "확립된 것을 훼손하거나 뒤집는 행위",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "정부는 권위의 전복을 엄격히 단속했다."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로",
+          "homeLangDetails": "여기서 de-는 '아래로' 또는 '...에서'라는 방향성을 나타냅니다. 라틴어 dependere는 '아래로 매달리다'라는 뜻이에요. 이것은 기본 단어를 반대로 하는 것이 아니라 어떤 것에 의존하거나 기대는 관계를 설명합니다."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "매달리다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "의존",
+      "translationLong": "무언가 또는 누군가에게 기대는 상태",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "카페인에 대한 그의 의존이 수면에 영향을 주고 있었다."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "아니다"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "아래로",
+          "homeLangDetails": "여기서 de-는 '아래로' 또는 '...에서'라는 방향성을 나타냅니다. 라틴어 dependere는 '아래로 매달리다'라는 뜻이에요. 이것은 기본 단어를 반대로 하는 것이 아니라 어떤 것에 의존하거나 기대는 관계를 설명합니다."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "매달리다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "독립",
+      "translationLong": "자립하고 의존하지 않는 상태",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "그녀는 마침내 재정적 독립을 달성했다."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "사이에",
+          "homeLangDetails": "사이에 또는 그 사이사이. International, interrupt, interact 같은 단어들에서도 같은 의미로 쓰여요."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "아래로",
+          "homeLangDetails": "여기서 de-는 '아래로' 또는 '...에서'라는 방향성을 나타냅니다. 라틴어 dependere는 '아래로 매달리다'라는 뜻이에요. 이것은 기본 단어를 반대로 하는 것이 아니라 어떤 것에 의존하거나 기대는 관계를 설명합니다."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "매달리다"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "상호의존",
+      "translationLong": "서로 다른 당사자나 집단 간의 상호 의존",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "세계 경제는 점점 더 상호의존 관계를 보이고 있다."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "향해"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "달리다"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "발생",
+      "translationLong": "어떤 일이 일어나는 경우나 사건",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "그 지역의 지진 발생은 흔한 일이다."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "함께/모두"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "깨지다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "부패",
+      "translationLong": "부정직하거나 부도덕한 행동, 부패한 상태",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "정부는 부패를 단속했다."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "자신",
+          "homeLangDetails": "자신, 자기 자신을 뜻합니다. Autobiography(자서전), automatic(자동), automobile(자동차) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "생명/인생",
+          "homeLangDetails": "생명, 삶을 뜻합니다. Biology(생물학), biography(전기), biodegradable(생분해성) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graph-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(명사 접미사)"
+        }
+      ],
+      "translationShort": "자서전",
+      "translationLong": "어떤 사람이 직접 쓴 자신의 인생 이야기",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "그녀는 자신의 어린 시절에 대한 자서전을 썼다."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "생명/인생",
+          "homeLangDetails": "생명, 삶을 뜻합니다. Biology(생물학), biography(전기), biodegradable(생분해성) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graph-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(명사 접미사)"
+        }
+      ],
+      "translationShort": "전기",
+      "translationLong": "어떤 사람의 인생을 글로 쓴 기록",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "나는 유명한 과학자의 전기를 읽고 있다."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "빛"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graph-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(명사 접미사)"
+        }
+      ],
+      "translationShort": "사진",
+      "translationLong": "사진을 찍는 기술이나 예술",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "그녀는 사진에 열정이 있다."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "함께",
+          "homeLangDetails": "그리스어에서 온 con- 접두사의 변형으로 '함께' 또는 '같이'를 뜻합니다. Symphony에서는 많은 악기들이 함께 조화롭게 연주된다는 의미를 담고 있습니다."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-phone"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(명사 접미사)"
+        }
+      ],
+      "translationShort": "교향곡",
+      "translationLong": "긴 형식의 오케스트라 작곡곡",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "베토벤의 9번 교향곡은 그의 최고의 작품 중 하나다."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "멀리",
+          "homeLangDetails": "거리가 먼 곳을 뜻합니다. Telephone(전화), television(텔레비전), telescope(망원경) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-phone"
+        }
+      ],
+      "translationShort": "전화기",
+      "translationLong": "먼 거리에서 통신할 수 있는 기구",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "내일 전화로 당신에게 전화할 거예요."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "아주 작은",
+          "homeLangDetails": "매우 작은 것을 뜻합니다. Microphone(마이크), microscope(현미경), microwave(전자레인지) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-phone"
+        }
+      ],
+      "translationShort": "마이크",
+      "translationLong": "작은 소리를 포착하고 증폭하는 기구",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "가수가 마이크에 대고 말했다."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "시간을 뜻합니다. Chronology(연대표), synchronize(동시에 하다), anachronism(시대착오) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logy",
+          "homeLangDetails": "~의 학문, ~에 대한 연구를 뜻합니다. Biology(생물학), psychology(심리학), technology(기술) 처럼 쓰입니다."
+        }
+      ],
+      "translationShort": "연대기",
+      "translationLong": "사건들을 시간 순서대로 배열한 것",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "그 사건들의 연대기는 이해하는 데 중요하다."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "함께",
+          "homeLangDetails": "그리스어에서 온 con- 접두사의 변형으로 '함께'를 뜻합니다. Synchronize에서는 사건이나 행동들이 같은 시간에 함께 일어난다는 의미입니다."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "시간을 뜻합니다. Chronology(연대표), synchronize(동시에 하다), anachronism(시대착오) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize"
+        }
+      ],
+      "translationShort": "시간을 맞추다",
+      "translationLong": "여러 것들이 같은 시간에 일어나도록 하다",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "떠나기 전에 시계를 맞춰 봅시다."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "뒤로/다시",
+          "homeLangDetails": "그리스어 접두사로 '뒤로' 또는 '다시'를 뜻합니다. Anachronism에서는 어떤 것이 그 시대에 맞지 않아 '잘못된 시대로 돌아간' 상태를 나타냅니다."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "시간을 뜻합니다. Chronology(연대표), synchronize(동시에 하다), anachronism(시대착오) 처럼 쓰입니다."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-ism",
+          "homeLangDetails": "신념, 관행, 체계, 또는 특성을 나타냅니다. Realism(사실주의), capitalism(자본주의), enthusiasm(열정) 처럼 쓰입니다."
+        }
+      ],
+      "translationShort": "시대착오",
+      "translationLong": "잘못된 시대에 놓인 것",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "중세 영화에 스마트폰이 있는 것은 시대착오다."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "마음"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "그리스어에서 유래한 복합어를 부드럽게 연결해주는 모음 연결자예요. 자체로는 의미가 없고 단지 발음을 쉽게 만들어줄 뿐입니다."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-로지",
+          "homeLangDetails": "~에 대한 학문, ~학이라는 뜻입니다. 생물학, 심리학, 기술학처럼 특정 분야를 연구하는 학문을 나타낼 때 쓰여요."
+        }
+      ],
+      "translationShort": "마음의 학문",
+      "translationLong": "마음과 행동을 과학적으로 연구하는 학문",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "그녀는 대학에서 심리학을 전공했다."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "인간"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "그리스어에서 유래한 복합어를 부드럽게 연결해주는 모음 연결자예요. 자체로는 의미가 없고 단지 발음을 쉽게 만들어줄 뿐입니다."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-로지",
+          "homeLangDetails": "~에 대한 학문, ~학이라는 뜻입니다. 생물학, 심리학, 기술학처럼 특정 분야를 연구하는 학문을 나타낼 때 쓰여요."
+        }
+      ],
+      "translationShort": "인간의 학문",
+      "translationLong": "인간 사회와 문화를 과학적으로 연구하는 학문",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "인류학은 우리가 다양한 문화를 이해하는 데 도움이 된다."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "피부"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "그리스어에서 유래한 복합어를 부드럽게 연결해주는 모음 연결자예요. 자체로는 의미가 없고 단지 발음을 쉽게 만들어줄 뿐입니다."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-로지",
+          "homeLangDetails": "~에 대한 학문, ~학이라는 뜻입니다. 생물학, 심리학, 기술학처럼 특정 분야를 연구하는 학문을 나타낼 때 쓰여요."
+        }
+      ],
+      "translationShort": "피부의 학문",
+      "translationLong": "피부와 피부 질환을 의학적으로 연구하는 학문",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "나는 피부과 전문의와 약속이 있다."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "함께",
+          "homeLangDetails": "그리스어 syn-(함께, ~와 함께)의 변형입니다. 여기서는 -pathy(감정)와 결합해서 '함께 느낀다'는 뜻이 돼요. 즉, 다른 사람의 감정을 이해하고 공감한다는 의미입니다."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-패시",
+          "homeLangDetails": "감정, 고통, 상태를 나타내는 그리스어 파토스(pathos)에서 나왔어요. 동정심, 공감, 반감, 무관심처럼 감정과 관련된 단어들에 자주 붙습니다."
+        }
+      ],
+      "translationShort": "연민, 공감",
+      "translationLong": "다른 사람의 감정을 이해하고 공유하는 능력",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "나는 그녀의 어려운 상황에 대해 동정심을 느꼈다."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "안으로",
+          "homeLangDetails": "그리스어 en-(안으로, ~에)의 변형입니다. 여기서는 다른 사람의 감정 상태로 들어간다는 뜻이에요. 단순히 이해하는 것을 넘어 상대의 감정을 내 것처럼 느껴보는, 더 깊고 상상력 있는 과정입니다."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-패시",
+          "homeLangDetails": "감정, 고통, 상태를 나타내는 그리스어 파토스(pathos)에서 나왔어요. 동정심, 공감, 반감, 무관심처럼 감정과 관련된 단어들에 자주 붙습니다."
+        }
+      ],
+      "translationShort": "감정 공감",
+      "translationLong": "다른 사람의 감정을 마치 자신의 것처럼 이해하고 느끼는 능력",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "공감은 좋은 친구가 되기 위해 중요하다."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "-안티",
+          "homeLangDetails": "반대, 대항이라는 뜻입니다. 반전쟁, 항생제, 예상처럼 어떤 것에 반대되거나 맞서는 개념을 나타낼 때 붙습니다."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-패시",
+          "homeLangDetails": "감정, 고통, 상태를 나타내는 그리스어 파토스(pathos)에서 나왔어요. 동정심, 공감, 반감, 무관심처럼 감정과 관련된 단어들에 자주 붙습니다."
+        }
+      ],
+      "translationShort": "반감, 거부감",
+      "translationLong": "극도로 싫어하거나 반대하는 강한 감정",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "그는 현대미술에 대해 강한 거부감을 가지고 있었다."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "변화, 초월",
+          "homeLangDetails": "그리스어 접두사로 '변화', '초월', '넘어'라는 뜻입니다. 여기서는 morph(형태)와 결합해서 형태가 완전히 바뀐다는 뜻이 돼요. 애벌레가 나비로 변하는 것처럼요."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-모프-",
+          "homeLangDetails": "형태, 모양을 나타냅니다. 변신, 정형이 안 된, 형태학처럼 형태나 구조와 관련된 단어들에 자주 쓰입니다."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "그리스어에서 유래한 복합어를 부드럽게 연결해주는 모음 연결자예요. 자체로는 의미가 없고 단지 발음을 쉽게 만들어줄 뿐입니다."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-시스",
+          "homeLangDetails": "그리스어 접미사로 상태, 과정, 조건을 나타냅니다. 형태가 바뀐다는 동작을 그 과정 자체를 일컫는 명사로 만들어줍니다."
+        }
+      ],
+      "translationShort": "변신, 변태",
+      "translationLong": "형태나 구조가 완전히 바뀌는 것, 특히 생물의 변태 과정",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "올챙이가 개구리로 변태하는 데는 몇 주가 걸린다."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "아니, 없이",
+          "homeLangDetails": "그리스어 접두사로 '아니' 또는 '없이'라는 뜻입니다. 이건 우리가 쓰는 '불-'이나 '무-'와 똑같은 역할을 해요. 여기서는 모프(형태)를 부정해서 형태가 없다는 뜻이 됩니다."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-모프-",
+          "homeLangDetails": "형태, 모양을 나타냅니다. 변신, 정형이 안 된, 형태학처럼 형태나 구조와 관련된 단어들에 자주 쓰입니다."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-어스"
+        }
+      ],
+      "translationShort": "형태 없는, 무정형",
+      "translationLong": "명확한 형태나 모양이 없는 것, 애매하거나 불분명한",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "진흙 덩어리는 무정형이어서 뭐든지 될 수 있다."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "불-",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 이어져 내려온 것입니다. 독일어의 un-, 네덜란드어의 on-과 정확히 같은 방식으로 작동하며 게르만어족 전체에서 같은 기능을 합니다. unhappy(불행한), unknown(알려지지 않은), unforgettable(잊을 수 없는)처럼 기본 단어의 의미를 완전히 반대로 만들어요."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "편안"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "불편한, 어색한",
+      "translationLong": "불편함을 주거나 느끼는 것, 어색하거나 어려운",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "그 의자는 매우 불편하다."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "불-",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 이어져 내려온 것입니다. 독일어의 un-, 네덜란드어의 on-과 정확히 같은 방식으로 작동하며 게르만어족 전체에서 같은 기능을 합니다. unhappy(불행한), unknown(알려지지 않은), unforgettable(잊을 수 없는)처럼 기본 단어의 의미를 완전히 반대로 만들어요."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "믿다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "믿을 수 없는, 놀라운",
+      "translationLong": "믿기 어려운 것, 믿을 수 없을 정도로 놀랍거나 대단한",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "그 이야기는 믿을 수 없게 들린다!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받았어요. 독일어의 'un-', 네덜란드어의 'on-' 등 게르만 언어족 전체에서 비슷한 형태를 찾아볼 수 있어요. 단어의 의미를 정반대로 뒤집어놓으니까, unhappy는 '행복하지 않은', unknown은 '알려지지 않은', unforgettable은 '잊을 수 없는'이 되는 식이에요."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "잊다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "잊을 수 없는, 기억에 남는",
+      "translationLong": "잊혀질 수 없는, 인상적이고 기억에 오래 남는",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "그 휴가는 정말 잊을 수 없었다."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받았어요. 독일어의 'un-', 네덜란드어의 'on-' 등 게르만 언어족 전체에서 비슷한 형태를 찾아볼 수 있어요. 단어의 의미를 정반대로 뒤집어놓으니까, unhappy는 '행복하지 않은', unknown은 '알려지지 않은', unforgettable은 '잊을 수 없는'이 되는 식이에요."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "인식하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "알아볼 수 없는, 식별할 수 없는",
+      "translationLong": "인식하거나 식별할 수 없는",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "사고 후 그 자동차는 알아볼 수 없을 정도로 망가졌다."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "오류 접두사",
+          "homeLangDetails": "뭔가 잘못되거나 부정적으로 행해졌다는 뜻을 나타내요. misunderstand는 '잘못 이해하다', mistake는 '실수하다', misrepresent는 '잘못 표현하다' 이런 식으로요."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "이해하다"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "동사를 명사로 만드는 접미사예요. 여기서는 'misunderstand'라는 동사를 '오해'라는 명사로 만들었어요."
+        }
+      ],
+      "translationShort": "오해, 착각",
+      "translationLong": "뭔가를 잘못 이해하는 것, 또는 그로 인한 혼란이나 불일치",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "회의 시간에 대한 오해가 있었다."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "오류 접두사",
+          "homeLangDetails": "뭔가 잘못되거나 부정적으로 행해졌다는 뜻을 나타내요. misunderstand는 '잘못 이해하다', mistake는 '실수하다', misrepresent는 '잘못 표현하다' 이런 식으로요."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "표현하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "왜곡, 거짓 표현",
+      "translationLong": "뭔가를 거짓되거나 오도하는 방식으로 묘사하는 것, 사실을 왜곡하는 것",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "그 기사는 사실을 왜곡하고 있었다."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "과도 접두사",
+          "homeLangDetails": "과도함이나 한계를 넘어선다는 뜻이에요. overlook은 '간과하다', overwhelm은 '압도하다', overestimate는 '과대평가하다' 이런 식으로요. 더 오래된 복합어에서는 '위에' 같은 공간적 의미로도 쓰여요."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "잠기게 하다, 압도하다",
+          "homeLangDetails": "'whelm'이라는 단어는 '잠기게 하다' 또는 '집어삼키다'는 뜻인데, 요즘엔 보통 'over-' 접두사와 함께 쓰여요. over-를 붙으면 완전히 잠기거나 휩싸인다는 감각을 나타내요. 감정적으로든 물리적으로든 말이에요."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "동사를 형용사로 만드는 접미사예요. 여기서는 뭔가를 압도하는 것을 나타내는 형용사를 만들었어요."
+        }
+      ],
+      "translationShort": "압도적인, 놀라운",
+      "translationLong": "극도로 인상적이고 강력하거나 정서적으로 강렬한, 압도하는",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "그녀가 받은 지지는 정말 압도적이었다."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "부족 접두사",
+          "homeLangDetails": "over-의 반대 개념이에요. underground처럼 '아래에'라는 뜻도 있고, underestimate나 underperform처럼 '충분하지 않은'이라는 뜻도 있어요."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "평가하다"
+        }
+      ],
+      "translationShort": "과소평가하다",
+      "translationLong": "마땅한 것보다 덜 중요하거나 덜 능력 있다고 평가하다",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "복잡한 문제를 푸는 그녀의 능력을 과소평가하지 마."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "과도 접두사",
+          "homeLangDetails": "과도함이나 한계를 넘어선다는 뜻이에요. overlook은 '간과하다', overwhelm은 '압도하다', overestimate는 '과대평가하다' 이런 식으로요. 더 오래된 복합어에서는 '위에' 같은 공간적 의미로도 쓰여요."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "평가하다"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "과대평가",
+      "translationLong": "뭔가를 실제보다 더 크거나 중요하다고 평가하는 행위",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "프로젝트 예산의 과대평가로 인해 재정 문제가 생겼다."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "다중 접두사",
+          "homeLangDetails": "여러 개, 다양한 것을 의미해요. multicultural는 '다문화의', multimedia는 '멀티미디어', multiply는 '곱하다' 이런 식이에요."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "문화적인"
+        }
+      ],
+      "translationShort": "다문화의",
+      "translationLong": "여러 다른 문화와 관련되거나 그로 이루어진",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "우리 도시는 다양한 문화로 이루어진 인구로 알려져 있다."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "초월 접두사",
+          "homeLangDetails": "가로지르기, 통과, 또는 한 상태에서 다른 상태로 변하는 것을 나타내요. transport는 '운반하다', transform은 '변형하다', translate는 '번역하다' 같은 식으로요."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "대륙의"
+        }
+      ],
+      "translationShort": "대륙 횡단의",
+      "translationLong": "한 대륙이나 여러 대륙에 걸쳐 펼쳐지거나 횡단하는",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "그 대륙 횡단 철도는 동부와 서부 해안을 연결했다."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "상호 접두사",
+          "homeLangDetails": "사이에, 서로를 의미해요. international은 '국제적인', interrupt는 '방해하다', interact는 '상호작용하다' 이런 식으로요."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "바꾸다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "호환 가능한, 대체 가능한",
+      "translationLong": "어느 위치에든 사용해도 작동에 영향을 주지 않으면서 서로 바뀔 수 있는",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "이 두 부품은 어디든 바뀌어 쓸 수 있고 기계 작동에 문제가 없다."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/아니다/떨어지다",
+          "homeLangDetails": "아니라는 뜻이거나 무언가를 분리한다는 뜻이에요. disagree(반대하다), disconnect(연결을 끊다), disappear(사라지다) 같은 단어들에 들어가 있죠. un-보다 더 강하게 분리하거나 반대의 의미를 나타낸다고 생각하면 돼요."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "정리하다"
+        }
+      ],
+      "translationShort": "정리를 망치다",
+      "translationLong": "무질서하게 만들다, 조직이나 계획을 방해하다",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "갑작스러운 변화로 우리의 세밀하게 계획한 일정이 무질서해졌다."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "현대적인"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-화하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-화"
+        }
+      ],
+      "translationShort": "현대화",
+      "translationLong": "무언가를 현대적이거나 최신식으로 만드는 과정",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "공장의 현대화는 그 효율성을 높였다."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "산업의"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-화하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-화"
+        }
+      ],
+      "translationShort": "산업화",
+      "translationLong": "어떤 지역이나 사회에 산업을 발전시키는 과정",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "나라의 산업화는 경제를 크게 변화시켰다."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "격려하다"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-음",
+          "homeLangDetails": "동사에서 명사를 만드는데, 어떤 행동이나 그 결과, 또는 그 수단을 나타내요. government(정부), movement(움직임), enjoyment(즐거움) 같은 단어들처럼요."
+        }
+      ],
+      "translationShort": "격려",
+      "translationLong": "누군가에게 용기나 지지를 주는 행동",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "그녀의 격려가 내가 두려움을 극복하는 데 도움이 되었다."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/아니다/떨어지다",
+          "homeLangDetails": "아니라는 뜻이거나 무언가를 분리한다는 뜻이에요. disagree(반대하다), disconnect(연결을 끊다), disappear(사라지다) 같은 단어들에 들어가 있죠. un-보다 더 강하게 분리하거나 반대의 의미를 나타낸다고 생각하면 돼요."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "동의하다"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-음",
+          "homeLangDetails": "동사에서 명사를 만드는데, 어떤 행동이나 그 결과, 또는 그 수단을 나타내요. government(정부), movement(움직임), enjoyment(즐거움) 같은 단어들처럼요."
+        }
+      ],
+      "translationShort": "의견 불일치",
+      "translationLong": "동의하지 않음, 의견이 다른 것",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "예산에 대한 그들의 의견 불일치는 몇 주간 계속되었다."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/아니다/떨어지다",
+          "homeLangDetails": "아니라는 뜻이거나 무언가를 분리한다는 뜻이에요. disagree(반대하다), disconnect(연결을 끊다), disappear(사라지다) 같은 단어들에 들어가 있죠. un-보다 더 강하게 분리하거나 반대의 의미를 나타낸다고 생각하면 돼요."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "임명하다"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-음",
+          "homeLangDetails": "동사에서 명사를 만드는데, 어떤 행동이나 그 결과, 또는 그 수단을 나타내요. government(정부), movement(움직임), enjoyment(즐거움) 같은 단어들처럼요."
+        }
+      ],
+      "translationShort": "실망",
+      "translationLong": "기대했던 것이 충족되지 않았을 때 느끼는 슬픈 감정",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "콘서트 취소는 정말 큰 실망이었다."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "인정하다"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-음",
+          "homeLangDetails": "동사에서 명사를 만드는데, 어떤 행동이나 그 결과, 또는 그 수단을 나타내요. government(정부), movement(움직임), enjoyment(즐거움) 같은 단어들처럼요."
+        }
+      ],
+      "translationShort": "인정",
+      "translationLong": "무언가를 인식하거나 인정함, 보통 누군가가 한 일이나 말한 것을 인정하는 것",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "그의 기여에 대한 인정은 오래전에 있었어야 했다."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "용기"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-한"
+        }
+      ],
+      "translationShort": "용감한",
+      "translationLong": "용감한, 용기를 보여주는",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "그녀의 용감한 행동은 위기 중에 많은 목숨을 구했다."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "폭력/과도함",
+          "homeLangDetails": "오래된 프랑스어 outrage(과도함, 폭력)에서 온 고정된 단어 조합이에요. 현대 영어의 out- 접두사와 rage를 합친 게 아니라는 뜻이죠. 여기 out-은 라틴어 ultra(초월하다)에서 나온 거라서, outrageous는 문자 그대로 '분노를 넘어선다'기보다 '한계를 넘어선다'는 의미예요."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-한"
+        }
+      ],
+      "translationShort": "어마어마한",
+      "translationLong": "충격적일 정도로 나쁘거나 불쾌한, 극도로 이상하거나 과한",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "이렇게 작은 물건의 어마어마한 가격이 웃음이 나왔다."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "이점"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-한"
+        }
+      ],
+      "translationShort": "유리한",
+      "translationLong": "이득이나 이점을 주는, 유리한",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "해외 유학은 당신의 커리어에 유리할 수 있다."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "초과하는, 넘어서"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "보통의"
+        }
+      ],
+      "translationShort": "비범한, 뛰어난",
+      "translationLong": "비범한, 뛰어난, 주목할 만한, 특이한",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "그녀는 음악에 대한 비범한 재능을 가지고 있다."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "언급하다, 눈에 띄다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "주목할 만한, 눈에 띄는",
+      "translationLong": "주목할 만한, 눈에 띄는, 주의할 가치가 있는",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "그 선수는 부상에서 눈에 띄는 회복을 이루었다."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "예측하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "예측 가능한",
+      "translationLong": "예측 가능한, 미리 알 수 있는",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "그 영화의 결말은 완전히 예측 가능했다."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "조정하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "조절 가능한",
+      "translationLong": "조절 가능한, 조정할 수 있는",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "이 의자는 높이를 조절할 수 있다."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "확장하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는"
+        }
+      ],
+      "translationShort": "확장 가능한",
+      "translationLong": "확장 가능한, 늘릴 수 있는",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "이 수납 상자는 더 많은 공간이 필요할 때 확장할 수 있다."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/아닌",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서부터 내려온 것입니다. 독일어의 'un-', 네덜란드어의 'on-'과 정확히 같은 역할을 하는데, 게르만어족 전체에서 이런 패턴을 볼 수 있어요. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 단어들처럼 기본 단어의 의미를 정반대로 바꿉니다."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "의식 있는"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-상태",
+          "homeLangDetails": "형용사를 그 상태나 성질을 나타내는 명사로 바꿉니다. happiness(행복), darkness(어둠), awareness(인식) 같은 단어들이 이렇게 만들어져요. 라틴어의 -ity와 역할이 비슷한데, 이건 게르만어의 고유한 방식입니다."
+        }
+      ],
+      "translationShort": "의식 상실, 인식 상실",
+      "translationLong": "의식 상실, 인식 상실, 의식이 없는 상태",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "그의 머리에 맞은 타격으로 몇 분간 의식을 잃었다."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "ir-/아닌"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "책임감 있는"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성질"
+        }
+      ],
+      "translationShort": "무책임, 책임감 부족",
+      "translationLong": "무책임, 책임감 부족, 부주의",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "그의 무책임함은 회사에 수천 달러의 손실을 입혔다."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/아닌"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "이해할 수 있는"
+        }
+      ],
+      "translationShort": "이해 불가능한, 알 수 없는",
+      "translationLong": "이해 불가능한, 알 수 없는, 도무지 이해할 수 없는",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "그 지시사항은 알 수 없는 전문용어로 작성되어 있었다."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "구간, 칸막이"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-한",
+          "homeLangDetails": "~와 관련된, ~의 성질을 가진. musical(음악의), natural(자연스러운), industrial(산업의) 같은 단어들에서 봐요."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-하다",
+          "homeLangDetails": "어떤 성질을 가지게 하거나 특정 과정을 수행하도록 만드는 접미사입니다. modernize(현대화하다), organize(조직화하다), realize(실현하다) 같은 단어들처럼요."
+        }
+      ],
+      "translationShort": "칸막이 짓다",
+      "translationLong": "칸막이 짓다, 별개의 구간이나 범주로 나누다",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "어떤 사람들은 일과 개인 생활을 구분해서 생각한다."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/아닌"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "어울리는"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성질"
+        }
+      ],
+      "translationShort": "양립 불가능",
+      "translationLong": "양립 불가능, 호환되지 않는 상태",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "두 시스템 간의 양립 불가능으로 인해 통합이 어려웠다."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "돌봄"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "어떤 것으로 가득 차 있거나 그 특징을 가지고 있다는 뜻이에요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "조심스럽게",
+      "translationLong": "주의를 기울이거나 신중하게; 돌봄을 가지고",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "그녀는 꽃병을 선반에 조심스럽게 놓았다."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "돌봄"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "부주의하게",
+      "translationLong": "돌봄 없이; 부주의하거나 태만한 방식으로",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "그는 컵을 부주의하게 떨어뜨렸다."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "돌봄"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 어떤 상태나 특성을 나타내요. Happiness, darkness, awareness 같은 단어들처럼요. 라틴어의 -ity와 비슷한 게르만어 접미사예요."
+        }
+      ],
+      "translationShort": "부주의함",
+      "translationLong": "부주의한 상태나 성질; 태만함",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "그녀의 부주의함이 접시를 깨뜨렸다."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "도움"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "어떤 것으로 가득 차 있거나 그 특징을 가지고 있다는 뜻이에요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "도움이 되게",
+      "translationLong": "도움이 되거나 지원을 제공하는 방식으로",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "그녀는 지시사항을 도움이 되게 설명했다."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "도움"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "무력하게",
+      "translationLong": "자신을 도울 수 없는 방식으로; 힘없이",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "그는 사고가 일어나는 것을 무력하게 지켜봤다."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "도움"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 어떤 상태나 특성을 나타내요. Happiness, darkness, awareness 같은 단어들처럼요. 라틴어의 -ity와 비슷한 게르만어 접미사예요."
+        }
+      ],
+      "translationShort": "무력함",
+      "translationLong": "자신을 도울 수 없는 상태나 상황",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "그녀의 목소리에 담긴 무력함이 가슴을 아프게 했다."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "희망"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "어떤 것으로 가득 차 있거나 그 특징을 가지고 있다는 뜻이에요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "바라건대; 희망차게",
+      "translationLong": "희망이나 낙관으로; 어떤 일이 일어나기를 바라는 마음으로",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "바라건대 내일 날씨가 좋아질 거예요."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "희망"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 어떤 상태나 특성을 나타내요. Happiness, darkness, awareness 같은 단어들처럼요. 라틴어의 -ity와 비슷한 게르만어 접미사예요."
+        }
+      ],
+      "translationShort": "절망감",
+      "translationLong": "희망이 없는 상태나 기분; 절망",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "팀 위에 절망감이 감돌았다."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "희망"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없다, 부족하다는 뜻이에요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "절망적으로",
+      "translationLong": "희망이 없는 방식으로; 절망하며",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "상황은 절망적으로 심각해 보였다."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "감사"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "어떤 것으로 가득 차 있거나 그 특징을 가지고 있다는 뜻이에요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사에 붙어서 \"어떤 방식으로\"라는 의미의 부사를 만들어요. Quickly, happily, surprisingly 처럼요. 형용사를 만들기도 합니다: friendly, lovely."
+        }
+      ],
+      "translationShort": "다행히; 감사하게도",
+      "translationLong": "다행스럽게도; 감사하거나 안도하는 마음으로",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "다행히 사고에서 아무도 다치지 않았다."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "감사"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "무언가로 가득 찬, 또는 그것의 특징을 나타내요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 상태나 성질을 나타내요. Happiness, darkness, awareness처럼요. 라틴어의 -ity와 비슷한 게르만어식 접미사예요."
+        }
+      ],
+      "translationShort": "감사하는 마음",
+      "translationLong": "감사하는 상태나 품질",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "그녀의 감사하는 마음이 따뜻한 포옹으로 드러났다."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "생각"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "무언가로 가득 찬, 또는 그것의 특징을 나타내요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "신중한 방식으로",
+      "translationLong": "주의 깊게 생각하며, 사려 깊고 신중한 방식으로",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "그녀는 대답하기 전에 신중하게 그 질문을 생각했다."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "생각"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없음을 나타내요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 상태나 성질을 나타내요. Happiness, darkness, awareness처럼요. 라틴어의 -ity와 비슷한 게르만어식 접미사예요."
+        }
+      ],
+      "translationShort": "배려 부족",
+      "translationLong": "사려 깊지 못하거나 생각이 부족한 상태나 품질",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "그의 배려 부족이 그녀의 기분을 상하게 했다."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "두려움"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없음을 나타내요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "두려움 없는 방식으로",
+      "translationLong": "두려움 없이, 용감하거나 대담한 방식으로",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "그 군인은 용감하게 전쟁터로 행진했다."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "두려움"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없음을 나타내요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 상태나 성질을 나타내요. Happiness, darkness, awareness처럼요. 라틴어의 -ity와 비슷한 게르만어식 접미사예요."
+        }
+      ],
+      "translationShort": "두려움의 부재",
+      "translationLong": "용감한 상태나 품질, 두려움이 없는 것",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "그녀의 용감함이 주변 모두에게 영감을 주었다."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "평화"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "무언가로 가득 찬, 또는 그것의 특징을 나타내요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "평화로운 방식으로",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "시위대는 도시를 통해 평화적으로 행진했다."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "아름다움"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "여기서 -ful은 명사 beauty에 붙어요. 하지만 beauty 자체가 이미 -ty 접미사를 포함하고 있어요. Beautifully에서는 형용사 beautiful(beauty + -ful = 아름다움으로 가득 찬)에 -ly를 붙여서 부사를 만드는 거예요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "아름다운 방식으로",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "그녀는 콘서트에서 아름답게 노래했다."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "성공"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "무언가로 가득 찬, 또는 그것의 특징을 나타내요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "성공적인 방식으로",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "그 프로젝트는 제시간에 성공적으로 완료되었다."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "힘"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "무언가로 가득 찬, 또는 그것의 특징을 나타내요. Beautiful, careful, powerful 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 바꿔서 '어떤 방식으로'라는 뜻을 만들어요. Quickly, happily, surprisingly처럼요. 또한 형용사를 만들기도 해요: friendly, lovely."
+        }
+      ],
+      "translationShort": "강력한 방식으로",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "그 연설가는 강력하게 설득력 있는 주장을 펼쳤다."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "힘"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "없음을 나타내요. Careless, hopeless, speechless처럼요."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔서 상태나 성질을 나타내요. Happiness, darkness, awareness처럼요. 라틴어의 -ity와 비슷한 게르만어식 접미사예요."
+        }
+      ],
+      "translationShort": "힘의 부재",
+      "translationLong": "힘이나 영향력이 없는 상태",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "그는 부정의 앞에서 깊은 무력감을 느꼈다."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "행운·fortunate"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 만들어 \"어떤 방식으로\"라는 의미를 나타냅니다. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 방식이죠. 형용사를 만들기도 합니다: friendly(친근한), lovely(사랑스러운)."
+        }
+      ],
+      "translationShort": "슬프게도, 안타깝게도",
+      "translationLong": "슬프게도, 안타깝게도, 불행히도",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "슬프게도 그 콘서트는 취소되었습니다."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "기대하다·expect"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(과거분사)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "형용사를 부사로 만들어 \"어떤 방식으로\"라는 의미를 나타냅니다. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 방식이죠. 형용사를 만들기도 합니다: friendly(친근한), lovely(사랑스러운)."
+        }
+      ],
+      "translationShort": "놀랍게도, 갑자기",
+      "translationLong": "놀랍게도, 갑자기, 예상치 못한 방식으로",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "그녀는 놀랍게도 파티에 나타났습니다."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "건강·health"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(형용사형)"
+        }
+      ],
+      "translationShort": "병약한, 해로운",
+      "translationLong": "병약한, 해로운, 건강을 해치는",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "건강을 해치는 식단은 질병으로 이어질 수 있습니다."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "이유·reason"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "\"할 수 있는\" 상태를 나타냅니다. Readable(읽을 수 있는), comfortable(편안한), possible(가능한) 같은 식으로요."
+        }
+      ],
+      "translationShort": "불합리한, 부당한",
+      "translationLong": "불합리한, 부당한, 지나친",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "그의 요구는 지나쳤습니다."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "받아들이다·accept"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "\"할 수 있는\" 상태를 나타냅니다. Readable(읽을 수 있는), comfortable(편안한), possible(가능한) 같은 식으로요."
+        }
+      ],
+      "translationShort": "받아들일 수 없는",
+      "translationLong": "받아들일 수 없는, 부적절한, 참을 수 없는",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "그 행동은 완전히 참을 수 없습니다."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "피하다·avoid"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "\"할 수 있는\" 상태를 나타냅니다. Readable(읽을 수 있는), comfortable(편안한), possible(가능한) 같은 식으로요."
+        }
+      ],
+      "translationShort": "피할 수 없는, 필연적인",
+      "translationLong": "피할 수 없는, 필연적인, 반드시 일어날",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "죽음과 세금은 피할 수 없습니다."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "중요한·important"
+        }
+      ],
+      "translationShort": "하찮은, 사소한",
+      "translationLong": "하찮은, 사소한, 별로 중요하지 않은",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "그 세부사항은 사소합니다."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "부정·not",
+          "homeLangDetails": "영어에서 가장 흔한 부정 접두사로, 고대 영어에서 물려받은 것입니다. 한국어의 '불-'이나 '못-' 같은 부정 접두사처럼 작동하며, 단어의 의미를 정반대로 뒤집습니다. unhappy(행복하지 않은), unknown(알려지지 않은), unforgettable(잊을 수 없는) 같은 식으로요."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "의지·will"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(동명사)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "형용사를 명사로 바꿔 상태나 성질을 나타냅니다. Happiness(행복), darkness(어둠), awareness(인식) 같은 식이죠. 라틴어의 -ity와 비슷한 역할을 하는 게르만 계열의 접미사입니다."
+        }
+      ],
+      "translationShort": "마지못함, 꺼려함",
+      "translationLong": "마지못함, 꺼려함, 기꺼이 하려 하지 않는 상태",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "그의 마지못한 도움은 실망스러웠습니다."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시·again",
+          "homeLangDetails": "반복이나 이전 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 이 접두사는 수천 개의 영어 단어에 나타납니다: return(돌아가다), rebuild(다시 짓다), reconsider(재고하다). \"다시 하기\" 또는 \"다시 돌아가기\"와 자주 바꿔 쓸 수 있습니다."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "고려하다·consider"
+        }
+      ],
+      "translationShort": "다시 생각하다",
+      "translationLong": "다시 생각하다, 재검토하다, 마음을 바꾸다",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "내 결정을 다시 생각해봐야 합니다."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시·again",
+          "homeLangDetails": "반복이나 이전 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 이 접두사는 수천 개의 영어 단어에 나타납니다: return(돌아가다), rebuild(다시 짓다), reconsider(재고하다). \"다시 하기\" 또는 \"다시 돌아가기\"와 자주 바꿔 쓸 수 있습니다."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "고려하다·consider"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion",
+          "homeLangDetails": "라틴어에서 나온 영어에서 가장 흔한 명사 접미사입니다. 동사를 명사로 바꿔 어떤 행동이나 그 결과를 나타냅니다. Construction(건설), permission(허가), explosion(폭발) 같은 식이죠. 독일어의 -ung과 비슷한 역할을 합니다."
+        }
+      ],
+      "translationShort": "재검토, 재고",
+      "translationLong": "재검토, 재고, 다시 생각하는 행위",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "위원회는 그 제안의 재검토를 요청했습니다."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시/재-",
+          "homeLangDetails": "반복이나 어떤 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 접두사로, 영어의 수많은 단어에 나타나요. return, rebuild, reconsider 같은 말들이 그 예입니다. '다시 하다'나 '돌아가다'라는 뜻으로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "정리하다"
+        }
+      ],
+      "translationShort": "다시 정리하다",
+      "translationLong": "다시 정리하다, 재구조화하다, 다시 배열하다",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "그 회사는 부서를 재구조화하기로 결정했다."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시/재-",
+          "homeLangDetails": "반복이나 어떤 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 접두사로, 영어의 수많은 단어에 나타나요. return, rebuild, reconsider 같은 말들이 그 예입니다. '다시 하다'나 '돌아가다'라는 뜻으로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "정리하다"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion (명사 접미사)"
+        }
+      ],
+      "translationShort": "재구조화, 재편성",
+      "translationLong": "재구조화, 재편성, 다시 정리하는 과정",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "그 재구조화는 3개월이 걸렸다."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시/재-",
+          "homeLangDetails": "반복이나 어떤 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 접두사로, 영어의 수많은 단어에 나타나요. return, rebuild, reconsider 같은 말들이 그 예입니다. '다시 하다'나 '돌아가다'라는 뜻으로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "소개하다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion (명사 접미사)",
+          "homeLangDetails": "영어에서 가장 흔한 명사 접미사로, 라틴어에서 왔습니다. 동사를 명사로 바꿔서 어떤 행동이나 그 결과를 나타내요. construction, permission, explosion 같은 단어들이 있습니다. 한국어의 '-음', '-기' 정도에 대응된다고 생각하면 됩니다."
+        }
+      ],
+      "translationShort": "복원, 재도입",
+      "translationLong": "복원, 재도입, 다시 소개하는 행위",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "늑대를 복원하는 것은 생태계를 회복하는 데 도움이 되었다."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시/재-",
+          "homeLangDetails": "반복이나 어떤 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 접두사로, 영어의 수많은 단어에 나타나요. return, rebuild, reconsider 같은 말들이 그 예입니다. '다시 하다'나 '돌아가다'라는 뜻으로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "연결하다"
+        }
+      ],
+      "translationShort": "다시 연결하다",
+      "translationLong": "다시 연결하다, 다시 만나다, 연락을 다시 취하다",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "몇 년 만에 우리는 동창회에서 다시 만났다."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시/재-",
+          "homeLangDetails": "반복이나 어떤 상태로의 복귀를 나타냅니다. 라틴어 re-에서 나온 접두사로, 영어의 수많은 단어에 나타나요. return, rebuild, reconsider 같은 말들이 그 예입니다. '다시 하다'나 '돌아가다'라는 뜻으로 자주 쓰입니다."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "순환"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing (동명사)"
+        }
+      ],
+      "translationShort": "자원 재활용, 순환 재사용",
+      "translationLong": "자원 재활용, 순환 재사용, 폐기물을 새로운 제품으로 만드는 과정",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "자원 재활용은 환경 오염을 줄이는 데 도움이 된다."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "함께/공-",
+          "homeLangDetails": "함께 또는 공동으로라는 뜻입니다. 라틴어 접두사 중에서 가장 생산성 있는 것 중 하나예요. connect, combine, cooperate, collect 같은 단어들이 그 예입니다. 뒤따르는 자음에 맞춰서 철자가 바뀌기도 합니다."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "공통의"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tion (명사 접미사)"
+        }
+      ],
+      "translationShort": "정보의 교환",
+      "translationLong": "정보나 소식을 나누거나 주고받는 것",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "좋은 의사소통은 모든 관계에서 필수적이다."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "밖으로/ex-",
+          "homeLangDetails": "밖으로, 이전의, 또는 떨어져 있다는 뜻입니다. exhale, export, eject, ex-president 같은 말들에 쓰입니다."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "이끌다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion (명사 접미사)"
+        }
+      ],
+      "translationShort": "가르치는 과정",
+      "translationLong": "특히 학교에서 가르치고 배우는 과정",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "교육은 많은 기회의 문을 열어준다."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "안으로/in-",
+          "homeLangDetails": "이 접두사는 두 가지 뜻이 있어서 꽤 신기해요. '아니다'라는 뜻(inactive, impossible, illegal)과 '안으로'라는 뜻(insert, import)이 있거든요. 뒤따르는 자음에 맞춰서 철자가 바뀌기도 합니다."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "발자국/흔적"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion (명사 접미사)"
+        }
+      ],
+      "translationShort": "자세한 조사",
+      "translationLong": "어떤 것에 대해 자세히 살펴보고 조사하는 것",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "경찰은 그 절도 사건에 대해 조사를 진행했다."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "안으로/내부로"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "이끌다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion (명사 접미사)",
+          "homeLangDetails": "영어에서 가장 흔한 명사 접미사로, 라틴어에서 왔습니다. 동사를 명사로 바꿔서 어떤 행동이나 그 결과를 나타내요. construction, permission, explosion 같은 단어들이 있습니다. 한국어의 '-음', '-기' 정도에 대응된다고 생각하면 됩니다."
+        }
+      ],
+      "translationShort": "정식 소개",
+      "translationLong": "한 사람을 다른 사람에게 정식으로 소개하는 것, 또는 책이나 연설의 시작 부분",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "그 소설의 도입부는 주요 갈등을 설정한다."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "앞으로/전진",
+          "homeLangDetails": "앞으로, 찬성으로, 또는 대신으로라는 뜻입니다. progress, produce, pronoun 같은 단어들이 그 예입니다."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "이끌다"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion (명사 접미사)",
+          "homeLangDetails": "영어에서 가장 흔한 명사 접미사로, 라틴어에서 왔습니다. 동사를 명사로 바꿔서 어떤 행동이나 그 결과를 나타내요. construction, permission, explosion 같은 단어들이 있습니다. 한국어의 '-음', '-기' 정도에 대응된다고 생각하면 됩니다."
+        }
+      ],
+      "translationShort": "상품의 제조",
+      "translationLong": "무엇을 만들고, 제조하고, 생산하는 것",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "그 공장은 수요를 충족시키기 위해 생산량을 증가시켰다."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/앞으로",
+          "homeLangDetails": "앞으로, 찬성, 또는 대신해서라는 뜻이에요. Progress(진전), produce(생산), pronoun(대명사) 같은 단어들에서 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-phone"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "단어를 발음하는 방식",
+      "translationLong": "단어나 언어를 발음하거나 말하는 방식",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "그녀의 프랑스어 발음이 크게 좋아졌다."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/밖으로",
+          "homeLangDetails": "밖으로, 전직의, 또는 떨어져서라는 뜻이에요. Exhale(숨을 내쉬다), export(수출하다), eject(분출하다), ex-president(전직 대통령) 같은 단어들에서 볼 수 있어요."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "flat"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "뭔가를 명확하게 해주는 설명",
+      "translationLong": "어떤 것을 이해하기 쉽게 만들어주는 설명이나 진술",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "선생님이 수학 개념에 대해 명확한 설명을 제시했다."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/밖으로",
+          "homeLangDetails": "밖으로, 전직의, 또는 떨어져서라는 뜻이에요. Exhale(숨을 내쉬다), export(수출하다), eject(분출하다), ex-president(전직 대통령) 같은 단어들에서 볼 수 있어요."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "weigh"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "세밀한 검사나 조사",
+      "translationLong": "세밀한 검사 또는 테스트, 의학이나 학문 분야에서의 시험",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "그 검사에서 질병의 징후가 없음이 밝혀졌다."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/안으로",
+          "homeLangDetails": "카멜레온처럼 색깔을 바꾸는 접두사인데, 두 가지 뜻이 있어요. 하나는 '아니다'라는 뜻으로 inactive(활동 없는), impossible(불가능한), illegal(불법적인) 같은 단어에 붙고요. 다른 하나는 '안으로'라는 뜻으로 insert(삽입하다), import(수입하다) 같은 단어에 붙어요. 뒤에 오는 소리에 맞춰 철자가 바뀌는 게 특징이에요."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "image"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "정신 이미지를 만드는 능력",
+      "translationLong": "현재 없는 것에 대한 정신적 이미지나 개념을 형성하는 능력 또는 행동",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "아이들의 상상력은 무한하다."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "people"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "한 지역의 모든 사람들",
+      "translationLong": "어떤 장소의 모든 주민들, 또는 같은 종의 생물 집단",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "그 도시의 인구가 크게 증가했다."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/함께",
+          "homeLangDetails": "함께, 또는 같이라는 뜻이에요. 라틴어에서 나온 가장 생산적인 접두사 중 하나에요. Connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들에서 찾아볼 수 있어요. 뒤에 오는 소리에 따라 철자가 바뀌는 게 특징이에요."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "turn"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "편한 분위기의 대화",
+      "translationLong": "사람들 사이에서 나누는 비공식적인 생각이나 의견 교환, 수다",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "우리는 여행에 대해 흥미로운 대화를 나눴다."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "col-/함께",
+          "homeLangDetails": "함께, 또는 같이라는 뜻이에요. 라틴어에서 나온 가장 생산적인 접두사 중 하나에요. Connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들에서 찾아볼 수 있어요. 뒤에 오는 소리에 따라 철자가 바뀌는 게 특징이에요."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "gather"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "모아놓은 것들의 그룹",
+      "translationLong": "함께 모아놓은 것들이나 사람들의 그룹, 또는 모으는 행동",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "그녀는 인상적인 빈티지 책 컬렉션을 가지고 있다."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/뒤로",
+          "homeLangDetails": "Reflection에서 re-는 '다시'가 아니라 '뒤로'라는 뜻이에요. 라틴어 reflectere(뒤로 구부리다)에서 왔어요. 이 단어는 빛이 뒤로 튀어나가는 것이나 생각이 자기 자신에게로 돌아가는 것을 나타내요."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "bend"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "빛이 튀어나가는 것",
+      "translationLong": "빛이나 열이 뒤로 튀어나가는 것, 또는 깊은 생각이나 숙고",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "나는 거울에 비친 내 모습을 봤다."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/함께",
+          "homeLangDetails": "함께, 또는 같이라는 뜻이에요. 라틴어에서 나온 가장 생산적인 접두사 중 하나에요. Connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들에서 찾아볼 수 있어요. 뒤에 오는 소리에 따라 철자가 바뀌는 게 특징이에요."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "bind"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "관계나 연결",
+      "translationLong": "것들 사이의 관계나 연관성, 또는 연결하는 행동",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "운동과 좋은 건강 사이에는 강한 연관이 있다."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/앞으로",
+          "homeLangDetails": "앞으로, 찬성, 또는 대신해서라는 뜻이에요. Progress(진전), produce(생산), pronoun(대명사) 같은 단어들에서 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "cover"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "해로부터 지키는 것",
+      "translationLong": "누군가 또는 무엇인가를 해로부터 지키고 보호하는 행동",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "우리는 사이버 공격으로부터 더 나은 보호가 필요하다."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "안으로/아닌",
+          "homeLangDetails": "이 접두사는 두 가지 뜻을 가지고 있어서 정말 재미로워요. '안으로' 들어간다는 뜻도 있고(insert, import), '아니다'라는 뜻도 있어요(inactive, illegal). 한국어의 '부정' 접두사와 비슷하게 여러 의미를 가지고 있답니다. 뒤에 오는 소리에 맞춰 철자가 바뀌기도 해요."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "부르다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "초대",
+      "translationLong": "누군가를 초대하는 행위, 또는 어떤 행사에 참석해 달라는 요청이나 소환장",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "나는 결혼식 초대장을 받았다."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "전에",
+          "homeLangDetails": "시간이나 위치상으로 '전에' 또는 '미리'라는 뜻이에요. Predict(예측하다), prepare(준비하다), prehistoric(선사시대의) 같은 단어들에서 만날 수 있어요."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "준비하다"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "준비",
+      "translationLong": "무언가를 미리 준비하는 과정, 또는 미리 계획하고 대비하는 것",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "좋은 준비가 성공의 필수 요소이다."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "몸/도구"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-화하다",
+          "homeLangDetails": "어떤 특성을 가지게 만들거나, 어떤 과정이 일어나게 해요. Modernize(현대화하다), organize(조직화하다), realize(실현하다) 같은 단어들이 있어요. 한국어의 '-화하다' 접미사와 비슷한 역할을 한답니다."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "조직",
+      "translationLong": "공통의 목표를 가진 사람들의 모임, 또는 체계적으로 정렬하고 관리하는 행위",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "이 조직은 어려운 처지의 사람들을 돕기 위해 활동한다."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "간단한"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-화하다",
+          "homeLangDetails": "뭔가를 ~하게 만들거나 ~하게 되도록 한다는 뜻이에요. Simplify(단순화하다), clarify(명확하게 하다), intensify(강화하다) 같은 단어들에 쓰여요."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "단순화",
+      "translationLong": "어떤 것을 더 간단하고 복잡하지 않게 만드는 행위",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "규칙의 단순화 덕분에 게임을 더 쉽게 할 수 있게 되었다."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "충분한"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "하다"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "만족",
+      "translationLong": "기쁘고 만족스러운 상태, 또는 마음이 채워진 느낌",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "고객 만족이 우리의 최우선 과제이다."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "자격/적합함"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-화하다",
+          "homeLangDetails": "뭔가를 ~하게 만들거나 ~하게 되도록 한다는 뜻이에요. Simplify(단순화하다), clarify(명확하게 하다), intensify(강화하다) 같은 단어들에 쓰여요."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "자격",
+      "translationLong": "누군가를 어떤 일에 적합하게 만드는 기술, 능력, 또는 자격 증명, 그리고 자격을 갖추는 행위",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "그녀는 이 일에 필요한 적절한 자격을 갖추고 있다."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "같은"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-화하다",
+          "homeLangDetails": "뭔가를 ~하게 만들거나 ~하게 되도록 한다는 뜻이에요. Simplify(단순화하다), clarify(명확하게 하다), intensify(강화하다) 같은 단어들에 쓰여요."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "신원 확인",
+      "translationLong": "누군가 또는 무언가가 누구/무엇인지 인식하거나 증명하는 행위, 또는 신원을 증명하는 서류",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "입장하려면 사진이 있는 신분증을 제시해야 한다."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "밖으로/이전의",
+          "homeLangDetails": "밖으로, 이전, 또는 멀어진다는 뜻이에요. Exhale(숨을 내쉬다), export(수출하다), eject(제거하다), ex-president(전 대통령) 같은 단어들에서 볼 수 있어요. 한국어의 '전(前)-'처럼 '이전'이나 '밖'의 의미를 더해요."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "가치/강함"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-션"
+        }
+      ],
+      "translationShort": "평가",
+      "translationLong": "어떤 것의 가치나 질을 평가하고 판단하는 과정",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "선생님은 학생들의 진도를 평가할 것이다."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-",
+          "homeLangDetails": "over-(초과)의 반대말이에요. 아래 또는 부족함을 나타내요. Underground(지하)처럼 '아래'라는 뜻도 있고, underestimate(과소평가하다), underperform(기대에 못 미치다) 같이 '부족하다'는 뜻도 있어요."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "서다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "무언가를 할 수 있다는 뜻이에요. Readable(읽을 수 있는), comfortable(편안한), possible(가능한) 같은 단어들에서 볼 수 있어요."
+        }
+      ],
+      "translationShort": "이해하기 쉬운",
+      "translationLong": "이해할 수 있는, 또는 쉽게 알아듣거나 깨달을 수 있는",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "그 지시사항은 명확하고 이해하기 쉽다."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "감당하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "무언가를 할 수 있다는 뜻이에요. Readable(읽을 수 있는), comfortable(편안한), possible(가능한) 같은 단어들에서 볼 수 있어요."
+        }
+      ],
+      "translationShort": "저렴한",
+      "translationLong": "가격이 적당하고 감당할 수 있는, 합리적인 가격의",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "우리는 도시 중심에서 저렴한 아파트를 찾았다."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "의존하다"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "믿을 수 있는",
+      "translationLong": "신뢰할 수 있는, 의지할 수 있는",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "그는 항상 도와주는 믿을 수 있는 친구입니다."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "믿다"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "믿을 수 없는",
+      "translationLong": "놀라운, 믿기 어려운, 특별한",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "그것은 정말 믿을 수 없는 멋진 공연이었어!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "보다"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "보이지 않는",
+      "translationLong": "보일 수 없는, 숨겨진",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "그 얼룩은 육안으로 보이지 않았습니다."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "가능한"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "불가능한",
+      "translationLong": "할 수 없거나 일어날 수 없는, 불가능한",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "그 퍼즐을 푸는 것은 불가능해 보였습니다."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "대응하다"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "책임감 없는",
+      "translationLong": "책임감이 없는, 믿을 수 없거나 책임을 지지 않는",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "업무를 일찍 떠나는 것은 책임감 없는 행동일 것입니다."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "돌이키다"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "되돌릴 수 없는",
+      "translationLong": "되돌릴 수 없거나 원래대로 돌릴 수 없는",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "기후 변화는 환경에 되돌릴 수 없는 피해를 줄 수 있습니다."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "부정 접두사",
+          "homeLangDetails": "이 접두사는 변신 로봇처럼 두 가지 뜻을 가집니다. '아닌, 불가능한'이라는 뜻도 있고(inactive, impossible, illegal), '~로 들어가는'이라는 뜻도 있습니다(insert, import). 뒤따르는 발음에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "파괴하다"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻입니다. 읽을 수 있는(readable), 편한(comfortable), 가능한(possible) 같은 단어들을 생각해보세요."
+        }
+      ],
+      "translationShort": "파괴할 수 없는",
+      "translationLong": "파괴하거나 부술 수 없는",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "그 기념비는 파괴할 수 없도록 지어졌습니다."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "사이, 간",
+          "homeLangDetails": "두 가지 사이, 여럿 사이를 뜻합니다. International(국제적인), interrupt(방해하다), interact(상호작용하다) 같은 단어들에서 볼 수 있어요."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "나라"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-적인",
+          "homeLangDetails": "어떤 것의 특성이나 성질을 나타냅니다. Musical(음악적인), natural(자연적인), industrial(산업적인) 같은 단어들이 있습니다."
+        }
+      ],
+      "translationShort": "국제적인",
+      "translationLong": "두 개 이상의 나라에 관련된 또는 포함하는",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "그녀는 국제 기구에서 일합니다."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "초월한, 위",
+          "homeLangDetails": "초월하거나, 위쪽으로, 또는 뛰어난 정도를 나타냅니다. Superman(슈퍼맨), superior(더 우수한), supernatural(초자연적인) 같은 단어들에서 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "자연"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-적인",
+          "homeLangDetails": "어떤 것의 특성이나 성질을 나타냅니다. Musical(음악적인), natural(자연적인), industrial(산업적인) 같은 단어들이 있습니다."
+        }
+      ],
+      "translationShort": "초자연적인",
+      "translationLong": "자연의 법칙을 벗어나거나 초월한",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "그 영화는 초자연적인 생명체와 유령들이 나옵니다."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "이전, 전",
+          "homeLangDetails": "시간이나 위치에서 앞서는 것을 뜻합니다. Predict(예측하다), prepare(준비하다), prehistoric(선사 시대의) 같은 단어들이 예입니다."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "역사적인"
+        }
+      ],
+      "translationShort": "선사 시대의",
+      "translationLong": "기록된 역사 이전의 시대에 관련된",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "공룡들은 선사 시대에 지구를 돌아다녔습니다."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "대항",
+          "homeLangDetails": "무언가에 대항하거나 반대한다는 뜻이에요. 반전(antiwar), 항생제(antibiotic), 예상(anticipate) 같은 단어들에 쓰여요."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "생명",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-적"
+        }
+      ],
+      "translationShort": "박테리아에 대항하는",
+      "translationLong": "박테리아를 죽이거나 성장을 멈추게 하는 약",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "의사는 감염증을 치료하기 위해 항생제를 처방했다."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "아래",
+          "homeLangDetails": "아래쪽, 수심 깊은 곳, 또는 부차적인 것을 나타내요. 지하철(subway), 잠수함(submarine), 대체품(substitute) 같은 단어들에서 만날 수 있어요."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "바다"
+        }
+      ],
+      "translationShort": "수중 선박",
+      "translationLong": "물 아래에서 활동하는 선박, 특히 군사용 전함",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "잠수함은 바다의 깊은 곳으로 내려갔다."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "자동",
+          "homeLangDetails": "자기 자신이라는 뜻이에요. 자서전(autobiography), 자동(automatic), 자동차(automobile) 같은 단어들을 생각해보세요."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "움직임"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-게"
+        }
+      ],
+      "translationShort": "스스로, 손으로 하지 않고",
+      "translationLong": "인간의 개입 없이 저절로 일어나거나 작동하는 방식",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "당신이 문에 가까이 가면 자동으로 열린다."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "먼",
+          "homeLangDetails": "거리가 멀다는 의미예요. 전화(telephone), 텔레비전(television), 망원경(telescope) 같은 단어들을 보면 이 의미가 드러나요."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "시각"
+        }
+      ],
+      "translationShort": "멀리서 보기",
+      "translationLong": "화상과 음성을 거리를 통해 송수신하는 시스템",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "그녀는 매일 저녁 텔레비전을 본다."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "국민"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "지배"
+        }
+      ],
+      "translationShort": "국민의 지배",
+      "translationLong": "권력이 국민에게 있는 정부 체계",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "민주주의는 모든 시민의 적극적인 참여를 필요로 한다."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "지구",
+          "homeLangDetails": "지구 또는 땅이라는 뜻이에요. 지리학(geography), 지질학(geology), 기하학(geometry) 같은 단어들에서 찾아볼 수 있어요."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "글",
+          "homeLangDetails": "글이나 기록한다는 뜻이에요. 사진(photography), 전기(biography), 서명(autograph) 같은 단어들이 이 의미를 담고 있어요."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "지구에 대한 설명",
+      "translationLong": "지역, 사람들, 그리고 지구의 지형 특징을 공부하는 학문",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "지리 수업은 다양한 지역과 문화를 가르친다."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "응답"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-성"
+        }
+      ],
+      "translationShort": "의무 또는 책임",
+      "translationLong": "자신의 행동이나 결정에 대해 책임질 수 있는 상태",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "큰 힘에는 큰 책임이 따른다."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "개인"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-성"
+        }
+      ],
+      "translationShort": "개인의 성격",
+      "translationLong": "한 개인을 특징짓는 독특한 특성과 자질",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "그녀의 외향적인 성격은 모두에게 인기가 있다."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "인기 있는"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "-ness의 라틴어 형태예요. 형용사로부터 추상명사를 만들어요. 평등(equality), 전기(electricity), 현실(reality) 같은 단어들이 이걸 잘 보여줘요."
+        }
+      ],
+      "translationShort": "인기 있는 상태",
+      "translationLong": "많은 사람들에게 좋아받고, 존경받고, 즐겨지는 성질이나 상태",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "그 밴드의 인기는 전 세계적으로 높아졌다."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "전기"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "-ness의 라틴어 형태예요. 형용사로부터 추상명사를 만들어요. 평등(equality), 전기(electricity), 현실(reality) 같은 단어들이 이걸 잘 보여줘요."
+        }
+      ],
+      "translationShort": "전기 에너지",
+      "translationLong": "도체를 통해 전자가 이동함으로써 생기는 에너지",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "대부분의 현대 가정은 전기에 의존한다."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "창조하다"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "한국어의 '-성'과 비슷한 역할을 하는 라틴 접미사예요. 형용사를 추상명사로 만들어줍니다. Equality(평등성), electricity(전기성), reality(현실성) 같은 단어들이 이렇게 만들어져요."
+        }
+      ],
+      "translationShort": "창의적일 수 있는 성질",
+      "translationLong": "창의적인 특성이나 상태; 새로운 것을 만들어내거나 상상할 수 있는 능력",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "그녀의 문제 해결 능력의 창의성이 모두를 감동시켰다."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "생산물"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "한국어의 '-성'과 비슷한 역할을 하는 라틴 접미사예요. 형용사를 추상명사로 만들어줍니다. Equality(평등성), electricity(전기성), reality(현실성) 같은 단어들이 이렇게 만들어져요."
+        }
+      ],
+      "translationShort": "생산적일 수 있는 성질",
+      "translationLong": "생산적인 특성이나 상태; 노력의 효율성을 산출 비율로 측정하는 것",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "새로운 소프트웨어가 설치된 후 팀의 생산성이 증가했다."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "구부리다"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-할 수 있는",
+          "homeLangDetails": "어떤 행동이 가능하다는 뜻이에요. Readable(읽을 수 있는), comfortable(편할 수 있는), possible(가능한) 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "한국어의 '-성'과 비슷한 역할을 하는 라틴 접미사예요. 형용사를 추상명사로 만들어줍니다. Equality(평등성), electricity(전기성), reality(현실성) 같은 단어들이 이렇게 만들어져요."
+        }
+      ],
+      "translationShort": "유연할 수 있는 성질",
+      "translationLong": "유연한 특성이나 상태; 적응하거나 부러지지 않으면서 구부러질 수 있는 능력",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "이 재료의 유연성이 제조에 이상적이다."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "국가"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-적인",
+          "homeLangDetails": "무언가와 관련이 있거나 그 성질을 가지고 있다는 뜻이에요. Musical(음악적인), natural(자연의), industrial(산업의) 같은 단어들처럼요."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-성",
+          "homeLangDetails": "한국어의 '-성'과 비슷한 역할을 하는 라틴 접미사예요. 형용사를 추상명사로 만들어줍니다. Equality(평등성), electricity(전기성), reality(현실성) 같은 단어들이 이렇게 만들어져요."
+        }
+      ],
+      "translationShort": "특정 국가에 속하는 신분",
+      "translationLong": "특정 국가의 시민권을 가진 신분; 국가적 출신이나 정체성",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "그녀는 한 국가에서 태어났고 다른 국가에서 귀화했으므로 이중 국적을 가지고 있다."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "효과"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-게",
+          "homeLangDetails": "형용사를 부사로 만들어서 '어떤 방식으로'라는 의미를 나타내요. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 단어들이 있어요. 또한 형용사를 만들기도 해요: friendly(친근한), lovely(사랑스러운) 처럼요."
+        }
+      ],
+      "translationShort": "효과적인 방식으로",
+      "translationLong": "원하는 결과나 의도된 결과를 만드는 방식으로; 성공적으로",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "새로운 전략이 비용을 줄이는 데 효과적으로 작동했다."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "창조하다"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-게",
+          "homeLangDetails": "형용사를 부사로 만들어서 '어떤 방식으로'라는 의미를 나타내요. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 단어들이 있어요. 또한 형용사를 만들기도 해요: friendly(친근한), lovely(사랑스러운) 처럼요."
+        }
+      ],
+      "translationShort": "창의적인 방식으로",
+      "translationLong": "창조하거나 상상력을 사용하는 방식으로; 독창성과 발명성을 가지고",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "그녀는 혁신적인 해결책을 찾아내며 창의적으로 프로젝트에 접근했다."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "생산물"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-게",
+          "homeLangDetails": "형용사를 부사로 만들어서 '어떤 방식으로'라는 의미를 나타내요. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 단어들이 있어요. 또한 형용사를 만들기도 해요: friendly(친근한), lovely(사랑스러운) 처럼요."
+        }
+      ],
+      "translationShort": "생산적인 방식으로",
+      "translationLong": "결과를 내거나 효율적인 방식으로; 좋은 산출량이나 성취를 가지고",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "우리는 오후를 생산적으로 보내며 모든 일을 완료했다."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "끌어당기다"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-적인"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-게",
+          "homeLangDetails": "형용사를 부사로 만들어서 '어떤 방식으로'라는 의미를 나타내요. Quickly(빠르게), happily(행복하게), surprisingly(놀랍게도) 같은 단어들이 있어요. 또한 형용사를 만들기도 해요: friendly(친근한), lovely(사랑스러운) 처럼요."
+        }
+      ],
+      "translationShort": "매력적인 방식으로",
+      "translationLong": "기분 좋고 매력적이며 시각적으로 호감을 주는 방식으로; 매력적으로",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "상점 창문이 계절 장식으로 매력적으로 꾸며져 있었다."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "다시-",
+          "homeLangDetails": "반복이나 이전 상태로의 복귀를 나타내는 접두사예요. 라틴어 re-에서 온 것으로, 수천 개의 영어 단어에 들어갑니다: return(돌아가다), rebuild(다시 짓다), reconsider(재고하다) 같은 단어들이죠. 보통 '다시 하다' 또는 '다시 돌아가다'라는 뜻으로 쓰여요."
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "탐색"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-인",
+          "homeLangDetails": "행위를 수행하는 사람이나 사물을 나타내는 행위자 명사를 만들어요. Teacher(교사), actor(배우), driver(운전자), computer(컴퓨터) 같은 단어들이 있어요."
+        }
+      ],
+      "translationShort": "연구하는 사람",
+      "translationLong": "연구를 수행하는 사람; 어떤 주제를 조사하는 과학자나 학자",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "그 연구자는 동료 평가 학술지에 그녀의 연구 결과를 발표했다."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "개발하다"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-인",
+          "homeLangDetails": "행위를 수행하는 사람이나 사물을 나타내는 행위자 명사를 만들어요. Teacher(교사), actor(배우), driver(운전자), computer(컴퓨터) 같은 단어들이 있어요."
+        }
+      ],
+      "translationShort": "개발하는 사람",
+      "translationLong": "무언가를 개발하는 사람; 흔히 소프트웨어 개발자를 말합니다",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "그 개발자는 애플리케이션을 위한 새로운 기능을 만들었다."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "고용하다"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "행동을 수행하는 사람이나 것을 나타내는 접미사예요. 선생님(teacher), 배우(actor), 운전기사(driver), 컴퓨터(computer) 같은 단어들이 이 패턴이죠."
+        }
+      ],
+      "translationShort": "고용하는 사람",
+      "translationLong": "직원을 고용하는 사람이나 조직, 즉 사업주나 관리자",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "그 고용주는 우수한 인재를 유치하기 위해 경쟁력 있는 혜택을 제시했다."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "고용하다"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "프랑스어 -é에서 온 접미사인데, 어떤 행동을 받거나 그 대상이 되는 사람을 나타내요. employer(고용하는 사람)와 employee(고용되는 사람)를 비교해보면 차이가 명확하죠. interviewee(인터뷰 받는 사람), trainee(훈련받는 사람), payee(지급받는 사람) 같은 단어들도 같은 패턴이에요."
+        }
+      ],
+      "translationShort": "고용되는 사람",
+      "translationLong": "급여를 받고 고용주를 위해 일하는 사람",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "그 회사의 모든 직원이 건강보험 혜택을 받는다."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "사진",
+          "homeLangDetails": "그리스어 phōtos(빛)에서 온 합성 요소예요. 사진과 이미지와 관련된 많은 단어들에 나타나요: photograph(사진), photosynthesis(광합성), photogenic(사진 잘 나오는). photo(빛) + graph(기록하다)를 합치면 '빛으로 기록한다'는 의미가 되는 거죠."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graph-",
+          "homeLangDetails": "글을 쓰거나 기록한다는 뜻이에요. photography(사진술), biography(전기), autograph(사인) 같은 단어들이 있죠."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "행동을 수행하는 사람이나 것을 나타내는 접미사예요. 선생님(teacher), 배우(actor), 운전기사(driver), 컴퓨터(computer) 같은 단어들이 이 패턴이죠."
+        }
+      ],
+      "translationShort": "사진을 찍는 사람",
+      "translationLong": "직업이나 취미로 사진을 찍는 사람",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "그 사진작가는 결혼식에서 멋진 이미지들을 포착했다."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "조사하다"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "-er 접미사의 변형으로, 더 격식 있거나 라틴어 영향을 받은 상황에서 사용돼요. -er과 -or 모두 '~하는 사람'을 의미하지만, -or은 라틴어 어원을 가진 단어들에서 흔해요. investigator(조사관), senator(상원의원), actor(배우), instructor(강사) 같은 단어들이 그 예죠."
+        }
+      ],
+      "translationShort": "조사하는 사람",
+      "translationLong": "조사를 수행하는 사람, 특히 증거나 사실을 수집하는 전문가",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "그 조사관은 범죄 현장에서 단서를 찾기 위해 검사했다."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "의사소통하다"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "행동을 수행하는 사람이나 것을 나타내는 접미사예요."
+        }
+      ],
+      "translationShort": "의사소통하는 사람",
+      "translationLong": "효과적으로 또는 직업적으로 의사소통하는 사람, 정보 전달에 능한 사람",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "뛰어난 의사소통자인 그녀는 대중 연설에 탁월하다."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/함께",
+          "homeLangDetails": "함께, 같이라는 뜻이에요. 가장 생산성 높은 라틴어 접두사 중 하나죠. connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들이 있어요. 뒤에 오는 소리에 따라 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "공통"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "라틴어 -atus에서 온 동사화 접미사예요. 명사나 형용사를 동사로 바꿔서 '그 행동을 하다' 또는 '그 상태에 있다'는 의미를 만들어요."
+        }
+      ],
+      "translationShort": "정보를 공유하다",
+      "translationLong": "정보를 공유하다, 의미를 전달하다, 생각을 나누다",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "우리는 팀에게 우리의 아이디어를 명확하게 전달해야 한다."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/~이 아니거나 ~로",
+          "homeLangDetails": "두 가지 서로 다른 의미를 가진 변덕스러운 접두사예요. 하나는 '~이 아니다'라는 부정의 의미(inactive, impossible, illegal)이고, 다른 하나는 '~로'라는 방향의 의미(insert, import)예요. 뒤에 오는 소리에 맞춰 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "자취",
+          "homeLangDetails": "라틴어 vestigium(발자국, 자취)에서 온 단어예요. 같은 어원이 vestige(남아있는 흔적)와 investigator(자취를 따르는 사람)에도 나타나요."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "어근을 동사로 만드는 접미사로, 여기서는 '자취나 단서를 따르거나 검사한다'는 행동을 나타내요."
+        }
+      ],
+      "translationShort": "자세히 조사하다",
+      "translationLong": "자세히 조사하다, 파고들다, 조사 수사를 하다",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "경찰은 내일 범죄 현장을 조사할 것이다."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/함께",
+          "homeLangDetails": "함께, 같이라는 뜻이에요. 가장 생산성 높은 라틴어 접두사 중 하나죠. connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들이 있어요. 뒤에 오는 소리에 따라 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "일"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "labor를 동사로 만드는 접미사로, '함께 일한다'는 의미를 만들어요."
+        }
+      ],
+      "translationShort": "함께 일하다",
+      "translationLong": "함께 일하다, 협력하다",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "우리는 다른 부서의 동료들과 이 프로젝트에서 협력할 것이다."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "부분",
+          "homeLangDetails": "라틴어 pars(부분)에서 온 단어예요. 다음 형태소 -icip-과 결합하면 '부분을 가지다' 또는 '무언가에 참여하다'라는 의미가 만들어져요."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "가지다",
+          "homeLangDetails": "라틴어 capere(가지다, 잡다)에서 온 거예요. 라틴어 participium(참여자)은 'part(부분) + take(가지다)'를 합쳐서 '무언가를 함께 가진다', 즉 '참여한다'는 의미가 되었어요."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "동사화 접미사예요."
+        }
+      ],
+      "translationShort": "참여하다",
+      "translationLong": "참여하다, 참여하여 활동하다, 동참하다",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "모든 학생은 수업 토론에 참여해야 한다."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/함께",
+          "homeLangDetails": "함께, 같이라는 뜻이에요. 가장 생산성 높은 라틴어 접두사 중 하나죠. connect(연결하다), combine(결합하다), cooperate(협력하다), collect(모으다) 같은 단어들이 있어요. 뒤에 오는 소리에 따라 철자가 바뀌어요."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "은혜",
+          "homeLangDetails": "라틴어 gratus(기쁜, 감사하는)에서 온 거예요. grace(은혜), grateful(감사하는), gratitude(감사) 같은 단어들도 같은 어원이고, 모두 기분 좋음과 선의와 관련이 있어요."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "라틴어 -ulatus에서 온 축소/반복 동사화 접미사예요. 행동을 부드럽게 또는 반복적으로 표현하는데, 여기서는 누군가에게 따뜻하고 반복적으로 기쁨이나 선의를 표현한다는 의미를 만들어요."
+        }
+      ],
+      "translationShort": "성취를 칭찬하다",
+      "translationLong": "성취를 칭찬하다, 기쁨이나 선의를 표현하다",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "너의 훌륭한 성과에 축하를 드리고 싶다!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "잘못된/그릇된",
+          "homeLangDetails": "뭔가를 잘못하거나 엉뚱하게 했다는 신호예요. 잘못 이해하고, 실수하고, 그릇되게 나타낼 때 쓰여요. 영어의 'mis-'는 한국어의 '잘못-', '그릇-' 같은 느낌이라고 보면 돼요."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "사이에/중간에",
+          "homeLangDetails": "뭔가 사이사이에 있는 개념이에요. International(국제적)이나 interrupt(방해하다) 같은 단어들이 이 prefix를 쓰죠. 한국어의 '상호-'나 '중-' 같은 느낌과 비슷해요."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "설명하다",
+          "homeLangDetails": "라틴어의 praetere나 prae(앞에) + ire(가다)에서 왔어요. Inter-(중간)와 pret-(설명)이 합쳐지면 '사이에 있는 의미를 명확하게 풀어낸다'는 뜻이 돼요. 여기에 mis-(잘못)를 붙이면 '틀리게 설명한다'는 의미가 완성되는 거죠."
+        }
+      ],
+      "translationShort": "잘못 이해하다",
+      "translationLong": "잘못 이해하다, 그릇되게 해석하다 또는 설명하다",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "내 말을 잘못 이해하지 마. 난 진심으로 한 말이야."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "아래로/되돌리기",
+          "homeLangDetails": "아래로 내려가거나 멀어지거나, 어떤 행동을 거꾸로 되돌린다는 의미예요. Decrease(감소하다), depart(떠나다), deconstruct(해체하다) 같은 단어들이 이걸 써요. 많은 경우 기본 단어의 반대 의미를 만들어내죠."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "함께/이웃",
+          "homeLangDetails": "함께하거나 모여있다는 뜻이에요. 라틴어에서 가장 자주 쓰이는 접두사 중 하나예요. Connect(연결하다), combine(합치다), cooperate(협력하다), collect(모으다) 같은 단어들에 들어가죠. 뒤따르는 소리에 따라 spelling이 바뀐다는 게 신기해요."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "짓다/만들다"
+        }
+      ],
+      "translationShort": "분석적으로 해체하다",
+      "translationLong": "해체하다, 분해하다, 구성 요소로 나누어 분석하다",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "이 세미나에서 우리는 텍스트의 핵심 논증들을 분석적으로 해체할 거야."
+    }
+  ]
+}

@@ -1,0 +1,4835 @@
+{
+  "homeLang": "ja",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中に/～ない"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "投げる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "注射",
+      "translationLong": "体の中に液体を押し込む行為。医療で痛みや病気を治すために使われます",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "看護師は痛みを緩和するために私に注射をしてくれました。"
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "前へ/~のために",
+          "homeLangDetails": "前方へ、~のために、または~の代わりに、という意味です。progress(進む)、produce(作る)、pronoun(代名詞)など、この接頭辞を使った単語は多いです"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "投げる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "予想",
+      "translationLong": "外に突き出ているもの、または将来についての予測や見積もり",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "売上予想は来四半期に強い成長を示しています。"
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "反対に",
+          "homeLangDetails": "ラテン語の接頭辞obから来ており、基本的には「反対に」「~に向かって」という意味です。この単語では、何かに反対して、または反発するように投げる、というニュアンスを表しています"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "投げる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "異議",
+      "translationLong": "意見の相違や不同意を表現したもの",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "彼は会議中に提案に対して異議を唱えました。"
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "前に",
+          "homeLangDetails": "時間的または位置的に前、という意味です。predict(予測する)、prepare(準備する)、prehistoric(先史時代の)など、この接頭辞を含む単語がたくさんあります"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "言う"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "予測",
+      "translationLong": "将来何が起こるかについての主張や見積もり",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "明日の天気予測は雨です。"
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "反対に",
+          "homeLangDetails": "ラテン語のcontraから来ており、「反対に」という意味です。ここでは「言う」という語根と組み合わさって、「反対のことを言う」「矛盾した発言をする」というニュアンスになります"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "言う"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "矛盾",
+      "translationLong": "別の主張や状況に相反する、または矛盾している主張や状況",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "彼の2つの発言には明らかな矛盾があります。"
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "法律"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "言う"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "管轄権",
+      "translationLong": "法的な判断を下し、法律を施行する公式な権力",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "この事件は連邦裁判所の管轄に属しています。"
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "向こう側へ",
+          "homeLangDetails": "向こう側へ、通り抜けて、または一つの状態から別の状態へ変わる、という意味です。transport(運ぶ)、transform(変形させる)、translate(翻訳する)など、この接頭辞を含む単語がたくさんあります"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "運輸",
+      "translationLong": "人または荷物をある場所から別の場所に移動させること",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "公共交通機関は車で移動するより安いです。"
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ/取り消す",
+          "homeLangDetails": "下向きに、離れて、またはある行為を取り消すという意味です。decrease(減らす)、depart(出発する)、deconstruct(分解する)など、多くの場合は基本となる単語の意味を逆転させます"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "強制送還",
+      "translationLong": "人を国から強制的に追放すること",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "強制送還の手続きは数か月間続きました。"
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "中へ/～ない"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "輸入",
+      "translationLong": "外国から国内に商品を持ち込む行為",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "外国商品の輸入は今年増加しています。"
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建てる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "～ション"
+        }
+      ],
+      "translationShort": "建設",
+      "translationLong": "何かを建てるプロセス。建設中の構造体のこと",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "新しい橋の建設には2年かかります。"
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下/取り消す",
+          "homeLangDetails": "下へ、離れるように、または作用を逆にする意味です。減らす、出発する、分解するなど。基本となる単語の意味をそのまま反対にすることが多いですよ。"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建てる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "破壊",
+      "translationLong": "何かを破壊する行為。大きな損害や破滅。",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "ハリケーンは広範な破壊をもたらした。"
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び",
+          "homeLangDetails": "繰り返しや以前の状態へ戻ることを表します。ラテン語の re- が語源で、英語には数千の単語に現れます。return、rebuild、reconsider などがそう。「もう一度やる」「戻る」という意味で捉えることができます。"
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建てる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "再建",
+      "translationLong": "傷つけられた、または破壊されたものを再度建てるプロセス。",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "火災後の都市の再建には多くの年月がかかった。"
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中へ/ない"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "見る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "検査",
+      "translationLong": "何かを注意深く調べたり、見直したりすること。",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "その建物は安全検査に合格した。"
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "通して",
+          "homeLangDetails": "通して、徹底的に、または完全にという意味。perform、permit、persist などが例です。"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "見る"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-的な",
+          "homeLangDetails": "～する傾向、または～の性質を持つという意味。active、creative、descriptive などが例ですね。"
+        }
+      ],
+      "translationShort": "視点",
+      "translationLong": "何かを見たり理解したりする特定の方法。見方や立場。",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "私の視点からすると、その計画は危険すぎる。"
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "後ろへ",
+          "homeLangDetails": "ラテン語の retro が語源で、『後ろへ』『戻る』という意味。『spect』（見る）と組み合わさることで『過去を振り返る』という意味になります。"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "見る"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-的な",
+          "homeLangDetails": "～する傾向、または～の性質を持つという意味。active、creative、descriptive などが例ですね。"
+        }
+      ],
+      "translationShort": "回顧",
+      "translationLong": "過去の出来事の見直しや検討。過去の出来事に関わるまたは対処するもの。",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "美術館はその芸術家の作品の回顧展を開催した。"
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "前に",
+          "homeLangDetails": "時間や位置として前に。predict、prepare、prehistoric などが例です。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "書く"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "処方箋",
+      "translationLong": "医師による薬の指示書。また、一連の指示書という意味もあります。",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "医者は私に抗生物質の処方箋をくれた。"
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下/取り消す",
+          "homeLangDetails": "下へ、離れるように、または作用を逆にする意味です。減らす、出発する、分解するなど。基本となる単語の意味をそのまま反対にすることが多いですよ。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "書く"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "説明",
+      "translationLong": "何かについての口頭または書かれた説明。描写。",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "その出来事についての彼女の説明は非常に詳しかった。"
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "下に",
+          "homeLangDetails": "下、下方、または二次的という意味。subway、submarine、substitute などが例ですね。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "書く"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "購読",
+      "translationLong": "サービスまたは出版物への定期的な支払い。署名という意味もあります。",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "私は3つの雑誌の購読をしている。"
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "外へ"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "押す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "表現",
+      "translationLong": "感情や意味を伝えること。句や言葉。",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "彼女の表情は彼女が動揺していることを示していた。"
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下/取り消す",
+          "homeLangDetails": "下へ、離れるように、または作用を逆にする意味です。減らす、出発する、分解するなど。基本となる単語の意味をそのまま反対にすることが多いですよ。"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "押す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "抑うつ；くぼみ",
+      "translationLong": "悲しみを特徴とするメンタルヘルスの状態。またはくぼんだ、または凹んだ領域。",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "彼女は抑うつの治療を受けた。"
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "中に/内へ"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "押す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "印象、感覚、または圧してつけた跡",
+      "translationLong": "何かについての感覚や印象、または何かを押してつけた跡、くぼみ",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "彼は幸せではないという印象を受けました。"
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "へ/向かって"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "引く"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "興味や魅力の感覚",
+      "translationLong": "何かに対する興味や魅力を感じること、人を惹きつけるもの",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "そのテーマパークは観光客の主な観光地です。"
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "外へ/から"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "引く"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "取り出す、引き抜く行為",
+      "translationLong": "何かを取り出す、引き抜く行為、特に歯を抜くこと",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "歯科医は抜歯を勧めました。"
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "バラバラに/離れて",
+          "homeLangDetails": "バラバラにする、または分け離す意味です。disagree（反対する）、disconnect（切り断つ）、disappear（消える）のように、分離や逆転の意味が強く、un-よりも強い感覚を持っています。"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "引く"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "注意をそらすもの",
+      "translationLong": "タスクから注意をそらすもの、気が散った状態",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "その音はテスト中の大きな気の散りでした。"
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "通して/完全に",
+          "homeLangDetails": "通して、すっかり、完全にという意味です。perform（行う）、permit（許可する）、persist（続く）など、いろいろな単語に使われています。"
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "送る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "公式な許可、承認",
+      "translationLong": "何かをするための公式な許可、承認",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "早退するにはマネージャーの許可が必要です。"
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "横切って/変化させて",
+          "homeLangDetails": "横切って、通して、または一つの状態から別の状態へ変えるという意味です。transport（運ぶ）、transform（変形する）、translate（翻訳する）など、多くの単語に使われています。"
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "送る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "何かを送ること、車の変速機",
+      "translationLong": "ある場所から別の場所へ何かを送ること、または車のトランスミッション機構",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "データ伝送はエラーなく行われました。"
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "送る"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-メント",
+          "homeLangDetails": "動詞から名詞を作ります。その動作、その結果、またはその手段を表します。government（政府）、movement（運動）、enjoyment（楽しみ）など。"
+        }
+      ],
+      "translationShort": "約束、誓約、献身",
+      "translationLong": "何かをするという約束や誓約、大義や人への献身",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "彼女のプロジェクトへのコミットメントは揺るぎませんでした。"
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "戻って/へ",
+          "homeLangDetails": "この単語では、re-は古いラテン語の「戻って」という意味を持っています。receive（受け取る）は戻って（または中へ）取ることで、recede（後退する）は戻ることで、refer（参照する）は情報源へ戻すという意味です。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "受け取ること、正式な集まり",
+      "translationLong": "受け取ること、正式な集まりやイベント、または信号の受信品質",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "結婚式のレセプションは地元のホテルで開かれました。"
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "通して/完全に",
+          "homeLangDetails": "通して、すっかり、完全にという意味です。perform（行う）、permit（許可する）、persist（続く）など、いろいろな単語に使われています。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "理解する、気づく能力",
+      "translationLong": "感覚を通して何かを理解する、気づく能力、認識",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "事故の後、彼の時間感覚は変わりました。"
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ/元に戻す",
+          "homeLangDetails": "下へ、離れて、または行為を逆にするという意味です。decrease（減らす）、depart（出発する）、deconstruct（分解する）など、基本的な単語の意味を逆転させることが多いです。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取る"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "騙す、誤解させる行為",
+      "translationLong": "誰かを騙す、誤解させる行為、トリックや嘘",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "その詐欺は最終的に明かされました。"
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "戻る",
+          "homeLangDetails": "この単語では、re- は「再び」というよりも古いラテン語の「戻る」という意味を持っています。receive は「受け取る（戻す）」、recede は「後退する」、refer は「出典に戻す」という意味になります。"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "参考資料、言及",
+      "translationLong": "情報を調べるために参照する出典。何かへの暗示や言及。",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "私はエッセイの参考資料としてその本を使いました。"
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "会議",
+      "translationLong": "公式な会合または討論",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "年次会議には世界中の科学者が集まります。"
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "～の間",
+          "homeLangDetails": "～の間、または～の中で。international（国際的）、interrupt（中断する）、interact（相互作用する）。"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "運ぶ"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "干渉、妨害",
+      "translationLong": "干渉する行為。放送を邪魔する不要な信号。",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "ラジオの妨害電波が放送を邪魔しました。"
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "回す、変える"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "転換、変換",
+      "translationLong": "ある形態、状態、または信念から別のものへ変わるプロセス",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "倉庫をアパートに転換するのに数ヶ月かかりました。"
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "内側へ"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "回す、向ける"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "内向性",
+      "translationLong": "自分の思考や感情に焦点を当てる傾向",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "彼女の内向的な性質は、家での静かな夜を好むことにつながりました。"
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "下に、以下",
+          "homeLangDetails": "下に、または以下。subway（地下鉄）、submarine（潜水艦）、substitute（代替）。"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "回す、向ける"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "転覆、破壊行為",
+      "translationLong": "確立されたものを弱体化させたり転覆させたりする行為",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "政府は権威への転覆行為を厳しく取り締まりました。"
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ、から",
+          "homeLangDetails": "この単語では、de- は「下から」という方向的な意味を持っています。ラテン語の dependere は「～から下がる」という意味です。基本的な単語を逆転させるのではなく、何かに吊り下がられたり、何かに依存したりする関係を説明しています。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "吊る"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "依存",
+      "translationLong": "何かまたは誰かに頼っている状態",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "彼のカフェイン依存は睡眠に影響を与えていました。"
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "～ではない"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "下へ、から",
+          "homeLangDetails": "この単語では、de- は「下から」という方向的な意味を持っています。ラテン語の dependere は「～から下がる」という意味です。基本的な単語を逆転させるのではなく、何かに吊り下がられたり、何かに依存したりする関係を説明しています。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "吊る"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "独立",
+      "translationLong": "自立していて、依存から自由である状態",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "彼女はついに経済的独立を達成しました。"
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "～の間",
+          "homeLangDetails": "～の間、または～の中で。international（国際的）、interrupt（中断する）、interact（相互作用する）。"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "下へ、から",
+          "homeLangDetails": "この単語では、de- は「下から」という方向的な意味を持っています。ラテン語の dependere は「～から下がる」という意味です。基本的な単語を逆転させるのではなく、何かに吊り下がられたり、何かに依存したりする関係を説明しています。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "吊る"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "相互依存",
+      "translationLong": "異なる当事者またはグループ間の相互依存",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "世界経済はますます相互依存を示しています。"
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "～へ向かって"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "走る"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "発生、出来事",
+      "translationLong": "何かが起こるインスタンスまたはイベント",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "その地域での地震の発生は一般的です。"
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "もう一度",
+          "homeLangDetails": "繰り返しや前の状態への戻りを表します。ラテン語のre-が語源で、英語に数千の単語に現れます：return、rebuild、reconsiderなど。「もう一度する」や「戻る」と同じ意味で使えることが多いです。"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "起こる"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence（名詞化）"
+        }
+      ],
+      "translationShort": "再発",
+      "translationLong": "何かが再び起きたり現れたりすること",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "偏頭痛の再発が深刻な問題になってきていた。"
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "起こる"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent（形容詞化）"
+        }
+      ],
+      "translationShort": "同時の",
+      "translationLong": "同じ時間に起きたり存在したりする",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "その2つのイベントは同時であり、同じ時間に起きていた。"
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "後ろへ",
+          "homeLangDetails": "この単語では、re-は「もう一度」というより古いラテン語の「後ろへ」という意味を持っています。receiveは後ろへ受け取る（つまり取り入れる）、recedeは後ろへ退く、referは情報源へ後ろへ向かうという意味です。"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "行く"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion（名詞化）"
+        }
+      ],
+      "translationShort": "景気後退",
+      "translationLong": "経済的な衰退、活動が一時的に減少する時期",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "その国は2000年代初頭に深刻な景気後退を経験した。"
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "次に"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "行く"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion（名詞化）"
+        }
+      ],
+      "translationShort": "継承",
+      "translationLong": "順序に従って次々と続く一連のもの、または次々と続く過程",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "その王朝の継承は3世紀にわたって続いた。"
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "～ない",
+          "homeLangDetails": "英語で最も一般的な否定の接頭辞で、古英語から受け継がれています。ドイツ語のun-やオランダ語のon-と全く同じように機能する、ゲルマン語族の言葉です。単語の意味を正反対にします：unhappy、unknown、unforgettableなど。"
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "前に",
+          "homeLangDetails": "時間的または位置的に前。predict、prepare、prehistoricなど。"
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "行く"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent（形容詞化）"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "-ed（過去形）"
+        }
+      ],
+      "translationShort": "前例のない",
+      "translationLong": "これまでに行われたことも知られたこともない、先例がない",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "その大流行は世界中の学校に前例のない混乱をもたらした。",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "横切って",
+          "homeLangDetails": "横切る、通す、またはある状態から別の状態へ変わることを表します。transport、transform、translateなど。"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名詞化）"
+        }
+      ],
+      "translationShort": "変形",
+      "translationLong": "形が変わる行為またはプロセス",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "毛虫から蝶への変身は素晴らしい。"
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "もう一度",
+          "homeLangDetails": "繰り返しや前の状態への戻りを表します。ラテン語のre-が語源で、英語に数千の単語に現れます：return、rebuild、reconsiderなど。「もう一度する」や「戻る」と同じ意味で使えることが多いです。"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名詞化）"
+        }
+      ],
+      "translationShort": "宗教改革",
+      "translationLong": "もう一度形成する、または改革する行為",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "宗教改革は16世紀ヨーロッパの重要な宗教運動であった。"
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中へ"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名詞化）"
+        }
+      ],
+      "translationShort": "情報",
+      "translationLong": "提供された、または学んだ事実または詳細",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "そのトピックについて有用な情報をオンラインで見つけた。"
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "間に",
+          "homeLangDetails": "～の間、またはその中に。international、interrupt、interactなど。"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "壊す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion（名詞化）"
+        }
+      ],
+      "translationShort": "中断",
+      "translationLong": "連続性の中断または一時停止",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "会議中に短い中断があった。"
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "バラバラに",
+          "homeLangDetails": "否定、または分解すること。disagree、disconnect、disappearなど。un-よりも分離や反転の意味が強いです。"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "壊す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion（名詞化）"
+        }
+      ],
+      "translationShort": "混乱",
+      "translationLong": "中断される乱れや問題",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "その嵐は交通に大きな混乱をもたらした。"
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "一緒に/共に"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "壊す"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "腐敗",
+      "translationLong": "不正や不道徳な行為。腐敗した状態。",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "政府は腐敗を厳しく取り締まった。"
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "自分自身",
+          "homeLangDetails": "自分という意味です。autobiography（自伝）、automatic（自動）、automobile（自動車）などに使われます。"
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "生命",
+          "homeLangDetails": "生命という意味です。biology（生物学）、biography（伝記）、biodegradable（生分解性）などの言葉に含まれています。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "描く/書く"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名詞を作る接尾辞"
+        }
+      ],
+      "translationShort": "自伝",
+      "translationLong": "本人が自分の人生を書いた物語",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "彼女は自分の若い頃についての自伝を書いた。"
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "生命",
+          "homeLangDetails": "生命という意味です。biology（生物学）、biography（伝記）、biodegradable（生分解性）などの言葉に含まれています。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "描く/書く"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名詞を作る接尾辞"
+        }
+      ],
+      "translationShort": "伝記",
+      "translationLong": "誰かの人生について書かれた記録",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "私は有名な科学者の伝記を読んでいます。"
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "光"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "描く/書く"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名詞を作る接尾辞"
+        }
+      ],
+      "translationShort": "写真",
+      "translationLong": "写真を撮る技術や芸術",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "彼女は写真撮影に情熱を持っています。"
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "ギリシャ語の con- 接頭辞の別の形です。「一緒に」「共に」という意味。symphony では多くの楽器が一緒に調和して演奏される様子を表しています。"
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "音/声"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名詞を作る接尾辞"
+        }
+      ],
+      "translationShort": "交響曲",
+      "translationLong": "オーケストラのための長大な作品",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "ベートーヴェンの第九交響曲は彼の最高傑作の一つです。"
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "遠く離れた",
+          "homeLangDetails": "距離のある場所という意味です。telephone（電話）、television（テレビ）、telescope（望遠鏡）などに使われています。"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "音/声"
+        }
+      ],
+      "translationShort": "電話",
+      "translationLong": "距離を隔てて通信するための装置",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "明日電話で君に連絡します。"
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "非常に小さい",
+          "homeLangDetails": "とても小さいという意味です。microphone（マイク）、microscope（顕微鏡）、microwave（電子レンジ）などに使われています。"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "音/声"
+        }
+      ],
+      "translationShort": "マイク",
+      "translationLong": "小さな音を拾い増幅する装置",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "歌手はマイクに向かって話した。"
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "時間",
+          "homeLangDetails": "時間という意味です。chronology（年代順）、synchronize（同期する）、anachronism（時代錯誤）などに含まれています。"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "学問/研究",
+          "homeLangDetails": "...の学問、...の研究という意味の接尾辞です。biology（生物学）、psychology（心理学）、technology（技術）などに使われています。"
+        }
+      ],
+      "translationShort": "年代順",
+      "translationLong": "出来事を時間順に並べること",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "これらの出来事の年代順を理解することが大切です。"
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "ギリシャ語の con- 接頭辞の別の形です。「一緒に」「共に」という意味。synchronize では複数の出来事や動作が同じ時刻に起こることを表しています。"
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "時間",
+          "homeLangDetails": "時間という意味です。chronology（年代順）、synchronize（同期する）、anachronism（時代錯誤）などに含まれています。"
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "動詞を作る接尾辞"
+        }
+      ],
+      "translationShort": "同期させる",
+      "translationLong": "複数のものが同じ時刻に起こるようにする",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "出発前に時計を同期させましょう。"
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "後ろ/戻る",
+          "homeLangDetails": "ギリシャ語の接頭辞で「後ろに」「戻って」という意味です。anachronism では何かが正しい時代から外れて「戻って」しまう状態を表しています。"
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "時間",
+          "homeLangDetails": "時間という意味です。chronology（年代順）、synchronize（同期する）、anachronism（時代錯誤）などに含まれています。"
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "主義/特性",
+          "homeLangDetails": "信念、実践、体制、特有の性質などを表す接尾辞です。realism（現実主義）、capitalism（資本主義）、enthusiasm（熱心さ）などに使われています。"
+        }
+      ],
+      "translationShort": "時代錯誤",
+      "translationLong": "誤った時代に置かれたもの",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "中世の映画にスマートフォンが出ていたら時代錯誤です。"
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "心"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "ギリシャ語由来の複合語をなめらかにつなぐ母音。単独では意味を持ちません。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "〜を学ぶ、研究する。生物学、心理学、技術論など、様々な分野の名前に使われます。"
+        }
+      ],
+      "translationShort": "心の研究",
+      "translationLong": "心と行動を科学的に研究する学問",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "彼女は大学で心理学を専攻していました。"
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "人間"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "ギリシャ語由来の複合語をなめらかにつなぐ母音。単独では意味を持ちません。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "〜を学ぶ、研究する。生物学、心理学、技術論など、様々な分野の名前に使われます。"
+        }
+      ],
+      "translationShort": "人間の研究",
+      "translationLong": "人間社会と文化を科学的に研究する学問",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "人類学は異なる文化を理解するのに役立ちます。"
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "皮膚"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "ギリシャ語由来の複合語をなめらかにつなぐ母音。単独では意味を持ちません。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "〜を学ぶ、研究する。生物学、心理学、技術論など、様々な分野の名前に使われます。"
+        }
+      ],
+      "translationShort": "皮膚の研究",
+      "translationLong": "皮膚とその疾患を医学的に研究する分野",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "皮膚科の専門医の予約があります。"
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "一緒に",
+          "homeLangDetails": "ギリシャ語の接頭辞「syn-」の変形で、「一緒に」「共に」という意味。ここでは感情（pathy）と組み合わさって「一緒に感じる」つまり他者の気持ちを理解することになります。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感情",
+          "homeLangDetails": "感じる、苦しむ、状態を表します。ギリシャ語の「pathos」から来た接尾辞です。共感、同情、反感、無関心などの言葉に使われます。"
+        }
+      ],
+      "translationShort": "同情、理解",
+      "translationLong": "他者の感情を理解し、それを共有できる能力",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "彼女の大変な状況に同情を感じました。"
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "～の中に",
+          "homeLangDetails": "ギリシャ語の接頭辞「en-」の変形で、「～の中に」「～へ」という意味。ここでは相手の感情状態に自分を入り込ませる、つまり相手の気持ちを自分事として感じることを表します。同情より深く、想像力を伴った関わり方ですね。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感情",
+          "homeLangDetails": "感じる、苦しむ、状態を表します。ギリシャ語の「pathos」から来た接尾辞です。共感、同情、反感、無関心などの言葉に使われます。"
+        }
+      ],
+      "translationShort": "感情移入、共感",
+      "translationLong": "他者の感情を理解し、まるで自分の感情のように感じることができる能力",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "共感することは良い友人であるために重要です。"
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "反対の",
+          "homeLangDetails": "「～に反対」「～に対抗」という意味の接頭辞。反戦、抗生物質、予期するなどの言葉に使われます。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感情",
+          "homeLangDetails": "感じる、苦しむ、状態を表します。ギリシャ語の「pathos」から来た接尾辞です。共感、同情、反感、無関心などの言葉に使われます。"
+        }
+      ],
+      "translationShort": "嫌悪、反発",
+      "translationLong": "強い嫌悪感や反発心",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "彼は現代美術に強い反発心を持っていました。"
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "変化、超越",
+          "homeLangDetails": "ギリシャ語の接頭辞で「変わる」「越える」「向こう側へ」という意味。ここでは形（morph）と結びついて、毛虫が蝶に変わるような劇的な変身、形態の大変化を表します。"
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "形",
+          "homeLangDetails": "形、姿、形状。変態、無定形、形態学などの言葉に使われます。"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "ギリシャ語由来の複合語をなめらかにつなぐ母音。単独では意味を持ちません。"
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "ギリシャ語の接尾辞で、状態、過程、条件を表します。ここでは形が変わるという動きの概念を名詞化し、その過程そのものを指すようにしています。"
+        }
+      ],
+      "translationShort": "変身、変化",
+      "translationLong": "形態や構造の完全な変化。生物の大変身",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "オタマジャクシがカエルに変態するのに数週間かかります。"
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "～ではない、なし",
+          "homeLangDetails": "ギリシャ語の接頭辞で「～ではない」「～なし」という意味。ゲルマン語の「un-」と同じ働きをします。ここでは「形がない」という意味になります。"
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "形",
+          "homeLangDetails": "形、姿、形状。変態、無定形、形態学などの言葉に使われます。"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "形のない、ぼんやりした",
+      "translationLong": "はっきりした形や輪郭がない。漠然としている、定義が曖昧である",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "その粘土のかたまりは何にでもなり得ます。"
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "～ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。ドイツ語の「un-」やオランダ語の「on-」と同じ役割を果たします。単語の意味を全く反対にします。不幸、未知、忘れられない、などの例があります。"
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "快適"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-できる"
+        }
+      ],
+      "translationShort": "不快な、落ち着かない",
+      "translationLong": "不快感を与える、または感じさせる。落ち着かない、気まずい",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "その椅子はとても座り心地が悪いです。"
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "～ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。ドイツ語の「un-」やオランダ語の「on-」と同じ役割を果たします。単語の意味を全く反対にします。不幸、未知、忘れられない、などの例があります。"
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "信じる"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-できる"
+        }
+      ],
+      "translationShort": "信じがたい、驚くべき",
+      "translationLong": "信じることができない。信じられないほど素晴らしい、または驚くべき",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "その話は信じられません。"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/～ない",
+          "homeLangDetails": "英語で最も一般的な否定の接頭辞で、古英語から受け継がれています。ドイツ語の「un-」やオランダ語の「on-」と全く同じ働きをするので、ゲルマン言語を学ぶときは言語間の共通パターンとして理解できます。単語の意味を反対にします。unhappy（不幸な）、unknown（未知の）、unforgettable（忘れられない）など。"
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "忘れられない、記憶に残る",
+      "translationLong": "忘れられないこと。心に深く刻まれるような印象的な出来事や経験",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "その休暇は忘れられないものだった。"
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/～ない",
+          "homeLangDetails": "英語で最も一般的な否定の接頭辞で、古英語から受け継がれています。ドイツ語の「un-」やオランダ語の「on-」と全く同じ働きをするので、ゲルマン言語を学ぶときは言語間の共通パターンとして理解できます。単語の意味を反対にします。unhappy（不幸な）、unknown（未知の）、unforgettable（忘れられない）など。"
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "識別できない、見分けがつかない",
+      "translationLong": "誰か何かが認識・同定できないほど変わってしまった状態",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "事故の後、その車は見分けがつかないほど壊れていた。"
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/～誤り",
+          "homeLangDetails": "何かが間違った方法で、または不正確に行われたことを示します。misunderstand（誤解する）、mistake（間違い）、misrepresent（歪める）など。"
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "動詞を名詞化する接尾辞で、名詞化詞（ジェランド）を作ります。ここでは「misunderstand」という動詞を名詞の「misunderstanding」に変えて、誤解する行為やその結果を表す名詞にしています。"
+        }
+      ],
+      "translationShort": "誤解、行き違い",
+      "translationLong": "何かを正しく理解できなかったことによる混乱や意見の相違",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "会議の時間について誤解があった。"
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/～誤り",
+          "homeLangDetails": "何かが間違った方法で、または不正確に行われたことを示します。misunderstand（誤解する）、mistake（間違い）、misrepresent（歪める）など。"
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "虚偽の表現、歪曲",
+      "translationLong": "事実を間違ったり不正確に表現すること。事実の歪曲や誤った描写",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "その記事は事実の誤った表現を含んでいた。"
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/～過剰",
+          "homeLangDetails": "度を超した、多すぎるという意味を表します。overlook（見落とす）、overwhelm（圧倒する）、overestimate（過大評価する）など。古い用法では「上」という空間的な意味もあります。"
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "「whelm」は「沈める」「押し潰す」という意味ですが、通常は「over-」がつけられて使われます。「overwhelm」で、感情的にまたは物理的に完全に押し流されるイメージを表します。"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "動詞を形容詞化する接尾辞で、「～している」という意味の形容詞を作ります。ここでは何かを圧倒する、心を奪うという意味の形容詞になっています。"
+        }
+      ],
+      "translationShort": "圧倒的な、驚くべき",
+      "translationLong": "極めて印象的で強力、または感情的に強い影響を与える。人を圧倒するほどの",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "彼女が受けたサポートは圧倒的だった。"
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/～不足",
+          "homeLangDetails": "「over-」の反対で、「下」という意味（underground＝地下）または「不十分」という意味（underestimate＝過小評価、underperform＝期待以下の成績）があります。"
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "過小評価する",
+      "translationLong": "何かの価値や能力を実際より低く評価すること",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "彼女の複雑な問題を解く能力を過小評価してはいけない。"
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/～過剰",
+          "homeLangDetails": "度を超した、多すぎるという意味を表します。overlook（見落とす）、overwhelm（圧倒する）、overestimate（過大評価する）など。古い用法では「上」という空間的な意味もあります。"
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "過大評価",
+      "translationLong": "何かの価値や規模を実際より大きく見積もる行為",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "そのプロジェクトの予算の過大評価が財政問題につながった。"
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/多くの",
+          "homeLangDetails": "多数の、複数の。multicultural（多文化の）、multimedia（マルチメディア）、multiply（増える）など。"
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "多文化の",
+      "translationLong": "様々な異なる文化で構成されている、または異なる文化に関わる",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "私たちの街は多くの異なる文化で構成された人口で知られている。"
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/～を超えて",
+          "homeLangDetails": "横切って、貫いて、または一つの状態から別の状態へ変わることを表します。transport（運ぶ）、transform（変える）、translate（翻訳する）など。"
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "大陸を横断する",
+      "translationLong": "大陸をまたがって広がっている、または複数の大陸を横断する",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "その大陸横断鉄道は東海岸と西海岸を結んだ。"
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/～の間",
+          "homeLangDetails": "間、中間、相互という意味。international（国際的な）、interrupt（遮る）、interact（相互に作用する）など。"
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "互いに置き換え可能な",
+      "translationLong": "二つ以上のものが相互に交換できて、動作や機能に影響がない状態",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "これら2つの部品は互いに置き換え可能で、どちらの位置にも使用できる。"
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/〜でない/分ける",
+          "homeLangDetails": "「ない」または「分ける」という意味です。disagree（同意しない）、disconnect（切り離す）、disappear（消える）などの例があります。un-よりも分離や反転の意味が強いのが特徴です。"
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organize"
+        }
+      ],
+      "translationShort": "乱す、混乱させる",
+      "translationLong": "整理されている状態を壊す、秩序を乱す",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "突然の変化は、私たちの綿密に計画されたスケジュールを混乱させるでしょう。"
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "modern"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "近代化",
+      "translationLong": "何かを現代的に、または最新式にしていくプロセス",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "工場の近代化はその効率性を改善しました。"
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industrial"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "産業化",
+      "translationLong": "ある地域や社会で産業を発展させるプロセス",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "その国の産業化は経済を変革しました。"
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "encourage"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作ります。その行動、その結果、またはその手段を表します。government（政府）、movement（運動）、enjoyment（楽しみ）などの例があります。"
+        }
+      ],
+      "translationShort": "励まし、勇気づけ",
+      "translationLong": "誰かに勇気や支援を与える行為",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "彼女の励ましは私の恐怖を克服するのに役立ちました。"
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/〜でない/分ける",
+          "homeLangDetails": "「ない」または「分ける」という意味です。disagree（同意しない）、disconnect（切り離す）、disappear（消える）などの例があります。un-よりも分離や反転の意味が強いのが特徴です。"
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "agree"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作ります。その行動、その結果、またはその手段を表します。government（政府）、movement（運動）、enjoyment（楽しみ）などの例があります。"
+        }
+      ],
+      "translationShort": "意見の相違、同意しないこと",
+      "translationLong": "同意がない状態、意見の食い違い",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "予算についての意見の相違は数週間続きました。"
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/〜でない/分ける",
+          "homeLangDetails": "「ない」または「分ける」という意味です。disagree（同意しない）、disconnect（切り離す）、disappear（消える）などの例があります。un-よりも分離や反転の意味が強いのが特徴です。"
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "appoint"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作ります。その行動、その結果、またはその手段を表します。government（政府）、movement（運動）、enjoyment（楽しみ）などの例があります。"
+        }
+      ],
+      "translationShort": "失望",
+      "translationLong": "何かが期待に応えられないときの悲しみや落胆の感情",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "コンサートの中止は大きな失望をもたらしました。"
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "acknowledge"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作ります。その行動、その結果、またはその手段を表します。government（政府）、movement（運動）、enjoyment（楽しみ）などの例があります。"
+        }
+      ],
+      "translationShort": "承認、認知",
+      "translationLong": "何かを認める、または誰かの貢献などを公式に認める行為",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "彼の貢献への認知は長く遅れていました。"
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "courage"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "勇敢な",
+      "translationLong": "勇気を示す、勇敢である",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "危機の最中の彼女の勇敢な行動は命を救いました。"
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "outrage",
+          "homeLangDetails": "古いフランス語の outrage（過度、暴力）から来た凍結された複合語で、現代英語の out-という接頭辞とrageを組み合わせたものではありません。ここの out-はゲルマン語ではなくラテン語の ultra（超える、越える）から来ています。つまり outrageous は文字通り「怒りを超える」というより「限度を超えている」という意味です。"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "ひどい、無茶な",
+      "translationLong": "衝撃的に悪い、または不快な、異常に過剰な",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "こんなに小さな物の値段がこんなに高いなんてひどく無茶だと思いました。"
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "advantage"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "有利な",
+      "translationLong": "利益や得をもたらす、有利である",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "海外で勉強することはあなたのキャリアに有利に働く可能性があります。"
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "超える、～を超えた"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "普通の"
+        }
+      ],
+      "translationShort": "並外れた、例外的な",
+      "translationLong": "並外れた、例外的な、注目すべき、珍しい",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "彼女は音楽に対して並外れた才能を持っている。"
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "注目する、気づく"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able（可能性を示す接尾辞）"
+        }
+      ],
+      "translationShort": "注目すべき、顕著な",
+      "translationLong": "注目すべき、顕著な、注目に値する",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "その運動選手はけがからの回復が素晴らしかった。"
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "予測する"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able（可能性を示す接尾辞）"
+        }
+      ],
+      "translationShort": "予測可能な",
+      "translationLong": "予測可能な、容易に推測できる",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "その映画の結末は完全に予測可能だった。"
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "調整する"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able（可能性を示す接尾辞）"
+        }
+      ],
+      "translationShort": "調整可能な",
+      "translationLong": "調整可能な、調節できる",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "その椅子は高さが調整可能である。"
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "拡張する"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able（可能性を示す接尾辞）"
+        }
+      ],
+      "translationShort": "拡張可能な",
+      "translationLong": "拡張可能な、広げることができる",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "この収納ボックスはスペースが必要な場合に拡張できる。"
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-（否定）",
+          "homeLangDetails": "英語で最も一般的な否定の接頭辞で、古英語に由来します。日本語の「～ない」や「～でない」に相当する働きをします。unhappy（不幸な）、unknown（未知の）、unforgettable（忘れられない）など、単語の意味を反対にしてしまいます。"
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "意識がある"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness（状態や性質を示す接尾辞）",
+          "homeLangDetails": "形容詞を名詞に変えて、ある状態や性質を表します。happiness（幸福）、darkness（暗さ）、awareness（認識）など。日本語では「～さ」や「～さ」で表されることが多いです。"
+        }
+      ],
+      "translationShort": "意識喪失、無意識状態",
+      "translationLong": "意識喪失、無意識状態、意識がない状態",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "頭部への打撃により、彼は数分間意識を失った。"
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "ir-（否定）"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "責任のある"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity（性質や状態を示す接尾辞）"
+        }
+      ],
+      "translationShort": "無責任さ、責任回避",
+      "translationLong": "無責任さ、責任回避、不注意",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "彼の無責任さはその企業に数千ドルの損失をもたらした。"
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-（否定）"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "理解できる"
+        }
+      ],
+      "translationShort": "理解不可能な、不可解な",
+      "translationLong": "理解不可能な、不可解な、わけのわからない",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "その説明書は理解不可能な専門用語で書かれていた。"
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "仕切り、区画"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al（～的な、～に関連した接尾辞）",
+          "homeLangDetails": "形容詞を作る接尾辞で、「～に関する」「～の性質の」という意味を加えます。musical（音楽的な）、natural（自然の）、industrial（産業の）など。日本語では「～的な」や「～の」で表されることが多いです。"
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize（～化する、～を行う接尾辞）",
+          "homeLangDetails": "動詞を作る接尾辞で、「～の状態にする」「～のプロセスを行う」という意味です。modernize（現代化する）、organize（組織化する）、realize（実現する）など。日本語では「～化する」や「～する」で表されることが多いです。"
+        }
+      ],
+      "translationShort": "区分する、仕切る",
+      "translationLong": "区分する、仕切る、別々の部分や範疇に分ける",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "仕事と私生活を切り分けている人もいる。"
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-（否定）"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "両立する"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity（性質や状態を示す接尾辞）"
+        }
+      ],
+      "translationShort": "互換性がないこと",
+      "translationLong": "互換性がないこと、相いれない状態",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "2つのシステム間の互換性の問題により、統合が困難だった。"
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "気をつけ"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "～な・～い",
+          "homeLangDetails": "その性質や状態に満ちている、という意味です。日本語の「～な」や「～い」と同じ役割ですね。Beautiful（美しい）、careful（注意深い）、powerful（強力な）のように使われます。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "注意深く、慎重に",
+      "translationLong": "気をつけて、注意深いやり方で",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "彼女は花瓶を注意深く棚に置いた。"
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "気をつけ"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "不注意に、ぞんざいに",
+      "translationLong": "気をつけずに、注意散漫なやり方で",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "彼は気をつけずにコップを落とした。"
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "気をつけ"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "～さ",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。Happiness（幸福さ）、darkness（暗さ）、awareness（認識）みたいに、抽象的な概念として表現する時に使います。日本語の『～さ』『～さ』と同じ役割ですね。"
+        }
+      ],
+      "translationShort": "不注意、気の緩さ",
+      "translationLong": "注意散漫である状態、不注意さ",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "彼女の不注意のせいで皿が割れた。"
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "助け"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "～な・～い",
+          "homeLangDetails": "その性質や状態に満ちている、という意味です。日本語の「～な」や「～い」と同じ役割ですね。Beautiful（美しい）、careful（注意深い）、powerful（強力な）のように使われます。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "親切に、助けになるように",
+      "translationLong": "助けになるやり方で、支援的に",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "彼女は親切に指示を説明した。"
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "助け"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "無力に、どうすることもできずに",
+      "translationLong": "自分を助けることができないやり方で、無力に",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "彼は事故が起きるのをどうすることもできずに見守った。"
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "助け"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "～さ",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。Happiness（幸福さ）、darkness（暗さ）、awareness（認識）みたいに、抽象的な概念として表現する時に使います。日本語の『～さ』『～さ』と同じ役割ですね。"
+        }
+      ],
+      "translationShort": "無力感、どうすることもできない状態",
+      "translationLong": "自分を助けることができない状態、無力感",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "彼女の声に込もった無力感は心が痛くなった。"
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "～な・～い",
+          "homeLangDetails": "その性質や状態に満ちている、という意味です。日本語の「～な」や「～い」と同じ役割ですね。Beautiful（美しい）、careful（注意深い）、powerful（強力な）のように使われます。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "幸いなことに、うまくいくといいのだが",
+      "translationLong": "希望を持って、何かが起こることを望みながら",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "幸いなことに、明日は天気が良くなるといいですね。"
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "～さ",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。Happiness（幸福さ）、darkness（暗さ）、awareness（認識）みたいに、抽象的な概念として表現する時に使います。日本語の『～さ』『～ぐ』と同じ役割ですね。"
+        }
+      ],
+      "translationShort": "絶望感、希望のなさ",
+      "translationLong": "希望がない状態、絶望の気持ち",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "チームに絶望感が漂った。"
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "～がない",
+          "homeLangDetails": "～がない、という意味です。日本語の『～がない』『～のない』と同じ感覚ですね。Careless（不注意な）、hopeless（希望のない）、speechless（言葉を失った）のように、何かが欠けている状態を表します。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "絶望的に、希望なく",
+      "translationLong": "希望がない状態で、絶望的なやり方で",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "その状況は絶望的に悪く見えた。"
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "感謝"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "～な・～い",
+          "homeLangDetails": "その性質や状態に満ちている、という意味です。日本語の「～な」や「～い」と同じ役割ですね。Beautiful（美しい）、careful（注意深い）、powerful（強力な）のように使われます。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "～に",
+          "homeLangDetails": "形容詞から副詞を作り、『～のやり方で』という意味になります。日本語で形容詞を『～く』や『～に』変えて副詞にするのと同じです。Quickly（速く）、happily（幸せそうに）、surprisingly（驚くことに）といった感じですね。"
+        }
+      ],
+      "translationShort": "幸いなことに、ありがたいことに",
+      "translationLong": "幸いにも、感謝の気持ちを持ちながら",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "幸いなことに、誰も事故で怪我をしませんでした。"
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "感謝"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "〜でいっぱい、〜に満ちた、という意味です。日本語の「満ちた」や「的」に近い感じですね。beautiful（美しい）、careful（注意深い）、powerful（強力な）のように、名詞に付いて形容詞を作ります。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。happiness（幸せ）、darkness（暗さ）、awareness（認識）のような感じで、日本語の「さ」や「性」に相当するものと考えてください。"
+        }
+      ],
+      "translationShort": "感謝の気持ち",
+      "translationLong": "感謝する心や状態",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "彼女の感謝の気持ちは温かい抱擁に明らかに表れていた。"
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "思考"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "〜でいっぱい、〜に満ちた、という意味です。日本語の「満ちた」や「的」に近い感じですね。beautiful（美しい）、careful（注意深い）、powerful（強力な）のように、名詞に付いて形容詞を作ります。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "思慮深く",
+      "translationLong": "慎重に、丁寧に考えながら",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "彼女は答える前に質問を慎重に考えた。"
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "思考"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "〜がない、〜のない、という意味です。careless（不注意な）、hopeless（絶望的な）、speechless（言葉を失った）のように、ネガティブな意味の形容詞を作ります。日本語の「無」に相当しますね。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。happiness（幸せ）、darkness（暗さ）、awareness（認識）のような感じで、日本語の「さ」や「性」に相当するものと考えてください。"
+        }
+      ],
+      "translationShort": "思慮の欠如",
+      "translationLong": "気配りのない状態、他人の気持ちを考えない性質",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "彼の気配りのなさが彼女の気持ちを傷つけた。"
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "恐怖"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "〜がない、〜のない、という意味です。careless（不注意な）、hopeless（絶望的な）、speechless（言葉を失った）のように、ネガティブな意味の形容詞を作ります。日本語の「無」に相当しますね。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "恐れずに",
+      "translationLong": "恐れることなく、勇敢に",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "その兵士は勇敢に戦場に行進した。"
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "恐怖"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "〜がない、〜のない、という意味です。careless（不注意な）、hopeless（絶望的な）、speechless（言葉を失った）のように、ネガティブな意味の形容詞を作ります。日本語の「無」に相当しますね。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。happiness（幸せ）、darkness（暗さ）、awareness（認識）のような感じで、日本語の「さ」や「性」に相当するものと考えてください。"
+        }
+      ],
+      "translationShort": "勇敢さ",
+      "translationLong": "恐れがない状態、勇敢な性質",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "彼女の勇敢さが周りの人たちを鼓舞した。"
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "平和"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "〜でいっぱい、〜に満ちた、という意味です。日本語の「満ちた」や「的」に近い感じですね。beautiful（美しい）、careful（注意深い）、powerful（強力な）のように、名詞に付いて形容詞を作ります。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "平和的に",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "The protesters marched peacefully through the city."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "美しさ"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "ここではbeauty（美しさ）という名詞に付いています。美しさ自体がすでに-ty（フランス語の beaute から）という接尾辞を含んでいるんですが、beautifully では beautiful という形容詞（beauty + -ful = 美しさに満ちた）を作ってから、そこにさらに-ly を付けて副詞にしています。接尾辞がいくつも重なる仕組みが分かる興味深い例ですね。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "美しく",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "She sang beautifully at the concert."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "成功"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "〜でいっぱい、〜に満ちた、という意味です。日本語の「満ちた」や「的」に近い感じですね。beautiful（美しい）、careful（注意深い）、powerful（強力な）のように、名詞に付いて形容詞を作ります。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "成功させて",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "The project was successfully completed on time."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "力"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "〜でいっぱい、〜に満ちた、という意味です。日本語の「満ちた」や「的」に近い感じですね。beautiful（美しい）、careful（注意深い）、powerful（強力な）のように、名詞に付いて形容詞を作ります。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞を副詞に変えて、そのやり方や様子を表します。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）という具合ですね。また形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）のように。"
+        }
+      ],
+      "translationShort": "力強く",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "The speaker delivered a powerfully persuasive argument."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "力"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "〜がない、〜のない、という意味です。careless（不注意な）、hopeless（絶望的な）、speechless（言葉を失った）のように、ネガティブな意味の形容詞を作ります。日本語の「無」に相当しますね。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "形容詞を名詞に変えて、その状態や性質を表します。happiness（幸せ）、darkness（暗さ）、awareness（認識）のような感じで、日本語の「さ」や「性」に相当するものと考えてください。"
+        }
+      ],
+      "translationShort": "無力さ",
+      "translationLong": "力や影響力がない状態",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "彼は不正に立ち向かう際に深い無力感を感じた。"
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不〜/ない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。ドイツ語の「un-」やオランダ語の「on-」など、ゲルマン言語全体で同じはたらきをします。単語の意味を真逆にします。unhappy(不幸な)、unknown(未知の)、unforgettable(忘れられない)など。"
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "雇用する"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "仕事がない状態",
+      "translationLong": "雇用されていない状態。失業状態",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "不況の間に失業率が大きく上昇した。"
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ/取り消す",
+          "homeLangDetails": "下方へ、あるいは離れること、または行為を取り消すことを表します。decrease(減少)、depart(出発)、deconstruct(分解)など。基本となる単語の意味を逆にすることが多いです。"
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "展開する",
+          "homeLangDetails": "古いフランス語の「devoluper」(包みを解く、広げる)に由来します。語根は「velop」(envelope=封筒に見られます)で、包む、覆うという意味です。ここでのde-は「外へ」「離れて」という意味なので、developは文字通り『包みを解く』『徐々に広げる』という意味になります。"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "成長のプロセス",
+      "translationLong": "発達する、または発達させる過程。成長または改善",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "このリサーチプログラムは児童発達に焦点を当てている。"
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中へ/内側へ",
+          "homeLangDetails": "変幻自在な接頭辞で、二つの異なる意味を持っています。「ない」という否定の意味(inactive=非活動的、impossible=不可能、illegal=違法)と「中へ」「内側へ」という方向の意味(insert=挿入、import=輸入)です。後ろの音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "回転する/転がる",
+          "homeLangDetails": "ラテン語の「volvere」(回転する、転がす)に由来します。revolve(回転する)、evolution(進化)、convolution(回旋)など、回転や転がることの感覚を含む言葉に同じ語根が現れます。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "関わっている状態",
+      "translationLong": "関わっていること、または関わっている状態。参加",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "彼女のコミュニティサービスへの関わりは広く認識されていた。"
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "中へ/内側へ",
+          "homeLangDetails": "変幻自在な接頭辞で、二つの異なる意味を持っています。「ない」という否定の意味(inactive=非活動的、impossible=不可能、illegal=違法)と「中へ」「内側へ」という方向の意味(insert=挿入、import=輸入)です。後ろの音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "良くする",
+          "homeLangDetails": "ラテン語の「probare」(同意する、承認する)に由来します。improveでは、接頭辞in-(中へ) + prove(良くする)という組み合わせで『より良い状態にする』という意味になります。prove(証明する)やapprobation(承認)など同じ語根が現れます。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "より良くする行為",
+      "translationLong": "改善する行為またはプロセス。何かをより良くする変化",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "彼女の成績の向上は懸命な努力の結果だった。"
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "へ/~に向かって",
+          "homeLangDetails": "方向や付加を表します。adapt(適応)、admit(認める)、attract(引き寄せる)、arrive(到着する)など。"
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "回転させる",
+          "homeLangDetails": "ラテン語の「vertere」(回転させる)に由来します。advertiseでは、接頭辞ad-(~へ、~に向かって) + vert(回転させる)という組み合わせで『注意を向ける』、つまり『何かに注目を集める』という意味になります。convert(変換)、divert(そらす)、avert(避ける)など同じ語根が現れます。"
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "~にする",
+          "homeLangDetails": "何かに質的特性を付与したり、プロセスを引き起こします。modernize(近代化)、organize(整理する)、realize(実現する)など。"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "公開宣伝",
+      "translationLong": "一般大衆に情報を与えたり説得するための通知または告知",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "新製品の広告がテレビに放映された。"
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "中へ入る"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "保つ/つかむ",
+          "homeLangDetails": "古いフランス語の「tenir」、ラテン語の「tenere」(保つ、つかむ)に由来します。retain(保持)、maintain(維持)、sustain(支える)、contain(含む)など、保つことや確保することの感覚を含む言葉に同じ語根が現れます。entertainでは『中へ招き入れる』という感覚と『注意を保つ』という感覚が結合しています。"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "娯楽または気晴らし",
+      "translationLong": "楽しみや喜びを与える行為、またはそれを与えられること",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "コンサートは素晴らしい夜の娯楽だった。"
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び/戻って",
+          "homeLangDetails": "繰り返しや前の状態への回帰を表します。ラテン語の「re-」に由来し、英語の数千の単語に現れます。return(戻る)、rebuild(再建)、reconsider(再考)など。『もう一度する』『戻る』という意味と互換性があることが多いです。"
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "求める/探す",
+          "homeLangDetails": "ラテン語の「quaerere」(求める、探す)に由来します。requireでは、re-(再び、再度) + quir という組み合わせで『必要とするもの』『求めるもの』という意味になります。inquiry(問い合わせ)、inquisition(調査)、query(質問)など同じ語根が現れます。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "必要なもの",
+      "translationLong": "必要とされるもの。必要な条件またはもの",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "高校卒業資格はほとんどの大学プログラムの入学要件である。"
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び/戻って",
+          "homeLangDetails": "繰り返しや前の状態への回帰を表します。ラテン語の「re-」に由来し、英語の数千の単語に現れます。return(戻る)、rebuild(再建)、reconsider(再考)など。『もう一度する』『戻る』という意味と互換性があることが多いです。"
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "引き下がる",
+          "homeLangDetails": "古いフランス語の「tirer」(引く、引っ張る)に由来します。retireでは、re-(再び、戻って) + tir という組み合わせで『引き下がる』『戻る』という意味になります。特に仕事から引き下がることを指します。tired(疲れた、引っ張られて疲弊した)など同じ語根が現れます。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "仕事をやめること",
+      "translationLong": "職務または地位から永久に退く行為または事実",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "彼女は来年の退職を計画している。"
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ/取り消す",
+          "homeLangDetails": "下方へ、あるいは離れること、または行為を取り消すことを表します。decrease(減少)、depart(出発)、deconstruct(分解)など。基本となる単語の意味を逆にすることが多いです。"
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "部分"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "部門または部署",
+      "translationLong": "組織、企業、または機関の下部組織または部門",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "彼女はマーケティング部門で働いている。"
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び/戻って",
+          "homeLangDetails": "繰り返しや前の状態への回帰を表します。ラテン語の「re-」に由来し、英語の数千の単語に現れます。return(戻る)、rebuild(再建)、reconsider(再考)など。『もう一度する』『戻る』という意味と互換性があることが多いです。"
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "場所"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "動詞から名詞を作り、その行為、結果、または手段を表します。government(政府)、movement(運動)、enjoyment(楽しみ)など。"
+        }
+      ],
+      "translationShort": "別のものの代わりになるもの",
+      "translationLong": "他の何かの代わりになる人またはもの",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "割れた窓の交換品が昨日到着した。"
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "幸運な"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "〜に",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "残念ながら、悲しいことに",
+      "translationLong": "残念ながら、悲しいことに、不幸にも",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "残念ながら、コンサートはキャンセルされました。"
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "予期する"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "（過去分詞）"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "〜に",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "突然に、予想外に",
+      "translationLong": "突然に、予想外に、不意に",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "彼女は突然パーティーに現れました。"
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "健康"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "（形容詞化）"
+        }
+      ],
+      "translationShort": "不健康な、病弱な",
+      "translationLong": "不健康な、病弱な、有害な",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "不健康な食生活は病気につながる可能性があります。"
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "理由、理性"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "〜できる",
+          "homeLangDetails": "ラテン語由来の接尾辞で、「〜される能力がある」「〜できる」という意味です。readable（読める）、comfortable（快適な）、possible（可能な）など、様々な形容詞を作ります。"
+        }
+      ],
+      "translationShort": "不合理な、不公正な",
+      "translationLong": "不合理な、不公正な、過度な",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "彼の要求は過度でした。"
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "受け入れる"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "〜できる",
+          "homeLangDetails": "ラテン語由来の接尾辞で、「〜される能力がある」「〜できる」という意味です。readable（読める）、comfortable（快適な）、possible（可能な）など、様々な形容詞を作ります。"
+        }
+      ],
+      "translationShort": "受け入れられない",
+      "translationLong": "受け入れられない、不適切な、耐え難い",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "その行動は完全に耐え難いものです。"
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "避ける"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "〜できる",
+          "homeLangDetails": "ラテン語由来の接尾辞で、「〜される能力がある」「〜できる」という意味です。readable（読める）、comfortable（快適な）、possible（可能な）など、様々な形容詞を作ります。"
+        }
+      ],
+      "translationShort": "避けられない、逃れられない",
+      "translationLong": "避けられない、逃れられない、必然的な",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "死と税金は避けられません。"
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "重要な"
+        }
+      ],
+      "translationShort": "重要でない、つまらない",
+      "translationLong": "重要でない、つまらない、些細な",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "その細部は些細です。"
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非〜/〜ではない",
+          "homeLangDetails": "英語で最も一般的な否定接頭辞で、古英語から受け継がれています。日本語の「非〜」や「〜ない」に相当します。ゲルマン言語全体で同じパターンが見られ、ドイツ語の「un-」やオランダ語の「on-」と全く同じ役割を果たしています。基本の単語の意味を反転させます。unhappy（幸せではない）、unknown（未知の）、unforgettable（忘れられない）のように使われます。"
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "喜んで、進んで"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "（動名詞）"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "〜さ、〜性",
+          "homeLangDetails": "形容詞を名詞に変える接尾辞で、ある状態や特質を表します。happiness（幸せさ）、darkness（暗さ）、awareness（自覚）のように使われます。ラテン語の「-ity」に相当する、ゲルマン言語的な表現方法です。"
+        }
+      ],
+      "translationShort": "嫌がる気持ち、気が進まない",
+      "translationLong": "嫌がる気持ち、気が進まない、不本意さ",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "彼が手伝う気が進まなかったのは残念でした。"
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再〜/もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への返還を表します。ラテン語の「re-」から来ており、英語の何千という単語に現れます。return（戻る）、rebuild（再建する）、reconsider（再考する）のように、「もう一度する」「戻す」という意味でよく使われます。"
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "考える"
+        }
+      ],
+      "translationShort": "もう一度考える、再考する",
+      "translationLong": "もう一度考える、再考する、見直す",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "私は自分の決定についてもう一度考える必要があります。"
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再〜/もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への返還を表します。ラテン語の「re-」から来ており、英語の何千という単語に現れます。return（戻る）、rebuild（再建する）、reconsider（再考する）のように、「もう一度する」「戻す」という意味でよく使われます。"
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "考える"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "〜tion",
+          "homeLangDetails": "ラテン語由来の英語で最も一般的な名詞接尾辞です。動詞を名詞に変え、ある行為またはその結果を表します。construction（建設）、permission（許可）、explosion（爆発）のように使われます。ドイツ語の「-ung」に相当します。"
+        }
+      ],
+      "translationShort": "見直し、改めての検討",
+      "translationLong": "見直し、改めての検討、再考の行為",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "理事会は提案の見直しを要求しました。"
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び、もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への復帰を示します。ラテン語の re- から来ており、英語の数千の単語に現れます。return、rebuild、reconsider など。「もう一度する」や「戻す」と言い換えることができます。日本語の「再」という接頭辞と同じような働きをします。"
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "整理する、組織化する"
+        }
+      ],
+      "translationShort": "もう一度整理する",
+      "translationLong": "もう一度整理する、再構成する、改めて配置する",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "その会社は部門を再構成することに決めた。"
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び、もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への復帰を示します。ラテン語の re- から来ており、英語の数千の単語に現れます。return、rebuild、reconsider など。「もう一度する」や「戻す」と言い換えることができます。日本語の「再」という接頭辞と同じような働きをします。"
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "整理する、組織化する"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション、名詞化の接尾辞"
+        }
+      ],
+      "translationShort": "再構成、改編",
+      "translationLong": "再構成、改編、組織を改めて編成する過程",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "その再構成に3ヶ月かかった。"
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び、もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への復帰を示します。ラテン語の re- から来ており、英語の数千の単語に現れます。return、rebuild、reconsider など。「もう一度する」や「戻す」と言い換えることができます。日本語の「再」という接頭辞と同じような働きをします。"
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "紹介する、導入する"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション、名詞化の接尾辞",
+          "homeLangDetails": "英語で最も一般的なラテン語由来の名詞接尾辞です。動詞を名詞に変え、ある動作やその結果を表します。construction、permission、explosion など。日本語の「化」や「ション」に相当します。"
+        }
+      ],
+      "translationShort": "再導入、復活",
+      "translationLong": "再導入、復活、もう一度導入する行為",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "オオカミの再導入は生態系の回復に役立った。"
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び、もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への復帰を示します。ラテン語の re- から来ており、英語の数千の単語に現れます。return、rebuild、reconsider など。「もう一度する」や「戻す」と言い換えることができます。日本語の「再」という接頭辞と同じような働きをします。"
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "つなぐ、結ぶ"
+        }
+      ],
+      "translationShort": "もう一度つなぐ",
+      "translationLong": "もう一度つなぐ、再び関係を結ぶ、連絡を取り戻す",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "何年も離れていた後、同窓会で連絡を取り戻した。"
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再び、もう一度",
+          "homeLangDetails": "繰り返しや以前の状態への復帰を示します。ラテン語の re- から来ており、英語の数千の単語に現れます。return、rebuild、reconsider など。「もう一度する」や「戻す」と言い換えることができます。日本語の「再」という接頭辞と同じような働きをします。"
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "循環、周期"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "動名詞"
+        }
+      ],
+      "translationShort": "資源の再利用、循環的な再利用",
+      "translationLong": "資源の再利用、循環的な再利用、廃棄物を新しい製品に変える過程",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "資源の再利用は環境汚染を減らすのに役立つ。"
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "共に、一緒に",
+          "homeLangDetails": "共に、または一緒にという意味です。ラテン語の最も生産的な接頭辞の一つで、connect、combine、cooperate、collect など数多くの単語に使われます。後ろの音に合わせてスペルが変わることもあります。日本語の「共」や「相互」という概念に近いです。"
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "共通、一般的"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "情報の交換",
+      "translationLong": "情報やニュースの伝達または交換",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "良いコミュニケーションはどんな関係でも必須である。"
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "外へ、元の、離れて",
+          "homeLangDetails": "外へ、元の、または離れてという意味です。exhale、export、eject、ex-president などで使われます。"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "導く、導く"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "教える過程",
+      "translationLong": "教育または学習の過程、特に学校における教育",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "教育は多くの可能性への扉を開く。"
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中へ、内へ",
+          "homeLangDetails": "二つの異なる意味を持つ多才な接頭辞です。一つは「ない」という意味で、inactive、impossible、illegal などに使われ、もう一つは「中へ」という意味で、insert、import などに使われます。後ろの音に合わせてスペルが変わります。"
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "痕跡、足跡"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "綿密な調査",
+      "translationLong": "何かを詳しく調べる、または調査すること",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "警察はその盗難事件の調査を行った。"
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "内へ、中へ"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "導く"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション",
+          "homeLangDetails": "英語で最も一般的なラテン語由来の名詞接尾辞です。動詞を名詞に変え、ある動作やその結果を表します。construction、permission、explosion など。日本語の「化」や「ション」に相当します。"
+        }
+      ],
+      "translationShort": "正式な紹介",
+      "translationLong": "ある人を他の人に正式に紹介すること、また本や演説の冒頭部分",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "その小説の序章は主要な対立を設定している。"
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "前へ、賛成、代理",
+          "homeLangDetails": "前へ、賛成、または代理という意味です。progress、produce、pronoun などで使われます。"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "導く"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ション",
+          "homeLangDetails": "英語で最も一般的なラテン語由来の名詞接尾辞です。動詞を名詞に変え、ある動作やその結果を表します。construction、permission、explosion など。日本語の「化」や「ション」に相当します。"
+        }
+      ],
+      "translationShort": "商品の製造",
+      "translationLong": "何かを作る、製造する、または生産すること",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "その工場は需要に応じるために生産を増やした。"
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "前へ/前方",
+          "homeLangDetails": "前へ、前方、または賛成という意味です。progress（進む）、produce（作る）、pronoun（代名詞）など、このprefixが付いた言葉をイメージするとわかりやすいですよ。"
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "音"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "単語の発音方法",
+      "translationLong": "単語または言語がどのように発音・音読されるか",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "彼女のフランス語の発音は大幅に改善した。"
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "外へ/～から",
+          "homeLangDetails": "外へ、外から、または離れてという意味です。exhale（息を吐く）、export（輸出する）、eject（放出する）、ex-president（前大統領）などの言葉に使われています。"
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "平らな"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "何かを明確にする説明",
+      "translationLong": "何かを明確にしたり、わかりやすくするための説明や陳述",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "先生は数学の概念について明確な説明をした。"
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "外へ/～から",
+          "homeLangDetails": "外へ、外から、または離れてという意味です。exhale（息を吐く）、export（輸出する）、eject（放出する）、ex-president（前大統領）などの言葉に使われています。"
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "計る"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "詳しい検査",
+      "translationLong": "詳しく調べること、または試験。医学的な検査や学問的なテストを指します",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "その検査は病気の兆候がないことを明らかにした。"
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "中へ/～の中",
+          "homeLangDetails": "このprefixは二面的で、「～ではない」（inactive、impossible、illegal）と「～の中へ」（insert、import）の両方の意味があります。後ろに続く音に合わせて綴りが変わるんですよ。ちょうど日本語の接頭辞が音に合わせて形を変えるのと似ています。"
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "画像"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "心の中に映像を作り出す力",
+      "translationLong": "存在しないものの心の映像や考えを作り出す能力や行為",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "子どもの想像力は無限です。"
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "人々"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "地域の全人口",
+      "translationLong": "ある場所のすべての住民。または、同じ種の生物の集団",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "その都市の人口は大幅に増加している。"
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "一緒に、共にという意味です。ラテン語のprefixの中でも特に頻繁に使われるものです。connect（つなぐ）、combine（組み合わせる）、cooperate（協力する）、collect（集める）のような言葉に見られます。後ろに続く音に合わせて綴りが変わることもありますよ。"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "回る"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "気軽な意見交換",
+      "translationLong": "人々の間での気軽な意見交換や雑談",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "私たちは旅行について興味深い会話をした。"
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "一緒に、共にという意味です。ラテン語のprefixの中でも特に頻繁に使われるものです。connect（つなぐ）、combine（組み合わせる）、cooperate（協力する）、collect（集める）のような言葉に見られます。後ろに続く音に合わせて綴りが変わることもありますよ。"
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "集める"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "集められた物の集団",
+      "translationLong": "一緒に集められた物や人の集まり。または、集める行為そのもの",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "彼女は素晴らしいアンティーク本のコレクションを持っている。"
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "後ろへ/戻る",
+          "homeLangDetails": "反射という文脈では、re-は「後ろへ」「戻す」という意味です。ラテン語の reflectere は「光を曲げて戻す」という意味なんです。光が跳ね返る様子、そして思考が自分に向かい返る様子、どちらも同じ「曲げて戻す」というイメージなんですよ。"
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "曲げる"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "光の反射",
+      "translationLong": "光や熱が跳ね返ること。または、真摯な思考や熟考",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "私は鏡に映った自分の姿を見た。"
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "一緒に、共にという意味です。ラテン語のprefixの中でも特に頻繁に使われるものです。connect（つなぐ）、combine（組み合わせる）、cooperate（協力する）、collect（集める）のような言葉に見られます。後ろに続く音に合わせて綴りが変わることもありますよ。"
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "結ぶ"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "関係または結びつき",
+      "translationLong": "物や事柄の間の関係や結びつき。または、つながる行為そのもの",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "運動と健康の間には強い関係がある。"
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "前へ/前方",
+          "homeLangDetails": "前へ、前方、または賛成という意味です。progress（進む）、produce（作る）、pronoun（代名詞）など、このprefixが付いた言葉をイメージするとわかりやすいですよ。"
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "覆う"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名詞化"
+        }
+      ],
+      "translationShort": "危害から守ること",
+      "translationLong": "誰かまたは何かを危害や損傷から守る行為",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "サイバー攻撃からのより良い防護が必要です。"
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "中に",
+          "homeLangDetails": "二つの意味を持つカメレオンのような接頭辞です。「〜ではない」という否定の意味（inactive、impossibleなど）と「〜の中へ」という方向を表す意味（insertなど）の両方があります。後ろの音に合わせて綴りが変わるのも面白いところです。"
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "呼ぶ"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "招待",
+      "translationLong": "人を招くこと。何かに参加するよう求める招待状や呼びかけ",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "結婚式の招待状をもらいました。"
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "前に",
+          "homeLangDetails": "時間的または位置的に前という意味です。predict（予測する）、prepare（準備する）、prehistoric（先史時代の）などで使われます。"
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "準備する"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "準備",
+      "translationLong": "何かを用意すること。事前計画や準備のプロセス",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "成功には万全な準備が欠かせません。"
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "体・道具"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-イズ",
+          "homeLangDetails": "何かに特定の性質を持たせたり、あるプロセスを引き起こしたりする動作を表します。modernize（近代化する）、organize（組織化する）、realize（実現する）などの例があります。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "組織",
+      "translationLong": "共通の目的を持つ人々のグループ。または体系的に整理する行為",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "その組織は困っている人々を支援するために活動しています。"
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "シンプルな"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ファイ",
+          "homeLangDetails": "～にする、～になる、という意味です。simplify（単純にする）、clarify（明確にする）、intensify（強める）など、変化や変形を表します。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "単純化",
+      "translationLong": "何かをより簡単またはより複雑でなくする行為",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "ルールを単純化したおかげで、ゲームがやりやすくなりました。"
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "十分な"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "する・作る"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "満足",
+      "translationLong": "満足した状態または喜んだ状態。充足感や心の満ち足りた状態",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "顧客満足は私たちの最優先事項です。"
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "質・適性"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ファイ",
+          "homeLangDetails": "～にする、～になる、という意味です。simplify（単純にする）、clarify（明確にする）、intensify（強める）など、変化や変形を表します。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "資格",
+      "translationLong": "誰かが何かに適しているようにする技術、能力、または認定資格。また資格を得る行為",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "彼女はその職に必要な資格を持っています。"
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "同じ"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ファイ",
+          "homeLangDetails": "～にする、～になる、という意味です。simplify（単純にする）、clarify（明確にする）、intensify（強める）など、変化や変形を表します。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "身分証明",
+      "translationLong": "何かまたは誰かが何であるかを認識または証明する行為。また身分を証明する書類",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "入場するには写真付きの身分証明書が必要です。"
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "外へ",
+          "homeLangDetails": "外側へ、かつての、または遠くへという意味です。exhale（息を吐く）、export（輸出する）、eject（放出する）、ex-president（前大統領）などで使われます。"
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "強さ・価値"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-ション"
+        }
+      ],
+      "translationShort": "評価",
+      "translationLong": "何かの価値または質を評価またはきめるプロセス",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "先生は学生の進度に関する評価を行います。"
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "下に",
+          "homeLangDetails": "over-（上に）の反対です。下という位置的な意味（underground：地下）と、足りないという意味（underestimate：過小評価する、underperform：期待以下の成績）の両方があります。"
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "立つ"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-アブル",
+          "homeLangDetails": "～できる、～可能な、という意味です。readable（読める）、comfortable（快適な）、possible（可能な）などの例があります。"
+        }
+      ],
+      "translationShort": "理解できる",
+      "translationLong": "理解できる状態。わかりやすい",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "その説明は明確でわかりやすいです。"
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "買える"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-アブル",
+          "homeLangDetails": "～できる、～可能な、という意味です。readable（読める）、comfortable（快適な）、possible（可能な）などの例があります。"
+        }
+      ],
+      "translationShort": "手頃な価格の",
+      "translationLong": "買える価格である。妥当な価格の",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "街の中で手頃な価格のアパートを見つけました。"
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "頼る"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "信頼できる",
+      "translationLong": "信頼できる、頼りになる",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "彼は常に助けてくれる信頼できる友人です。"
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "信じる"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "信じられない",
+      "translationLong": "驚くべき、信じられない、非常に素晴らしい",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "それは信じられないほど素晴らしいパフォーマンスでした。"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "見える"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "見えない",
+      "translationLong": "見ることができない、視界から隠れている",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "その染みは肉眼では見えませんでした。"
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "可能"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "不可能",
+      "translationLong": "できない、起こりえない、可能ではない",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "そのパズルを解くのは不可能に思えました。"
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "応答する"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "無責任",
+      "translationLong": "責任感がない、信頼できない、説明責任がない",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "仕事を早く切り上げるのは無責任です。"
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "戻す"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "元に戻せない",
+      "translationLong": "元に戻すことができない、やり直せない",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "気候変動は環境に取り返しのつかない損害をもたらす可能性があります。"
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "変わり者の接頭辞で二つの意味があります。「ない」という意味（inactive、impossible、illegal）と「中へ」という意味（insert、import）です。次の音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "破壊する"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-できる",
+          "homeLangDetails": "何かができる、または何かに適している、という意味を付け加えます。日本語の「-できる」と同じような役割です。読める、快適、可能など。"
+        }
+      ],
+      "translationShort": "壊せない",
+      "translationLong": "破壊することができない、壊れない",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "その記念碑は壊せないように建設されました。"
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "間に",
+          "homeLangDetails": "二つ以上のもの間に、あるいは相互の関係を表します。日本語の「相互」や「国際」の「際」と似た概念です。international、interrupt、interact。"
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "国"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-的",
+          "homeLangDetails": "～に関する、～の性質を持つ、という意味を付け加えます。日本語の「-的」と同じ使い方です。音楽的、自然的、産業的など。"
+        }
+      ],
+      "translationShort": "国際的",
+      "translationLong": "二つ以上の国に関係する、国と国を結ぶ",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "彼女は国際的な団体で働いています。"
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "超える",
+          "homeLangDetails": "上を越えて、あるいは普通の範囲を超えた、という意味です。Superman（スーパーマン）は人間を超えた人、superior（より上位の）など。"
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "自然"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-的",
+          "homeLangDetails": "～に関する、～の性質を持つ、という意味を付け加えます。日本語の「-的」と同じ使い方です。音楽的、自然的、産業的など。"
+        }
+      ],
+      "translationShort": "超自然的",
+      "translationLong": "自然界の法則を超えた、科学では説明できない",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "その映画は超自然的な生物と幽霊が登場します。"
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "前の",
+          "homeLangDetails": "時間的または位置的に前に来る、という意味です。predict（予測する）、prepare（準備する）、prehistoric（先史時代の）など。"
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "歴史的"
+        }
+      ],
+      "translationShort": "先史時代の",
+      "translationLong": "文字による歴史記録が存在する前の時代に関する",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "恐竜は先史時代に地球上を歩き回っていました。"
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "～に対して",
+          "homeLangDetails": "～に対して、～に逆らって、という意味です。antiwar（反戦）、antibiotic（抗生物質）、anticipate（予期する）のように使われます。"
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "生命",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "～的な"
+        }
+      ],
+      "translationShort": "細菌に対抗する",
+      "translationLong": "細菌を殺したり、その増殖を抑えたりする薬",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "医者が感染症のために抗生物質を処方した。"
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "下の",
+          "homeLangDetails": "下の、～の下、あるいは二次的な、という意味です。subway（地下鉄）、submarine（潜水艦）、substitute（代替品）のように使われます。"
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "海"
+        }
+      ],
+      "translationShort": "水中艦船",
+      "translationLong": "水中で活動する船、特に軍用の戦闘艦",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "潜水艦は海の深い所へ潜った。"
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "自動で",
+          "homeLangDetails": "自分自身で、という意味です。autobiography（自伝）、automatic（自動的な）、automobile（自動車）のように使われます。"
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "動く"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "～に"
+        }
+      ],
+      "translationShort": "自動で、人手を加えずに",
+      "translationLong": "人間が介入することなく、それ自体で起こったり機能したりするやり方で",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "あなたが近づくと、ドアが自動的に開く。"
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "遠く",
+          "homeLangDetails": "距離がある状態、遠くの、という意味です。telephone（電話）、television（テレビ）、telescope（望遠鏡）のように使われます。"
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "視界"
+        }
+      ],
+      "translationShort": "遠く映す",
+      "translationLong": "距離を隔てて動画と音声を送受信するシステム",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "彼女は毎晩テレビを見ている。"
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "人民"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "支配"
+        }
+      ],
+      "translationShort": "人民による支配",
+      "translationLong": "権力が人民に帰属する政治体制",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "民主主義はすべての国民の積極的な参加を必要とする。"
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "地球",
+          "homeLangDetails": "地球や大地、という意味です。geography（地理学）、geology（地質学）、geometry（幾何学）のように使われます。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "記述",
+          "homeLangDetails": "書く、記録する、という意味です。photography（写真）、biography（伝記）、autograph（サイン）のように使われます。"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "地球の説明",
+      "translationLong": "場所、人々、地球の物理的な特徴を学ぶ学問",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "地理の授業ではいろいろな地域と文化について学ぶ。"
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "答える"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "～性"
+        }
+      ],
+      "translationShort": "義務や責任",
+      "translationLong": "自分の行動や決定に対して説明責任がある状態",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "大きな力には大きな責任が伴う。"
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "人間"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "～性"
+        }
+      ],
+      "translationShort": "個性",
+      "translationLong": "個人が持つ独特な特徴と性質",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "彼女の社交的な性格は皆に好かれている。"
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "人気のある"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "～性",
+          "homeLangDetails": "英語の-nessに相当するラテン語の接尾辞です。形容詞から抽象名詞を作ります。equality（平等）、electricity（電気）、reality（現実）のように使われます。"
+        }
+      ],
+      "translationShort": "好かれている状態",
+      "translationLong": "多くの人に好かれたり、称賛されたり、楽しまれたりしている質や状態",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "そのバンドの人気は世界中で高まっている。"
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "電気的な"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "～性",
+          "homeLangDetails": "英語の-nessに相当するラテン語の接尾辞です。形容詞から抽象名詞を作ります。equality（平等）、electricity（電気）、reality（現実）のように使われます。"
+        }
+      ],
+      "translationShort": "電気エネルギー",
+      "translationLong": "導体を通して電子が移動することから生じるエネルギー",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "ほとんどの現代の家庭は電力に頼っている。"
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "作る"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "形容詞を抽象名詞に変える接尾辞で、日本語の「性」「さ」に相当します。equality（平等性）、electricity（電気的性質）、reality（現実性）のように使われます。"
+        }
+      ],
+      "translationShort": "創造的である性質",
+      "translationLong": "創造的である状態や性質。新しいものを作り出したり想像したりする能力",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "問題解決における彼女の創造性は誰もが感心しました。"
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "製品"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "形容詞を抽象名詞に変える接尾辞で、日本語の「性」「さ」に相当します。equality（平等性）、electricity（電気的性質）、reality（現実性）のように使われます。"
+        }
+      ],
+      "translationShort": "生産的である性質",
+      "translationLong": "生産的である状態や性質。努力の有効性を産出の速度で測った能力",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "新しいソフトウェアがインストールされた後、チームの生産性が向上しました。"
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "曲げる"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-able",
+          "homeLangDetails": "「できる」という意味の接尾辞です。readable（読める）、comfortable（快適な）、possible（可能な）のように、その動作が可能であることを表します。"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "形容詞を抽象名詞に変える接尾辞で、日本語の「性」「さ」に相当します。equality（平等性）、electricity（電気的性質）、reality（現実性）のように使われます。"
+        }
+      ],
+      "translationShort": "柔軟である性質",
+      "translationLong": "柔軟である状態や性質。適応できたり壊れずに曲げられたりする能力",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "この材料の柔軟性が製造に最適です。"
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "国"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "「〜に関する」「〜の性質を持つ」という意味の接尾辞です。musical（音楽的な）、natural（自然な）、industrial（産業の）のように使われます。"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "形容詞を抽象名詞に変える接尾辞で、日本語の「性」「さ」に相当します。equality（平等性）、electricity（電気的性質）、reality（現実性）のように使われます。"
+        }
+      ],
+      "translationShort": "特定の国に属する地位",
+      "translationLong": "特定の国の市民である地位。国籍または国家的出身や認同",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "彼女は二重国籍を有しており、一つの国で生まれもう一つの国で帰化しています。"
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "結果"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞から副詞を作る接尾辞で、「〜な方法で」という意味です。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）のように使われます。形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）など。"
+        }
+      ],
+      "translationShort": "効果的な方法で",
+      "translationLong": "望んだ結果や意図した結果を生み出す方法で。成功して",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "新しい戦略がコスト削減に効果的に機能しました。"
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "作る"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞から副詞を作る接尾辞で、「〜な方法で」という意味です。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）のように使われます。形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）など。"
+        }
+      ],
+      "translationShort": "創造的な方法で",
+      "translationLong": "想像力を使ったり創造したりする方法で。独創性と創意工夫をもって",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "彼女はプロジェクトに創造的に取り組み、革新的な解決策を見つけました。"
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "製品"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞から副詞を作る接尾辞で、「〜な方法で」という意味です。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）のように使われます。形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）など。"
+        }
+      ],
+      "translationShort": "生産的な方法で",
+      "translationLong": "結果を生み出したり効果的である方法で。良い成果や達成をもって",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "午後を生産的に過ごし、すべてのタスクを完了しました。"
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "引き付ける"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "形容詞から副詞を作る接尾辞で、「〜な方法で」という意味です。quickly（素早く）、happily（幸せそうに）、surprisingly（驚くことに）のように使われます。形容詞を作ることもあります。friendly（友好的な）、lovely（素敵な）など。"
+        }
+      ],
+      "translationShort": "魅力的な方法で",
+      "translationLong": "心地よい、魅力的な、または見た目が美しい方法で。引き込むような方法で",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "ショーウィンドウは季節の飾りで魅力的に装飾されていました。"
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再-",
+          "homeLangDetails": "繰り返しや以前の状態への戻りを表します。ラテン語の re- に由来し、英語には何千もの言葉に現れます。return（戻る）、rebuild（再建する）、reconsider（再考する）などです。「もう一度する」「戻る」という意味と互換性があることが多いです。"
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "調べる"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "その動作を行う人や物を表す名詞を作ります。teacher（先生）、actor（俳優）、driver（運転手）、computer（コンピュータ）のように使われます。"
+        }
+      ],
+      "translationShort": "研究する人",
+      "translationLong": "研究を行う人。ある主題を調査する科学者または学者",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "その研究者は査読付きジャーナルに彼女の知見を発表しました。"
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "発展させる"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "その動作を行う人や物を表す名詞を作ります。teacher（先生）、actor（俳優）、driver（運転手）、computer（コンピュータ）のように使われます。"
+        }
+      ],
+      "translationShort": "開発する人",
+      "translationLong": "何かを開発する人。特にソフトウェア開発者を指すことが多いです",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "その開発者はアプリケーション用の新しい機能を作成しました。"
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "雇用する"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "行為を実行する人や物を表す接尾辞です。teacher(教師)、actor(俳優)、driver(運転手)、computer(コンピュータ)のように使われます。日本語の「〜者」や「〜手」に相当するイメージですね。"
+        }
+      ],
+      "translationShort": "雇用する人",
+      "translationLong": "従業員を雇う人や団体。事業主やマネージャーのこと",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "その雇用主は優秀な人材を惹きつけるため競争力のある福利厚生を提供した。"
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "雇用する"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "フランス語の-éに由来する接尾辞で、行為を受ける側、つまりその行為の対象となる人を表します。employer(雇用する人)に対して employee(雇用される人)という対比が生まれます。interviewee(被面接者)、trainee(研修生)、payee(受取人)など、同じ接尾辞が使われている単語がいくつもあります。"
+        }
+      ],
+      "translationShort": "雇用される人",
+      "translationLong": "給与や報酬と引き換えに、雇用主のために働く人",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "その会社の各従業員は健康保険を受け取っている。"
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "写真",
+          "homeLangDetails": "ギリシャ語のphōtos(光)に由来する結合形です。光や画像に関連する多くの単語に現れます。photograph(写真)、photosynthesis(光合成)、photogenic(写真映りの良い)など。photo-(光) + graph(記録する)を組み合わせると「光で記録する」という意味になるんですよ。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graph-",
+          "homeLangDetails": "記録する、描く、という意味です。photography(写真術)、biography(伝記)、autograph(サイン)などに使われます。"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "行為を実行する人や物を表す接尾辞です。teacher(教師)、actor(俳優)、driver(運転手)、computer(コンピュータ)のように使われます。"
+        }
+      ],
+      "translationShort": "写真を撮る人",
+      "translationLong": "職業として、または趣味として写真を撮る人",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "その写真家は結婚式で素晴らしい画像を捉えた。"
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "調査する"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "-erの異なるバージョンで、より格式的なラテン語系の文脈で使われます。-erと-orはどちらも「〜する人」という意味ですが、-orはラテン語の語根を持つ単語、たとえばinvestigator(調査官)、senator(上院議員)、actor(俳優)、instructor(講師)などで一般的です。"
+        }
+      ],
+      "translationShort": "調査する人",
+      "translationLong": "調査を行う人。特に証拠や事実を集める専門家のこと",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "その調査官は手がかりを求めて犯罪現場を調べた。"
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "コミュニケーションする"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "行為を実行する人や物を表す接尾辞です。teacher(教師)、actor(俳優)、driver(運転手)、computer(コンピュータ)のように使われます。"
+        }
+      ],
+      "translationShort": "コミュニケーションする人",
+      "translationLong": "効果的にまたは職業的にコミュニケーションを取る人。情報を伝えるのに長けた人",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "熟練したコミュニケーターである彼女は公開演説が得意だ。"
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/一緒に",
+          "homeLangDetails": "一緒にまたは共に、という意味です。最も生産性の高いラテン語の接頭辞の一つ。connect(接続する)、combine(組み合わせる)、cooperate(協力する)、collect(集める)など多くの単語に現れます。後に続く音に合わせて綴りが変わることがあります。"
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "共通の"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "ラテン語の-atusに由来する動詞化接尾辞です。名詞や形容詞の「communic-」を動詞に変えて、その行為や状態を実行するという意味を付与します。"
+        }
+      ],
+      "translationShort": "情報を共有する",
+      "translationLong": "情報を共有する、意味を伝える、考えを交わす",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "チームに私たちの考えを明確に伝える必要があります。"
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/〜ではない、または〜の中へ",
+          "homeLangDetails": "二つの異なる意味を持つ変幻自在な接頭辞です。「〜ではない」という意味(inactive(活発ではない)、impossible(不可能)、illegal(違法))と「〜の中へ」という意味(insert(挿入する)、import(輸入する))があります。後に続く音に合わせて綴りが変わります。"
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "痕跡",
+          "homeLangDetails": "ラテン語のvestigium(足跡、痕跡)に由来します。同じ語根はvestige(残存する痕跡)やinvestigator(痕跡を追う人)にも現れますね。"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "動詞化接尾辞で、痕跡や手がかりを追ったり調べたりする行為を表します。"
+        }
+      ],
+      "translationShort": "注意深く調べる",
+      "translationLong": "注意深く調べる、追及する、調査を行う",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "警察は明日犯罪現場を調査するだろう。"
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "col-/一緒に",
+          "homeLangDetails": "一緒にまたは共に、という意味です。最も生産性の高いラテン語の接頭辞の一つ。connect(接続する)、combine(組み合わせる)、cooperate(協力する)、collect(集める)など多くの単語に現れます。後に続く音に合わせて綴りが変わることがあります。"
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "働き"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "動詞化接尾辞で、「labor」を行為に変えて、一緒に働くという意味を生み出します。"
+        }
+      ],
+      "translationShort": "一緒に働く",
+      "translationLong": "一緒に働く、協力する",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "このプロジェクトで他の部門の同僚たちと協力します。"
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "part/部分",
+          "homeLangDetails": "ラテン語のpars(部分)に由来します。次の形態素-icip-と組み合わさって、「参加する」または「一部を占める」という意味になるんですよ。"
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "取る",
+          "homeLangDetails": "ラテン語のcapere(取る)に由来します。「partaker(参加者)」を意味するラテン語の participium は「part(部分)」と「take(取る)」を組み合わせて、何かに加わる、という意味を作り出しています。"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "動詞化接尾辞です。"
+        }
+      ],
+      "translationShort": "参加する",
+      "translationLong": "参加する、加わる、関与する",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "すべての学生がクラスディスカッションに参加しなければならない。"
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/一緒に",
+          "homeLangDetails": "一緒にまたは共に、という意味です。最も生産性の高いラテン語の接頭辞の一つ。connect(接続する)、combine(組み合わせる)、cooperate(協力する)、collect(集める)など多くの単語に現れます。後に続く音に合わせて綴りが変わることがあります。"
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "優雅さ",
+          "homeLangDetails": "ラテン語のgratus(喜ばしい、感謝の)に由来します。この語根はgrace(優雅さ)、grateful(感謝する)、gratitude(感謝の気持ち)にも現れます。どれも心地よさと善意に関連しています。"
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "ラテン語の-ulatusに由来する縮小形・反復的な動詞化接尾辞です。行為を柔らかくするか反復させ、ここでは誰かに向けて喜びや善意を温かく、繰り返し表現する意味を生み出します。"
+        }
+      ],
+      "translationShort": "功績をたたえる",
+      "translationLong": "功績をたたえる、喜びや善意を表現する",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "あなたの素晴らしい成績をお祝い申し上げます。"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "誤って/間違って",
+          "homeLangDetails": "何かが間違った方法で、または悪い方法で行われたことを示します。misunderstand（誤解する）、mistake（間違い）、misrepresent（曲解する）などが例です。日本語の「誤り」や「間違い」を接頭辞のように付けるのと同じ感覚ですね。"
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "～の間に/相互に",
+          "homeLangDetails": "～の間、または相互の意味です。international（国際的な）、interrupt（さえぎる）、interact（相互作用する）などで使われます。日本語の「相」や「間」に近い感覚です。"
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "説明する",
+          "homeLangDetails": "ラテン語の praetere や prae（前）+ ire（進む）に由来します。inter-（間）と pret-（説明）を組み合わせると「間にあるものを説明する」つまり「意味を明確にする」という意味になります。そして mis-（誤って）がこれを逆転させるので「間違って説明する」となるわけです。"
+        }
+      ],
+      "translationShort": "誤解する",
+      "translationLong": "誤解する、間違って説明する、または誤って解釈する",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "私の言葉を誤解しないでください。親切な気持ちで言ったのです。"
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "下へ/解く",
+          "homeLangDetails": "下方へ、遠ざかる、または行為を逆転させることを表します。decrease（減少する）、depart（出発する）、deconstruct（解体する）などが例です。基本となる言葉の意味をしばしば直接逆転させます。日本語の「脱」に近い使い方ですね。"
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "一緒に/共に",
+          "homeLangDetails": "～と共に、または一緒にという意味です。ラテン語由来の接頭辞の中でも特に生産性が高いものの一つです。connect（つなぐ）、combine（組み合わせる）、cooperate（協力する）、collect（集める）などで使われます。後ろに続く音に合わせて綴りが変わることもあります。"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "組み立てる"
+        }
+      ],
+      "translationShort": "分析的に解体する",
+      "translationLong": "解体する、組み立てを逆にする、要素に分けて分析する",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "このセミナーでは、テキストの主な議論を解体して分析します。"
+    }
+  ]
+}

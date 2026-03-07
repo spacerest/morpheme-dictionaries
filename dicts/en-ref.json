@@ -1,0 +1,4832 @@
+{
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/not or into"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "throw"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "injection",
+      "translationLong": "the act of injecting; a liquid forced into the body",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "The nurse gave me an injection to help with the pain."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "forward/for",
+          "homeLangDetails": "Forward, in favor of, or in place of. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "throw"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "projection",
+      "translationLong": "something that extends outward; a forecast or estimate",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "The sales projection shows strong growth next quarter."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "against",
+          "homeLangDetails": "From the Latin prefix ob-, which typically means 'against' or 'toward.' In this word, it conveys the sense of throwing something against or in opposition to something else."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "throw"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "objection",
+      "translationLong": "an expression of disagreement or disapproval",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "He raised an objection to the proposal during the meeting."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "say"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "prediction",
+      "translationLong": "a statement about what will happen in the future",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "The weather prediction for tomorrow is rain."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "against",
+          "homeLangDetails": "From Latin contra, meaning 'against.' Here it combines with the root 'dict' (say) to form the sense of 'saying against' or 'speaking against.'"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "say"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "contradiction",
+      "translationLong": "a statement or situation that is opposed to or contradicts another",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "There is a clear contradiction in his two statements."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "law"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "say"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "jurisdiction",
+      "translationLong": "the official power to make legal decisions and enforce laws",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "This case falls under the jurisdiction of the federal court."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "across",
+          "homeLangDetails": "Across, through, or changing from one state to another. Transport, transform, translate."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "transportation",
+      "translationLong": "the movement of people or goods from one place to another",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Public transportation is cheaper than driving a car."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "deportation",
+      "translationLong": "the forced removal of a person from a country",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "The deportation proceedings lasted several months."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/not or into"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "importation",
+      "translationLong": "the act of bringing goods into a country from abroad",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "The importation of foreign goods has increased this year."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "build"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "construction",
+      "translationLong": "the process of building something; a structure that is being built",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "The construction of the new bridge will take two years."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "build"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "destruction",
+      "translationLong": "the act of destroying something; severe damage or ruin",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "The hurricane caused widespread destruction."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "build"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "reconstruction",
+      "translationLong": "the process of rebuilding something that was damaged or destroyed",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "The reconstruction of the city after the fire took many years."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/not or into"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "look"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "inspection",
+      "translationLong": "a careful examination or review of something",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "The building passed the safety inspection."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "through",
+          "homeLangDetails": "Through, thoroughly, or completely. Perform, permit, persist."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "look"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Tending to or having the nature of. Active, creative, descriptive."
+        }
+      ],
+      "translationShort": "perspective",
+      "translationLong": "a particular way of viewing or understanding something; outlook",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "From my perspective, the plan is too risky."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "backward",
+          "homeLangDetails": "From Latin retro, meaning 'backward' or 'back.' It combines with 'spect' (look) to mean 'looking back' at the past."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "look"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Tending to or having the nature of. Active, creative, descriptive."
+        }
+      ],
+      "translationShort": "retrospective",
+      "translationLong": "a review or examination of past events; relating to or dealing with past events",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "The museum held a retrospective exhibition of the artist's work."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a written medical order",
+      "translationLong": "a written medical order for medication; a set of instructions",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "The doctor gave me a prescription for antibiotics."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "an account of something",
+      "translationLong": "a spoken or written account of something; a depiction",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Her description of the event was very detailed."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, below, or secondary. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a regular payment for a service",
+      "translationLong": "a regular payment for a service or publication; a signature",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "I have a subscription to three magazines."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "out of"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "press"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the conveying of feeling or meaning",
+      "translationLong": "the conveying of feeling or meaning; a phrase or word",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Her expression showed she was upset."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "press"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a mental health condition; a sunken area",
+      "translationLong": "a mental health condition marked by sadness; a sunken or hollow area",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "She sought treatment for her depression."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/not or into"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "press"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a feeling or notion; a mark made by pressing",
+      "translationLong": "a feeling or notion about something; a mark or indentation made by pressing",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "I got the impression that he wasn't happy."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "to/toward"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "pull"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a feeling of interest or appeal",
+      "translationLong": "a feeling of interest or appeal; something that draws people in",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "The theme park is the main attraction for tourists."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "out of"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "pull"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the act of removing or taking out",
+      "translationLong": "the act of removing or taking out; removal of a tooth",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "The dentist recommended tooth extraction."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "not/apart",
+          "homeLangDetails": "Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "pull"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "something that diverts attention",
+      "translationLong": "something that diverts attention away from a task; the state of being distracted",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "The noise was a major distraction during the test."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "through",
+          "homeLangDetails": "Through, thoroughly, or completely. Perform, permit, persist."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "official consent or approval",
+      "translationLong": "official consent or approval to do something",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "You need permission from the manager to leave early."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "across",
+          "homeLangDetails": "Across, through, or changing from one state to another. Transport, transform, translate."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the sending of something; a vehicle mechanism",
+      "translationLong": "the sending of something from one place to another; a mechanism in a vehicle",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "The transmission of data occurred without errors."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "a pledge or promise; dedication",
+      "translationLong": "a pledge or promise to do something; dedication to a cause or person",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Her commitment to the project was unwavering."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "back",
+          "homeLangDetails": "In this word, re- carries its older Latin sense of 'back' rather than 'again' — receive is to take back (or in), recede is to go back, and refer is to carry back to a source."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "take"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the act of receiving; a formal gathering",
+      "translationLong": "the act of receiving; a formal gathering or event; the quality of signal reception",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "The wedding reception was held at a local hotel."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "through",
+          "homeLangDetails": "Through, thoroughly, or completely. Perform, permit, persist."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "take"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the ability to understand or become aware of",
+      "translationLong": "the ability to understand or become aware of something through the senses; an awareness",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "His perception of time changed after the accident."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "take"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the act of deceiving or misleading",
+      "translationLong": "the act of deceiving or misleading someone; a trick or lie",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "The deception was eventually uncovered."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "back",
+          "homeLangDetails": "In this word, re- carries its older Latin sense of 'back' rather than 'again' — receive is to take back (or in), recede is to go back, and refer is to carry back to a source."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "reference",
+      "translationLong": "a source consulted for information; an allusion or mention",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "I used that book as a reference for my essay."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "conference",
+      "translationLong": "a formal meeting or discussion",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "The annual conference brings together scientists from around the world."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "carry"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "interference",
+      "translationLong": "the act of interfering; unwanted signals disrupting a transmission",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radio interference disrupted the broadcast."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "turn"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "conversion",
+      "translationLong": "the process of changing from one form, state, or belief to another",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "The conversion of the warehouse into apartments took several months."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "inward"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "turn"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "introversion",
+      "translationLong": "a tendency to focus inward on one's own thoughts and feelings",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Her introversion made her prefer quiet evenings at home."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, below, or secondary. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "turn"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "subversion",
+      "translationLong": "the act of undermining or overthrowing something established",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "The government cracked down on any subversion of authority."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "down/from",
+          "homeLangDetails": "In this word, de- carries its directional sense of 'down from' — Latin dependere means 'to hang down from.' It doesn't reverse the base word here; it describes a relationship of being suspended from or relying on something."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hang"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "dependence",
+      "translationLong": "the state of relying on something or someone else",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "His dependence on caffeine was affecting his sleep."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "down/from",
+          "homeLangDetails": "In this word, de- carries its directional sense of 'down from' — Latin dependere means 'to hang down from.' It doesn't reverse the base word here; it describes a relationship of being suspended from or relying on something."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hang"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "independence",
+      "translationLong": "the state of being self-reliant and free from dependence",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "She finally achieved financial independence."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "down/from",
+          "homeLangDetails": "In this word, de- carries its directional sense of 'down from' — Latin dependere means 'to hang down from.' It doesn't reverse the base word here; it describes a relationship of being suspended from or relying on something."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hang"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "interdependence",
+      "translationLong": "mutual dependence among different parties or groups",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Global economies show increasing interdependence."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "toward"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "run"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "occurrence",
+      "translationLong": "an instance or event of something happening",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "The occurrence of earthquakes in that region is common."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "run"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "recurrence",
+      "translationLong": "the fact of happening or appearing again",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "The recurrence of migraines was becoming a serious problem."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "together"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "run"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        }
+      ],
+      "translationShort": "concurrent",
+      "translationLong": "happening or existing at the same time",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "The two events were concurrent, happening at the same time."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "back",
+          "homeLangDetails": "In this word, re- carries its older Latin sense of 'back' rather than 'again' — receive is to take back (or in), recede is to go back, and refer is to carry back to a source."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "go"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "recession",
+      "translationLong": "an economic decline; a period of temporary reduction in activity",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "The country experienced a severe recession in the early 2000s."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "under"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "go"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "succession",
+      "translationLong": "a series of things following in order; the process of following in sequence",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "The succession of kings lasted for three centuries."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "go"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(past)"
+        }
+      ],
+      "translationShort": "unprecedented",
+      "translationLong": "never done or known before; without precedent",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "across",
+          "homeLangDetails": "Across, through, or changing from one state to another. Transport, transform, translate."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "transformation",
+      "translationLong": "the act or process of changing form",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "The transformation from caterpillar to butterfly is remarkable."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "reformation",
+      "translationLong": "the act of forming again or reforming",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "The Reformation was a major religious movement in 16th-century Europe."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "information",
+      "translationLong": "facts or details provided or learned",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "I found useful information about the topic online."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "break"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "interruption",
+      "translationLong": "a break in continuity or a pause",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "There was a brief interruption during the meeting."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "apart",
+          "homeLangDetails": "Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "break"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "disruption",
+      "translationLong": "a disturbance or problem that interrupts",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "The storm caused a major disruption to transportation."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "con-/together"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "break"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "corruption",
+      "translationLong": "dishonest or immoral behavior; the state of being corrupted",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "The government cracked down on corruption."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "self",
+          "homeLangDetails": "Self. Autobiography, automatic, automobile."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "life",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "write/record"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "autobiography",
+      "translationLong": "a person's own written life story",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "She wrote an autobiography about her early years."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "life",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "write/record"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "biography",
+      "translationLong": "a written account of someone's life",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "I'm reading a biography of the famous scientist."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "light"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "write/record"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "photography",
+      "translationLong": "the art or practice of taking photographs",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "She has a passion for photography."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "con-/together",
+          "homeLangDetails": "A variant of the con- prefix, from Greek. It means 'together' or 'with' — in symphony, many instruments play together in harmony."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-phone"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "symphony",
+      "translationLong": "an extended orchestral composition",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethoven's Ninth Symphony is one of his greatest works."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "far",
+          "homeLangDetails": "At a distance. Telephone, television, telescope."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-phone"
+        }
+      ],
+      "translationShort": "telephone",
+      "translationLong": "a device for communicating over distance",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "I'll call you on the telephone tomorrow."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "tiny",
+          "homeLangDetails": "Very small. Microphone, microscope, microwave."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-phone"
+        }
+      ],
+      "translationShort": "microphone",
+      "translationLong": "a device that captures and amplifies small sounds",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "The singer spoke into the microphone."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "time",
+          "homeLangDetails": "Time. Chronology, synchronize, anachronism."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logy",
+          "homeLangDetails": "The study of. Biology, psychology, technology."
+        }
+      ],
+      "translationShort": "chronology",
+      "translationLong": "the arrangement of events in order of time",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "The chronology of the events is important to understand."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "con-/together",
+          "homeLangDetails": "A variant of the con- prefix, from Greek. It means 'together' — in synchronize, events or actions occur at the same time together."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "time",
+          "homeLangDetails": "Time. Chronology, synchronize, anachronism."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize"
+        }
+      ],
+      "translationShort": "synchronize",
+      "translationLong": "to make things happen at the same time",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Let's synchronize our watches before we leave."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "back",
+          "homeLangDetails": "A Greek prefix meaning 'back' or 'again' — in anachronism, something is out of its proper time, going 'back' to the wrong era."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "time",
+          "homeLangDetails": "Time. Chronology, synchronize, anachronism."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-ism",
+          "homeLangDetails": "A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm."
+        }
+      ],
+      "translationShort": "anachronism",
+      "translationLong": "something placed in the wrong time period",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Having a smartphone in a medieval film would be an anachronism."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "mind"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "A vowel connector (thematic vowel) used in Greek-derived compounds to link morphemes smoothly. It carries no independent meaning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logy",
+          "homeLangDetails": "The study of. Biology, psychology, technology."
+        }
+      ],
+      "translationShort": "study of the mind",
+      "translationLong": "the scientific study of the mind and behavior",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "She majored in psychology at university."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "human"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "A vowel connector (thematic vowel) used in Greek-derived compounds to link morphemes smoothly. It carries no independent meaning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logy",
+          "homeLangDetails": "The study of. Biology, psychology, technology."
+        }
+      ],
+      "translationShort": "study of humanity",
+      "translationLong": "the scientific study of human societies and cultures",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Anthropology helps us understand different cultures."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "skin"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "A vowel connector (thematic vowel) used in Greek-derived compounds to link morphemes smoothly. It carries no independent meaning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logy",
+          "homeLangDetails": "The study of. Biology, psychology, technology."
+        }
+      ],
+      "translationShort": "study of skin",
+      "translationLong": "the medical study of the skin and its diseases",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "I have an appointment with a dermatology specialist."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "together",
+          "homeLangDetails": "A variant of syn-, a Greek prefix meaning 'together' or 'with.' Here it combines with -pathy (feeling) to mean 'feeling together' — understanding another's emotions."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Feeling, suffering, or condition. From Greek pathos. Sympathy, empathy, antipathy, apathy."
+        }
+      ],
+      "translationShort": "compassion, understanding",
+      "translationLong": "the ability to understand and share another's feelings",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "I felt sympathy for her difficult situation."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "in-",
+          "homeLangDetails": "A variant of en-, a Greek prefix meaning 'in' or 'into.' Here it suggests entering into or absorbing another's emotional state — a deeper, more imaginative engagement than sympathy."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Feeling, suffering, or condition. From Greek pathos. Sympathy, empathy, antipathy, apathy."
+        }
+      ],
+      "translationShort": "emotional understanding",
+      "translationLong": "the ability to understand and feel another's emotions as if they were your own",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empathy is important for being a good friend."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "anti-",
+          "homeLangDetails": "Against or opposing. Antiwar, antibiotic, anticipate."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Feeling, suffering, or condition. From Greek pathos. Sympathy, empathy, antipathy, apathy."
+        }
+      ],
+      "translationShort": "dislike, opposition",
+      "translationLong": "a strong feeling of dislike or opposition",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "He had an antipathy toward modern art."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "change/beyond",
+          "homeLangDetails": "A Greek prefix meaning 'change,' 'beyond,' or 'across.' In this word, it combines with morph (form) to describe a profound change in form — the transformation of a caterpillar into a butterfly."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "form/shape",
+          "homeLangDetails": "Form or shape. Metamorphosis, amorphous, morphology."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "A vowel connector (thematic vowel) used in Greek-derived compounds to link morphemes smoothly. It carries no independent meaning."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "A Greek suffix indicating a state, process, or condition. Here it nominalized the concept of morphing (changing form) into a noun referring to the process itself."
+        }
+      ],
+      "translationShort": "transformation, change",
+      "translationLong": "a complete change in form or structure; a biological transformation",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "The tadpole's metamorphosis into a frog takes several weeks."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "un-/not",
+          "homeLangDetails": "A Greek prefix meaning 'not' or 'without.' It's the Greek equivalent of the Germanic prefix un-. Here it negates morphe (form), creating a word for something without a defined shape."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "form/shape",
+          "homeLangDetails": "Form or shape. Metamorphosis, amorphous, morphology."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "shapeless, formless",
+      "translationLong": "lacking a clear shape or form; vague or undefined",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "The amorphous blob of clay could become anything."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "comfort"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "uneasy, causing discomfort",
+      "translationLong": "causing or feeling discomfort; uneasy or awkward",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "That chair is very uncomfortable."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "believe"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "incredible, hard to believe",
+      "translationLong": "not able to be believed; incredible or amazing",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "That story sounds unbelievable!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "memorable, impossible to forget",
+      "translationLong": "not able to be forgotten; memorable and striking",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "That vacation was unforgettable."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "not able to be identified",
+      "translationLong": "not able to be recognized or identified",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "After the accident, the car was unrecognizable."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "A suffix forming a noun or gerund (verbal noun). Here it nominalized the verb 'misunderstand' into a noun referring to the act or result of misunderstanding."
+        }
+      ],
+      "translationShort": "miscommunication, confusion",
+      "translationLong": "a failure to understand something correctly; confusion or disagreement",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "There was a misunderstanding about the meeting time."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "false depiction, distortion",
+      "translationLong": "a false or misleading portrayal of something; a distortion of facts",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "The article contained a misrepresentation of the facts."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/too much",
+          "homeLangDetails": "Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for \"above\" in older compounds."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "To 'whelm' means to engulf or submerge (though the word is rarely used without the prefix 'over'). When prefixed with over-, it conveys the sense of being completely submerged or flooded — emotionally or physically."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "A suffix forming a gerund or present participle. Here it creates an adjective describing something that overwhelms."
+        }
+      ],
+      "translationShort": "overpowering, amazing",
+      "translationLong": "extremely impressive, powerful, or emotionally intense; overpowering",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "The support she received was overwhelming."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/too little",
+          "homeLangDetails": "The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "to undervalue",
+      "translationLong": "to undervalue, to assess as less important or capable than deserved",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Don't undervalue her ability to solve complex problems."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/too much",
+          "homeLangDetails": "Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for \"above\" in older compounds."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "overestimation",
+      "translationLong": "the act of assessing something as greater than it actually is",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "The overestimation of the project's budget led to financial problems."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/many",
+          "homeLangDetails": "Many or multiple. Multicultural, multimedia, multiply."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "multicultural",
+      "translationLong": "relating to or composed of many different cultures",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Our city is known for its population composed of many different cultures."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/across",
+          "homeLangDetails": "Across, through, or changing from one state to another. Transport, transform, translate."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "transcontinental",
+      "translationLong": "spanning or crossing a continent or multiple continents",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "The railroad crossing the continent connected the East and West coasts."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "interchangeable",
+      "translationLong": "able to be exchanged with each other without affecting how something works",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "These two parts can be exchanged with each other without affecting how the device works."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/not/apart",
+          "homeLangDetails": "Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organize"
+        }
+      ],
+      "translationShort": "to disorder",
+      "translationLong": "to throw into disorder, to disrupt the organization of",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "The sudden change will throw our carefully planned schedule into disorder."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "modern"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "modernization",
+      "translationLong": "the process of making something modern or up-to-date",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "The process of making the factory modern improved its efficiency."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industrial"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "industrialization",
+      "translationLong": "the process of developing industries in a region or society",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "The process of developing industries transformed the nation's economy."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "encourage"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "encouragement",
+      "translationLong": "the action of giving courage or support to someone",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Her support helped me overcome my fears."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/not/apart",
+          "homeLangDetails": "Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "agree"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "disagreement",
+      "translationLong": "lack of agreement, a difference of opinion",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Their difference of opinion about the budget lasted for weeks."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/not/apart",
+          "homeLangDetails": "Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "appoint"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "disappointment",
+      "translationLong": "the feeling of sadness when something does not meet expectations",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "The cancellation of the concert caused great sadness and unmet expectations."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "acknowledge"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "acknowledgment",
+      "translationLong": "recognition or admission of something, typically something someone has done or said",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "The recognition of his contributions was long overdue."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "courage"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "brave",
+      "translationLong": "brave, showing courage",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Her brave actions saved lives during the crisis."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "outrage",
+          "homeLangDetails": "A frozen compound from Old French outrage (excess, violence), not the productive English prefix out- plus rage. The out- here is from Latin ultra (beyond), not Germanic. So outrageous means 'beyond bounds' rather than literally 'surpassing rage.'"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "shocking",
+      "translationLong": "shockingly bad or offensive, extremely unusual or excessive",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "The shockingly high price for such a small item made me laugh."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "advantage"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "favorable",
+      "translationLong": "providing a benefit or gain, favorable",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Studying abroad can be favorable for your career."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "beyond"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "ordinary"
+        }
+      ],
+      "translationShort": "extraordinary, exceptional",
+      "translationLong": "extraordinary, exceptional, remarkable, unusual",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "She has an extraordinary talent for music."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "remark, notice"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "remarkable, noteworthy",
+      "translationLong": "remarkable, noteworthy, worthy of notice",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "The athlete made a remarkable recovery from injury."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "predict"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "predictable",
+      "translationLong": "predictable, foreseeable",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "The ending of that movie was entirely predictable."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "adjust"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "adjustable",
+      "translationLong": "adjustable, able to be adjusted",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "The chair has an adjustable height."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "expand"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "expandable",
+      "translationLong": "expandable, capable of being expanded",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "This storage box is expandable when you need more space."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "conscious"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "unconsciousness, loss of awareness",
+      "translationLong": "unconsciousness, loss of awareness, state of being unconscious",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "The blow to his head caused unconsciousness for several minutes."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-/not"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "responsible"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "irresponsibility, lack of responsibility",
+      "translationLong": "irresponsibility, lack of responsibility, carelessness",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "His irresponsibility cost the company thousands of dollars."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/not"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "comprehensible"
+        }
+      ],
+      "translationShort": "incomprehensible, unintelligible",
+      "translationLong": "incomprehensible, unintelligible, impossible to understand",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "The instructions were written in incomprehensible jargon."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "compartment"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relating to or of the nature of. Musical, natural, industrial."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize",
+          "homeLangDetails": "To make something have a quality, or to perform a process. Modernize, organize, realize."
+        }
+      ],
+      "translationShort": "compartmentalize",
+      "translationLong": "compartmentalize, to divide into separate sections or categories",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Some people compartmentalize their work and personal lives."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/not"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "compatible"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "incompatibility",
+      "translationLong": "incompatibility, state of being incompatible",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "The incompatibility between the two systems made integration difficult."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "care"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a careful manner",
+      "translationLong": "with care; in a cautious or attentive way",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "She placed the vase on the shelf with care."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "care"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a careless manner",
+      "translationLong": "without care; in a heedless or negligent way",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "He dropped the cup without care."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "care"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "lack of care",
+      "translationLong": "the state or quality of being careless; negligence",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Her lack of care resulted in a broken dish."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "help"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a helpful manner",
+      "translationLong": "in a way that provides assistance or support",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "She explained the instructions in a helpful way."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "help"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a helpless manner",
+      "translationLong": "without the ability to help oneself; powerlessly",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "He watched without the ability to help as the accident unfolded."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "help"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "state of powerlessness",
+      "translationLong": "the state or condition of being unable to help oneself",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "The powerlessness in her voice was heartbreaking."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hope"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a hopeful manner; it is hoped that",
+      "translationLong": "with hope or optimism; expressing a desire that something will happen",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "With hope, the weather will improve tomorrow."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hope"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "state of despair",
+      "translationLong": "the state or feeling of having no hope; despair",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "A feeling of despair settled over the team."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hope"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a hopeless manner",
+      "translationLong": "in a way that shows no hope; despairingly",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "The situation seemed desperately dire."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "thank"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "fortunately; in a grateful manner",
+      "translationLong": "fortunately; with gratitude or relief",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Fortunately, no one was hurt in the accident."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "thank"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "state of gratitude",
+      "translationLong": "the quality or state of being grateful",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "Her gratitude was evident in her warm embrace."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "thought"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a thoughtful manner",
+      "translationLong": "with careful consideration; in a pensive or considerate way",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "She considered the question carefully before answering."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "thought"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "lack of consideration",
+      "translationLong": "the quality or state of being inconsiderate or lacking thought",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "His lack of consideration hurt her feelings."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "fear"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a fearless manner",
+      "translationLong": "without fear; courageously or boldly",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "The soldier marched courageously into battle."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "fear"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "absence of fear",
+      "translationLong": "the quality or state of being courageous; absence of fear",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Her courage inspired everyone around her."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "peace"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a peaceful manner",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "The protesters marched peacefully through the city."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "beauty"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Here -ful attaches to the noun beauty, but beauty itself already contains the suffix -ty (from Old French beaute). In beautifully, we're working with the adjective beautiful (beauty + -ful = full of beauty), then adding -ly to make the adverb."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a beautiful manner",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "She sang beautifully at the concert."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "success"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a successful manner",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "The project was successfully completed on time."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "power"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "Full of or characterized by. Beautiful, careful, powerful."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a powerful manner",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "The speaker delivered a powerfully persuasive argument."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "power"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Without. Careless, hopeless, speechless."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "lack of power",
+      "translationLong": "the state of being without power or influence",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "He felt a deep sense of powerlessness in the face of injustice."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "state of being without work",
+      "translationLong": "the state of being without employment; joblessness",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "The unemployment rate rose significantly during the recession."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "unfold",
+          "homeLangDetails": "From Old French 'devoluper' (to unwrap, unfold). The root is related to 'velop' (as in envelope), meaning to wrap or cover. The prefix de- here means 'out of' or 'away from', so develop literally means 'to unwrap' or 'to unfold gradually'."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "the process of growing",
+      "translationLong": "the process of developing or being developed; growth or improvement",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Child development is the focus of this research program."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/into",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "turn/roll",
+          "homeLangDetails": "From Latin volvere (to turn, to roll). The same root appears in revolve, evolution, and convolution — all involving the sense of turning or rolling."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "the act of being involved",
+      "translationLong": "the fact or condition of being involved; participation",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Her involvement in community service was widely recognized."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/into",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "prove",
+          "homeLangDetails": "From Latin probare (to assent to, to approve). In improve, the prefix in- (into) + prove carries the sense of 'making better' — to bring something into a better state. The same root appears in prove and approbation."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "the act of making better",
+      "translationLong": "the act or process of improving; a change that makes something better",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "The improvement in her grades was the result of hard work."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/to",
+          "homeLangDetails": "Toward or in addition to. Adapt, admit, attract, arrive."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "turn",
+          "homeLangDetails": "From Latin vertere (to turn). In advertise, the prefix ad- (to, toward) + vert (turn) gives the sense of 'turning attention toward' — drawing notice to something. The same root appears in convert, divert, and avert."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize",
+          "homeLangDetails": "To make something have a quality, or to cause a process. Modernize, organize, realize."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "a public promotion",
+      "translationLong": "a notice or announcement intended to inform or persuade the public",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "The advertisement for the new product appeared on television."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "enter"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "hold",
+          "homeLangDetails": "From Old French tenir, Latin tenere (to hold). The root appears in retain, maintain, sustain, and contain — all involving the sense of holding or keeping. In entertain, 'enter + tain' combines the sense of inviting someone in with holding their attention."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "amusement or diversion",
+      "translationLong": "the action of providing or being provided with amusement or enjoyment",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "The concert was a wonderful evening of entertainment."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "ask/seek",
+          "homeLangDetails": "From Latin quaerere (to ask, to seek). In require, re- (again) + quir gives the sense of 'asking for' or 'calling for' something needed. The same root appears in inquiry, inquisition, and query."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "something needed",
+      "translationLong": "something needed; a condition or thing that is required",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "A high school diploma is a requirement for most college programs."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "withdraw",
+          "homeLangDetails": "From Old French tirer (to draw, to pull). In retire, re- (again, back) + tir gives the sense of 'withdrawing' or 'going back' — especially from work. The same root appears in tired (worn out from being pulled)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "the act of leaving work",
+      "translationLong": "the action or fact of leaving one's job or position permanently",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "She is planning her retirement for next year."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "part"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "a division or section",
+      "translationLong": "a subdivision or section of an organization, company, or institution",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "She works in the marketing department."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "place"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "something that takes the place of another",
+      "translationLong": "a person or thing that takes the place of something else",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "The replacement for the broken window arrived yesterday."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "fortunate"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "sadly, regrettably",
+      "translationLong": "sadly, regrettably, unluckily",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Sadly, the concert was cancelled."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "expect"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(past participle)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "surprisingly, without warning",
+      "translationLong": "surprisingly, without warning, in an unforeseen manner",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "She arrived surprisingly at the party."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "health"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(adjectival)"
+        }
+      ],
+      "translationShort": "sickly, unwholesome",
+      "translationLong": "sickly, unwholesome, detrimental to health",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "An unwholesome diet can lead to illness."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "reason"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "irrational, unfair",
+      "translationLong": "irrational, unfair, excessive",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "His demands were excessive."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "accept"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "not acceptable",
+      "translationLong": "not acceptable, unfit, intolerable",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "That behavior is completely intolerable."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "avoid"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "inevitable, inescapable",
+      "translationLong": "inevitable, inescapable, bound to happen",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "Death and taxes are inevitable."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "important"
+        }
+      ],
+      "translationShort": "insignificant, trivial",
+      "translationLong": "insignificant, trivial, of little consequence",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "That detail is trivial."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "will"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerund)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity."
+        }
+      ],
+      "translationShort": "reluctance, disinclination",
+      "translationLong": "reluctance, disinclination, lack of willingness",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "His reluctance to help was disappointing."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        }
+      ],
+      "translationShort": "to think again",
+      "translationLong": "to think again, to review, to change one's mind",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "I need to think again about my decision."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion",
+          "homeLangDetails": "The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung."
+        }
+      ],
+      "translationShort": "review, second thought",
+      "translationLong": "review, second thought, act of thinking again",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "The board requested a review of the proposal."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organize"
+        }
+      ],
+      "translationShort": "to organize again",
+      "translationLong": "to organize again, to restructure, to rearrange",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "The company decided to restructure its departments."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organ"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ation"
+        }
+      ],
+      "translationShort": "restructuring, rearrangement",
+      "translationLong": "restructuring, rearrangement, process of reorganizing",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "The restructuring took three months to complete."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "introduce"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung."
+        }
+      ],
+      "translationShort": "bringing back, reestablishment",
+      "translationLong": "bringing back, reestablishment, act of introducing again",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "Bringing back wolves helped restore the ecosystem."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "connect"
+        }
+      ],
+      "translationShort": "to connect again",
+      "translationLong": "to connect again, to reunite, to restore contact",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "After years apart, we restored contact at the reunion."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/again",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "cycle"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerund)"
+        }
+      ],
+      "translationShort": "reusing materials, circular reuse",
+      "translationLong": "reusing materials, circular reuse, the process of converting waste into new products",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Reusing materials helps reduce environmental waste."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "common"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the exchange of information",
+      "translationLong": "the imparting or exchanging of information or news",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "Good communication is essential in any relationship."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-/out of",
+          "homeLangDetails": "Out of, former, or away. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the process of teaching",
+      "translationLong": "the process of teaching or learning, especially in schools",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Education opens doors to many opportunities."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/into",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "track"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a careful examination",
+      "translationLong": "a detailed examination or inquiry into something",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "The police conducted an investigation into the theft."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "intra-/within"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung."
+        }
+      ],
+      "translationShort": "a formal presentation",
+      "translationLong": "a formal presentation of one person to another; the beginning of a book or speech",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "The introduction to the novel sets up the main conflict."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/forward",
+          "homeLangDetails": "Forward, in favor of, or in place of. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung."
+        }
+      ],
+      "translationShort": "the manufacture of goods",
+      "translationLong": "the making, manufacturing, or creation of something",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "The factory increased production to meet demand."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/forward",
+          "homeLangDetails": "Forward, in favor of, or in place of. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-phone"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the way a word is spoken",
+      "translationLong": "the way in which a word or language is pronounced or spoken",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Her pronunciation of French improved significantly."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/out of",
+          "homeLangDetails": "Out of, former, or away. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "flat"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a statement that clarifies",
+      "translationLong": "a statement or account that clarifies or makes something understandable",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "The teacher gave a clear explanation of the mathematical concept."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/out of",
+          "homeLangDetails": "Out of, former, or away. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "weigh"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a detailed inspection",
+      "translationLong": "a detailed inspection or test; a medical or academic test",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "The examination revealed no signs of the disease."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/into",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "image"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the power to create mental images",
+      "translationLong": "the faculty or action of forming mental images or concepts of what is not present",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "Children's imagination knows no bounds."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "people"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "all the people in an area",
+      "translationLong": "all the inhabitants of a place; a group of organisms of the same species",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "The population of the city has grown significantly."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "turn"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "an informal discussion",
+      "translationLong": "an informal exchange of ideas or chat between people",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "We had an interesting conversation about travel."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "gather"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a group of gathered items",
+      "translationLong": "a group of things or people gathered together; the action of collecting",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "She has an impressive collection of vintage books."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/back",
+          "homeLangDetails": "In reflection, re- means 'back' (from Latin reflectere, 'to bend back'), not 'again'. The word describes the throwing back of light or the turning of thought back on itself."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "bend"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "the throwing back of light",
+      "translationLong": "the throwing back of light or heat; serious thought or consideration",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "I saw my reflection in the mirror."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "bind"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "a relationship or link",
+      "translationLong": "a relationship or association between things; the act of connecting",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "There is a strong connection between exercise and good health."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/forward",
+          "homeLangDetails": "Forward, in favor of, or in place of. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "cover"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "safeguarding from harm",
+      "translationLong": "the action of keeping someone or something safe from harm or injury",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "We need better protection against cyber attacks."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "call"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "invitation",
+      "translationLong": "an act of inviting; a request or summons to attend",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "I received an invitation to the wedding."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "make ready"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "preparation",
+      "translationLong": "the process of making something ready; advance planning",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "Good preparation is essential for success."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "body/tool"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize",
+          "homeLangDetails": "To make something have a quality, or to cause a process. Modernize, organize, realize."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "organization",
+      "translationLong": "a group of people with a shared purpose; the act of arranging systematically",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "The organization works to help those in need."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "simple"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "To make or cause to become. Simplify, clarify, intensify."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "simplification",
+      "translationLong": "the act of making something simpler or less complicated",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "The simplification of the rules made the game easier to play."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "enough"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "do/make"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "satisfaction",
+      "translationLong": "the state of being content or pleased; fulfillment",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Customer satisfaction is our top priority."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "quality/fit"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "To make or cause to become. Simplify, clarify, intensify."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "qualification",
+      "translationLong": "a skill, ability, or credential that makes someone suited for something; the act of qualifying",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "She has the right qualifications for the job."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "same"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "To make or cause to become. Simplify, clarify, intensify."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "identification",
+      "translationLong": "the act of recognizing or proving who or what something is; a document establishing identity",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "You will need a photo identification to enter."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "Out of, former, or away. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "strength/worth"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "evaluation",
+      "translationLong": "the process of assessing or determining the value or quality of something",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "The teacher will conduct an evaluation of student progress."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-",
+          "homeLangDetails": "The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform)."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "stand"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "understandable",
+      "translationLong": "able to be understood; comprehensible",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "The instructions are clear and understandable."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "afford"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "affordable",
+      "translationLong": "able to be afforded; reasonably priced",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "We found an affordable apartment in the city."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "depend"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "dependable",
+      "translationLong": "reliable; able to be relied upon",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "He is a dependable friend who always helps."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "believe"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "incredible",
+      "translationLong": "amazing; unbelievable; extraordinary",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "That was an incredible performance!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "see"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "invisible",
+      "translationLong": "not able to be seen; hidden from sight",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "The stain was invisible to the naked eye."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "possible"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "impossible",
+      "translationLong": "not able to be done or happen; not possible",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "It seemed impossible to solve the puzzle."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "respond"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "irresponsible",
+      "translationLong": "not responsible; not trustworthy or accountable",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "It would be irresponsible to leave work early."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "not",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "turn back"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "unable to be reversed",
+      "translationLong": "unable to be reversed or undone",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "Climate change may cause irreversible damage to the environment."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "not",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "destroy"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        }
+      ],
+      "translationShort": "unable to be destroyed",
+      "translationLong": "unable to be destroyed or broken",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "The monument was built to be indestructible."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relating to or of the nature of. Musical, natural, industrial."
+        }
+      ],
+      "translationShort": "between nations",
+      "translationLong": "relating to or involving two or more nations",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "She works for an international organization."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "above",
+          "homeLangDetails": "Above, over, or exceptional. Superman, superior, supernatural."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "nature"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relating to or of the nature of. Musical, natural, industrial."
+        }
+      ],
+      "translationShort": "beyond nature",
+      "translationLong": "beyond or outside the laws of nature",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "The movie features supernatural creatures and ghosts."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "historic"
+        }
+      ],
+      "translationShort": "before written history",
+      "translationLong": "relating to the time before written historical records",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinosaurs roamed the earth during prehistoric times."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "against",
+          "homeLangDetails": "Against or opposing. Antiwar, antibiotic, anticipate."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "life",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-ic"
+        }
+      ],
+      "translationShort": "against bacteria",
+      "translationLong": "a medicine that kills bacteria or stops their growth",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "The doctor prescribed an antibiotic for the infection."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, below, or secondary. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "sea"
+        }
+      ],
+      "translationShort": "underwater vessel",
+      "translationLong": "a vessel that operates underwater, especially a military warship",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "The submarine descended to great depths beneath the ocean."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "self",
+          "homeLangDetails": "Self. Autobiography, automatic, automobile."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "moving"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-ly"
+        }
+      ],
+      "translationShort": "by itself, without manual action",
+      "translationLong": "in a way that happens or operates by itself without human intervention",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "The door opens automatically when you approach it."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "far",
+          "homeLangDetails": "At a distance. Telephone, television, telescope."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "sight"
+        }
+      ],
+      "translationShort": "viewing from afar",
+      "translationLong": "a system for transmitting and receiving moving images and sound over distance",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "She watches television every evening."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "people"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "rule"
+        }
+      ],
+      "translationShort": "rule by the people",
+      "translationLong": "a system of government in which power rests with the people",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Democracy requires active participation from all citizens."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "earth",
+          "homeLangDetails": "Earth or land. Geography, geology, geometry."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "write/record",
+          "homeLangDetails": "Writing or recording. Photography, biography, autograph."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "description of earth",
+      "translationLong": "the study of places, peoples, and the physical features of the earth",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Geography class teaches about different regions and cultures."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "answerable"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "duty or obligation",
+      "translationLong": "the state of being accountable for one's actions or decisions",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "With great power comes great responsibility."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "person"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "individual character",
+      "translationLong": "the distinctive characteristics and qualities of an individual",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Her outgoing personality makes her popular with everyone."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "well-liked"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "state of being liked",
+      "translationLong": "the quality or state of being liked, admired, or enjoyed by many people",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "The band's popularity has grown worldwide."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "electric"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "electrical energy",
+      "translationLong": "a form of energy resulting from the movement of electrons through a conductor",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "Most modern homes depend on electricity for power."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "create"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "the quality of being creative",
+      "translationLong": "the quality or state of being creative; the ability to create or imagine new things",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "Her creativity in solving problems impressed everyone."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "product"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "the quality of being productive",
+      "translationLong": "the quality or state of being productive; the effectiveness of effort measured by the rate of output",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "The team's productivity increased after the new software was installed."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "flex"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-able",
+          "homeLangDetails": "Capable of being done. Readable, comfortable, possible."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "the quality of being flexible",
+      "translationLong": "the quality or state of being flexible; the ability to adapt or bend without breaking",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "The flexibility of this material makes it ideal for manufacturing."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relating to or of the nature of. Musical, natural, industrial."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality."
+        }
+      ],
+      "translationShort": "the status of belonging to a nation",
+      "translationLong": "the status of being a citizen of a particular country; national origin or identity",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "She holds dual nationality, having been born in one country and naturalized in another."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "effect"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in an effective manner",
+      "translationLong": "in a manner that produces the desired or intended result; successfully",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "The new strategy worked effectively to reduce costs."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "create"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a creative manner",
+      "translationLong": "in a way that involves creating or using imagination; with originality and inventiveness",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "She approached the project creatively, finding innovative solutions."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "product"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in a productive manner",
+      "translationLong": "in a way that produces results or is effective; with good output or accomplishment",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "We spent the afternoon productively, completing all our tasks."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "attract"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Forms adverbs from adjectives, meaning \"in a [manner].\" Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely."
+        }
+      ],
+      "translationShort": "in an attractive manner",
+      "translationLong": "in a way that is pleasing, appealing, or visually appealing; in an engaging way",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "The store window was attractively decorated with seasonal displays."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-",
+          "homeLangDetails": "Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with \"doing again\" or \"going back.\""
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "search"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer."
+        }
+      ],
+      "translationShort": "one who researches",
+      "translationLong": "a person who conducts research; a scientist or scholar who investigates a subject",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "The researcher published her findings in a peer-reviewed journal."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "develop"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer."
+        }
+      ],
+      "translationShort": "one who develops",
+      "translationLong": "a person who develops something; commonly refers to a software developer",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "The developer created a new feature for the application."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer."
+        }
+      ],
+      "translationShort": "one who employs",
+      "translationLong": "a person or organization that hires employees; a business owner or manager",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "The employer offered competitive benefits to attract top talent."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "A suffix (from French -é) indicating the person who receives or is the object of an action. Compare employer (one who employs) versus employee (one who is employed). The same suffix appears in interviewee, trainee, and payee."
+        }
+      ],
+      "translationShort": "one who is employed",
+      "translationLong": "a person who works for an employer in exchange for payment",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Each employee at the company receives health insurance."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "photo",
+          "homeLangDetails": "A combining form from Greek phōtos (light). Appears in many words related to light and images: photograph, photosynthesis, photogenic. From photo- (light) + graph (write/record) — literally 'to write with light.'"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "write/record",
+          "homeLangDetails": "Writing or recording. Photography, biography, autograph."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer."
+        }
+      ],
+      "translationShort": "one who takes photographs",
+      "translationLong": "a person who takes photographs as a profession or hobby",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "The photographer captured stunning images at the wedding."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "track/trace"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-er"
+        }
+      ],
+      "translationShort": "one who investigates",
+      "translationLong": "a person who conducts investigations; often a professional who gathers evidence or facts",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "The investigator examined the crime scene for clues."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "communicate"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-er",
+          "homeLangDetails": "Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer."
+        }
+      ],
+      "translationShort": "one who communicates",
+      "translationLong": "a person who communicates effectively or professionally; someone skilled at conveying information",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "As a skilled communicator, she excels at public speaking."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "common"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "A verbalizing suffix (from Latin -atus). It turns the noun/adjective 'communic-' into a verb meaning to perform that action or state."
+        }
+      ],
+      "translationShort": "to share information",
+      "translationLong": "to share information, to convey meaning, to exchange thoughts",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "We need to communicate our ideas clearly to the team."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/not or into",
+          "homeLangDetails": "A chameleon prefix with two distinct meanings: \"not\" (inactive, impossible, illegal) and \"into\" (insert, import). The spelling shifts to match the following sound."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "trace",
+          "homeLangDetails": "From Latin vestigium (footprint, trace). The same root appears in vestige (a remaining trace) and investigator (one who follows the traces)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "A verbalizing suffix that turns the root into an action: to follow or examine traces/clues."
+        }
+      ],
+      "translationShort": "to examine carefully",
+      "translationLong": "to examine carefully, to inquire into, to conduct an inquiry",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "The police will investigate the crime scene tomorrow."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "work"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "A verbalizing suffix that turns 'labor' into an action: to work together."
+        }
+      ],
+      "translationShort": "to work together",
+      "translationLong": "to work together, to cooperate",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "We will collaborate on this project with colleagues from other departments."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "part",
+          "homeLangDetails": "From Latin pars (part). Combined with the following morpheme -icip-, it creates the sense of 'taking part' or 'having a share in.'"
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "take",
+          "homeLangDetails": "From Latin capere (to take). The participium (Latin term for 'partaker') combines 'part' + 'take' to mean sharing in something."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "A verbalizing suffix."
+        }
+      ],
+      "translationShort": "to take part",
+      "translationLong": "to take part, to engage in, to join in",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "All students must participate in the class discussion."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "grace",
+          "homeLangDetails": "From Latin gratus (pleasing, grateful). The root also appears in grace, grateful, and gratitude — all related to pleasantness and goodwill."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "A diminutive/frequentative verbalizing suffix (from Latin -ulatus). It softens or iterates the action, here creating the sense of expressing pleasure or goodwill toward someone in a warm, repeated manner."
+        }
+      ],
+      "translationShort": "to praise for an achievement",
+      "translationLong": "to praise for an achievement, to express pleasure or goodwill",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "I want to congratulate you on your excellent performance!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/wrongly",
+          "homeLangDetails": "Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/between",
+          "homeLangDetails": "Between or among. International, interrupt, interact."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "explain",
+          "homeLangDetails": "From Latin praetere or prae (before) + ire (to go). The prefix inter- + pret- creates the sense of explaining what lies between (i.e., clarifying meaning). The mis- prefix then reverses this: to explain wrongly."
+        }
+      ],
+      "translationShort": "to understand wrongly",
+      "translationLong": "to understand wrongly, to explain or construe incorrectly",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Don't misinterpret my words; I meant them kindly."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "build"
+        }
+      ],
+      "translationShort": "to take apart analytically",
+      "translationLong": "to take apart, to disassemble, to analyze by breaking into components",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "In this seminar, we will deconstruct the main arguments in the text."
+    }
+  ]
+}

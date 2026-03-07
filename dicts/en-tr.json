@@ -1,0 +1,4369 @@
+{
+  "homeLang": "tr",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içeri-/değil veya içine"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "atmak"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "enjeksiyon",
+      "translationLong": "enjeksiyonun yapılması; vücuda zorlanan sıvı",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "Hemşire ağrıyı hafifletmek için bana bir enjeksiyon yaptı."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "ileri/için",
+          "homeLangDetails": "İleri doğru, desteklemek veya yerine geçmek anlamında. Prog gibi kelimeler buna örnek, product, pronoun gibi."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "atmak"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "projeksiyon",
+      "translationLong": "dışarıya doğru uzanan bir şey; tahmin veya öngörü",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "Satış projeksiyonu gelecek çeyrekte güçlü bir büyümeyi göstermektedir."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "karşı",
+          "homeLangDetails": "Latince kökenli ob- ön eki 'karşı' veya 'doğru' anlamını taşır. Bu kelimede bir şeyi karşısına atmak veya ona karşı koymak anlamını ifade eder."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "atmak"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "itiraz",
+      "translationLong": "aynı fikirde olmama veya onaylamama ifadesi",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "O, toplantıda teklif hakkında bir itiraz yükseltmiştir."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "önce",
+          "homeLangDetails": "Zaman veya konum açısından önce. Predict, prepare, prehistoric gibi kelimeler buna örnek."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "söylemek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tahmin",
+      "translationLong": "gelecekte ne olacağı hakkında söylenen bir ifade",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "Yarın için hava tahmini yağmurlu olduğunu göstermektedir."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "karşı",
+          "homeLangDetails": "Latince contra kökenli, 'karşı' anlamına gelir. Burada 'söylemek' anlamındaki sözcükle birleşerek 'karşısına söylemek' veya 'itiraz etmek' anlamı oluşturur."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "söylemek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "çelişki",
+      "translationLong": "başka bir şeyle zıt olan veya onunla uyuşmayan bir ifade veya durum",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "İki açıklaması arasında açık bir çelişki vardır."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "hukuk"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "söylemek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yargı yetkisi",
+      "translationLong": "yasal kararlar almak ve yasaları uygulamak için resmi güç",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Bu dava federal mahkemenin yargı yetkisine girer."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "karşıdan karşıya",
+          "homeLangDetails": "Karşıdan karşıya, arasından veya bir durumdan diğerine geçiş. Transport, transform, translate gibi kelimelerde görülür."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "taşımak"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ulaştırma",
+      "translationLong": "insanların veya malların bir yerden başka bir yere taşınması",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Kamu ulaştırması araba kullanmaktan daha ucuzdur."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/geri almak",
+          "homeLangDetails": "Aşağıya doğru, uzağa veya bir eylemi tersine çevirmek. Decrease, depart, deconstruct gibi kelimeler buna örnek. Çoğunlukla temel kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "taşımak"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "sınır dışı etme",
+      "translationLong": "bir kişinin bir ülkeden zorla çıkarılması",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "Sınır dışı etme işlemleri birkaç ay sürdü."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "içeri-/değil veya içine"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "taşımak"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ithalatı",
+      "translationLong": "malların yurtdışından bir ülkeye getirilmesi",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "Yabancı malların ithalatı bu yıl artmıştır."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "birlikte"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "inşa etmek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "inşaat",
+      "translationLong": "bir şey inşa etme süreci; inşa edilmekte olan bir yapı",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "Yeni köprüsünün inşaatı iki yıl sürecektir."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/geri",
+          "homeLangDetails": "Aşağı doğru, uzaklaşma veya bir eylemi tersine çevirme anlamına gelir. Azalma, ayrılma, yapıyı söküp atma gibi. Çoğu zaman taban kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "inşa et"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yıkım",
+      "translationLong": "bir şeyin yok edilmesi; ciddi hasar veya tahrip",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "Kasırga geniş çaplı yıkıma neden oldu."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden",
+          "homeLangDetails": "Tekrar etme veya önceki duruma dönüş anlamına gelir. Latince re- kökenli olup binlerce İngilizce kelimede görülür: return, rebuild, reconsider. Çoğu zaman 'yeniden yapma' veya 'geri dönme' ile aynı anlama gelir."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "birlikte"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "inşa et"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yeniden inşa",
+      "translationLong": "hasar gören veya yok olan bir şeyin yeniden yapılması süreci",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "Yangından sonra şehrin yeniden inşası birçok yıl sürdü."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içinde/değil"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "bak"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "muayene",
+      "translationLong": "bir şeyin dikkatli incelenmesi veya gözden geçirilmesi",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "Bina güvenlik muayenesini geçti."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "içinden",
+          "homeLangDetails": "İçinden, tamamen veya bütünüyle geçme anlamına gelir. Perform, permit, persist gibi kelimeler buna örnek."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "bak"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Eğilimi olan veya doğası olan anlamındadır. Active, creative, descriptive gibi örnekler bunu gösterir."
+        }
+      ],
+      "translationShort": "perspektif",
+      "translationLong": "bir şeyi görüş veya anlama biçimi; bakış açısı",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Benim perspektifimden, bu plan çok risklidir."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "geriye doğru",
+          "homeLangDetails": "Latince retro'dan gelen 'geriye' veya 'geri' anlamındadır. 'Spect' (bak) ile birleşerek 'geçmişe bakma' anlamını oluşturur."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "bak"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Eğilimi olan veya doğası olan anlamındadır. Active, creative, descriptive gibi örnekler bunu gösterir."
+        }
+      ],
+      "translationShort": "retrospektif",
+      "translationLong": "geçmiş olayların gözden geçirilmesi veya incelenmesi; geçmiş olaylarla ilgili",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Müze sanatçının çalışmalarının retrospektif sergisini düzenledi."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "önce",
+          "homeLangDetails": "Zamanda veya konumda öncesi anlamındadır. Predict, prepare, prehistoric gibi kelimeler buna örnek."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "yaz"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "reçete",
+      "translationLong": "ilaç için yazılı tıbbi emir; talimatlar seti",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "Doktor bana antibiyotik için bir reçete verdi."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/geri",
+          "homeLangDetails": "Aşağı doğru, uzaklaşma veya bir eylemi tersine çevirme anlamına gelir. Azalma, ayrılma, yapıyı söküp atma gibi. Çoğu zaman taban kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "yaz"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tanım",
+      "translationLong": "bir şeyin sözlü veya yazılı açıklaması; betim",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Olayın tanımı çok detaylı idi."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "altında",
+          "homeLangDetails": "Altında, aşağıda veya ikincil anlamındadır. Subway, submarine, substitute gibi kelimeler buna örnek."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "yaz"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "abonelik",
+      "translationLong": "bir hizmet veya yayın için düzenli ödeme; imza",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Üç dergiye abone olmak için aboneliğim var."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "dışa"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "bas"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ifade",
+      "translationLong": "duygu veya anlamın dışa vurulması; söz veya deyim",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Yüzündeki ifade çok mutsuz olduğunu gösteriyordu."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/geri",
+          "homeLangDetails": "Aşağı doğru, uzaklaşma veya bir eylemi tersine çevirme anlamına gelir. Azalma, ayrılma, yapıyı söküp atma gibi. Çoğu zaman taban kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "bas"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "depresyon",
+      "translationLong": "üzüntü ile işaretlenmiş bir ruh sağlığı durumu; çökmüş veya içine girilmiş bir alan",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Depresyonun tedavisi için yardım istedi."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "içine/içeri"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "bas"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "bir his ya da düşünce; basarak yapılan iz",
+      "translationLong": "bir şey hakkında bir his ya da düşünce; basarak oluşturulan bir iz veya çentik",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Bana onun mutlu olmadığı izlenimini yaptı."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "doğru"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "çek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ilgi ya da çekicilik duygusu",
+      "translationLong": "ilgi ya da çekicilik duygusu; insanları kendine çeken şey",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Tema parkı turistler için ana çekicilik noktasıdır."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "dışarı"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "çek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "çıkarmak veya almak işlemi",
+      "translationLong": "çıkarmak veya almak işlemi; dişin çekilmesi",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "Diş hekimi diş çekilmesini önerdi."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "ayırmak/dağıtmak",
+          "homeLangDetails": "Ayırmak, dağıtmak ya da parçalara ayırmak anlamına gelir. Dikkat dağıtmak, uzaklaştırmak gibi. Türkçedeki ayrı, dağ- ön ekleriyle benzerlik taşır."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "çek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "dikkat dağıtan şey",
+      "translationLong": "dikkat dağıtan ve işten sapıtılan şey; dikkat dağınıklığı durumu",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Gürültü sınav sırasında büyük bir dikkat dağıtıcısıydı."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "tamamen/boyunca",
+          "homeLangDetails": "Tamamen, baştan sona veya iyice anlamına gelir. Yapma (perform), izin verme (permit) gibi kelimelerde görülür. Türkçedeki per- ile benzerlik gösterir."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "gönder"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "resmi izin veya onay",
+      "translationLong": "bir şey yapmak için resmi izin veya onay",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Erken ayrılmak için müdürün iznine ihtiyacın var."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "karşıya/arasında",
+          "homeLangDetails": "Karşıya, arasında geçme ya da bir durumdan diğerine dönüşüm anlamına gelir. Taşıma (transport), dönüştürme (transform) gibi kelimelerde görülür."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "gönder"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "bir şeyin gönderilmesi; araç mekanizması",
+      "translationLong": "bir şeyin bir yerden başka bir yere gönderilmesi; araçta hız değiştiren mekanizma",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "Verinin iletilmesi hatasız gerçekleşti."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "birlikte"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "gönder"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. Eylemi, sonucunu veya aracını ifade eder. Hükümet, hareket, zevk gibi kelimelerde görülür. Türçedeki -me, -ma eki buna benzer."
+        }
+      ],
+      "translationShort": "söz veya vaat; adanmışlık",
+      "translationLong": "bir şey yapmaya dair söz veya vaat; bir amaç ya da kişiye olan adanmışlık",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Proje için yaptığı taahhüt hiç sallanmadı."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "geri",
+          "homeLangDetails": "Bu kelimede re- eski Latince kullanımla 'geri' anlamını taşır, 'tekrar' değil. Almak (receive) geri almak, geri gelmek (recede) geriye dönmek, göndermek (refer) kaynağa geri göndermek demektir."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "al"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "alma işlemi; resmi toplantı",
+      "translationLong": "alma işlemi; resmi toplantı veya etkinlik; sinyal alım kalitesi",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "Düğün resepsiyonu yerel bir otelde yapıldı."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "tamamen/boyunca",
+          "homeLangDetails": "Tamamen, baştan sona veya iyice anlamına gelir. Yapma (perform), izin verme (permit) gibi kelimelerde görülür. Türkçedeki per- ile benzerlik gösterir."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "al"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "anlama veya fark etme yeteneği",
+      "translationLong": "duyu organları aracılığıyla bir şeyi anlama veya fark etme yeteneği; farkındalık",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "Zamana ilişkin algısı kazadan sonra değişti."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/geri",
+          "homeLangDetails": "Aşağıya, uzağa veya bir eylemi tersine çevirmek anlamına gelir. Azaltma (decrease), ayrılma (depart) gibi kelimelerde görülür. Çoğu zaman taban sözcüğün tersini ifade eder."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "al"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "birini aldatma veya yanıltma",
+      "translationLong": "birini aldatma veya yanıltma; hile ya da yalan",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "Aldatmaca sonunda ortaya çıkarıldı."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "geri",
+          "homeLangDetails": "Bu kelimede re- ön eki, 'tekrar' anlamından ziyade eski Latince anlamı olan 'geri' anlamını taşıyor. Receive (almak/geri almak), recede (geri çekilmek) ve refer (bir kaynağa geri göndermek) gibi örneklere bakınca bu daha net görülüyor."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "taşı"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "referans",
+      "translationLong": "bilgi için danışılan bir kaynak; bir atıf veya söz edilme",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "O kitabı denemem için bir referans olarak kullandım."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "beraber"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "taşı"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "konferans",
+      "translationLong": "resmi bir toplantı veya tartışma",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "Yıllık konferans, dünyanın çeşitli yerlerinden bilim insanlarını bir araya getiriyor."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "arasında",
+          "homeLangDetails": "Arası veya arasında anlamına gelir. International (uluslararası), interrupt (kesmek), interact (etkileşim) gibi kelimeler buna örnek verilebilir."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "taşı"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "parazit",
+      "translationLong": "müdahale etme eylemi; bir iletişimi bozan istenmeyen sinyaller",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radyo paraziti yayını kesintiye uğrattı."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "beraber"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "dön"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "dönüştürme",
+      "translationLong": "bir biçim, durum veya inançtan başka birine geçiş süreci",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "Depoyu apartmanlara dönüştürme işlemi birkaç ay sürdü."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "içeri"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "dön"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "içe dönüklük",
+      "translationLong": "kendi düşünceleri ve duygularına odaklanma eğilimi",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Onun içe dönüklüğü, evde sakin akşamları tercih etmesine neden oluyordu."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "alt",
+          "homeLangDetails": "Altında, aşağıda veya yardımcı anlamı taşır. Subway (metro), submarine (denizaltı), substitute (yedek) gibi kelimelerde görülür."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "dön"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "alt üst etme",
+      "translationLong": "yerleşik bir şeyi baltalama veya devirtme eylemi",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "Hükümet, otoritenin altını oymaya çalışan her girişimi bastırdı."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/taraf",
+          "homeLangDetails": "Bu kelimede de- ön eki 'aşağıdan' anlamındaki yönsel anlamını taşıyor. Latince dependere 'aşağıdan asmak' anlamına geliyor. Burada taban kelimeyi tersine çevirmek yerine, bir şeyden asılı olma veya ona bağımlı olma ilişkisini tanımlıyor."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "as"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "bağımlılık",
+      "translationLong": "başka bir şeye veya kişiye güvenme durumu",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "Kafein bağımlılığı onun uyku düzenini etkiliyordu."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "değil"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/taraf",
+          "homeLangDetails": "Bu kelimede de- ön eki 'aşağıdan' anlamındaki yönsel anlamını taşıyor. Latince dependere 'aşağıdan asmak' anlamına geliyor. Burada taban kelimeyi tersine çevirmek yerine, bir şeyden asılı olma veya ona bağımlı olma ilişkisini tanımlıyor."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "as"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "bağımsızlık",
+      "translationLong": "kendi kendine yeterli ve bağımlılıktan özgür olma durumu",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "O sonunda finansal bağımsızlığa ulaştı."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "arasında",
+          "homeLangDetails": "Arası veya arasında anlamına gelir. International (uluslararası), interrupt (kesmek), interact (etkileşim) gibi kelimeler buna örnek verilebilir."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "aşağı/taraf",
+          "homeLangDetails": "Bu kelimede de- ön eki 'aşağıdan' anlamındaki yönsel anlamını taşıyor. Latince dependere 'aşağıdan asmak' anlamına geliyor. Burada taban kelimeyi tersine çevirmek yerine, bir şeyden asılı olma veya ona bağımlı olma ilişkisini tanımlıyor."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "as"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "karşılıklı bağımlılık",
+      "translationLong": "farklı taraflar veya gruplar arasında karşılıklı bağımlılık",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Küresel ekonomiler artan karşılıklı bağımlılık göstermektedir."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "doğru"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "koş"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-rence"
+        }
+      ],
+      "translationShort": "olay",
+      "translationLong": "bir şeyin gerçekleştiği bir örnek veya olay",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "O bölgede depremler sık meydana gelir."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tekrar",
+          "homeLangDetails": "Bir şeyin tekrar olması ya da önceki durumuna dönmesi anlamını taşır. Latince re- kökeninden gelen bu ön ek, İngilizcede binlerce sözcükte görülür: return, rebuild, reconsider gibi. Temel olarak \"yeniden yapmak\" veya \"geri dönmek\" anlamlarında kullanılır."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "koş"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-lik"
+        }
+      ],
+      "translationShort": "tekrarlama",
+      "translationLong": "bir şeyin tekrar olması veya ortaya çıkması gerçeği",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "Migren baş ağrılarının tekrarlanması ciddi bir sorun haline geliyordu."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "birlikte"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "koş"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ıl"
+        }
+      ],
+      "translationShort": "eş zamanlı",
+      "translationLong": "aynı anda meydana gelen veya var olan",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "İki olay eş zamanlıydı, aynı anda gerçekleşti."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "geri",
+          "homeLangDetails": "Bu sözcükte re- ön eki \"yeniden\" yerine eski Latince anlamı olan \"geri\" anlamında kullanılır. Receive (almak/geri almak), recede (geri çekilmek) ve refer (kaynağına göndermek) gibi sözcüklerde bu anlam belirgindir."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "git"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "resesyon",
+      "translationLong": "ekonomik gerileme; faaliyet azalışının geçici bir dönemi",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Ülke 2000'li yılların başında ciddi bir resesyon yaşadı."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "altında"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "git"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "halef",
+      "translationLong": "arka arkaya gelen şeyler dizisi; sırayla takip eden süreç",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "Krallar dizisi üç yüzyıl sürdü."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "değil",
+          "homeLangDetails": "İngilizcenin en yaygın olumsuzluk ön eki, Eski İngilizce'den kalma. Almancadaki un- ve Flemenkçedeki on- gibi doğrudan karşılıkları vardır. Taban sözcüğün anlamını tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz)."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "önce",
+          "homeLangDetails": "Zaman veya konum olarak öncesini ifade eder. Predict (tahmin etmek), prepare (hazırlamak), prehistoric (tarih öncesi)."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "git"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ıl"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(geçmiş)"
+        }
+      ],
+      "translationShort": "benzersiz",
+      "translationLong": "daha önce hiç yapılmamış veya bilinmemiş; emsali olmayan",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "Pandemiden kaynaklanan eğitim kesintileri dünya çapında benzeri görülmemiş bir karışıklık yarattı.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "boyunca",
+          "homeLangDetails": "Bir şeyin karşısından diğer tarafına veya bir durumdan başka bir duruma değişimi anlamında kullanılır. Transport (taşımak), transform (dönüştürmek), translate (çevirmek)."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "şekil"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "dönüşüm",
+      "translationLong": "şekil değiştirme eylemi veya süreci",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "Tırtılın kelebeğe dönüşümü dikkat çekicidir."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tekrar",
+          "homeLangDetails": "Bir şeyin tekrar olması ya da önceki durumuna dönmesi anlamını taşır. Latince re- kökeninden gelen bu ön ek, İngilizcede binlerce sözcükte görülür: return, rebuild, reconsider gibi. Temel olarak \"yeniden yapmak\" veya \"geri dönmek\" anlamlarında kullanılır."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "şekil"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "reform",
+      "translationLong": "yeniden şekil verme veya ıslah etme eylemi",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "Reformasyon 16. yüzyıl Avrupa'sında büyük bir dini hareketti."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içinde"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "şekil"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bilgi",
+      "translationLong": "sağlanan veya öğrenilen gerçekler veya ayrıntılar",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Çevrimiçi olarak konu hakkında yararlı bilgiler buldum."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "arasında",
+          "homeLangDetails": "Arasında veya ortasında anlamını verir. International (uluslararası), interrupt (kesinmek), interact (etkileşim yapmak)."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "kır"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "kesinti",
+      "translationLong": "sürekliliğin kesilmesi veya bir duraklama",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "Toplantı sırasında kısa bir kesinti yaşandı."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "ayrı",
+          "homeLangDetails": "Değil anlamı taşır veya bir şeyi parçalara ayırmak anlamında kullanılır. Disagree (anlaşamamak), disconnect (bağlantıyı kesmek), disappear (ortadan kaybolmak). Un- ön ekinden daha güçlü bir ayrışma veya tersine çevirme anlamı vardır."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "kır"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bozulma",
+      "translationLong": "kesintiye uğratmayan bir rahatsızlık veya sorun",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "Fırtına ulaştırmada önemli bir bozulmaya neden oldu."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "bir-/beraber"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "kırılmak"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yolsuzluk",
+      "translationLong": "dürüst olmayan veya ahlaksız davranış; bozulmuş olma durumu",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "Hükümet yolsuzlukla mücadele etti."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "kendi",
+          "homeLangDetails": "Kendi. Autobiography, automatic, automobile sözcüklerinde görüldüğü gibi. Türkçede de 'kendi' anlamı taşır."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "yaşam",
+          "homeLangDetails": "Yaşam. Biology, biography, biodegradable gibi örneklerde görülür. Biyoloji, biyografi, biyolojik olarak parçalanabilen gibi Türkçe sözcüklerde de benzer anlamları görebilirsiniz."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-yazı"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(isim eki)"
+        }
+      ],
+      "translationShort": "otobiyografi",
+      "translationLong": "bir kişinin kendi yazılı hayat hikâyesi",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Erken yılları hakkında bir otobiyografi yazdı."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "yaşam",
+          "homeLangDetails": "Yaşam. Biology, biography, biodegradable gibi örneklerde görülür. Biyoloji, biyografi, biyolojik olarak parçalanabilen gibi Türkçe sözcüklerde de benzer anlamları görebilirsiniz."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-yazı"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(isim eki)"
+        }
+      ],
+      "translationShort": "biyografi",
+      "translationLong": "birinin hayatı hakkında yazılı anlatım",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Ünlü bilim insanının biyografisini okuyorum."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "ışık"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-yazı"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(isim eki)"
+        }
+      ],
+      "translationShort": "fotoğrafçılık",
+      "translationLong": "fotoğraf çekme sanatı veya uygulaması",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Fotoğrafçılığa tutkun."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "bir-/beraber",
+          "homeLangDetails": "Yunancadan gelen bir ön ek, beraber anlamına gelir. Sympony'de birçok enstrüman uyum içinde birlikte çalar."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-ses"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(isim eki)"
+        }
+      ],
+      "translationShort": "senfoni",
+      "translationLong": "geniş bir orkestra bestesi",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethoven'in Dokuzuncu Senfonisi onun en büyük eserlerinden biridir."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "uzak",
+          "homeLangDetails": "Uzaktan, mesafeden. Telephone, television, telescope gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-ses"
+        }
+      ],
+      "translationShort": "telefon",
+      "translationLong": "uzak mesafeden iletişim kurmak için kullanılan cihaz",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Yarın seni telefonla arayacağım."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "çok küçük",
+          "homeLangDetails": "Çok ufak. Microphone, microscope, microwave gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-ses"
+        }
+      ],
+      "translationShort": "mikrofon",
+      "translationLong": "küçük sesleri yakalar ve yükseltir",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "Şarkıcı mikrofona konuştu."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-zaman",
+          "homeLangDetails": "Zaman. Chronology, synchronize, anachronism gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-loji",
+          "homeLangDetails": "Bilimi, incelemesi. Biology, psychology, technology gibi sözcüklerde görülür."
+        }
+      ],
+      "translationShort": "kronoloji",
+      "translationLong": "olayların zaman sırasına göre düzenlenmesi",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "Olayların kronolojisi anlamak için önemlidir."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "bir-/beraber",
+          "homeLangDetails": "Yunancadan gelen bir ön ek, beraber anlamına gelir. Synchronize'de olaylar veya eylemler aynı anda birlikte meydana gelir."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-zaman",
+          "homeLangDetails": "Zaman. Chronology, synchronize, anachronism gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-leştir"
+        }
+      ],
+      "translationShort": "senkronize etmek",
+      "translationLong": "şeyleri aynı anda gerçekleşmesini sağlamak",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Ayrılmadan önce saatlerimizi senkronize edelim."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "geri",
+          "homeLangDetails": "Yunanca ön ek, geri veya tekrar anlamına gelir. Anachronism'de bir şey yanlış zaman dönemine konuşlandırılır, yanlış döneme doğru geri gider."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-zaman",
+          "homeLangDetails": "Zaman. Chronology, synchronize, anachronism gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-izm",
+          "homeLangDetails": "Bir inanç, uygulama, sistem veya karakteristik nitelik. Realism, capitalism, enthusiasm gibi sözcüklerde görülür."
+        }
+      ],
+      "translationShort": "anakronizm",
+      "translationLong": "yanlış zaman dönemine yerleştirilmiş bir şey",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Ortaçağ filminde akıllı telefon bulunması bir anakronizm olurdu."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "zihin"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Yunanca kökenli bileşik kelimelerde morfemler arasında yumuşak bir bağlantı sağlayan ünlü (tematik ünlü). Kendi başına bir anlam taşımaz."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-loji",
+          "homeLangDetails": "...in incelenmesi, ...i inceleyen bilim. Biyoloji, psikoloji, teknoloji gibi kelimelerde görürsün."
+        }
+      ],
+      "translationShort": "zihin bilimi",
+      "translationLong": "zihin ve davranış üzerine yapılan bilimsel inceleme",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "She majored in psychology at university."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "insan"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Yunanca kökenli bileşik kelimelerde morfemler arasında yumuşak bir bağlantı sağlayan ünlü (tematik ünlü). Kendi başına bir anlam taşımaz."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-loji",
+          "homeLangDetails": "...in incelenmesi, ...i inceleyen bilim. Biyoloji, psikoloji, teknoloji gibi kelimelerde görürsün."
+        }
+      ],
+      "translationShort": "insanlık bilimi",
+      "translationLong": "insan toplumları ve kültürleri hakkında yapılan bilimsel inceleme",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Anthropology helps us understand different cultures."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "deri"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Yunanca kökenli bileşik kelimelerde morfemler arasında yumuşak bir bağlantı sağlayan ünlü (tematik ünlü). Kendi başına bir anlam taşımaz."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-loji",
+          "homeLangDetails": "...in incelenmesi, ...i inceleyen bilim. Biyoloji, psikoloji, teknoloji gibi kelimelerde görürsün."
+        }
+      ],
+      "translationShort": "deri bilimi",
+      "translationLong": "deri ve deri hastalıklarıyla ilgili tıbbi inceleme",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "I have an appointment with a dermatology specialist."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "birlikte",
+          "homeLangDetails": "Yunanca syn- önekinin bir türü, 'beraber' ya da 'birlikte' anlamına gelir. Burada -pathy (hissetmek) ile birleşerek 'birlikte hissetmek' anlamını oluşturuyor. Başkasının duygularını anlamak ve paylaşmak demek."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Hissetmek, acı çekmek ya da durum. Yunancadan gelen pathos sözcüğünden geliyor. Sempati, empati, antipati, apatide görürsün."
+        }
+      ],
+      "translationShort": "anlayış, merhamet",
+      "translationLong": "başkasının duygularını anlayabilme ve paylaşabilme yeteneği",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "I felt sympathy for her difficult situation."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "içine",
+          "homeLangDetails": "Yunanca en- önekinin bir türü, 'içine' ya da 'içinde' anlamına gelir. Burada başkasının duygusal durumuna tamamen girip onun hislerini kendi hissleriymişçesine yaşamak anlamını taşıyor. Sempati'den daha derin ve hayal gücüyle ilgili bir kavram."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Hissetmek, acı çekmek ya da durum. Yunancadan gelen pathos sözcüğünden geliyor. Sempati, empati, antipati, apatide görürsün."
+        }
+      ],
+      "translationShort": "duygusal anlayış",
+      "translationLong": "başkasının duygularını anlayabilme ve onları sanki kendi duygularınmış gibi hissedebilme yeteneği",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empathy is important for being a good friend."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "karşı-",
+          "homeLangDetails": "Karşı, ters, muhalif anlamında. Anti-savaş, antibiyotik, antijeni gibi kelimelerde kullanılır."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Hissetmek, acı çekmek ya da durum. Yunancadan gelen pathos sözcüğünden geliyor. Sempati, empati, antipati, apatide görürsün."
+        }
+      ],
+      "translationShort": "antipati, nefret",
+      "translationLong": "kuvvetli bir hoşlanmama ya da muhalefet duygusu",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "He had an antipathy toward modern art."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "değişim/ötesi",
+          "homeLangDetails": "Yunanca 'değişim', 'ötesi' ya da 'geçiş' anlamına gelen önek. Burada morph (şekil) ile birleşerek çarpıcı bir biçim değişimini tanımlar. Tırtılın kelebek olmasının tam dönüşümünü anlat."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Şekil, biçim. Metamorfoz, amorf (şekulsüz), morfoloji sözcüklerinde karşınıza çıkar."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Yunanca kökenli bileşik kelimelerde morfemler arasında yumuşak bir bağlantı sağlayan ünlü (tematik ünlü). Kendi başına bir anlam taşımaz."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "Yunanca bir durum, işlem ya da durumu gösteren sonek. Burada morph (değişim) fiilini bir ad haline çevirerek süreci tanımlayan bir isim oluşturur."
+        }
+      ],
+      "translationShort": "dönüşüm, değişim",
+      "translationLong": "şekil ya da yapıda tamamen bir değişim; biyolojik bir dönüşüm",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "The tadpole's metamorphosis into a frog takes several weeks."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "-sız/değil",
+          "homeLangDetails": "Yunanca 'değil' ya da 'olmayan' anlamında önek. Germanca 'un-' önekinin Yunanca karşılığı. Burada morph (şekil) sözcüğünü olumsuzlaştırarak tanımlı bir şekli olmayan şey demek."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Şekil, biçim. Metamorfoz, amorf (şekulsüz), morfoloji sözcüklerinde karşınıza çıkar."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-"
+        }
+      ],
+      "translationShort": "şekulsüz, biçimsiz",
+      "translationLong": "belirli bir şekli ya da biçimi olmayan; muğlak ya da tanımsız",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "The amorphous blob of clay could become anything."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "-sız/değil",
+          "homeLangDetails": "İngilizcenin en yaygın olumsuzlama öneki, Eski İngilizceden gelir. Almancadaki 'un-', Hollandacadaki 'on-' gibi Cermen dil ailesiyle paraleldir. Sözcüğün anlamını tamamen tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz) gibi."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "konfor"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-"
+        }
+      ],
+      "translationShort": "rahatsız edici, dengesiz",
+      "translationLong": "rahatsızlık veren ya da hissettiren; dengesiz ya da garip olan",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "That chair is very uncomfortable."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "-sız/değil",
+          "homeLangDetails": "İngilizcenin en yaygın olumsuzlama öneki, Eski İngilizceden gelir. Almancadaki 'un-', Hollandacadaki 'on-' gibi Cermen dil ailesiyle paraleldir. Sözcüğün anlamını tamamen tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz) gibi."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "inan"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-"
+        }
+      ],
+      "translationShort": "inanılmaz, şaşılacak",
+      "translationLong": "inanılması güç; inanılmaz ya da çok etkileyici",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "That story sounds unbelievable!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/değil",
+          "homeLangDetails": "İngilizce'nin en yaygın olumsuzluk öneki, Eski İngilizce'den kalma. Türkçe'deki '-sız' veya '-maz' ekilerine benzer şekilde çalışır. Kelimeyi tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz)."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "unutulmaz, asla unutulamayan",
+      "translationLong": "unutulamayan; akılda kalıcı ve etkileyici",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "O tatil unutulmaz oldu."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/değil",
+          "homeLangDetails": "İngilizce'nin en yaygın olumsuzluk öneki, Eski İngilizce'den kalma. Türkçe'deki '-sız' veya '-maz' ekilerine benzer şekilde çalışır. Kelimeyi tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz)."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "tanınmaz, ayırt edilemez",
+      "translationLong": "tanınamayan veya ayırt edilemeyen",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Kazadan sonra araba tanınmaz hale gelmişti."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Bir şeyin yanlış veya kötü yapılmış olduğunu gösterir. Misunderstand (yanlış anlamak), mistake (hata), misrepresent (yanlış temsil etmek)."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Bir fiili isimleştiren ek. Burada 'yanlış anlamak' fiilini 'yanlış anlaşılma' anlamına gelen bir isime dönüştürür."
+        }
+      ],
+      "translationShort": "yanlış anlaşılma, iletişim hatası",
+      "translationLong": "bir şeyi yanlış anlama; karışıklık veya anlaşmazlık",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "Toplantı saati hakkında bir yanlış anlaşılma yaşandı."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Bir şeyin yanlış veya kötü yapılmış olduğunu gösterir. Misunderstand (yanlış anlamak), mistake (hata), misrepresent (yanlış temsil etmek)."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yanlış temsil, çarpıtma",
+      "translationLong": "bir şeyin yanlış veya yanıltıcı bir şekilde gösterilmesi; gerçeklerin çarpıtılması",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "Makale gerçekleri yanlış temsil ediyordu."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/fazla",
+          "homeLangDetails": "Fazlalık veya bir sınırı aşmayı gösterir. Overlook (göz ardı etmek), overwhelm (ezici olmak), overestimate (fazla tahmin etmek). Eski bileşik kelimelerde mekansal olarak 'üst' anlamında da kullanılır."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "'Whelm' kelimesi batırmak veya dalıp daldırmak anlamına gelir (ama bu kelime genellikle 'over-' önekisiz kullanılmaz). 'Over-' öneği ile birlikte, duygusal veya fiziksel olarak tamamen batırılmak, boğulmak anlamını taşır."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Bir fiili sıfata veya isime dönüştüren ek. Burada ezici, kapladığı her şeyi coşkuyla saran bir şeyi tanımlayan bir sıfat oluşturur."
+        }
+      ],
+      "translationShort": "ezici, şaşırtıcı",
+      "translationLong": "çok etkileyici, güçlü veya duygusal açıdan yoğun; kapladığı her şeyi örten",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "Aldığı destek eziciydi."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/eksik",
+          "homeLangDetails": "Over- (fazla) önekinin karşıtı. 'Altında' anlamı da olabilir (underground / yer altı) veya yetersiz anlamı (underestimate / az tahmin etmek, underperform / beklentinin altında performans)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "az tahmin etmek, küçümsemek",
+      "translationLong": "birinin yeteneklerini veya bir şeyin önemini gerekenden az tahmin etmek",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Onun karmaşık sorunları çözme yeteneğini küçümseme."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/fazla",
+          "homeLangDetails": "Fazlalık veya bir sınırı aşmayı gösterir. Overlook (göz ardı etmek), overwhelm (ezici olmak), overestimate (fazla tahmin etmek). Eski bileşik kelimelerde mekansal olarak 'üst' anlamında da kullanılır."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "aşırı tahmin",
+      "translationLong": "bir şeyi gerçekten daha fazla olarak değerlendirme",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "Projenin bütçesinin aşırı tahmin edilmesi mali sorunlara yol açtı."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/çok",
+          "homeLangDetails": "Çok veya birden fazla. Multicultural (çok kültürlü), multimedia (çoklu ortam), multiply (çarpmak)."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "çok kültürlü",
+      "translationLong": "birçok farklı kültürü içeren veya yansıtan",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Şehrimiz çok kültürlü bir nüfusuyla bilinir."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/karşı",
+          "homeLangDetails": "Karşıya geçmek, arasında olmak veya bir durumdan başka bir duruma değişmek. Transport (taşımak), transform (dönüştürmek), translate (çevirmek)."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "kıtalar arası",
+      "translationLong": "bir kıtayı veya birden fazla kıtayı kaplayan veya geçen",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "Kıtayı kaplayan demiryolu Doğu ve Batı kıyılarını birleştirdi."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/arasında",
+          "homeLangDetails": "Arasında veya içinde. International (uluslararası), interrupt (kesmek), interact (etkileşimde bulunmak)."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "birbirinin yerine kullanılabilir",
+      "translationLong": "bir şeyin nasıl çalıştığını etkilemeden birbirleriyle değiştirilebilecek",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "Bu iki parça birbirinin yerine kullanılabilir ve cihazın çalışışını etkilemez."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/değil/ayrı",
+          "homeLangDetails": "Değil anlamında veya bir şeyi ayırmak anlamında kullanılır. Disagree, disconnect, disappear gibi örneklerde görürsün. Un- ön ekinden daha güçlü bir ayrılma veya ters çevirme anlamı vardır."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "düzenlemek"
+        }
+      ],
+      "translationShort": "karıştırmak",
+      "translationLong": "düzeni boznak, organize halini yıkmak",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "Ani değişiklik, dikkatle planlanan programımızı tamamen karıştıracak."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "modern"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-laştır/-le"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ma/-tion"
+        }
+      ],
+      "translationShort": "modernleştirme",
+      "translationLong": "bir şeyi modern hale getirme, güncelleştirme süreci",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "Fabrikanın modernleştirilmesi verimliliğini artırdı."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "endüstriyel"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-laştır/-le"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ma/-tion"
+        }
+      ],
+      "translationShort": "sanayileştirme",
+      "translationLong": "bir bölge veya toplumda sanayinin geliştirilmesi süreci",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "Ülkenin sanayileştirilmesi ekonomisini büyük ölçüde dönüştürdü."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "teşvik etmek"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-lik/-ment",
+          "homeLangDetails": "Fiillerden isim yapar, eylemin kendisini, sonucunu veya aracını ifade eder. Türkçede de -lik, -ık, -lık ekleri benzer şekilde çalışır. Yönetim, hareket, keyif örneklerini düşünebilirsin."
+        }
+      ],
+      "translationShort": "teşvik",
+      "translationLong": "birine cesaret verme veya destek olma eyleminin kendisi",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Onun desteği benim korkularımı yenmeme yardım etti."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/değil/ayrı",
+          "homeLangDetails": "Değil anlamında veya bir şeyi ayırmak anlamında kullanılır. Disagree, disconnect, disappear gibi örneklerde görürsün. Un- ön ekinden daha güçlü bir ayrılma veya ters çevirme anlamı vardır."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "anlaşmak"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-lik/-ment",
+          "homeLangDetails": "Fiillerden isim yapar, eylemin kendisini, sonucunu veya aracını ifade eder. Türkçede de -lik, -ık, -lık ekleri benzer şekilde çalışır. Yönetim, hareket, keyif örneklerini düşünebilirsin."
+        }
+      ],
+      "translationShort": "anlaşmazlık",
+      "translationLong": "anlaşma yokluğu, görüş ayrılığı",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Bütçe hakkındaki görüş ayrılıkları birkaç hafta sürdü."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/değil/ayrı",
+          "homeLangDetails": "Değil anlamında veya bir şeyi ayırmak anlamında kullanılır. Disagree, disconnect, disappear gibi örneklerde görürsün. Un- ön ekinden daha güçlü bir ayrılma veya ters çevirme anlamı vardır."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "atamak"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-lik/-ment",
+          "homeLangDetails": "Fiillerden isim yapar, eylemin kendisini, sonucunu veya aracını ifade eder. Türkçede de -lik, -ık, -lık ekleri benzer şekilde çalışır. Yönetim, hareket, keyif örneklerini düşünebilirsin."
+        }
+      ],
+      "translationShort": "hayal kırıklığı",
+      "translationLong": "bir şey beklentiyi karşılamadığında duyulan üzüntü ve hayal kırıklığı",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "Konser iptalinin sebep olduğu hayal kırıklığı çok büyüktü."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "kabul etmek"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-lik/-ment",
+          "homeLangDetails": "Fiillerden isim yapar, eylemin kendisini, sonucunu veya aracını ifade eder. Türkçede de -lik, -ık, -lık ekleri benzer şekilde çalışır. Yönetim, hareket, keyif örneklerini düşünebilirsin."
+        }
+      ],
+      "translationShort": "kabul",
+      "translationLong": "bir şeyin, genellikle birisinin yaptığı veya söylediği şeyin tanınması ve kabul edilmesi",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "Onun katkılarının tanınması çok geç kalmıştı."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "cesaret"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-lu/-ous"
+        }
+      ],
+      "translationShort": "cesur",
+      "translationLong": "cesaret gösteren, yiğit",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Onun cesur eylemleri krizde hayatları kurtardı."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "öfke",
+          "homeLangDetails": "Bu aslında Old Fransızcadan donmuş bir bileşik sözcük (outrage), basit out- ön eki + rage değildir. Buradaki out- kökü Latin ultra'dan (ötesinde) gelir, Cermanca değildir. Yani outrageous 'sınırları aşan' anlamına gelir, tam anlamıyla 'öfkeyi aşan' değil."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-lu/-ous"
+        }
+      ],
+      "translationShort": "çok aşırı",
+      "translationLong": "şok verici derece kötü veya saldırgan, son derece alışılmadık veya aşırı",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "Bu küçük ürün için şok edici yüksek fiyat beni güldürdü."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "avantaj"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-lu/-ous"
+        }
+      ],
+      "translationShort": "avantajlı",
+      "translationLong": "fayda veya yarar sağlayan, uygun",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Yurtdışında okumak kariyeriniz için avantajlı olabilir."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "ötesinde"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "sıradan"
+        }
+      ],
+      "translationShort": "olağanüstü, istisnai",
+      "translationLong": "olağanüstü, istisnai, dikkate değer, sıradışı",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Müzikte olağanüstü bir yeteneği var."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "fark etme, dikkat çekme"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "dikkate değer, kayda değer",
+      "translationLong": "dikkate değer, kayda değer, fark edilmeye layık",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "Sporcu yaralanmadan dikkate değer bir şekilde iyileşti."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "tahmin etme"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "tahmin edilebilir",
+      "translationLong": "tahmin edilebilir, öngörülebilir",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "O filmin sonu tamamen tahmin edilebilirdi."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "ayarlama"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "ayarlanabilir",
+      "translationLong": "ayarlanabilir, değiştirilebilir",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "Sandalyenin yüksekliği ayarlanabilir."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "genişletme"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "genişletilebilir",
+      "translationLong": "genişletilebilir, büyütülebilir",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Bu saklama kutusu daha fazla alan gerektiğinde genişletilebilir."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "değil-",
+          "homeLangDetails": "İngilizce'nin en yaygın olumsuzluk yapan eki. Türkçe'deki değil- eki gibi kelimenin anlamını tersine çevirir: unhappy (mutlu değil), unknown (bilinmeyen), unforgettable (unutulmaz). Germani dilleri ailesinde un-, un- şeklinde kullanılır."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "bilinç"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik",
+          "homeLangDetails": "Sıfatları durum veya nitelik ifade eden isimler haline getirir. Türkçe'de -lik/-lık eki bunu tam olarak yapar: mutluluk, karanlık, bilinci. İngilizce'de de happiness, darkness, awareness gibi örnekler vardır."
+        }
+      ],
+      "translationShort": "bilinci kaybı, bayılmışlık",
+      "translationLong": "bilinci kaybı, bayılmışlık, bilinç durumunda olmama hali",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "Kafasına aldığı darbe birkaç dakika boyunca bilincini kaybetmesine neden oldu."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "değil-"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "sorumlu"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-lik"
+        }
+      ],
+      "translationShort": "sorumsuzluk, sorumluluğun eksikliği",
+      "translationLong": "sorumsuzluk, sorumluluğun eksikliği, özensizlik",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "Onun sorumsuzluğu şirkete binlerce dolar kaybettirdi."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "değil-"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "anlaşılabilir"
+        }
+      ],
+      "translationShort": "anlaşılmaz, kavranmaz",
+      "translationLong": "anlaşılmaz, kavranmaz, anlaşılması imkansız",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "Talimatlar anlaşılmaz jargonla yazılmıştı."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "bölme"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-sal",
+          "homeLangDetails": "Bir şeyden ilişkili olan veya o şeyin doğası gereği olan. Müziksel, doğal, endüstriyel. Türkçe'de -sal/-sel veya -li/-lı eki benzer işlev görür."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-la(şdır)",
+          "homeLangDetails": "Bir şeyi bir nitelik sahibi hale getirmek veya bir işlemi gerçekleştirmek. Modernleştirmek, düzenlemek, gerçekleştirmek. Türkçe'de -le(şdır) eylemsiz fiillendirme eki kullanılır."
+        }
+      ],
+      "translationShort": "bölerek ayrıştırmak, bölmeleştirmek",
+      "translationLong": "bölerek ayrıştırmak, bölmeleştirmek, ayrı bölümlere veya kategorilere ayırmak",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Bazı insanlar iş ve özel yaşamlarını ayrı tutarlar."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "değil-"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "uyumlu"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-lik"
+        }
+      ],
+      "translationShort": "uyumsuzluk",
+      "translationLong": "uyumsuzluk, uyumsuz olma durumu",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "İki sistem arasındaki uyumsuzluk entegrasyonu zorlaştırdı."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "dikkat"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li/-lu/-lü",
+          "homeLangDetails": "Dolu, sahip olan anlamına gelir. Türkçedeki -lı eki gibi düşün. Beautiful (güzel), careful (dikkatli), powerful (güçlü) gibi sıfatlar oluşturur."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "dikkatli bir şekilde",
+      "translationLong": "dikkatli olarak; tedbirli veya ihramlı bir tarzda",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Vazoyu rafa dikkatli bir şekilde yerleştirdi."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "dikkat"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "dikkatsiz bir şekilde",
+      "translationLong": "dikkat etmeden; umursamaz veya ihmalkar bir tarzda",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Kadehi dikkat etmeden düşürdü."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "dikkat"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık/-luk/-lük",
+          "homeLangDetails": "Sıfatları isimlerle dönüştürüp, bir durumu veya niteliği ifade eder. Happiness (mutluluk), darkness (karanlık), awareness (farkındalık). Türkçedeki -lik ekine çok benzer!"
+        }
+      ],
+      "translationShort": "dikkat eksikliği",
+      "translationLong": "dikkatsiz olmanın durumu veya niteliği; ihmal",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Onun dikkat eksikliği kırık bir tabakla sonuçlandı."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "yardım"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li/-lu/-lü",
+          "homeLangDetails": "Dolu, sahip olan anlamına gelir. Türkçedeki -lı eki gibi düşün. Beautiful (güzel), careful (dikkatli), powerful (güçlü) gibi sıfatlar oluşturur."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "yardımcı bir şekilde",
+      "translationLong": "yardım sunan veya destek veren bir tarzda",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Talimatları yardımcı bir şekilde açıkladı."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "yardım"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "çaresiz bir şekilde",
+      "translationLong": "kendisine yardım edebilme gücü olmadan; güçsüz bir tarzda",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Kaza olup biterken çaresizce izledi."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "yardım"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık/-luk/-lük",
+          "homeLangDetails": "Sıfatları isimlerle dönüştürüp, bir durumu veya niteliği ifade eder. Happiness (mutluluk), darkness (karanlık), awareness (farkındalık). Türkçedeki -lik ekine çok benzer!"
+        }
+      ],
+      "translationShort": "çaresizlik durumu",
+      "translationLong": "kendisine yardım edebilmeme durumu veya koşulu",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "Onun sesindeki çaresizlik yürek kırmıştı."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "umut"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li/-lu/-lü",
+          "homeLangDetails": "Dolu, sahip olan anlamına gelir. Türkçedeki -lı eki gibi düşün. Beautiful (güzel), careful (dikkatli), powerful (güçlü) gibi sıfatlar oluşturur."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "umutla; umut dolu bir şekilde",
+      "translationLong": "umudu veya iyimserliği ile; bir şeyin olabileceğine dair isteği ifade ederek",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Umudum var ki hava yarın düzelecek."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "umut"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık/-luk/-lük",
+          "homeLangDetails": "Sıfatları isimlerle dönüştürüp, bir durumu veya niteliği ifade eder. Happiness (mutluluk), darkness (karanlık), awareness (farkındalık). Türkçedeki -lik ekine çok benzer!"
+        }
+      ],
+      "translationShort": "umutsuzluk durumu",
+      "translationLong": "umut yokluğunun durumu veya hissi; çaresizlik",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "Takımın üzerine bir umutsuzluk hissi çöktü."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "umut"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz/-suz/-süz",
+          "homeLangDetails": "Yok, olmayan anlamına gelir. Türkçedeki -sız ekiyle birebir aynı işlevi görür! Careless (dikkatsiz), hopeless (umutsuz), speechless (sözsüz)."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "umutsuzca",
+      "translationLong": "umut göstermeyen bir tarzda; çaresizce",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "Durum umutsuzca kötü görünüyordu."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "teşekkür"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li/-lu/-lü",
+          "homeLangDetails": "Dolu, sahip olan anlamına gelir. Türkçedeki -lı eki gibi düşün. Beautiful (güzel), careful (dikkatli), powerful (güçlü) gibi sıfatlar oluşturur."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ce/-ca",
+          "homeLangDetails": "Sıfatlardan zarflar oluşturur, yani \"[şekilde]\" anlamında. Türkçedeki -ce ekine benzemeyen tam karşılık olmasada, aynı işi görür. Quickly (çabuk), happily (mutlu şekilde). Aynı ek sıfat da oluşturabilir: friendly (samimi), lovely (sevimli)."
+        }
+      ],
+      "translationShort": "şükresliye; minnettar bir şekilde",
+      "translationLong": "şanslı kısmet; minnettar olarak veya rahatlama ile",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Şükresliye, kazada kimse yaralanmadı."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "teşekkür"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Dolu veya karakterize edilmiş anlamında. Türkçedeki -lı/-li eki tıpkı İngilizce -ful gibi çalışır. Güzel, dikkatli, güçlü anlamında kelimeleri oluştururken, dolu/doldurulmuş anlamını taşır."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık",
+          "homeLangDetails": "Sıfatları isime çevirerek bir durumu veya niteliği ifade eder. Mutluluk, karanlık, farkındalık örneklerine bakabilirsin. Türkçedeki -lik/-lık eki de tıpkı İngilizce -ness gibi soyut isimler oluşturur."
+        }
+      ],
+      "translationShort": "şükran durumu",
+      "translationLong": "minnet duygusu veya şükrediş hali",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "Onun minnet duygusu sıcak kucaklamasından açıkça görülüyordu."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "düşünce"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Dolu veya karakterize edilmiş anlamında. Türkçedeki -lı/-li eki tıpkı İngilizce -ful gibi çalışır. Güzel, dikkatli, güçlü anlamında kelimeleri oluştururken, dolu/doldurulmuş anlamını taşır."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "düşünceli bir şekilde",
+      "translationLong": "dikkatli şekilde; temeddüt ederek veya düşünceli bir biçimde",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "Cevap vermeden önce soruyu dikkatli düşündü."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "düşünce"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz",
+          "homeLangDetails": "Olmadan. Türkçedeki -sız/-siz eki İngilizce -less gibi çalışır. Dikkatli olmayan, umut olmayan, konuşmayan anlamında."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık",
+          "homeLangDetails": "Sıfatları isime çevirerek bir durumu veya niteliği ifade eder. Mutluluk, karanlık, farkındalık örneklerine bakabilirsin. Türkçedeki -lik/-lık eki de tıpkı İngilizce -ness gibi soyut isimler oluşturur."
+        }
+      ],
+      "translationShort": "düşüncesizlik",
+      "translationLong": "dikkatsiz veya düşüncesüz olma durumu",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "Onun düşüncesizliği onu incitti."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "korku"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz",
+          "homeLangDetails": "Olmadan. Türkçedeki -sız/-siz eki İngilizce -less gibi çalışır. Dikkatli olmayan, umut olmayan, konuşmayan anlamında."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "korkusuzca",
+      "translationLong": "korku olmaksızın; cesurca veya cesaretle",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "Asker cesurca savaşa marş etti."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "korku"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz",
+          "homeLangDetails": "Olmadan. Türkçedeki -sız/-siz eki İngilizce -less gibi çalışır. Dikkatli olmayan, umut olmayan, konuşmayan anlamında."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık",
+          "homeLangDetails": "Sıfatları isime çevirerek bir durumu veya niteliği ifade eder. Mutluluk, karanlık, farkındalık örneklerine bakabilirsin. Türkçedeki -lik/-lık eki de tıpkı İngilizce -ness gibi soyut isimler oluşturur."
+        }
+      ],
+      "translationShort": "korkusuzluk",
+      "translationLong": "cesur olma niteliği; korkunun yokluğu",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Onun korkusuzluğu etrafındaki herkesi ilham verdi."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "barış"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Dolu veya karakterize edilmiş anlamında. Türkçedeki -lı/-li eki tıpkı İngilizce -ful gibi çalışır. Güzel, dikkatli, güçlü anlamında kelimeleri oluştururken, dolu/doldurulmuş anlamını taşır."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "barış içinde",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "Göstericiler şehirde barış içinde yürüyüş yaptılar."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "güzellik"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Burada -lı/-li eki güzellik ismine takılıyor, ama güzellik kelimesi kendisi zaten -lik eki içeriyor. Beautifully'de güzel sıfatını (güzellik + -lı) alıp üzerine -ca/-ce eklemişiz. Türkçedeki -lı/-li eki de tam olarak böyle çalışır."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "güzelce",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "Konser sırasında güzelce şarkı söyledi."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "başarı"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Dolu veya karakterize edilmiş anlamında. Türkçedeki -lı/-li eki tıpkı İngilizce -ful gibi çalışır. Güzel, dikkatli, güçlü anlamında kelimeleri oluştururken, dolu/doldurulmuş anlamını taşır."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "başarılı şekilde",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "Proje zamanında başarıyla tamamlandı."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "güç"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-lı/-li",
+          "homeLangDetails": "Dolu veya karakterize edilmiş anlamında. Türkçedeki -lı/-li eki tıpkı İngilizce -ful gibi çalışır. Güzel, dikkatli, güçlü anlamında kelimeleri oluştururken, dolu/doldurulmuş anlamını taşır."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ca/-ce",
+          "homeLangDetails": "Sıfatlardan zarf oluşturur ve \"bir [şekilde]\" anlamını verir. Hızlı, mutlu, şaşırtıcı şekilde. Türkçedeki -ca/-ce eki tıpkı İngilizce -ly gibi çalışır."
+        }
+      ],
+      "translationShort": "güçlü şekilde",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "Konuşmacı güçlü ikna edici bir argüman sundu."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "güç"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-sız/-siz",
+          "homeLangDetails": "Olmadan. Türkçedeki -sız/-siz eki İngilizce -less gibi çalışır. Dikkatli olmayan, umut olmayan, konuşmayan anlamında."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-lik/-lık",
+          "homeLangDetails": "Sıfatları isime çevirerek bir durumu veya niteliği ifade eder. Mutluluk, karanlık, farkındalık örneklerine bakabilirsin. Türkçedeki -lik/-lık eki de tıpkı İngilizce -ness gibi soyut isimler oluşturur."
+        }
+      ],
+      "translationShort": "güçsüzlük",
+      "translationLong": "güç veya etkiye sahip olmama durumu",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "Adalet karşısında derin bir güçsüzlük hissi yaşadı."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "değil/olumsuz",
+          "homeLangDetails": "İngilizceye ait en yaygın olumsuzluk ön eki. Türkçedeki 'değil' veya 'başına 'in' eklenmesi gibi düşünebilirsin. Kelimenin anlamını tersine çevirir: unhappy (mutsuz), unknown (bilinmeyen), unforgettable (unutulmaz)."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "istihdam"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "işsiz olma durumu",
+      "translationLong": "istihdam olmaksızın olma durumu; işsizlik",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "İşsizlik oranı kriz döneminde önemli ölçüde arttı."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/aşağı/geri",
+          "homeLangDetails": "Aşağıya, uzaklaşmaya veya bir işi tersine almaya işaret eder. Decrease (azalmak), depart (ayrılmak), deconstruct (parçalamak). Genellikle temel kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "açılmak",
+          "homeLangDetails": "Eski Fransızcadan 'devoluper' (açılmak, sarılı olmayan). Kök 'velop' ile ilgili (envelope kelimesinde görüldüğü gibi), sarılı veya örtülü anlamına gelir. Burada de- ön eki 'dışında' veya 'uzakta' anlamını verir, bu yüzden develop kelimensel olarak 'açmak' veya 'kademeli olarak görmek' anlamına gelir."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "büyüme süreci",
+      "translationLong": "gelişme veya geliştirilme süreci; büyüme veya ilerleme",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Çocuk gelişimi bu araştırma programının odak noktasıdır."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içine/içinde",
+          "homeLangDetails": "Değişken yüzlü bir ön ek. İki farklı anlamı vardır: 'değil' (inactive/pasif, impossible/imkansız) ve 'içine' (insert/sokmak, import/ithal etmek). Heceleme takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "dönüş/dönme",
+          "homeLangDetails": "Latince volvere'den (dönmek, yuvarlanmak). Aynı kök revolve (dönmek), evolution (evrim) ve convolution (sarılı/karmaşık) kelimelerinde görülür. Hepsi dönme veya yuvarlanma anlamını taşır."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "katılma durumu",
+      "translationLong": "katılı olma gerçeği veya durumu; katılım",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Toplum hizmeti çalışmalarına katılımı geniş çapta tanındı."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "içine/içinde",
+          "homeLangDetails": "Değişken yüzlü bir ön ek. İki farklı anlamı vardır: 'değil' (inactive/pasif, impossible/imkansız) ve 'içine' (insert/sokmak, import/ithal etmek). Heceleme takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "kanıtla/onaylanmış",
+          "homeLangDetails": "Latince probare'den (onaylamak, kabul etmek). Improve kelimesinde, ön ek in- (içine) + prov (kanıtlanmış) 'daha iyi hale getirmek' anlamını taşır. Bir şeyi daha iyi bir duruma getirmek demektir. Aynı kök prove (kanıtlamak) ve approbation (onay) kelimelerinde bulunur."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "daha iyi hale getirme işi",
+      "translationLong": "geliştirme işlemi veya süreci; bir şeyi daha iyi yapan değişiklik",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "Onun notlarındaki iyileştirme, sıkı çalışmanın sonucuydu."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/doğru",
+          "homeLangDetails": "Doğru veya ilave olarak. Adapt (uyarlamak), admit (kabul etmek), attract (çekmek), arrive (gelmek)."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "dönüş",
+          "homeLangDetails": "Latince vertere'den (dönmek). Advertise kelimesinde, ön ek ad- (doğru, yönünde) + vert (dönüş) 'dikkat çekmek' anlamını verir. Birinin dikkatini bir şeye çevirmek demektir. Aynı kök convert (dönüştürmek), divert (saptırmak) ve avert (döndürmek) kelimelerinde görülür."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize",
+          "homeLangDetails": "Bir şeyi bir niteliğe sahip yapmak veya bir süreci başlatmak. Modernize (modernleştirmek), organize (düzenlemek), realize (gerçekleştirmek)."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "halka yönelik tanıtım",
+      "translationLong": "halkı bilgilendirmek veya ikna etmek amacıyla yayınlanan duyuru veya ilan",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "Yeni ürünün reklamı televizyonda yayınlandı."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "gir/içine"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "tut",
+          "homeLangDetails": "Eski Fransızcadan tenir, Latinceden tenere (tutmak). Bu kök retain (saklamak), maintain (muhafaza etmek), sustain (sürdürmek) ve contain (içermek) kelimelerinde görülür. Hepsi tutma veya saklama anlamını taşır. Entertain kelimesinde 'enter + tain' birini içeri davet etmek ile dikkatini çekmek anlamlarını birleştirir."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "eğlence veya zaman geçirme",
+      "translationLong": "eğlence veya keyif sağlanması; zevk verici bir etkinlik",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "Konser, harika bir akşam eğlencesiydi."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/yeniden",
+          "homeLangDetails": "Tekrarlanmayı veya önceki duruma dönüşü işaret eder. Latinceden re-, İngilizceye ait binlerce kelimede görülür: return (dönüş), rebuild (yeniden inşa), reconsider (yeniden düşün). Genellikle 'yeniden yapma' veya 'geri dönme' anlamında kullanılabilir."
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "sor/ara",
+          "homeLangDetails": "Latince quaerere'den (sormak, aramak). Require kelimesinde re- (yeniden) + quir 'talep etme' veya 'çağırma' anlamını verir. Aynı kök inquiry (soruşturma), inquisition (inceleme) ve query (sorgulama) kelimelerinde görülür."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "gerekli olan şey",
+      "translationLong": "ihtiyaç duyulan şey; zorunlu olan koşul veya nesne",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "Lise diploması çoğu üniversite programı için bir gerekliliktir."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/yeniden",
+          "homeLangDetails": "Tekrarlanmayı veya önceki duruma dönüşü işaret eder. Latinceden re-, İngilizceye ait binlerce kelimede görülür: return (dönüş), rebuild (yeniden inşa), reconsider (yeniden düşün). Genellikle 'yeniden yapma' veya 'geri dönme' anlamında kullanılabilir."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "çek/geri çek",
+          "homeLangDetails": "Eski Fransızcadan tirer (çekmek, çekip almak). Retire kelimesinde re- (yeniden, geri) + tir 'geri çekilme' anlamını verir. Özellikle işten çekilme demektir. Aynı kök tired (yıpranmış, bitkin) kelimesinde görülür."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "işten ayrılma işi",
+      "translationLong": "işin veya görevin kalıcı olarak bırakılması; emekli olma",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "Gelecek yıl için emeklilik planlarını yapıyor."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/aşağı/geri",
+          "homeLangDetails": "Aşağıya, uzaklaşmaya veya bir işi tersine almaya işaret eder. Decrease (azalmak), depart (ayrılmak), deconstruct (parçalamak). Genellikle temel kelimeyi doğrudan tersine çevirir."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "parça"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "bölüm veya şube",
+      "translationLong": "bir kuruluş, şirket veya kurumun bölümü; alt birim",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "Pazarlama bölümünde çalışıyor."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/yeniden",
+          "homeLangDetails": "Tekrarlanmayı veya önceki duruma dönüşü işaret eder. Latinceden re-, İngilizceye ait binlerce kelimede görülür: return (dönüş), rebuild (yeniden inşa), reconsider (yeniden düşün). Genellikle 'yeniden yapma' veya 'geri dönme' anlamında kullanılabilir."
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "yer"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Fiillerden isim yapan ek. İşi, sonucunu veya aracını belirtir. Government (hükümet), movement (hareket), enjoyment (keyif)."
+        }
+      ],
+      "translationShort": "başkasının yerine geçen şey",
+      "translationLong": "başka bir şeyin yerini alan kişi veya nesne",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "Kırık pencere için yedek parça dün geldi."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden-/tekrar",
+          "homeLangDetails": "Tekrarlamayı ya da bir önceki duruma dönüşü ifade eder. Latince re- kökünden gelen bu ön ek İngilizce'de binlerce sözcükte görülür: return, rebuild, reconsider gibi. \"Tekrar yapmak\" ya da \"geri dönmek\" anlamlarıyla kullanılır."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organize"
+        }
+      ],
+      "translationShort": "tekrar organize etmek",
+      "translationLong": "tekrar organize etmek, yeniden yapılandırmak, yeniden düzenlemek",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "Şirket, departmanlarını yeniden yapılandırmaya karar verdi."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden-/tekrar",
+          "homeLangDetails": "Tekrarlamayı ya da bir önceki duruma dönüşü ifade eder. Latince re- kökünden gelen bu ön ek İngilizce'de binlerce sözcükte görülür: return, rebuild, reconsider gibi. \"Tekrar yapmak\" ya da \"geri dönmek\" anlamlarıyla kullanılır."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organize"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yeniden yapılandırma, yeniden düzenleme",
+      "translationLong": "yeniden yapılandırma, yeniden düzenleme, yeniden organize etme süreci",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "Yeniden yapılandırma üç ay sürdü."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden-/tekrar",
+          "homeLangDetails": "Tekrarlamayı ya da bir önceki duruma dönüşü ifade eder. Latince re- kökünden gelen bu ön ek İngilizce'de binlerce sözcükte görülür: return, rebuild, reconsider gibi. \"Tekrar yapmak\" ya da \"geri dönmek\" anlamlarıyla kullanılır."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "introduce"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "En yaygın İngilizce isim eki, Latince kökenlidir. Fiilleri o fiilin eylemini ya da sonucunu adlandıran isimler haline dönüştürür. Construction, permission, explosion gibi. Türkçe'deki -tion ekine benzer."
+        }
+      ],
+      "translationShort": "geri getirme, yeniden yerleştirme",
+      "translationLong": "geri getirme, yeniden yerleştirme, tekrar tanıtma eylemi",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "Kurtsların geri getirilmesi ekosistemi restore etmeye yardım etti."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden-/tekrar",
+          "homeLangDetails": "Tekrarlamayı ya da bir önceki duruma dönüşü ifade eder. Latince re- kökünden gelen bu ön ek İngilizce'de binlerce sözcükte görülür: return, rebuild, reconsider gibi. \"Tekrar yapmak\" ya da \"geri dönmek\" anlamlarıyla kullanılır."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "connect"
+        }
+      ],
+      "translationShort": "tekrar bağlanmak",
+      "translationLong": "tekrar bağlanmak, yeniden birleşmek, iletişimi restore etmek",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Yıllar sonra, bir toplantıda iletişimizi restore ettik."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "yeniden-/tekrar",
+          "homeLangDetails": "Tekrarlamayı ya da bir önceki duruma dönüşü ifade eder. Latince re- kökünden gelen bu ön ek İngilizce'de binlerce sözcükte görülür: return, rebuild, reconsider gibi. \"Tekrar yapmak\" ya da \"geri dönmek\" anlamlarıyla kullanılır."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "cycle"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(İsim haline getirme)"
+        }
+      ],
+      "translationShort": "malzeme geri dönüştürme, döngüsel yeniden kullanım",
+      "translationLong": "malzeme geri dönüştürme, döngüsel yeniden kullanım, atıkların yeni ürünlere dönüştürülme süreci",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Geri dönüştürme, çevresel atıkları azaltmaya yardım eder."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "birlikte-/con-",
+          "homeLangDetails": "Birlikte veya ortaklaşa anlamı taşır. En verimli Latince ön eklerinden biridir. Connect, combine, cooperate, collect gibi sözcüklerde görülür. Yazılış şekli takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "common"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "bilgi alışverişi",
+      "translationLong": "bilgi ya da haber iletişimi ve alışverişi",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "İyi iletişim her ilişkide gereklidir."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "dışarı/ex-",
+          "homeLangDetails": "Dışarı, eski veya uzaklaşma anlamı taşır. Exhale, export, eject, ex-president gibi örnekler vardır."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "öğretme süreci",
+      "translationLong": "öğretme ya da öğrenme süreci, özellikle okullarda",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Eğitim birçok fırsatın kapılarını açar."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içine-/in-",
+          "homeLangDetails": "İki ayrı anlamı olan değişken bir ön ektir: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Takip eden sese göre yazılışı değişir."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "track"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "dikkatli inceleme",
+      "translationLong": "bir şeyin detaylı incelemesi ya da sorgulanması",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "Polis hırsızlığa yönelik bir soruşturma yürüttü."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "içinde-/intra-"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "En yaygın İngilizce isim eki, Latince kökenlidir. Fiilleri o fiilin eylemini ya da sonucunu adlandıran isimler haline dönüştürür. Construction, permission, explosion gibi. Türkçe'deki -tion ekine benzer."
+        }
+      ],
+      "translationShort": "resmi tanıtım",
+      "translationLong": "bir kişinin bir başkasına resmi olarak tanıtılması; bir kitabın ya da konuşmanın başlangıcı",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "Romandaki giriş, ana çatışmayı hazırlar."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "ileri-/pro-",
+          "homeLangDetails": "İleri, lehinde ya da yerine geçme anlamı taşır. Progress, produce, pronoun gibi sözcüklerde görülür."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "lead"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "En yaygın İngilizce isim eki, Latince kökenlidir. Fiilleri o fiilin eylemini ya da sonucunu adlandıran isimler haline dönüştürür. Construction, permission, explosion gibi. Türkçe'deki -tion ekine benzer."
+        }
+      ],
+      "translationShort": "mal üretimi",
+      "translationLong": "bir şeyin yapılması, üretilmesi ya da oluşturulması",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "Fabrika, talebe karşılamak için üretimi artırdı."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/ileriye doğru",
+          "homeLangDetails": "İleriye doğru, bir şeyin lehine veya yerine geçmek anlamına gelir. Progress, produce, pronoun gibi kelimeler bu önekle başlar."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-ses/ses"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bir kelimenin nasıl telaffuz edildiği",
+      "translationLong": "bir kelimenin veya dilin nasıl söylendiği ve telaffuz edildiği",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Onun Fransızca telaffuzu önemli ölçüde gelişti."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/dışına doğru",
+          "homeLangDetails": "Dışına doğru, eski anlamı veya uzaklaştırma anlamında kullanılır. Exhale, export, eject, ex-president gibi kelimeler bu önekle başlar."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "düz/açık"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bir şeyi açıklayan ifade",
+      "translationLong": "bir şeyi anlaşılır hale getiren veya açıklayan ifade ya da açıklama",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "Öğretmen matematiksel kavramı açık bir şekilde açıkladı."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/dışına doğru",
+          "homeLangDetails": "Dışına doğru, eski anlamı veya uzaklaştırma anlamında kullanılır. Exhale, export, eject, ex-president gibi kelimeler bu önekle başlar."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "tartı/ölçü"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "detaylı inceleme",
+      "translationLong": "detaylı inceleme veya test; tıbbi veya akademik test",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "Muayene hastalığın hiçbir belirtisini ortaya koymadı."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/içine doğru",
+          "homeLangDetails": "Garip bir önek, iki tamamen farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Harf yazımı takip eden sese uyum sağlar, bu yüzden ses oyunları oynadığını düşünebilirsin."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "görüntü/imaj"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "zihinsel görüntüler yaratma gücü",
+      "translationLong": "hazır olmayan şeylerin zihinsel görüntülerini veya kavramlarını oluşturma yeteneği",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "Çocukların hayal gücünün sınırı yoktur."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "halk/insan"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bir alan içindeki tüm insanlar",
+      "translationLong": "bir yerin tüm sakinleri; aynı türden canlıların topluluğu",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "Şehrin nüfusu önemli ölçüde arttı."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya yanında demek. En üretken Latin öneklerinden biri. Connect, combine, cooperate, collect gibi kelimeler bunu kullanır. Yazım takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "dön/çevir"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "gayri resmi sohbet",
+      "translationLong": "insanlar arasında fikirler değişimi veya gayri resmi sohbet",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "Seyahat hakkında ilginç bir sohbet yaptık."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya yanında demek. En üretken Latin öneklerinden biri. Connect, combine, cooperate, collect gibi kelimeler bunu kullanır. Yazım takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "topla/derle"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bir araya toplanmış şeyler",
+      "translationLong": "bir araya toplanmış şeyler veya insanlar; toplama eylemi",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Onda etkileyici bir antika kitap koleksiyonu var."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/geri",
+          "homeLangDetails": "Re- burada \"geri\" anlamında kullanılır (Latinca reflectere, \"geri kıvırmak\" anlamından). Işığın geri atılmasını veya düşüncenin kendine döndüğünü açıklar."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "kıvrım/bük"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "ışığın geri atılması",
+      "translationLong": "ışık veya ısının geri atılması; ciddi düşünme veya göz önüne alma",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Aynada yansımasını gördüm."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya yanında demek. En üretken Latin öneklerinden biri. Connect, combine, cooperate, collect gibi kelimeler bunu kullanır. Yazım takip eden sese göre değişir."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "bağla/ilet"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "bir ilişki veya bağlantı",
+      "translationLong": "şeyler arasındaki ilişki veya bağlantı; bağlanma eylemi",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "Egzersiz ile iyi sağlık arasında güçlü bir bağlantı vardır."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/ileriye doğru",
+          "homeLangDetails": "İleriye doğru, bir şeyin lehine veya yerine geçmek anlamına gelir. Progress, produce, pronoun gibi kelimeler bu önekle başlar."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "örtü/kapa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-yon"
+        }
+      ],
+      "translationShort": "zarardan koruma",
+      "translationLong": "birini veya bir şeyi zarar veya yaralanmadan güvende tutma eylemi",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "Siber saldırılara karşı daha iyi korunmaya ihtiyacımız var."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "içine-",
+          "homeLangDetails": "Bu ön ek iki farklı anlama sahip bir şekil değiştiren ekliktir: \"değil\" anlamında (inactive, impossible) ve \"içine\" anlamında (insert, import). Yazılışı takip eden sese uyum sağlar."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "çağır"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "davet",
+      "translationLong": "birini bir yere gitmeye çağırma; katılmaya davet etme",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "Düğüne davet aldım."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "önce",
+          "homeLangDetails": "Zaman veya konum olarak önce. Predict, prepare, prehistoric gibi örnekler."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "hazırla"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "hazırlık",
+      "translationLong": "birşeyi hazır hale getirme süreci; önceden planlama",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "İyi hazırlık başarı için gereklidir."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "gövde/araç"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize",
+          "homeLangDetails": "Bir şeye özellik kazandırmak veya bir işlemi başlatmak. Modernize, organize, realize gibi örnekler."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "organizasyon",
+      "translationLong": "ortak bir amaç taşıyan insanlar grubu; düzenli bir şekilde düzenleme işlemi",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "Bu organizasyon ihtiyaç duyanların yardımına çalışır."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "basit"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Bir şeyi yapmak veya olmak. Simplify, clarify, intensify gibi örnekler."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "basitleştirme",
+      "translationLong": "bir şeyi daha basit veya daha az karmaşık hale getirme işlemi",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "Kuralların basitleştirilmesi oyunu daha kolay oynanır hale getirdi."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "yeter"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "yap/et"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "memnuniyet",
+      "translationLong": "içinde rahat ve tatmin olma durumu; doyum",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Müşteri memnuniyeti bizim en önemli önceliğimizdir."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "nitelik/uygun"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Bir şeyi yapmak veya olmak. Simplify, clarify, intensify gibi örnekler."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "nitelik",
+      "translationLong": "birini bir şey için uygun kılan beceri, yetenek veya belge; niteleme işlemi",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "Bu iş için gerekli niteliklere sahip."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "aynı"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Bir şeyi yapmak veya olmak. Simplify, clarify, intensify gibi örnekler."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "kimlik tanıması",
+      "translationLong": "birinin veya bir şeyin kim veya ne olduğunu tanıma veya kanıtlama işlemi; kimliği gösteren belge",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "Girmek için fotoğraflı kimlik belgesi gerekli."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "dış-",
+          "homeLangDetails": "Dışarı, eski veya uzağa anlamını taşır. Exhale, export, eject, ex-president gibi örnekler."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "güç/değer"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "değerlendirme",
+      "translationLong": "bir şeyin değerini veya kalitesini ölçme veya belirleme işlemi",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "Öğretmen öğrenci ilerlemesinin bir değerlendirmesini yapacak."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "alt-",
+          "homeLangDetails": "Over- (üstünde) kelimesinin karşıtı. Aşağıda anlamında (underground) veya yeterli olmamak anlamında (underestimate) kullanılabilir."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "dur"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir olma. Readable, comfortable, possible gibi örnekler."
+        }
+      ],
+      "translationShort": "anlaşılabilir",
+      "translationLong": "anlaşılabilecek; kavranabilir",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "Talimatlar açık ve anlaşılabilir."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "gücü yetişebilir"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir olma. Readable, comfortable, possible gibi örnekler."
+        }
+      ],
+      "translationShort": "uygun fiyatlı",
+      "translationLong": "karşılanabilecek; makul fiyatlı",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "Şehirde uygun fiyatlı bir daire bulduk."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "güvenmek"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "güvenilir",
+      "translationLong": "güvenilir; bağlı kalınabilen",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "O, her zaman yardım eden güvenilir bir arkadaştır."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "inanmak"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "inanılmaz",
+      "translationLong": "şaşırtıcı; inanması zor; olağanüstü",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "Bu inanılmaz bir performanstı!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "görmek"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "görünmez",
+      "translationLong": "görülemez; gözden gizli",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "Leke çıplak gözle görünmez durumda idi."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "mümkün"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "imkansız",
+      "translationLong": "yapılamaz ya da gerçekleşemez; mümkün değil",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Bulmacayı çözmek imkansız gibi görünüyordu."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "cevap vermek"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "sorumsutz",
+      "translationLong": "sorumlu olmayan; güvenilmez ya da hesap verebilir olmayan",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "İşten erken ayrılmak sorumsuzluk olurdu."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "geri çevirmek"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "geri döndürülemez",
+      "translationLong": "geri döndürülemez ya da geri alınamaz",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "İklim değişikliği çevreye geri döndürülemez zararlar verebilir."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Bu ön ek oyunbaz gibi davranır ve iki farklı anlamı vardır: \"değil\" (inactive, impossible, illegal) ve \"içine\" (insert, import). Ardından gelen sesin etkisiyle yazılışı değişir."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "yıkmak"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Yapılabilir anlamı taşır. Readable (okunabilir), comfortable (rahat), possible (mümkün) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "yok edilemez",
+      "translationLong": "yok edilemez ya da kırılmaz",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Anıt yok edilemez olacak şekilde inşa edilmişti."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "arasında",
+          "homeLangDetails": "Arasında ya da ortasında anlamı taşır. International, interrupt, interact gibi kelimelerde bu ön ek görülür."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "ulus"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "İlgili olmak ya da doğası gereği anlamını taşır. Musical (müziksel), natural (doğal), industrial (endüstriyel) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "uluslar arası",
+      "translationLong": "iki ya da daha fazla ulusla ilgili ya da bu ulusları içeren",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "O, uluslararası bir kuruluşta çalışıyor."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "üstünde",
+          "homeLangDetails": "Üstünde, yukarıda ya da olağanüstü anlamı taşır. Superman, superior, supernatural gibi kelimelerde bu ön ek görülür."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "doğa"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "İlgili olmak ya da doğası gereği anlamını taşır. Musical (müziksel), natural (doğal), industrial (endüstriyel) gibi kelimeler bu eke sahiptir."
+        }
+      ],
+      "translationShort": "doğaüstü",
+      "translationLong": "doğa yasaları dışında ya da ötesinde",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "Film doğaüstü yaratıklar ve hayaletler içeriyor."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "önce",
+          "homeLangDetails": "Zaman ya da konum bakımından öncesi anlamı taşır. Predict, prepare, prehistoric gibi kelimelerde bu ön ek görülür."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "tarihi"
+        }
+      ],
+      "translationShort": "yazılı tarihten önce",
+      "translationLong": "yazılı tarihî kayıtlardan önceki zamanla ilgili",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinozorlar tarih öncesi çağlarda dünyada yaşadı."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "karşı",
+          "homeLangDetails": "Karşı, muhalif anlamında kullanılır. Antiwar (savaş karşıtı), antibiotic (bakteriye karşı), anticipate (önceden tahmin etmek)."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "yaşam",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-ik"
+        }
+      ],
+      "translationShort": "bakterilere karşı ilaç",
+      "translationLong": "bakterileri öldüren veya çoğalmasını durduran ilaç",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "Doktor enfeksiyona karşı bir antibiyotik reçete etti."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "altında",
+          "homeLangDetails": "Altında, aşağıda veya ikincil anlamında. Subway (metro), submarine (denizaltı), substitute (yedek)."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "deniz"
+        }
+      ],
+      "translationShort": "sualtı gemisi",
+      "translationLong": "sualtında çalışan, özellikle askeri bir savaş gemisi",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "Denizaltı okyanusun derin derinliklerine indi."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "kendi",
+          "homeLangDetails": "Kendi anlamında. Autobiography (biyografi), automatic (otomatik), automobile (otomobil)."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "hareket"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-li"
+        }
+      ],
+      "translationShort": "kendi başına, insan müdahalesi olmadan",
+      "translationLong": "insanın müdahalesi olmadan kendi kendine gerçekleşen veya çalışan bir şekilde",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "Kapı yaklaştığında otomatik olarak açılır."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "uzak",
+          "homeLangDetails": "Uzaktan, mesafeli anlamında. Telephone (telefon), television (televizyon), telescope (teleskop)."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "görüş"
+        }
+      ],
+      "translationShort": "uzaktan görüntü izleme",
+      "translationLong": "hareketli görüntü ve sesi mesafeli olarak iletip alan bir sistem",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Her akşam televizyon izler."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "halk"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "yönetim"
+        }
+      ],
+      "translationShort": "halkın yönetimi",
+      "translationLong": "iktidarın halkta olduğu bir yönetim sistemi",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Demokrasi tüm vatandaşların aktif katılımını gerektirir."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "yer",
+          "homeLangDetails": "Yer, toprak anlamında. Geography (coğrafya), geology (jeoloji), geometry (geometri)."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafi",
+          "homeLangDetails": "Yazı, kayıt anlamında. Photography (fotoğraf), biography (biyografi), autograph (otograf)."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "yerin tanımlanması",
+      "translationLong": "yerler, halklar ve dünyanın fiziksel özelliklerini inceleme alanı",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Coğrafya dersi farklı bölgeleri ve kültürleri öğretir."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "sorumlu"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-lik"
+        }
+      ],
+      "translationShort": "görev veya yükümlülük",
+      "translationLong": "kişinin kendi eylem veya kararlarından sorumlu olma durumu",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Büyük güçle birlikte büyük sorumluluk gelir."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "kişi"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-lik"
+        }
+      ],
+      "translationShort": "bireysel karakter",
+      "translationLong": "bir bireyin ayırt edici özellikleri ve nitelikleri",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Onun açık sözlü kişiliği onu herkes tarafından popüler kılıyor."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "popüler"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-lik",
+          "homeLangDetails": "Latince kökenli, Türkçe '-lik' gibi işlev görür. Sıfatlardan soyut isimler türetir. Equality (eşitlik), electricity (elektrik), reality (gerçeklik)."
+        }
+      ],
+      "translationShort": "sevilme durumu",
+      "translationLong": "birçok kişi tarafından sevilme, beğenilme veya zevk alınma niteliği",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "Grubun popülaritesi dünya çapında arttı."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "elektrik"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-lik",
+          "homeLangDetails": "Latince kökenli, Türkçe '-lik' gibi işlev görür. Sıfatlardan soyut isimler türetir. Equality (eşitlik), electricity (elektrik), reality (gerçeklik)."
+        }
+      ],
+      "translationShort": "elektrik enerjisi",
+      "translationLong": "elektronların bir iletken içinde hareket etmesinden kaynaklanan enerji biçimi",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "Çoğu modern ev elektrik gücüne bağımlıdır."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "çalıştır"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "İşi yapan kişi veya şeyi ifade eden bir ek. Öğretmen, oyuncu, şoför, bilgisayar gibi. Türkçedeki '-ci' ekine benzer şekilde çalışır."
+        }
+      ],
+      "translationShort": "çalıştıran kişi",
+      "translationLong": "çalışanları işe alan kişi veya kuruluş; işletme sahibi veya yöneticisi",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "İşveren, en iyi yetenekleri çekmek için rekabetçi yan haklar sundu."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "çalıştır"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "Fransızca kökenli bu ek, bir işlemin nesnesi olan, yani o işi yapılan kişiyi gösterir. İşveren (işi yapan) ile çalışan (işi yapılan) arasındaki farkı görmek ilginç. Aynı ek interviewee, trainee ve payee gibi kelimalarda da görülür."
+        }
+      ],
+      "translationShort": "çalıştırılan kişi",
+      "translationLong": "karşılık olarak ödeme alan bir işverenin yanında çalışan kişi",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Şirketteki her çalışan sağlık sigortası alıyor."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "fotoğraf",
+          "homeLangDetails": "Yunanca phōtos (ışık) kökenli bir bileşik form. Işık ve görüntü ile ilgili birçok kelimede görülür: photograph, photosynthesis, photogenic. Fotoğraf kelimeleri aslında 'ışıkla yazmak' anlamına geliyor."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-",
+          "homeLangDetails": "Yazı yazmak veya kaydı tutmak. Fotoğraf, biyografi, imza."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "İşi yapan kişi veya şeyi ifade eden bir ek. Öğretmen, oyuncu, şoför, bilgisayar gibi."
+        }
+      ],
+      "translationShort": "fotoğraf çeken kişi",
+      "translationLong": "meslek veya hobi olarak fotoğraf çeken kişi",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "Fotoğrafçı düğünde muhteşem görüntüler yakaladı."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "araştır"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "-er ekinin daha resmi ya da Latince kökenli bağlamlarda kullanılan biçimi. Her ikisi de 'işi yapan' anlamına gelir ama -or, investigator, senator, actor, instructor gibi Latince kökenli kelimalarda daha yaygındır."
+        }
+      ],
+      "translationShort": "araştırma yapan kişi",
+      "translationLong": "araştırma yapan kişi; çoğunlukla kanıt veya bilgi toplayan profesyonel",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "Araştırmacı suç mahallinde ipuçları arayarak incelemeler yaptı."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "iletişim"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "İşi yapan kişi veya şeyi ifade eden bir ek. Öğretmen, oyuncu, şoför, bilgisayar gibi."
+        }
+      ],
+      "translationShort": "iletişim kuran kişi",
+      "translationLong": "etkin şekilde iletişim kuran veya meslek olarak iletişim sağlayan kişi; bilgi aktarımda yetenekli birisi",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "İyi bir iletişimci olarak halka açık konuşmalarda harikadır."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya beraber anlamını taşır. En verimli Latince öneklerinden biri. Connect, combine, cooperate, collect gibi kelimilarda görülür. Yazılışı sonraki sesin uyması için değişir."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "ortak"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "İsim veya sıfatı fiilleştiren bir sonek. 'iletişim-' kelimesini 'o eylemi yapmak' veya 'o durumda olmak' anlamında bir fiil haline getirir."
+        }
+      ],
+      "translationShort": "bilgi paylaşmak",
+      "translationLong": "bilgi paylaşmak, anlam iletmek, fikirler değiş tokuş etmek",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "Fikirlerimizi takıma açıkça iletmemiz gerekiyor."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/değil veya içine",
+          "homeLangDetails": "İki ayrı anlamı olan esnek bir önek. 'Değil' anlamında kullanılır (inactive, impossible, illegal) ve 'içine' anlamında da (insert, import). Yazılışı sonraki sesin uyması için değişir."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "iz/ayak",
+          "homeLangDetails": "Latince vestigium (ayak izi, iz) kökenli. Aynı kök vestige (kalan iz) ve investigator (izleri takip eden) kelimelerinde de görülür."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Kökleri fiilleştiren bir sonek. İzleri veya ipuçlarını takip etmek veya incelemek anlamında bir fiil oluşturur."
+        }
+      ],
+      "translationShort": "dikkatle incelemek",
+      "translationLong": "dikkatle incelemek, araştırmak, soruşturma yapmak",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "Polis yarın suç mahallini araştıracak."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya beraber anlamını taşır. En verimli Latince öneklerinden biri. Connect, combine, cooperate, collect gibi kelimilarda görülür. Yazılışı sonraki sesin uyması için değişir."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "iş"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "'iş'i fiilleştiren bir sonek. Beraber çalışmak anlamını oluşturur."
+        }
+      ],
+      "translationShort": "beraber çalışmak",
+      "translationLong": "beraber çalışmak, işbirliği yapmak",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "Bu projede başka bölümlerden meslektaşlarımızla işbirliği yapacağız."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "pay",
+          "homeLangDetails": "Latince pars (pay) kökenli. Sonraki -icip- ile birleşerek 'bir şeyde pay sahibi olmak' veya 'katılmak' anlamı oluşturur."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "al",
+          "homeLangDetails": "Latince capere (almak) kökenli. Participium (Latince 'ortaklaşa alanlar' terimi) 'pay' + 'almak' ile bir şeye katılmak anlamını oluşturur."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Fiilleştiren bir sonek."
+        }
+      ],
+      "translationShort": "katılmak",
+      "translationLong": "katılmak, işin içine girmek, bir şeye dahil olmak",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Tüm öğrenciler sınıf tartışmasına katılmalı."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte veya beraber anlamını taşır. En verimli Latince öneklerinden biri. Connect, combine, cooperate, collect gibi kelimilarda görülür. Yazılışı sonraki sesin uyması için değişir."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "lütuf",
+          "homeLangDetails": "Latince gratus (hoş gelen, müteşekkir) kökenli. Grace, grateful ve gratitude gibi kelimelerinde de görülür. Hepsi hoşluk ve iyi niyet ile ilgilidir."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "Hafifletici ve tekrarlayıcı fiilleştirici bir sonek. Eylemi yumuşatır veya tekrarlar. Burada birinin başarısı için sıcak ve tekrarlayan bir şekilde hoşnutluk ifade etmek anlamını taşır."
+        }
+      ],
+      "translationShort": "bir başarı için kutlamak",
+      "translationLong": "bir başarı için kutlamak, hoşnutluk veya iyi niyet ifade etmek",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Seni harika performansın için kutlamak istiyorum!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "yanlış-/hatalı",
+          "homeLangDetails": "Bir şeyin yanlış ya da kötü yapıldığını gösterir. Misunderstand, mistake, misrepresent gibi kelimeler bunu kulllanır. Türkçede 'yanlış' ön eki gibi işlev görür."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/arasında",
+          "homeLangDetails": "Arası, arasında anlamında kullanılır. International, interrupt, interact gibi kelimeler bu ön eki taşır. İngilizce'de oldukça sık rastlanır."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "açıklamak",
+          "homeLangDetails": "Latin praetere veya prae (önce) + ire (gitmek) kökünden gelir. Inter- ve pret- birleştiğinde 'arasındaki anlamı açıklamak' anlamı çıkar. Başına mis- gelince bu anlam tersine döner: yanlış açıklamak."
+        }
+      ],
+      "translationShort": "yanlış anlamak",
+      "translationLong": "yanlış anlamak, hatalı şekilde açıklamak veya yorumlamak",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Sözlerimimi yanlış anlama; iyi niyetle söyledim."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/aşağıya/geri",
+          "homeLangDetails": "Aşağı yönüne, uzağa veya bir eylemin tersine işaret eder. Decrease, depart, deconstruct gibi örnekler vardır. Çoğu zaman temel kelimeyi ters yüz eder. Türkçedeki 'ayırmak' ön eki gibi işlev görür."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/birlikte",
+          "homeLangDetails": "Birlikte, beraber anlamında. İngilizce'nin en verimli Latin ön eklerinden biri. Connect, combine, cooperate, collect gibi kelimeler bunu kullanır. Yazılış hep aynı değildir, sonraki sese göre değişir."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "inşa etmek"
+        }
+      ],
+      "translationShort": "analitik olarak parçalamak",
+      "translationLong": "parçalamak, sökmek, bileşenlerine ayırarak analiz etmek",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "Bu seminerde metindeki ana argümanları analiz edip parçalayacağız."
+    }
+  ]
+}

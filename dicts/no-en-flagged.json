@@ -1,0 +1,203 @@
+{
+  "words": [
+    {
+      "id": "drikkevannn",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "drikke",
+          "homeLang": "drink"
+        },
+        {
+          "targetLang": "vann",
+          "homeLang": "water"
+        }
+      ],
+      "translationShort": "drinking water",
+      "translationLong": "",
+      "exampleSentence": "Det er viktig å ha rent drikkevann tilgjengelig.",
+      "exampleTranslation": "It is important to have clean drinking water available.",
+      "flag": "Word appears to have a typo: 'drikkevannn' has three n's. Entry created as written but likely intended as 'drikkevann'."
+    },
+    {
+      "id": "fotballspiller",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fot",
+          "homeLang": "foot"
+        },
+        {
+          "targetLang": "ball",
+          "homeLang": "ball"
+        },
+        {
+          "targetLang": "spill",
+          "homeLang": "play, game"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er (person)"
+        }
+      ],
+      "translationShort": "football player",
+      "translationLong": "soccer player, football player",
+      "exampleSentence": "Han drømmer om å bli en profesjonell fotballspiller.",
+      "exampleTranslation": "He dreams of becoming a professional football player.",
+      "flag": "4 parts — included all to show full compound structure"
+    },
+    {
+      "id": "friluftsliv",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "fri",
+          "homeLang": "free, open"
+        },
+        {
+          "targetLang": "luft",
+          "homeLang": "air"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element inserted between compound parts for ease of pronunciation and to signal the join. It carries no independent meaning."
+        },
+        {
+          "targetLang": "liv",
+          "homeLang": "life"
+        }
+      ],
+      "translationShort": "outdoor life",
+      "translationLong": "outdoor life, open-air living, connection with nature",
+      "exampleSentence": "Friluftsliv er en viktig del av norsk kultur.",
+      "exampleTranslation": "Outdoor life is an important part of Norwegian culture.",
+      "flag": "4 parts — included all to show full compound structure"
+    },
+    {
+      "id": "pedagogisk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pedagogisk",
+          "homeLang": "pedagogical"
+        }
+      ],
+      "translationShort": "pedagogical, educational",
+      "translationLong": "pedagogical, educational, relating to teaching",
+      "flag": "only 1 part — borrowed international word with no productive Norwegian morpheme split",
+      "exampleSentence": "Hun har en god pedagogisk tilnærming til vanskelige temaer.",
+      "exampleTranslation": "She has a good pedagogical approach to difficult topics."
+    },
+    {
+      "id": "samfunnsliv",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sam",
+          "homeLang": "together",
+          "homeLangDetails": "A common Norwegian prefix meaning 'together' or 'jointly'. Here it combines with 'funn' to form 'samfunn' (society)."
+        },
+        {
+          "targetLang": "funn",
+          "homeLang": "found/bound",
+          "homeLangDetails": "Related to the verb 'finne' (to find) and the idea of something established or bound together. 'Samfunn' as a whole means 'society' — a community of people bound together."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element (fugeform) inserted between compound parts. It carries no independent meaning."
+        },
+        {
+          "targetLang": "liv",
+          "homeLang": "life"
+        }
+      ],
+      "translationShort": "social life",
+      "translationLong": "social life, community life, civic life",
+      "exampleSentence": "Samfunnslivet i den lille byen var veldig aktivt.",
+      "exampleTranslation": "The social life in the small town was very active.",
+      "flag": "4 parts — samfunn is itself a compound (sam + funn)"
+    },
+    {
+      "id": "statsborgere",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "stats",
+          "homeLang": "state's",
+          "homeLangDetails": "From 'stat' (state, nation). The -s here is a genitive/linking element connecting the two parts of the compound, meaning 'of the state.'"
+        },
+        {
+          "targetLang": "borg",
+          "homeLang": "castle/fortress",
+          "homeLangDetails": "From 'borg' (fortress, stronghold). The idea is that a citizen is someone who 'belongs to the fortress' — historically tied to those who lived within a fortified settlement."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "A noun-forming suffix meaning 'one who belongs to' or 'inhabitant of.' Here it makes 'borger' — a citizen, literally 'one of the fortress.'"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(plural)",
+          "homeLangDetails": "The plural ending on the noun, giving 'statsborgere' — citizens (of the state)."
+        }
+      ],
+      "translationShort": "citizens",
+      "translationLong": "citizens, nationals",
+      "exampleSentence": "Alle statsborgere har rett til å stemme ved valg.",
+      "exampleTranslation": "All citizens have the right to vote in elections.",
+      "flag": "5 parts"
+    },
+    {
+      "id": "helårsjobb",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "hel",
+          "homeLang": "whole, full"
+        },
+        {
+          "targetLang": "år",
+          "homeLang": "year"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "jobb",
+          "homeLang": "job"
+        }
+      ],
+      "translationShort": "year-round job",
+      "translationLong": "full-year job, year-round employment",
+      "exampleSentence": "Hun drømte om en helårsjobb i turistnæringen.",
+      "exampleTranslation": "She dreamed of a year-round job in the tourism industry.",
+      "flag": "4 parts — straightforward compound, no reduction needed"
+    },
+    {
+      "id": "urimelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "not, un-",
+          "homeLangDetails": "Works just like English \"un-\" to flip a word negative. You'll spot it constantly: \"uheldig\" (unlucky), \"umulig\" (impossible), \"uvanlig\" (unusual). If you know the positive form, slapping u- on the front almost always gives you the opposite."
+        },
+        {
+          "targetLang": "rimelig",
+          "homeLang": "reasonable, fair",
+          "homeLangDetails": "From rim (rhyme, fitting proportion) + -elig (-able, -like). Rimelig means 'reasonable' or 'fair' — something that 'rhymes' with expectations, that fits. Also used to mean 'affordable.' So urimelig = not fitting, not fair, unreasonable."
+        }
+      ],
+      "translationShort": "unreasonable, unfair",
+      "translationLong": "unreasonable, unfair, excessive, outrageous",
+      "exampleSentence": "Det er urimelig å forvente det av ham.",
+      "exampleTranslation": "It is unreasonable to expect that of him.",
+      "flag": "only 2 parts — rimelig is best treated as a single opaque root in context"
+    }
+  ]
+}

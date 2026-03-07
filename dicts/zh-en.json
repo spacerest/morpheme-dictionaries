@@ -1,0 +1,3628 @@
+{
+  "words": [
+    {
+      "id": "电话",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "话",
+          "homeLang": "speech, talk"
+        }
+      ],
+      "translationShort": "telephone",
+      "translationLong": "telephone, phone call",
+      "exampleSentence": "我给你打电话。",
+      "exampleTranslation": "I'll give you a call."
+    },
+    {
+      "id": "图书馆",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "图书",
+          "homeLang": "books, literature"
+        },
+        {
+          "targetLang": "馆",
+          "homeLang": "hall, building"
+        }
+      ],
+      "translationShort": "library",
+      "translationLong": "",
+      "exampleSentence": "她每天去图书馆看书。",
+      "exampleTranslation": "She goes to the library to read every day."
+    },
+    {
+      "id": "自动车",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "动",
+          "homeLang": "move"
+        },
+        {
+          "targetLang": "车",
+          "homeLang": "vehicle, car"
+        }
+      ],
+      "translationShort": "automobile",
+      "translationLong": "automobile, motor vehicle",
+      "exampleSentence": "他买了一辆新的自动车。",
+      "exampleTranslation": "He bought a new automobile."
+    },
+    {
+      "id": "电脑",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "脑",
+          "homeLang": "brain"
+        }
+      ],
+      "translationShort": "computer",
+      "translationLong": "",
+      "exampleSentence": "我用电脑写作业。",
+      "exampleTranslation": "I use the computer to do my homework."
+    },
+    {
+      "id": "手机",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "手",
+          "homeLang": "hand"
+        },
+        {
+          "targetLang": "机",
+          "homeLang": "machine, device"
+        }
+      ],
+      "translationShort": "mobile phone",
+      "translationLong": "mobile phone, cell phone, smartphone",
+      "exampleSentence": "他的手机没电了。",
+      "exampleTranslation": "His phone ran out of battery."
+    },
+    {
+      "id": "飞机",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "飞",
+          "homeLang": "fly"
+        },
+        {
+          "targetLang": "机",
+          "homeLang": "machine, device"
+        }
+      ],
+      "translationShort": "airplane",
+      "translationLong": "airplane, aircraft",
+      "exampleSentence": "我们坐飞机去北京。",
+      "exampleTranslation": "We're taking a plane to Beijing."
+    },
+    {
+      "id": "火车",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "火",
+          "homeLang": "fire"
+        },
+        {
+          "targetLang": "车",
+          "homeLang": "vehicle, car"
+        }
+      ],
+      "translationShort": "train",
+      "translationLong": "",
+      "exampleSentence": "火车八点出发。",
+      "exampleTranslation": "The train departs at eight o'clock."
+    },
+    {
+      "id": "地铁",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "地",
+          "homeLang": "ground, earth"
+        },
+        {
+          "targetLang": "铁",
+          "homeLang": "iron, metal",
+          "homeLangDetails": "Short for 铁路 (tiělù), meaning 'iron road' or railway. So 地铁 is literally 'underground railway,' with 铁 standing in for the full word for rail/railway."
+        }
+      ],
+      "translationShort": "subway, metro",
+      "translationLong": "subway, metro, underground railway",
+      "exampleSentence": "我每天坐地铁上班。",
+      "exampleTranslation": "I take the subway to work every day."
+    },
+    {
+      "id": "汽车",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "汽",
+          "homeLang": "steam, vapor"
+        },
+        {
+          "targetLang": "车",
+          "homeLang": "vehicle, car"
+        }
+      ],
+      "translationShort": "car, automobile",
+      "translationLong": "car, automobile, motor vehicle",
+      "exampleSentence": "他开汽车去上班。",
+      "exampleTranslation": "He drives a car to work."
+    },
+    {
+      "id": "自行车",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "行",
+          "homeLang": "move, travel"
+        },
+        {
+          "targetLang": "车",
+          "homeLang": "vehicle, car"
+        }
+      ],
+      "translationShort": "bicycle",
+      "translationLong": "bicycle, bike",
+      "exampleSentence": "她骑自行车去学校。",
+      "exampleTranslation": "She rides her bicycle to school."
+    },
+    {
+      "id": "学校",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study, learn"
+        },
+        {
+          "targetLang": "校",
+          "homeLang": "school, institution"
+        }
+      ],
+      "translationShort": "school",
+      "translationLong": "",
+      "exampleSentence": "孩子们在学校里学习。",
+      "exampleTranslation": "The children study at school."
+    },
+    {
+      "id": "大学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big, great"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study, learning"
+        }
+      ],
+      "translationShort": "university",
+      "translationLong": "university, college",
+      "exampleSentence": "他考上了一所好大学。",
+      "exampleTranslation": "He got into a good university."
+    },
+    {
+      "id": "中学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "中",
+          "homeLang": "middle"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study, school"
+        }
+      ],
+      "translationShort": "middle school",
+      "translationLong": "middle school, secondary school",
+      "exampleSentence": "我弟弟现在上中学。",
+      "exampleTranslation": "My younger brother is in middle school now."
+    },
+    {
+      "id": "小学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small, little"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study, school"
+        }
+      ],
+      "translationShort": "elementary school",
+      "translationLong": "elementary school, primary school",
+      "exampleSentence": "她在附近的小学教书。",
+      "exampleTranslation": "She teaches at the nearby elementary school."
+    },
+    {
+      "id": "医院",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "医",
+          "homeLang": "medicine, heal"
+        },
+        {
+          "targetLang": "院",
+          "homeLang": "courtyard, institution"
+        }
+      ],
+      "translationShort": "hospital",
+      "translationLong": "",
+      "exampleSentence": "他生病了，去了医院。",
+      "exampleTranslation": "He was sick and went to the hospital."
+    },
+    {
+      "id": "银行",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "银",
+          "homeLang": "silver"
+        },
+        {
+          "targetLang": "行",
+          "homeLang": "trade/business",
+          "homeLangDetails": "行 (háng) here means a trade, profession, or commercial establishment — not the more common reading xíng meaning 'to walk' or 'to do.' It appears in words like 银行 (bank), 行业 (industry), and 旅行社 (travel agency). Think of it as 'the silver trade' or 'silver business.'"
+        }
+      ],
+      "translationShort": "bank",
+      "translationLong": "bank (financial institution)",
+      "exampleSentence": "我需要去银行取钱。",
+      "exampleTranslation": "I need to go to the bank to withdraw money."
+    },
+    {
+      "id": "图书馆",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "图书",
+          "homeLang": "books/maps",
+          "homeLangDetails": "图 means 'picture' or 'map' and 书 means 'book' — together 图书 is a formal compound meaning 'books and documents' or simply 'books' in a literary/institutional sense. You'll see 图书 in formal contexts like libraries and publishing, rather than casually buying a book."
+        },
+        {
+          "targetLang": "馆",
+          "homeLang": "hall/venue",
+          "homeLangDetails": "馆 denotes a building or venue designated for a particular public or cultural purpose. It appears in 博物馆 (museum), 餐馆 (restaurant), and 体育馆 (gymnasium) — whenever something is a dedicated public facility or hall."
+        }
+      ],
+      "translationShort": "library",
+      "translationLong": "public library",
+      "exampleSentence": "我每周末都去图书馆看书。",
+      "exampleTranslation": "I go to the library to read every weekend."
+    },
+    {
+      "id": "超市",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "超",
+          "homeLang": "super-/exceed"
+        },
+        {
+          "targetLang": "市",
+          "homeLang": "market"
+        }
+      ],
+      "translationShort": "supermarket",
+      "translationLong": "supermarket, grocery store",
+      "exampleSentence": "妈妈去超市买蔬菜了。",
+      "exampleTranslation": "Mom went to the supermarket to buy vegetables."
+    },
+    {
+      "id": "餐厅",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "餐",
+          "homeLang": "meal/dining"
+        },
+        {
+          "targetLang": "厅",
+          "homeLang": "hall/room",
+          "homeLangDetails": "厅 refers to a hall or main room in a building. It appears in 客厅 (living room), 大厅 (lobby/main hall), and 餐厅 (dining hall/restaurant). The idea is a room or space designated for a specific activity."
+        }
+      ],
+      "translationShort": "restaurant",
+      "translationLong": "restaurant, dining hall",
+      "exampleSentence": "我们去那家新开的餐厅吃晚饭吧。",
+      "exampleTranslation": "Let's go eat dinner at that newly opened restaurant."
+    },
+    {
+      "id": "电影院",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电影",
+          "homeLang": "movie/film",
+          "homeLangDetails": "电影 is itself a compound: 电 (electricity/electric) + 影 (shadow/image). Together they mean 'electric shadow' — a vivid description of early cinema projected on a screen. It is the standard modern word for 'movie' or 'film.'"
+        },
+        {
+          "targetLang": "院",
+          "homeLang": "courtyard/venue",
+          "homeLangDetails": "院 originally meant a courtyard or enclosed compound, and extended to mean an institution or facility. It shows up in 医院 (hospital), 学院 (college), 法院 (court), and 电影院 (cinema) — all places with an institutional or enclosed character."
+        }
+      ],
+      "translationShort": "cinema, movie theater",
+      "translationLong": "cinema, movie theater",
+      "exampleSentence": "他们周五晚上去电影院看了一部新片。",
+      "exampleTranslation": "They went to the cinema to watch a new film on Friday night."
+    },
+    {
+      "id": "书店",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "书",
+          "homeLang": "book"
+        },
+        {
+          "targetLang": "店",
+          "homeLang": "shop/store"
+        }
+      ],
+      "translationShort": "bookstore",
+      "translationLong": "bookstore, bookshop",
+      "exampleSentence": "这家书店里有很多中文小说。",
+      "exampleTranslation": "This bookstore has many Chinese novels."
+    },
+    {
+      "id": "公司",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "公",
+          "homeLang": "public/shared",
+          "homeLangDetails": "公 conveys the idea of something common, shared, or official — as opposed to private (私). In 公司 it contributes the sense of a jointly-held or collectively-run enterprise. The same character appears in 公园 (public park) and 公共 (public/communal)."
+        },
+        {
+          "targetLang": "司",
+          "homeLang": "manage/oversee",
+          "homeLangDetails": "司 means to manage or be in charge of something. It appears in 司机 (driver, literally 'one who manages the machine') and 司法 (judiciary, 'managing the law'). In 公司, it adds the sense of an organization that manages shared affairs — a company."
+        }
+      ],
+      "translationShort": "company, corporation",
+      "translationLong": "company, corporation, firm",
+      "exampleSentence": "她在一家外资公司工作。",
+      "exampleTranslation": "She works at a foreign-funded company."
+    },
+    {
+      "id": "工厂",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "工",
+          "homeLang": "work/labor"
+        },
+        {
+          "targetLang": "厂",
+          "homeLang": "factory/plant",
+          "homeLangDetails": "厂 (chǎng) is a character that on its own means factory or workshop, and is also used as a radical suggesting a shed or covered structure. It appears in 工厂 (factory), 厂房 (factory building), and place names of industrial sites. It is closely connected to the idea of a large production space."
+        }
+      ],
+      "translationShort": "factory",
+      "translationLong": "factory, manufacturing plant",
+      "exampleSentence": "他父亲在城郊的一家工厂上班。",
+      "exampleTranslation": "His father works at a factory on the outskirts of the city."
+    },
+    {
+      "id": "机场",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "机",
+          "homeLang": "machine/aircraft",
+          "homeLangDetails": "机 has a broad meaning of 'machine' or 'device,' but in aviation contexts it specifically refers to aircraft — as in 飞机 (airplane, literally 'flying machine'). In 机场, it clearly means aircraft, making 机场 the 'aircraft ground/field.'"
+        },
+        {
+          "targetLang": "场",
+          "homeLang": "field/ground",
+          "homeLangDetails": "场 (chǎng) means an open area or field designated for a specific activity. It appears in 广场 (plaza/square), 操场 (sports field), 市场 (market), and 机场 (airport). The core idea is an open space or venue for a particular purpose."
+        }
+      ],
+      "translationShort": "airport",
+      "translationLong": "airport",
+      "exampleSentence": "我们需要提前两小时到达机场。",
+      "exampleTranslation": "We need to arrive at the airport two hours early."
+    },
+    {
+      "id": "火车站",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "火车",
+          "homeLang": "train",
+          "homeLangDetails": "火车 is itself a compound: 火 (fire) + 车 (vehicle/car). Together they mean 'fire vehicle' — a vivid early description of the steam locomotive. It is the standard modern word for 'train.'"
+        },
+        {
+          "targetLang": "站",
+          "homeLang": "station/stop",
+          "homeLangDetails": "站 means a stop or station where vehicles halt. It is used for train stations (火车站), bus stops (公共汽车站), and metro stations (地铁站). The character also means 'to stand,' and the connection is apt: a place where transport stands still briefly."
+        }
+      ],
+      "translationShort": "train station",
+      "translationLong": "train station, railway station",
+      "exampleSentence": "火车站离这里不太远，走路大概十分钟。",
+      "exampleTranslation": "The train station is not too far from here, about a ten-minute walk."
+    },
+    {
+      "id": "电视",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electric/electricity"
+        },
+        {
+          "targetLang": "视",
+          "homeLang": "vision/sight",
+          "homeLangDetails": "视 means to see, look at, or regard. It appears in 电视 (television, 'electric vision'), 视力 (eyesight), and 视频 (video). It is the more literary/formal character for sight, distinct from the everyday 看 (to look/watch)."
+        }
+      ],
+      "translationShort": "television, TV",
+      "translationLong": "television, TV",
+      "exampleSentence": "他每天晚上都看电视。",
+      "exampleTranslation": "He watches television every evening."
+    },
+    {
+      "id": "电话",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electric/electricity"
+        },
+        {
+          "targetLang": "话",
+          "homeLang": "speech/words",
+          "homeLangDetails": "话 means speech, spoken words, or conversation. It appears in 说话 (to speak), 对话 (dialogue), 电话 (telephone, 'electric speech'), and 普通话 (Mandarin, 'common speech'). It always connects to the idea of spoken language rather than writing."
+        }
+      ],
+      "translationShort": "telephone, phone",
+      "translationLong": "telephone, phone call",
+      "exampleSentence": "她正在打电话，请稍等。",
+      "exampleTranslation": "She is on the phone right now, please wait a moment."
+    },
+    {
+      "id": "冰箱",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "冰",
+          "homeLang": "ice"
+        },
+        {
+          "targetLang": "箱",
+          "homeLang": "box/chest",
+          "homeLangDetails": "箱 means a box, chest, or trunk — a container of substantial size. It appears in 行李箱 (suitcase, 'luggage box'), 邮箱 (mailbox), and 冰箱 (refrigerator, 'ice box'). The character evokes a solid, enclosed container."
+        }
+      ],
+      "translationShort": "refrigerator, fridge",
+      "translationLong": "refrigerator, fridge, icebox",
+      "exampleSentence": "把剩菜放进冰箱里保存吧。",
+      "exampleTranslation": "Put the leftovers in the refrigerator to keep them fresh."
+    },
+    {
+      "id": "洗衣机",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "洗",
+          "homeLang": "wash/rinse"
+        },
+        {
+          "targetLang": "衣",
+          "homeLang": "clothing"
+        },
+        {
+          "targetLang": "机",
+          "homeLang": "machine"
+        }
+      ],
+      "translationShort": "washing machine",
+      "translationLong": "washing machine, laundry machine",
+      "exampleSentence": "我把衣服放进洗衣机里洗了。",
+      "exampleTranslation": "I put the clothes in the washing machine to wash."
+    },
+    {
+      "id": "空调",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "空",
+          "homeLang": "air/sky",
+          "homeLangDetails": "空 (kōng) here means 'air' or the open atmosphere, as in 空气 (air, literally 'air energy/breath'). It can also mean 'empty' or 'sky' in other contexts, but in 空调 the meaning is clearly 'air' — the thing being conditioned."
+        },
+        {
+          "targetLang": "调",
+          "homeLang": "regulate/adjust",
+          "homeLangDetails": "调 (tiáo) means to adjust, tune, or regulate. It appears in 调节 (to adjust/regulate), 调整 (to readjust), and 协调 (to coordinate). In 空调 it captures the idea of bringing the air into a desired state — 'air regulation.'"
+        }
+      ],
+      "translationShort": "air conditioner",
+      "translationLong": "air conditioner, air conditioning",
+      "exampleSentence": "天气太热了，快开空调吧。",
+      "exampleTranslation": "It's too hot — let's turn on the air conditioner."
+    },
+    {
+      "id": "手表",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "手",
+          "homeLang": "hand"
+        },
+        {
+          "targetLang": "表",
+          "homeLang": "surface/face",
+          "homeLangDetails": "Originally meant the outer surface or face of something. In the context of timekeeping, it came to refer to a timepiece — specifically the face that displays the time. So 手表 is literally 'hand face' — the timepiece worn on the wrist."
+        }
+      ],
+      "translationShort": "wristwatch",
+      "translationLong": "wristwatch, watch",
+      "exampleSentence": "他的手表坏了，所以他上课迟到了。",
+      "exampleTranslation": "His watch broke, so he was late to class."
+    },
+    {
+      "id": "眼镜",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "眼",
+          "homeLang": "eye"
+        },
+        {
+          "targetLang": "镜",
+          "homeLang": "mirror/lens"
+        }
+      ],
+      "translationShort": "glasses",
+      "translationLong": "eyeglasses, spectacles",
+      "exampleSentence": "我找不到我的眼镜了。",
+      "exampleTranslation": "I can't find my glasses."
+    },
+    {
+      "id": "电梯",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electric"
+        },
+        {
+          "targetLang": "梯",
+          "homeLang": "ladder/stairs"
+        }
+      ],
+      "translationShort": "elevator",
+      "translationLong": "elevator, lift",
+      "exampleSentence": "这栋楼的电梯正在维修。",
+      "exampleTranslation": "The elevator in this building is under repair."
+    },
+    {
+      "id": "照相机",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "照",
+          "homeLang": "illuminate/shoot"
+        },
+        {
+          "targetLang": "相",
+          "homeLang": "image/photo"
+        },
+        {
+          "targetLang": "机",
+          "homeLang": "machine"
+        }
+      ],
+      "translationShort": "camera",
+      "translationLong": "camera, photo camera",
+      "exampleSentence": "她用照相机拍了很多风景照。",
+      "exampleTranslation": "She took many landscape photos with her camera."
+    },
+    {
+      "id": "电灯",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electric"
+        },
+        {
+          "targetLang": "灯",
+          "homeLang": "lamp/light"
+        }
+      ],
+      "translationShort": "electric light",
+      "translationLong": "electric light, light bulb, lamp",
+      "exampleSentence": "请关上电灯再离开房间。",
+      "exampleTranslation": "Please turn off the light before leaving the room."
+    },
+    {
+      "id": "太阳能",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "太阳",
+          "homeLang": "sun",
+          "homeLangDetails": "A two-character word meaning 'the sun'. 太 means 'great/supreme' and 阳 refers to solar or masculine energy in classical Chinese thought, but together they simply mean 'sun' as a fixed unit."
+        },
+        {
+          "targetLang": "能",
+          "homeLang": "energy/power"
+        }
+      ],
+      "translationShort": "solar energy",
+      "translationLong": "solar energy, solar power",
+      "exampleSentence": "这个村子全部使用太阳能发电。",
+      "exampleTranslation": "This village generates all its electricity using solar energy."
+    },
+    {
+      "id": "风力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "风",
+          "homeLang": "wind"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "wind power",
+      "translationLong": "wind power, wind energy, wind force",
+      "exampleSentence": "这座山上建了很多风力发电机。",
+      "exampleTranslation": "Many wind turbines have been built on this mountain."
+    },
+    {
+      "id": "水力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "水",
+          "homeLang": "water"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "water power",
+      "translationLong": "hydropower, hydraulic power, water power",
+      "exampleSentence": "中国有很多利用水力发电的大坝。",
+      "exampleTranslation": "China has many dams that use hydropower to generate electricity."
+    },
+    {
+      "id": "核能",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "核",
+          "homeLang": "nuclear/core"
+        },
+        {
+          "targetLang": "能",
+          "homeLang": "energy/power"
+        }
+      ],
+      "translationShort": "nuclear energy",
+      "translationLong": "nuclear energy, nuclear power",
+      "exampleSentence": "核能发电站需要非常严格的安全管理。",
+      "exampleTranslation": "Nuclear power plants require very strict safety management."
+    },
+    {
+      "id": "化学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "化",
+          "homeLang": "transform/change"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/science"
+        }
+      ],
+      "translationShort": "chemistry",
+      "translationLong": "",
+      "exampleSentence": "她在大学里主修化学。",
+      "exampleTranslation": "She majored in chemistry at university."
+    },
+    {
+      "id": "物理",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "物",
+          "homeLang": "matter/things"
+        },
+        {
+          "targetLang": "理",
+          "homeLang": "principle/reason",
+          "homeLangDetails": "理 refers to the underlying pattern, order, or principle of something. So 物理 is the study of the principles governing the physical world — a very elegant fit for 'physics'."
+        }
+      ],
+      "translationShort": "physics",
+      "translationLong": "",
+      "exampleSentence": "物理课上我们学习了牛顿定律。",
+      "exampleTranslation": "In physics class we studied Newton's laws."
+    },
+    {
+      "id": "数学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "数",
+          "homeLang": "number/count"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/science"
+        }
+      ],
+      "translationShort": "mathematics",
+      "translationLong": "mathematics, math",
+      "exampleSentence": "他从小就对数学很感兴趣。",
+      "exampleTranslation": "He has been interested in mathematics since childhood."
+    },
+    {
+      "id": "生物学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "生",
+          "homeLang": "life/living"
+        },
+        {
+          "targetLang": "物",
+          "homeLang": "creature/thing"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/science"
+        }
+      ],
+      "translationShort": "biology",
+      "translationLong": "",
+      "exampleSentence": "生物学老师带我们去野外观察植物。",
+      "exampleTranslation": "The biology teacher took us into the field to observe plants."
+    },
+    {
+      "id": "地理学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "地",
+          "homeLang": "earth/land"
+        },
+        {
+          "targetLang": "理",
+          "homeLang": "principle/pattern"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/science"
+        }
+      ],
+      "translationShort": "geography",
+      "translationLong": "",
+      "exampleSentence": "地理学研究地球表面的自然和人文现象。",
+      "exampleTranslation": "Geography studies the natural and human phenomena on the earth's surface."
+    },
+    {
+      "id": "历史学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "历史",
+          "homeLang": "history",
+          "homeLangDetails": "A two-character word that together means 'history'. 历 carries the sense of passing through successive events or time periods, and 史 means 'records/annals'. Together they form the standard word for history, and are treated as a unit here."
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/science"
+        }
+      ],
+      "translationShort": "historiography",
+      "translationLong": "the academic study of history, historiography",
+      "exampleSentence": "他在北京大学攻读历史学博士学位。",
+      "exampleTranslation": "He is pursuing a doctoral degree in history at Peking University."
+    },
+    {
+      "id": "心理学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart/mind"
+        },
+        {
+          "targetLang": "理",
+          "homeLang": "reason/logic"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "-ology/study"
+        }
+      ],
+      "translationShort": "psychology",
+      "translationLong": "psychology, the study of the mind",
+      "exampleSentence": "她在大学里主修心理学。",
+      "exampleTranslation": "She majors in psychology at university."
+    },
+    {
+      "id": "经济学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "经",
+          "homeLang": "manage/govern"
+        },
+        {
+          "targetLang": "济",
+          "homeLang": "benefit/aid"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "-ology/study"
+        }
+      ],
+      "translationShort": "economics",
+      "translationLong": "economics, the study of economies",
+      "exampleSentence": "他对经济学很感兴趣。",
+      "exampleTranslation": "He is very interested in economics."
+    },
+    {
+      "id": "政治学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "政",
+          "homeLang": "governance"
+        },
+        {
+          "targetLang": "治",
+          "homeLang": "rule/order"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "-ology/study"
+        }
+      ],
+      "translationShort": "political science",
+      "translationLong": "political science, politics as an academic discipline",
+      "exampleSentence": "政治学是她最喜欢的课程之一。",
+      "exampleTranslation": "Political science is one of her favorite courses."
+    },
+    {
+      "id": "社会学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "社",
+          "homeLang": "community"
+        },
+        {
+          "targetLang": "会",
+          "homeLang": "assembly/society"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "-ology/study"
+        }
+      ],
+      "translationShort": "sociology",
+      "translationLong": "sociology, the study of society",
+      "exampleSentence": "社会学帮助我们理解人类行为。",
+      "exampleTranslation": "Sociology helps us understand human behavior."
+    },
+    {
+      "id": "哲学",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "哲",
+          "homeLang": "wisdom/sage"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "-ology/study"
+        }
+      ],
+      "translationShort": "philosophy",
+      "translationLong": "philosophy, the study of wisdom and knowledge",
+      "exampleSentence": "他花了很多时间思考哲学问题。",
+      "exampleTranslation": "He spends a lot of time thinking about philosophical questions."
+    },
+    {
+      "id": "科学家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "科",
+          "homeLang": "branch/field"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/learning"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "-ist/expert",
+          "homeLangDetails": "家 literally means 'house' or 'family', but as a suffix it means a specialist or expert in a field — like English -ist or -er. The same suffix appears in 艺术家 (artist) and 作家 (writer)."
+        }
+      ],
+      "translationShort": "scientist",
+      "translationLong": "",
+      "exampleSentence": "那位科学家发现了一种新物质。",
+      "exampleTranslation": "That scientist discovered a new substance."
+    },
+    {
+      "id": "工程师",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "工",
+          "homeLang": "work/craft"
+        },
+        {
+          "targetLang": "程",
+          "homeLang": "process/journey"
+        },
+        {
+          "targetLang": "师",
+          "homeLang": "-er/professional",
+          "homeLangDetails": "师 means 'master' or 'teacher' and functions as a suffix indicating a trained professional. It is similar to English -er or -or when describing an occupation, and appears in words like 老师 (teacher) and 医师 (physician)."
+        }
+      ],
+      "translationShort": "engineer",
+      "translationLong": "",
+      "exampleSentence": "她是一名软件工程师。",
+      "exampleTranslation": "She is a software engineer."
+    },
+    {
+      "id": "教育者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "教",
+          "homeLang": "teach"
+        },
+        {
+          "targetLang": "育",
+          "homeLang": "nurture/raise"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who",
+          "homeLangDetails": "者 is a classical Chinese suffix meaning 'one who does (something)'. It functions like English -er or -or, turning a verb or concept into a person. It appears in many agent nouns like 学习者 (learner) and 消费者 (consumer)."
+        }
+      ],
+      "translationShort": "educator",
+      "translationLong": "educator, one who educates",
+      "exampleSentence": "他是一位优秀的教育者。",
+      "exampleTranslation": "He is an excellent educator."
+    },
+    {
+      "id": "研究者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "研",
+          "homeLang": "grind/study deeply"
+        },
+        {
+          "targetLang": "究",
+          "homeLang": "investigate/probe"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "researcher",
+      "translationLong": "researcher, investigator",
+      "exampleSentence": "这位研究者发表了很多重要论文。",
+      "exampleTranslation": "This researcher has published many important papers."
+    },
+    {
+      "id": "管理者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "管",
+          "homeLang": "manage/control"
+        },
+        {
+          "targetLang": "理",
+          "homeLang": "order/regulate"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "manager",
+      "translationLong": "manager, administrator",
+      "exampleSentence": "一个好的管理者能激励团队。",
+      "exampleTranslation": "A good manager can motivate the team."
+    },
+    {
+      "id": "消费者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "消",
+          "homeLang": "dissipate/spend"
+        },
+        {
+          "targetLang": "费",
+          "homeLang": "expenditure/cost"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "consumer",
+      "translationLong": "consumer, customer",
+      "exampleSentence": "消费者的权益需要受到保护。",
+      "exampleTranslation": "The rights of consumers need to be protected."
+    },
+    {
+      "id": "生产者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "生",
+          "homeLang": "give birth/produce"
+        },
+        {
+          "targetLang": "产",
+          "homeLang": "produce/yield"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "producer",
+      "translationLong": "producer, manufacturer",
+      "exampleSentence": "生产者和消费者之间需要良好的沟通。",
+      "exampleTranslation": "Good communication between producers and consumers is necessary."
+    },
+    {
+      "id": "工作者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "工",
+          "homeLang": "work/labor"
+        },
+        {
+          "targetLang": "作",
+          "homeLang": "do/make"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "worker",
+      "translationLong": "worker, laborer",
+      "exampleSentence": "医务工作者每天都很辛苦。",
+      "exampleTranslation": "Healthcare workers have a hard job every day."
+    },
+    {
+      "id": "学习者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study/learn"
+        },
+        {
+          "targetLang": "习",
+          "homeLang": "practice/review"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er/one who"
+        }
+      ],
+      "translationShort": "learner",
+      "translationLong": "learner, student",
+      "exampleSentence": "每个学习者都有自己的学习方式。",
+      "exampleTranslation": "Every learner has their own way of learning."
+    },
+    {
+      "id": "电子化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "电",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(diminutive particle)",
+          "homeLangDetails": "子 literally means 'child' or 'seed', but here it acts as a nominalizing particle that turns 电 (electricity) into 电子 (electron/electronic). It is a very common morpheme in Chinese and does not carry strong independent meaning in compounds like this."
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ification",
+          "homeLangDetails": "化 functions like the English suffix -ize or -ification, turning a noun or adjective into the process of becoming that thing. So 电子化 means 'to make electronic' or 'digitization/electronification'. The same suffix appears in 现代化 (modernization) and 全球化 (globalization)."
+        }
+      ],
+      "translationShort": "digitization",
+      "translationLong": "electronification, going digital, digitization",
+      "exampleSentence": "政府正在推动档案的电子化。",
+      "exampleTranslation": "The government is promoting the digitization of records."
+    },
+    {
+      "id": "现代化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "现",
+          "homeLang": "present/now"
+        },
+        {
+          "targetLang": "代",
+          "homeLang": "era/generation"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "to modernize",
+      "translationLong": "modernization, to modernize",
+      "exampleSentence": "这个国家正在努力实现现代化。",
+      "exampleTranslation": "This country is working hard to achieve modernization."
+    },
+    {
+      "id": "全球化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "全",
+          "homeLang": "whole/entire"
+        },
+        {
+          "targetLang": "球",
+          "homeLang": "sphere/globe"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "globalization",
+      "translationLong": "globalization, to globalize",
+      "exampleSentence": "全球化对世界经济产生了深远的影响。",
+      "exampleTranslation": "Globalization has had a profound impact on the world economy."
+    },
+    {
+      "id": "工业化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "工",
+          "homeLang": "work/labor"
+        },
+        {
+          "targetLang": "业",
+          "homeLang": "industry/sector"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "industrialization",
+      "translationLong": "industrialization, to industrialize",
+      "exampleSentence": "十九世纪欧洲经历了快速的工业化。",
+      "exampleTranslation": "Europe underwent rapid industrialization in the nineteenth century."
+    },
+    {
+      "id": "城市化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "城",
+          "homeLang": "city/town"
+        },
+        {
+          "targetLang": "市",
+          "homeLang": "market/city"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "urbanization",
+      "translationLong": "urbanization, to urbanize",
+      "exampleSentence": "中国的城市化速度令世界惊叹。",
+      "exampleTranslation": "The speed of urbanization in China has amazed the world."
+    },
+    {
+      "id": "自动化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "动",
+          "homeLang": "move/act"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "automation",
+      "translationLong": "automation, to automate",
+      "exampleSentence": "工厂引入自动化后，生产效率大幅提高。",
+      "exampleTranslation": "After the factory introduced automation, production efficiency increased significantly."
+    },
+    {
+      "id": "数字化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "数",
+          "homeLang": "number/count"
+        },
+        {
+          "targetLang": "字",
+          "homeLang": "character/digit"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize/-ify"
+        }
+      ],
+      "translationShort": "digitization",
+      "translationLong": "digitization, digitalization, to digitize",
+      "exampleSentence": "很多传统行业正在经历数字化转型。",
+      "exampleTranslation": "Many traditional industries are undergoing digital transformation."
+    },
+    {
+      "id": "无线",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "无",
+          "homeLang": "without/no"
+        },
+        {
+          "targetLang": "线",
+          "homeLang": "wire/line"
+        }
+      ],
+      "translationShort": "wireless",
+      "translationLong": "wireless, without wires",
+      "exampleSentence": "这个咖啡馆提供免费无线网络。",
+      "exampleTranslation": "This café offers free wireless internet."
+    },
+    {
+      "id": "无聊",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "无",
+          "homeLang": "without/no"
+        },
+        {
+          "targetLang": "聊",
+          "homeLang": "chat/interest",
+          "homeLangDetails": "聊 means 'to chat' or 'to have something to rely on,' and in classical Chinese carried a sense of having something worthwhile to engage with. So 无聊 literally means having nothing of interest to engage with — hence 'bored' or 'boring.'"
+        }
+      ],
+      "translationShort": "bored, boring",
+      "translationLong": "bored, boring, tedious, having nothing to do",
+      "exampleSentence": "今天没什么事做，我觉得很无聊。",
+      "exampleTranslation": "There's nothing to do today; I feel really bored."
+    },
+    {
+      "id": "无用",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "无",
+          "homeLang": "without/no"
+        },
+        {
+          "targetLang": "用",
+          "homeLang": "use/function"
+        }
+      ],
+      "translationShort": "useless",
+      "translationLong": "useless, of no use, pointless",
+      "exampleSentence": "这把旧钥匙已经无用了，可以扔掉。",
+      "exampleTranslation": "This old key is useless now; you can throw it away."
+    },
+    {
+      "id": "不安",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not/un-"
+        },
+        {
+          "targetLang": "安",
+          "homeLang": "peaceful/calm"
+        }
+      ],
+      "translationShort": "uneasy, anxious",
+      "translationLong": "uneasy, anxious, restless, unsettled",
+      "exampleSentence": "考试前他感到非常不安。",
+      "exampleTranslation": "He felt very uneasy before the exam."
+    },
+    {
+      "id": "不满",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not/un-"
+        },
+        {
+          "targetLang": "满",
+          "homeLang": "satisfied/full"
+        }
+      ],
+      "translationShort": "dissatisfied",
+      "translationLong": "dissatisfied, discontented, unhappy with",
+      "exampleSentence": "她对公司的新政策感到非常不满。",
+      "exampleTranslation": "She is very dissatisfied with the company's new policy."
+    },
+    {
+      "id": "不好意思",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not/un-"
+        },
+        {
+          "targetLang": "好",
+          "homeLang": "good/well"
+        },
+        {
+          "targetLang": "意思",
+          "homeLang": "meaning/feeling",
+          "homeLangDetails": "意思 (yìsi) literally means 'meaning' or 'intention,' but in this fixed phrase it carries a sense of 'ease' or 'comfortable feeling.' So 不好意思 is literally 'not feeling good about it' — used to express mild embarrassment, shyness, or polite awkwardness. It's one of the most common social lubricants in Mandarin."
+        }
+      ],
+      "translationShort": "excuse me, sorry",
+      "translationLong": "excuse me, I'm sorry, how embarrassing, to feel awkward",
+      "exampleSentence": "不好意思，我来晚了。",
+      "exampleTranslation": "Sorry, I'm late."
+    },
+    {
+      "id": "再见",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "再",
+          "homeLang": "again"
+        },
+        {
+          "targetLang": "见",
+          "homeLang": "see/meet"
+        }
+      ],
+      "translationShort": "goodbye",
+      "translationLong": "goodbye, see you again",
+      "exampleSentence": "时间不早了，我得走了，再见！",
+      "exampleTranslation": "It's getting late, I have to go — goodbye!"
+    },
+    {
+      "id": "再来",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "再",
+          "homeLang": "again"
+        },
+        {
+          "targetLang": "来",
+          "homeLang": "come"
+        }
+      ],
+      "translationShort": "come again",
+      "translationLong": "come again, do it again, one more time",
+      "exampleSentence": "这道菜太好吃了，我下次一定再来。",
+      "exampleTranslation": "This dish is so delicious — I'll definitely come again next time."
+    },
+    {
+      "id": "新年",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "新",
+          "homeLang": "new"
+        },
+        {
+          "targetLang": "年",
+          "homeLang": "year"
+        }
+      ],
+      "translationShort": "New Year",
+      "translationLong": "New Year, the new year",
+      "exampleSentence": "新年快乐！",
+      "exampleTranslation": "Happy New Year!"
+    },
+    {
+      "id": "新生",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "新",
+          "homeLang": "new"
+        },
+        {
+          "targetLang": "生",
+          "homeLang": "student/life"
+        }
+      ],
+      "translationShort": "freshman, newborn",
+      "translationLong": "new student, freshman, newborn, new life",
+      "exampleSentence": "她是今年的大学新生。",
+      "exampleTranslation": "She is a new university student this year."
+    },
+    {
+      "id": "大人",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big/great"
+        },
+        {
+          "targetLang": "人",
+          "homeLang": "person"
+        }
+      ],
+      "translationShort": "adult",
+      "translationLong": "adult, grown-up",
+      "exampleSentence": "孩子们想快点变成大人。",
+      "exampleTranslation": "The children want to grow up quickly."
+    },
+    {
+      "id": "小孩",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small/little"
+        },
+        {
+          "targetLang": "孩",
+          "homeLang": "child"
+        }
+      ],
+      "translationShort": "child, kid",
+      "translationLong": "child, kid, little one",
+      "exampleSentence": "那个小孩在公园里玩耍。",
+      "exampleTranslation": "That child is playing in the park."
+    },
+    {
+      "id": "大学生",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "great/big"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/learning"
+        },
+        {
+          "targetLang": "生",
+          "homeLang": "student"
+        }
+      ],
+      "translationShort": "university student",
+      "translationLong": "college student, university student",
+      "exampleSentence": "他是一名大学生，主修经济学。",
+      "exampleTranslation": "He is a university student majoring in economics."
+    },
+    {
+      "id": "中学生",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "中",
+          "homeLang": "middle"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/learning"
+        },
+        {
+          "targetLang": "生",
+          "homeLang": "student"
+        }
+      ],
+      "translationShort": "middle/high school student",
+      "translationLong": "secondary school student, middle or high school student",
+      "exampleSentence": "这位中学生每天骑自行车上学。",
+      "exampleTranslation": "This middle school student rides a bicycle to school every day."
+    },
+    {
+      "id": "小学生",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small/little"
+        },
+        {
+          "targetLang": "学",
+          "homeLang": "study/learning"
+        },
+        {
+          "targetLang": "生",
+          "homeLang": "student"
+        }
+      ],
+      "translationShort": "primary school student",
+      "translationLong": "elementary school student, primary school student",
+      "exampleSentence": "小学生们排队进入教室。",
+      "exampleTranslation": "The primary school students line up to enter the classroom."
+    },
+    {
+      "id": "新手",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "新",
+          "homeLang": "new"
+        },
+        {
+          "targetLang": "手",
+          "homeLang": "hand/person",
+          "homeLangDetails": "手 literally means 'hand', but in compound words it often refers to a person defined by what they do with their hands — a practitioner or player. Think of it like English '-er' or 'hand' as in 'old hand'."
+        }
+      ],
+      "translationShort": "beginner, newbie",
+      "translationLong": "beginner, newcomer, novice",
+      "exampleSentence": "作为新手，他需要更多练习。",
+      "exampleTranslation": "As a beginner, he needs more practice."
+    },
+    {
+      "id": "老手",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old/experienced"
+        },
+        {
+          "targetLang": "手",
+          "homeLang": "hand/person",
+          "homeLangDetails": "手 literally means 'hand', but here it means a person skilled in a craft or activity — much like English 'old hand' meaning a seasoned veteran."
+        }
+      ],
+      "translationShort": "veteran, old hand",
+      "translationLong": "experienced person, veteran, old hand",
+      "exampleSentence": "她是谈判方面的老手。",
+      "exampleTranslation": "She is a veteran at negotiations."
+    },
+    {
+      "id": "高手",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "高",
+          "homeLang": "high/tall"
+        },
+        {
+          "targetLang": "手",
+          "homeLang": "hand/person",
+          "homeLangDetails": "手 literally means 'hand', but in compounds like this it means a skilled practitioner — someone who is expert at what they do. 高手 is a 'high-level hand', i.e., a master."
+        }
+      ],
+      "translationShort": "expert, master",
+      "translationLong": "expert, master, highly skilled person",
+      "exampleSentence": "他是下棋的高手。",
+      "exampleTranslation": "He is a master chess player."
+    },
+    {
+      "id": "力量",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        },
+        {
+          "targetLang": "量",
+          "homeLang": "amount/measure"
+        }
+      ],
+      "translationShort": "strength, power",
+      "translationLong": "strength, power, force",
+      "exampleSentence": "她用尽了所有的力量推开那扇门。",
+      "exampleTranslation": "She used all her strength to push open the door."
+    },
+    {
+      "id": "能力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "能",
+          "homeLang": "able/can"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "ability, capability",
+      "translationLong": "ability, capability, capacity",
+      "exampleSentence": "他有很强的学习能力。",
+      "exampleTranslation": "He has a strong ability to learn."
+    },
+    {
+      "id": "活力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "活",
+          "homeLang": "alive/lively"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "vitality, energy",
+      "translationLong": "vitality, energy, vigor",
+      "exampleSentence": "年轻人充满活力。",
+      "exampleTranslation": "Young people are full of vitality."
+    },
+    {
+      "id": "创造力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "创",
+          "homeLang": "create/found"
+        },
+        {
+          "targetLang": "造",
+          "homeLang": "make/build"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "creativity",
+      "translationLong": "creativity, creative power",
+      "exampleSentence": "这个孩子有很强的创造力。",
+      "exampleTranslation": "This child has a strong sense of creativity."
+    },
+    {
+      "id": "竞争力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "竞",
+          "homeLang": "compete/rival"
+        },
+        {
+          "targetLang": "争",
+          "homeLang": "contend/strive"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "competitiveness",
+      "translationLong": "competitiveness, competitive strength",
+      "exampleSentence": "提高产品质量可以增强企业的竞争力。",
+      "exampleTranslation": "Improving product quality can enhance a company's competitiveness."
+    },
+    {
+      "id": "影响力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "影",
+          "homeLang": "shadow/image"
+        },
+        {
+          "targetLang": "响",
+          "homeLang": "sound/echo"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/force"
+        }
+      ],
+      "translationShort": "influence",
+      "translationLong": "influence, sway, clout",
+      "exampleSentence": "他在行业内有很大的影响力。",
+      "exampleTranslation": "He has a great deal of influence in the industry."
+    },
+    {
+      "id": "执行力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "执行",
+          "homeLang": "execute/carry out"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/ability"
+        }
+      ],
+      "translationShort": "execution ability",
+      "translationLong": "the ability to execute, follow through, or get things done",
+      "exampleSentence": "她的执行力很强，总能按时完成任务。",
+      "exampleTranslation": "Her execution ability is very strong — she always completes tasks on time."
+    },
+    {
+      "id": "想象力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "想象",
+          "homeLang": "imagine"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/ability"
+        }
+      ],
+      "translationShort": "imagination",
+      "translationLong": "imagination, imaginative power",
+      "exampleSentence": "孩子们的想象力非常丰富。",
+      "exampleTranslation": "Children have very rich imaginations."
+    },
+    {
+      "id": "判断力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "判断",
+          "homeLang": "judge/assess"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/ability"
+        }
+      ],
+      "translationShort": "judgment",
+      "translationLong": "judgment, ability to judge or assess",
+      "exampleSentence": "在危机时刻，领导者需要有良好的判断力。",
+      "exampleTranslation": "In a crisis, leaders need good judgment."
+    },
+    {
+      "id": "理解力",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "理解",
+          "homeLang": "understand/comprehend"
+        },
+        {
+          "targetLang": "力",
+          "homeLang": "power/ability"
+        }
+      ],
+      "translationShort": "comprehension",
+      "translationLong": "comprehension, understanding, ability to understand",
+      "exampleSentence": "阅读可以提高你的理解力。",
+      "exampleTranslation": "Reading can improve your comprehension."
+    },
+    {
+      "id": "不好",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "好",
+          "homeLang": "good"
+        }
+      ],
+      "translationShort": "not good, bad",
+      "translationLong": "not good, bad, unwell",
+      "exampleSentence": "这个主意不好。",
+      "exampleTranslation": "This idea is not good."
+    },
+    {
+      "id": "没有",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "没",
+          "homeLang": "not have",
+          "homeLangDetails": "没 is a negation particle specifically used to negate possession or past actions. Unlike 不, which negates present/future states or intentions, 没 is reserved for 'have not' or 'did not.'"
+        },
+        {
+          "targetLang": "有",
+          "homeLang": "have"
+        }
+      ],
+      "translationShort": "don't have, there is no",
+      "translationLong": "don't have, there is no, have not, did not",
+      "exampleSentence": "我没有时间。",
+      "exampleTranslation": "I don't have time."
+    },
+    {
+      "id": "非常",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "非",
+          "homeLang": "not, beyond"
+        },
+        {
+          "targetLang": "常",
+          "homeLang": "ordinary, usual"
+        }
+      ],
+      "translationShort": "very, extremely",
+      "translationLong": "very, extremely, unusually",
+      "exampleSentence": "今天非常热。",
+      "exampleTranslation": "It is extremely hot today."
+    },
+    {
+      "id": "老师",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old, venerable",
+          "homeLangDetails": "老 literally means 'old' but is also used as a respectful prefix suggesting experience and wisdom, as in 老师 (teacher) and 老板 (boss). It doesn't always refer to age."
+        },
+        {
+          "targetLang": "师",
+          "homeLang": "master, expert"
+        }
+      ],
+      "translationShort": "teacher",
+      "translationLong": "teacher, instructor",
+      "exampleSentence": "我们的老师非常好。",
+      "exampleTranslation": "Our teacher is very good."
+    },
+    {
+      "id": "小心",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small, little"
+        },
+        {
+          "targetLang": "心",
+          "homeLang": "heart, mind"
+        }
+      ],
+      "translationShort": "careful, be careful",
+      "translationLong": "careful, cautious, be careful, watch out",
+      "exampleSentence": "过马路要小心。",
+      "exampleTranslation": "Be careful when crossing the street."
+    },
+    {
+      "id": "大家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big, great"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "family, home, everyone",
+          "homeLangDetails": "家 typically means 'family' or 'home,' but in 大家 it extends to mean 'everyone' — the whole big family, so to speak. The same character appears in 国家 (nation) and 专家 (expert)."
+        }
+      ],
+      "translationShort": "everyone, everybody",
+      "translationLong": "everyone, everybody, all of us",
+      "exampleSentence": "大家好！",
+      "exampleTranslation": "Hello, everyone!"
+    },
+    {
+      "id": "自己",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self, from"
+        },
+        {
+          "targetLang": "己",
+          "homeLang": "oneself",
+          "homeLangDetails": "己 is a classical character meaning 'oneself' or 'one's own.' Together with 自, it forms a reinforced reflexive — both characters point to the self. 己 alone is less common in modern speech but appears in phrases like 知己 (a close friend who truly knows you)."
+        }
+      ],
+      "translationShort": "oneself, yourself",
+      "translationLong": "oneself, yourself, himself, herself, itself",
+      "exampleSentence": "你要相信自己。",
+      "exampleTranslation": "You need to believe in yourself."
+    },
+    {
+      "id": "多少",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "多",
+          "homeLang": "many, much"
+        },
+        {
+          "targetLang": "少",
+          "homeLang": "few, little"
+        }
+      ],
+      "translationShort": "how much, how many",
+      "translationLong": "how much, how many, to some extent",
+      "exampleSentence": "这个多少钱？",
+      "exampleTranslation": "How much does this cost?"
+    },
+    {
+      "id": "孩子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "孩",
+          "homeLang": "child"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "子 is one of Mandarin's most common noun suffixes, turning a root into a standalone noun. It originally meant 'son' or 'young one' (as in 孔子, Confucius), but in everyday speech it functions largely as a nominalizer with no strong independent meaning — you can hear it in 椅子 (chair), 桌子 (table), and 样子 (appearance)."
+        }
+      ],
+      "translationShort": "child, children",
+      "translationLong": "child, children, kid, kids",
+      "exampleSentence": "那个孩子很聪明。",
+      "exampleTranslation": "That child is very smart."
+    },
+    {
+      "id": "国家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country, nation"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "home, family",
+          "homeLangDetails": "家 means 'home' or 'family,' but paired with 国 (country) it extends the metaphor to the nation as a whole — a great shared home. This poetic pairing is ancient and still very much alive in modern Chinese."
+        }
+      ],
+      "translationShort": "country, nation",
+      "translationLong": "country, nation, state",
+      "exampleSentence": "我爱我的国家。",
+      "exampleTranslation": "I love my country."
+    },
+    {
+      "id": "说话",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "说",
+          "homeLang": "speak, say"
+        },
+        {
+          "targetLang": "话",
+          "homeLang": "speech, words"
+        }
+      ],
+      "translationShort": "to speak, to talk",
+      "translationLong": "to speak, to talk, to say something",
+      "exampleSentence": "请慢慢说话。",
+      "exampleTranslation": "Please speak slowly."
+    },
+    {
+      "id": "好心",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好",
+          "homeLang": "good"
+        },
+        {
+          "targetLang": "心",
+          "homeLang": "heart, mind"
+        }
+      ],
+      "translationShort": "good intentions, kindness",
+      "translationLong": "good intentions, kindness, goodwill",
+      "exampleSentence": "他是好心帮助我的。",
+      "exampleTranslation": "He helped me out of good intentions."
+    },
+    {
+      "id": "人心",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "人",
+          "homeLang": "person, people"
+        },
+        {
+          "targetLang": "心",
+          "homeLang": "heart, mind"
+        }
+      ],
+      "translationShort": "people's hearts, public sentiment",
+      "translationLong": "people's hearts, public sentiment, the human heart",
+      "exampleSentence": "这件事赢得了人心。",
+      "exampleTranslation": "This matter won the hearts of the people."
+    },
+    {
+      "id": "时间",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time, moment"
+        },
+        {
+          "targetLang": "间",
+          "homeLang": "interval, space",
+          "homeLangDetails": "间 carries the sense of a span or interval — a stretch between two points. In 时间 it contributes the idea of duration or a stretch of time, while 时 pins that stretch to the dimension of time. The same character appears in 空间 (space) and 中间 (middle, between)."
+        }
+      ],
+      "translationShort": "time",
+      "translationLong": "time, period of time",
+      "exampleSentence": "我们没有时间了。",
+      "exampleTranslation": "We have no time left."
+    },
+    {
+      "id": "学生",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study, learn"
+        },
+        {
+          "targetLang": "生",
+          "homeLang": "born, living, person",
+          "homeLangDetails": "生 literally means 'life' or 'born,' but as a suffix it often denotes a person defined by a certain activity or role. So 学生 is literally 'one who is alive through learning' — a learner, a student. The same suffix appears in 医生 (doctor, literally 'life-medicine person') and 先生 (mister/teacher)."
+        }
+      ],
+      "translationShort": "student",
+      "translationLong": "student, pupil",
+      "exampleSentence": "她是一名大学生。",
+      "exampleTranslation": "She is a college student."
+    },
+    {
+      "id": "语言",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "语",
+          "homeLang": "language/speech"
+        },
+        {
+          "targetLang": "言",
+          "homeLang": "words/speech"
+        }
+      ],
+      "translationShort": "language",
+      "translationLong": "language, spoken language",
+      "exampleSentence": "她会说三种语言。",
+      "exampleTranslation": "She can speak three languages."
+    },
+    {
+      "id": "国语",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country/nation"
+        },
+        {
+          "targetLang": "语",
+          "homeLang": "language"
+        }
+      ],
+      "translationShort": "Mandarin Chinese",
+      "translationLong": "national language, Mandarin Chinese (especially in Taiwan)",
+      "exampleSentence": "我们在学校学国语。",
+      "exampleTranslation": "We study Mandarin at school."
+    },
+    {
+      "id": "好人",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好",
+          "homeLang": "good"
+        },
+        {
+          "targetLang": "人",
+          "homeLang": "person"
+        }
+      ],
+      "translationShort": "good person",
+      "translationLong": "good person, kind person",
+      "exampleSentence": "他是一个好人，总是帮助别人。",
+      "exampleTranslation": "He is a good person who always helps others."
+    },
+    {
+      "id": "心理",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart/mind"
+        },
+        {
+          "targetLang": "理",
+          "homeLang": "reason/principle"
+        }
+      ],
+      "translationShort": "psychology, mindset",
+      "translationLong": "psychology, mental state, mindset",
+      "exampleSentence": "了解孩子的心理很重要。",
+      "exampleTranslation": "Understanding children's psychology is very important."
+    },
+    {
+      "id": "时代",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time/era"
+        },
+        {
+          "targetLang": "代",
+          "homeLang": "generation/age"
+        }
+      ],
+      "translationShort": "era, age",
+      "translationLong": "era, age, epoch, generation",
+      "exampleSentence": "我们生活在一个科技飞速发展的时代。",
+      "exampleTranslation": "We live in an era of rapidly advancing technology."
+    },
+    {
+      "id": "不对",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "对",
+          "homeLang": "correct/right"
+        }
+      ],
+      "translationShort": "wrong, incorrect",
+      "translationLong": "wrong, incorrect, not right",
+      "exampleSentence": "这个答案不对，请再想想。",
+      "exampleTranslation": "This answer is wrong; please think again."
+    },
+    {
+      "id": "没用",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "没",
+          "homeLang": "no/without"
+        },
+        {
+          "targetLang": "用",
+          "homeLang": "use"
+        }
+      ],
+      "translationShort": "useless",
+      "translationLong": "useless, no use, of no use",
+      "exampleSentence": "这把旧钥匙没用了，可以扔掉。",
+      "exampleTranslation": "This old key is useless now; you can throw it away."
+    },
+    {
+      "id": "非法",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "非",
+          "homeLang": "non-/un-"
+        },
+        {
+          "targetLang": "法",
+          "homeLang": "law"
+        }
+      ],
+      "translationShort": "illegal",
+      "translationLong": "illegal, unlawful",
+      "exampleSentence": "在公共场所乱扔垃圾是非法的。",
+      "exampleTranslation": "Littering in public places is illegal."
+    },
+    {
+      "id": "老人",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old/elderly"
+        },
+        {
+          "targetLang": "人",
+          "homeLang": "person"
+        }
+      ],
+      "translationShort": "elderly person",
+      "translationLong": "elderly person, old person",
+      "exampleSentence": "我们应该尊重老人。",
+      "exampleTranslation": "We should respect elderly people."
+    },
+    {
+      "id": "小孩子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small/little"
+        },
+        {
+          "targetLang": "孩",
+          "homeLang": "child"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A very common noun suffix in Mandarin that attaches to many nouns without adding a distinct new meaning. It helps mark the word as a noun and is often unstressed in speech."
+        }
+      ],
+      "translationShort": "young child",
+      "translationLong": "young child, little kid",
+      "exampleSentence": "这个小孩子非常可爱。",
+      "exampleTranslation": "This little child is very cute."
+    },
+    {
+      "id": "大方",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big/great"
+        },
+        {
+          "targetLang": "方",
+          "homeLang": "manner/way",
+          "homeLangDetails": "方 literally means 'square' or 'direction/manner.' In 大方, it contributes the sense of bearing or style, so together the word means generous and gracious in manner — not uptight or petty."
+        }
+      ],
+      "translationShort": "generous, gracious",
+      "translationLong": "generous, gracious, natural and poised",
+      "exampleSentence": "她待人大方，从不小气。",
+      "exampleTranslation": "She is generous with people and never stingy."
+    },
+    {
+      "id": "自然",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "然",
+          "homeLang": "so/thus",
+          "homeLangDetails": "然 originally meant 'so' or 'thus' and is found in many classical Chinese constructions. In 自然, it combines with 自 (self) to express 'being so by itself' — the state of things just being the way they are on their own, which gives us both 'nature' and 'natural.'"
+        }
+      ],
+      "translationShort": "nature; natural",
+      "translationLong": "nature; natural, of course",
+      "exampleSentence": "我喜欢在大自然中散步。",
+      "exampleTranslation": "I enjoy walking in nature."
+    },
+    {
+      "id": "多种",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "多",
+          "homeLang": "many/much"
+        },
+        {
+          "targetLang": "种",
+          "homeLang": "kind/type"
+        }
+      ],
+      "translationShort": "many kinds, various",
+      "translationLong": "many kinds of, multiple types of, various",
+      "exampleSentence": "这家餐厅提供多种菜肴。",
+      "exampleTranslation": "This restaurant offers many kinds of dishes."
+    },
+    {
+      "id": "椅子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "椅",
+          "homeLang": "chair"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A very common Mandarin noun suffix that attaches to many everyday objects. It doesn't add new meaning on its own but marks the word as a concrete noun. You'll see it on 桌子 (table), 杯子 (cup), 房子 (house), and many others."
+        }
+      ],
+      "translationShort": "chair",
+      "translationLong": "",
+      "exampleSentence": "请把椅子搬过来。",
+      "exampleTranslation": "Please bring the chair over here."
+    },
+    {
+      "id": "专家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "专",
+          "homeLang": "specialized"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "expert/master",
+          "homeLangDetails": "家 literally means 'house' or 'family,' but as a suffix it indicates someone who is a master or authority in a field — like 画家 (painter), 科学家 (scientist), or 作家 (writer). Think of it like the English suffix '-ist' or '-er' when applied to a discipline."
+        }
+      ],
+      "translationShort": "expert, specialist",
+      "translationLong": "expert, specialist, authority",
+      "exampleSentence": "我们需要一位营养专家来给我们建议。",
+      "exampleTranslation": "We need a nutrition expert to give us advice."
+    },
+    {
+      "id": "简化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "简",
+          "homeLang": "simple"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize, make"
+        }
+      ],
+      "translationShort": "to simplify",
+      "translationLong": "to simplify, to streamline",
+      "exampleSentence": "我们需要简化这个流程。",
+      "exampleTranslation": "We need to simplify this process."
+    },
+    {
+      "id": "汉语",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "汉",
+          "homeLang": "Han (Chinese)",
+          "homeLangDetails": "Refers to the Han people, the dominant ethnic group of China, and by extension the Chinese civilization and language. The Han Dynasty (206 BCE–220 CE) gave the people their name, which is now used to mean 'Chinese' in a cultural and linguistic sense."
+        },
+        {
+          "targetLang": "语",
+          "homeLang": "language"
+        }
+      ],
+      "translationShort": "Chinese (language)",
+      "translationLong": "the Chinese language, Mandarin Chinese",
+      "exampleSentence": "她在大学里学汉语。",
+      "exampleTranslation": "She studies Chinese at university."
+    },
+    {
+      "id": "英语",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "英",
+          "homeLang": "English/Britain",
+          "homeLangDetails": "A phonetic borrowing representing 'Eng-' from 'England' or 'English.' It also happens to mean 'outstanding' or 'heroic' on its own, giving the word a flattering ring."
+        },
+        {
+          "targetLang": "语",
+          "homeLang": "language"
+        }
+      ],
+      "translationShort": "English (language)",
+      "translationLong": "the English language",
+      "exampleSentence": "你的英语说得很好！",
+      "exampleTranslation": "Your English is very good!"
+    },
+    {
+      "id": "好奇心",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好奇",
+          "homeLang": "curious",
+          "homeLangDetails": "好 means 'good/fond of' and 奇 means 'strange/unusual' — together they mean being fond of the unusual, i.e., curious. This two-character unit functions as a stable adjective meaning 'curious.'"
+        },
+        {
+          "targetLang": "心",
+          "homeLang": "heart/mind"
+        }
+      ],
+      "translationShort": "curiosity",
+      "translationLong": "curiosity, inquisitiveness",
+      "exampleSentence": "孩子们对这个世界充满了好奇心。",
+      "exampleTranslation": "Children are full of curiosity about the world."
+    },
+    {
+      "id": "人口",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "人",
+          "homeLang": "person, people"
+        },
+        {
+          "targetLang": "口",
+          "homeLang": "mouth",
+          "homeLangDetails": "口 literally means 'mouth,' but in this compound it is used as a counting unit for people — each person has one mouth. So 人口 is literally 'people-mouths,' a vivid way of saying how many people there are."
+        }
+      ],
+      "translationShort": "population",
+      "translationLong": "population, number of people",
+      "exampleSentence": "中国的人口超过十四亿。",
+      "exampleTranslation": "China's population exceeds 1.4 billion."
+    },
+    {
+      "id": "心情",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart/mind"
+        },
+        {
+          "targetLang": "情",
+          "homeLang": "feeling, emotion"
+        }
+      ],
+      "translationShort": "mood, feeling",
+      "translationLong": "mood, feeling, state of mind",
+      "exampleSentence": "今天天气很好，我的心情也很愉快。",
+      "exampleTranslation": "The weather is great today, and my mood is very cheerful too."
+    },
+    {
+      "id": "时候",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time"
+        },
+        {
+          "targetLang": "候",
+          "homeLang": "moment, period",
+          "homeLangDetails": "候 on its own means to wait or a season/period of time. Together with 时, it forms a common word meaning 'time' in the sense of a point or period when something happens, as in 'the time when...' It is often used in phrases like 什么时候 (what time / when)."
+        }
+      ],
+      "translationShort": "time, moment",
+      "translationLong": "time, moment, the time when",
+      "exampleSentence": "你什么时候回家？",
+      "exampleTranslation": "What time are you coming home?"
+    },
+    {
+      "id": "学习",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study, learn"
+        },
+        {
+          "targetLang": "习",
+          "homeLang": "practice, review",
+          "homeLangDetails": "习 means to practice or to drill something repeatedly. Paired with 学 (to learn/study), the compound captures the full cycle of learning: taking in new knowledge and then reinforcing it through practice."
+        }
+      ],
+      "translationShort": "to study, to learn",
+      "translationLong": "to study, to learn, to practice",
+      "exampleSentence": "他每天都认真学习。",
+      "exampleTranslation": "He studies diligently every day."
+    },
+    {
+      "id": "国际",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country, nation"
+        },
+        {
+          "targetLang": "际",
+          "homeLang": "between, boundary",
+          "homeLangDetails": "际 means a border, boundary, or the space between things. So 国际 literally means 'between nations' — the same logic as the Latin inter + nationes behind 'international.'"
+        }
+      ],
+      "translationShort": "international",
+      "translationLong": "international, between nations",
+      "exampleSentence": "她在一家国际公司工作。",
+      "exampleTranslation": "She works at an international company."
+    },
+    {
+      "id": "说明",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "说",
+          "homeLang": "speak, say"
+        },
+        {
+          "targetLang": "明",
+          "homeLang": "clear, bright"
+        }
+      ],
+      "translationShort": "to explain; explanation",
+      "translationLong": "to explain, to clarify; an explanation, instructions",
+      "exampleSentence": "请说明一下你的计划。",
+      "exampleTranslation": "Please explain your plan."
+    },
+    {
+      "id": "不同",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "同",
+          "homeLang": "same, together"
+        }
+      ],
+      "translationShort": "different",
+      "translationLong": "different, unlike, not the same",
+      "exampleSentence": "每个人的想法都不同。",
+      "exampleTranslation": "Everyone's ideas are different."
+    },
+    {
+      "id": "没关系",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "没",
+          "homeLang": "not have, no"
+        },
+        {
+          "targetLang": "关",
+          "homeLang": "concern, involve"
+        },
+        {
+          "targetLang": "系",
+          "homeLang": "connection, tie"
+        }
+      ],
+      "translationShort": "it's okay, never mind",
+      "translationLong": "it's okay, it doesn't matter, no problem, never mind",
+      "exampleSentence": "对不起，我迟到了。——没关系！",
+      "exampleTranslation": "Sorry I'm late. -- No problem!"
+    },
+    {
+      "id": "非正式",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "非",
+          "homeLang": "not, non-"
+        },
+        {
+          "targetLang": "正",
+          "homeLang": "formal, proper"
+        },
+        {
+          "targetLang": "式",
+          "homeLang": "style, form"
+        }
+      ],
+      "translationShort": "informal",
+      "translationLong": "informal, unofficial, casual",
+      "exampleSentence": "这是一次非正式的会议，大家可以随意发言。",
+      "exampleTranslation": "This is an informal meeting, so everyone can speak freely."
+    },
+    {
+      "id": "老实",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old, honest",
+          "homeLangDetails": "老 literally means 'old,' but as a prefix it also acts as an intensifier or marker of a quality being deeply ingrained in someone. Here it lends the sense of being thoroughly, naturally honest — not just sometimes truthful but straightforwardly so by nature."
+        },
+        {
+          "targetLang": "实",
+          "homeLang": "real, true"
+        }
+      ],
+      "translationShort": "honest, straightforward",
+      "translationLong": "honest, truthful, straightforward, well-behaved",
+      "exampleSentence": "他是个老实人，从不说谎。",
+      "exampleTranslation": "He is an honest person who never lies."
+    },
+    {
+      "id": "小说",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小",
+          "homeLang": "small, little"
+        },
+        {
+          "targetLang": "说",
+          "homeLang": "speech, talk",
+          "homeLangDetails": "说 means to speak or say, and by extension a kind of talk or discourse. 小说 literally means 'small talk' or 'minor discourse' — a Classical Chinese term originally used to dismiss popular storytelling as trivial compared to serious scholarship. Over time it came to mean fictional prose narrative, i.e., a novel or short story."
+        }
+      ],
+      "translationShort": "novel, fiction",
+      "translationLong": "novel, fiction, short story",
+      "exampleSentence": "她很喜欢读小说，尤其是历史小说。",
+      "exampleTranslation": "She loves reading novels, especially historical fiction."
+    },
+    {
+      "id": "大量",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big, great"
+        },
+        {
+          "targetLang": "量",
+          "homeLang": "amount, quantity"
+        }
+      ],
+      "translationShort": "large quantity",
+      "translationLong": "large amount, a lot of, abundant",
+      "exampleSentence": "他喝了大量的水。",
+      "exampleTranslation": "He drank a large amount of water."
+    },
+    {
+      "id": "自信",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "信",
+          "homeLang": "trust, believe"
+        }
+      ],
+      "translationShort": "confidence",
+      "translationLong": "self-confidence, confident",
+      "exampleSentence": "她非常自信地走上了舞台。",
+      "exampleTranslation": "She walked onto the stage with great confidence."
+    },
+    {
+      "id": "多数",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "多",
+          "homeLang": "many, much"
+        },
+        {
+          "targetLang": "数",
+          "homeLang": "number, count"
+        }
+      ],
+      "translationShort": "majority",
+      "translationLong": "majority, most, the greater number",
+      "exampleSentence": "多数人同意这个方案。",
+      "exampleTranslation": "The majority of people agreed with this plan."
+    },
+    {
+      "id": "筷子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "筷",
+          "homeLang": "chopstick",
+          "homeLangDetails": "This character is specific to chopsticks and doesn't appear independently in modern Mandarin with a separate meaning. It was coined to distinguish chopsticks from a near-homophone meaning 'slow,' since chopsticks are associated with speed and dexterity at the table."
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A very common suffix that attaches to nouns to make them feel more concrete or colloquial. It doesn't add a separate meaning on its own — think of it like a noun marker. You'll see it on dozens of everyday objects: 桌子 (table), 椅子 (chair), 杯子 (cup)."
+        }
+      ],
+      "translationShort": "chopsticks",
+      "translationLong": "",
+      "exampleSentence": "你会用筷子吗？",
+      "exampleTranslation": "Can you use chopsticks?"
+    },
+    {
+      "id": "画家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "画",
+          "homeLang": "paint, draw"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "-er, expert",
+          "homeLangDetails": "When attached to a field or activity, 家 marks a person who is a skilled practitioner — similar to the English suffix '-er' or '-ist'. So 画家 is a painter, 音乐家 is a musician, 科学家 is a scientist. Its base meaning is 'home' or 'family,' but in compounds like this it functions as a professional suffix."
+        }
+      ],
+      "translationShort": "painter, artist",
+      "translationLong": "painter, visual artist",
+      "exampleSentence": "他是一位著名的画家。",
+      "exampleTranslation": "He is a famous painter."
+    },
+    {
+      "id": "变化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "变",
+          "homeLang": "change, transform"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ize, become",
+          "homeLangDetails": "化 often acts like the English suffix '-ize' or '-ify,' turning something into a state or process. On its own it means 'to transform' or 'to become.' Together with 变 (also meaning change), the two characters reinforce each other to convey a process of transformation or shifting over time."
+        }
+      ],
+      "translationShort": "change, variation",
+      "translationLong": "change, transformation, variation",
+      "exampleSentence": "天气变化很快。",
+      "exampleTranslation": "The weather changes very quickly."
+    },
+    {
+      "id": "母语",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "母",
+          "homeLang": "mother"
+        },
+        {
+          "targetLang": "语",
+          "homeLang": "language, speech"
+        }
+      ],
+      "translationShort": "mother tongue",
+      "translationLong": "native language, mother tongue, first language",
+      "exampleSentence": "她的母语是中文。",
+      "exampleTranslation": "Her mother tongue is Chinese."
+    },
+    {
+      "id": "好感",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好",
+          "homeLang": "good, favorable"
+        },
+        {
+          "targetLang": "感",
+          "homeLang": "feeling, sense"
+        }
+      ],
+      "translationShort": "good impression",
+      "translationLong": "favorable impression, good feeling, liking",
+      "exampleSentence": "我对他有很好的好感。",
+      "exampleTranslation": "I have a very good impression of him."
+    },
+    {
+      "id": "人类",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "人",
+          "homeLang": "person, people"
+        },
+        {
+          "targetLang": "类",
+          "homeLang": "kind, category",
+          "homeLangDetails": "类 means 'kind,' 'category,' or 'type.' Here it broadens 人 (person) to the entire category of human beings — much like how English adds '-kind' to form 'humankind.' You'll also see it in words like 种类 (variety/type) and 分类 (to classify)."
+        }
+      ],
+      "translationShort": "humanity, humankind",
+      "translationLong": "humanity, humankind, the human race",
+      "exampleSentence": "科学技术改变了人类的生活。",
+      "exampleTranslation": "Science and technology have changed human life."
+    },
+    {
+      "id": "心脏",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart, mind"
+        },
+        {
+          "targetLang": "脏",
+          "homeLang": "organ",
+          "homeLangDetails": "On its own, 脏 (zàng, different from the dirty-meaning zāng) refers to internal organs — as in 内脏 (internal organs, viscera). So 心脏 literally means 'heart organ,' distinguishing the physical organ from the more abstract and emotional uses of 心 alone."
+        }
+      ],
+      "translationShort": "heart (organ)",
+      "translationLong": "the heart (as a physical organ)",
+      "exampleSentence": "他的心脏非常健康。",
+      "exampleTranslation": "His heart is very healthy."
+    },
+    {
+      "id": "时刻",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time, moment"
+        },
+        {
+          "targetLang": "刻",
+          "homeLang": "moment, instant",
+          "homeLangDetails": "刻 originally referred to a quarter-hour unit in the traditional Chinese timekeeping system — literally 'a notch' carved to mark time. In modern usage it means 'moment' or 'instant.' Paired with 时 (time), the compound emphasizes a specific, often significant point in time."
+        }
+      ],
+      "translationShort": "moment, instant",
+      "translationLong": "moment, instant, point in time",
+      "exampleSentence": "这是我一生中最难忘的时刻。",
+      "exampleTranslation": "This is the most unforgettable moment of my life."
+    },
+    {
+      "id": "学者",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study, learn"
+        },
+        {
+          "targetLang": "者",
+          "homeLang": "-er, one who",
+          "homeLangDetails": "者 is a classical suffix meaning 'one who does' something — equivalent to the English agentive '-er' or '-ist.' It's more formal than 家, often used for people defined by their activity rather than their expertise. So 学者 is literally 'one who studies,' i.e., a scholar. You'll also see it in 作者 (author, one who writes) and 记者 (journalist, one who records)."
+        }
+      ],
+      "translationShort": "scholar",
+      "translationLong": "scholar, academic, learned person",
+      "exampleSentence": "她是一位研究中国历史的学者。",
+      "exampleTranslation": "She is a scholar who studies Chinese history."
+    },
+    {
+      "id": "国内",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country, nation"
+        },
+        {
+          "targetLang": "内",
+          "homeLang": "inside, within"
+        }
+      ],
+      "translationShort": "domestic, within the country",
+      "translationLong": "domestic, within the country, inland",
+      "exampleSentence": "国内市场的竞争越来越激烈。",
+      "exampleTranslation": "Competition in the domestic market is becoming increasingly fierce."
+    },
+    {
+      "id": "说法",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "说",
+          "homeLang": "say, speak"
+        },
+        {
+          "targetLang": "法",
+          "homeLang": "way, method",
+          "homeLangDetails": "法 literally means 'law' or 'method,' but in compounds it often functions like the English suffix '-way' or '-tion,' denoting a manner or mode of doing something. So 说法 is literally 'a way of saying' — a phrasing, wording, or version of events. You'll also see this pattern in 想法 (way of thinking, idea) and 做法 (way of doing, approach)."
+        }
+      ],
+      "translationShort": "way of saying, version",
+      "translationLong": "way of putting it, wording, phrasing, version of events",
+      "exampleSentence": "这件事有很多不同的说法。",
+      "exampleTranslation": "There are many different versions of this story."
+    },
+    {
+      "id": "不行",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not, no"
+        },
+        {
+          "targetLang": "行",
+          "homeLang": "work, be okay",
+          "homeLangDetails": "行 has a wide range of meanings — walk, travel, row, profession — but in everyday speech one of its most common uses is to mean 'okay,' 'acceptable,' or 'it works.' So 不行 is literally 'not okay,' used to refuse, reject, or say something won't work. The opposite, 行, is one of the most casual ways to say 'sure' or 'that's fine.'"
+        }
+      ],
+      "translationShort": "not okay, won't work",
+      "translationLong": "not allowed, won't do, that won't work, no way",
+      "exampleSentence": "这个方法不行，我们需要换一种方式。",
+      "exampleTranslation": "This method won't work — we need to try a different approach."
+    },
+    {
+      "id": "没问题",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "没",
+          "homeLang": "no/not"
+        },
+        {
+          "targetLang": "问题",
+          "homeLang": "problem/question"
+        }
+      ],
+      "translationShort": "no problem",
+      "translationLong": "no problem, no worries, sure",
+      "exampleSentence": "你能帮我搬一下吗？——没问题！",
+      "exampleTranslation": "Can you help me move this? — No problem!"
+    },
+    {
+      "id": "非常好",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "非常",
+          "homeLang": "extremely"
+        },
+        {
+          "targetLang": "好",
+          "homeLang": "good"
+        }
+      ],
+      "translationShort": "very good",
+      "translationLong": "excellent, very good, extremely good",
+      "exampleSentence": "他今天的表现非常好。",
+      "exampleTranslation": "His performance today was very good."
+    },
+    {
+      "id": "老年",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old"
+        },
+        {
+          "targetLang": "年",
+          "homeLang": "year/age"
+        }
+      ],
+      "translationShort": "old age",
+      "translationLong": "old age, the elderly years",
+      "exampleSentence": "他在老年时依然保持健康的生活方式。",
+      "exampleTranslation": "He maintained a healthy lifestyle even in old age."
+    },
+    {
+      "id": "小心翼翼",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小心",
+          "homeLang": "careful"
+        },
+        {
+          "targetLang": "翼翼",
+          "homeLang": "(intensifier)",
+          "homeLangDetails": "翼翼 is a classical reduplication meaning 'cautious and precise, like the careful folding of wings.' It amplifies 小心 (careful) into an image of great, almost delicate deliberateness. You'll mostly see it in this fixed four-character expression (成语)."
+        }
+      ],
+      "translationShort": "very carefully",
+      "translationLong": "with great care, cautiously, gingerly",
+      "exampleSentence": "她小心翼翼地把花瓶放回架子上。",
+      "exampleTranslation": "She carefully placed the vase back on the shelf.",
+      "flag": "only 2 parts, but 小心翼翼 is a fixed four-character idiom (成语); further splitting would misrepresent its structure"
+    },
+    {
+      "id": "大小",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "big"
+        },
+        {
+          "targetLang": "小",
+          "homeLang": "small"
+        }
+      ],
+      "translationShort": "size",
+      "translationLong": "size, dimensions",
+      "exampleSentence": "这件衣服的大小正合适。",
+      "exampleTranslation": "The size of this garment is just right."
+    },
+    {
+      "id": "自由",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "由",
+          "homeLang": "from/reason",
+          "homeLangDetails": "由 can mean 'from,' 'by,' or 'reason/cause.' Together with 自 (self), it conveys the idea of acting from one's own will — doing things on one's own terms. The pair forms a tightly bonded word rather than a transparent compound."
+        }
+      ],
+      "translationShort": "freedom",
+      "translationLong": "freedom, liberty, free",
+      "exampleSentence": "每个人都有追求幸福的自由。",
+      "exampleTranslation": "Everyone has the freedom to pursue happiness."
+    },
+    {
+      "id": "多样",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "多",
+          "homeLang": "many/much"
+        },
+        {
+          "targetLang": "样",
+          "homeLang": "kind/type"
+        }
+      ],
+      "translationShort": "diverse",
+      "translationLong": "diverse, varied, of many kinds",
+      "exampleSentence": "这个城市的文化非常多样。",
+      "exampleTranslation": "The culture of this city is very diverse."
+    },
+    {
+      "id": "帽子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "帽",
+          "homeLang": "hat"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "子 is an extremely common nominal suffix in Mandarin that turns a root into a standalone noun. It carries no real meaning of its own here — it just makes 帽 into the full word 帽子 (hat). You'll see it on dozens of everyday nouns: 桌子 (table), 椅子 (chair), 杯子 (cup)."
+        }
+      ],
+      "translationShort": "hat",
+      "translationLong": "hat, cap",
+      "exampleSentence": "外面很冷，记得戴帽子。",
+      "exampleTranslation": "It's very cold outside — remember to wear a hat."
+    },
+    {
+      "id": "作家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "作",
+          "homeLang": "write/create"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "-er (person)",
+          "homeLangDetails": "家 literally means 'home' or 'family,' but as a suffix it means 'a person who specializes in something,' similar to English -er or -ist. So 作家 is 'someone who creates/writes.' You'll see it in 科学家 (scientist), 音乐家 (musician), 艺术家 (artist), and many more."
+        }
+      ],
+      "translationShort": "writer",
+      "translationLong": "writer, author",
+      "exampleSentence": "她是一位著名的作家。",
+      "exampleTranslation": "She is a famous writer."
+    },
+    {
+      "id": "文化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "文",
+          "homeLang": "writing/culture"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ization/change",
+          "homeLangDetails": "化 means transformation or change, and as a suffix it conveys 'the process of becoming' something. So 文化 is literally 'the becoming of civilization/writing' — the cultivation of a people through learning and the arts. The same suffix appears in 现代化 (modernization) and 变化 (change)."
+        }
+      ],
+      "translationShort": "culture",
+      "translationLong": "culture, civilization",
+      "exampleSentence": "中国有着悠久的历史文化。",
+      "exampleTranslation": "China has a long history and culture."
+    },
+    {
+      "id": "外语",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "外",
+          "homeLang": "outside/foreign"
+        },
+        {
+          "targetLang": "语",
+          "homeLang": "language"
+        }
+      ],
+      "translationShort": "foreign language",
+      "translationLong": "foreign language",
+      "exampleSentence": "她从小就开始学习外语。",
+      "exampleTranslation": "She started learning a foreign language from a young age."
+    },
+    {
+      "id": "好处",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好",
+          "homeLang": "good"
+        },
+        {
+          "targetLang": "处",
+          "homeLang": "place/aspect",
+          "homeLangDetails": "处 can mean 'place,' 'point,' or 'aspect.' In 好处, it points to the 'good aspect' or 'good part' of something — i.e., the benefit. The same construction appears in 坏处 (disadvantage, bad aspect) and 长处 (strength, good point)."
+        }
+      ],
+      "translationShort": "benefit",
+      "translationLong": "benefit, advantage, good point",
+      "exampleSentence": "多读书有很多好处。",
+      "exampleTranslation": "Reading more books has many benefits."
+    },
+    {
+      "id": "人物",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "人",
+          "homeLang": "person"
+        },
+        {
+          "targetLang": "物",
+          "homeLang": "thing/entity",
+          "homeLangDetails": "物 means 'thing' or 'object,' but in 人物 it shifts meaning to highlight a person as a notable figure or entity worth singling out. Together, 人物 refers to a character (in a story) or a prominent person — not just any random individual."
+        }
+      ],
+      "translationShort": "character, figure",
+      "translationLong": "character (in a story), historical figure, prominent person",
+      "exampleSentence": "这部小说的主要人物非常生动。",
+      "exampleTranslation": "The main characters in this novel are very vivid."
+    },
+    {
+      "id": "心态",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart/mind"
+        },
+        {
+          "targetLang": "态",
+          "homeLang": "state/attitude"
+        }
+      ],
+      "translationShort": "mindset",
+      "translationLong": "mindset, mental attitude, state of mind",
+      "exampleSentence": "保持积极的心态对健康很重要。",
+      "exampleTranslation": "Maintaining a positive mindset is very important for health."
+    },
+    {
+      "id": "时期",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time"
+        },
+        {
+          "targetLang": "期",
+          "homeLang": "period/stage"
+        }
+      ],
+      "translationShort": "period, era",
+      "translationLong": "period, era, stage, phase",
+      "exampleSentence": "青少年时期是人生中非常重要的阶段。",
+      "exampleTranslation": "Adolescence is a very important stage in life."
+    },
+    {
+      "id": "学科",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "study/learn"
+        },
+        {
+          "targetLang": "科",
+          "homeLang": "subject/field"
+        }
+      ],
+      "translationShort": "academic subject",
+      "translationLong": "academic subject, discipline, field of study",
+      "exampleSentence": "你最喜欢哪个学科？",
+      "exampleTranslation": "Which academic subject do you like the most?"
+    },
+    {
+      "id": "国外",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country"
+        },
+        {
+          "targetLang": "外",
+          "homeLang": "outside/beyond"
+        }
+      ],
+      "translationShort": "abroad, overseas",
+      "translationLong": "abroad, overseas, foreign countries",
+      "exampleSentence": "她去国外留学了两年。",
+      "exampleTranslation": "She went abroad to study for two years."
+    },
+    {
+      "id": "说服",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "说",
+          "homeLang": "speak/say"
+        },
+        {
+          "targetLang": "服",
+          "homeLang": "submit/comply"
+        }
+      ],
+      "translationShort": "to persuade",
+      "translationLong": "to persuade, to convince",
+      "exampleSentence": "他终于说服了父母让他学音乐。",
+      "exampleTranslation": "He finally persuaded his parents to let him study music."
+    },
+    {
+      "id": "不够",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "不",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "够",
+          "homeLang": "enough/sufficient"
+        }
+      ],
+      "translationShort": "not enough",
+      "translationLong": "not enough, insufficient",
+      "exampleSentence": "时间不够，我们需要快点。",
+      "exampleTranslation": "There isn't enough time; we need to hurry."
+    },
+    {
+      "id": "没意思",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "没",
+          "homeLang": "not have/without"
+        },
+        {
+          "targetLang": "意",
+          "homeLang": "meaning/interest"
+        },
+        {
+          "targetLang": "思",
+          "homeLang": "thought/sense"
+        }
+      ],
+      "translationShort": "boring, uninteresting",
+      "translationLong": "boring, uninteresting, pointless",
+      "exampleSentence": "这部电影真的没意思，我看了一半就走了。",
+      "exampleTranslation": "This movie was really boring; I left halfway through."
+    },
+    {
+      "id": "非凡",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "非",
+          "homeLang": "not/beyond"
+        },
+        {
+          "targetLang": "凡",
+          "homeLang": "ordinary/common"
+        }
+      ],
+      "translationShort": "extraordinary",
+      "translationLong": "extraordinary, remarkable, exceptional",
+      "exampleSentence": "她有着非凡的音乐才能。",
+      "exampleTranslation": "She has extraordinary musical talent."
+    },
+    {
+      "id": "老龄化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "老",
+          "homeLang": "old/aged"
+        },
+        {
+          "targetLang": "龄",
+          "homeLang": "age"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ization/becoming"
+        }
+      ],
+      "translationShort": "aging (of population)",
+      "translationLong": "aging, population aging",
+      "exampleSentence": "中国正面临社会老龄化的问题。",
+      "exampleTranslation": "China is facing the challenge of an aging society."
+    },
+    {
+      "id": "大自然",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "大",
+          "homeLang": "great/big"
+        },
+        {
+          "targetLang": "自",
+          "homeLang": "self/natural"
+        },
+        {
+          "targetLang": "然",
+          "homeLang": "so/thus"
+        }
+      ],
+      "translationShort": "nature",
+      "translationLong": "nature, the natural world",
+      "exampleSentence": "我们应该保护大自然。",
+      "exampleTranslation": "We should protect nature."
+    },
+    {
+      "id": "自我",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "自",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "我",
+          "homeLang": "I/me"
+        }
+      ],
+      "translationShort": "self, ego",
+      "translationLong": "self, the self, ego",
+      "exampleSentence": "他总是以自我为中心。",
+      "exampleTranslation": "He is always self-centered."
+    },
+    {
+      "id": "多元化",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "多",
+          "homeLang": "many/much"
+        },
+        {
+          "targetLang": "元",
+          "homeLang": "element/unit"
+        },
+        {
+          "targetLang": "化",
+          "homeLang": "-ization/becoming"
+        }
+      ],
+      "translationShort": "diversification",
+      "translationLong": "diversification, pluralization, becoming diverse",
+      "exampleSentence": "公司的产品正在逐步多元化。",
+      "exampleTranslation": "The company's products are gradually diversifying."
+    },
+    {
+      "id": "桌子",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "桌",
+          "homeLang": "table/desk"
+        },
+        {
+          "targetLang": "子",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A very common suffix that nominalizes or concretizes a word — it turns it into a tangible, physical thing. It doesn't add much meaning on its own, but you'll see it on lots of everyday objects: 椅子 (chair), 杯子 (cup), 房子 (house)."
+        }
+      ],
+      "translationShort": "table, desk",
+      "translationLong": "table, desk",
+      "exampleSentence": "请把书放在桌子上。",
+      "exampleTranslation": "Please put the book on the table."
+    },
+    {
+      "id": "音乐家",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "音",
+          "homeLang": "sound/tone"
+        },
+        {
+          "targetLang": "乐",
+          "homeLang": "music/joy"
+        },
+        {
+          "targetLang": "家",
+          "homeLang": "-ist/expert",
+          "homeLangDetails": "家 literally means 'house' or 'family,' but when used as a suffix it means a specialist or expert in a field — much like English -ist. So 音乐家 is a 'music person,' 科学家 is a scientist, 艺术家 is an artist."
+        }
+      ],
+      "translationShort": "musician",
+      "translationLong": "musician",
+      "exampleSentence": "他是一位著名的音乐家。",
+      "exampleTranslation": "He is a famous musician."
+    },
+    {
+      "id": "普通话",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "普通",
+          "homeLang": "common/general",
+          "homeLangDetails": "普通 is itself a two-character word meaning 'ordinary' or 'common.' Here it signals that this is the shared, broadly accessible form of Chinese speech — the language everyone can use."
+        },
+        {
+          "targetLang": "话",
+          "homeLang": "speech/language"
+        }
+      ],
+      "translationShort": "Mandarin Chinese",
+      "translationLong": "Mandarin Chinese, Standard Chinese, Putonghua",
+      "exampleSentence": "在中国，很多人都会说普通话。",
+      "exampleTranslation": "In China, many people can speak Mandarin."
+    },
+    {
+      "id": "好奇",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "好",
+          "homeLang": "fond of/like"
+        },
+        {
+          "targetLang": "奇",
+          "homeLang": "strange/wonder"
+        }
+      ],
+      "translationShort": "curious",
+      "translationLong": "curious, inquisitive",
+      "exampleSentence": "孩子们对大自然总是充满好奇。",
+      "exampleTranslation": "Children are always full of curiosity about nature."
+    },
+    {
+      "id": "人才",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "人",
+          "homeLang": "person/people"
+        },
+        {
+          "targetLang": "才",
+          "homeLang": "talent/ability"
+        }
+      ],
+      "translationShort": "talent, gifted person",
+      "translationLong": "talented person, gifted individual, talent",
+      "exampleSentence": "公司需要吸引更多优秀的人才。",
+      "exampleTranslation": "The company needs to attract more outstanding talent."
+    },
+    {
+      "id": "心血",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "心",
+          "homeLang": "heart"
+        },
+        {
+          "targetLang": "血",
+          "homeLang": "blood"
+        }
+      ],
+      "translationShort": "painstaking effort",
+      "translationLong": "painstaking effort, heart and soul, blood and sweat",
+      "exampleSentence": "她把全部心血都投入到这个项目中。",
+      "exampleTranslation": "She poured all her painstaking effort into this project."
+    },
+    {
+      "id": "时区",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "时",
+          "homeLang": "time"
+        },
+        {
+          "targetLang": "区",
+          "homeLang": "zone, region"
+        }
+      ],
+      "translationShort": "time zone",
+      "translationLong": "",
+      "exampleSentence": "北京和纽约不在同一个时区。",
+      "exampleTranslation": "Beijing and New York are not in the same time zone."
+    },
+    {
+      "id": "学问",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "学",
+          "homeLang": "learn, study"
+        },
+        {
+          "targetLang": "问",
+          "homeLang": "ask, inquire"
+        }
+      ],
+      "translationShort": "knowledge, learning",
+      "translationLong": "knowledge, learning, scholarship",
+      "exampleSentence": "他是一个很有学问的人。",
+      "exampleTranslation": "He is a person of great learning."
+    },
+    {
+      "id": "国王",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "国",
+          "homeLang": "country, kingdom"
+        },
+        {
+          "targetLang": "王",
+          "homeLang": "king, ruler"
+        }
+      ],
+      "translationShort": "king",
+      "translationLong": "",
+      "exampleSentence": "这位国王统治了这个国家五十年。",
+      "exampleTranslation": "This king ruled the country for fifty years."
+    }
+  ]
+}

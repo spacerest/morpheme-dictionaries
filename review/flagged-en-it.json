@@ -1,0 +1,858 @@
+[
+  {
+    "word": "prediction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'La predizione del tempo per domani è pioggia' is awkward. The more natural phrasing would use 'Le previsioni meteo' or 'La previsione meteorologica' rather than 'predizione del tempo'.",
+    "suggestion": "Change to: 'Le previsioni meteo per domani sono pioggia.' or 'La previsione meteorologica per domani è pioggia.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as juris-dict-ion, but 'juris' and 'dict' are not independent morphemes. The correct split should be jurs (from Latin 'ius' meaning law/right) + dict (from Latin 'dicere' meaning to say), but 'juris' combines both the root and genitive case marker. A clearer analysis would be jur(is) + dict + ion, or the entry should acknowledge that 'juris' is a bound root form.",
+    "suggestion": "Reconsider the split to reflect that 'juris' is a bound form of 'ius' (law) in the genitive, not a standalone morpheme. Alternatively, split as jur + is + dict + ion if teaching Latin morphology.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "importation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-/dentro o negazione' (in/inside or negation) is misleading for this context. In 'importation', 'im-' (from Latin 'in-') means 'into' or 'inward', not negation. The 'negation' sense is secondary and not relevant here.",
+    "suggestion": "Change homeLang for 'im' to 'in-/dentro' (in/inside) or 'verso l'interno' (toward the inside), removing the negation option as it's not the operative meaning in this word.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The prefix is labeled as 'de' but should be 'dis' or 'de'. The morpheme split 'de-struct-ion' is correct, but the representation as 'de' in targetLang is inconsistent with how the morpheme actually appears in the word 'destruction' which follows Latin dis- or de- patterns.",
+    "suggestion": "Clarify whether this is 'de-' or 'dis-' and ensure consistency. The entry currently shows 'de' but the word structure suggests a clearer 'de-' prefix notation.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reconstruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'con' is listed separately, but in 'reconstruction' the actual structure is 're-' + 'construct' + '-ion'. The 'con-' in construct is not a separate morpheme prefix here; it's part of the root 'construct'. Splitting 're-con-struct-ion' suggests con is independently meaningful, which is misleading for this word.",
+    "suggestion": "Restructure as: 're-' (again) + 'construct' (root) + '-ion' (-tion suffix). Remove 'con' as a separate morpheme or add clarification that it's part of the root, not a separate prefix in this context.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "perspective",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "Similar to reconstruction, 'per-' and 'spect' are split, but the suffix should be '-ive' not just 'ive'. The full word structure 'per-spect-ive' is captured, but '-ive' might be clearer as a suffix marker.",
+    "suggestion": "The split is acceptable as is, but for consistency with other entries using suffix notation (like '-zione'), consider whether this should show '-ive' more explicitly.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de' in 'description' does not mean 'giù/annullare' (down/cancel). In this context, 'de' is a Latin prefix meaning 'down from' or 'away,' but in 'description' it does not negate or reverse the meaning of 'scribe.' The entry incorrectly suggests 'de' inverts the base word's meaning, which is misleading.",
+    "suggestion": "Change homeLang to 'da/giù' or 'away from' and clarify that 'de' here means 'from' or 'down from,' not a negation. Consider revising homeLangDetails to reflect that 'de + scrib' means 'to write down/out,' not 'to unwrite.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "impression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' in 'impression' is the assimilated form of 'in-' (meaning 'in'), not 'in-/dentro' as a separate morpheme. The gloss 'in-/dentro' is correct but the entry should clarify this is an assimilated allomorph of 'in-' before 'p'.",
+    "suggestion": "Change homeLang to 'in- (assimilated to im- before p)' or simply 'in-' with a note about assimilation",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'at-' in 'attraction' is the assimilated form of 'ad-' (meaning 'to/toward'), not 'verso/a'. While 'verso' can mean 'toward', the etymologically accurate gloss should reference 'ad-'.",
+    "suggestion": "Change homeLang to 'ad- (assimilated to at-)' or 'a-'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "permission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' comes from Latin 'mittere' (to send), not 'mandare'. While 'mandare' is Italian for 'to send', it's a different etymology. The gloss should reference the Latin root 'mittere'.",
+    "suggestion": "Change homeLang to 'mittere (mandare)' or 'mandare/inviare' to clarify the Italian equivalent of the Latin root",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "transmission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' is glossed as 'mandare' (send), but in 'transmission' it comes from Latin 'mittere' (to send/let go). While 'mandare' can mean 'send', the connection is misleading because 'miss' in English morphology represents the Latin root 'mitt-', not the Italian verb 'mandare'. The gloss should reference the Latin etymological root more clearly.",
+    "suggestion": "Change homeLang to 'mitt-' or add homeLangDetails explaining it derives from Latin 'mittere' (mandare/inviare)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reception",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses 'ricevimento' which is correct for a formal reception/party, but the word 'reception' in the example 'The wedding reception' specifically refers to a social gathering. While 'ricevimento' is accurate, 'ricevimento di nozze' or 'ricevimento matrimoniale' would be more natural and complete.",
+    "suggestion": "Change to 'Il ricevimento matrimoniale si è tenuto in un hotel locale.' or 'Il ricevimento di nozze si è tenuto presso un hotel locale.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reference",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'fer' should be split into 'fer' (carry) + 'ence' (the noun suffix), but 'ence' is listed separately. However, the real issue is that 'reference' contains 're-' which is a prefix, and the root is 'fer' + 'ence'. The current split treats them as three separate components when 'ence' is a single nominalizing suffix. The split is acceptable but could be clearer.",
+    "suggestion": "The current split is actually correct. No change needed.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'con-' is glossed as 'insieme' (together), but in 'conversion' the prefix doesn't contribute the sense of 'together'. The root 'vert' means 'turn', and 'con-' here functions more as a completive prefix meaning 'thoroughly' or 'completely', not 'together'. The gloss is misleading for this particular word.",
+    "suggestion": "Either provide context-specific details for 'con-' in this entry explaining it means 'thoroughly/completely turn', or keep the gloss as 'insieme' but add homeLangDetails clarifying that in this word it has a different function.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The split 'oc' + 'cur' + 'rence' is incorrect. The prefix is 'oc-' (variant of 'ob-', meaning 'toward'), but 'cur' should be 'curr' to accurately reflect the Latin root 'currere' (to run). The correct split should be 'oc' + 'curr' + 'ence'.",
+    "suggestion": "Change parts[1].targetLang from 'cur' to 'curr'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'verso' (toward) is imprecise. The prefix 'oc-' is a variant of 'ob-' meaning 'toward' or 'against', but 'verso' alone does not capture this clearly. A more accurate gloss would be 'verso/contro' (toward/against) or simply noting it as a variant of 'ob-'.",
+    "suggestion": "Change homeLang to 'verso/contro' or 'ob- (verso)'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme breakdown is overly granular and incorrect. 'Unprecedented' should be split as un- + precedent + -ed, not un- + pre- + ced- + -ent + -ed. The 'ent' suffix and 'ed' ending are being treated as separate morphemes when 'precedent' is the actual adjective base, and only '-ed' marks the past participle (though here it functions adjectivally). The 'pre-' and 'ced-' split is artificial; 'precedent' is the bound morpheme, not separable into productive parts in this context.",
+    "suggestion": "Split as: un- (not) + precedent (from Latin praecedere, 'to go before') + -ed (adjective marker). Or more simply: un- + precedent-ed, treating 'precedent' as an indivisible root.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'accaddero' is incorrect in this context. 'Accadere' is the infinitive; the past tense would be 'accaddero' (future) or 'accaddero' (archaic future perfect), but the example sentence uses past tense 'were happening' which should translate to 'accadevano' (imperfect) or 'si verificavano'. The phrasing also sounds stilted.",
+    "suggestion": "Change to: 'I due eventi erano simultanei, accadevano nello stesso momento.' or 'I due eventi erano simultanei, si verificavano allo stesso tempo.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "information",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' in 'information' does not mean 'in' (preposition). It is a cognate/etymological prefix from Latin that is part of the root, not a productive English prefix meaning location. The word's meaning (facts/details) does not derive from 'in' + 'form' + '-ation' in any synchronic sense.",
+    "suggestion": "Either remove the 'in' as a separate morpheme (treat 'information' as a single morpheme or split as 'inform' + '-ation'), or clarify in homeLangDetails that this is an etymological rather than productive morphological breakdown.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "Italian uses 'disruzione' (a direct loanword) rather than the more natural 'interruzione' or 'disturbo'. The entry should reflect the actual Italian term used, or note that 'disruzione' is a technical/formal borrowing.",
+    "suggestion": "Change translationShort to 'disturbo' or 'interruzione', or add a note that 'disruzione' is a formal loanword. The translationLong already captures the meaning well.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The first morpheme is split as 'cor' but should be 'cor-' or the split should recognize 'com-' (the prefix form). 'Cor' alone is not the standard representation of the Latin prefix.",
+    "suggestion": "Change 'cor' to 'com-' to accurately represent the Latin prefix meaning 'together'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "'photo' is glossed as 'luce' (light) but should more accurately reflect 'photo-' as a Greek combining form meaning 'light'. While 'luce' is technically correct, the entry should clarify it's from Greek 'phos' meaning light, similar to how other Greek roots are documented.",
+    "suggestion": "Change to 'luce (dal greco phos)' or add homeLangDetails explaining the Greek origin",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "symphony",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'-suono' is imprecise. The morpheme 'phon-' comes from Greek 'phonē' meaning 'sound' or 'voice', not just a suffix '-suono'. The gloss should clarify it's a combining form, not a simple suffix.",
+    "suggestion": "Change to 'suono/voce (dal greco phonē)' to accurately represent the Greek combining form",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'Sincronizziamo gli orologi prima di partire' uses the subjunctive form 'Sincronizziamo' which suggests a proposal or command. The English example 'Let's synchronize our watches before we leave' is an imperative suggestion, so the translation should use the imperative form 'Sincronizziamo' (which happens to be the same form, but the nuance is clearer as an imperative). However, a more natural Italian rendering would be 'Sincronizziamo gli orologi prima di partire' or 'Sincronizziamo i nostri orologi prima di partire' - the current version is acceptable but slightly awkward without the possessive 'i nostri'.",
+    "suggestion": "Change to 'Sincronizziamo i nostri orologi prima di partire.' for better naturalness",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation uses 'sarebbe un anacronismo' (conditional) which is grammatically correct, but a more natural and common way to express this in Italian would be 'Avere uno smartphone in un film medievale è un anacronismo' (present tense) or 'sarebbe un anacronismo' if emphasizing hypothetical. The current version is acceptable but the example sentence structure suggests a simple statement rather than a conditional.",
+    "suggestion": "Consider 'Avere uno smartphone in un film medievale è un anacronismo.' as a more direct translation",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation uses 'simpatia' which in modern Italian means 'liking' or 'fondness', not 'compassion/sympathy'. The English 'sympathy' in the context of 'difficult situation' should translate to 'compassione' or 'dispiacere', not 'simpatia'.",
+    "suggestion": "Change 'Ho provato simpatia per la sua difficile situazione' to 'Ho provato compassione per la sua difficile situazione' or 'Mi è dispiaciuto per la sua difficile situazione'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'comfort' should be split into 'com' + 'fort' to show the full morphological structure. 'Com' (Latin: with/together) + 'fort' (Latin: strength) = comfort.",
+    "suggestion": "Split 'comfort' into 'com' and 'fort', or at minimum provide homeLang details explaining that 'comfort' itself is a compound from Latin com- + fortis",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'scomodo' is correct for the adjective meaning 'not comfortable' in the physical sense, but it misses the broader sense of 'uncomfortable' which can mean emotionally uneasy or awkward. The short translation should reflect this nuance.",
+    "suggestion": "Change to 'scomodo, imbarazzante' or 'che causa disagio' to better capture both physical and emotional discomfort",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'believe' should be analyzed as 'be' + 'lieve' (from Old English leofan, to allow/permit), showing its historical structure, or at minimum provide this etymology in homeLangDetails.",
+    "suggestion": "Either split 'believe' or add homeLangDetails explaining its Old English origins",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation adds 'memorabile e straordinario' (memorable and extraordinary) which goes beyond the actual meaning. 'Unforgettable' simply means 'that cannot be forgotten,' not necessarily extraordinary.",
+    "suggestion": "Change to 'che non può essere dimenticato' or 'indimenticabile' without adding extra connotations",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'understand' itself is a compound (under + stand) and should be split further for a complete analysis, especially since this is a morpheme dictionary.",
+    "suggestion": "Consider splitting 'understand' into 'under' + 'stand' as a separate entry or noting this in the decomposition",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'represent' itself is a compound (re + present) and should be split further for completeness in a morpheme dictionary.",
+    "suggestion": "Consider noting that 'represent' contains 're-' + 'present' in the decomposition",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'emotionally intense' is somewhat redundant with 'emotionally'. Also, the definition could be more concise and precise.",
+    "suggestion": "Change to 'estremamente impressionante o potente; che travolge emotivamente o fisicamente'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "underestimate",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The example translation for 'underestimate' is incorrect. The text says \"sopravvalutare poco\" (value slightly too much) but underestimate means to value too little, which is \"sottovalutare.\"",
+    "suggestion": "Change the explanation to clarify that underestimate means \"sottovalutare\" (undervalue), not \"sopravvalutare poco\" (slightly overestimate)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'La ferrovia che attraversa il continente' is awkward. A more natural translation would use the adjective form 'transcontinentale' directly, as in the translationShort.",
+    "suggestion": "Change to: 'La ferrovia transcontinentale ha collegato le coste orientale e occidentale.' or 'La ferrovia che attraversava il continente ha collegato le coste orientale e occidentale.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'industrial' should be further split into 'industri' + 'al', since '-al' is a productive suffix forming adjectives. The entry treats 'industrial' as atomic when it contains a bound morpheme.",
+    "suggestion": "Split into three parts: 'industri', 'al', 'ize', 'tion' (or 'industry' + 'al' + 'ize' + 'tion')",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'agree' is given as 'accordare', but 'accordare' means 'to tune/to harmonize' or 'to accord/grant'. The more natural Italian translation for the English verb 'agree' is 'essere d'accordo' or 'concordare'. 'Accordare' is misleading in this context.",
+    "suggestion": "Change to 'essere d'accordo' or 'concordare'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' (ad-) + 'point', as 'appoint' is itself a compound. The root is 'point' (from Latin punctum), and 'ap-' is a prefix.",
+    "suggestion": "Split 'appoint' into 'ap'/'ad' (a, verso) and 'point' (punto/designare)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The long translation is somewhat generic. 'Disappointment' in English has a more specific nuance of unfulfilled expectations resulting in dissatisfaction, which 'delusione' captures better. The current definition is accurate but could be more precise.",
+    "suggestion": "Consider: 'la sensazione di dispiacere e insoddisfazione quando qualcosa non corrisponde alle aspettative' or simply rely on the accurate 'delusione' as the primary translation",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "acknowledgment",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "'Acknowledge' is itself a compound that should be split further: 'ack' (from Old English 'ac', meaning 'also' or a variant of 'agen') + 'knowledge'. The entry treats 'acknowledge' as a simple morpheme when it is itself composed.",
+    "suggestion": "Split into 'ack'/'ac' and 'knowledge' (conoscenza), or note that 'acknowledge' comes from 'ac-' + 'knowledge' (to know)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'extra' is glossed as 'oltre' (beyond), but in Italian the direct equivalent is 'extra' itself, meaning 'outside' or 'beyond'. The gloss 'oltre' is a loose approximation rather than the actual morpheme meaning.",
+    "suggestion": "Change homeLang to 'extra' or 'fuori, al di là' to more accurately reflect the Latin prefix meaning 'outside/beyond'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-able' is glossed as '-bile', but this is incomplete. In English morphology, '-able' (from Latin '-abilis') should be glossed as a suffix meaning 'capable of being' or 'worthy of'. The Italian '-bile' suffix does exist with similar meaning, but the gloss should clarify it's a suffix forming adjectives.",
+    "suggestion": "Change homeLang to '-bile (capace di)' or provide clearer explanation that this is an adjectival suffix",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "expandable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The word 'scatolone' (large cardboard box) is an odd choice for a storage box. The more natural Italian term would be 'scatola' or 'contenitore'. Additionally, 'quando hai bisogno di più spazio' is more colloquial than the formal English 'when you need more space'.",
+    "suggestion": "Change exampleTranslation to 'Questo contenitore è espandibile quando hai bisogno di più spazio.' or 'Questa scatola è espandibile quando serve più spazio.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"ininteligibile\" is a misspelling; the correct Italian word is \"inintelligibile\" (with double 'l'). However, this is also not the most natural translation—\"incomprensibile\" alone is the standard Italian term.",
+    "suggestion": "Change to \"incomprensibile\" or \"incomprensibile, inintelligibile\" with correct spelling of the second term.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation \"Alcuni separano il lavoro dalla vita personale in compartimenti distinti\" is awkward and doesn't capture the meaning of 'compartmentalize' idiomatically. The phrase 'in compartimenti distinti' is unnatural Italian.",
+    "suggestion": "Use a more natural Italian translation: \"Alcuni compartimentalizzano il lavoro e la vita personale\" or \"Alcuni separano il lavoro dalla vita personale.\"",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "carefully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '-pieno' (full), but this is misleading. While etymologically related to 'full', '-ful' in English means 'full of' or 'characterized by', and the Italian equivalent should be '-oso' or '-ful' itself, not '-pieno' which is a standalone adjective meaning 'full'.",
+    "suggestion": "Change homeLang to '-oso' or add clarification that '-pieno' functions as 'full of' in this context",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-less' is glossed as '-meno' (less/minus), but this is inaccurate. '-less' means 'without' and should be glossed as '-senza' or using the Italian suffix '-senza' or better yet '-less' (without). The Italian equivalent is typically 'senza' or the prefix 'in-'.",
+    "suggestion": "Change homeLang to '-senza' or 'senza-' to more accurately represent 'without'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "carelessness",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'carelessly': '-less' is glossed as '-meno' (less/minus), but '-less' means 'without'. This is a false cognate gloss.",
+    "suggestion": "Change homeLang to '-senza' or 'senza-' to more accurately represent 'without'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '-pieno' (full), which is misleading for the same reason as in 'carefully'. '-ful' means 'full of' and should be mapped to '-oso' in Italian.",
+    "suggestion": "Change homeLang to '-oso' or clarify that '-pieno' functions as 'full of' in this context",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "helplessly",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-less' is glossed as '-meno' (less/minus), but '-less' means 'without'. This is the same false cognate error as in 'carelessly'.",
+    "suggestion": "Change homeLang to '-senza' or 'senza-' to more accurately represent 'without'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'-ful' is glossed as '-pieno' (full), but this is misleading. The suffix '-ful' means 'full of' or 'characterized by', not literally 'pieno'. The homeLang should reflect the actual English morpheme meaning more accurately.",
+    "suggestion": "Change homeLang to '-pieno di' or '-oso' to better convey 'full of' rather than just 'pieno'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'thank' is glossed as 'ringraziamento' (noun: thanksgiving/thanks), but 'thank' is a verb. The homeLang should be the verb form 'ringraziare' or at least acknowledge it as a verb.",
+    "suggestion": "Change homeLang from 'ringraziamento' to 'ringraziare' or 'grato'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'-ful' is glossed as '-pieno', which is misleading for the same reason as in 'hopefully'. The suffix means 'full of' or 'characterized by', not literally 'pieno'.",
+    "suggestion": "Change homeLang to '-pieno di' or '-oso' to better reflect the meaning of '-ful'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'thank' is given as 'ringraziamento' (noun: gratitude/thanks), but 'thank' is a verb. The Italian equivalent should be 'ringraziare' (to thank).",
+    "suggestion": "Change homeLang to 'ringraziare'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses 'coraggio' (courage) but the word itself is 'fearlessness' (assenza di paura). While semantically related, the translation should more directly reflect 'fearlessness' or 'assenza di paura' to match the morphological structure being taught.",
+    "suggestion": "Change to 'La sua assenza di paura ha ispirato tutti quelli intorno a lei.' or 'La sua mancanza di paura ha ispirato tutti quelli intorno a lei.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The entry splits 'beautifully' as beauty + ful + ly, but then the homeLangDetails for 'ful' acknowledges that 'bellezza' already contains a suffix and that the natural Italian form is 'bellissimo' (beautiful) + '-mente', not 'bellezza' + '-oso'. The split misleads by suggesting beauty → beautiful → beautifully, when the actual decomposition should recognize 'beautiful' as the base adjective.",
+    "suggestion": "Restructure to split as: beautiful (bellissimo) + ly (-mente), or acknowledge in the entry that this is a special case where the English morphology doesn't align cleanly with Italian morphology.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'in modo felice' (in a happy manner), but 'successfully' means 'in a successful manner' (con successo / in modo riuscito), not 'in a happy manner'. The translation is inaccurate.",
+    "suggestion": "Change translationShort to 'in modo riuscito' or 'con successo'.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'L'oratore ha presentato un argomento potente e persuasivo' drops the adverbial sense of 'powerfully'. It reads as 'The speaker presented a powerful and persuasive argument' rather than 'The speaker delivered powerfully (in a powerful manner)'.",
+    "suggestion": "Change to 'L'oratore ha presentato un argomento in modo potente e persuasivo' or 'L'oratore ha espresso in modo potente un argomento persuasivo'.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "development",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The split 'de-velop' is misleading. The actual morpheme boundary is 'develop' (the full verb stem) + '-ment'. The 'de-' is not a separable prefix in Modern English; it's part of the etymological root but not productive synchronically. Splitting it as 'de' + 'velop' suggests a morphological analysis that doesn't reflect how English speakers analyze this word today.",
+    "suggestion": "Consider splitting as 'develop' + 'ment' instead, or clearly note in homeLangDetails that this is an etymological analysis rather than a synchronic morphological one.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "development",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "Using 'focus' (an English word) in an Italian translation is unnatural. Italian has native words for this concept.",
+    "suggestion": "Change 'Lo sviluppo del bambino è il focus di questo programma di ricerca.' to 'Lo sviluppo del bambino è il fulcro/l'obiettivo di questo programma di ricerca.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation conflates 'prove' with 'approve'. While both come from Latin 'probare', the 'prove' in 'improve' does not directly mean 'approve'. The modern sense of 'improve' is 'make better', and the etymological connection to 'prove' is tenuous in modern English. The explanation is historically interesting but linguistically imprecise.",
+    "suggestion": "Clarify that 'prov-' comes from Latin 'probare' (to test, approve) and that in 'improve' the sense has evolved to mean 'make better'. Consider simplifying to avoid the misleading 'prove' reference.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The split 'ise' is problematic. In 'advertisement', the actual suffix sequence is '-ise' (forming a verb from the root 'advert-'), then '-ment' (forming a noun from that verb). However, 'advertise' is the verb form, and '-ment' attaches to it as a whole. The morphological chain is 'advert' + '-ise' (making 'advertise') + '-ment' (making 'advertisement'). Splitting as separate units obscures this sequence.",
+    "suggestion": "Reconsider whether to split 'ise' separately or group it differently. The clearer analysis might be 'advert' + 'ise' + 'ment', acknowledging that '-ise' converts 'advert' to a verb before '-ment' nominializes it.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'enter' is glossed as 'entrare' (to enter), but in 'entertain' it comes from Old French 'entre' (between, among) combined with 'tenir' (to hold). The modern English verb 'enter' and the 'enter-' in 'entertain' have different etymological origins. The sense is 'to hold/keep (someone) among (us)' not 'to enter'.",
+    "suggestion": "Change homeLang to 'entre-/tra/fra' or provide more accurate etymological details explaining the Old French 'entre' + 'tenir' combination",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation that 'tired' comes from 'tirer' (to pull/extract) is historically inaccurate and misleading. 'Tired' means fatigued and has a different etymology. This conflates unrelated words and misrepresents the morphological connection.",
+    "suggestion": "Remove the 'tired (stanco, consumato dal fatto di essere tirato)' example as it is etymologically incorrect and confusing",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "replacement",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Il sostituto per la finestra rotta è arrivato ieri' uses 'sostituto' (substitute, a person) when 'replacement' in this context refers to the object itself (a replacement pane/window). The Italian should use 'sostituzione' or 'pezzo di ricambio' to clarify it's the object, not a person.",
+    "suggestion": "Change to 'Il pezzo di ricambio per la finestra rotta è arrivato ieri' or 'La sostituzione della finestra rotta è arrivata ieri'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'expect' is glossed as 'aspettare' (to wait), but in 'unexpectedly' it means 'to expect' (anticipate), not 'to wait'. The Italian translation should be 'aspettarsi' or 'attendersi'.",
+    "suggestion": "Change homeLang to 'aspettarsi' or 'attendersi' to reflect the actual meaning of 'expect' (anticipate/await)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The primary translation 'irrazionale' (irrational) is misleading. 'Unreasonable' typically means 'eccessivo' or 'irragionevole' (not rational/sensible), not philosophically 'irrational'. The example 'His demands were unreasonable' would translate to 'Le sue richieste erano irragionevoli/eccessive', not 'irrazionali'.",
+    "suggestion": "Change translationShort to 'irragionevole, eccessivo' and reorder so 'irrazionale' is not the primary term",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ing' is listed separately as a gerundio, but in 'unwillingness', the structure is un- + willing + -ness, not un- + will + -ing + -ness. The '-ing' is part of the adjective 'willing', not a separate morpheme to be counted.",
+    "suggestion": "Restructure parts to: 'un' (negativo) + 'willing' (disposto/volenteroso) + 'ness' (-ità). Remove the separate 'ing' entry or clarify that it's embedded in 'willing'.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "unimportant",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Quel dettaglio è banale' is not the most natural or accurate translation. 'Banale' typically means 'banal' or 'trite', whereas the intended meaning here is more 'not important' or 'insignificant'. A better translation would be 'Quel dettaglio è insignificante' or 'Quel dettaglio non è importante'.",
+    "suggestion": "Change exampleTranslation to: 'Quel dettaglio è insignificante.' or 'Quel dettaglio non è importante.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reconnect",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'abbiamo ripristinato i contatti' is awkward and doesn't naturally convey the meaning of 'reconnected' in the social sense. 'Ripristinare' implies restoring technical/formal connections, not the personal reconnection intended here.",
+    "suggestion": "Change to 'Dopo anni di separazione, ci siamo riconnessi alla riunione.' or 'Dopo anni di separazione, abbiamo ricongiungerci alla riunione.'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word 'cycle' should be further analyzed. In 'recycling', the base is 'cycle' but the morpheme structure is actually 're-' + 'cycl-' + '-ing'. The part labeled 'cycle' conflates the root 'cycl-' with the full noun form 'cycle'. Additionally, 'cycle' in this context comes from Greek 'kyklos', not a standalone English word that was prefixed; it's part of a bound root.",
+    "suggestion": "Consider splitting as 're-' + 'cycl-' + '-ing' or note that 'cycle' here is a bound root from Greek, not a free morpheme. The homeLang should reflect 'ciclo' for the root, but clarify that in English this is not a transparent combination of re- + the noun cycle.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "introduction",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The part 'intro' should be split further into 'in' (prefix meaning 'into') and 'tro' (from Latin 'trudere' meaning 'to thrust/push'). Currently presenting 'intro' as an atomic morpheme is misleading.",
+    "suggestion": "Split into: 'in' (in-/dentro) and 'tro' (spingere), or at minimum clarify that 'intro' itself is a compound prefix",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'L'introduzione al romanzo introduce il conflitto principale' is awkward and circular (introduce/introduce). The verb 'introduce' shouldn't be used in the translation of a noun phrase.",
+    "suggestion": "Change to: 'L'introduzione del romanzo presenta il conflitto principale' or 'L'introduzione al romanzo espone il conflitto principale'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'pro-nunc-iation' but 'nunc' is not a meaningful morpheme in English pronunciation. The correct split should be 'pro-nounce-iation' or better yet 'pro-nun-ci-a-tion' (pro- + nounce/nunti- + -ation).",
+    "suggestion": "Resplit as 'pro' (forward) + 'nounce' (from Latin nuntiare, to announce) + '-ation' (action), or acknowledge the Latin root structure more accurately.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'nunc' is glossed without explanation, but it doesn't correspond to any recognizable English morpheme. It appears to be a Latin root (meaning 'now') which is not the actual etymological source of the English morpheme in 'pronunciation'.",
+    "suggestion": "Replace with the correct morpheme 'nounce' (from Latin nuntiare) with gloss 'annunciare/proclamare'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'ex-plan-ation' but 'plan' (glossed as 'piatto') does not reflect the actual morpheme. The correct split is 'ex-plain-ation' where 'plain' derives from Latin planare (to make flat/clear).",
+    "suggestion": "Resplit as 'ex' (out) + 'plain' (from planare, to make clear/flat) + '-ation'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "explanation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'piatto' (flat) is etymologically related but misleading for modern English speakers; the connection between 'plain' and 'flat' is obscured by sound changes and semantic drift.",
+    "suggestion": "Gloss as 'spiegare/chiarire' (from the sense of making something flat/clear, but note the semantic evolution)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "examination",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'am' is glossed as 'pesare' (to weigh), but the actual Latin root is 'examinare' from 'examen' (means of weighing/testing). The morpheme 'am' alone does not mean 'pesare' in English morphology.",
+    "suggestion": "Gloss as 'esaminare/testare' (from Latin examen, a means of testing) or clarify that 'am' derives from the Latin examen root",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "imagination",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "'ag' is glossed as 'immagine' but the correct morpheme should be 'ag' from Latin 'imago' (image). The split 'im-ag-ination' is correct but the gloss 'immagine' (which is Italian) is misleading in an English learning context—it should reflect the Latin root 'imago'.",
+    "suggestion": "Gloss 'ag' as 'image' (from Latin imago) rather than 'immagine'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts[2]",
+    "issue": "The suffix is split as '-ination' but should be split as '-ation' alone, since '-ina-' is part of the verbal stem 'imagine' not a separate morpheme. Better split: 'im-agin-ation'.",
+    "suggestion": "Resplit as 'im' (in) + 'agin' (from imaginari) + '-ation', or 'im' + 'agine' + '-tion'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'il rimbalzo della luce' (the bounce/reflection of light) is incomplete and misleading. 'Reflection' primarily means one's image in a mirror or deep thought/contemplation in modern English, not just the physical phenomenon of light bouncing.",
+    "suggestion": "Change to 'l'immagine riflessa' or 'il riflesso; il pensiero profondo' to capture both common meanings",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "reflection",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses 'riflesso' which is correct, but the translationShort emphasizes 'rimbalzo della luce' (light bounce), creating inconsistency. The example should align with the short translation's stated meaning.",
+    "suggestion": "Either change translationShort to include 'riflesso/immagine nello specchio' or clarify that 'reflection' has multiple meanings",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "impossible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as im + poss + ible, but 'poss' is itself a reduced/morphed form of 'possi' (from Latin possibilis). More critically, 'possible' is already a complete English adjective formed from Latin 'possibilis', and the split should reflect that 'impossible' = im- + possible, not im- + poss + ible. The current split obscures that 'possible' is the root word being negated.",
+    "suggestion": "Split as 'im' + 'possible' to show that the prefix negates the complete adjective, or at minimum acknowledge that 'poss' + 'ible' together form the root 'possible'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "incredible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as in + cred + ible, but 'credible' (from Latin credibilis) is itself a complete adjective meaning 'worthy of belief'. The split should reflect that 'incredible' = in- + credible, not in- + cred + ible. The current split obscures the structure.",
+    "suggestion": "Split as 'in' + 'credible' to show the prefix negates the complete adjective, or at minimum acknowledge that 'cred' + 'ible' together form the root 'credible'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 4 morphemes, not 3. 'reverse' itself contains 're-' (prefix meaning 'again') + 'verse' (turn). The current split treats 'reverse' as a single unit.",
+    "suggestion": "Split as: ir- + re- + verse + -ible, or at minimum acknowledge that 'reverse' is a compound morpheme containing 're-' + 'verse'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 4 morphemes, not 3. 'destruct' is itself 'de-' (prefix) + 'struct' (build). The current split treats 'destruct' as a single unit.",
+    "suggestion": "Split as: in- + de- + struct + -ible, or at minimum acknowledge that 'destruct' is a compound morpheme containing 'de-' + 'struct'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang translation 'sopra' is not precise. While 'super-' can mean 'sopra' (above), in 'supernatural' the prefix conveys 'beyond' or 'transcending' rather than literally 'above'. The Italian equivalent prefix 'sovra-' is more accurate here.",
+    "suggestion": "Change homeLang to 'sovra-' or add clarification that in this context it means 'beyond' rather than simply 'above'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tic' is glossed as '-ico' but this is misleading. The '-tic' in 'antibiotic' comes from Greek '-tikós' (relating to) and doesn't directly correspond to the Italian adjectival suffix '-ico' in a way that clarifies the morpheme's function. The connection obscures rather than illuminates.",
+    "suggestion": "Consider glossing as 'relativo a' or 'che riguarda' to better reflect the Greek adjectival suffix function, or provide more detailed homeLangDetails",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "automatically",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'matic' is glossed as 'movimento' (movement), but this is incorrect. In 'automatic', the '-matic' comes from Greek '-matikos' (relating to) and ultimately from '-ma' (thing/result), not from a root meaning 'movement'. The gloss is misleading.",
+    "suggestion": "Gloss 'matic' as 'relativo a' or 'che riguarda' (relating to), or provide the Greek etymology '-matikos'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "democracy",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The part 'demo' should be further analyzed. In Greek, 'dem-' (people) is the root, and 'demo' is not a standard English morpheme form. The entry should clarify this is from Greek 'demos'.",
+    "suggestion": "Either change to 'dem' or add homeLangDetails clarifying the Greek etymology",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "geography",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'geo' is listed as 'terra', but 'geo' actually comes from Greek 'gē' (γῆ), not from Latin 'terra'. While they are synonymous in meaning, the etymological source is incorrect.",
+    "suggestion": "Change homeLang to 'gē (greco)' or note that it is from Greek origin, not Latin/Italian 'terra'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme split 'respons-ibility' is incorrect. The correct split should be 'response' or 'responsible' + '-ity'. The 'respons' part alone is not a standard English morpheme; it should be 'response' (from Latin 'respondere') or recognized as part of 'responsible'.",
+    "suggestion": "Either split as 'response + -ibility' or 'responsible + -ity' depending on the approach, but 'respons' alone is not an accurate morpheme boundary",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "electricity",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'electric' is listed as 'elettrico', but 'electric' comes from Greek 'ēlektron' (ἤλεκτρον, amber), not directly from the Italian 'elettrico'. While Italian 'elettrico' is a cognate, it obscures the actual etymological source.",
+    "suggestion": "Change homeLang to note the Greek origin 'ēlektron' or clarify that 'electric' is from Greek via Latin, not from Italian 'elettrico'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The morpheme 'flex' is incomplete. The actual morpheme should be 'flex-' (the root), and 'ible' should be '-ible' (the suffix). However, more critically, the splitting is problematic because 'flex' alone is not a standard English morpheme—the word structure is actually flex + ible + ity, but 'flex' is presented as equivalent to 'flessibile' (an Italian adjective), which creates confusion about the morphological analysis.",
+    "suggestion": "Either present parts as: 1) 'flex' (homeLang: 'flettere/piegarsi'), 2) '-ible' (homeLang: '-bile'), 3) '-ity' (homeLang: '-ità'); or restructure to clarify that 'flex-' is the root meaning 'to bend/flex' in English",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "effectively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as effect + iv + ly, but 'effective' (effect + ive) should be recognized as a complete unit before adding the adverbial suffix. The morphological analysis should show: (effect + ive) + ly, not effect + iv + ly. The intermediate adjective 'effective' is a meaningful unit that should be acknowledged.",
+    "suggestion": "Restructure to show: 1) 'effective' (homeLang: 'efficace'), 2) '-ly' (homeLang: '-mente'); or if showing all three parts, clarify that parts 1-2 form the adjective 'effective' before '-ly' is applied",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 're-' in 'researcher' does not mean 'ri-' (repetition/return). In 'researcher', 're-' is simply part of the Latin root 'research' (from Old French 'cerchier'), not a productive prefix meaning 'again'. The word does not imply 'searching again' but rather 'one who searches/investigates'.",
+    "suggestion": "Either remove the 're-' as a separate morpheme and treat 'research' as a single unit, or clarify that this 're-' is etymologically a prefix but not synchronically productive in modern English morphology for this word.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort 'chi investigà' uses an incorrect verb form. The past tense 'investigà' (he/she investigated) is not appropriate here. It should be present tense to match the pattern of other entries.",
+    "suggestion": "Change to 'chi investiga' (who investigates) or 'colui che investiga'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'graph' is listed as '-grafo', but in the context of 'photographer', the part should be '-grafia' (the noun form meaning 'writing/recording') not '-grafo' (the person who writes). The morphological analysis conflates the root with the agentive suffix.",
+    "suggestion": "Consider restructuring: 'photo' (foto) + 'graphy' (-grafia) + 'er' (-o/a), or clarify that '-graph-' is the root and '-er'/'-o' is the agentive suffix applied to 'photograph' (the noun)",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails states 'Sia -ore che -ore significano' which is a tautology—it repeats '-ore' twice instead of comparing two different forms. This appears to be a typo or error in the explanation.",
+    "suggestion": "Clarify the distinction: the text should explain the difference between '-ore' and '-atore' or '-atore' vs other variants, or remove the redundancy",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"condividere informazioni\" (share information) is too narrow. \"Communicate\" means to transmit or exchange information/ideas more broadly, not specifically to share.",
+    "suggestion": "\"trasmettere informazioni\" or \"scambiare informazioni\"",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "investigate",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"investigherà\" is grammatically correct but \"la polizia investigherà\" sounds slightly formal/archaic. More natural phrasing would be \"la polizia indagherà\" or \"la polizia farà un'indagine\".",
+    "suggestion": "\"La polizia indagherà sulla scena del crimine domani.\" or \"La polizia farà un'indagine sulla scena del crimine domani.\"",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "participate",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"alla discussione della classe\" is slightly awkward. Standard Italian would be \"alla discussione di classe\" or \"alla discussione della lezione/classe\".",
+    "suggestion": "\"Tutti gli studenti devono partecipare alla discussione di classe.\" or \"Tutti gli studenti devono partecipare alla discussione della lezione.\"",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"Voglio congratularmi con te per l'eccellente performance!\" uses the English loanword \"performance\". More natural Italian would use \"prestazione\" or \"risultato\".",
+    "suggestion": "\"Voglio congratularmi con te per l'eccellente prestazione!\" or \"Voglio congratularmi con te per il tuo eccellente risultato!\"",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as mis-inter-pret-et, but 'et' is not a separate morpheme in English. The correct split should be mis-inter-pret. The '-et' appears to be a confusion with Latin morphology, but modern English 'misinterpret' uses the bare infinitive 'interpret', not an archaic form with '-et'.",
+    "suggestion": "Remove the 'et' part entirely. The word should be split as: mis- (prefix), inter- (prefix), pret/prét (root meaning 'to explain/interpret').",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The morpheme 'pret' is glossed as 'spiegare' (explain), but the actual root is 'pret-' which derives from Latin 'praetere' meaning 'to set forth' or 'to stretch before.' The connection to 'explain' is indirect. The gloss conflates the semantic outcome with the root meaning.",
+    "suggestion": "Revise to: 'pret/interpretare' or provide a more etymologically accurate gloss like 'pret/esporre (to set forth)' and explain how 'inter-' + 'pret-' yields 'interpret'.",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The part 'struct' should have homeLangDetails explaining its meaning, but none is provided. For consistency with other entries and to help learners, this root needs more detail.",
+    "suggestion": "Add homeLangDetails for 'struct': 'struct/costruire - Dalla radice latina struere, che significa costruire, assemblare, organizzare. Trovi questo in structure (struttura), construct (costruire), instruct (istruire).'",
+    "source_file": "en-it.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Italian translation 'descriveremo gli argomenti principali' (we will describe the main arguments) does not accurately capture 'deconstruct'. The verb 'descrivere' means 'to describe', not 'to deconstruct' or 'to break down analytically'. The translation then adds 'scomponendoli' (breaking them down) awkwardly as a gerund clause, but this doesn't match the original sentence structure.",
+    "suggestion": "Use a more natural translation like: 'In questo seminario desconstruiremo/analizzeremo gli argomenti principali del testo scomponendoli nei loro elementi costitutivi.' Or more idiomatically: 'In questo seminario analizzeremo criticamente gli argomenti principali del testo, scomponendoli negli elementi costitutivi.'",
+    "source_file": "en-it.json"
+  }
+]

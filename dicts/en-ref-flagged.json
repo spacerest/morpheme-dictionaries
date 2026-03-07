@@ -1,0 +1,67 @@
+{
+  "words": [
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "not",
+          "homeLangDetails": "The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "go"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(past)"
+        }
+      ],
+      "translationShort": "unprecedented",
+      "translationLong": "never done or known before; without precedent",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/down/undo",
+          "homeLangDetails": "Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/together",
+          "homeLangDetails": "With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "build"
+        },
+        {
+          "targetLang": "",
+          "homeLang": "(past participle)",
+          "homeLangDetails": "The base form 'deconstruct' functions as a verb infinitive. In de-con-struct, the -ed suffix (if present, as in 'deconstructed') marks the past participle; the bare form 'deconstruct' is the infinitive."
+        }
+      ],
+      "translationShort": "to take apart analytically",
+      "translationLong": "to take apart, to disassemble, to analyze by breaking into components",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "In this seminar, we will deconstruct the main arguments in the text.",
+      "flag": "base verb form with no overt infinitive suffix"
+    }
+  ]
+}

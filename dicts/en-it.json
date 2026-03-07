@@ -1,0 +1,4609 @@
+{
+  "homeLang": "it",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/dentro o negazione"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "gettare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "iniezione",
+      "translationLong": "l'atto di iniettare; un liquido forzato nel corpo",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "L'infermiera mi ha fatto un'iniezione per aiutare il dolore."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "in avanti/per",
+          "homeLangDetails": "In avanti, a favore di, o al posto di qualcuno. Pensa a parole come progresso, prodotto, pronome: il prefisso pro- ha sempre questa idea di spinta verso il futuro o di rappresentanza."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "gettare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "proiezione",
+      "translationLong": "qualcosa che sporge verso l'esterno; una previsione o una stima",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "La proiezione delle vendite mostra una crescita forte nel prossimo trimestre."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "contro",
+          "homeLangDetails": "Dal prefisso latino ob-, che di solito significa 'contro' o 'verso'. In questa parola, trasmette l'idea di gettare qualcosa contro qualcos'altro, di opporsi a qualcosa."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "gettare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "obiezione",
+      "translationLong": "un'espressione di disaccordo o disapprovazione",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "Ha sollevato un'obiezione alla proposta durante la riunione."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "prima",
+          "homeLangDetails": "Prima nel tempo o nello spazio. Pensa a predire, preparare, preistorico: il prefisso pre- indica sempre qualcosa che viene prima."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "dire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "predizione",
+      "translationLong": "un'affermazione su quello che accadrà nel futuro",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "La predizione del tempo per domani è pioggia."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "contro",
+          "homeLangDetails": "Dal latino contra, che significa 'contro'. Qui si combina con la radice 'dict' (dire) per formare l'idea di 'dire contro' o 'parlare in opposizione'."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "dire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "contraddizione",
+      "translationLong": "un'affermazione o una situazione che si oppone o contraddice un'altra",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "C'è una chiara contraddizione nelle sue due affermazioni."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "diritto"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "dire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "giurisdizione",
+      "translationLong": "il potere ufficiale di prendere decisioni legali e applicare le leggi",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Questo caso rientra nella giurisdizione della corte federale."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, da una parte all'altra, o che cambia da uno stato a un altro. Trasporto, trasformazione, traduzione: il prefisso trans- significa sempre movimento o cambio che attraversa qualcosa."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "trasporto",
+      "translationLong": "il movimento di persone o merci da un luogo a un altro",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "I trasporti pubblici sono più economici che guidare un'auto."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/annullare",
+          "homeLangDetails": "Verso il basso, via, o che annulla un'azione. Diminuire, partire, deconstruire: il prefisso de- spesso capovolge il significato della parola base."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "deportazione",
+      "translationLong": "l'allontanamento forzato di una persona da un paese",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "I procedimenti di deportazione sono durati diversi mesi."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/dentro o negazione"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "importazione",
+      "translationLong": "l'atto di portare merci in un paese dall'estero",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "L'importazione di merci estere è aumentata quest'anno."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "costruire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "costruzione",
+      "translationLong": "il processo di costruire qualcosa; una struttura che viene costruita",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "La costruzione del nuovo ponte richiederà due anni."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/annullare",
+          "homeLangDetails": "Verso il basso, via, o che annulla un'azione. Diminuire, allontanarsi, smontare. Spesso inverte direttamente il significato della parola base."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "costruire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "distruzione",
+      "translationLong": "l'atto di distruggere qualcosa; danno grave o rovina",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "L'uragano ha causato una distruzione diffusa."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "di nuovo",
+          "homeLangDetails": "Segnala ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. Spesso intercambiabile con 'fare di nuovo' o 'tornare indietro'. In italiano funziona allo stesso modo con il prefisso 're-'."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "costruire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "ricostruzione",
+      "translationLong": "il processo di ricostruire qualcosa che è stato danneggiato o distrutto",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "La ricostruzione della città dopo l'incendio ha richiesto molti anni."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in/dentro"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "guardare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "ispezione",
+      "translationLong": "un esame o una revisione attenta di qualcosa",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "L'edificio ha superato l'ispezione di sicurezza."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, completamente, o in modo totale. Perform, permit, persist."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "guardare"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo",
+          "homeLangDetails": "Che tende a qualcosa o che ha la natura di. Attivo, creativo, descrittivo."
+        }
+      ],
+      "translationShort": "prospettiva",
+      "translationLong": "un particolare modo di vedere o comprendere qualcosa; punto di vista",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Dal mio punto di vista, il piano è troppo rischioso."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "all'indietro",
+          "homeLangDetails": "Dal latino retro, che significa 'all'indietro' o 'verso il passato'. Si combina con 'spect' (guardare) per significare 'guardare indietro' al passato."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "guardare"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo",
+          "homeLangDetails": "Che tende a qualcosa o che ha la natura di. Attivo, creativo, descrittivo."
+        }
+      ],
+      "translationShort": "retrospettiva",
+      "translationLong": "una revisione o un esame degli eventi passati; che riguarda o affronta eventi passati",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Il museo ha tenuto una mostra retrospettiva delle opere dell'artista."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "prima",
+          "homeLangDetails": "Prima nel tempo o nella posizione. Prevedere, preparare, preistorico."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "scrivere"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "ricetta medica",
+      "translationLong": "un ordine medico scritto per un farmaco; un insieme di istruzioni",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "Il dottore mi ha dato una ricetta per gli antibiotici."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/annullare",
+          "homeLangDetails": "Verso il basso, via, o che annulla un'azione. Diminuire, allontanarsi, smontare. Spesso inverte direttamente il significato della parola base."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "scrivere"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "descrizione",
+      "translationLong": "un resoconto parlato o scritto di qualcosa; una rappresentazione",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "La sua descrizione dell'evento era molto dettagliata."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "sotto",
+          "homeLangDetails": "Sotto, al di sotto, o secondario. Metropolitana, sottomarino, sostituto."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "scrivere"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "abbonamento",
+      "translationLong": "un pagamento regolare per un servizio o una pubblicazione; una firma",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Ho un abbonamento a tre riviste."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "fuori"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "premere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "espressione",
+      "translationLong": "la trasmissione di sentimento o significato; una frase o una parola",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "La sua espressione mostrava che era turbata."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/annullare",
+          "homeLangDetails": "Verso il basso, via, o che annulla un'azione. Diminuire, allontanarsi, smontare. Spesso inverte direttamente il significato della parola base."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "premere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "depressione",
+      "translationLong": "una condizione di salute mentale caratterizzata dalla tristezza; un'area incavata o vuota",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Ha cercato un trattamento per la sua depressione."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/dentro"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "premere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "una sensazione o idea; un segno lasciato premendo",
+      "translationLong": "una sensazione o idea su qualcosa; un segno o un'impronta lasciati premendo",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Ho avuto l'impressione che non fosse felice."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "verso/a"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "tirare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "una sensazione di interesse o fascino",
+      "translationLong": "una sensazione di interesse o fascino; qualcosa che attira le persone",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Il parco tematico è la principale attrazione per i turisti."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "fuori da"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "tirare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "l'atto di rimuovere o estrarre",
+      "translationLong": "l'atto di rimuovere o estrarre; l'estrazione di un dente",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "Il dentista ha consigliato l'estrazione del dente."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "non/lontano",
+          "homeLangDetails": "Non, o allontanare. Disaccordo, disconnessione, scomparsa. Ha un senso più forte di separazione o inversione rispetto a \"in-\"."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "tirare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "qualcosa che distoglie l'attenzione",
+      "translationLong": "qualcosa che distoglie l'attenzione da un compito; lo stato di essere distratti",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Il rumore era una grande distrazione durante il test."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, completamente, o totalmente. Perfezionare, permettere, perseverare."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "mandare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "consenso ufficiale o approvazione",
+      "translationLong": "consenso ufficiale o approvazione per fare qualcosa",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Hai bisogno dell'autorizzazione del manager per andartene prima."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, da un lato all'altro, o da uno stato a un altro. Trasporto, trasformazione, traduzione."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "mandare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "l'invio di qualcosa; un meccanismo di un veicolo",
+      "translationLong": "l'invio di qualcosa da un luogo a un altro; un meccanismo di un veicolo",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "La trasmissione dei dati è avvenuta senza errori."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "mandare"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-mento",
+          "homeLangDetails": "Forma sostantivi da verbi, riferendosi all'azione, al suo risultato, o ai suoi mezzi. Governo, movimento, divertimento."
+        }
+      ],
+      "translationShort": "un impegno o una promessa; dedizione",
+      "translationLong": "un impegno o una promessa di fare qualcosa; dedizione a una causa o a una persona",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Il suo impegno verso il progetto era incrollabile."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "indietro",
+          "homeLangDetails": "In questa parola, il prefisso porta il suo antico significato latino di 'indietro' piuttosto che 'di nuovo': ricevere significa prendere indietro (o dentro), recede significa tornare indietro, e riferire significa portare indietro a una fonte."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "prendere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "l'atto di ricevere; un evento formale",
+      "translationLong": "l'atto di ricevere; un evento o una riunione formale; la qualità della ricezione del segnale",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "Il ricevimento di nozze si è tenuto in un hotel locale."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, completamente, o totalmente. Perfezionare, permettere, perseverare."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "prendere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "la capacità di comprendere o diventare consapevole",
+      "translationLong": "la capacità di comprendere o diventare consapevole di qualcosa attraverso i sensi; una consapevolezza",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "La sua percezione del tempo è cambiata dopo l'incidente."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/annullare",
+          "homeLangDetails": "Verso il basso, lontano, o annullando un'azione. Diminuzione, partenza, decostruzione. Spesso inverte direttamente il significato della parola base."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "prendere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "l'atto di ingannare o fuorviare",
+      "translationLong": "l'atto di ingannare o fuorviare qualcuno; un inganno o una bugia",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "L'inganno è stato infine scoperto."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "indietro",
+          "homeLangDetails": "In questa parola, re- ha il significato latino più antico di 'indietro' piuttosto che 'di nuovo'. Receive significa prendere indietro (o dentro), recede significa andare indietro, e refer significa portare indietro verso una fonte."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "riferimento",
+      "translationLong": "una fonte consultata per ottenere informazioni; un'allusione o menzione",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "Ho usato quel libro come riferimento per il mio saggio."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "conferenza",
+      "translationLong": "un incontro o una discussione formale",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "La conferenza annuale riunisce scienziati da tutto il mondo."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tra",
+          "homeLangDetails": "Tra o in mezzo. International, interrupt, interact hanno tutti questo significato di 'tra'."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "portare"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "interferenza",
+      "translationLong": "l'atto di interferire; segnali indesiderati che disturbano una trasmissione",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "L'interferenza radiofonica ha interrotto la trasmissione."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "girare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "conversione",
+      "translationLong": "il processo di cambiamento da una forma, stato o credenza a un'altra",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "La conversione del magazzino in appartamenti ha richiesto diversi mesi."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "verso l'interno"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "girare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "introversione",
+      "translationLong": "una tendenza a focalizzare l'attenzione verso l'interno, sui propri pensieri e sentimenti",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "La sua introversione la faceva preferire serate tranquille a casa."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "sotto",
+          "homeLangDetails": "Sotto, inferiore o secondario. Subway, submarine, substitute hanno questo stesso prefisso che indica qualcosa di sottostante o subordinato."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "girare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "sovversione",
+      "translationLong": "l'atto di minare o rovesciare qualcosa di consolidato",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "Il governo ha represso qualsiasi sovversione dell'autorità."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "giù/da",
+          "homeLangDetails": "In questa parola, de- ha il significato direzionale di 'giù da'. Il latino dependere significa letteralmente 'pendere da'. Non inverte il significato della parola, ma descrive una relazione di dipendenza da qualcosa."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "pendere"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "dipendenza",
+      "translationLong": "lo stato di fare affidamento su qualcosa o qualcuno",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "La sua dipendenza dalla caffeina stava influenzando il suo sonno."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "non"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "giù/da",
+          "homeLangDetails": "In questa parola, de- ha il significato direzionale di 'giù da'. Il latino dependere significa letteralmente 'pendere da'. Non inverte il significato della parola, ma descrive una relazione di dipendenza da qualcosa."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "pendere"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "indipendenza",
+      "translationLong": "lo stato di essere autosufficiente e libero dalla dipendenza",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "Ha finalmente raggiunto l'indipendenza finanziaria."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tra",
+          "homeLangDetails": "Tra o in mezzo. International, interrupt, interact hanno tutti questo significato di 'tra'."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "giù/da",
+          "homeLangDetails": "In questa parola, de- ha il significato direzionale di 'giù da'. Il latino dependere significa letteralmente 'pendere da'. Non inverte il significato della parola, ma descrive una relazione di dipendenza da qualcosa."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "pendere"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "interdipendenza",
+      "translationLong": "dipendenza reciproca tra diversi soggetti o gruppi",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Le economie globali mostrano una crescente interdipendenza."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "verso"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "correre"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "occorrenza",
+      "translationLong": "un'istanza o un evento del verificarsi di qualcosa",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "L'occorrenza di terremoti in quella regione è comune."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "di nuovo",
+          "homeLangDetails": "Segnala ripetizione o il ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. Spesso puoi pensarla come 'fare di nuovo' o 'tornare indietro'. In italiano funziona allo stesso modo con il prefisso ri-: ritorno, ricostruire, riconsiderare."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "correre"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-enza"
+        }
+      ],
+      "translationShort": "ricorrenza",
+      "translationLong": "il fatto di accadere o apparire di nuovo",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "La ricorrenza delle emicranie stava diventando un problema serio."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "insieme"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "correre"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ente"
+        }
+      ],
+      "translationShort": "simultaneo",
+      "translationLong": "che accade o esiste nello stesso momento",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "I due eventi erano simultanei, accaddero nello stesso momento."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "indietro",
+          "homeLangDetails": "In questa parola, re- ha il suo significato latino più antico di 'indietro' piuttosto che 'di nuovo'. Recede significa andare indietro, e l'idea è di movimento all'indietro. In italiano corrisponde al prefisso re- in parole come recessione, retrocedere."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "andare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ione"
+        }
+      ],
+      "translationShort": "recessione",
+      "translationLong": "un declino economico, un periodo di riduzione temporanea dell'attività",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Il paese ha subito una grave recessione all'inizio degli anni 2000."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "sotto"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "andare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ione"
+        }
+      ],
+      "translationShort": "successione",
+      "translationLong": "una serie di cose che seguono in ordine, il processo di seguirsi in sequenza",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "La successione dei re durò per tre secoli."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "non",
+          "homeLangDetails": "Il prefisso negativo più comune dell'inglese, ereditato dall'inglese antico. Corrisponde direttamente al tedesco un-, all'olandese on-, e a forme simili nelle lingue germaniche. Capovolge il significato della parola: unhappy diventa 'infelice', unknown diventa 'sconosciuto', unforgettable diventa 'indimenticabile'. In italiano usiamo prefissi come in-, non-, dis- con la stessa funzione."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "prima",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "andare"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ente"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(passato)"
+        }
+      ],
+      "translationShort": "senza precedenti",
+      "translationLong": "mai fatto o conosciuto prima, senza precedenti",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "La pandemia ha causato un'interruzione senza precedenti nelle scuole di tutto il mondo.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "attraverso",
+          "homeLangDetails": "Attraverso, da una parte all'altra, o il cambiamento da uno stato a un altro. Transport, transform, translate sono esempi classici. Come il prefisso italiano trans- in trasmissione, trasformazione, traduzione."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "forma"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "trasformazione",
+      "translationLong": "l'atto o il processo di cambiare forma",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "La trasformazione da bruco a farfalla è straordinaria."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "di nuovo",
+          "homeLangDetails": "Segnala ripetizione o il ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. Spesso puoi pensarla come 'fare di nuovo' o 'tornare indietro'. In italiano funziona allo stesso modo con il prefisso ri-: ritorno, ricostruire, riconsiderare."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "forma"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "riforma",
+      "translationLong": "l'atto di formare di nuovo o riformare",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "La Riforma fu un grande movimento religioso dell'Europa del XVI secolo."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "forma"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "informazione",
+      "translationLong": "fatti o dettagli forniti o appresi",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Ho trovato informazioni utili sull'argomento online."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tra",
+          "homeLangDetails": "Tra o fra più cose. International, interrupt, interact sono esempi comuni. In italiano il prefisso inter- funziona nello stesso modo: internazionale, interruzione, interazione."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "rompere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "interruzione",
+      "translationLong": "una rottura nella continuità o una pausa",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "C'è stata una breve interruzione durante la riunione."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "a parte",
+          "homeLangDetails": "No, o separare in parti. Disagree, disconnect, disappear sono esempi. Ha un senso più forte di separazione o inversione rispetto a un-. In italiano dis- o de- hanno un'effetto simile: disaccordo, disconnesso, scompare."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "rompere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "disruzione",
+      "translationLong": "un disturbo o un problema che interrompe",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "La tempesta ha causato una grave disruzione ai trasporti."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "con-/insieme"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "rompere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "corruzione",
+      "translationLong": "comportamento disonesto o immorale; lo stato di essere corrotti",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "Il governo ha represso la corruzione."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "sé stesso",
+          "homeLangDetails": "Sé stesso. Autobiografia, automatico, automobile. È un prefisso che funziona esattamente come in italiano!"
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "vita",
+          "homeLangDetails": "Vita. Biologia, biografia, biodegradabile. Lo troverai in molte parole scientifiche anche in italiano."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-scritto"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(suffisso nominale)"
+        }
+      ],
+      "translationShort": "autobiografia",
+      "translationLong": "la storia di vita scritta da una persona su se stessa",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Ha scritto un'autobiografia sui suoi primi anni."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "vita",
+          "homeLangDetails": "Vita. Biologia, biografia, biodegradabile. Lo troverai in molte parole scientifiche anche in italiano."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-scritto"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(suffisso nominale)"
+        }
+      ],
+      "translationShort": "biografia",
+      "translationLong": "un resoconto scritto della vita di una persona",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Sto leggendo una biografia dello scienziato famoso."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "luce"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-scritto"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(suffisso nominale)"
+        }
+      ],
+      "translationShort": "fotografia",
+      "translationLong": "l'arte o la pratica di scattare fotografie",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Ha una passione per la fotografia."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Una variante del prefisso con- dal greco. Significa 'insieme' o 'con' - nella sinfonia, molti strumenti suonano insieme in armonia."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-suono"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(suffisso nominale)"
+        }
+      ],
+      "translationShort": "sinfonia",
+      "translationLong": "una composizione orchestrale ampia",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "La Nona Sinfonia di Beethoven è una delle sue opere più grandi."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "lontano",
+          "homeLangDetails": "A distanza. Telefono, televisione, telescopio. È come il prefisso tele- che usiamo anche in italiano!"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-suono"
+        }
+      ],
+      "translationShort": "telefono",
+      "translationLong": "un dispositivo per comunicare a distanza",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Ti chiamerò al telefono domani."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "minuscolo",
+          "homeLangDetails": "Molto piccolo. Microfono, microscopio, microonde. Il prefisso micro- funziona allo stesso modo in italiano!"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-suono"
+        }
+      ],
+      "translationShort": "microfono",
+      "translationLong": "un dispositivo che cattura e amplifica i suoni deboli",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "La cantante ha parlato nel microfono."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-tempo",
+          "homeLangDetails": "Tempo. Cronologia, sincronizzare, anacronismo. Vedrai questo elemento in molte parole scientifiche."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Lo studio di. Biologia, psicologia, tecnologia. È un suffisso che riconosciamo anche in italiano!"
+        }
+      ],
+      "translationShort": "cronologia",
+      "translationLong": "l'ordine temporale degli eventi",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "La cronologia degli eventi è importante per capire."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Una variante del prefisso con- dal greco. Significa 'insieme' - in sincronizzare, gli eventi o le azioni accadono nello stesso momento insieme."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-tempo",
+          "homeLangDetails": "Tempo. Cronologia, sincronizzare, anacronismo. Vedrai questo elemento in molte parole scientifiche."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-izzare"
+        }
+      ],
+      "translationShort": "sincronizzare",
+      "translationLong": "fare in modo che le cose accadano nello stesso momento",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Sincronizziamo gli orologi prima di partire."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "indietro",
+          "homeLangDetails": "Un prefisso greco che significa 'indietro' o 'di nuovo' - in anacronismo, qualcosa è fuori dal suo tempo corretto, va 'indietro' all'epoca sbagliata."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-tempo",
+          "homeLangDetails": "Tempo. Cronologia, sincronizzare, anacronismo. Vedrai questo elemento in molte parole scientifiche."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-ismo",
+          "homeLangDetails": "Una convinzione, pratica, sistema o qualità caratteristica. Realismo, capitalismo, entusiasmo. È un suffisso che usiamo frequentemente anche in italiano!"
+        }
+      ],
+      "translationShort": "anacronismo",
+      "translationLong": "qualcosa collocato nel periodo storico sbagliato",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Avere uno smartphone in un film medievale sarebbe un anacronismo."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "mente"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Una vocale di collegamento (vocale tematica) usata nei composti derivati dal greco per unire i morfemi in modo fluido. Non ha un significato indipendente."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Lo studio di. Biologia, psicologia, tecnologia. Proprio come in italiano, il greco antico usava questo suffisso per formare sostantivi che indicano una disciplina o una scienza."
+        }
+      ],
+      "translationShort": "studio della mente",
+      "translationLong": "lo studio scientifico della mente e del comportamento",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "Ha studiato psicologia all'università."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "umano"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Una vocale di collegamento (vocale tematica) usata nei composti derivati dal greco per unire i morfemi in modo fluido. Non ha un significato indipendente."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Lo studio di. Biologia, psicologia, tecnologia. Proprio come in italiano, il greco antico usava questo suffisso per formare sostantivi che indicano una disciplina o una scienza."
+        }
+      ],
+      "translationShort": "studio dell'umanità",
+      "translationLong": "lo studio scientifico delle società e delle culture umane",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "L'antropologia ci aiuta a comprendere le diverse culture."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "pelle"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Una vocale di collegamento (vocale tematica) usata nei composti derivati dal greco per unire i morfemi in modo fluido. Non ha un significato indipendente."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Lo studio di. Biologia, psicologia, tecnologia. Proprio come in italiano, il greco antico usava questo suffisso per formare sostantivi che indicano una disciplina o una scienza."
+        }
+      ],
+      "translationShort": "studio della pelle",
+      "translationLong": "lo studio medico della pelle e delle sue malattie",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "Ho un appuntamento con uno specialista di dermatologia."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "insieme",
+          "homeLangDetails": "Una variante di syn-, un prefisso greco che significa 'insieme' o 'con'. Qui si unisce con -patia (sentimento) per significare 'sentire insieme', cioè comprendere le emozioni di un'altra persona. In italiano funziona in modo simile con il prefisso 'sim-' o 'sin-'."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-patia",
+          "homeLangDetails": "Sentimento, sofferenza o condizione. Dal greco pathos. Simpatia, empatia, antipatia, apatia. Questi termini esistono in italiano con la stessa struttura e lo stesso significato."
+        }
+      ],
+      "translationShort": "compassione, comprensione",
+      "translationLong": "la capacità di comprendere e condividere i sentimenti di un'altra persona",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "Ho provato simpatia per la sua difficile situazione."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "in-",
+          "homeLangDetails": "Una variante di en-, un prefisso greco che significa 'in' o 'dentro'. Qui suggerisce l'idea di entrare nello stato emotivo di un'altra persona, di assorbirne i sentimenti. È un impegno più profondo e immaginativo rispetto alla semplice simpatia."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-patia",
+          "homeLangDetails": "Sentimento, sofferenza o condizione. Dal greco pathos. Simpatia, empatia, antipatia, apatia. Questi termini esistono in italiano con la stessa struttura e lo stesso significato."
+        }
+      ],
+      "translationShort": "comprensione emotiva",
+      "translationLong": "la capacità di comprendere e provare le emozioni di un'altra persona come se fossero proprie",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "L'empatia è importante per essere un buon amico."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "anti-",
+          "homeLangDetails": "Contro, in opposizione. Antiguerra, antibiotico, anticipare. È un prefisso che troverai in molte parole italiane con lo stesso significato."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-patia",
+          "homeLangDetails": "Sentimento, sofferenza o condizione. Dal greco pathos. Simpatia, empatia, antipatia, apatia. Questi termini esistono in italiano con la stessa struttura e lo stesso significato."
+        }
+      ],
+      "translationShort": "avversione, opposizione",
+      "translationLong": "una forte sensazione di avversione o rifiuto",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "Aveva un'antipatia per l'arte moderna."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "cambiamento/oltre",
+          "homeLangDetails": "Un prefisso greco che significa 'cambiamento', 'oltre' o 'attraverso'. Qui si unisce con morph (forma) per descrivere un cambiamento profondo di forma, la trasformazione di un bruco in una farfalla. Lo ritroverai in molte parole italiane come 'metafora' o 'metamorfosi'."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Forma o aspetto. Metamorfosi, amorfo, morfologia. Questo elemento compare in tante parole che descrivono trasformazioni o cambiamenti di forma."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Una vocale di collegamento (vocale tematica) usata nei composti derivati dal greco per unire i morfemi in modo fluido. Non ha un significato indipendente."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-si",
+          "homeLangDetails": "Un suffisso greco che indica uno stato, un processo o una condizione. Qui trasforma il concetto di 'morphing' (cambiamento di forma) in un sostantivo che si riferisce al processo stesso."
+        }
+      ],
+      "translationShort": "trasformazione, cambiamento",
+      "translationLong": "un cambiamento completo nella forma o nella struttura; una trasformazione biologica",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "La metamorfosi del girino in rana richiede diverse settimane."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "senza-/non",
+          "homeLangDetails": "Un prefisso greco che significa 'non' o 'senza'. È l'equivalente greco del prefisso germanico 'un-'. Qui nega morphe (forma), creando una parola per qualcosa che non ha una forma definita. Funziona esattamente come il prefisso italiano 'a-' in parole come 'amorfo', 'asimmetrico'."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Forma o aspetto. Metamorfosi, amorfo, morfologia. Questo elemento compare in tante parole che descrivono trasformazioni o cambiamenti di forma."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-oso"
+        }
+      ],
+      "translationShort": "senza forma, informe",
+      "translationLong": "che manca di una forma o di una struttura chiara; vago o indefinito",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "L'informe massa di argilla poteva diventare qualsiasi cosa."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "non-",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'Antico Inglese. Corrisponde direttamente al tedesco 'un-', all'olandese 'on-' e a parenti affini nelle lingue germaniche. Inverte il significato della parola base: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). In italiano ha un ruolo simile il prefisso 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "comfort"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "scomodo, che causa disagio",
+      "translationLong": "che causa o provoca disagio; imbarazzante o sgradevole",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "Quella sedia è molto scomoda."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "non-",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'Antico Inglese. Corrisponde direttamente al tedesco 'un-', all'olandese 'on-' e a parenti affini nelle lingue germaniche. Inverte il significato della parola base: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). In italiano ha un ruolo simile il prefisso 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "credere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "incredibile, difficile da credere",
+      "translationLong": "che non può essere creduto; incredibile o stupefacente",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "Quella storia sembra incredibile!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'inglese antico. Funziona esattamente come il nostro \"in-\" italiano e il tedesco \"un-\". Capovolge il significato della parola a cui si aggiunge: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile)."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "indimenticabile, memorabile",
+      "translationLong": "che non può essere dimenticato; memorabile e straordinario",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "Quella vacanza è stata indimenticabile."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'inglese antico. Funziona esattamente come il nostro \"in-\" italiano e il tedesco \"un-\". Capovolge il significato della parola a cui si aggiunge: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile)."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "irriconoscibile, non identificabile",
+      "translationLong": "che non può essere riconosciuto o identificato",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Dopo l'incidente, l'auto era irriconoscibile."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Indica che qualcosa è stato fatto in modo scorretto o sbagliato. Misunderstand (fraintendere), mistake (sbaglio), misrepresent (falsare)."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Un suffisso che forma un nome da un verbo (gerundio nominale). Qui trasforma il verbo \"misunderstand\" in un nome che indica l'azione o il risultato del fraintendimento."
+        }
+      ],
+      "translationShort": "malinteso, incomprensione",
+      "translationLong": "un'incapacità di comprendere qualcosa correttamente; confusione o disaccordo",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "C'è stato un malinteso sull'orario della riunione."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Indica che qualcosa è stato fatto in modo scorretto o sbagliato. Misunderstand (fraintendere), mistake (sbaglio), misrepresent (falsare)."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "travisamento, distorsione",
+      "translationLong": "una rappresentazione falsa o ingannevole di qualcosa; una distorsione dei fatti",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "L'articolo conteneva un travisamento dei fatti."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/troppo",
+          "homeLangDetails": "Suggerisce eccesso o il superamento di un limite. Overlook (trascurare), overwhelm (travolgere), overestimate (sopravvalutare). Usato anche nello spazio per indicare \"sopra\" in composti più antichi."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "\"Whelm\" significa sommergere o inondare (anche se la parola è raramente usata senza il prefisso \"over-\"). Con il prefisso over-, esprime il senso di essere completamente sommersi o travolti, sia emotivamente che fisicamente."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Un suffisso che forma un aggettivo dal verbo. Qui crea un aggettivo che descrive qualcosa che travolge o sovrasta."
+        }
+      ],
+      "translationShort": "travolgente, sconvolgente",
+      "translationLong": "estremamente impressionante, potente o emotivamente intenso; travolgente",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "Il sostegno che ha ricevuto è stato travolgente."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/troppo poco",
+          "homeLangDetails": "L'opposto di over-. Può significare \"sotto\" (underground, sotterraneo) oppure \"non abbastanza\" (underestimate, sopravvalutare poco, underperform, sottoperformare)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "sottovalutare",
+      "translationLong": "sottovalutare, giudicare meno importante o capace di quello che merita",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Non sottovalutare la sua capacità di risolvere problemi complessi."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/troppo",
+          "homeLangDetails": "Suggerisce eccesso o il superamento di un limite. Overlook (trascurare), overwhelm (travolgere), overestimate (sopravvalutare). Usato anche nello spazio per indicare \"sopra\" in composti più antichi."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "sopravvalutazione",
+      "translationLong": "l'atto di valutare qualcosa come maggiore di quanto in realtà sia",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "La sopravvalutazione del budget del progetto ha causato problemi finanziari."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/molti",
+          "homeLangDetails": "Molti o molteplici. Multicultural (multiculturale), multimedia (multimediale), multiply (moltiplicare)."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "multiculturale",
+      "translationLong": "relativo a o composto da molte culture diverse",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "La nostra città è conosciuta per la sua popolazione multiculturale."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/attraverso",
+          "homeLangDetails": "Attraverso, in mezzo a, o il passaggio da uno stato a un altro. Transport (trasportare), transform (trasformare), translate (tradurre)."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "transcontinentale",
+      "translationLong": "che si estende o attraversa un continente o più continenti",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "La ferrovia che attraversa il continente ha collegato le coste orientale e occidentale."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/tra",
+          "homeLangDetails": "Tra o in mezzo a. International (internazionale), interrupt (interrompere), interact (interagire)."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "intercambiabile",
+      "translationLong": "che può essere scambiato reciprocamente senza influire sul funzionamento di qualcosa",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "Questi due pezzi possono essere scambiati reciprocamente senza influire sul funzionamento del dispositivo."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/non/separazione",
+          "homeLangDetails": "Non, oppure separare, dividere. Disaccordo, disconnessione, scomparsa. Ha un senso più forte di separazione o inversione rispetto al prefisso italiano in- o dis-."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organizzare"
+        }
+      ],
+      "translationShort": "disorganizzare",
+      "translationLong": "gettare nel disordine, interrompere l'organizzazione di qualcosa",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "Il cambio improvviso getterà nel disordine il nostro programma accuratamente pianificato."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "moderno"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-izza"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "modernizzazione",
+      "translationLong": "il processo di rendere qualcosa moderno o attuale",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "La modernizzazione della fabbrica ne ha migliorato l'efficienza."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industriale"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-izza"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "industrializzazione",
+      "translationLong": "il processo di sviluppo delle industrie in una regione o società",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "L'industrializzazione della nazione ha trasformato la sua economia."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "incoraggiare"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-mento",
+          "homeLangDetails": "Forma sostantivi da verbi, riferendosi all'azione, al suo risultato o ai suoi mezzi. Come governo, movimento, godimento in italiano."
+        }
+      ],
+      "translationShort": "incoraggiamento",
+      "translationLong": "l'azione di dare coraggio o sostegno a qualcuno",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Il suo incoraggiamento mi ha aiutato a superare le mie paure."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/non/separazione",
+          "homeLangDetails": "Non, oppure separare, dividere. Disaccordo, disconnessione, scomparsa. Ha un senso più forte di separazione o inversione rispetto al prefisso italiano in- o dis-."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "accordare"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-mento",
+          "homeLangDetails": "Forma sostantivi da verbi, riferendosi all'azione, al suo risultato o ai suoi mezzi. Come governo, movimento, godimento in italiano."
+        }
+      ],
+      "translationShort": "disaccordo",
+      "translationLong": "mancanza di accordo, una differenza di opinione",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Il loro disaccordo sul bilancio è durato per settimane."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/non/separazione",
+          "homeLangDetails": "Non, oppure separare, dividere. Disaccordo, disconnessione, scomparsa. Ha un senso più forte di separazione o inversione rispetto al prefisso italiano in- o dis-."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "designare"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-mento",
+          "homeLangDetails": "Forma sostantivi da verbi, riferendosi all'azione, al suo risultato o ai suoi mezzi. Come governo, movimento, godimento in italiano."
+        }
+      ],
+      "translationShort": "delusione",
+      "translationLong": "la sensazione di tristezza quando qualcosa non soddisfa le aspettative",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "L'annullamento del concerto è stata una grande delusione."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "riconoscere"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-mento",
+          "homeLangDetails": "Forma sostantivi da verbi, riferendosi all'azione, al suo risultato o ai suoi mezzi. Come governo, movimento, godimento in italiano."
+        }
+      ],
+      "translationShort": "riconoscimento",
+      "translationLong": "il riconoscimento o l'ammissione di qualcosa, tipicamente qualcosa che qualcuno ha fatto o detto",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "Il riconoscimento dei suoi contributi era atteso da tempo."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "coraggio"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-oso"
+        }
+      ],
+      "translationShort": "coraggioso",
+      "translationLong": "coraggioso, che mostra coraggio",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Le sue azioni coraggiose hanno salvato vite durante la crisi."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "oltraggio",
+          "homeLangDetails": "Una parola composta fissata dal francese antico outrage (eccesso, violenza), non il prefisso produttivo out- più rage in inglese. L'out- qui viene dal latino ultra (oltre), non dal germanico. Quindi outrageous significa 'oltre i limiti' piuttosto che letteralmente 'superando la rabbia'."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-oso"
+        }
+      ],
+      "translationShort": "scandaloso",
+      "translationLong": "terribilmente cattivo o offensivo, estremamente inusuale o eccessivo",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "Il prezzo scandaloso per un oggetto così piccolo mi ha fatto ridere."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "vantaggio"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-oso"
+        }
+      ],
+      "translationShort": "vantaggioso",
+      "translationLong": "che fornisce un beneficio o un guadagno, favorevole",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Studiare all'estero può essere vantaggioso per la tua carriera."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "oltre"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "ordinario"
+        }
+      ],
+      "translationShort": "straordinario, eccezionale",
+      "translationLong": "straordinario, eccezionale, notevole, inusuale",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Ha un talento straordinario per la musica."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "osservazione, nota"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile"
+        }
+      ],
+      "translationShort": "notevole, degno di nota",
+      "translationLong": "notevole, degno di nota, meritevole di attenzione",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "L'atleta ha fatto un recupero notevole dall'infortunio."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "prevedere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile"
+        }
+      ],
+      "translationShort": "prevedibile",
+      "translationLong": "prevedibile, facilmente immaginabile",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "Il finale di quel film era completamente prevedibile."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "regolare"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile"
+        }
+      ],
+      "translationShort": "regolabile",
+      "translationLong": "regolabile, che può essere regolato",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "La sedia ha un'altezza regolabile."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "espandere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile"
+        }
+      ],
+      "translationShort": "espandibile",
+      "translationLong": "espandibile, che può essere espanso",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Questo scatolone è espandibile quando hai bisogno di più spazio."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'Old English. Funziona esattamente come l'italiano \"in-\" e \"im-\": infelice, sconosciuto, indimenticabile. Trasforma il significato della parola opposto a quello che è normalmente."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "consapevole"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ità",
+          "homeLangDetails": "Trasforma aggettivi in nomi che esprimono uno stato o una qualità. Come in italiano: felicità, oscurità, consapevolezza."
+        }
+      ],
+      "translationShort": "incoscienza, perdita di consapevolezza",
+      "translationLong": "incoscienza, perdita di consapevolezza, stato di essere incosciente",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "Il colpo alla sua testa ha causato incoscienza per diversi minuti."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-/non"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "responsabile"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità"
+        }
+      ],
+      "translationShort": "irresponsabilità, mancanza di responsabilità",
+      "translationLong": "irresponsabilità, mancanza di responsabilità, negligenza",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "La sua irresponsabilità è costata all'azienda migliaia di dollari."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/non"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "comprensibile"
+        }
+      ],
+      "translationShort": "incomprensibile, ininteligibile",
+      "translationLong": "incomprensibile, ininteligibile, impossibile da capire",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "Le istruzioni erano scritte in un gergo incomprensibile."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "compartimento"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-ale",
+          "homeLangDetails": "Relativo a o della natura di qualcosa. Come in italiano: musicale, naturale, industriale."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-izzare",
+          "homeLangDetails": "Rendere qualcosa avente una qualità, o compiere un processo. Come in italiano: modernizzare, organizzare, realizzare."
+        }
+      ],
+      "translationShort": "compartimentalizzare",
+      "translationLong": "compartimentalizzare, dividere in sezioni o categorie separate",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Alcuni separano il lavoro dalla vita personale in compartimenti distinti."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/non"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "compatibile"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità"
+        }
+      ],
+      "translationShort": "incompatibilità",
+      "translationLong": "incompatibilità, stato di essere incompatibile",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "L'incompatibilità tra i due sistemi ha reso l'integrazione difficile."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "cura"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-pieno",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. In italiano funziona in modo simile con suffissi come -oso o -oso."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "in modo attento",
+      "translationLong": "con cura; in modo cauto o attento",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Lei ha posato il vaso sulla mensola con attenzione."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "cura"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "in modo sbadato",
+      "translationLong": "senza cura; in modo negligente o disattento",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Ha fatto cadere la tazza senza attenzione."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "cura"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che indicano uno stato o una qualità. Felicità, oscurità, consapevolezza. In italiano equivale al suffisso -tà o -ezza che usi normalmente."
+        }
+      ],
+      "translationShort": "mancanza di attenzione",
+      "translationLong": "lo stato o la qualità di essere sbadati; negligenza",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "La sua mancanza di attenzione ha causato un piatto rotto."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "aiuto"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-pieno",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. In italiano funziona in modo simile con suffissi come -oso o -oso."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "in modo disponibile",
+      "translationLong": "in modo che fornisce assistenza o supporto",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Lei ha spiegato le istruzioni in modo disponibile."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "aiuto"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "in modo impotente",
+      "translationLong": "senza la capacità di aiutarsi; impotentemente",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Ha assistito all'incidente senza poter fare nulla."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "aiuto"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che indicano uno stato o una qualità. Felicità, oscurità, consapevolezza. In italiano equivale al suffisso -tà o -ezza che usi normalmente."
+        }
+      ],
+      "translationShort": "stato di impotenza",
+      "translationLong": "lo stato o la condizione di non potersi aiutare da soli",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "L'impotenza nella sua voce era straziante."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "speranza"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-pieno",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. In italiano funziona in modo simile con suffissi come -oso o -oso."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "con speranza; si spera che",
+      "translationLong": "con speranza od ottimismo; esprimendo il desiderio che qualcosa accada",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Con un po' di speranza, il tempo migliorerà domani."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "speranza"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che indicano uno stato o una qualità. Felicità, oscurità, consapevolezza. In italiano equivale al suffisso -tà o -ezza che usi normalmente."
+        }
+      ],
+      "translationShort": "stato di disperazione",
+      "translationLong": "lo stato o il sentimento di non avere speranza; disperazione",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "Un senso di disperazione si è impadronito della squadra."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "speranza"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-meno",
+          "homeLangDetails": "Senza. Sbadato, disperato, senza parole. In italiano puoi pensare a parole come 'senza' o al prefisso 'in-' quando significa assenza di qualità."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "in modo disperato",
+      "translationLong": "in modo che non mostra speranza; disperatamente",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "La situazione sembrava disperatamente grave."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "ringraziamento"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-pieno",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. In italiano funziona in modo simile con suffissi come -oso o -oso."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significa \"in modo [aggettivo]\". Rapidamente, felicemente, sorprendentemente. In italiano è esattamente come il suffisso -mente che conosci bene."
+        }
+      ],
+      "translationShort": "fortunatamente; con gratitudine",
+      "translationLong": "fortunatamente; con gratitudine o sollievo",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Fortunatamente, nessuno è rimasto ferito nell'incidente."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "ringraziamento"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. È esattamente come il suffisso -ful dell'inglese: aggiungilo a un nome e ottieni un aggettivo che significa 'pieno di quella cosa'."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà/-ità",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che esprimono uno stato o una qualità. Felicità, sincerità, consapevolezza. In italiano usiamo -tà per i nomi più brevi e -ità per i più lunghi, ma il significato è lo stesso."
+        }
+      ],
+      "translationShort": "stato di gratitudine",
+      "translationLong": "la qualità o lo stato di essere grato",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "La sua gratitudine era evidente nel suo caldo abbraccio."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "pensiero"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. È esattamente come il suffisso -ful dell'inglese: aggiungilo a un nome e ottieni un aggettivo che significa 'pieno di quella cosa'."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo riflessivo",
+      "translationLong": "con attenta considerazione; in modo ponderato o premuroso",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "Ha considerato attentamente la domanda prima di rispondere."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "pensiero"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Senza. Senza cura, senza speranza, senza parole. In italiano potremmo dire 'senza' o usare prefissi come 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà/-ità",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che esprimono uno stato o una qualità. Felicità, sincerità, consapevolezza. In italiano usiamo -tà per i nomi più brevi e -ità per i più lunghi, ma il significato è lo stesso."
+        }
+      ],
+      "translationShort": "mancanza di considerazione",
+      "translationLong": "la qualità o lo stato di essere sconsiderato o privo di riflessione",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "La sua mancanza di considerazione le ha ferito i sentimenti."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "paura"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Senza. Senza cura, senza speranza, senza parole. In italiano potremmo dire 'senza' o usare prefissi come 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo coraggioso",
+      "translationLong": "senza paura; con coraggio o audacia",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "Il soldato marciò coraggiosamente in battaglia."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "paura"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Senza. Senza cura, senza speranza, senza parole. In italiano potremmo dire 'senza' o usare prefissi come 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà/-ità",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che esprimono uno stato o una qualità. Felicità, sincerità, consapevolezza. In italiano usiamo -tà per i nomi più brevi e -ità per i più lunghi, ma il significato è lo stesso."
+        }
+      ],
+      "translationShort": "assenza di paura",
+      "translationLong": "la qualità o lo stato di essere coraggioso; assenza di paura",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Il suo coraggio ha ispirato tutti quelli intorno a lei."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "pace"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. È esattamente come il suffisso -ful dell'inglese: aggiungilo a un nome e ottieni un aggettivo che significa 'pieno di quella cosa'."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo pacifico",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "I manifestanti hanno marciato pacificamente per la città."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "bellezza"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Qui -oso/-a si attacca al nome bellezza, ma in realtà bellezza contiene già un suffisso precedente (da un'antica parola francese). In italiano, bellissimo significa 'pieno di bellezza', e da questo aggettivo creiamo l'avverbio bellissimamente aggiungendo -mente."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo bellissimo",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "Ha cantato bellissimamente al concerto."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "successo"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. È esattamente come il suffisso -ful dell'inglese: aggiungilo a un nome e ottieni un aggettivo che significa 'pieno di quella cosa'."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo felice",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "Il progetto è stato completato con successo in tempo."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "potere"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-oso/-a",
+          "homeLangDetails": "Pieno di, caratterizzato da. Bellissimo, attento, potente. È esattamente come il suffisso -ful dell'inglese: aggiungilo a un nome e ottieni un aggettivo che significa 'pieno di quella cosa'."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Rapidamente, felicemente, sorprendentemente. In italiano è il corrispettivo diretto dell'inglese -ly."
+        }
+      ],
+      "translationShort": "in modo potente",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "L'oratore ha presentato un argomento potente e persuasivo."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "potere"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "Senza. Senza cura, senza speranza, senza parole. In italiano potremmo dire 'senza' o usare prefissi come 'in-' o 'dis-'."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tà/-ità",
+          "homeLangDetails": "Trasforma gli aggettivi in nomi che esprimono uno stato o una qualità. Felicità, sincerità, consapevolezza. In italiano usiamo -tà per i nomi più brevi e -ità per i più lunghi, ma il significato è lo stesso."
+        }
+      ],
+      "translationShort": "mancanza di potere",
+      "translationLong": "lo stato di essere senza potere o influenza",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "Ha sentito un profondo senso di impotenza di fronte all'ingiustizia."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/non",
+          "homeLangDetails": "Il prefisso di negazione più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'olandese on-, e come il nostro italiano non- o in-. Capovolge il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile)."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "impiegare"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "stato di mancanza di lavoro",
+      "translationLong": "lo stato di non avere un lavoro; disoccupazione",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "Il tasso di disoccupazione è aumentato significativamente durante la recessione."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/giù/disfare",
+          "homeLangDetails": "Significa verso il basso, via da, o annullare un'azione. Come in decrease (diminuire), depart (partire), deconstruct (decostruire). Spesso inverte il significato della parola base."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "svolgere/dispiegare",
+          "homeLangDetails": "Viene dal francese antico 'devoluper' (svolgere, dispiegare). La radice è correlata a 'velop' (come in envelope), che significa avvolgere. Il prefisso de- qui significa 'fuori da' o 'lontano da', quindi develop letteralmente significa 'svolgere' o 'dispiegare gradualmente'."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "il processo di crescita",
+      "translationLong": "il processo di sviluppo; crescita o miglioramento",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Lo sviluppo del bambino è il focus di questo programma di ricerca."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/dentro",
+          "homeLangDetails": "Un prefisso versatile con due significati distinti: 'non' (inactive, impossible, illegal) e 'dentro' (insert, import). L'ortografia cambia per adattarsi al suono seguente."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "girare/rotolare",
+          "homeLangDetails": "Dal latino volvere (girare, rotolare). La stessa radice appare in revolve (ruotare), evolution (evoluzione), e convolution (convoluzione), tutte che implicano il senso di girare o rotolare."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "l'atto di essere coinvolto",
+      "translationLong": "il fatto o la condizione di essere coinvolto; partecipazione",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Il suo coinvolgimento nel servizio comunitario è stato ampiamente riconosciuto."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/dentro",
+          "homeLangDetails": "Un prefisso versatile con due significati distinti: 'non' (inactive, impossible, illegal) e 'dentro' (insert, import). L'ortografia cambia per adattarsi al suono seguente."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "provare/approvare",
+          "homeLangDetails": "Dal latino probare (assentire, approvare). In improve, il prefisso in- (dentro) + prove ha il senso di 'rendere migliore' — portare qualcosa a uno stato migliore. La stessa radice appare in prove e approbation."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "l'atto di rendere migliore",
+      "translationLong": "l'atto o il processo di miglioramento; un cambiamento che rende qualcosa migliore",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "Il miglioramento nei suoi voti è stato il risultato del duro lavoro."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/verso",
+          "homeLangDetails": "Verso o in aggiunta a. Come in adapt (adattare), admit (ammettere), attract (attirare), arrive (arrivare)."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "girare/voltare",
+          "homeLangDetails": "Dal latino vertere (girare). In advertise, il prefisso ad- (verso) + vert (girare) dà il senso di 'girare l'attenzione verso' — attirare l'attenzione su qualcosa. La stessa radice appare in convert (convertire), divert (divertire), e avert (distogliere)."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize/-izzare",
+          "homeLangDetails": "Rendere qualcosa che abbia una qualità, o causare un processo. Modernize (modernizzare), organize (organizzare), realize (realizzare)."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "una promozione pubblica",
+      "translationLong": "un annuncio o comunicato destinato a informare o persuadere il pubblico",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "L'annuncio pubblicitario per il nuovo prodotto è apparso in televisione."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "entrare"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "tenere/mantenere",
+          "homeLangDetails": "Dal francese antico tenir, dal latino tenere (tenere, mantenere). La radice appare in retain (conservare), maintain (mantenere), sustain (sostenere), e contain (contenere), tutte con il senso di mantenere o tenere. In entertain, 'enter + tain' combina il senso di invitare qualcuno dentro con il mantenimento della sua attenzione."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "intrattenimento o divertimento",
+      "translationLong": "l'azione di fornire o ricevere divertimento o piacere",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "Il concerto è stata una meravigliosa serata di intrattenimento."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/di nuovo",
+          "homeLangDetails": "Segnala la ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return (ritornare), rebuild (ricostruire), reconsider (riconsiderare). Spesso intercambiabile con 'fare di nuovo' o 'tornare indietro'."
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "chiedere/cercare",
+          "homeLangDetails": "Dal latino quaerere (chiedere, cercare). In require, re- (di nuovo) + quir dà il senso di 'chiedere' o 'esigere' qualcosa di necessario. La stessa radice appare in inquiry (inchiesta), inquisition (inquisizione), e query (domanda)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "qualcosa di necessario",
+      "translationLong": "qualcosa che è necessario; una condizione o cosa richiesta",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "Un diploma di scuola superiore è un requisito per la maggior parte dei programmi universitari."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/di nuovo",
+          "homeLangDetails": "Segnala la ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return (ritornare), rebuild (ricostruire), reconsider (riconsiderare). Spesso intercambiabile con 'fare di nuovo' o 'tornare indietro'."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "ritirarsi/allontanarsi",
+          "homeLangDetails": "Dal francese antico tirer (tirare, estrarre). In retire, re- (di nuovo, indietro) + tir dà il senso di 'ritirarsi' o 'allontanarsi' soprattutto dal lavoro. La stessa radice appare in tired (stanco, consumato dal fatto di essere tirato)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "l'atto di lasciare il lavoro",
+      "translationLong": "l'azione o il fatto di lasciare il proprio lavoro o incarico in modo permanente",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "Sta pianificando il suo pensionamento per l'anno prossimo."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/giù/disfare",
+          "homeLangDetails": "Significa verso il basso, via da, o annullare un'azione. Come in decrease (diminuire), depart (partire), deconstruct (decostruire). Spesso inverte il significato della parola base."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "parte"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "una divisione o sezione",
+      "translationLong": "una suddivisione o sezione di un'organizzazione, azienda o istituzione",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "Lavora nel dipartimento di marketing."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/di nuovo",
+          "homeLangDetails": "Segnala la ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return (ritornare), rebuild (ricostruire), reconsider (riconsiderare). Spesso intercambiabile con 'fare di nuovo' o 'tornare indietro'."
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "posto/luogo"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment/-mento",
+          "homeLangDetails": "Forma nomi da verbi, indicando l'azione, il suo risultato o il suo mezzo. Come il nostro -mento in italiano: government (governo), movement (movimento), enjoyment (godimento)."
+        }
+      ],
+      "translationShort": "qualcosa che prende il posto di un'altra cosa",
+      "translationLong": "una persona o cosa che prende il posto di qualcos'altro",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "Il sostituto per la finestra rotta è arrivato ieri."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "fortunato"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Forma avverbi da aggettivi, con il significato «in modo [aggettivo]». Velocemente, felicemente, sorprendentemente. Funziona proprio come il nostro suffisso -mente in italiano."
+        }
+      ],
+      "translationShort": "purtroppo, sfortunatamente",
+      "translationLong": "purtroppo, sfortunatamente, disgraziatamente",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Purtroppo, il concerto è stato annullato."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "aspettare"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(participio passato)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Forma avverbi da aggettivi, con il significato «in modo [aggettivo]». Velocemente, felicemente, sorprendentemente. Funziona proprio come il nostro suffisso -mente in italiano."
+        }
+      ],
+      "translationShort": "sorprendentemente, senza preavviso",
+      "translationLong": "sorprendentemente, senza preavviso, in modo inatteso",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "È arrivata sorprendentemente alla festa."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "salute"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(aggettivale)"
+        }
+      ],
+      "translationShort": "malsano, nocivo",
+      "translationLong": "malsano, nocivo, dannoso per la salute",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "Una dieta malsana può portare a malattie."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "ragione"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile",
+          "homeLangDetails": "Capace di essere fatto, possibile. Leggibile, confortevole, possibile. Come il nostro suffisso -bile in italiano: ragionevole, credibile, accettabile."
+        }
+      ],
+      "translationShort": "irrazionale, ingiusto",
+      "translationLong": "irrazionale, ingiusto, eccessivo",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "Le sue richieste erano eccessive."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "accettare"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile",
+          "homeLangDetails": "Capace di essere fatto, possibile. Leggibile, confortevole, possibile. Come il nostro suffisso -bile in italiano: ragionevole, credibile, accettabile."
+        }
+      ],
+      "translationShort": "inaccettabile",
+      "translationLong": "inaccettabile, inaccettevole, intollerabile",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "Quel comportamento è completamente intollerabile."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "evitare"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bile",
+          "homeLangDetails": "Capace di essere fatto, possibile. Leggibile, confortevole, possibile. Come il nostro suffisso -bile in italiano: ragionevole, credibile, accettabile."
+        }
+      ],
+      "translationShort": "inevitabile, ineluttabile",
+      "translationLong": "inevitabile, ineluttabile, destinato ad accadere",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "La morte e le tasse sono inevitabili."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "importante"
+        }
+      ],
+      "translationShort": "insignificante, banale",
+      "translationLong": "insignificante, banale, di poca importanza",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "Quel dettaglio è banale."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "in-/non",
+          "homeLangDetails": "Il prefisso negativo più comune in inglese, ereditato dall'antico inglese. Funziona esattamente come il tedesco un- o l'italiano in-. Ribalta il significato della parola: unhappy (infelice), unknown (sconosciuto), unforgettable (indimenticabile). È il modo anglofono di dire «no» a una parola."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "volontà"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundio)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ità",
+          "homeLangDetails": "Trasforma aggettivi in sostantivi che indicano uno stato o una qualità. Felicità, oscurità, consapevolezza. È l'equivalente del nostro suffisso -ità: serenità, difficoltà, utilità."
+        }
+      ],
+      "translationShort": "riluttanza, indisposizione",
+      "translationLong": "riluttanza, indisposizione, mancanza di volontà",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "La sua riluttanza ad aiutare è stata deludente."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Segnala ripetizione o un ritorno a uno stato precedente. Dal latino re-, lo trovi in migliaia di parole inglesi: return (tornare), rebuild (ricostruire), reconsider (riconsiderare). Funziona esattamente come il nostro prefisso ri- in italiano."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "considerare"
+        }
+      ],
+      "translationShort": "riconsiderare, ripensare",
+      "translationLong": "riconsiderare, ripensare, rivedere",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "Devo riconsiderare la mia decisione."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Segnala ripetizione o un ritorno a uno stato precedente. Dal latino re-, lo trovi in migliaia di parole inglesi: return (tornare), rebuild (ricostruire), reconsider (riconsiderare). Funziona esattamente come il nostro prefisso ri- in italiano."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "considerare"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione",
+          "homeLangDetails": "Il suffisso nominale più comune in inglese, dal latino. Trasforma verbi in sostantivi che indicano un'azione o il suo risultato. Costruzione, permesso, esplosione. È il nostro -zione italiana."
+        }
+      ],
+      "translationShort": "riesamino, ripensamento",
+      "translationLong": "riesamino, ripensamento, atto di riconsiderare",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "Il consiglio ha richiesto un riesamino della proposta."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Indica ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. È spesso intercambiabile con \"fare di nuovo\" o \"tornare indietro\"."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organizzare"
+        }
+      ],
+      "translationShort": "organizzare di nuovo",
+      "translationLong": "organizzare di nuovo, ristrutturare, riorganizzare",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "L'azienda ha deciso di ristrutturare i suoi dipartimenti."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Indica ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. È spesso intercambiabile con \"fare di nuovo\" o \"tornare indietro\"."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organizzare"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "ristrutturazione, riorganizzazione",
+      "translationLong": "ristrutturazione, riorganizzazione, processo di organizzare di nuovo",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "La ristrutturazione ha richiesto tre mesi per essere completata."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Indica ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. È spesso intercambiabile con \"fare di nuovo\" o \"tornare indietro\"."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "introdurre"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione",
+          "homeLangDetails": "Il suffisso nominale più comune in inglese, dal latino. Trasforma verbi in nomi che indicano un'azione o il suo risultato. Construction, permission, explosion. Equivalente all'italiano -zione."
+        }
+      ],
+      "translationShort": "reintroduzione, ripristino",
+      "translationLong": "reintroduzione, ripristino, atto di introdurre di nuovo",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "La reintroduzione dei lupi ha aiutato a ripristinare l'ecosistema."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Indica ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. È spesso intercambiabile con \"fare di nuovo\" o \"tornare indietro\"."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "connettere"
+        }
+      ],
+      "translationShort": "connettere di nuovo",
+      "translationLong": "connettere di nuovo, ricongiungersi, ripristinare il contatto",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Dopo anni di separazione, abbiamo ripristinato i contatti alla riunione."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-/di nuovo",
+          "homeLangDetails": "Indica ripetizione o un ritorno a uno stato precedente. Dal latino re-, appare in migliaia di parole inglesi: return, rebuild, reconsider. È spesso intercambiabile con \"fare di nuovo\" o \"tornare indietro\"."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "ciclo"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundio)"
+        }
+      ],
+      "translationShort": "riciclo, riutilizzo di materiali",
+      "translationLong": "riciclo, riutilizzo di materiali, processo di trasformare i rifiuti in nuovi prodotti",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Il riciclo aiuta a ridurre i rifiuti ambientali."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "com-/insieme",
+          "homeLangDetails": "Con, insieme. Uno dei prefissi latini più produttivi. Connect, combine, cooperate, collect. L'ortografia varia per adattarsi al suono seguente."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "comune"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "lo scambio di informazioni",
+      "translationLong": "la comunicazione o lo scambio di informazioni o notizie",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "Una buona comunicazione è essenziale in qualsiasi relazione."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-/fuori",
+          "homeLangDetails": "Fuori, ex, oppure lontano. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "condurre"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "il processo di insegnamento",
+      "translationLong": "il processo di insegnamento e apprendimento, specialmente nelle scuole",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "L'educazione apre le porte a molte opportunità."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/dentro",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: \"non\" (inattivo, impossibile, illegale) e \"dentro\" (insert, import). L'ortografia cambia per adattarsi al suono seguente."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "traccia"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "un esame attento",
+      "translationLong": "un esame dettagliato o un'inchiesta su qualcosa",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "La polizia ha condotto un'inchiesta sul furto."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "intro-/dentro"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "condurre"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione",
+          "homeLangDetails": "Il suffisso nominale più comune in inglese, dal latino. Trasforma verbi in nomi che indicano un'azione o il suo risultato. Construction, permission, explosion. Equivalente all'italiano -zione."
+        }
+      ],
+      "translationShort": "una presentazione formale",
+      "translationLong": "una presentazione formale di una persona a un'altra; l'inizio di un libro o di un discorso",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "L'introduzione al romanzo introduce il conflitto principale."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/avanti",
+          "homeLangDetails": "Avanti, a favore di, o al posto di. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "condurre"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-zione",
+          "homeLangDetails": "Il suffisso nominale più comune in inglese, dal latino. Trasforma verbi in nomi che indicano un'azione o il suo risultato. Construction, permission, explosion. Equivalente all'italiano -zione."
+        }
+      ],
+      "translationShort": "la fabbricazione di beni",
+      "translationLong": "la realizzazione, la fabbricazione o la creazione di qualcosa",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "La fabbrica ha aumentato la produzione per soddisfare la domanda."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/avanti",
+          "homeLangDetails": "Avanti, a favore di, oppure al posto di. Pensa a parole come progresso, prodotto, pronome. È un prefisso che ti aiuta a capire il significato generale della parola."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-fono"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "il modo in cui una parola viene pronunciata",
+      "translationLong": "il modo in cui una parola o una lingua viene pronunciata o parlata",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "La sua pronuncia del francese è migliorata notevolmente."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/fuori",
+          "homeLangDetails": "Fuori, precedente, oppure lontano. Esalare, esportare, espellere, ex-presidente. È come il prefisso italiano 'ex-' che usiamo tutti i giorni."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "piatto"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "un'affermazione che chiarisce",
+      "translationLong": "un'affermazione o un racconto che chiarisce o rende qualcosa comprensibile",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "L'insegnante ha dato una spiegazione chiara del concetto matematico."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/fuori",
+          "homeLangDetails": "Fuori, precedente, oppure lontano. Esalare, esportare, espellere, ex-presidente. È come il prefisso italiano 'ex-' che usiamo tutti i giorni."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "pesare"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "un'ispezione dettagliata",
+      "translationLong": "un'ispezione o una verifica dettagliata; un test medico o accademico",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "L'esame non ha rivelato segni della malattia."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/dentro",
+          "homeLangDetails": "Un prefisso camaleontico che cambia significato a seconda del contesto: significa 'non' (inattivo, impossibile, illegale) oppure 'dentro' (inserire, importare). La spelling cambia per adattarsi al suono seguente, proprio come in italiano con 'in-', 'im-', 'ir-'."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "immagine"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "la capacità di creare immagini mentali",
+      "translationLong": "la facoltà o l'azione di formare immagini o concetti mentali di ciò che non è presente",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "L'immaginazione dei bambini non conosce limiti."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "popolo"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "tutte le persone di un'area",
+      "translationLong": "tutti gli abitanti di un luogo; un gruppo di organismi della stessa specie",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "La popolazione della città è cresciuta notevolmente."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più usati e potenti. Connettere, combinare, cooperare, raccogliere. La spelling cambia per adattarsi al suono seguente, esattamente come accade in italiano con 'con-', 'co-', 'col-'."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "girare"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "una discussione informale",
+      "translationLong": "uno scambio informale di idee o una chiacchierata tra persone",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "Abbiamo avuto una conversazione interessante sui viaggi."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più usati e potenti. Connettere, combinare, cooperare, raccogliere. La spelling cambia per adattarsi al suono seguente, esattamente come accade in italiano con 'con-', 'co-', 'col-'."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "raccogliere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "un gruppo di oggetti raccolti",
+      "translationLong": "un insieme di cose o persone riunite insieme; l'azione di raccogliere",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Ha una collezione impressionante di libri vintage."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/indietro",
+          "homeLangDetails": "Nel contesto di reflection, 're-' significa 'indietro' (dal latino reflectere, 'piegare indietro'), non 'di nuovo'. La parola descrive il rimbalzo della luce o il ripiegamento del pensiero su se stesso. È simile a come 'ri-' funziona in italiano, anche se il significato è più specificamente 'indietro' che semplicemente 'di nuovo'."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "piegare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "il rimbalzo della luce",
+      "translationLong": "il rimbalzo della luce o del calore; il pensiero profondo o la considerazione",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Ho visto il mio riflesso nello specchio."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più usati e potenti. Connettere, combinare, cooperare, raccogliere. La spelling cambia per adattarsi al suono seguente, esattamente come accade in italiano con 'con-', 'co-', 'col-'."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "legare"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "una relazione o un collegamento",
+      "translationLong": "una relazione o un'associazione tra cose; l'atto di collegare",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "C'è una forte connessione tra l'esercizio fisico e la buona salute."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/avanti",
+          "homeLangDetails": "Avanti, a favore di, oppure al posto di. Pensa a parole come progresso, prodotto, pronome. È un prefisso che ti aiuta a capire il significato generale della parola."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "coprire"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-zione"
+        }
+      ],
+      "translationShort": "la difesa da danno",
+      "translationLong": "l'azione di proteggere qualcuno o qualcosa dal danno o dalla lesione",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "Abbiamo bisogno di una migliore protezione contro gli attacchi informatici."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "dipendere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "affidabile",
+      "translationLong": "affidabile; su cui si può contare",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "È un amico affidabile che ti aiuta sempre."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "credere"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "incredibile",
+      "translationLong": "straordinario; incredibile; sensazionale",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "È stata una performance incredibile!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "vedere"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "invisibile",
+      "translationLong": "che non può essere visto; nascosto alla vista",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "La macchia era invisibile all'occhio nudo."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "possibile"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "impossibile",
+      "translationLong": "che non può essere fatto o accadere; non possibile",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Sembrava impossibile risolvere l'enigma."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "rispondere"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "irresponsabile",
+      "translationLong": "non responsabile; non affidabile o inaffidabile",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "Sarebbe irresponsabile andarsene dal lavoro presto."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "tornare indietro"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "irreversibile",
+      "translationLong": "che non può essere invertito o annullato",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "I cambiamenti climatici potrebbero causare danni irreversibili all'ambiente."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Un prefisso camaleontico con due significati distinti: 'non' (inattivo, impossibile, illegale) e 'dentro' (inserire, importare). L'ortografia cambia per adattarsi al suono seguente. È esattamente come il prefisso in- italiano!"
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "distruggere"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-abile",
+          "homeLangDetails": "Capace di essere fatto. Leggibile, comodo, possibile. Come in italiano abbiamo suffissi simili che creano aggettivi dal significato 'che può essere'."
+        }
+      ],
+      "translationShort": "indistruttibile",
+      "translationLong": "che non può essere distrutto o rotto",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Il monumento è stato costruito per essere indistruttibile."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tra",
+          "homeLangDetails": "Tra o fra. Internazionale, interruzione, interagire. Come il prefisso inter- che usiamo anche in italiano!"
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "nazione"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-ale",
+          "homeLangDetails": "Relativo a o della natura di. Musicale, naturale, industriale. Come il suffisso -ale italiano che crea aggettivi."
+        }
+      ],
+      "translationShort": "tra nazioni",
+      "translationLong": "relativo a o che coinvolge due o più nazioni",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Lavora per un'organizzazione internazionale."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "sopra",
+          "homeLangDetails": "Sopra, al di sopra, o straordinario. Superman, superiore, sovrannaturale. Come il prefisso super- che usiamo in italiano!"
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "natura"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-ale",
+          "homeLangDetails": "Relativo a o della natura di. Musicale, naturale, industriale. Come il suffisso -ale italiano che crea aggettivi."
+        }
+      ],
+      "translationShort": "sovrannaturale",
+      "translationLong": "al di là o al di fuori delle leggi della natura",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "Il film presenta creature sovrannaturali e fantasmi."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "pre-",
+          "homeLangDetails": "Prima nel tempo o nello spazio. Predire, preparare, preistorico. Come il prefisso pre- italiano!"
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "storico"
+        }
+      ],
+      "translationShort": "prima della storia scritta",
+      "translationLong": "relativo al periodo prima dei documenti storici scritti",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "I dinosauri vivevano sulla Terra durante i tempi preistorici."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "contro",
+          "homeLangDetails": "Contro o in opposizione a qualcosa. Antiwar diventa controbellico, antibiotic è controbatterico, anticipate è anticipare."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "vita",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-ico"
+        }
+      ],
+      "translationShort": "contro i batteri",
+      "translationLong": "un medicinale che uccide i batteri o ne ferma la crescita",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "Il medico ha prescritto un antibiotico per l'infezione."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "sotto",
+          "homeLangDetails": "Sotto, al di sotto, o secondario. Sottopassaggio, sottomarino, sostituto."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "mare"
+        }
+      ],
+      "translationShort": "natante subacqueo",
+      "translationLong": "un'imbarcazione che opera sott'acqua, specialmente una nave da guerra militare",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "Il sottomarino è sceso a profondità enormi sotto l'oceano."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "auto",
+          "homeLangDetails": "Se stesso. Autobiografia, automatico, automobile."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "movimento"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-mente"
+        }
+      ],
+      "translationShort": "da solo, senza intervento manuale",
+      "translationLong": "in modo che accade o funziona da solo senza intervento umano",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "La porta si apre automaticamente quando ti avvicini."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "tele",
+          "homeLangDetails": "A distanza. Telefono, televisione, telescopio."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "visione"
+        }
+      ],
+      "translationShort": "visione da lontano",
+      "translationLong": "un sistema per trasmettere e ricevere immagini e suoni in movimento a distanza",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Guarda la televisione ogni sera."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "popolo"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "governo"
+        }
+      ],
+      "translationShort": "governo del popolo",
+      "translationLong": "un sistema di governo in cui il potere risiede nel popolo",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "La democrazia richiede la partecipazione attiva di tutti i cittadini."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "terra",
+          "homeLangDetails": "Terra o territorio. Geografia, geologia, geometria."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafia",
+          "homeLangDetails": "Descrizione o registro. Fotografia, biografia, autografo."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "descrizione della terra",
+      "translationLong": "lo studio dei luoghi, dei popoli e delle caratteristiche fisiche della terra",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "La lezione di geografia insegna le diverse regioni e culture."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "responsabile"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-ità"
+        }
+      ],
+      "translationShort": "dovere o obbligo",
+      "translationLong": "lo stato di essere responsabili delle proprie azioni o decisioni",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Con un grande potere viene una grande responsabilità."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "persona"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-ità"
+        }
+      ],
+      "translationShort": "carattere individuale",
+      "translationLong": "le caratteristiche distintive e le qualità di un individuo",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "La sua personalità estroversa la rende popolare con tutti."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "popolare"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di -ezza o -ità in italiano. Forma nomi astratti da aggettivi. Uguaglianza, elettricità, realtà."
+        }
+      ],
+      "translationShort": "stato di essere apprezzato",
+      "translationLong": "la qualità o lo stato di essere apprezzato, ammirato o gradito da molte persone",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "La popolarità della band è cresciuta a livello mondiale."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "elettrico"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di -ezza o -ità in italiano. Forma nomi astratti da aggettivi. Uguaglianza, elettricità, realtà."
+        }
+      ],
+      "translationShort": "energia elettrica",
+      "translationLong": "una forma di energia risultante dal movimento degli elettroni attraverso un conduttore",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "La maggior parte delle case moderne dipende dall'elettricità per l'energia."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "creare"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di '-ezza' o '-ità'. Trasforma gli aggettivi in nomi astratti. Pensa a parole come uguaglianza, elettricità, realtà. È proprio il suffisso che usiamo in italiano per formare questi concetti!"
+        }
+      ],
+      "translationShort": "la qualità di essere creativo",
+      "translationLong": "la qualità o lo stato di essere creativo; la capacità di creare o immaginare cose nuove",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "La sua creatività nel risolvere i problemi ha impressionato tutti."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "prodotto"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di '-ezza' o '-ità'. Trasforma gli aggettivi in nomi astratti. Pensa a parole come uguaglianza, elettricità, realtà. È proprio il suffisso che usiamo in italiano per formare questi concetti!"
+        }
+      ],
+      "translationShort": "la qualità di essere produttivo",
+      "translationLong": "la qualità o lo stato di essere produttivo; l'efficienza dello sforzo misurata dal tasso di produzione",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "La produttività del team è aumentata dopo l'installazione del nuovo software."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "flessibile"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-bile",
+          "homeLangDetails": "Significa capace di essere fatto. In italiano usiamo spesso '-bile' con lo stesso significato: leggibile, piacevole, possibile. È il nostro equivalente diretto!"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di '-ezza' o '-ità'. Trasforma gli aggettivi in nomi astratti. Pensa a parole come uguaglianza, elettricità, realtà. È proprio il suffisso che usiamo in italiano per formare questi concetti!"
+        }
+      ],
+      "translationShort": "la qualità di essere flessibile",
+      "translationLong": "la qualità o lo stato di essere flessibile; la capacità di adattarsi o piegarsi senza rompersi",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "La flessibilità di questo materiale lo rende ideale per la produzione."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "nazione"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-ale",
+          "homeLangDetails": "Indica una relazione o una qualità inerente a qualcosa. Musicale, naturale, industriale. In italiano lo usiamo esattamente allo stesso modo!"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ità",
+          "homeLangDetails": "L'equivalente latino di '-ezza' o '-ità'. Trasforma gli aggettivi in nomi astratti. Pensa a parole come uguaglianza, elettricità, realtà. È proprio il suffisso che usiamo in italiano per formare questi concetti!"
+        }
+      ],
+      "translationShort": "lo status di appartenenza a una nazione",
+      "translationLong": "lo status di essere cittadino di un particolare paese; l'origine nazionale o l'identità nazionale",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "Ha una doppia nazionalità, essendo nata in un paese e naturalizzata in un altro."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "effetto"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Velocemente, felicemente, sorprendentemente. Esattamente come il nostro '-mente' in italiano!"
+        }
+      ],
+      "translationShort": "in modo efficace",
+      "translationLong": "in un modo che produce il risultato desiderato o inteso; con successo",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "La nuova strategia ha funzionato efficacemente per ridurre i costi."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "creare"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Velocemente, felicemente, sorprendentemente. Esattamente come il nostro '-mente' in italiano!"
+        }
+      ],
+      "translationShort": "in modo creativo",
+      "translationLong": "in un modo che implica creare o usare l'immaginazione; con originalità e inventiva",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "Ha affrontato il progetto in modo creativo, trovando soluzioni innovative."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "prodotto"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Velocemente, felicemente, sorprendentemente. Esattamente come il nostro '-mente' in italiano!"
+        }
+      ],
+      "translationShort": "in modo produttivo",
+      "translationLong": "in un modo che produce risultati o è efficace; con buona produttività o successo",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "Abbiamo trascorso il pomeriggio in modo produttivo, completando tutti i nostri compiti."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "attrarre"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ivo"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-mente",
+          "homeLangDetails": "Trasforma gli aggettivi in avverbi, significando 'in modo [aggettivo]'. Velocemente, felicemente, sorprendentemente. Esattamente come il nostro '-mente' in italiano!"
+        }
+      ],
+      "translationShort": "in modo attraente",
+      "translationLong": "in un modo che è piacevole, affascinante o visivamente attraente; in modo coinvolgente",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "La vetrina del negozio era decorata in modo attraente con esposizioni stagionali."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "ri-",
+          "homeLangDetails": "Segnala ripetizione o un ritorno a uno stato precedente. Dal latino, lo troviamo in centinaia di parole inglesi come return, rebuild, reconsider. Spesso intercambiabile con 'fare di nuovo' o 'tornare indietro'. L'italiano ha il prefisso 're-' con lo stesso valore!"
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "cercare"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ore",
+          "homeLangDetails": "Forma nomi di agente, cioè la persona o la cosa che compie l'azione. Insegnante, attore, conducente, calcolatore. In italiano abbiamo '-ore' o '-atore' con la stessa funzione!"
+        }
+      ],
+      "translationShort": "chi conduce ricerche",
+      "translationLong": "una persona che conduce ricerche; uno scienziato o studioso che indaga un argomento",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "La ricercatrice ha pubblicato i suoi risultati in una rivista sottoposta a revisione tra pari."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "sviluppare"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ore",
+          "homeLangDetails": "Forma nomi di agente, cioè la persona o la cosa che compie l'azione. Insegnante, attore, conducente, calcolatore. In italiano abbiamo '-ore' o '-atore' con la stessa funzione!"
+        }
+      ],
+      "translationShort": "chi sviluppa",
+      "translationLong": "una persona che sviluppa qualcosa; comunemente si riferisce a uno sviluppatore di software",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "Lo sviluppatore ha creato una nuova funzione per l'applicazione."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "impiegare"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ore",
+          "homeLangDetails": "Forma nomi d'agente, cioè la persona o cosa che compie l'azione. Insegnante, attore, autista, computer. In italiano funziona esattamente come il suffisso -er in inglese."
+        }
+      ],
+      "translationShort": "chi impiega",
+      "translationLong": "una persona o organizzazione che assume dipendenti; il proprietario o direttore di un'azienda",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "Il datore di lavoro ha offerto benefici competitivi per attirare i migliori talenti."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "impiegare"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ato/ata",
+          "homeLangDetails": "Un suffisso che indica la persona che riceve o è l'oggetto dell'azione. Pensa al contrasto: datore di lavoro (chi impiega) versus dipendente (chi è impiegato). Lo stesso principio appare in intervistato, tirocinante e beneficiario."
+        }
+      ],
+      "translationShort": "chi è impiegato",
+      "translationLong": "una persona che lavora per un datore di lavoro in cambio di una retribuzione",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Ogni dipendente dell'azienda riceve l'assicurazione sanitaria."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "foto",
+          "homeLangDetails": "Una forma combinata dal greco phōtos (luce). Appare in molte parole legate alla luce e alle immagini: fotografia, fotosintesi, fotogenico. Dal greco foto (luce) + grafo (scrivere/registrare) significa letteralmente «scrivere con la luce»."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafo",
+          "homeLangDetails": "Scrivere o registrare. Fotografia, biografia, autografo."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-o/a",
+          "homeLangDetails": "Forma nomi d'agente, la persona che compie l'azione."
+        }
+      ],
+      "translationShort": "chi fotografa",
+      "translationLong": "una persona che scatta fotografie come professione o hobby",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "Il fotografo ha catturato immagini straordinarie al matrimonio."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "investigare"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-ore",
+          "homeLangDetails": "Una variante del suffisso -ore, usata in contesti più formali o di origine latina. Sia -ore che -ore significano «colui che», ma -ore è comune in parole di radice latina come investigatore, senatore, attore e istruttore."
+        }
+      ],
+      "translationShort": "chi investigà",
+      "translationLong": "una persona che conduce indagini; spesso un professionista che raccoglie prove o informazioni",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "L'investigatore ha esaminato la scena del crimine per cercare indizi."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "comunicare"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-ore",
+          "homeLangDetails": "Forma nomi d'agente, la persona o cosa che compie l'azione. Insegnante, attore, autista, computer."
+        }
+      ],
+      "translationShort": "chi comunica",
+      "translationLong": "una persona che comunica efficacemente o professionalmente; qualcuno abile nel trasmettere informazioni",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "Come comunicatrice abile, eccelle nel parlare in pubblico."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più produttivi. Connettere, combinare, cooperare, collezionare. L'ortografia varia in base al suono seguente, esattamente come in italiano."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "comune"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-are",
+          "homeLangDetails": "Un suffisso che verbalizza (dalla forma latina -atus). Trasforma il sostantivo/aggettivo «comunic-» in un verbo che significa eseguire quell'azione."
+        }
+      ],
+      "translationShort": "condividere informazioni",
+      "translationLong": "condividere informazioni, trasmettere significato, scambiare pensieri",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "Abbiamo bisogno di comunicare le nostre idee chiaramente al team."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/non o dentro",
+          "homeLangDetails": "Un prefisso versatile con due significati distinti: «non» (inattivo, impossibile, illegale) e «dentro» (inserire, importare). L'ortografia cambia in base al suono seguente."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "traccia",
+          "homeLangDetails": "Dal latino vestigium (orma, traccia). La stessa radice appare in vestigio (una traccia rimasta) e investigatore (colui che segue le tracce)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-are",
+          "homeLangDetails": "Un suffisso che verbalizza trasformando la radice in un'azione: seguire o esaminare tracce o indizi."
+        }
+      ],
+      "translationShort": "esaminare con attenzione",
+      "translationLong": "esaminare con attenzione, indagare, condurre un'inchiesta",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "La polizia investigherà la scena del crimine domani."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più produttivi. Connettere, combinare, cooperare, collezionare. L'ortografia varia in base al suono seguente."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "lavoro"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-are",
+          "homeLangDetails": "Un suffisso che verbalizza trasformando «lavoro» in un'azione: lavorare insieme."
+        }
+      ],
+      "translationShort": "lavorare insieme",
+      "translationLong": "lavorare insieme, cooperare",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "Collaboreremo a questo progetto con colleghi di altri dipartimenti."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "parte",
+          "homeLangDetails": "Dal latino pars (parte). Combinato con il morfema seguente -icip-, crea il senso di «prendere parte» o «avere una quota in»."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "prendere",
+          "homeLangDetails": "Dal latino capere (prendere). Il latino participium (termine per «partecipe») combina «parte» + «prendere» per significare condividere qualcosa."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-are",
+          "homeLangDetails": "Un suffisso che verbalizza."
+        }
+      ],
+      "translationShort": "prendere parte",
+      "translationLong": "prendere parte, partecipare attivamente, unirsi",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Tutti gli studenti devono partecipare alla discussione della classe."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/insieme",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più produttivi. Connettere, combinare, cooperare, collezionare. L'ortografia varia in base al suono seguente."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "grazia",
+          "homeLangDetails": "Dal latino gratus (gradevole, grato). La stessa radice appare in grazia, grato e gratitudine, tutti legati al piacere e alla benevolenza."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulare",
+          "homeLangDetails": "Un suffisso diminutivo/frequentativo che verbalizza (dal latino -ulatus). Ammorbidisce o itera l'azione, creando qui il senso di esprimere piacere o benevolenza verso qualcuno in modo caloroso e ricorrente."
+        }
+      ],
+      "translationShort": "elogiare per un successo",
+      "translationLong": "elogiare per un successo, esprimere gioia o benevolenza",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Voglio congratularmi con te per l'eccellente performance!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/male",
+          "homeLangDetails": "Indica che qualcosa è stato fatto in modo scorretto o sbagliato. Pensa a parole come misunderstand (fraintendere), mistake (sbaglio), misrepresent (rappresentare male). In italiano funziona esattamente come il prefisso mal-, che trovi in malinteso, maltrattamento."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/fra",
+          "homeLangDetails": "Tra o in mezzo a. International (internazionale), interrupt (interrompere), interact (interagire). Proprio come il prefisso inter- dell'italiano."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "pret/spiegare",
+          "homeLangDetails": "Viene dal latino praetere o prae (prima) più ire (andare). Quando unisci inter- con pret-, ottieni l'idea di spiegare ciò che sta in mezzo, cioè chiarire il significato. Poi mis- capovolge tutto: spiegare male, fraintendere."
+        }
+      ],
+      "translationShort": "fraintendere",
+      "translationLong": "fraintendere, interpretare o spiegare male",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Non fraintendere le mie parole; le ho dette con buone intenzioni."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/dis-",
+          "homeLangDetails": "Verso il basso, via, oppure annulla un'azione. Decrease (diminuire), depart (partire), deconstruct (decostruire). Spesso inverte completamente il significato della parola base. In italiano è molto simile al prefisso dis-, che trovi in disfare, dismontare."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/con-",
+          "homeLangDetails": "Con o insieme. Uno dei prefissi latini più usati e produttivi. Connect (collegare), combine (combinare), cooperate (cooperare), collect (raccogliere). L'ortografia cambia a seconda del suono che segue. In italiano il prefisso con- funziona esattamente allo stesso modo."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "struct/costruire"
+        }
+      ],
+      "translationShort": "smontare analiticamente",
+      "translationLong": "smontare, disassemblare, analizzare scomponendo negli elementi costitutivi",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "In questo seminario descriveremo gli argomenti principali del testo scomponendoli nelle loro parti."
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+# English words with interesting morphemes (3-5 parts each)
+# For use with: python generate_claude.py --target English --home English
+
+# -ject- (to throw)
+injection
+projection
+objection
+
+# -dict- (to say)
+prediction
+contradiction
+jurisdiction
+
+# -port- (to carry)
+transportation
+deportation
+importation
+
+# -struct- (to build)
+construction
+destruction
+reconstruction
+
+# -spect- (to look)
+inspection
+perspective
+retrospective
+
+# -script- (to write)
+prescription
+description
+subscription
+
+# -press- (to press)
+expression
+depression
+impression
+
+# -tract- (to pull)
+attraction
+extraction
+distraction
+
+# -mit-/-miss- (to send)
+permission
+transmission
+commitment
+
+# -cept- (to take/receive)
+reception
+perception
+deception
+
+# -fer- (to carry/bear)
+reference
+conference
+interference
+
+# -vert-/-vers- (to turn)
+conversion
+introversion
+subversion
+
+# -pend- (to hang/weigh)
+dependence
+independence
+interdependence
+
+# -cur- (to run)
+occurrence
+recurrence
+concurrent
+
+# -cess-/-cede- (to go/yield)
+recession
+succession
+unprecedented
+
+# -form- (to shape)
+transformation
+reformation
+information
+
+# -rupt- (to break)
+interruption
+disruption
+corruption
+
+# Greek -graph- (to write)
+autobiography
+biography
+photography
+
+# Greek -phon- (sound)
+symphony
+telephone
+microphone
+
+# Greek -chron- (time)
+chronology
+synchronize
+anachronism
+
+# Greek -logy (study of)
+psychology
+anthropology
+dermatology
+
+# Greek -path- (feeling/suffering)
+sympathy
+empathy
+antipathy
+
+# Greek -morph- (shape/form)
+metamorphosis
+amorphous
+
+# un- prefix
+uncomfortable
+unbelievable
+unforgettable
+unrecognizable
+
+# mis- prefix
+misunderstanding
+misrepresentation
+
+# over-/under- prefix
+overwhelming
+underestimate
+overestimation
+
+# multi-/inter-/trans- prefix
+multicultural
+transcontinental
+interchangeable
+
+# -ize / -ization
+disorganize
+modernization
+industrialization
+
+# -ment
+encouragement
+disagreement
+disappointment
+acknowledgment
+
+# -ous
+courageous
+outrageous
+advantageous
+extraordinary
+
+# -able
+remarkable
+predictable
+adjustable
+expandable
+
+# -ness / -ity / -ible
+unconsciousness
+irresponsibility
+incomprehensible
+
+# 5-morpheme words
+compartmentalize
+incompatibility
+
+# ---- everyday words ----
+
+# -ful + -ly / -ness (common states and qualities)
+carefully
+carelessly
+carelessness
+helpfully
+helplessly
+helplessness
+hopefully
+hopelessness
+hopelessly
+thankfully
+thankfulness
+thoughtfully
+thoughtlessness
+fearlessly
+fearlessness
+peacefully
+beautifully
+successfully
+powerfully
+powerlessness
+
+# -ment (everyday nouns)
+unemployment
+development
+involvement
+improvement
+advertisement
+entertainment
+requirement
+retirement
+department
+replacement
+
+# un- (everyday negations)
+unfortunately
+unexpectedly
+unhealthy
+unreasonable
+unacceptable
+unavoidable
+unimportant
+unwillingness
+
+# re- (repetition/back)
+reconsider
+reconsideration
+reorganize
+reorganization
+reintroduction
+reconnect
+recycling
+
+# -tion (everyday nouns)
+communication
+education
+investigation
+introduction
+production
+pronunciation
+explanation
+examination
+imagination
+population
+conversation
+collection
+reflection
+connection
+protection
+invitation
+preparation
+organization
+simplification
+satisfaction
+qualification
+identification
+evaluation
+
+# -able / -ible (everyday)
+understandable
+affordable
+dependable
+incredible
+invisible
+impossible
+irresponsible
+irreversible
+indestructible
+
+# inter- / super- / anti- / pre- / sub- (everyday)
+international
+supernatural
+prehistoric
+antibiotic
+submarine
+automatically
+television
+democracy
+geography
+
+# -ity (everyday qualities)
+responsibility
+personality
+popularity
+electricity
+creativity
+productivity
+flexibility
+nationality
+
+# -ive + -ly (everyday adverbs)
+effectively
+creatively
+productively
+attractively
+
+# agent nouns
+researcher
+developer
+employer
+employee
+photographer
+investigator
+communicator
+
+# everyday verbs
+communicate
+investigate
+collaborate
+participate
+congratulate
+misinterpret
+deconstruct

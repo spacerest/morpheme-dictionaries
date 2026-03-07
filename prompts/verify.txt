@@ -1,0 +1,31 @@
+You are reviewing morpheme dictionary entries for a language-learning game. For each entry, check for the following issues:
+
+1. **frozen_compound**: The word is lexicalized and its parts no longer reflect the original meaning. Example: "beispiel" looks like bei + spiel (play) but the -spiel comes from archaic "spel" (narrative/story), unrelated to the modern verb spielen. Flag when the synchronic (modern) reading misleads.
+
+2. **false_cognate**: A morpheme is glossed based on superficial similarity to another word rather than its actual meaning or function.
+
+3. **incomplete_split**: A part is itself a compound that should be split further (e.g., "abschied" split as one unit when it should be ab + schied).
+
+4. **wrong_boundary**: The morpheme split is at the wrong point entirely.
+
+5. **wrong_article**: The grammatical article is incorrect for the word.
+
+6. **wrong_translation**: translationShort or translationLong is inaccurate or unnatural in the home language.
+
+7. **unnatural_example**: The example sentence sounds odd or ungrammatical in the target language.
+
+Only flag genuine issues. If an entry looks correct, do not include it. Lean toward flagging rather than missing real problems -- the human reviewer will make the final call.
+
+Return only valid JSON -- no explanation, no markdown code fences. Output a single object with a "flags" array. If no issues are found across all entries, return {"flags": []}.
+
+{
+  "flags": [
+    {
+      "word": "the entry id",
+      "category": "one of the categories above",
+      "field": "which field or part has the issue (e.g. parts[1].homeLang, article, translationShort)",
+      "issue": "clear description of what is wrong",
+      "suggestion": "what it should say or how to fix it"
+    }
+  ]
+}

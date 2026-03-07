@@ -1,0 +1,92 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows Hindi and is learning English. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the English word exactly as given (lowercase, unless a proper noun).
+2. **article**: Use "the" for countable nouns. Use "" for verbs, adjectives, and uncountable nouns.
+3. **displayPrefix**: Use "to" for verb infinitives (e.g., "to understand"), displayed in the UI but not part of gameplay.
+4. **parts**: Split the word at all real morpheme boundaries. English morphemes are mostly Latin, Greek, and Germanic in origin. Key patterns:
+   - Latin/Greek prefixes: pre-, re-, un-, in-/im-/ir-/il-, trans-, inter-, over-, sub-, super-, com-/con-/col-/cor-, de-, dis-, ex-, pro-, per-
+   - Latin/Greek suffixes: -tion/-sion, -ity, -ment, -ness, -ful, -less, -able/-ible, -ive, -al, -ous, -ize/-ise, -er/-or, -ist, -ism, -ology, -graph
+   - Germanic roots and compounds split at recognizable word boundaries
+
+   **CRITICAL — surface forms:** The `targetLang` values for all parts must concatenate exactly to the word's `id`. Always use the surface form as it appears, not the etymological form. Common mutations to watch for:
+   - Roots change before certain suffixes: `scrib` → `scrip` in *prescription*, `vert` → `vers` in *conversion*
+   - Final `-e` drops before vowel suffixes: *believable* = `believ` + `able`
+   - `-ize` + `-ation` → `-iz` + `-ation`: *organization* = `organ` + `iz` + `ation`
+   - `-ify` + `-ation` → `-ific` + `-ation`: *simplification* = `simpl` + `ific` + `ation`
+   - `-ate` drops the `e` before `-or`/`-ion`: *communication* = `commun` + `icat` + `ion`
+   - Connecting vowels are their own parts: *chronology* = `chron` + `o` + `logy`
+   - Double consonants belong to one part: *commitment* = `com` + `mit` + `ment`
+
+   Aim for 2–4 parts. Add a flag for 1 part or 5+.
+
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 Hindi word ideally, 2 at most, in Devanagari script. Picture it on a small game tile. Rules: (a) ONE meaning — never slash synonyms ("पहले/पूर्व" is wrong; pick one); put alternatives in homeLangDetails. (b) Affixes: pre- = "पहले", re- = "फिर", un- = "नहीं", -tion = "(क्रिया)", -ness = "(-ता)", -ful = "(युक्त)", -able = "(योग्य)", -er = "(कर्ता)". (c) Roots: use the single closest Hindi word.
+6. **translationShort**: A natural, concise English translation or definition (1–4 words) — since the player is learning English, this should clarify the word's meaning, not just restate it.
+7. **translationLong**: Longer or alternate meanings if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Hindi. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct English sentence using the word.
+10. **exampleTranslation**: Accurate Hindi translation of the example sentence in Devanagari script.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "English Vocab",
+  "words": [
+    {
+      "id": "independence",
+      "article": "the",
+      "parts": [
+        {"targetLang": "in", "homeLang": "नहीं/अ-"},
+        {"targetLang": "depend", "homeLang": "निर्भर होना"},
+        {"targetLang": "ence", "homeLang": "(-ता/-पन)"}
+      ],
+      "translationShort": "being free, self-rule",
+      "translationLong": "freedom from outside control; the state of not depending on others",
+      "exampleSentence": "India celebrated fifty years of independence.",
+      "exampleTranslation": "भारत ने स्वतंत्रता के पचास साल मनाए।"
+    },
+    {
+      "id": "transportation",
+      "article": "the",
+      "parts": [
+        {"targetLang": "trans", "homeLang": "पार/आर-पार"},
+        {"targetLang": "port", "homeLang": "ले जाना"},
+        {"targetLang": "ation", "homeLang": "(क्रिया-संज्ञा)"}
+      ],
+      "translationShort": "moving people or goods",
+      "translationLong": "the act of moving people or things from one place to another",
+      "exampleSentence": "Public transportation makes the city easier to navigate.",
+      "exampleTranslation": "सार्वजनिक परिवहन से शहर में आना-जाना आसान हो जाता है।"
+    },
+    {
+      "id": "teacher",
+      "article": "the",
+      "parts": [
+        {"targetLang": "teach", "homeLang": "सिखाना/पढ़ाना"},
+        {"targetLang": "er", "homeLang": "(करने वाला)"}
+      ],
+      "translationShort": "one who teaches",
+      "translationLong": "a person who teaches, especially in a school",
+      "exampleSentence": "The teacher explained the lesson clearly.",
+      "exampleTranslation": "शिक्षक ने पाठ को स्पष्ट रूप से समझाया।"
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {"targetLang": "im", "homeLang": "नहीं/अ-"},
+        {"targetLang": "possib", "homeLang": "संभव"},
+        {"targetLang": "le", "homeLang": "(विशेषण)"}
+      ],
+      "translationShort": "not possible",
+      "translationLong": "not able to happen or be done",
+      "exampleSentence": "Nothing is truly impossible with patience and hard work.",
+      "exampleTranslation": "धैर्य और मेहनत से कुछ भी असंभव नहीं है।"
+    }
+  ]
+}

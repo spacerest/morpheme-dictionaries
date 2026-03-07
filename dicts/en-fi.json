@@ -1,0 +1,4584 @@
+{
+  "homeLang": "fi",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "sisään/ei tai sisään"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "heittää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "injektio",
+      "translationLong": "nesteytys; kehoon pakotettava neste",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "Sairaanhoitaja antoi minulle injektioita kivun lievittämiseksi."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "eteenpäin/puolesta",
+          "homeLangDetails": "Eteenpäin, puolesta tai jonkun tilalla. Näet tämän sanoissa progress (edistys), produce (tuottaa) ja pronoun (pronomi)."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "heittää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "projektio",
+      "translationLong": "jotain, joka ulottuu ulospäin; ennuste tai arvio",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "Myyntiennuste osoittaa vahvaa kasvua ensi vuosineljänneksellä."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "vastaan",
+          "homeLangDetails": "Latinan etuliite ob- tarkoittaa tyypillisesti 'vastaan' tai 'kohti'. Tässä sanassa se välittää ajatuksen jonkun heittämisestä vastaan tai vastustukseksi."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "heittää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "vastalause",
+      "translationLong": "eri mieltä olemisen tai hyväksynnän puuttumisen ilmaisu",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "Hän esitti vastalauseen ehdotusta vastaan kokouksessa."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "ennen",
+          "homeLangDetails": "Ennen ajallisesti tai paikallisesti. Näet tämän sanoissa predict (ennustaa), prepare (valmistaa) ja prehistoric (esihistoriallinen)."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "sanoa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "ennuste",
+      "translationLong": "lausunto siitä, mitä tulevaisuudessa tapahtuu",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "Huomisen sääennuste on sateen mahdollisuus."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "vastaan",
+          "homeLangDetails": "Latinan sana contra tarkoittaa 'vastaan'. Tässä se yhdistyy juureen 'dict' (sanoa) muodostaen merkityksen 'sanoa vastaan' tai 'puhua vastaan'."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "sanoa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "ristiriita",
+      "translationLong": "lausunto tai tilanne, joka on vastoin tai ristiriidassa toisen kanssa",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "Hänen kahdessa lausunnossaan on selvä ristiriita."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "oikeus"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "määrätä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "lainkäyttövalta",
+      "translationLong": "virallinen valta tehdä oikeudellisia päätöksiä ja panna lakeja täytäntöön",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Tämä tapaus kuuluu liittovaltion tuomioistuimen lainkäyttövallalle."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "poikki",
+          "homeLangDetails": "Poikki, läpi tai muutos tilasta toiseen. Näet tämän sanoissa transport (kuljetus), transform (muuntaa) ja translate (kääntää)."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "kuljetus",
+      "translationLong": "ihmisten tai tavaroiden siirtäminen paikasta toiseen",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Joukkoliikenne on halvempaa kuin oman auton ajaminen."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/kumota",
+          "homeLangDetails": "Alaspäin, pois päältä tai toiminnan kumoaminen. Näet tämän sanoissa decrease (vähentää), depart (lähteä) ja deconstruct (purkaa). Usein kumotaan perussan merkitys."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "karkoitus",
+      "translationLong": "henkilön pakkopoistaminen maasta",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "Karkoitusmenettely kesti useita kuukausia."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "sisään/ei tai sisään"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "tuonti",
+      "translationLong": "tavaroiden tuominen maahan ulkomailta",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "Ulkomaisten tavaroiden tuonti on lisääntynyt tänä vuonna."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "yhdessä"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "rakentaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "rakentaminen",
+      "translationLong": "jonkin rakentamisen prosessi; rakennettava rakenne",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "Uuden sillan rakentaminen kestää kaksi vuotta."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/purkaminen",
+          "homeLangDetails": "Alaspäin, pois päin tai toiminnan peruuttaminen. Vähentyminen, poistuminen, purkaminen. Usein se kääntää kantasanan merkityksen suoraan päinvastaiseksi."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "rakentaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tuhoaminen",
+      "translationLong": "jonkin tuhoamisen tai pois ottamisen tekeminen; vakava vahinko tai hävitys",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "Hurrikaani aiheutti laajoja tuhoja."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinalaisesta re-prefiksiistä peräisin, se esiintyy tuhansissa englannin sanoissa: return, rebuild, reconsider. Usein voidaan vaihtaa sanaan \"tekeminen uudelleen\" tai \"palaaminen takaisin\"."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "yhteen"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "rakentaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "jälleenrakentaminen",
+      "translationLong": "prosessi, jossa rakennetaan uudelleen jotain, joka oli vaurioitunut tai tuhottu",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "Kaupungin jälleenrakentaminen tulipalon jälkeen kesti monta vuotta."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "sisään/ei"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "katsoa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tarkastus",
+      "translationLong": "huolellinen tutkiminen tai tarkistaminen",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "Rakennus läpäisi turvallisuustarkastuksen."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "läpi",
+          "homeLangDetails": "Läpi, perusteellisesti tai kokonaan. Perform, permit, persist."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "katsoa"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Taipumus johonkin tai luonteeltaan jotakin. Active, creative, descriptive."
+        }
+      ],
+      "translationShort": "näkökulma",
+      "translationLong": "tietty tapa nähdä tai ymmärtää jotakin; näkemys",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Minun näkökulmastani suunnitelma on liian riskialtis."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "taaksepäin",
+          "homeLangDetails": "Latinalaisesta retro-sanasta, mikä tarkoittaa \"taaksepäin\" tai \"takaisin\". Se yhdistyy siihen \"katsoa\"-sanaan muodostaen \"katsomisen takaisin\" menneisyyteen."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "katsoa"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "Taipumus johonkin tai luonteeltaan jotakin. Active, creative, descriptive."
+        }
+      ],
+      "translationShort": "taantuva katsaus",
+      "translationLong": "katsaus tai tutkiminen menneisyyden tapahtumista; menneisyyteen liittyvä tai menneisyyttä käsittelevä",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Museo järjesti taiteilijaansa liittyvän retrospektiivinäyttelyn."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "ennen",
+          "homeLangDetails": "Ennen ajallisesti tai paikallisesti. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "kirjoittaa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "lääkärin määräys",
+      "translationLong": "lääkärin kirjoittama määräys lääkkeelle; joukko ohjeita",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "Lääkäri antoi minulle reseptin antibiooteille."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/purkaminen",
+          "homeLangDetails": "Alaspäin, pois päin tai toiminnan peruuttaminen. Decrease, depart, deconstruct. Usein se kääntää kantasanan merkityksen suoraan päinvastaiseksi."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "kirjoittaa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "kuvaus",
+      "translationLong": "suullinen tai kirjallinen kuvaus jostakin; esittäminen",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Hänen kuvansa tapahtumasta oli erittäin yksityiskohtainen."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "alle",
+          "homeLangDetails": "Alle, alempana tai toissijainen. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "kirjoittaa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tilaus",
+      "translationLong": "säännöllinen maksu palvelusta tai julkaisusta; allekirjoitus",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Minulla on tilaus kolmeen lehteen."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ulos"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "puristaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tunteen tai merkityksen ilmaisu",
+      "translationLong": "tunteen tai merkityksen ilmaisu; fraasi tai sana",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Hänen ilmeensä osoitti, että hän oli loukkaantunut."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/purkaminen",
+          "homeLangDetails": "Alaspäin, pois päin tai toiminnan peruuttaminen. Decrease, depart, deconstruct. Usein se kääntää kantasanan merkityksen suoraan päinvastaiseksi."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "puristaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "masennus; painauma",
+      "translationLong": "mielenterveyden häiriö, jolle on ominaista surullisuus; painunut tai onkaloitunut alue",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Hän hakeutui hoitoon masennukseen."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "sisään/in"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "painaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "tunne tai käsitys; painamalla tehty jälki",
+      "translationLong": "tunne tai käsitys jostakin; painamalla tehty jälki tai painauma",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Sain käsityksen, että hän ei ollut tyytyväinen."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "kohti/puoleensa"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "vetää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "kiinnostuksen tai vetävyyden tunne",
+      "translationLong": "kiinnostuksen tai vetävyyden tunne; jotain, joka vetää ihmisiä puoleensa",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Teemapuisto on pääasiallinen vetovoimaisuus matkailijoille."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ulos"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "vetää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "poistamisen tai ottamisen tekeminen",
+      "translationLong": "poistamisen tai ottamisen tekeminen; hampaan poistaminen",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "Hammaslääkäri suositteli hampaan poistamista."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "pois/erillään",
+          "homeLangDetails": "Pois tai erillään. Distraction, disconnect, disappear. Vahvempi erottelun tai kääntymisen tunne kuin un-etuliitteellä."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "vetää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "jotain, joka siirtää huomion",
+      "translationLong": "jotain, joka siirtää huomion pois tehtävästä; häiriintyneen tilan tilanne",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Ääni oli merkittävä häiriötekijä kokeessa."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "läpi",
+          "homeLangDetails": "Läpi, täydellisesti tai kokonaan. Perform, permit, persist. Kuvaa täyden tai perusteellisen toiminnan ideaa."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "lähettää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "virallinen suostumus tai hyväksyntä",
+      "translationLong": "virallinen suostumus tai hyväksyntä tehdä jotain",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Tarvitset johtajan luvan lähteä aikaisin."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "poikki/yli",
+          "homeLangDetails": "Poikki, läpi tai muutos tilasta toiseen. Transport, transform, translate. Kuvaa liikkumista tai muuttumista paikasta toiseen tai tilasta toiseen."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "lähettää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "jonkin lähettäminen; ajoneuvon mekanismi",
+      "translationLong": "jonkin lähettäminen paikasta toiseen; ajoneuvon mekanismi",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "Datan siirtäminen tapahtui ilman virheitä."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "yhdessä"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "lähettää"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Muodostaa substantiiveja verbeista, viitaten toimintaan, sen tulokseen tai välineisiin. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "lupaus tai sitoumus; omistautuminen",
+      "translationLong": "lupaus tai sitoumus tehdä jotain; omistautuminen asialle tai henkilölle",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Hänen sitoutumisensa projektiin oli horjumaton."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "takaisin",
+          "homeLangDetails": "Tässä sanassa re- kantaa vanhempaa latinankielistä merkitystä 'takaisin' pitkällä 'uudestaan' merkityksen sijaan. Receive tarkoittaa ottaa takaisin (tai sisään), recede tarkoittaa mennä takaisin, ja refer tarkoittaa kantaa takaisin lähteeseen."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ottaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "vastaanottamisen toiminta; muodollinen tilaisuus",
+      "translationLong": "vastaanottamisen toiminta; muodollinen tilaisuus tai juhlat; signaalin vastaanottokyky",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "Häiden juhlat pidettiin paikallisessa hotellissa."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "läpi",
+          "homeLangDetails": "Läpi, täydellisesti tai kokonaan. Perform, permit, persist. Kuvaa täyden tai perusteellisen toiminnan ideaa."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ottaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "kyky ymmärtää tai tulla tietoiseksi",
+      "translationLong": "kyky ymmärtää tai tulla tietoiseksi jostakin aisteilla; tietoisuus",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "Hänen käsityksensä ajasta muuttui onnettomuuden jälkeen."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/peruuta",
+          "homeLangDetails": "Alaspäin, pois tai toiminnan kääntäminen. Decrease, depart, deconstruct. Usein käännetään suoraan peaussanan merkityksen."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ottaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion/-tio"
+        }
+      ],
+      "translationShort": "petoksen tai harhaanjohtamisen tekeminen",
+      "translationLong": "petoksen tai harhaanjohtamisen tekeminen; petos tai valhe",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "Petos lopulta paljastui."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "takaisin",
+          "homeLangDetails": "Tässä sanassa re- säilyttää vanhemman latinankielisen merkityksensä 'takaisin' sanan 'uudelleen' sijaan. Receive tarkoittaa ottaa takaisin tai sisään, recede tarkoittaa vetäytyä takaisin, ja refer tarkoittaa viedä takaisin lähteeseen."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "viittaus",
+      "translationLong": "lähde, josta haetaan tietoa; viittaus tai maininta",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "Käytin tuota kirjaa esseeäni lähteenä."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "yhdessä"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "konferenssi",
+      "translationLong": "muodollinen kokous tai keskustelu",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "Vuosittainen konferenssi kokoaa tiedemiehiä ympäri maailmaa."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "välissä",
+          "homeLangDetails": "Välissä tai keskenään. International, interrupt, interact."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "kantaa"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "häiriö",
+      "translationLong": "sekaantuminen; ei-toivotut signaalit, jotka häiritsevät lähetystä",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radiosignaalien häiriö keskeytti lähetyksen."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "yhdessä"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "kääntyä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "muuntaminen",
+      "translationLong": "prosessi, jossa muutetaan jokin muodosta, tilasta tai uskomuksesta toiseksi",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "Varaston muuntaminen asunnoiksi kesti useita kuukausia."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "sisäänpäin"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "kääntyä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "introversio",
+      "translationLong": "taipumus keskittyä sisäänpäin omiin ajatuksiin ja tunteisiin",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Hänen introversiensa sai hänet suosimaan hiljaisia iltoja kotona."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "alla",
+          "homeLangDetails": "Alla, alapuolella tai toissijainen. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "kääntyä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "kaataminen",
+      "translationLong": "toiminta, jolla pyritään heikentämään tai kumoamaan jotakin vakiintunutta",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "Hallitus rankaisevasti torjui vallan kaatamisen yritykset."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "alas/pois",
+          "homeLangDetails": "Tässä sanassa de- säilyttää sen suuntaa kuvaavan merkityksen 'alas pois' - latinankielinen dependere tarkoittaa 'roikkua alaspäin'. Se ei kumoa kantasanaa; se kuvailee suhdetta, jossa on riippuvainen jostakin."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "roikkua"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "riippuvuus",
+      "translationLong": "tila, jossa luottaa johonkin tai johonkuhun",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "Hänen riippuvuutensa kofeiinista vaikutti hänen unelleen."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ei"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "alas/pois",
+          "homeLangDetails": "Tässä sanassa de- säilyttää sen suuntaa kuvaavan merkityksen 'alas pois' - latinankielinen dependere tarkoittaa 'roikkua alaspäin'. Se ei kumoa kantasanaa; se kuvailee suhdetta, jossa on riippuvainen jostakin."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "roikkua"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "itsenäisyys",
+      "translationLong": "tila, jossa on omavaraisesti toimiva ja vapaa riippuvuudesta",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "Hän saavutti lopulta taloudellisen itsenäisyyden."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "välissä",
+          "homeLangDetails": "Välissä tai keskenään. International, interrupt, interact."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "alas/pois",
+          "homeLangDetails": "Tässä sanassa de- säilyttää sen suuntaa kuvaavan merkityksen 'alas pois' - latinankielinen dependere tarkoittaa 'roikkua alaspäin'. Se ei kumoa kantasanaa; se kuvailee suhdetta, jossa on riippuvainen jostakin."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "roikkua"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "keskinäinen riippuvuus",
+      "translationLong": "keskinäinen riippuvuus eri osapuolten tai ryhmien välillä",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Globaalit taloudet osoittavat kasvavaa keskinäistä riippuvuutta."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "kohti"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "juosta"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "esiintyminen",
+      "translationLong": "tilanne tai tapahtuma, kun jotakin tapahtuu",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "Maanjäristykset ovat yleisiä kyseisellä alueella."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen",
+          "homeLangDetails": "Ilmaisee toiston tai palaamista edelliseen tilaan. Latinan re- esiintyy tuhansissa englanninkielisissa sanoissa: return, rebuild, reconsider. Voit ajatella sitä usein samaksi kuin \"tehdä uudelleen\" tai \"palata takaisin\"."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "juoksu"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "toistuminen",
+      "translationLong": "se, että jokin tapahtuu tai ilmestyy uudelleen",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "Migreeni-iskujen toistuminen alkoi muodostua vakavaksi ongelmaksi."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "yhdessä"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "juoksu"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        }
+      ],
+      "translationShort": "samanaikainen",
+      "translationLong": "tapahtuu tai on olemassa samaan aikaan",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "Nämä kaksi tapahtumaa olivat samanaikaisia, tapahtuen samaan aikaan."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "takaisin",
+          "homeLangDetails": "Tässä sanassa re- merkitsee latinan vanhempaa merkitystä \"takaisin\" sen sijaan että \"uudelleen\". Receive tarkoittaa ottaa takaisin (tai sisään), recede on vetäytyä takaisin, ja refer on palauttaa lähteelle."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "mennä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "taantuma",
+      "translationLong": "talouden laskusuhdanne; ajanjakso, jolloin toiminta vähenee väliaikaisesti",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Maa koki vakavan taantuman 2000-luvun alussa."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "alla"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "mennä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "peräkkäisyys",
+      "translationLong": "sarja asioita, jotka seuraavat järjestyksessä; prosessi, jossa asiat seuraavat peräkkäin",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "Kuninkailta peräkkäisyys kesti kolme vuosisataa."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "ei",
+          "homeLangDetails": "Englannin yleisin kielteinen etuliite, peritty Vanhan englannin kaudelta. Se vastaa suoraan saksalaista un-, hollantilasta on- ja muita germaanikielisten kielten vastaavia muotoja. Kääntää perusmuodon merkityksen päälaelleen: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "ennen",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "mennä"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(mennyt)"
+        }
+      ],
+      "translationShort": "ennennäkemätön",
+      "translationLong": "jota ei ole koskaan aiemmin tehty tai tunnettu; ilman ennakkotapausta",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "Pandemia aiheutti ennennäkemättömän häiriön kouluissa maailmanlaajuisesti.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "poikki",
+          "homeLangDetails": "Poikki, läpi, tai muutos tilasta toiseen. Transport, transform, translate."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "muoto"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "muutos",
+      "translationLong": "muodon muuttamisen toimi tai prosessi",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "Muutos toukkasta perhosaksi on merkittävä."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen",
+          "homeLangDetails": "Ilmaisee toiston tai palaamista edelliseen tilaan. Latinan re- esiintyy tuhansissa englanninkielisissa sanoissa: return, rebuild, reconsider. Voit ajatella sitä usein samaksi kuin \"tehdä uudelleen\" tai \"palata takaisin\"."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "muoto"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "reformaatio",
+      "translationLong": "muodon uudelleen muodostamisen toimi tai reformointi",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "Reformaatio oli suuri uskonnollinen liike 1500-luvun Euroopassa."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "sisään"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "muoto"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tieto",
+      "translationLong": "faktoja tai yksityiskohtia, jotka on toimitettu tai opittu",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Löysin hyödyllistä tietoa aiheesta verkosta."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "välissä",
+          "homeLangDetails": "Välissä tai kesken. International, interrupt, interact."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "katketa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "keskeytys",
+      "translationLong": "katkos jatkuvuudessa tai tauko",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "Kokouksessa oli lyhyt keskeytys."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "erillään",
+          "homeLangDetails": "Ei, tai hajottaa osiksi. Disagree, disconnect, disappear. Vahvempi erottelun tai kääntymisen merkitys kuin un-."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "katketa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "häiriö",
+      "translationLong": "häiriö tai ongelma, joka keskeyttää toiminnan",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "Myrsky aiheutti merkittävän häiriön liikenteessä."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "yhdessä/koossa"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "rikkoa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-io"
+        }
+      ],
+      "translationShort": "korruptio",
+      "translationLong": "epärehellinen tai epämoraali­nen käyttäytyminen; rikkoutuneen tilan tila",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "Hallitus puuttui korruptioon."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "itse",
+          "homeLangDetails": "Itse. Omaelämäkerta, automaatti, auto."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "elämä",
+          "homeLangDetails": "Elämä. Biologia, biografia, biohajoava."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graafi-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantiivin pääte)"
+        }
+      ],
+      "translationShort": "omaelämäkerta",
+      "translationLong": "henkilön oma kirjoitettu elämäntarina",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Hän kirjoitti omaelämäkertansa varhaisista vuosistaan."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "elämä",
+          "homeLangDetails": "Elämä. Biologia, biografia, biohajoava."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graafi-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantiivin pääte)"
+        }
+      ],
+      "translationShort": "biografia",
+      "translationLong": "kirjoitettu kuvaus jonkun elämästä",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Luen tunnetun tiedemiehen elämäkertaa."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "valo"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graafi-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantiivin pääte)"
+        }
+      ],
+      "translationShort": "valokuvaus",
+      "translationLong": "kuvan ottamisen taide tai harjoitus",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Hän on intohimoinen valokuvausta kohtaan."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "yhdessä",
+          "homeLangDetails": "Kreikan peräisin oleva etuliite, joka tarkoittaa yhdessä tai saman­aikaisesti. Sinfonias­sa monet soittimet soivat yhtä aikaa harmoniassa."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-ääni"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantiivin pääte)"
+        }
+      ],
+      "translationShort": "sinfonia",
+      "translationLong": "laaja orkesterin sävelletty kappale",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethovenin Yhdeksäs sinfonia on yksi hänen suurimmista teoksista."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "kauas",
+          "homeLangDetails": "Etäisyydellä. Puhelin, televisio, kaukoputki."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-ääni"
+        }
+      ],
+      "translationShort": "puhelin",
+      "translationLong": "laite kaukaa yhteyden­ottoon",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Soitan sinulle puhelimella huomenna."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "pieni",
+          "homeLangDetails": "Hyvin pieni. Mikrofoni, mikroskooppi, mikroaaltouuni."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-ääni"
+        }
+      ],
+      "translationShort": "mikrofoni",
+      "translationLong": "laite, joka kuulostaa ja vahvistaa pienet äänet",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "Laulaja puhu mikrofoniin."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-aika-",
+          "homeLangDetails": "Aika. Kronologia, synkronoida, anakronismi."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Jonkin tutkimus. Biologia, psykologia, teknologia."
+        }
+      ],
+      "translationShort": "kronologia",
+      "translationLong": "tapahtumien järjestäminen aika­järjestyk­sessä",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "Tapahtumien kronologia on tärkeä ymmärtämisen kannalta."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "yhdessä",
+          "homeLangDetails": "Kreikan peräisin oleva etuliite, joka tarkoittaa yhdessä. Synkronoinnissa tapahtumat tai toiminnot tapahtuvat samaan aikaan yhdessä."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-aika-",
+          "homeLangDetails": "Aika. Kronologia, synkronoida, anakronismi."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ida"
+        }
+      ],
+      "translationShort": "synkronoida",
+      "translationLong": "saada asiat tapahtumaan samaan aikaan",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Synkronoidaan kellomme ennen lähtöä."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "taakse",
+          "homeLangDetails": "Kreikan etuliite, joka tarkoittaa taaksepäin tai uudelleen. Anakronismissa jokin on väärässä aikakaudessa, ikään kuin mennyt väärään aikakauteen."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-aika-",
+          "homeLangDetails": "Aika. Kronologia, synkronoida, anakronismi."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-ismi",
+          "homeLangDetails": "Uskonanto, käytäntö, järjestelmä tai ominais­piirre. Realismi, kapitalismi, innostus."
+        }
+      ],
+      "translationShort": "anakronismi",
+      "translationLong": "jokin, joka sijoitetaan väärään aikakauteen",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Älypuhelin keskiaikaisessa elokuvassa olisi anakronismi."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "mieli"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Vokaalin yhdistäjä (temaattinen vokaalit), jota käytetään kreikkalaisissa yhdisteissä morfeemin yhdistämiseen sujuvasti. Sillä ei ole omaa merkitystä."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Tutkimus, tiede. Biologia, psykologia, teknologia. Kreikkalaisesta perinteestä tuttu tapa muodostaa tieteen ja tutkimuksen nimiä."
+        }
+      ],
+      "translationShort": "mielen tutkimus",
+      "translationLong": "mielen ja käyttäytymisen tieteellinen tutkimus",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "Hän opiskeli psykologiaa yliopistossa."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "ihminen"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Vokaalin yhdistäjä (temaattinen vokaalit), jota käytetään kreikkalaisissa yhdisteissä morfeemin yhdistämiseen sujuvasti. Sillä ei ole omaa merkitystä."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Tutkimus, tiede. Biologia, psykologia, teknologia. Kreikkalaisesta perinteestä tuttu tapa muodostaa tieteen ja tutkimuksen nimiä."
+        }
+      ],
+      "translationShort": "ihmiskunnan tutkimus",
+      "translationLong": "ihmisyhteiskuntien ja kulttuurien tieteellinen tutkimus",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Antropologia auttaa meitä ymmärtämään erilaisia kulttuureita."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "iho"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Vokaalin yhdistäjä (temaattinen vokaalit), jota käytetään kreikkalaisissa yhdisteissä morfeemin yhdistämiseen sujuvasti. Sillä ei ole omaa merkitystä."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logia",
+          "homeLangDetails": "Tutkimus, tiede. Biologia, psykologia, teknologia. Kreikkalaisesta perinteestä tuttu tapa muodostaa tieteen ja tutkimuksen nimiä."
+        }
+      ],
+      "translationShort": "ihon tutkimus",
+      "translationLong": "ihon ja sen sairauksien lääketieteellinen tutkimus",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "Minulla on aika dermatologin vastaanotolle."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "yhtä, yhteen",
+          "homeLangDetails": "Kreikkalainen etuliite syn-, jonka variantti on sym-. Se merkitsee 'yhdessä' tai 'kanssa'. Tässä yhtyy pathos-sanaan (tunne), joten synpathia merkitsee kirjaimellisesti 'tuntemista yhdessä', eli kykyä ymmärtää toisen tunteita."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Tunne, kärsimys tai tila. Kreikkalaisesta pathos-sanasta. Sympathy, empathy, antipathy, apathy kaikki jakavat tämän päätteen."
+        }
+      ],
+      "translationShort": "myötätunto, ymmärtämys",
+      "translationLong": "kyky ymmärtää ja jakaa toisen tunteita",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "Tunsin myötätuntoa hänen vaikeaa tilannettaan kohtaan."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "sisälle",
+          "homeLangDetails": "Kreikkalainen etuliite en- (variantti em-), joka merkitsee 'sisään' tai 'sisälle'. Se vihjaa siihen, että astuu sisälle toisen ihmisen tunnetilaan tai imee sen itseensä. Se on syvempi ja kuvittelullisempi tapa kohdata toisen tunteet kuin sympathy."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Tunne, kärsimys tai tila. Kreikkalaisesta pathos-sanasta. Sympathy, empathy, antipathy, apathy kaikki jakavat tämän päätteen."
+        }
+      ],
+      "translationShort": "empaattinen ymmärrys",
+      "translationLong": "kyky ymmärtää ja tuntea toisen tunteita ikään kuin ne olisivat omia",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empatia on tärkeää, kun haluaa olla hyvä ystävä."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "vastaan",
+          "homeLangDetails": "Etuliite, joka merkitsee vastustusta tai vastakkaisuutta. Anti-sota, antibiootit, ennakointi. Se kääntyy tunteen vastakkaiseksi."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathy",
+          "homeLangDetails": "Tunne, kärsimys tai tila. Kreikkalaisesta pathos-sanasta. Sympathy, empathy, antipathy, apathy kaikki jakavat tämän päätteen."
+        }
+      ],
+      "translationShort": "vastenmielisyys, vastustus",
+      "translationLong": "voimakas vastenmielisyyden tai vastustuksen tunne",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "Hänellä oli vastenmielisyys modernista taiteesta."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "muutos, yli",
+          "homeLangDetails": "Kreikkalainen etuliite, joka merkitsee 'muutosta', 'ylittämistä' tai 'poikki'. Tässä se yhdistyy morph-sanaan (muoto), jolloin se kuvaa muodon radikaaleja muutoksia. Ajattele silkkiäisen muuttumista perhoseksi."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Muoto tai hahmo. Metamorphosis, amorphous, morphology. Kreikkalaisesta morphe-sanasta peräisin."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Vokaalin yhdistäjä (temaattinen vokaalit), jota käytetään kreikkalaisissa yhdisteissä morfeemin yhdistämiseen sujuvasti. Sillä ei ole omaa merkitystä."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "Kreikkalainen pääte, joka merkitsee tilaa, prosessia tai kuntoa. Se muuttaa muuttumisen prosessin substantiiviksi, joka viittaa itse muutosprosessiin."
+        }
+      ],
+      "translationShort": "muuttuminen, muutos",
+      "translationLong": "täydellinen muutos muodossa tai rakenteessa; biologinen muuttuminen",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "Polliwakin muuttuminen sammakoksi kestää muutaman viikon."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "ei, ilman",
+          "homeLangDetails": "Kreikkalainen etuliite a-, joka merkitsee 'ei' tai 'ilman'. Se on kreikkalainen vastine germaaniselle un-etuliitteelle. Tässä se kieltää morphe-sanan (muoto), jolloin syntyy sana jollekin ilman määriteltyä muotoa."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Muoto tai hahmo. Metamorphosis, amorphous, morphology. Kreikkalaisesta morphe-sanasta peräisin."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "muodotton, epämääräinen",
+      "translationLong": "ilman selvää muotoa tai hahmon; epäselvä tai määrittelemätön",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "Muodotonta savesta saattoi tulla mitä vain."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "ei, -ton",
+          "homeLangDetails": "Englannin yleisin negaation etuliite, peräisin muinaisesta englannista. Se vastaa suoraan saksaa un-, hollantia on- ja muita germaanisia sukuisia muotoja. Se kääntää peräsanan merkityksen nurinniskaan: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "mukavuus"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "epämukava, oloa harmittava",
+      "translationLong": "aiheuttava epämukavuutta tai epämiellyttävä; kiusallinen tai sikailuinen",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "Tuoli on erittäin epämukava."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "ei, -ton",
+          "homeLangDetails": "Englannin yleisin negaation etuliite, peräisin muinaisesta englannista. Se vastaa suoraan saksaa un-, hollantia on- ja muita germaanisia sukuisia muotoja. Se kääntää peräsanan merkityksen nurinniskaan: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "uskoa"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "uskomaton, hämmästyttävä",
+      "translationLong": "ei voida uskoa; uskomaton tai hämmästyttävä",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "Tuo tarina kuulostaa uskomattomalta!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglanniksi. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\" - esimerkiksi unhappy (iloton), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "muistettava, unohtumaton",
+      "translationLong": "jota ei voi unohtaa; muistettava ja merkittävä",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "Loma oli unohtumaton."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglanniksi. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\" - esimerkiksi unhappy (iloton), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "tunnistamaton, tuntematon",
+      "translationLong": "jota ei voi tunnistaa tai identifioida",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Onnettomuuden jälkeen auto oli tunnistamaton."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Osoittaa, että jokin tehtiin väärin tai huonosti. Mistaakse (väärinymmärtää), mistake (virhe), misrepresent (esittää väärin)."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Pääte, joka muodostaa nimen tai toimintaa kuvaavan sanan. Tässä se muuttaa verbin \"misunderstand\" (väärinymmärtää) nimeksi, joka viittaa väärinymmärrykseen tai sen seuraukseen."
+        }
+      ],
+      "translationShort": "väärinymmärrys, sekaannus",
+      "translationLong": "epäonnistuminen ymmärtää jokin oikein; sekaannus tai erimielisyys",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "Kokouksesta oli väärinymmärrys ajan suhteen."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Osoittaa, että jokin tehtiin väärin tai huonosti. Mistaakse (väärinymmärtää), mistake (virhe), misrepresent (esittää väärin)."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "vääristely, harhaanjohtava esitys",
+      "translationLong": "jotain väärää tai harhaanjohtavaa koskeva esitys; tosiasioiden vääristely",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "Artikkeli sisälsi tosiasioiden väärää esittämistä."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/liian paljon",
+          "homeLangDetails": "Viittaa liiallisuuteen tai rajan ylittämiseen. Overlook (jättää huomioon ottamatta), overwhelm (yllistää), overestimate (yliarvioida). Se voi myös tarkoittaa \"päälle\" tai \"yli\" vanhemmissa yhdisteissä."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "Verbi \"whelm\" tarkoittaa nielaista tai upottaa vedenpinnan alle. Sitä käytetään harvoin ilman \"over-\"-etuliitettä. Kun siihen lisätään \"over-\", syntyy kuva siitä, että jää täysin uponnutuksi tai peittoutuneeksi - tunneellisesti tai fyysisesti."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Pääte, joka muodostaa gerundeja ja present participles. Tässä se luo adjektiivin, joka kuvaa jotakin, mikä yllistää tai häikäisee."
+        }
+      ],
+      "translationShort": "ylivoimainen, häikäisevä",
+      "translationLong": "äärimmäisen vaikuttava, voimakas tai tunneellisesti intensiivinen; ylivoimainen",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "Hän saamansa tuki oli ylivoimainen."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/liian vähän",
+          "homeLangDetails": "Vastapaino \"over-\"-etuliitteelle. Se voi tarkoittaa alle tai alla (underground = maanalainen) tai riittämätöntä määrää (underestimate = aliarvioida, underperform = alisuoriutua)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "aliarvioida",
+      "translationLong": "pitää arvoltaan tai kyvyiltään pienemmällä kuin se ansaitsee",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Älä aliarvio hänen kykyä ratkaista monimutkaisia ongelmia."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/liian paljon",
+          "homeLangDetails": "Viittaa liiallisuuteen tai rajan ylittämiseen. Overlook (jättää huomioon ottamatta), overwhelm (yllistää), overestimate (yliarvioida). Se voi myös tarkoittaa \"päälle\" tai \"yli\" vanhemmissa yhdisteissä."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "yliarvioiminen",
+      "translationLong": "jonkin arvioiminen suuremmaksi tai tärkeämmäksi kuin se todellisuudessa on",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "Projektin budjetin yliarvioiminen johti taloudellisiin ongelmiin."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/moni",
+          "homeLangDetails": "Monia tai useita. Multicultural (monikulttuuri), multimedia (multimediainen), multiply (kertoa)."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "monikulttuuri",
+      "translationLong": "liittyy useisiin eri kulttuureihin tai muodostuu niistä",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Kaupunkimme tunnetaan sen monikulttuuri väestöstään."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/poikki",
+          "homeLangDetails": "Poikki, läpi, tai siirtyminen tilasta toiseen. Transport (kuljetus), transform (muuttaa), translate (kääntää)."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "mannertenväliset, mannerteita ylittävä",
+      "translationLong": "mannerteeseen tai mannerteihin ulottuva tai ne ylittävä",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "Mannerteita ylittävä rautatie yhdisti Itä- ja Länsirannikoita."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/välillä",
+          "homeLangDetails": "Välillä tai keskenään. International (kansainvälinen), interrupt (keskeyttää), interact (olla vuorovaikutuksessa)."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "vaihdettavissa keskenään",
+      "translationLong": "voitavissa vaihtaa keskenään ilman, että se vaikuttaa jonkin toimintaan",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "Nämä kaksi osaa voidaan vaihtaa keskenään ilman, että se vaikuttaa laitteen toimintaan."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ei/erillään",
+          "homeLangDetails": "Tarkoittaa kieltoa tai erilleen ottamista. Disagree, disconnect, disappear. Dis- on vahvempi kuin englannin un-, sillä se ilmaisee selvempää erottamista tai kääntämistä."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "järjestää"
+        }
+      ],
+      "translationShort": "sotkea",
+      "translationLong": "saattaa sekaisin, häiritä jonkin järjestystä",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "Äkillinen muutos saattaa huolellisesti suunnitellun aikataulumme sekaisin."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "moderni"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "modernisaatio",
+      "translationLong": "prosessi, jossa jokin saadaan modernaksi tai ajanmukaiseksi",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "Tehtaan modernisaatio paransi sen tehokkuutta."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "teollinen"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "teollistaminen",
+      "translationLong": "prosessi, jossa alueelle tai yhteiskuntaan kehitetään teollisuutta",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "Maan teollistaminen muutti sen taloutta."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "kannustaa"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Muodostaa substantiiveja verbeistä ja viittaa toimintaan, sen tulokseen tai keinoon. Government, movement, enjoyment. Suomessa vastaava on usein -minen tai -ntö päätteestä riippuen."
+        }
+      ],
+      "translationShort": "kannustaminen",
+      "translationLong": "rohkaisemisen tai tuen antamisen toiminta",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Hänen kannustamisensa auttoi minua voittamaan pelkoni."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ei/erillään",
+          "homeLangDetails": "Tarkoittaa kieltoa tai erilleen ottamista. Disagree, disconnect, disappear. Dis- on vahvempi kuin englannin un-, sillä se ilmaisee selvempää erottamista tai kääntämistä."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "sopia"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Muodostaa substantiiveja verbeistä ja viittaa toimintaan, sen tulokseen tai keinoon. Government, movement, enjoyment. Suomessa vastaava on usein -minen tai -ntö päätteestä riippuen."
+        }
+      ],
+      "translationShort": "näkemysero",
+      "translationLong": "sopimisen puute, mielipiteiden ero",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Heidän näkemysero budjetista kesti viikkoja."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ei/erillään",
+          "homeLangDetails": "Tarkoittaa kieltoa tai erilleen ottamista. Disagree, disconnect, disappear. Dis- on vahvempi kuin englannin un-, sillä se ilmaisee selvempää erottamista tai kääntämistä."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "nimetä"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Muodostaa substantiiveja verbeistä ja viittaa toimintaan, sen tulokseen tai keinoon. Government, movement, enjoyment. Suomessa vastaava on usein -minen tai -ntö päätteestä riippuen."
+        }
+      ],
+      "translationShort": "pettymys",
+      "translationLong": "surullisen tunteen tila, kun jokin ei vastaa odotuksia",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "Konsertin peruuntuminen oli suuri pettymys."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "tunnustaa"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Muodostaa substantiiveja verbeistä ja viittaa toimintaan, sen tulokseen tai keinoon. Government, movement, enjoyment. Suomessa vastaava on usein -minen tai -ntö päätteestä riippuen."
+        }
+      ],
+      "translationShort": "tunnustaminen",
+      "translationLong": "jonkin tunnustaminen tai myöntäminen, tyypillisesti jonkun tekemää tai sanomaa",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "Hänen kontribuutionsa tunnustaminen oli jo kauan odottamatonta."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "rohkeus"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "rohkea",
+      "translationLong": "rohkea, rohkeutta osoittava",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Hänen rohkeat toimintansa pelastivat elämää kriisin aikana."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "skandaali",
+          "homeLangDetails": "Vanha ranskalaisperäinen sana, joka ei ole produktiivinen yhdistelmä out- + rage kuten saattaa ensin näyttää. Outrage tulee latinan sanasta ultra (yli), ei germaanisesta out-etuliitteestä. Joten outrageous tarkoittaa 'rajojen ylittävää' eikä kirjaimellisesti 'raivoa ylittävää'."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "järkyttävä",
+      "translationLong": "järkyttävän huono tai loukkaava, erittäin epätavallinen tai liiallinen",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "Järkyttävän korkea hinta niin pienelle esineelle sai minut nauramaan."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "etu"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "edullinen",
+      "translationLong": "hyötyä tai etua tuottava, suotuisa",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Ulkomailla opiskelu voi olla edullista urallesi."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "yli, ulkopuolella"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "tavallinen"
+        }
+      ],
+      "translationShort": "poikkeuksellinen, omituinen",
+      "translationLong": "poikkeuksellinen, omituinen, huomattava, epätavallinen",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Hänellä on poikkeuksellinen musikaalinen lahjakkuus."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "huomata, kiinnittää huomiota"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va, -vaa"
+        }
+      ],
+      "translationShort": "huomionarvoinen, merkittävä",
+      "translationLong": "huomionarvoinen, merkittävä, huomattava",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "Urheilija palautui vammoista huomioarvoisella tavalla."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "ennustaa"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va, -vaa"
+        }
+      ],
+      "translationShort": "ennustettava",
+      "translationLong": "ennustettava, ennakoitavissa oleva",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "Elokuvan loppu oli täysin ennustettava."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "säätää"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va, -vaa"
+        }
+      ],
+      "translationShort": "säädettävä",
+      "translationLong": "säädettävä, jonka voi muuttaa",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "Tuoli on säädettävän korkeuden omaava."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "laajentaa"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va, -vaa"
+        }
+      ],
+      "translationShort": "laajennettava",
+      "translationLong": "laajennettava, jota voi laajentaa",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Tämä säilytyslaatikko on laajennettava, kun tarvitset lisää tilaa."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "ei-, -ton",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite. Suomessa samaa tarkoitusta palvelevat ei- ja -ton-pääte. Esimerkiksi unhappy on \"iloton\", unknown on \"tuntematon\". Syntyperältään hyvin vanha ja käytössä jo germaanisilla kielillä, kuten saksan un-."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "tietoinen"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ys",
+          "homeLangDetails": "Muuttaa adjektiiveja substantiiveiksi, jotka ilmaisevat tilaa tai ominaisuutta. Esimerkiksi ilo + -ys = iloisuus, pimeys. Sama työn tekee suomen -ys-pääte."
+        }
+      ],
+      "translationShort": "tajuttomuus, tajunnan menetys",
+      "translationLong": "tajuttomuus, tajunnan menetys, tajuton tila",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "Isku päähän aiheutti tajuttomuuden useiksi minuuteiksi."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "ei-, -ton"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "vastuullinen"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-us"
+        }
+      ],
+      "translationShort": "vastuuttomuus, huolimattomuus",
+      "translationLong": "vastuuttomuus, vastuun puute, huolimattomuus",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "Hänen vastuuttomuutensa maksoi yritykselle tuhansia euroja."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ei-, -ton"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "ymmärrettävä"
+        }
+      ],
+      "translationShort": "käsittämätön, ymmärtämätön",
+      "translationLong": "käsittämätön, ymmärtämätön, mahdoton ymmärtää",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "Ohjeet oli kirjoitettu käsittämättömällä ammattisanastolla."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "osasto, lokero"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-inen",
+          "homeLangDetails": "Muodostaa adjektiiveja, jotka kuvaavat johonkin liittyvää tai jonkin luonteisia asioita. Musiikillinen, luonnollinen, teollinen. Suomessa vastaava pääte on -inen."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ida",
+          "homeLangDetails": "Muodostaa verbejä, jotka ilmaisevat toiminnan tekemistä tai ominaisuuden antamista. Modernisida, organisida, ymmärtää. Suomessa -ida-pääte tekee samaa työtä."
+        }
+      ],
+      "translationShort": "jakaa osiin, kompartmentalisoida",
+      "translationLong": "jakaa erillisiin osiin tai kategorioihin, kompartmentalisoida",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Jotkut ihmiset jakavat työnsä ja yksityiselämänsä tarkasti erillään."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ei-, -ton"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "yhteensopiva"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-us"
+        }
+      ],
+      "translationShort": "yhteensopimattomuus",
+      "translationLong": "yhteensopimattomuus, yhteensopimaton tila",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "Kahden järjestelmän yhteensopimattomuus vaikeutti integraatiota."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "huolimielisyys"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä jotakin tai siihen liittyvä. Kaunis, huolellinen, voimakas. Englannin -ful vastaa suomalaista -inen päätettä monissa yhteyksissä."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "huolellisesti",
+      "translationLong": "huolella; varovaisesti tai harkitusti",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Hän asetti maljakon hyllylle huolellisesti."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "huolimielisyys"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "huolimattomasti",
+      "translationLong": "ilman huolenpitoa; välinpitämättömästi tai huomattomuudella",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Hän pudotti kupin huolimattomasti."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "huolimielisyys"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit nomineiksi, jotka merkitsevät tilaa tai ominaisuutta. Onnellisuus, pimeys, tietoisuus. Tämä on germaaninen pääte, joka vastaa latinalaista -ity päätettä."
+        }
+      ],
+      "translationShort": "huolimattomaisuus",
+      "translationLong": "huolimattoman olemisen tila tai ominaisuus; välinpitämättömyys",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Hänen huolimattomaisuutensa aiheutti astian särkemisen."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "apu"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä jotakin tai siihen liittyvä. Kaunis, huolellinen, voimakas. Englannin -ful vastaa suomalaista -inen päätettä monissa yhteyksissä."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "avuliaasti",
+      "translationLong": "tavalla joka antaa apua tai tukea",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Hän selitti ohjeet avuliaasti."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "apu"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "avuttomasti",
+      "translationLong": "ilman kykyä auttaa itseään; voimattomasti",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Hän katsoi avuttomasti kun onnettomuus tapahtui."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "apu"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit nomineiksi, jotka merkitsevät tilaa tai ominaisuutta. Onnellisuus, pimeys, tietoisuus. Tämä on germaaninen pääte, joka vastaa latinalaista -ity päätettä."
+        }
+      ],
+      "translationShort": "avuttomuus",
+      "translationLong": "avuttoman olemisen tila tai kunti; kyvyttömyys auttaa itseään",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "Avuttomuus hänen äänessään oli sydäntä särkevä."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "toivo"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä jotakin tai siihen liittyvä. Kaunis, huolellinen, voimakas. Englannin -ful vastaa suomalaista -inen päätettä monissa yhteyksissä."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "toivottavasti; toiveikaasti",
+      "translationLong": "toiveella tai optimismilla; ilmaisten halun että jotain tapahtuu",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Toivottavasti sää paranenee huomenna."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "toivo"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit nomineiksi, jotka merkitsevät tilaa tai ominaisuutta. Onnellisuus, pimeys, tietoisuus. Tämä on germaaninen pääte, joka vastaa latinalaista -ity päätettä."
+        }
+      ],
+      "translationShort": "toivottomuus",
+      "translationLong": "toivottomuuden tila tai tunne; epätoivo",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "Epätoivo asettui joukkueeseen."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "toivo"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman jotakin. Huolimaton, toivoton, äänettömästi. Aivan kuten suomalainen -ton päätteen käyttö."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "toivottomasti",
+      "translationLong": "tavalla joka osoittaa toivottomuutta; epätoivoisesti",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "Tilanne näytti epätoivoisesti ankeilta."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "kiitos"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä jotakin tai siihen liittyvä. Kaunis, huolellinen, voimakas. Englannin -ful vastaa suomalaista -inen päätettä monissa yhteyksissä."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkitys \"[tavalla]\" tai \"[tavan mukaisesti]\". Nopeasti, iloisesti, yllättävästi. Aivan kuten suomalainen -sti päätteen käyttö."
+        }
+      ],
+      "translationShort": "onneksi; kiitollisesti",
+      "translationLong": "onneksi; kiitollisuuden tai helpotuksen tunteen kanssa",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Onneksi kukaan ei loukkaantunut onnettomuudessa."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "kiitos"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä tai siihen liittyvä. Kaunis, varovainen, voimakas. Englannin -ful toimii samalla tavalla kuin suomalainen -inen liitteessä 'kaunis', 'varovainen', 'voimakas'."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us/-ous",
+          "homeLangDetails": "Muuttaa adjektiivit substantiiveiksi, jotka kuvaavat tilaa tai ominaisuutta. Onnellisuus, pimeyden, tietoisuus. Englannin -ness on germaaninen vastine latinan -ity:lle, aivan kuten suomalaisessa on omat merkinnän tapansa."
+        }
+      ],
+      "translationShort": "kiitollisuuden tila",
+      "translationLong": "kiitolliseksi olemisen laatu tai tila",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "Hänen kiitollisuutensa näkyi hänen lämpimässä halailussaan."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "ajatus"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä tai siihen liittyvä. Kaunis, varovainen, voimakas."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi. Suomessa käytetään -sti päätettä, kun englannissa käytetään -ly."
+        }
+      ],
+      "translationShort": "pohtivasti",
+      "translationLong": "huolellisesti harkiten; pohditulla tai ajattelevalla tavalla",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "Hän pohti kysymystä huolellisesti ennen vastaamista."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "ajatus"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman. Huoleton, toivoton, puhumaton. Englannin -less toimii samoin kuin suomalainen -ton liitteessä."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit substantiiveiksi, jotka kuvaavat tilaa tai ominaisuutta. Onnellisuus, pimeyden, tietoisuus."
+        }
+      ],
+      "translationShort": "harkinnantommuus",
+      "translationLong": "ajattelemattomuuden tai harkinnantommuuden tila tai ominaisuus",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "Hänen harkinnantommuutensa loukkasi hänen tunteitaan."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "pelko"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman. Huoleton, toivoton, puhumaton."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi."
+        }
+      ],
+      "translationShort": "pelottomasti",
+      "translationLong": "ilman pelkoa; rohkeasti tai urheasti",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "Sotilas marssii pelottomasti taisteluun."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "pelko"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman. Huoleton, toivoton, puhumaton."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit substantiiveiksi, jotka kuvaavat tilaa tai ominaisuutta. Onnellisuus, pimeyden, tietoisuus."
+        }
+      ],
+      "translationShort": "pelottomuus",
+      "translationLong": "rohkean olemisen laatu tai pelottomuuden tila",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Hänen pelottomuutensa innosti kaikkia hänen ympärillään."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "rauha"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä tai siihen liittyvä. Kaunis, varovainen, voimakas."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi."
+        }
+      ],
+      "translationShort": "rauhallisesti",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "Mielenosoittajat marssivat rauhallisesti kaupungin läpi."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "kauneus"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Tässä -ful liittyy substantiiviin kauneus, mutta kauneus sisältää jo -ys liitteen. Beautifullyssa käytetään adjektivia beautiful (kauneus + -ful = täynnä kauneutta), jonka jälkeen lisätään -ly muodostaakseen adverbia."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi."
+        }
+      ],
+      "translationShort": "kauniisti",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "Hän lauloi kauniisti konsertin aikana."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "menestys"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä tai siihen liittyvä. Kaunis, varovainen, voimakas."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi."
+        }
+      ],
+      "translationShort": "menestyksekkäästi",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "Projekti saatiin menestyksekkäästi valmiiksi ajoissa."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "voima"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-inen",
+          "homeLangDetails": "Täynnä tai siihen liittyvä. Kaunis, varovainen, voimakas."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, merkiten 'tavalla'. Nopeasti, onnellisesti, yllättävästi."
+        }
+      ],
+      "translationShort": "voimakkaasti",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "Puhuja esitti voimakkaasti vakuuttavan argumentin."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "voima"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-ton",
+          "homeLangDetails": "Ilman. Huoleton, toivoton, puhumaton."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-us",
+          "homeLangDetails": "Muuttaa adjektiivit substantiiveiksi, jotka kuvaavat tilaa tai ominaisuutta. Onnellisuus, pimeyden, tietoisuus."
+        }
+      ],
+      "translationShort": "voimattomuus",
+      "translationLong": "voimattomaksi olemisen tila tai vaikutusvallattomaksi jäämisen laatu",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "Hän tunsi syvää voimattomuutta epäoikeudenmukaisuuden edessä."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "onnellinen"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, tarkoittaen \"tavalla, jonka mukaan\". Quickly (nopeasti), happily (iloiten), surprisingly (yllättävästi). Voit ajatella sen vastaavaksi suomalaiselle \"-sti\"-päätteelle."
+        }
+      ],
+      "translationShort": "valitettavasti, ikävä kyllä",
+      "translationLong": "valitettavasti, ikävä kyllä, pahoitellen",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Valitettavasti konsertti peruttiin."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "odottaa"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(mennyt osio)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista, tarkoittaen \"tavalla, jonka mukaan\". Quickly (nopeasti), happily (iloiten), surprisingly (yllättävästi). Voit ajatella sen vastaavaksi suomalaiselle \"-sti\"-päätteelle."
+        }
+      ],
+      "translationShort": "yllättävästi, odottamatta",
+      "translationLong": "yllättävästi, odottamatta, ennakoitavissa olematta",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "Hän saapui yllättävästi juhlille."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "terveys"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(adjektiivipääte)"
+        }
+      ],
+      "translationShort": "terveydelle haitallinen, epäterveellinen",
+      "translationLong": "terveydelle haitallinen, epäterveellinen, terveydelle vaarallinen",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "Epäterveellinen ruokavalio voi johtaa sairauteen."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "järki"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-inen",
+          "homeLangDetails": "Tarkoittaa kykyä tai mahdollisuutta tehdä jotain. Readable (luettava), comfortable (mukava), possible (mahdollinen). Vastaavaksi suomalaiselle \"-va\" tai \"-nen\"-päätteelle."
+        }
+      ],
+      "translationShort": "järjetön, kohtuuton",
+      "translationLong": "järjetön, kohtuuton, liioiteltu",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "Hänen vaatimuksensa olivat kohtuuttomia."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "hyväksyä"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-inen",
+          "homeLangDetails": "Tarkoittaa kykyä tai mahdollisuutta tehdä jotain. Readable (luettava), comfortable (mukava), possible (mahdollinen). Vastaavaksi suomalaiselle \"-va\" tai \"-nen\"-päätteelle."
+        }
+      ],
+      "translationShort": "ei hyväksyttävä, kelpaamaton",
+      "translationLong": "ei hyväksyttävä, kelpaamaton, sietämätön",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "Tuo käytös on täysin sietämätön."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "välttää"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-inen",
+          "homeLangDetails": "Tarkoittaa kykyä tai mahdollisuutta tehdä jotain. Readable (luettava), comfortable (mukava), possible (mahdollinen). Vastaavaksi suomalaiselle \"-va\" tai \"-nen\"-päätteelle."
+        }
+      ],
+      "translationShort": "väistämätön, pakottava",
+      "translationLong": "väistämätön, pakottava, väistämättä tuleva",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "Kuolema ja verot ovat väistämättömiä."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "tärkeä"
+        }
+      ],
+      "translationShort": "merkityksetön, mitätön",
+      "translationLong": "merkityksetön, mitätön, vähäinen",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "Tämä yksityiskohta on merkityksetön."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/ei",
+          "homeLangDetails": "Englannin yleisin kieltävä etuliite, peräisin muinaisenglannista. Se toimii täsmälleen samalla tavalla kuin suomalainen \"ei-\" tai \"epä-\": unhappy (epäonnellinen), unknown (tuntematon), unforgettable (unohtumaton). Kääntää sanan merkityksen päälaelleen."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "haluttomuus"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundi)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-tila",
+          "homeLangDetails": "Muodostaa substantiiveja adjektiiveista, merkitsemässä tilaa tai ominaisuutta. Happiness (onnellisuus), darkness (pimeys), awareness (tietoisuus). Vastaavaksi suomalaiselle \"-tila\", \"-ous\" tai \"-uus\"-päätteille."
+        }
+      ],
+      "translationShort": "haluttomuus, vasthenotanto",
+      "translationLong": "haluttomuus, vasthenotanto, halua puuttuminen",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "Hänen haluttomuutensa auttaa oli pettymys."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/uudelleen",
+          "homeLangDetails": "Ilmaisee toistamista tai palaamista aikaisempaan tilaan. Latinasta peräisin oleva etuliite on tuhansia englannin sanoja: return (palata), rebuild (rakentaa uudelleen), reconsider (harkita uudelleen). Voit korvata sen usein \"tekeminen uudelleen\" tai \"palaaminen takaisin\"."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "harkita"
+        }
+      ],
+      "translationShort": "harkita uudelleen, miettiä uudestaan",
+      "translationLong": "harkita uudelleen, miettiä uudestaan, muuttaa mieltään",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "Minun on harkittava päätöstäni uudelleen."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/uudelleen",
+          "homeLangDetails": "Ilmaisee toistamista tai palaamista aikaisempaan tilaan. Latinasta peräisin oleva etuliite on tuhansia englannin sanoja: return (palata), rebuild (rakentaa uudelleen), reconsider (harkita uudelleen). Voit korvata sen usein \"tekeminen uudelleen\" tai \"palaaminen takaisin\"."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "harkita"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio",
+          "homeLangDetails": "Englannin yleisin substantiivin pääte, peräisin latinasta. Muodostaa verbeistä substantiiveja, jotka nimeävät toiminnon tai sen tuloksen. Construction (rakentaminen), permission (lupa), explosion (räjähdys). Vastaavaksi suomalaiselle \"-tus\" tai \"-tio\"-päätteille."
+        }
+      ],
+      "translationShort": "uudelleenharkinta, uusi pohdintas",
+      "translationLong": "uudelleenharkinta, uusi pohdintas, uudelleen miettiminen",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "Hallitus pyysi ehdotuksen uudelleenharkintaa."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-/taas",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinan re- esiintyy tuhansia englannin sanoja: return, rebuild, reconsider. Usein voit ajatella sitä \"tehdä uudelleen\" tai \"palata takaisin\" -merkityksessä."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organisoida"
+        }
+      ],
+      "translationShort": "organisoida uudelleen",
+      "translationLong": "organisoida uudelleen, järjestää uudelleen, muuttaa rakennetta",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "Yritys päätti järjestää osastonsa uudelleen."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-/taas",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinan re- esiintyy tuhansia englannin sanoja: return, rebuild, reconsider. Usein voit ajatella sitä \"tehdä uudelleen\" tai \"palata takaisin\" -merkityksessä."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organisoida"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "uudelleenjärjestely, uudelleenorganisaatio",
+      "translationLong": "uudelleenjärjestely, uudelleenorganisaatio, prosessi jossa organisoidaan uudelleen",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "Uudelleenjärjestely kesti kolme kuukautta."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-/taas",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinan re- esiintyy tuhansia englannin sanoja: return, rebuild, reconsider. Usein voit ajatella sitä \"tehdä uudelleen\" tai \"palata takaisin\" -merkityksessä."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "esitellä"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tio",
+          "homeLangDetails": "Yleisin englannin substantiivisuffiksi, peräisin latinasta. Muuttaa verbejä substantiiveiksi, jotka nimeävät toimintaa tai sen tulosta. Construction, permission, explosion. Vastaa suomalaista -io-päätettä kuten \"uudelleenjärjestely\" tai \"organisaatio\"."
+        }
+      ],
+      "translationShort": "takaisintuonti, uudelleenesiintuonti",
+      "translationLong": "takaisintuonti, uudelleenesiintuonti, toiminta jossa jotakin esitellään uudelleen",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "Susien takaisintuonti auttoi ekosysteemin ennallistamista."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-/taas",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinan re- esiintyy tuhansia englannin sanoja: return, rebuild, reconsider. Usein voit ajatella sitä \"tehdä uudelleen\" tai \"palata takaisin\" -merkityksessä."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "yhdistää"
+        }
+      ],
+      "translationShort": "yhdistää uudelleen",
+      "translationLong": "yhdistää uudelleen, ottaa yhteyttä uudelleen, palauttaa yhteys",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Vuosien jälkeen ottimme yhteyttä uudelleen kokouksessa."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-/taas",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinan re- esiintyy tuhansia englannin sanoja: return, rebuild, reconsider. Usein voit ajatella sitä \"tehdä uudelleen\" tai \"palata takaisin\" -merkityksessä."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "kierto"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundi)"
+        }
+      ],
+      "translationShort": "materiaalien kierrätys, uudelleenkäyttö",
+      "translationLong": "materiaalien kierrätys, uudelleenkäyttö, prosessi jossa jäte muutetaan uusiksi tuotteiksi",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Kierrätys auttaa vähentämään ympäristöjätettä."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "yhdessä-/kanssa",
+          "homeLangDetails": "Kanssa tai yhdessä. Yksi tuottavimmista latinan etuliitteistä. Connect, combine, cooperate, collect. Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "yhteinen"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "tiedonvaihtaminen",
+      "translationLong": "tiedon tai uutisten välittäminen tai vaihto",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "Hyvä kommunikaatio on olennaista kaikissa suhteissa."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ulos-/pois",
+          "homeLangDetails": "Ulos, entinen tai poissa. Exhale, export, eject, ex-president. Latinan ex- merkitsee usein liikettä tai erottamista."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "johtaa"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "opetusprosessi",
+      "translationLong": "opettamisen tai oppimisen prosessi, erityisesti kouluissa",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Koulutus avaa ovia moniin mahdollisuuksiin."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "sisään-/kohti",
+          "homeLangDetails": "Sisään, kohti tai ei. Tämä etuliite on kaksipuolinen: \"ei\" (inactive, impossible, illegal) ja \"sisään\" (insert, import). Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "jälki"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "huolellinen tutkiminen",
+      "translationLong": "yksityiskohtainen tutkiminen tai tiedustelu jostakin",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "Poliisi suoritti tutkimuksen varkauden johdosta."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "sisällä-/sisään"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "johtaa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tio",
+          "homeLangDetails": "Yleisin englannin substantiivisuffiksi, peräisin latinasta. Muuttaa verbejä substantiiveiksi, jotka nimeävät toimintaa tai sen tulosta. Construction, permission, explosion. Vastaa suomalaista -io-päätettä kuten \"uudelleenjärjestely\" tai \"organisaatio\"."
+        }
+      ],
+      "translationShort": "muodollinen esittely",
+      "translationLong": "muodollinen esittely henkilöstä toiselle; kirjan tai puheenvuoron alkuosa",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "Romaanin alkusanat asettavat pääkonfliktia."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "eteenpäin-/puolesta",
+          "homeLangDetails": "Eteenpäin, puolesta tai sijasta. Progress, produce, pronoun. Latinan pro- merkitsee usein liikettä tai suuntaa eteenpäin."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "johtaa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tio",
+          "homeLangDetails": "Yleisin englannin substantiivisuffiksi, peräisin latinasta. Muuttaa verbejä substantiiveiksi, jotka nimeävät toimintaa tai sen tulosta. Construction, permission, explosion. Vastaa suomalaista -io-päätettä kuten \"uudelleenjärjestely\" tai \"organisaatio\"."
+        }
+      ],
+      "translationShort": "tuotanto",
+      "translationLong": "tavaroiden valmistaminen, tuottaminen tai luominen",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "Tehdas lisäsi tuotantoa kysynnän pystyessä."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/eteenpäin",
+          "homeLangDetails": "Eteenpäin, puolesta tai sijasta. Näet sen sanoissa kuten progress (edistys), produce (tuottaa) ja pronoun (pronomini)."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-äänne"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "tapa, jolla sana lausutaan",
+      "translationLong": "tapa, jolla sana tai kieli lausutaan tai puhutaan",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Hänen ranskan kielensä ääntäminen parani merkittävästi."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ulos",
+          "homeLangDetails": "Ulos, entinen tai poispäin. Sanoissa kuten exhale (hengittää ulos), export (viedä ulos) ja eject (poistaa). Entinen presidentti = ex-president."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "-tasainen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "lausunto, joka selventää asiaa",
+      "translationLong": "lausunto tai selvitys, joka tekee jostakin ymmärrettävämpää",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "Opettaja antoi selkeän selityksen matemaattisesta käsitteestä."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ulos",
+          "homeLangDetails": "Ulos, entinen tai poispäin. Sanoissa kuten exhale (hengittää ulos), export (viedä ulos) ja eject (poistaa). Entinen presidentti = ex-president."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "-punnita"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "yksityiskohtainen tutkiminen",
+      "translationLong": "yksityiskohtainen tutkiminen tai tarkastus; lääketieteellinen tai akateeminen koe",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "Tutkimuksessa ei löytynyt merkkejä taudista."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/sisään",
+          "homeLangDetails": "Tällä etuliitteellä on kaksi eri merkitystä: \"ei\" (inactive = passiivinen, impossible = mahdoton) ja \"sisään\" (insert = lisätä, import = tuoda sisään). Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "-kuva"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "kyky luoda mielikuvia",
+      "translationLong": "kyky tai toiminta, jolla muodostetaan henkisiä kuvia tai käsityksiä siitä, mitä ei ole läsnä",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "Lasten mielikuvitus ei tunne rajoja."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "-kansa"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "kaikki alueen asukkaat",
+      "translationLong": "paikan kaikki asukkaat; saman lajin olevien organismien ryhmä",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "Kaupungin väkiluku on kasvanut huomattavasti."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/yhdessä",
+          "homeLangDetails": "Yhdessä tai kanssa. Yksi tuotteliaimpia latinalaisia etuliitteitä. Connect (yhdistää), combine (yhdistää), cooperate (yhteistyö), collect (kerätä). Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "-kääntää"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "epämuodollinen keskustelu",
+      "translationLong": "epämuodollinen ajatusten vaihto tai jutustelu ihmisten välillä",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "Meillä oli mielenkiintoinen keskustelu matkustamisesta."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "col-/yhdessä",
+          "homeLangDetails": "Yhdessä tai kanssa. Yksi tuotteliaimpia latinalaisia etuliitteitä. Connect (yhdistää), combine (yhdistää), cooperate (yhteistyö), collect (kerätä). Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "-kerätä"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "kokoelma kerättyjä esineitä",
+      "translationLong": "yhteen kerättyjen asioiden tai ihmisten ryhmä; keräämisen toiminta",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Hänellä on vaikuttava kokoelma vintage-kirjoja."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/takaisin",
+          "homeLangDetails": "Reflection-sanassa re- merkitsee \"takaisin\" (latinankielisestä sanasta reflectere, \"taivuttaa takaisin\"), ei \"uudelleen\". Sana kuvaa valon heijastumista tai ajattelun kääntämistä itseensä."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "-taivuttaa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "valon heijastuminen",
+      "translationLong": "valon tai lämmön heijastuminen; vakava ajattelu tai pohdinta",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Näin heijastumani peilissä."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/yhdessä",
+          "homeLangDetails": "Yhdessä tai kanssa. Yksi tuotteliaimpia latinalaisia etuliitteitä. Connect (yhdistää), combine (yhdistää), cooperate (yhteistyö), collect (kerätä). Kirjoitusasu muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "-sitoa"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "suhde tai yhteys",
+      "translationLong": "asioiden välinen suhde tai yhteys; yhdistämisen toiminta",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "Liikuntaa ja hyvää terveyttä yhdistää voimakas yhteys."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/eteenpäin",
+          "homeLangDetails": "Eteenpäin, puolesta tai sijasta. Näet sen sanoissa kuten progress (edistys), produce (tuottaa) ja pronoun (pronomini)."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "-peittää"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "suojaaminen vahingoilta",
+      "translationLong": "jonkun tai jonkin suojaaminen vahingoilta tai loukkaamiselta",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "Tarvitsemme parempaa suojaa kyberihyökkäyksiä vastaan."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "sisään-",
+          "homeLangDetails": "Tämä etuliite on kuin kameleontti: sillä on kaksi eri merkitystä. Se voi tarkoittaa \"ei\" (kuten inactive, impossible), mutta myös \"sisään\" (kuten insert, import). Kirjoitusasu muuttuu seuraavan äänteen mukaan."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "kutsua"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "kutsu",
+      "translationLong": "toiminta, jolla kutsutaan jotakuta; pyyntö tai kehotus osallistua johonkin",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "Sain kutsun häihin."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "ennen",
+          "homeLangDetails": "Ajassa tai paikassa ennen. Predict, prepare, prehistoric sanoista näet, miten sitä käytetään."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "valmistaa"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "valmistelu",
+      "translationLong": "prosessi, jossa valmistetaan jotain; etukäteen tapahtuva suunnittelu",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "Hyvä valmistelu on menestyksen edellytys."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "elin/väline"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-oi",
+          "homeLangDetails": "Antaa jollekin ominaisuuden tai aiheuttaa prosessin. Modernize, organize, realize näyttävät, miten tätä käytetään."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "organisaatio",
+      "translationLong": "ryhmä ihmisiä, joilla on yhteinen tarkoitus; järjestelmällisen järjestelyn toiminta",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "Organisaatio auttaa niitä, jotka tarvitsevat apua."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "yksinkertainen"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-oi",
+          "homeLangDetails": "Tekee jostakin jotakin tai aiheuttaa muutoksen. Simplify, clarify, intensify ovat hyviä esimerkkejä."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "yksinkertaistaminen",
+      "translationLong": "toiminta, jolla jotain tehdään yksinkertaisemmaksi tai vähemmän monimutkaiseksi",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "Sääntöjen yksinkertaistaminen teki pelistä helpommin pelattavan."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "riittävä"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "tehdä/toimia"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "tyytyväisyys",
+      "translationLong": "tila, jossa on tyytyväinen tai miellyttävä; täyttymys",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Asiakastyytyväisyys on meidän pääprioriteetti."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "laatu/soveltua"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-oi",
+          "homeLangDetails": "Tekee jostakin jotakin tai aiheuttaa muutoksen. Simplify, clarify, intensify ovat hyviä esimerkkejä."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "pätevyys",
+      "translationLong": "taito, kyky tai todistus, joka tekee jollakin sopivaksi johonkin; kelpoisuuden saavuttaminen",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "Hänellä on oikeat pätevyydet työhön."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "sama"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-oi",
+          "homeLangDetails": "Tekee jostakin jotakin tai aiheuttaa muutoksen. Simplify, clarify, intensify ovat hyviä esimerkkejä."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "tunnistaminen",
+      "translationLong": "toiminta, jolla tunnistetaan tai todistetaan kuka tai mikä jotain on; asiakirja, joka vahvistaa henkilöllisyyden",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "Sinun tulee näyttää valokuvatodistus päästäksesi sisään."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "Ulos, entinen tai poissa. Exhale, export, eject, ex-president osoittavat, miten tätä käytetään."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "voima/arvo"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tio"
+        }
+      ],
+      "translationShort": "arviointi",
+      "translationLong": "prosessi, jossa arvioidaan tai määritellään jonkin arvo tai laatu",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "Opettaja tekee arviointia oppilaiden edistymisestä."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "ali-",
+          "homeLangDetails": "Vastakohta over-sanalle. Voi tarkoittaa alle tai alapuolella (underground), mutta myös liian vähän (underestimate, underperform)."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "seistä"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va",
+          "homeLangDetails": "Kyvyt tehdä tai kokea jotakin. Readable, comfortable, possible näyttävät, miten tätä käytetään."
+        }
+      ],
+      "translationShort": "ymmärrettävä",
+      "translationLong": "sellainen, jota voidaan ymmärtää; käsitettävä",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "Ohjeet ovat selkeät ja ymmärrettävät."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "varaa"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-va",
+          "homeLangDetails": "Kyvyt tehdä tai kokea jotakin. Readable, comfortable, possible näyttävät, miten tätä käytetään."
+        }
+      ],
+      "translationShort": "kohtuuhintainen",
+      "translationLong": "sellainen, joka on varaa hankkia; kohtuullisesti hinnoiteltu",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "Löysimme kohtuuhintaisen asunnon kaupungista."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "riippua"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "luotettava",
+      "translationLong": "luotettava; johon voidaan luottaa",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "Hän on luotettava ystävä, joka aina auttaa."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "uskoa"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "uskomaton",
+      "translationLong": "hämmästyttävä; uskomaton; poikkeuksellinen",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "Se oli uskomaton esitys!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "nähdä"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "näkymätön",
+      "translationLong": "mitä ei voi nähdä; piilotettu näkyvistä",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "Täplä oli näkymätön paljaalle silmälle."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "mahdollinen"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "mahdoton",
+      "translationLong": "mitä ei voi tehdä tai mitä ei voi tapahtua; ei ole mahdollista",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Näytti siltä, että palapelin ratkaiseminen olisi mahdotonta."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "vastata"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "vastuuton",
+      "translationLong": "vastuuton; ei luotettava tai ei vastuussa",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "Olisi vastuutonta lähteä töistä aikaisin."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "kääntää takaisin"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "peruuttamaton",
+      "translationLong": "mitä ei voi peruuttaa tai kumota",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "Ilmastonmuutos voi aiheuttaa peruuttamattomia vahinkoja ympäristölle."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Muuttuva etuliite, jolla on kaksi eri merkitystä: \"ei\" (inaktiivinen, mahdoton, laiton) ja \"sisään\" (insert, tuoda sisään). Oikeinkirjoitus muuttuu seuraavan äänen mukaan."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "tuhota"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "Kuvaa, että jokin voidaan tehdä tai että sillä on kyseinen ominaisuus. Luettava, mukava, mahdollinen."
+        }
+      ],
+      "translationShort": "kukistumaton",
+      "translationLong": "mitä ei voi tuhota tai rikkoa",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Monumentti rakennettiin niin, että se olisi kukistumaton."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "välillä",
+          "homeLangDetails": "Kahden tai useamman asian välillä tai niiden keskuudessa. Kansainvälinen, katkaista, vuorovaikutus."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "kansakunta"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Liittyy johonkin tai kuuluu jonkin luontoon. Musiikillinen, luonnollinen, teollinen."
+        }
+      ],
+      "translationShort": "kansainvälinen",
+      "translationLong": "liittyy kahteen tai useampaan maahan tai koskettaa niitä",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Hän työskentelee kansainvälisessä organisaatiossa."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "yläpuolella",
+          "homeLangDetails": "Yläpuolella, yli tai poikkeuksellinen. Supersankari, parempi, yliluonnollinen."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "luonto"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Liittyy johonkin tai kuuluu jonkin luontoon. Musiikillinen, luonnollinen, teollinen."
+        }
+      ],
+      "translationShort": "yliluonnollinen",
+      "translationLong": "luonnon lakien ulkopuolella tai niiden yli",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "Elokuva sisältää yliluonnollisia olentoja ja kummituksia."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "ennen",
+          "homeLangDetails": "Ennen jotain ajallisesti tai paikalleen. Ennustaa, valmistaa, esihistoriallinen."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "historiallinen"
+        }
+      ],
+      "translationShort": "esihistoriallinen",
+      "translationLong": "liittyy aikaan ennen kirjallisten historiallisten lähteiden syntymistä",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinosaurukset vaelsivat maapallolla esihistoriallisella kaudella."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "vastaan",
+          "homeLangDetails": "Vastaan tai vastusti. Antisodan, antibiootti, ennakoida."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "elämä",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-inen"
+        }
+      ],
+      "translationShort": "bakteereja vastaan",
+      "translationLong": "lääke, joka tappaa bakteereja tai estää niiden lisääntymisen",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "Lääkäri määräsi antibioottia infektioon."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "alle",
+          "homeLangDetails": "Alle, alapuolella tai toissijainen. Metro, sukellusvene, korvike."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "meri"
+        }
+      ],
+      "translationShort": "sukellusalus",
+      "translationLong": "alus, joka liikkuu vedenpinnan alla, erityisesti sotilaallinen sota-alus",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "Sukellusvene laskeutui suuriin syvyyksiin valtameren alle."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "itse",
+          "homeLangDetails": "Itse. Elämäkerta, automaattinen, automobili."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "liikkuva"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-sti"
+        }
+      ],
+      "translationShort": "itsestään, ilman käsittelyä",
+      "translationLong": "tavalla, joka tapahtuu tai toimii itsestään ilman inhimillistä puuttumista",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "Ovi avautuu automaattisesti kun lähestyt sitä."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "kauas",
+          "homeLangDetails": "Etäällä. Puhelin, televisio, teleskooppi."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "näkeminen"
+        }
+      ],
+      "translationShort": "etäkatselu",
+      "translationLong": "järjestelmä liikkuvien kuvien ja äänen lähettämiseen ja vastaanottamiseen etäällä",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Hän katsoo televisiota joka ilta."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "kansa"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "hallinto"
+        }
+      ],
+      "translationShort": "kansan hallinta",
+      "translationLong": "hallintojärjestelmä, jossa valta on kansan käsissä",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Demokratia vaatii aktiivista osallistumista kaikilta kansalaisilta."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "maa",
+          "homeLangDetails": "Maa tai maanosa. Maantiede, geologia, geometria."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafia",
+          "homeLangDetails": "Kirjoittaminen tai tallentaminen. Valokuva, elämäkerta, allekirjoitus."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "maan kuvaus",
+      "translationLong": "paikkojen, ihmisten ja maapallon fyysisten ominaisuuksien tutkimus",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Maantiedon tunni opettaa eri alueista ja kulttuureista."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "vastuussa"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-uus"
+        }
+      ],
+      "translationShort": "velvollisuus tai velvoite",
+      "translationLong": "olemisen tila, jossa on vastuussa omista tekemisistään tai päätöksistään",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Suuren vallan mukana tulee suuri vastuu."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "henkilö"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-uus"
+        }
+      ],
+      "translationShort": "henkilökohtainen luonne",
+      "translationLong": "yksilön ainutlaatuiset ominaisuudet ja piirteet",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Hänen ulospäin suuntautunut persoonallisuutensa tekee hänestä suositun."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "suosittu"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-uus",
+          "homeLangDetails": "Latinan vastine -nen-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Tasa-arvo, sähköisyys, todellisuus."
+        }
+      ],
+      "translationShort": "pidetyksi olemisen tila",
+      "translationLong": "laatu tai tila, jossa henkilöä tai asiaa pidetään tai nautitaan monien ihmisten keskuudessa",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "Yhtyeen suosio on kasvanut maailmanlaajuisesti."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "sähköinen"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-uus",
+          "homeLangDetails": "Latinan vastine -nen-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Tasa-arvo, sähköisyys, todellisuus."
+        }
+      ],
+      "translationShort": "sähköinen energia",
+      "translationLong": "energiamuoto, joka syntyy elektronien liikkumisesta johtimen läpi",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "Useimmat modernit kodit riippuvat sähköstä energiakseen."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "luoda"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ius",
+          "homeLangDetails": "Latinalainen vastine suomalaiselle -ys-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Ajattele sanoja kuten identiteetti, aktiviteetti tai johtajuus. Englannissa tämä pääte tuottaa saman tuloksen kuin Suomen -ys tai -uus."
+        }
+      ],
+      "translationShort": "luovuus",
+      "translationLong": "luova kyky tai laatu; kyvykkyys luoda uusia asioita tai käyttää mielikuvitusta",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "Hänen luovuutensa ongelmanratkaisussa vaikutti kaikkiin."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "tuote"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ius",
+          "homeLangDetails": "Latinalainen vastine suomalaiselle -ys-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Ajattele sanoja kuten identiteetti, aktiviteetti tai johtajuus. Englannissa tämä pääte tuottaa saman tuloksen kuin Suomen -ys tai -uus."
+        }
+      ],
+      "translationShort": "tuottavuus",
+      "translationLong": "tuottavuus eli kyky tuottaa tuloksia; työn tehokkuus mitattuna tuotoksen määrällä",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "Tiimin tuottavuus nousi merkittävästi uuden ohjelmiston käyttöönottamisen jälkeen."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "taivuttaa"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-va",
+          "homeLangDetails": "Tarkoittaa kykyä tai mahdollisuutta tehdä jotakin. Englannin -able on melko sama kuin suomalainen -va tai -tava pääte, joka kuvaa potentiaalista toimintaa."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ius",
+          "homeLangDetails": "Latinalainen vastine suomalaiselle -ys-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Ajattele sanoja kuten identiteetti, aktiviteetti tai johtajuus. Englannissa tämä pääte tuottaa saman tuloksen kuin Suomen -ys tai -uus."
+        }
+      ],
+      "translationShort": "joustavuus",
+      "translationLong": "kyky mukauttaa tai taipua ilman murtumista; joustavuus ja sopeutumiskyky",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "Tämän materiaalin joustavuus tekee siitä ihanteellisen valmistukseen."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "kansa"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-inen",
+          "homeLangDetails": "Liittyy johonkin tai on luonteeltaan jotakin. Englannin -al toimii samalla tavalla muodostaen adjektiiveja, esimerkiksi kansallinen, luonnollinen, teollinen."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ius",
+          "homeLangDetails": "Latinalainen vastine suomalaiselle -ys-päätteelle. Muodostaa abstrakteja substantiiveja adjektiiveista. Ajattele sanoja kuten identiteetti, aktiviteetti tai johtajuus. Englannissa tämä pääte tuottaa saman tuloksen kuin Suomen -ys tai -uus."
+        }
+      ],
+      "translationShort": "kansalaisuus",
+      "translationLong": "asema jonka kansalainen on tietyn maan; kansallinen alkuperä tai identiteetti",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "Hänellä on kaksoiskahlaisuus, sillä hän on syntynyt yhdessä maassa ja saanut kansalaisuuden toisessa."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "vaikutus"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista merkitsemällä tavan, kuten 'nopeasti', 'iloisesti', 'yllättäen'. Englannin -ly vastaa suomalaista -sti-päätettä, joka muuttaa adjektiivin adverbiksi."
+        }
+      ],
+      "translationShort": "tehokkaasti",
+      "translationLong": "tavalla, joka tuottaa halutun tai tarkoitetun tuloksen; onnistuneesti",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "Uusi strategia toimi tehokkaasti kustannusten alentamisessa."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "luoda"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista merkitsemällä tavan, kuten 'nopeasti', 'iloisesti', 'yllättäen'. Englannin -ly vastaa suomalaista -sti-päätettä, joka muuttaa adjektiivin adverbiksi."
+        }
+      ],
+      "translationShort": "luovasti",
+      "translationLong": "tavalla, joka sisältää luomista tai mielikuvitusta; originaalisuuden ja keksintöharjoittelun kanssa",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "Hän lähestyi projektia luovasti ja löysi innovatiivisia ratkaisuja."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "tuote"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista merkitsemällä tavan, kuten 'nopeasti', 'iloisesti', 'yllättäen'. Englannin -ly vastaa suomalaista -sti-päätettä, joka muuttaa adjektiivin adverbiksi."
+        }
+      ],
+      "translationShort": "tuottavasti",
+      "translationLong": "tavalla, joka tuottaa tuloksia tai on tehokas; hyvän tuotoksen tai saavutuksen kanssa",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "Vietimme iltapäivän tuottavasti ja saimme kaikki tehtävämme valmiiksi."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "houkutella"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-va"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-sti",
+          "homeLangDetails": "Muodostaa adverbeja adjektiiveista merkitsemällä tavan, kuten 'nopeasti', 'iloisesti', 'yllättäen'. Englannin -ly vastaa suomalaista -sti-päätettä, joka muuttaa adjektiivin adverbiksi."
+        }
+      ],
+      "translationShort": "houkuttelevasti",
+      "translationLong": "tavalla, joka on miellyttävä, viehättävä tai visuaalisesti vetävä; kiinnostavalla tavalla",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "Kauppaikkunan oli koristeltu houkuttelevasti vuodenaikojen näyttelyllä."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "uudelleen-",
+          "homeLangDetails": "Merkitsee toistoa tai paluuta aikaisempaan tilaan. Latinalainen re- esiintyy tuhansissa englannin sanoissa: tutkia, rakentaa uudelleen, harkita uudelleen. Suomalainen 'uudelleen-' tai 'uudelleentutkia' toimivat samalla tavalla."
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "tutkia"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ja",
+          "homeLangDetails": "Muodostaa agentiivisia substantiiveja eli nimityksiä henkilöstä tai asiasta, joka suorittaa toimintaa. Opettaja, näyttelijä, kuljettaja, tietokone. Suomen -ja-pääte on hyvin samanlainen."
+        }
+      ],
+      "translationShort": "tutkija",
+      "translationLong": "henkilö, joka tekee tutkimusta; tiedemies tai tutkija, joka tutkii aihetta",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "Tutkija julkaisi tuloksensa vertaisarviostetlussa lehdessä."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "kehittää"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ja",
+          "homeLangDetails": "Muodostaa agentiivisia substantiiveja eli nimityksiä henkilöstä tai asiasta, joka suorittaa toimintaa. Opettaja, näyttelijä, kuljettaja, tietokone. Suomen -ja-pääte on hyvin samanlainen."
+        }
+      ],
+      "translationShort": "kehittäjä",
+      "translationLong": "henkilö, joka kehittää jotakin; yleensä viittaa ohjelmistokehittäjään",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "Kehittäjä loi uuden ominaisuuden sovellukselle."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "työllistää"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ja",
+          "homeLangDetails": "Muodostaa tekijän nimityksiä – henkilön tai asian, joka tekee jonkin. Opettaja, näyttelijä, kuljettaja, tietokone. Suomessa -ja-päätettä käytetään samalla tavalla: työllistää → työllistäjä."
+        }
+      ],
+      "translationShort": "se, joka työllistää",
+      "translationLong": "henkilö tai organisaatio, joka palkkaa työntekijöitä; yritysten omistaja tai johtaja",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "Työnantaja tarjosi kilpailukykyisiä etuja huippuosaajien houkuttelemiseksi."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "työllistää"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ttävä",
+          "homeLangDetails": "Pääte, joka osoittaa henkilöä, joka saa jotakin tai on jonkin kohde. Vertaa työllistäjä (se joka työllistää) ja työllistettävä (se joka työllistetään). Sama pääte näkyy sanoissa haastateltava, koulutettava ja maksettava."
+        }
+      ],
+      "translationShort": "se, joka työllistetään",
+      "translationLong": "henkilö, joka työskentelee työnantajalle vastineeksi palkkiosta",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Jokainen yrityksen työntekijä saa sairausvakuutuksen."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "foto",
+          "homeLangDetails": "Yhdistelmämuoto kreikan sanasta phōtos (valo). Näkyy monissa valoon ja kuviin liittyvissä sanoissa: valokuva, fotosynteesi, fotogenik. Sanasta foto (valo) + grafia (kirjoitus/tallennus) tulee kirjaimellisesti 'valon kirjoittaminen'."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafia",
+          "homeLangDetails": "Kirjoitus tai tallennus. Valokuva, elämäkerta, omakuva."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-ja",
+          "homeLangDetails": "Muodostaa tekijän nimityksiä – henkilön tai asian, joka tekee jonkin."
+        }
+      ],
+      "translationShort": "se, joka ottaa valokuvia",
+      "translationLong": "henkilö, joka ottaa valokuvia ammatikseen tai harrastuksekseen",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "Valokuvaaja kuvasi upeita kuvia häissä."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "tutkia"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-ja/-tor",
+          "homeLangDetails": "-ja-pääte vaihtoehtoisesti -tor-muotoon muodollisemmissa tai latinankielisissä yhteyksissä. Molemmat tarkoittavat 'se joka tekee', mutta -tor näkyy usein latinalaisesta kantasta peräisin olevissa sanoissa kuten tutkija, senaattori, näyttelijä ja ohjaaja."
+        }
+      ],
+      "translationShort": "se, joka tutkii",
+      "translationLong": "henkilö, joka suorittaa tutkimuksia; usein ammattilainen, joka kerää näyttöä tai tietoja",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "Tutkija tutki rikospaikalla löytyneitä jälkiä."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "viestiä"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-ja",
+          "homeLangDetails": "Muodostaa tekijän nimityksiä – henkilön tai asian, joka tekee jonkin."
+        }
+      ],
+      "translationShort": "se, joka viestii",
+      "translationLong": "henkilö, joka viestii tehokkaasti tai ammattimaisesti; joku, joka osaa välittää tietoa",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "Taitavana viestijänä hän menestyy julkisissa puheenvuoroissa."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "yhteis-/yhdessä",
+          "homeLangDetails": "Kanssa tai yhdessä. Yksi produktiivisimmista latinalaisista etuliitteistä. Yhdistää, yhdistää, yhteistyö, kerää. Kirjoitusasu vaihtelee seuraavan äänteen mukaan."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "yhteis"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ia",
+          "homeLangDetails": "Verbin muodostava pääte (latinan -atus:sta). Se muuttaa substantiivin tai adjektiivin 'yhteisviesti-kohdan' verbiksi, joka tarkoittaa kyseisen toiminnon tai tilan tekemistä."
+        }
+      ],
+      "translationShort": "jakaa tietoa",
+      "translationLong": "jakaa tietoa, välittää merkitystä, vaihtaa ajatuksia",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "Meidän on viestittävä ideamme selkeästi tiimille."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/ei tai sisään",
+          "homeLangDetails": "Silmänväristävä etuliite, jolla on kaksi erillistä merkitystä: 'ei' (epäaktiivinen, mahdoton, laiton) ja 'sisään' (lisää, tuonti). Kirjoitusasu muuttuu seuraavan äänteen mukaan."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "jälki",
+          "homeLangDetails": "Latinan sanasta vestigium (jalanjälki, jälki). Sama juuri näkyy sanoissa jäljelle jäänyt jälki ja tutkija (se joka seuraa jälkiä)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ia",
+          "homeLangDetails": "Verbin muodostava pääte, joka muuttaa juurta toiminnoksi: seurata tai tutkia jälkiä ja vihjeitä."
+        }
+      ],
+      "translationShort": "tutkia huolellisesti",
+      "translationLong": "tutkia huolellisesti, selvittää, suorittaa tutkinta",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "Poliisi tutkii rikospaikkaa huomenna."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "yhteis-/yhdessä",
+          "homeLangDetails": "Kanssa tai yhdessä. Yksi produktiivisimmista latinalaisista etuliitteistä. Yhdistää, yhdistää, yhteistyö, kerää. Kirjoitusasu vaihtelee seuraavan äänteen mukaan."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "työ"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ia",
+          "homeLangDetails": "Verbin muodostava pääte, joka muuttaa 'työn' toiminnoksi: työskennellä yhdessä."
+        }
+      ],
+      "translationShort": "työskennellä yhdessä",
+      "translationLong": "työskennellä yhdessä, tehdä yhteistyötä",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "Teemme yhteistyötä tässä projektissa muiden osastojen kollegojen kanssa."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "osa",
+          "homeLangDetails": "Latinan sanasta pars (osa). Yhdessä seuraavan muotoloogisen elementin -icip- kanssa se luo merkityksen 'ottaa osaa' tai 'olla osallisena."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "otta",
+          "homeLangDetails": "Latinan sanasta capere (ottaa). Participium (latinan termi 'osallistuja') yhdistää 'osa' + 'otta' tarkoittaakseen olemista osallisena jostakin."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ia",
+          "homeLangDetails": "Verbin muodostava pääte."
+        }
+      ],
+      "translationShort": "ottaa osaa",
+      "translationLong": "ottaa osaa, osallistua, liittyä mukaan",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Kaikkien opiskelijoiden on osallistuttava luokkakeskusteluun."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "yhteis-/yhdessä",
+          "homeLangDetails": "Kanssa tai yhdessä. Yksi produktiivisimmista latinalaisista etuliitteistä. Yhdistää, yhdistää, yhteistyö, kerää. Kirjoitusasu vaihtelee seuraavan äänteen mukaan."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "kiitos",
+          "homeLangDetails": "Latinan sanasta gratus (miellyttävä, kiitollinen). Juuri näkyy myös sanoissa kiitos, kiitollinen ja kiitollisuus, jotka kaikki liittyvät miellyttävyyteen ja hyvään tahtoon."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-alla",
+          "homeLangDetails": "Pienentävä tai iteratiivinen verbin muodostava pääte (latinan -ulatus:sta). Se pehmentää tai toistaa toimintaa, luoden tässä iloisuuden tai hyvän tahdon ilmaisemisen merkityksen jollekulle lämmin, toistuvalla tavalla."
+        }
+      ],
+      "translationShort": "kiittää saavutuksesta",
+      "translationLong": "kiittää saavutuksesta, ilmaista iloa tai hyvää tahtoa",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Haluan onnitella sinua loistavasta suorituksestasi!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/väärin",
+          "homeLangDetails": "Ilmaisee, että jotain tehtiin väärin tai huonosti. Samaan tapaan kuin suomalainen \"vää-\" tai \"hämä-\" etuliite. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/välillä",
+          "homeLangDetails": "Välillä tai joukossa. Aika lähellä suomalaista \"väli-\" etuliitettä. International, interrupt, interact."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "tulkita",
+          "homeLangDetails": "Latinan sanoista praetere tai prae (ennen) + ire (mennä). Etuliite inter- yhdessä pret-kanssa luo merkityksen selittää, mitä on välillä (eli selventää merkitystä). Sitten mis- etuliite kääntää tämän: selittää väärin."
+        }
+      ],
+      "translationShort": "ymmärtää väärin",
+      "translationLong": "ymmärtää väärin, tulkita tai käsittää väärin",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Älä tulkitse sanojani väärin; tarkoitin niillä hyvin."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/alas/kumota",
+          "homeLangDetails": "Alaspäin, pois päältä tai toiminnan kumoaminen. Suomalainen \"de-\" tai \"dis-\" etuliite toimii samalla tavalla. Decrease, depart, deconstruct. Usein kääntää perusmuodon merkityksen."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/yhdessä",
+          "homeLangDetails": "Kanssa tai yhdessä. Yksi tuottavimmista latinan etuliitteista. Suomalaisissa sanoissa näkyy esimerkiksi \"ko-\" tai \"yh-\" etuliitteissä. Connect, combine, cooperate, collect. Kirjoitusasu muuttuu seuraavan ääneen mukaan."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "rakentaa"
+        }
+      ],
+      "translationShort": "purkaa analyyttisesti",
+      "translationLong": "purkaa, jakaa osiin, analysoida jakamalla komponenteiksi",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "Tällä seminaarilla analysoimme pääargumentteja tekstissä purkamalla niitä osiin."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows Swahili and is learning English. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the English word exactly as given (lowercase, unless a proper noun).
+2. **article**: Use "the" for countable nouns. Use "" for verbs, adjectives, and uncountable nouns.
+3. **displayPrefix**: Use "to" for verb infinitives (e.g., "to understand"), displayed in the UI but not part of gameplay.
+4. **parts**: Split the word at all real morpheme boundaries. English morphemes are mostly Latin, Greek, and Germanic in origin. Key patterns:
+   - Latin/Greek prefixes: pre-, re-, un-, in-/im-/ir-/il-, trans-, inter-, over-, sub-, super-, com-/con-/col-/cor-, de-, dis-, ex-, pro-, per-
+   - Latin/Greek suffixes: -tion/-sion, -ity, -ment, -ness, -ful, -less, -able/-ible, -ive, -al, -ous, -ize/-ise, -er/-or, -ist, -ism, -ology, -graph
+   - Germanic roots and compounds split at recognizable word boundaries
+
+   **CRITICAL — surface forms:** The `targetLang` values for all parts must concatenate exactly to the word's `id`. Always use the surface form as it appears, not the etymological form. Common mutations to watch for:
+   - Roots change before certain suffixes: `scrib` → `scrip` in *prescription*, `vert` → `vers` in *conversion*
+   - Final `-e` drops before vowel suffixes: *believable* = `believ` + `able`
+   - `-ize` + `-ation` → `-iz` + `-ation`: *organization* = `organ` + `iz` + `ation`
+   - `-ify` + `-ation` → `-ific` + `-ation`: *simplification* = `simpl` + `ific` + `ation`
+   - `-ate` drops the `e` before `-or`/`-ion`: *communication* = `commun` + `icat` + `ion`
+   - Connecting vowels are their own parts: *chronology* = `chron` + `o` + `logy`
+   - Double consonants belong to one part: *commitment* = `com` + `mit` + `ment`
+
+   Aim for 2–4 parts. Add a flag for 1 part or 5+.
+
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 Swahili word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning — never slash synonyms ("kabla/awali" is wrong; pick one); put alternatives in homeLangDetails. (b) Affixes: pre- = "kabla", re- = "tena", un- = "bila", -tion = "(nomino)", -ness = "(hali)", -ful = "(wenye)", -able = "(weza)", -er = "(mtenda)". (c) Roots: use the single closest Swahili word.
+6. **translationShort**: A natural, concise English translation or definition (1–4 words) — since the player is learning English, this should clarify the word's meaning, not just restate it.
+7. **translationLong**: Longer or alternate meanings if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Swahili. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct English sentence using the word.
+10. **exampleTranslation**: Accurate Swahili translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "English Vocab",
+  "words": [
+    {
+      "id": "independence",
+      "article": "the",
+      "parts": [
+        {"targetLang": "in", "homeLang": "si/bila"},
+        {"targetLang": "depend", "homeLang": "kutegemea"},
+        {"targetLang": "ence", "homeLang": "(hali ya)"}
+      ],
+      "translationShort": "freedom, self-rule",
+      "translationLong": "the state of not depending on others; freedom from outside control",
+      "exampleSentence": "The country celebrated its independence with fireworks.",
+      "exampleTranslation": "Nchi ilisherehekea uhuru wake kwa fataki."
+    },
+    {
+      "id": "transportation",
+      "article": "the",
+      "parts": [
+        {"targetLang": "trans", "homeLang": "kuvuka/kupitia"},
+        {"targetLang": "port", "homeLang": "kubeba/kusafirisha"},
+        {"targetLang": "ation", "homeLang": "(nomino)"}
+      ],
+      "translationShort": "moving people or goods",
+      "translationLong": "the act of carrying people or things from one place to another",
+      "exampleSentence": "Good transportation connects people across a country.",
+      "exampleTranslation": "Usafiri mzuri huunganisha watu katika nchi nzima."
+    },
+    {
+      "id": "teacher",
+      "article": "the",
+      "parts": [
+        {"targetLang": "teach", "homeLang": "kufundisha"},
+        {"targetLang": "er", "homeLang": "(atendaye)"}
+      ],
+      "translationShort": "one who teaches",
+      "translationLong": "a person who teaches, especially in a school",
+      "exampleSentence": "The teacher asked the students to open their books.",
+      "exampleTranslation": "Mwalimu alimwambia wanafunzi wafungue vitabu vyao."
+    },
+    {
+      "id": "friendship",
+      "article": "the",
+      "parts": [
+        {"targetLang": "friend", "homeLang": "rafiki"},
+        {"targetLang": "ship", "homeLang": "(hali ya/uhusiano)"}
+      ],
+      "translationShort": "being close friends",
+      "translationLong": "a close relationship of mutual trust and affection between friends",
+      "exampleSentence": "Their friendship grew stronger over the years.",
+      "exampleTranslation": "Urafiki wao uliongezeka nguvu kwa miaka."
+    }
+  ]
+}

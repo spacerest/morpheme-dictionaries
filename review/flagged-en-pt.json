@@ -1,0 +1,922 @@
+[
+  {
+    "word": "prediction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'A predição do tempo para amanhã é chuva' is awkward. 'do tempo' (of time/weather) is redundant when using 'predição meteorológica' or 'previsão do tempo'. The more natural phrasing would use 'previsão' instead.",
+    "suggestion": "Change to 'A previsão do tempo para amanhã é chuva.' or 'A predição meteorológica para amanhã é chuva.'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'entre suas duas afirmações' means 'between his two statements', but the example sentence says 'in his two statements'. The preposition should match.",
+    "suggestion": "Change to 'Há uma clara contradição em suas duas afirmações.' (in his statements) or adjust the English example to match the Portuguese translation.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' is glossed as 'dizer' (to say), but in 'jurisdiction' it comes from Latin 'dicere' (to speak/say). While 'dizer' is a cognate, the semantic connection in this context is to 'judging/pronouncing judgment' rather than simply 'saying'. The gloss should reflect the legal/judicial sense.",
+    "suggestion": "Change homeLang to 'falar/pronunciar' or add homeLangDetails explaining that 'dicere' in legal contexts means 'to pronounce judgment' or 'to declare'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "deportation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'port' is consistently glossed as 'carregar' (to carry) across multiple entries, but in 'deportation' it comes from Latin 'portare' (to carry). However, in the context of 'deportation', the meaning is not literally 'to carry away' but rather 'to carry/conduct/conduct away' in a legal sense. The gloss 'carregar' is misleading for the actual meaning of forced removal.",
+    "suggestion": "Add homeLangDetails clarifying that 'port' in this context means 'to carry/transport/conduct' with the legal sense of forced removal, not just literal carrying",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The entry splits 'destruction' as 'de + struct + ion', but 'de-' is the prefix, not 'de' alone. The correct split should be 'de + struct + ion' where 'de' is clearly marked as a prefix meaning 'down/away/reverse'.",
+    "suggestion": "Change targetLang from 'de' to 'de-' (with hyphen) to properly indicate it is a prefix, not a standalone morpheme",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "reconstruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'reconstruction' as 're + con + struct + ion', but 'con-' is itself a prefix that should be clearly marked. More importantly, the morpheme analysis misses that 're-' and 'con-' are both prefixes modifying the root 'struct'. The split should clarify prefix vs. root boundaries.",
+    "suggestion": "Ensure all prefixes are marked with hyphens (re-, con-) to distinguish them from roots and suffixes",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss for 'in' is listed as 'em/não ou em', which is confusing and imprecise. In 'inspection', 'in-' is a prefix meaning 'in' or 'into' (from Latin in-), not 'not' or 'em'. The dual meaning ('em/não') conflates different senses of the Latin prefix.",
+    "suggestion": "Simplify to 'em/dentro' or just 'em' to clarify the 'into/in' sense used in 'inspection'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The entry shows 'per' as a standalone morpheme, but it should be marked as a prefix 'per-' to clarify it is not a free-standing root.",
+    "suggestion": "Change targetLang from 'per' to 'per-' (with hyphen)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The entry shows 'retro' as a standalone morpheme, but it should be marked as a prefix 'retro-' to clarify it is not a free-standing root.",
+    "suggestion": "Change targetLang from 'retro' to 'retro-' (with hyphen)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "prescription",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The prefix 'pre-' in 'prescription' does not mean 'antes' (before) in the sense of time/position. In 'prescription', it means 'beforehand' or carries the sense of laying down rules in advance, but this is better understood as 'prescribe' (to write/lay down in advance) rather than decomposing the medical meaning from 'before + write'. The homeLangDetails are misleading for this specific word.",
+    "suggestion": "Consider clarifying that in 'prescription', 'pre' relates to 'prescribe' (ordenar antecipadamente/estabelecer) rather than standalone temporal 'antes'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The prefix 'de-' in 'description' does not mean 'para baixo/desfazer' (down/undo). In 'description', 'de-' is an intensive or formative prefix meaning 'down from' in the sense of 'write down' (descrever = to write down), not to deconstruct or reverse. The homeLangDetails mislead by suggesting the destructive sense.",
+    "suggestion": "Revise to indicate 'de-' here means 'down/away' in the sense of 'write down' (descrever), not 'undo' or 'deconstruct'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'im' is split separately, but in 'impression' it's actually 'in-' (assimilated to 'im' before 'p'), not 'im' as a standalone morpheme with the meaning 'em-/para dentro'. The prefix should be labeled 'in-' with the meaning of 'in/into'.",
+    "suggestion": "Change parts[0] targetLang to 'in' and homeLang to 'em/para dentro' to reflect the actual prefix 'in-' which assimilates to 'im' before 'p'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'at' is split separately, but in 'attraction' it's actually 'ad-' (assimilated to 'at' before 't'), not 'at' as a standalone morpheme. The prefix should be labeled 'ad-' with meaning 'para/em direção a'.",
+    "suggestion": "Change parts[0] targetLang to 'ad' and homeLang to 'para/em direção a' to reflect the actual prefix 'ad-' which assimilates to 'at' before 't'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'ex' is correct, but should be clarified as the Latin prefix 'ex-' meaning 'out of/from', not just split as 'ex'.",
+    "suggestion": "Consider labeling as 'ex-' to indicate it is a prefix form, making the morphological structure clearer.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'miss' is misleading. In 'permission', the root is 'mitt-' (from Latin mittere 'to send'), and 'miss' is not the actual morpheme. The word should be split as 'per-' + 'mitt' or 'per-' + 'miss' (variant stem), but 'miss' alone is not standard. Additionally, 'permission' comes from French/Latin and 'miss' conflates different forms of the verb.",
+    "suggestion": "Change parts[1] targetLang to 'mitt' or clarify that 'miss' is an allomorph of 'mitt' (from mittere), or restructure to show per + mit + ion if using a simplified analysis.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "transmission",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' in 'transmission' comes from Latin 'mittere' (to send), but the gloss 'enviar' is incomplete. The entry should clarify that this is the root form, not just a simple gloss.",
+    "suggestion": "Consider expanding to 'enviar/colocar' or noting it's from the Latin root 'mittere'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "commitment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'mitt' is glossed as 'enviar' (send), but in 'commitment' it comes from the same Latin 'mittere' root. The gloss is technically correct but the entry doesn't clarify that 'com-mitt-ment' means 'to send together/pledge together', which better explains the semantic connection to 'commitment' (a binding pledge).",
+    "suggestion": "Consider glossing as 'enviar/colocar' with details noting the sense of 'together' from 'com-' creates the meaning of binding or pledging oneself",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "deception",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'cept' appears in multiple entries but should likely be recognized as coming from 'capt-' or 'cept-' (Latin capere, to take). The morpheme boundary may be slightly imprecise, though the gloss 'tomar' is semantically sound.",
+    "suggestion": "Verify the morpheme is consistently represented across entries (reception, perception, deception); consider whether 'cept' or 'capt' is the more accurate historical form",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'carregar' (to carry) is misleading for 'fer'. In 'reference', 'fer' comes from Latin 'ferre' (to carry/bear), but the semantic connection is not 'to carry' in the modern sense. The morpheme should be glossed more accurately as 'bear' or 'bring' to reflect the Latin etymology (re-ferre: to bring back). The current gloss obscures the actual meaning.",
+    "suggestion": "Change homeLang for 'fer' to 'trazer' or 'levar' (to bring/carry in the sense of bearing or transporting meaning)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "conference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'reference': 'fer' glossed as 'carregar' is misleading. The morpheme should reflect the Latin 'ferre' (to bear/bring), not simply 'carry'.",
+    "suggestion": "Change homeLang for 'fer' to 'trazer' or 'levar'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "interference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as above: 'fer' glossed as 'carregar' is misleading for the Latin 'ferre' (to bear/bring).",
+    "suggestion": "Change homeLang for 'fer' to 'trazer' or 'levar'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "conversion",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'vert' glossed as 'virar' (to turn) is an oversimplification. The Latin root is 'vertere' (to turn), but in 'conversion' the semantic focus is on changing/transforming, not the physical turning. The gloss should better reflect this.",
+    "suggestion": "Change homeLang for 'vert' to 'mudar/transformar' or keep 'virar' but add homeLangDetails explaining the semantic shift from physical turning to metaphorical changing",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "introversion",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'conversion': 'vert' glossed as 'virar' is an oversimplification that obscures the actual semantic meaning of turning/transforming attention inward.",
+    "suggestion": "Change homeLang for 'vert' to 'mudar/transformar' or provide homeLangDetails explaining the semantic connection",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "subversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'sob' (under/below in Portuguese) is misleading. Latin 'sub' means 'under' but in 'subversion' it functions as a prefix meaning 'to undermine' or 'to overturn', not simply 'under'. The Portuguese gloss should clarify this sense rather than just providing literal translation.",
+    "suggestion": "Change homeLang to something like 'sob/contra (no sentido de minar ou contrariar)' or restructure to clarify the semantic shift",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The split 'oc' + 'cur' + 'rence' is incorrect. The correct morphological boundary is 'oc' + 'curr' + 'ence'. The 'r' should be part of 'curr' (the root from Latin 'currere' meaning 'to run'), not split between morphemes.",
+    "suggestion": "Change parts[0].targetLang to 'oc' and parts[1].targetLang to 'curr', keeping parts[2] as 'ence'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 5 parts (un, pre, ced, ent, ed), but the morphological structure is misleading. 'Pre' should not be glossed as 'precedente' — it's the prefix 'pre-' (before). The root is 'cede' (to go), and 'ent' is not a separate suffix here; the word structure is: un- + precedent + -ed, or more accurately un- + prec(e)d + -ent. The current split artificially separates 'pre' and 'ced' which belong together in the root 'precede'. Additionally, listing 'ed' as a separate morpheme for '(passado)' is incorrect — 'unprecedented' is an adjective, not a past participle, and the '-ed' is part of the adjectival form derived from the noun 'precedent'.",
+    "suggestion": "Restructure to: un- (not) + prec/ced (ceder/ir antes) + -ent (suffix forming adjective) + -ed (adjectival suffix). Or simplify to: un- + precedent (treating 'precedent' as the recognizable unit) + -ed. Remove the misleading separate glossing of 'pre' as 'precedente' in the parts list.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'cur' is glossed as 'correr' (to run), but this is a false cognate relying on superficial similarity. In 'concurrent', 'cur' comes from the Latin root 'currere' (to run/flow), which does mean to run. However, the semantic connection to 'concurrent' (happening together) requires 'con-' (together) + 'cur-' (run/flow), where the 'running together' is metaphorical. The gloss 'correr' alone is misleading without noting that this is the Latin root and the metaphorical sense of 'flowing/moving together' applies here. The same applies to 'concorrente' in Portuguese — it's a competitor (one who runs toward the same thing), not literally 'running'.",
+    "suggestion": "Amend homeLang to 'correr (latim)' or provide more context in homeLangDetails explaining that 'cur' is the Latin root meaning to run/flow, and in this context 'concurrent' means literally 'running together' or 'flowing together'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "transformation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'trans' is glossed as 'através' (across/through), but the homeLangDetails incorrectly suggests it means 'changing from one state to another.' The prefix 'trans' means 'across' or 'through,' not 'changing states.' The state-change sense is derived from the base word 'form' combined with the prefix, not from 'trans' itself.",
+    "suggestion": "Change homeLang to 'através' or 'cruzando' and remove the misleading state-change definition from homeLangDetails. Keep it focused on the spatial/crossing sense.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'dis' is given as 'apart' (English), but this is a language-learning game for Portuguese speakers. It should be in Portuguese, not English.",
+    "suggestion": "Change 'apart' to the Portuguese equivalent, such as 'separadamente' or 'para longe'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "information",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "The prefix 'in' in 'information' does not synchronically mean 'em' (in/into). The word 'information' is a frozen compound where 'in' + 'formation' no longer reflects a transparent morphological relationship with a clear spatial sense. The word's meaning (facts/data) does not derive from 'putting something into form.' This is a lexicalized unit where the morpheme boundaries are misleading.",
+    "suggestion": "Consider flagging this as a frozen compound or note that the 'in-' prefix here is not productively meaningful in modern English. The morpheme split may be historically accurate but synchronically opaque.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'cor' is glossed as 'com-/junto' (with/together), but in 'corruption' it comes from Latin 'cor-' (a variant of 'com-'), which is correct etymologically. However, the gloss 'com-/junto' is misleading because 'cor' in this context doesn't mean 'together' in the modern sense — it's an archaic prefix form. The entry conflates historical etymology with synchronic meaning.",
+    "suggestion": "Either clarify that this is an archaic prefix form, or provide the full etymological context: 'cor- (from Latin com-, meaning together; here used in the sense of intensive/thorough corruption)'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'photo' is glossed only as 'foto-' without translation. It should include the meaning 'light' (from Greek 'photó'), similar to how 'graph' is glossed as '-grafo' (writer/writing). This makes the decomposition incomplete and obscures the literal meaning 'light-writing'.",
+    "suggestion": "Change 'photo' homeLang from 'foto-' to 'foto- (luz)' or 'luz-' to show it means 'light'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'a disposição dos eventos em ordem de tempo' is awkward. A more natural Portuguese phrasing would be 'a ordem dos eventos no tempo' or 'a sequência de eventos no tempo'.",
+    "suggestion": "Change to 'a sequência de eventos em ordem cronológica' or 'a disposição dos eventos em ordem temporal'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Vamos sincronizar nossos relógios antes de sair' is grammatically acceptable but slightly unnatural. The more idiomatic Portuguese would use 'de partirmos' or 'antes de sairmos', or restructure to avoid the infinitive construction.",
+    "suggestion": "Change to 'Vamos sincronizar nossos relógios antes de partirmos.' or 'Vamos acertar nossos relógios antes de sair.'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "psychology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'psych' is glossed as 'mente' (mind), but this is an oversimplification. 'Psych' comes from Greek 'psyche' which encompasses mind, soul, and spirit—not just the rational mind. The gloss should reflect the broader semantic range.",
+    "suggestion": "Change homeLang to 'psyche/alma' or add homeLangDetails clarifying that psyche includes mind, soul, and spirit in Greek philosophy",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Portuguese translation 'Senti simpatia pela situação difícil dela' is misleading. In Portuguese, 'simpatia' typically means 'liking' or 'charm,' not the deeper emotional understanding that English 'sympathy' conveys. The translation should use a more appropriate Portuguese term.",
+    "suggestion": "Change to 'Senti compaixão pela situação difícil dela' or 'Consegui me identificar com a situação difícil dela' to better capture the meaning of English sympathy",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "empathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'em-' as a variant of 'en-' meaning 'in' or 'inside' is technically correct etymologically, but the homeLang representation is confusing. 'em' in Portuguese is a preposition meaning 'in,' not a prefix with this Greek origin. The entry conflates English etymology with Portuguese morphology.",
+    "suggestion": "Clarify in homeLangDetails that this is from Greek 'em-' (not Portuguese 'em'), or use a more neutral representation like 'dentro/em' with clearer etymology notes",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-ous' is split as a separate morpheme but only has 'homeLang: \"-oso\"' without a proper homeLangDetails explanation. While not incorrect per se, it's inconsistent with the detail level of other entries and should clarify that '-ous' is an English adjectival suffix equivalent to Portuguese '-oso'.",
+    "suggestion": "Add homeLangDetails for the '-ous' part explaining it is an English adjectival suffix meaning 'full of' or 'characterized by', equivalent to Portuguese '-oso'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'un + comfort + able', but 'comfortable' is the actual base adjective. The morpheme structure should reflect that 'un-' is attached to the adjective 'comfortable', not to 'comfort' alone. The current split suggests 'un + comfort + able' which is not how English morphology works here.",
+    "suggestion": "Restructure to show 'un-' + 'comfortable', where 'comfortable' itself contains 'comfort + -able'. Alternatively, if keeping three parts, clarify that 'comfort' + 'able' = 'comfortable' (the adjective base) and then 'un-' negates the whole adjective.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'un + believe + able', but 'believable' is the actual base adjective. The morpheme structure should reflect that 'un-' is attached to the adjective 'believable', not to 'believe' alone. This creates the same structural issue as 'uncomfortable'.",
+    "suggestion": "Restructure to show 'un-' + 'believable', where 'believable' itself contains 'believe + -able'. Alternatively, if keeping three parts, clarify that 'believe' + 'able' = 'believable' (the adjective base) and then 'un-' negates the whole adjective.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ing' is glossed as '-mento' (noun suffix), but '-ing' here functions as both a gerund/nominalizing suffix. While '-mento' is a Portuguese noun-forming suffix, it's not the most direct parallel since '-ing' in English gerunds can translate to '-mento' (ato de), '-ção', or the gerund form '-ando/-endo/-indo'. The gloss is oversimplified.",
+    "suggestion": "Change homeLang to 'gerúndio/-ção' or add homeLangDetails clarifying that '-ing' nominalization can correspond to various Portuguese nominal forms depending on context.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'mis', 'represent', and 'ation', but 'represent' + 'ation' = 'representation' is itself a complete morphological unit. The entry should either show all four morphemes (mis + represent + ation) or acknowledge that 'representation' is the base before 'mis-' is prefixed.",
+    "suggestion": "Split as: mis | represent | ation (keeping current), or clarify in homeLangDetails that representation is a nominalised form before prefixation. Current split is technically acceptable but could be more explicit.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The '-ing' suffix is glossed as '-ante' (Portuguese present participle/adjective suffix), but this is imprecise. In 'overwhelming', '-ing' creates an adjective from the verb 'overwhelm', similar to how Portuguese uses '-ante' for participles (e.g., 'avassalador'). However, '-ante' is not the direct equivalent here; Portuguese would more naturally use the adjective form 'avassalador' (from the root) or a past participle construction. The gloss oversimplifies the morphological relationship.",
+    "suggestion": "Change homeLang to '-dor/-ante' or revise homeLangDetails to clarify that English '-ing' adjectives often correspond to Portuguese '-dor' or '-ante' formations, but 'overwhelming' → 'avassalador' is a suppletive/lexical relationship rather than a direct morphological one.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'A ferrovia que atravessava o continente' is awkward and imprecise. It should more naturally say 'A ferrovia transcontinental' to maintain parallel structure with the English original.",
+    "suggestion": "A ferrovia transcontinental conectava as costas Leste e Oeste.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation adds 'sem afetar o funcionamento do dispositivo' (without affecting the device's functioning) which changes the meaning and is not in the original English sentence. It should stick closer to the source.",
+    "suggestion": "Essas duas peças são intercambiáveis e podem ser usadas em qualquer posição.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'extra-' does not mean 'além de' (beyond/outside of). It means 'outside' or 'beyond' in the sense of 'exceeding' or 'in addition to,' but 'além de' is imprecise. The morpheme should be glossed as 'fora de' or 'além' (outside/beyond), not as a standalone preposition phrase.",
+    "suggestion": "Change 'além de' to 'fora de' or simply 'além' to better reflect the Latin prefix meaning",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'observar, notar' is incomplete. 'Remark' as a noun means a comment or observation, and the suffix '-able' makes it 'worthy of remark/comment.' The homeLang should reflect the noun form (observação, comentário) rather than only the verb forms.",
+    "suggestion": "Change to 'observação, comentário' or 'digno de comentário/observação' to better reflect the nominal meaning",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as compartment + al + ize, but 'compartmental' is itself the adjective form before -ize is applied. The morphological structure should be: compartment → compartmental → compartmentalize. The current split obscures that 'al' and 'ize' work together to form the verb from the noun.",
+    "suggestion": "Consider splitting as compartment + alize (where -alize is the verbalizing suffix that combines -al and -ize), or reorganize to show compartment → compartment-al → compartmentalize as a three-step derivation with clear explanation of the process.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Portuguese translation 'de forma útil' is awkward and unnatural. The adverb 'útil' doesn't work well in Portuguese; 'helpfully' should be translated as 'atenciosamente' or 'prestativamenteI' or simply 'com utilidade'.",
+    "suggestion": "Change to 'Ela explicou as instruções atenciosamente.' or 'Ela explicou as instruções de forma atenciosa.'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "helplessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Ele observou impotente enquanto o acidente acontecia' is grammatically awkward. 'Impotente' as a predicate adjective without a copula verb is not standard Portuguese. Should use 'impotentemente' (adverb form) or a complete construction with 'estar'.",
+    "suggestion": "Change to 'Ele observou impotentemente enquanto o acidente acontecia.' or 'Ele observou, impotente, enquanto o acidente acontecia.'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Com esperança, o tempo vai melhorar amanhã' is awkward and misses the idiomatic English usage. In English, 'hopefully' is commonly used as a sentence adverb meaning 'it is to be hoped that', not primarily 'with hope' as an manner adverb.",
+    "suggestion": "Should be 'Espera-se que o tempo melhore amanhã' or 'Com sorte, o tempo vai melhorar amanhã' to capture the actual meaning of the sentence.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'thank' is glossed as 'agradecimento' (a noun meaning 'thanks/gratitude'), but the base morpheme should be translated as the verb or adjective form. The morpheme 'thank' is a verb meaning 'agradecer' or when used as an adjective stem in 'thankful' it should relate to 'grato/a'.",
+    "suggestion": "Should be 'agradecer' (verb) or reference the adjectival meaning 'grato/a' to better reflect how it functions in 'thankful'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'thought' is glossed as 'pensado' (past participle), but in 'thoughtfully' it functions as the noun/adjective root meaning 'thought' or 'thoughtful', not specifically the past participle form.",
+    "suggestion": "Change to 'pensamento' or 'reflexão' to capture the noun sense, or use 'pensativo' for the adjective sense underlying 'thoughtful'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "thoughtlessly",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'thought' is glossed as 'pensado' (past participle), but in 'thoughtlessness' it functions as the noun/adjective root meaning 'thought' or 'thoughtful', not specifically the past participle form.",
+    "suggestion": "Change to 'pensamento' or 'reflexão' to capture the noun sense, or use 'pensativo' for the adjective sense",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme should be 'beauty' → 'beautiful' (adjective form) before adding -ly. The entry splits 'beauty' (noun) directly, but the actual morphological chain is: beauty → beautiful (via implicit -ful) → beautifully (via -ly). The homeLang explanation acknowledges this complexity but the split itself is misleading.",
+    "suggestion": "Consider splitting as: 'beautiful' (belo/a) + 'ly' (-mente), or clarify that 'beauty' here represents the derived adjective 'beautiful'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'um argumento poderosamente persuasivo' is awkward and redundant in Portuguese. 'Poderosamente' modifying 'persuasivo' is unnatural; the English 'powerfully persuasive' is emphatic but the Portuguese translation should be more natural.",
+    "suggestion": "Use 'um argumento persuasivo e poderoso' or 'um argumento muito persuasivo' or restructure as 'O orador apresentou um argumento persuasivo de forma poderosa'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "While 'falta de poder' is not wrong, the more natural and direct Portuguese translation for 'powerlessness' is 'impotência', which is also used in the example translation. The short translation should match the more standard term.",
+    "suggestion": "Change translationShort to 'impotência' or 'falta de poder e influência' to align with common usage",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "development",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss 'desdobrar' (to unfold) is misleading. While etymologically develop does trace to Old French 'devoluper', the synchronic meaning in modern English is simply 'to grow' or 'to advance', not literally 'to unfold'. The 'velop' part is obscure and not productively parsed by modern speakers.",
+    "suggestion": "Consider glossing as 'crescer/evoluir' (to grow/evolve) or note that this is a frozen etymology. Alternatively, mark this as a non-productive morpheme.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "improvement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'provar' (to prove) for 'prov' is misleading. While 'prove' exists as an English word, improve does not productively decompose as 'in + prove' in modern English. The etymological connection to Latin 'probare' (to approve) does not reflect the current morphological structure or meaning transparency.",
+    "suggestion": "Gloss should reflect the actual modern meaning: 'melhorar' (to improve/make better). The etymology note is interesting but should not be the primary gloss.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The word 'advertisement' is typically stressed on the first syllable and splits as 'ad-ver-tise-ment', but the morpheme 'ad' is listed without noting that 'advertise' is the base verb. The split should more clearly show: ad + vertise + ment (where 'vertise' = vert + ise).",
+    "suggestion": "Either reconfigure to show ad + vert + ise + ment, or note that 'advertise' is the derived base and 'advertisement' is a nominalization of that.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation claims 'tired' comes from the same root as 'tir' (puxar/pull), but 'tired' actually means exhausted/fatigued and has a different etymological origin. This is a false connection that misleads learners.",
+    "suggestion": "Remove the claim about 'tired' or correct it to accurately reflect that 'tired' has a separate etymology and is not directly related to the 'tir' in 'retire'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "department",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss 'des-/para baixo' and the explanation don't accurately capture how 'de-' functions in 'depart'. In 'depart', 'de-' means 'away/from', not 'down' or 'undoing an action'. The examples given (decrease, depart, deconstruct) don't all support the 'para baixo' (downward) meaning.",
+    "suggestion": "Change to 'de-/away from' or 'de-/from', and clarify that in 'depart', it means 'to go away from' rather than emphasizing downward motion or reversal.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "replacement",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'place' in 'replacement' should be further analyzed. The word structure is actually 're-' + 'place' (to put), but 'place' here functions as a verb meaning 'to put/position', not simply the noun 'lugar'. The morpheme boundary and function could be clearer.",
+    "suggestion": "Consider clarifying that 'place' here is the verb form (to put/position) rather than just the noun, or note that re-place means 'to put again/put back'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The part 'fortunate' should be further split into 'fortun' (root) + 'ate' (adjectival suffix), similar to how other entries handle suffixes like '-able' and '-y'. This is inconsistent with the morphological depth shown in other entries.",
+    "suggestion": "Split 'fortunate' into 'fortun' + 'ate' to show the adjectival suffix formation, making the structure: un + fortun + ate + ly",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The part 'expect' should be further analyzed. While 'expect' is a root, the entry should clarify whether it's splitting expect + ed separately (which it does in parts[2]), but the ordering is awkward. The morphological analysis would be clearer as: un + expect + ed + ly.",
+    "suggestion": "Reorder or clarify: the parts show 'un', 'expect', 'ed', 'ly' but 'ed' should logically follow 'expect' immediately to show 'expected' before adding 'ly'. Consider whether 'expect' alone or 'expected' should be the base morpheme.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'willing' should be split into 'will' + 'ing', but 'ing' is glossed as '(gerúndio)' rather than being properly analyzed as part of the adjective formation. The structure should be: un + will + ing + ness, where '-ing' creates an adjective from 'will', not a gerund.",
+    "suggestion": "Either split as un + willing + ness and gloss 'willing' as an adjective, or clarify that '-ing' here functions as an adjectival suffix, not a gerund marker.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "reconsideration",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 're + consider + tion', but 'consider' itself should be further analyzed as 'con + sider' (from Latin). While 'consider' is opaque to modern English speakers, the morphemic breakdown is incomplete.",
+    "suggestion": "Either keep it as re + consider + tion (acceptable for a learner's dictionary focused on productive morphemes), or split fully as re + con + sider + tion with etymological explanation for 'con' and 'sider'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'cycle' is incomplete. The actual morpheme in 'recycling' is 'cycl-' (from Greek kyklos), and the base form used is 'cycle'. However, the split should recognize that 'recycle' is the verb stem before '-ing' is added. The current split treats 'cycle' as a standalone morpheme when it functions as part of the verb 'recycle'.",
+    "suggestion": "Consider splitting as: re + cycle + ing, where 'cycle' is the verb stem (meaning to go through a circular process), not just the noun 'ciclo'. The homeLang for 'cycle' should be 'reciclar' or clarify it means the verb root, not simply the noun.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang translation 'ciclo' (cycle/noun) is misleading because in 'recycling', 'cycle' functions as a verb root meaning 'to recycle' or 'to process in a cycle', not as the standalone noun 'ciclo'.",
+    "suggestion": "Translate as 'ciclar' or provide context that this is the verb root meaning 'processar em ciclo' or 'passar por um ciclo novamente'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "communication",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'mun' should be 'munic' or should be recognized as part of 'municip-' (related to municipality). The split 'mun' + 'ication' is incomplete; 'munication' is not a recognized morpheme boundary in 'communication'.",
+    "suggestion": "Split as 'com' + 'munic' + 'ation' where 'munic' relates to 'common/community' (Latin municeps), or reconsider the analysis entirely as 'com' + 'municate' + 'tion'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "While 'troca de informações' is not wrong, it's incomplete. Communication encompasses much more than just exchange of information—it includes the act, process, and means of communicating.",
+    "suggestion": "Use 'comunicação' directly or 'processo de comunicação' to be more comprehensive and natural in Portuguese",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The Portuguese phrasing 'exame detalhado ou investigação de algo' is awkward because it uses 'investigação' to define 'investigação'. The explanation should not use the word being defined.",
+    "suggestion": "Use 'busca cuidadosa de fatos ou informações sobre algo' or 'ato de investigar ou examinar algo em detalhes'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word 'pronunciation' is incorrectly split as 'pro-nunc-iation'. The correct morphological split should be 'pro-nounce-ation' or more accurately 'pro-nunci-ation' (from Latin pronunciare). The segment 'nunc' does not correspond to a meaningful morpheme in English pronunciation.",
+    "suggestion": "Split as 'pro-nounc-iation' or 'pro-nunci-ation', where 'nounc/nunci' relates to 'announce/enunciate' (from Latin nuntiare/nunciare)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'-fone' is glossed but 'pronunciation' does not contain a '-phone' morpheme. The word ends in '-ation' (the suffix), not '-fone'. This appears to be a confusion with words like 'telephone' or 'microphone'.",
+    "suggestion": "Remove this part or correct to show the actual morpheme breakdown",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "examination",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'am' is glossed as 'pesar' (to weigh), but this does not accurately reflect the morpheme. In 'examination', the root is 'examin-' which comes from Latin 'examinare' (to weigh out, assess). While 'pesar' relates conceptually, the morpheme 'am' in isolation is not correctly identified.",
+    "suggestion": "Change to 'examin-' (do a detailed assessment/test) and split as 'ex-amin-ation', or explain that 'amin' derives from Latin 'aminare' (to assess)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "imagination",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "'ag' is glossed as 'imagem' (image), but 'ag' is not the correct morpheme boundary. The root should be 'imag-' (from Latin 'imago' = image), not 'ag'.",
+    "suggestion": "Change 'ag' to 'imag-' and gloss as 'imagem' (image)",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'uma discussão informal' is too narrow and misleading. A conversation can be formal or informal, and it's not primarily about discussion but about exchange of ideas.",
+    "suggestion": "Change to 'uma conversa' or 'uma conversa entre pessoas' to match the broader meaning",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'o retorno da luz' is incomplete and misleading as the primary definition. While technically correct, it only covers the optical meaning and misses the more common psychological/cognitive meaning of reflection.",
+    "suggestion": "Change to 'reflexo (da luz); pensamento profundo' or simply 'reflexo; meditação' to cover both senses",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "invitation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'vit' should be further analyzed. 'Vit' comes from Latin 'vitare' (to call/invite), but the actual root is 'vit-' and it should be recognized that this is part of the Latin verb 'invitare'. The split is oversimplified.",
+    "suggestion": "Consider whether 'vit' adequately represents the etymological root, or if the entry should clarify that this is a Latin root rather than a modern English morpheme that can be independently understood.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "preparation",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'par' is incomplete. The actual morpheme should be 'pare' (from Latin 'parare' = to prepare). Splitting it as just 'par' misses the full morphemic unit.",
+    "suggestion": "Change 'par' to 'pare' or clarify that 'par' is a truncated form of the fuller root 'parare/pare'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'Satisfaction' should be split as 'satis' (Latin for 'enough') + 'fy' (make) + 'tion' (act/condition), or more accurately, it comes from Latin 'satisfacere' (to do enough). The current split 'sat-is-faction' treats 'faction' as a suffix when it's actually part of the root 'facere' (to do/make).",
+    "suggestion": "Resplit as: 'satis' (enough) + 'fy/fac' (make/do) + 'tion' (-ção). Alternatively, clarify that 'faction' is misleading since it represents 'fac-' (make) + '-tion', not the word 'faction'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split \"e + val + uation\" is incorrect. The word should be split as \"e + valu + ation\" or more accurately \"eva + lua + tion\". The prefix \"e-\" (from Latin \"ex-\") is present, but \"val\" alone is not the correct morpheme boundary.",
+    "suggestion": "Reconsider the morpheme split. The root is \"value\" (not just \"val\"), and the structure is more accurately \"e- + valu(e) + -ation\" or \"eva + lua + tion\".",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "understandable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss \"estar de pé\" (to stand) is misleading for the modern English morpheme. While historically \"stand\" derives from a root meaning \"to stand,\" in \"understand\" the \"stand\" component is not synchronically understood as \"stand\" but rather as part of the root \"understand\" itself. The homeLang gloss creates a false etymological connection that doesn't reflect the actual modern morpheme structure.",
+    "suggestion": "Either omit the stand morpheme breakdown (since \"understand\" is better treated as an opaque compound in modern English), or note that this is an etymological note rather than a productive morpheme split. Alternatively, gloss it as \"compreender\" or similar rather than \"estar de pé\".",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "affordable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"Acessível\" (accessible) is not an accurate translation for \"affordable.\" \"Acessível\" refers to accessibility (physically or logically reachable), whereas \"affordable\" specifically means financially accessible or having a reasonable price. The Portuguese word that matches \"affordable\" is \"acessível (em preço)\" or more naturally \"econômico\" or \"com preço acessível\".",
+    "suggestion": "Change translationShort to \"econômico\" or \"com preço razoável\" to accurately reflect the meaning of \"affordable.\"",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "dependable",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'depend' should be further split into 'de' + 'pend' to show the actual morphological structure",
+    "suggestion": "Split into three parts: 'de', 'pend', and 'able'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "impossible",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'poss' is itself a remnant of 'possible' which contains 'poss' + 'ible'. The split shows 'poss' + 'ible' redundantly, since 'possible' already includes the '-ible' suffix",
+    "suggestion": "Split should be 'im' + 'poss' + 'ible', or recognize that 'impossible' is derived from 'possible' with the negation prefix 'im-' added",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'accountable' is in English within the Portuguese translation, mixing languages unnaturally",
+    "suggestion": "Change to: 'que não é responsável; não confiável ou prestável de contas'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme split shows 'ir' as a prefix, but 'ir-' is not a standard English prefix. The actual prefix is 'ir-' which is a variant of 'in-', but the split should recognize this as a single morpheme 'ir-', not just 'ir'.",
+    "suggestion": "Change targetLang from 'ir' to 'ir-' to clearly indicate it is a prefix",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "'reverse' can be further split into 're-' (prefix) + 'verse' (root), which would better show the morphological structure",
+    "suggestion": "Consider splitting as: 're-' (volta a) + 'verse' (virar/torcer), or keep 'reverse' as-is if teaching the word as a unit",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme shows 'in' but the actual prefix in 'indestructible' is 'in-', which is more accurately represented with the hyphen",
+    "suggestion": "Change targetLang from 'in' to 'in-' to indicate it is a prefix",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "'destruct' is itself derived from 'de-' (reverse/down) + 'struct' (build), which could be further analyzed",
+    "suggestion": "Consider whether to split 'destruct' into its component parts, or note in homeLangDetails that 'destruir' comes from 'de-' + 'struir'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "international",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'entre nações' is too literal and incomplete. It should be 'internacional' or 'relativo a diferentes nações'",
+    "suggestion": "Change translationShort to 'internacional' or 'entre nações; envolvendo várias nações'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'além da natureza' is awkward and incomplete. The standard Portuguese term is 'sobrenatural'",
+    "suggestion": "Change translationShort to 'sobrenatural' or 'que vai além da natureza'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "'historic' can be further split into 'history' + '-ic' (or 'história' + '-ico' in Portuguese), which would show the full morphological structure",
+    "suggestion": "Split 'historic' into 'history/história' + '-ic/-ico' to match the level of decomposition in other entries",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The morpheme 'tic' is glossed as '-ico' but this is incomplete. The full suffix is '-tic' (adjective-forming suffix in English), which in Portuguese corresponds to '-tico'. The gloss should clarify that this forms an adjective.",
+    "suggestion": "Change homeLang to '-tico' or add homeLangDetails explaining it's an adjective-forming suffix",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'matic' is glossed as 'mático' but this is misleading. 'Matic' comes from Greek 'matos' (inclined to, prone to) and Latin roots related to action/process. The '-mático' gloss doesn't capture the actual meaning contribution. In 'automatic', it means 'self-acting' combined with 'auto'.",
+    "suggestion": "Add homeLangDetails explaining that '-matic'/'-mático' relates to action or operation, or that it derives from Greek meaning 'inclined to act'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "democracy",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "'Demo' is glossed as 'povo' (people), but the Greek 'demos' more specifically means 'the common people' or 'populace' - it's a political/social term, not just any people. While 'povo' can work, 'demos' has a distinct democratic/political connotation.",
+    "suggestion": "Change to 'povo (demos)' or add homeLangDetails clarifying it means 'the common people' or 'populace' in a political sense",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The split 'respons' + 'ibility' is incorrect. The actual morpheme boundary is 'responsible' (adjective) + '-ity' (suffix forming abstract nouns). The target language part should be 'responsible', not the incomplete 'respons'.",
+    "suggestion": "Change parts[0].targetLang to 'responsible' and parts[0].homeLang to 'responsável'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "personality",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The split 'person' + 'ality' is incorrect. The actual morpheme boundary is 'person' + '-al' (adjective-forming suffix) + '-ity' (abstract noun suffix). The second part should be '-ality' to capture the full derived suffix sequence, or split as three parts.",
+    "suggestion": "Either change parts[1].targetLang to '-ality' with homeLang '-alidade', or split into three parts: 'person' + '-al' + '-ity'",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The suffix is labeled as 'ity' but the correct morpheme should be '-ity' (with hyphen) to clearly mark it as a bound morpheme/suffix. This applies to consistency in morphological notation.",
+    "suggestion": "Change parts[1].targetLang to '-ity' to mark it as a suffix",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The suffix is labeled as 'ity' but the correct morpheme should be '-ity' (with hyphen) to clearly mark it as a bound morpheme/suffix. This applies to consistency in morphological notation.",
+    "suggestion": "Change parts[1].targetLang to '-ity' to mark it as a suffix",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'flex' is incomplete. The correct root is 'flexib-' or the split should recognize that 'flexible' is the base adjective, not 'flex' + 'ible'. The morpheme 'flex' alone is not a standard morpheme boundary in English.",
+    "suggestion": "Change parts[0].targetLang to 'flexib' or restructure to show 'flexible' + 'ity' as the primary decomposition, since 'flexible' is the adjective from which 'flexibility' is derived.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "effectiveness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry is for 'effectively' but shows decomposition as 'effect + iv + ly'. The correct intermediate form is 'effective', which should be shown. The morpheme chain should recognize: effect → effective → effectively, not effect + iv + ly.",
+    "suggestion": "Restructure as: 'effect' (efeito) + 'ive' (-ivo) + 'ly' (-mente), or clarify that 'effective' is the base adjective from which the adverb is formed.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The 're-' prefix in 'researcher' does not carry the meaning of repetition or 'doing again'. In 'researcher', 're-' is not a productive prefix but rather part of the etymological root 'research' (from Old French 'recerchier'). Glossing it as 're-' (repetition) misleads learners about how this word is actually formed synchronically.",
+    "suggestion": "Either treat 'research' as a single morpheme without splitting off 're-', or clarify that 're-' here is etymological/historical rather than a productive modern prefix that means 'again'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "researcher",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'researcher' as re + search + er, but in modern English morphology, 'research' (verb/noun) should be treated as a single bound or semi-bound root, not decomposed further into 're-' + 'search' for a learner-focused dictionary.",
+    "suggestion": "Split as 'research' + 'er' (two morphemes), or if keeping three parts, clarify that 're-' is etymological, not synchronically productive in this word.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "employee",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ee' in English does not correspond to '-do/-da' in Portuguese. The Portuguese equivalent of 'employee' is 'empregado/a', where '-do/-da' is a past participle suffix, not a dedicated agent noun suffix like '-ee'. The '-ee' suffix in English (employee, trainee, refugee) functions differently from Portuguese '-do/-da'.",
+    "suggestion": "Clarify that '-ee' is an English-specific suffix for passive agents, and while Portuguese uses '-do/-da', the morphological relationship is not a direct parallel. Consider explaining '-ee' as a separate English suffix rather than equating it to Portuguese '-do/-da'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "photographer",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'photo', 'graph', and 'er', but 'photo' and 'graph' are themselves combining forms, not independent morphemes. The entry treats 'photo' as a standalone morpheme when it should be recognized as 'phot-' (combining form for light) + 'o' (vowel). More importantly, 'photograph' is the base word being analyzed, not a transparent composition of separate parts.",
+    "suggestion": "Either reorganize as: phot- (light) + -graph (write/record) + -er (agent), or simplify by treating 'photograph' as the base and only splitting off '-er'. The current split obscures that 'photograph' is a compound morpheme itself.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The prefix 'in-' in 'investigate' does not mean 'in/into' or 'not'. The word comes from Latin 'investigare' where 'in-' is a prefix meaning 'into' used intensively, but the core meaning comes from 'vestigium' (footprint/trace). However, the splitting here treats 'in-' as a separate morpheme when in English 'investigate' the 'in-' is not productively separable in modern usage. More critically, the homeLang glosses 'in-' as 'in/não ou em' when in this specific word it functions as an intensive particle, not as a negation or locative preposition in the modern sense.",
+    "suggestion": "Either acknowledge that 'in-' here is an intensive/perfective prefix specific to this Latin formation, or reconsider whether this entry is suitable for a morpheme-based system where productive splits are expected.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "participate",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The part 'ticip' is labeled as coming from Latin 'capere' (to take), but this is only part of the picture. The full morpheme is '-cipate/-cipat-', which contains 'cap-' (from capere). Splitting it as just 'ticip' obscures the actual morpheme boundary and makes the etymology opaque. The 'ti' is part of a thematic vowel or bridging element, not a separate morpheme.",
+    "suggestion": "Reconsider the split. Either split as 'par-ticip-ate' where 'ticip' more clearly shows the capere root, or reframe the analysis to explain the thematic elements more transparently.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "participate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss 'tomar' (to take) is correct for the Latin root 'capere', but presenting 'ticip' as equivalent to 'tomar' is misleading because 'ticip' is not transparently 'tomar' in English or Portuguese—it's an obfuscated form. The entry should clarify that this is the Latin root 'cap-' (capere), not a modern Portuguese word.",
+    "suggestion": "Change homeLang to 'capere (tomar)' or clarify in homeLangDetails that this represents the Latin root, not a modern Portuguese morpheme.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'elogiar por uma realização' (praise for an achievement) is too narrow and specific. 'Congratulate' means to express joy or approval for someone's success/achievement, but it is not limited to praising achievements—one can congratulate someone on getting married, winning a lottery, or other events. The translation should be more general.",
+    "suggestion": "Change translationShort to 'expressar alegria pela realização ou sucesso de alguém' or 'parabenizar'.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split into 'mis-inter-pret-et' is incorrect. 'Misinterpret' should be split as 'mis-interpret', where 'interpret' is the base word. Breaking it further into 'inter-pret-et' misrepresents the actual morphological structure.",
+    "suggestion": "Split as: mis (prefix) + interpret (base verb). Do not further decompose 'interpret' into 'inter-pret-et', as this suggests a morphological complexity that doesn't reflect how modern English speakers analyze the word.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The etymology given for 'pret' is speculative and misleading. The explanation about 'praetere' or 'prae+ire' is not the established etymology of 'interpret', and the claim that 'inter- + pret-' creates 'explain what is between things' is a folk etymology rather than linguistic fact.",
+    "suggestion": "Remove or replace the detailed etymological speculation. Simply note that 'interpret' comes from Latin 'interpretari' (to explain/translate), if etymology is desired. Do not present uncertain Latin reconstructions as fact.",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_translation",
+    "field": "parts[3].homeLangDetails",
+    "issue": "The claim that '-et' is 'an archaic or poetic infinitive ending' that 'preserves Latin structure' is incorrect. Modern English 'misinterpret' ends in '-t' (the final consonant of the verb stem), not an infinitive marker. There is no '-et' morpheme here.",
+    "suggestion": "Remove this part entirely, or note that 'interpret' is the base verb form (infinitive in English is formed without a special ending, unlike Romance languages).",
+    "source_file": "en-pt.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The entry lists 'struct' as a morpheme with only 'construir' (Portuguese) as the translation, but lacks the 'homeLangDetails' field that other parts have. More importantly, it should note that '-struct-' comes from Latin 'struere' (to build), and the morpheme is typically analyzed as '-struct-' with a null suffix in the infinitive, or the full base is 'struct' + linking vowel.",
+    "suggestion": "Add 'homeLangDetails' to the 'struct' part. Clarify that 'struct' comes from Latin 'struere' meaning 'to build/construct'.",
+    "source_file": "en-pt.json"
+  }
+]

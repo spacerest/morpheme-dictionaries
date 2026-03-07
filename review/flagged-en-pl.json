@@ -1,0 +1,1010 @@
+[
+  {
+    "word": "injection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'w-/nie lub do' is unclear and does not accurately represent the prefix 'in-'. In 'injection', 'in-' means 'into' or 'inward', not 'w-/nie lub do'.",
+    "suggestion": "Change to 'w/do' (into/inward) or 'do wewnątrz' (into the interior)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "injection",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Pielęgniarka dała mi zastrzyk, aby złagodzić ból' is grammatically awkward. The infinitive 'złagodzić' should be preceded by 'by' (a conditional particle), not 'aby' in this context, or the sentence should use a different construction.",
+    "suggestion": "Change to 'Pielęgniarka dała mi zastrzyk w celu złagodzenia bólu' or 'Pielęgniarka dała mi zastrzyk, żeby złagodzić ból'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "prediction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Prognoza pogody na jutro zapowiada deszcz' is awkward. 'Zapowiada' (announces/heralds) is not the natural verb choice here. It should use 'przewiduje' or simply state the forecast differently.",
+    "suggestion": "Change to 'Prognoza pogody na jutro mówi o deszczu' or 'Prognoza pogody na jutro przewiduje deszcz'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "dict (Latin dictio) means 'speaking/saying', not 'mówić' in the sense of general speech. In jurisdiction, -dict- comes from Latin 'dicere' (to say/speak) referring to pronouncing judgment, not generic 'mówić'.",
+    "suggestion": "parts[1].homeLang should be 'orzekać' or 'wydawać wyrok' to better capture the legal sense of pronouncing judgment",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The Polish translationShort is 'konstrucja' but this primarily means 'structure/design', not the act of construction. The word for the act/process is 'budowa' or 'konstruowanie'.",
+    "suggestion": "translationShort should be 'budowa' or 'konstruowanie' to match the process meaning in translationLong",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "construction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Konstrucja nowego mostu będzie trwać dwa lata' uses konstrucja (structure/design) when the example sentence is about the building process. The tense is also awkward.",
+    "suggestion": "exampleTranslation should be 'Budowa nowego mostu będzie trwać dwa lata.' or 'Budowanie nowego mostu będzie trwać dwa lata.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'rozległy zniszczenia' is grammatically incorrect. The adjective 'rozległy' (widespread) should agree with the noun in accusative case as 'rozległe zniszczenia' (feminine plural accusative), but more naturally it should be 'rozległe zniszczenie' (neuter singular) or restructured as 'spowodował rozległe zniszczenia'.",
+    "suggestion": "Change to: 'Huragan spowodował rozległe zniszczenia.' or 'Huragan spowodował ogromne zniszczenie.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "inspection",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'spect' is glossed as 'patrzenie' (looking/viewing), but in 'inspection' the Latin root 'specere' means 'to look' and 'spect-' specifically refers to the action of observing or examining. The gloss is oversimplified and doesn't capture that 'in-spect' literally means 'to look into/upon'.",
+    "suggestion": "Change to 'spect' → 'patrzenie/obserwacja' with a note that in context it means examining or observing something closely",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'plan jest zbyt ryzykowny' is missing the article/possessive agreement. In Polish, after 'Z mojej perspektywy' the sentence structure is awkward. The more natural phrasing would include 'moim zdaniem' or restructure the sentence.",
+    "suggestion": "Change to: 'Z mojej perspektywy plan jest zbyt ryzykowny.' or 'Moim zdaniem plan jest zbyt ryzykowny.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de-' is glossed as 'w dół, dokładnie' (down, precisely), but in 'description' it doesn't mean 'down' or carry a reversal sense. The 'de-' here is simply part of the Latin root 'describere' (to write down/depict) and doesn't function as a productive prefix with the meaning suggested. The gloss misleads by implying 'de-' reverses or negates the base meaning.",
+    "suggestion": "Revise the gloss to reflect that 'de-' in this word is part of the Latin root meaning 'write/depict' rather than a productive prefix meaning 'down' or 'reversal'. Consider: 'de (z łac. 'de-' część pierwotnego rdzenia łacińskiego)'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "depression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'rozbicia/odwrócenia' (breaking/reversal) is misleading. In 'depression', the 'de-' prefix does carry a downward sense (press down), but the gloss provided doesn't accurately reflect this. The word comes from Latin 'deprimere' (to press down), so 'de-' should mean 'down' not 'breaking/reversal'.",
+    "suggestion": "Change homeLang to 'w dół' (down) to accurately reflect the prefix meaning in this word, since 'depression' literally means 'pressing down'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "reference",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix '-ence' should be split into '-ence' (nominalizing suffix) but the entry treats it as a separate morpheme without explaining that it nomininalizes the verb 'fer'. The structure should clarify that -ence derives a noun from the root.",
+    "suggestion": "Consider adding homeLangDetails to the '-ence' part explaining it as a nominalizing suffix that creates nouns from verbs, similar to English '-ness' or '-ity'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'vert' is 'obracać' (to turn/rotate), but in 'conversion' the sense is closer to 'change' or 'transform'. While etymologically related to turning, the gloss may be misleading without context that 'vert' in Latin means 'to turn' which metaphorically extends to 'change'.",
+    "suggestion": "Either keep 'obracać' but add homeLangDetails clarifying the semantic extension to 'change/transform', or use a more direct gloss like 'zmieniać/zamieniać' (to change).",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "introversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'intro' is glossed as 'do wewnątrz' (to/inward), but 'intro' in 'introversion' is actually the prefix 'intro-' meaning 'inward/within'. The gloss 'do wewnątrz' describes direction but doesn't capture that 'intro' is a prefix operating on 'vert'. The structure conflates a prefix with a preposition.",
+    "suggestion": "Gloss 'intro' as 'do wewnątrz (prefiks)' or 'w stronę wnętrza' to clarify it's a prefix, or restructure to show intro- as a single prefix unit rather than treating it as a separate morpheme equivalent to a free morpheme.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"podwminanie\" appears to be a typo or nonsense word. The correct Polish word should be \"podważanie\" (undermining/subversion).",
+    "suggestion": "Change translationShort to \"podważanie\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split \"oc + cur + rence\" is incorrect. The correct morpheme split should be \"oc + cur + rence\" where \"oc\" should be \"ob\" (Latin prefix meaning \"toward\") and the root is \"currere\" (to run). The actual split should be \"ob + cur + rence\" or the prefix should be corrected.",
+    "suggestion": "Change the first part from \"oc\" to \"ob\" with homeLang meaning \"ku/wobec/w kierunku\" or clarify that \"oc\" is a variant form of \"ob\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "\"przykład lub wznowienie się czegoś\" (example or resumption of something) is inaccurate. Occurrence means an instance or event when something happens, not an example or resumption.",
+    "suggestion": "Change translationLong to \"przykład lub przypadek gdy coś się zdarza\" or \"fakt lub momen kiedy coś się pojawia lub zdarza\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-cur-rence' is incorrect. 'Cur' is not a standalone morpheme in 'recurrence'; it should be 're-curr-ence' where 'curr' relates to Latin 'currere' (to run). The current split breaks the root morpheme incorrectly.",
+    "suggestion": "Split as: re- (again) + curr- (run) + -ence (noun suffix)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'con-cur-ent' is incorrect. Should be 'con-curr-ent' where 'curr' relates to Latin 'currere' (to run). The current split breaks the root incorrectly.",
+    "suggestion": "Split as: con- (together) + curr- (run) + -ent (adjective suffix)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-cess-ion' is incorrect. Should be 're-ced-ent' or reconsidered: 'cess' in this word comes from Latin 'cedere' (to go/yield). The split 're-cess-ion' fragments the root incorrectly.",
+    "suggestion": "Split as: re- (back) + ced- (go/yield) + -ion (noun suffix)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'suc-cess-ion' is incorrect. 'Suc' should be 'sub' (under/after), and the root should be 'ced' from Latin 'cedere' (to go). Should be 'sub-ced-ion' or 'suc-ced-ion'.",
+    "suggestion": "Split as: sub/suc- (under/after) + ced- (go) + -ion (noun suffix)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits into 5 parts including a separate 'ed' morpheme, but 'ed' is not a separate suffix here. The word structure is un-precedent-ed where 'precedent' is the base adjective and '-ed' is applied to create the past participle/adjective form. The final '-ed' should be combined with or clarified as part of the adjective formation.",
+    "suggestion": "Consider splitting as: un- (not) + prec- (before) + ed- (go) + -ent (adjective) + -ed (past/adjective marker), or better yet: un- + precedent + -ed, treating 'precedent' as a compound requiring further analysis",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation uses 'события' (Russian word for 'events'), not Polish. It should be 'wydarzenia' or 'zdarzenia'.",
+    "suggestion": "Change to: 'Oba zdarzenia były jednoczesne, zaszły w tym samym czasie.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "transformation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'poprzez' (through/via) does not accurately represent the Latin prefix 'trans-'. While 'poprzez' can mean 'through', the prefix 'trans-' more accurately means 'across' or 'beyond', and the homeLangDetails conflates multiple meanings.",
+    "suggestion": "Change homeLang to 'przez/poprzez' or better yet 'na drugą stronę' (across), and clarify that trans- means 'across' or 'beyond', not just 'through' in the sense of 'via'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "interruption",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'krótkich przerwania' is grammatically incorrect in Polish. The accusative form should be 'krótkie przerwanie' (singular) or 'krótkie przerwy' (plural).",
+    "suggestion": "Change to: 'Podczas spotkania doszło do krótkiego przerwania.' or 'Podczas spotkania były krótkie przerwy.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "disruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'na części' (into pieces) is too literal and misleading. The prefix 'dis-' in 'disruption' means 'apart' or 'asunder', but more abstractly indicates reversal or negation, not necessarily 'breaking into pieces'.",
+    "suggestion": "Change homeLang to 'rozdzielenie' or 'rozbicie' with clarification that dis- indicates disruption/breaking apart, rather than the more general negation sense shown in the homeLangDetails examples.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The split 'cor' + 'rupt' + 'ion' is incorrect. The actual morpheme boundary is 'corrupt' (from Latin corruptus) + '-ion' (suffix). 'Cor-' is not a standalone morpheme in English; 'corrupt' is the root.",
+    "suggestion": "Split as: corrupt + -ion",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "autobiography",
+    "category": "incomplete_split",
+    "field": "parts[3].targetLang",
+    "issue": "The suffix '-y' is too vague and incomplete. The full suffix structure should be '-graphy' (from Greek -graphia, meaning 'writing/description'). The 'graph' part should include the '-y' or be restructured.",
+    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "biography",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-graphy' (from Greek -graphia). The 'graph' part should include the '-y' or be restructured.",
+    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-graphy' (from Greek -graphia). The 'graph' part should include the '-y' or be restructured.",
+    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "symphony",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-phony' (from Greek -phonia, meaning 'sound'). The 'phon' part should include the '-y' or be restructured.",
+    "suggestion": "Combine as 'phony' meaning '-fonia' (sound), or explicitly note that '-phony' is the complete suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "telephone",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'phone' is given as '-fon' which is not a Polish word and doesn't clarify meaning. Should indicate the Greek origin 'phōnē' (sound/voice) or provide Polish equivalent like 'głos' or 'dźwięk'.",
+    "suggestion": "Change homeLang to 'głos' or 'dźwięk' with homeLangDetails explaining the Greek etymon phōnē",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "microphone",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'phone' is given as '-fon' which is not a Polish word and doesn't clarify meaning. Should indicate the Greek origin 'phōnē' (sound/voice) or provide Polish equivalent.",
+    "suggestion": "Change homeLang to 'głos' or 'dźwięk' with homeLangDetails explaining the Greek etymon phōnē",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang and parts[2].homeLang",
+    "issue": "The suffix '-ize' should be split from the root. The full word structure is syn-chron-ize, but '-ize' is presented as a separate morpheme when it should be '-ize' (verb-forming suffix). The homeLang '-ować' is correct but this is a productive English suffix, not typically analyzed this way for English morphology. This entry conflates English and Polish morphological analysis.",
+    "suggestion": "Either remove the '-ize' morpheme entirely (keeping only syn+chron as the meaningful parts) or clarify that '-ize' is an English verb-forming suffix equivalent to Polish '-ować'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'dezagodę' appears to be a typo or error. The intended word is likely 'dezagodę' which doesn't exist in Polish, or possibly 'niezgodę' (disagreement). The sentence is grammatically awkward.",
+    "suggestion": "Change to: 'niepoprawne zrozumienie czegoś; nieporozumienie lub niezgoda' or 'niepoprawne zrozumienie czegoś; błędna interpretacja'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'whelm' should be noted as existing primarily in the compound 'overwhelm'. While technically correct to list it separately, the homeLangDetails could be clearer that this is not a productive independent morpheme in modern English and 'whelm' alone is archaic/literary.",
+    "suggestion": "Add to homeLangDetails: 'Uwaga: 'whelm' rzadko pojawia się bez prefiksu; jest to morfem związany, a jego samodzielne użycie jest archaiczne.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation is grammatically incorrect. 'Kolej przechodzące' has a gender mismatch (kolej is feminine, but przechodzące is in the wrong form). The sentence structure is also awkward.",
+    "suggestion": "Use: 'Kolej transkontynentalna połączyła wschodnie i zachodnie wybrzeża.' or 'Kolej przebiegająca przez cały kontynent połączyła wschodnie i zachodnie wybrzeża.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is unnecessarily complex and doesn't match the simpler English original. The phrase 'mogą być wymieniane między sobą bez wpływu na działanie urządzenia' (can be exchanged between each other without effect on device operation) is awkward and adds information not in the original.",
+    "suggestion": "Use: 'Te dwie części są wymienne i mogą być użyte w jednej lub drugiej pozycji.' or simply 'Te części są wymienne.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'rozstrzygnąć porządek' is unclear and potentially incorrect. 'Rozstrzygnąć' means 'to settle/decide' and doesn't fit the meaning of disorganize.",
+    "suggestion": "Should be something like 'wprowadzić chaos, zniszczyć porządek' or 'zaburzać organizację'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "modernization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ize' and 'tion' are split separately, but in English morphology, 'modernization' is better analyzed as modern + -ization (where -ization is a single suffix combining -ize and -tion), not as three separate parts.",
+    "suggestion": "Consider splitting as: modern + -ization, or if keeping three parts, clarify that -ize and -tion are a fused suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ize' and 'tion' are split separately, but 'industrialization' is better analyzed as industrial + -ization (where -ization is a single suffix), not as three separate parts.",
+    "suggestion": "Consider splitting as: industrial + -ization, or if keeping three parts, clarify that -ize and -tion are a fused suffix",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "encouragement",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'Encourage' itself contains the morphemes en + courage. The entry splits only at the top level without showing this internal structure.",
+    "suggestion": "Consider whether to split as: en + courage + -ment, or at least acknowledge the en- prefix in the analysis",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' (ad-) + 'point', where 'point' comes from Latin 'punctum' (point/dot). The entry treats 'appoint' as a single morpheme when it is itself a compound.",
+    "suggestion": "Split into: ap/ad (do/ku) + point (punkt/wskaźnik). Or keep 'appoint' as a single unit if treating it as a lexicalized base, but note this in the homeLangDetails.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation describes 'dis-' as a productive prefix with meanings like 'separation' or 'reversal,' but in 'disappointment,' the word is lexicalized from Old French 'desappointer' and the modern morphological analysis (dis- + appoint) does not reflect the historical formation. The synchronic reading may be misleading.",
+    "suggestion": "Add a note that 'disappointment' is a lexicalized compound where the 'dis-' prefix sense may not align with the original Old French etymology.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "The homeLangDetails already correctly identifies this as a frozen compound from Old French 'outrage' (not a productive out- + rage formation). However, including this lengthy etymology in a morpheme-learning game may confuse learners into thinking they can productively split it. The morphological analysis is misleading for practical language learning.",
+    "suggestion": "Either mark this entry as a frozen compound that should not be split for learning purposes, or simplify the explanation to note that 'outrage' functions as a single lexical unit in modern English, with the etymological note secondary.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ous' is glossed as '-ny' (Polish adjectival suffix), but '-ous' does not have a perfect one-to-one correspondence. The suffix '-ny' creates adjectives but has a different semantic range and frequency than English '-ous'. More accurate would be '-owy' or a note that '-ous' → '-ny/-owy/-owy-ny'.",
+    "suggestion": "Change to '-owy' or add homeLangDetails noting that English '-ous' typically maps to Polish '-owy', '-ny', or '-ny-owy' depending on the root.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "advantageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'courageous': the suffix '-ous' is glossed as '-ny', but '-owy' or '-owy-ny' would be more accurate for '-ous' in Polish.",
+    "suggestion": "Change to '-owy' or add homeLangDetails noting that English '-ous' typically maps to Polish '-owy', '-ny', or '-owy-ny'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'zauważyć, spostrzec' (to notice, to observe) is incomplete. 'Remark' as a verb means to say something or comment, and as a noun means a comment or observation. The current gloss misses the sense of 'saying' or 'commenting'.",
+    "suggestion": "Change to 'powiedzieć, skomentować' or 'zauważyć, uwaga' to better capture both the verbal and nominal senses",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'osiągnął godną uwagi recuperację' is awkward. 'Recuperację' (recuperation) is a formal medical term, and 'osiągnął' (achieved) is an odd verb choice here. The phrase sounds unnatural in Polish.",
+    "suggestion": "Change to 'Sportowiec dokonał godnego uwagi powrotu do zdrowia po urazie' or 'Sportowiec miał godny uwagi powrót do pełnej sprawności po urazie'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'compartment' + 'alize', not 'compartment' + 'al' + 'ize'. The suffix '-al' is not a separate morpheme here; '-alize' is the complete suffix.",
+    "suggestion": "Split into two parts: 'compartment' (przedział) and 'alize' (-ować, meaning to make or cause to be)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'dzielą na części swoje życie zawodowe i prywatne' is awkward. The phrase 'dzielą na części' (divide into parts) doesn't naturally convey the English meaning of compartmentalize. A more natural translation would be 'odseparowują' or 'rozdzielają'.",
+    "suggestion": "Change to: 'Niektóre osoby odseparowują swoje życie zawodowe i prywatne.' or 'Niektóre osoby rozdzielają swoje życie zawodowe i prywatne.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "carefully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '-ny/-na', but these do not correspond functionally. Polish '-ny/-na' is a general adjectival suffix, while English '-ful' specifically means 'full of' or 'characterized by'. The Polish equivalent would be closer to 'pełen' (full of) or a descriptive affix, not the generic '-ny'.",
+    "suggestion": "Either clarify that '-ful' means 'pełen czegoś' (full of something) or use a more specific Polish functional equivalent rather than the generic '-ny/-na'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Ostrożnie postawiła wazon na półce' uses 'ostrożnie' (cautiously), but the English example 'She carefully placed the vase on the shelf' suggests deliberate, attentive placement rather than caution. A more natural translation would be 'Uważnie postawiła wazon na półce' or 'Starannie postawiła wazon na półce'.",
+    "suggestion": "Change exampleTranslation to 'Uważnie postawiła wazon na półce' or 'Starannie postawiła wazon na półce' to better match the sense of careful/attentive action.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Nieostrożnie upuścił filiżankę' emphasizes caution, but 'carelessly' in 'He carelessly dropped the cup' emphasizes lack of attention/negligence. While not entirely wrong, 'Beztrosko/lekkomyślnie upuścił filiżankę' or 'Niedbalnie upuścił filiżankę' better captures the sense of carelessness as inattention.",
+    "suggestion": "Change exampleTranslation to 'Niedbalnie upuścił filiżankę' or 'Lekkomyślnie upuścił filiżankę' to better reflect carelessness as lack of attention.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Pomocnie wyjaśniła instrukcje' is grammatically awkward. 'Pomocnie' is not a standard Polish adverb. The natural form would be 'pomocniczo' or more idiomatically 'W pomocny sposób' or 'Z pomocą'.",
+    "suggestion": "Change exampleTranslation to 'Życzliwie wyjaśniła instrukcje' or 'Wyjaśniła instrukcje w pomocny sposób' for a more natural Polish expression.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLangDetails for 'ly' claims it 'Czasem tworzy też przymiotniki: przyjacielski, piękny' but those are not formed from -ie suffix. This is misleading and factually incorrect.",
+    "suggestion": "Remove the second sentence about creating adjectives, as -ie creates adverbs, not adjectives. Polish adjectives like 'przyjacielski' come from different morphological processes.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "hopelessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Sytuacja wydawała się rozpaczliwie trudna' is awkward. The adverb 'rozpaczliwie' (desperately/hopelessly) paired with 'trudna' (difficult) creates an odd construction. The example sentence 'dire' means something stronger.",
+    "suggestion": "Consider 'Sytuacja wydawała się beznadziejna/bez nadziei' or 'Sytuacja wydawała się rozpaczliwa' for a more natural Polish rendering.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation conflates two different meanings of 'thankfully'. The adverbial usage in the example sentence means 'fortunately/luckily' (fortunately no one was hurt), not 'with gratitude'. The translationLong should clarify this distinction.",
+    "suggestion": "Revise to 'na szczęście, z wdzięcznością' is incomplete—clarify that in the example context it means 'fortunately' (na szczęście), while 'with gratitude' is a different semantic use.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Ostrożnie rozważyła pytanie' means 'carefully/cautiously considered', but 'thoughtfully' implies considering with thought/care, not caution. The Polish word 'ostrożnie' emphasizes caution rather than the contemplative aspect of 'thoughtfully'.",
+    "suggestion": "Use 'Zastanawiając się, rozważyła pytanie' or 'Przemyślnie rozważyła pytanie' to better capture the reflective/contemplative meaning of 'thoughtfully'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The word 'bezbojowo' is not a standard Polish word and appears to be a mistranslation or neologism. The correct adverbial form of 'fearless' in Polish should use 'bez strachu' or 'odważnie'.",
+    "suggestion": "Use 'Żołnierz bez strachu maszerował do bitwy' or 'Żołnierz odważnie maszerował do bitwy' instead.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The entry splits 'beautifully' as beauty + ful + ly, but 'beauty' is itself derived from French 'beaute'. The morphological analysis should recognize that the base is the adjective 'beautiful' (beauty + -ful), not the noun 'beauty'. The structure should be: beautiful (beauty + -ful) + -ly, but since we're analyzing the final word, splitting it as 'beautiful' + 'ly' would be more accurate than 'beauty' + 'ful' + 'ly'.",
+    "suggestion": "Reconsider the split. Either: (1) split as 'beautiful' + 'ly' (two parts), or (2) keep the three-part analysis but clarify in homeLangDetails that 'beauty' here represents the adjective 'beautiful' not the noun, since -ful has already been applied.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Mówca wygłosił potężnie przekonujący argument' uses 'potężnie' (powerfully/mightily) but the English 'powerfully persuasive' means the argument itself was persuasive with force/impact, not necessarily 'mighty'. The translation should be more natural.",
+    "suggestion": "Change to: 'Mówca wygłosił mocno przekonujący argument' or 'Mówca przedstawił argument o dużej sile perswazji' to better capture the sense of 'powerfully persuasive'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'employ' is given as 'zatrudnienie' (noun: employment/job), but 'employ' is a verb. The correct translation should be 'zatrudniać' (to employ/hire).",
+    "suggestion": "Change 'zatrudnienie' to 'zatrudniać'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "development",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation conflates the etymology ('devoluper' from Old French meaning 'to unfold/unwrap') with the synchronic Polish morpheme 'wijać/otulać' (to wrap). The Polish glosses don't accurately represent what 'velop' means in the context of the English morpheme 'develop'.",
+    "suggestion": "Clarify that 'velop' comes from Latin 'volvere' (to roll/turn), which is the actual etymological source, not the Polish 'wijać' analogy.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "improvement",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Poprawa w jej ocenach' is awkward. The more natural Polish phrasing would be 'Poprawa jej ocen' or 'Polepszenie się jej ocen'.",
+    "suggestion": "Change to 'Poprawa jej ocen była wynikiem ciężkiej pracy.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'ad-vert-ise-ment', but the standard morphological split should be 'advertise' (the verb base) + '-ment' (the suffix). 'Advertise' itself is 'ad-vert-ise', but breaking it into 'ad-vert-ise-ment' treats '-ise' as a separate morpheme when it's part of the verb stem. The entry shows four parts when there should be two main parts: 'advertise' + 'ment'.",
+    "suggestion": "Reorganize the parts to show: (1) ad-vert-ise (as the full verb stem, or break down as ad + vert + ise if you want full morphological decomposition, but don't separate -ise as an independent suffix before -ment)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Ogłoszenie nowego produktu pojawiło się w telewizji' is slightly awkward. More natural would be 'Reklama nowego produktu pojawiła się w telewizji' or 'Ogłoszenie/reklama dotycząca nowego produktu pojawiła się w telewizji'.",
+    "suggestion": "Change to 'Reklama nowego produktu pojawiła się w telewizji.' (using 'reklama' which is the standard term for advertisement in Polish)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'trzymać' (to hold) is misleading. While etymologically 'tain' comes from Latin 'tenere' (to hold), in 'entertain' it means 'to amuse/divert', not literally 'to hold'. The Polish explanation tries to force a metaphorical connection ('holding attention') that doesn't reflect the actual modern meaning.",
+    "suggestion": "Change homeLang to 'zabawiać/bawiać' or 'dostarczać rozrywki' to reflect the actual meaning of the word in English",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "replacement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'place' in 'replacement' doesn't come from the noun 'place' (location). It comes from the verb 'place' (to put/to position), which is related to the noun but represents a different morphological history. The gloss should reflect the verb form.",
+    "suggestion": "Change homeLang to 'umieszczać/kłaść' to reflect that this is derived from the verb, not the noun",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'wycofać' (to withdraw) is too specific. The 'tir-' in retirement comes from 'tire' (to draw/pull), and while 'wycofać' can work semantically, it's not the most direct translation. More importantly, the explanation conflates 'tired' (zmęczony) with retirement, which is incorrect - 'tired' comes from a different etymological path.",
+    "suggestion": "Change homeLang to 'ciągnąć/pociągać' and remove or correct the reference to 'zmęczony' in homeLangDetails",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'niestety, niestety' is repetitive and incorrect. 'Unfortunately' means 'niestety' (unfortunately/sadly), not 'niestety, niestety' (unfortunately, unfortunately). The word does not mean 'in misfortune' or relate to failure.",
+    "suggestion": "translationShort should be 'niestety' or 'niestety, nieszczęśliwie'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'w niepowodzeniu' (in failure/unsuccessfully) is not an accurate translation of 'unfortunately'. The word means 'sadly/regrettably', not 'in failure'.",
+    "suggestion": "translationLong should be 'niestety, z żalem, nieszczęśliwie' or similar",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'fortunate' should be further split into 'fortun' + 'ate' to show the full morphological structure and that '-ate' is an adjective-forming suffix.",
+    "suggestion": "Split 'fortunate' into 'fortun' (szczęścia/fortuny) and 'ate' (suffix forming adjectives)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'expect' should be further analyzed or 'ed' should be labeled more clearly. The structure is actually 'un + expect + ed + ly', but the current split shows 'ed' separately without indicating it modifies 'expect'. The '-ed' here creates an adjective (unexpected), not a past tense verb.",
+    "suggestion": "Clarify that 'ed' here creates an adjective (unexpected) from the verb 'expect', or restructure to show 'un + expected + ly'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unhealthy",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix 'y' should be more thoroughly labeled. While it is glossed as '(przymiotnikowy)' (adjectival), it should explicitly state that it forms adjectives from nouns (health → healthy), similar to how the '-ly' suffix is described in other entries.",
+    "suggestion": "Add homeLangDetails for 'y' explaining it forms adjectives from nouns, e.g., 'Tworzy przymiotniki z rzeczowników: health to healthy, luck to lucky'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'Rozsądek' (common sense/reasonableness) is only partially accurate. The morpheme 'reason' in 'unreasonable' means 'powód' (reason/cause) or 'rozsądek' (sense), but the primary meaning here relates to 'powód/uzasadnienie' (justification/grounds). The translation should reflect the broader sense.",
+    "suggestion": "Change homeLang to 'powód/rozsądek' or provide more nuanced homeLangDetails explaining both senses",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ing' is listed separately as a gerundium marker, but it's actually part of the participial form 'willing' (will + ing). The structure should be: un- + will + ing + -ness, where 'willing' is the adjective derived from the verb 'will'. The current split treats 'ing' as an independent morpheme rather than recognizing it as part of the 'willing' base form.",
+    "suggestion": "Restructure parts to: (1) un-, (2) willing (or split as will + ing combined), (3) -ness. Alternatively, keep it as un- + willing + -ness without separating the -ing component.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "reconsideration",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split skips the intermediate -ation suffix. The word structure is re- + consider + -ation, but 'tion' alone is listed. In English morphology, -ation is the complete suffix (not just -tion), and -tion is more accurately part of -ation as a single morpheme. The split should reflect the actual morpheme boundary.",
+    "suggestion": "Change the third part from 'tion' to '-ation' with the homeLang 'acja' and appropriate explanation. Or explicitly list: (1) re-, (2) consider, (3) -ation.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation \"reorganizacja, zmiana układ\" has a grammatical error. \"układ\" should be in the genitive case \"układu\" after the preposition implied by the noun.",
+    "suggestion": "reorganizacja, zmiana układu",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The morpheme '-ing' is labeled as '(forma gerundium)' but lacks a proper Polish translation/equivalent. The Polish homeLang field should specify what '-ing' means in Polish (e.g., '-owanie' or gerund form).",
+    "suggestion": "Add homeLang value like '-owanie' or 'forma gerundium/-owanie' to clarify the Polish equivalent",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'wprowadzenie, prezenentacja' contains a typo ('prezenentacja' instead of 'prezentacja') and is somewhat misleading. 'Introduction' primarily means 'wprowadzenie' or 'wstęp', not 'prezentacja'.",
+    "suggestion": "Change to 'wprowadzenie, wstęp' or simply 'wprowadzenie'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "production",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Fabryka zwiększyła produkcję, aby sprostać popyto.' is grammatically incorrect. 'Popyto' is not a valid Polish word; it should be 'popytowi' (dative case) or 'popytom' (dative plural).",
+    "suggestion": "Change to 'Fabryka zwiększyła produkcję, aby sprostać popytowi.' or 'Fabryka zwiększyła produkcję, aby sprostać wzrastającemu popytowi.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'pro-nunc-iation' but should be split as 'pro-nun-ci-ation'. The 'nunc' part is not a real morpheme; 'nun' comes from Latin 'nuntiare' (to announce), and '-ci-' is a connecting vowel before '-ation'.",
+    "suggestion": "Correct the split to: pro- (forward) + nun- (announce) + -ci- (connecting) + -ation (act/result)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'ex-plan-ation' but 'plan' is not the correct morpheme boundary. It should be 'ex-plain' (from Latin 'planare' meaning to flatten/make clear) + '-ation'. The current split treats 'plan' as if it relates to Polish 'płaski' (flat), which is etymologically tenuous.",
+    "suggestion": "Correct to: ex- (out) + plain (from Latin planare, to make clear/flatten) + -ation",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'am' is incorrectly identified. The correct root is 'exam-' which comes from Latin 'examinare'. The split should be 'ex-amin-ation', not 'ex-am-ination'. The gloss '-ważyć' (to weigh) is also misleading; 'amin' relates to 'examine/test', not weighing.",
+    "suggestion": "Correct to: ex- (out) + amin- (examine/test) + -ation, or keep the full 'exam-' as a single morpheme",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'ag' is incorrect. The correct root is 'imag-' from Latin 'imaginari'. The split should be 'im-agin-ation', not 'im-ag-ination'. The gloss '-obraz' (image) is closer in meaning but applied to the wrong morpheme boundary.",
+    "suggestion": "Correct to: im- (into/not) + agin- (image) + -ation",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Wyobraźnia dzieci zna granice' is grammatically awkward and semantically backwards. It literally means 'Children's imagination knows limits' when it should express that imagination has NO limits or is boundless.",
+    "suggestion": "Change to: 'Wyobraźnia dzieci nie zna granic.' (Children's imagination knows no limits.)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "population",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'pop-ulation' but 'pop' does not directly mean 'ludzie' (people). The correct root is 'popul-' from Latin 'populus' (people/nation). The split should be 'popul-ation', not 'pop-ulation'.",
+    "suggestion": "Correct to: popul- (people) + -ation",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The primary meaning of 'reflection' is not limited to light reflection. The short translation should capture the broader sense of the word, which includes mental reflection/contemplation.",
+    "suggestion": "Change translationShort to something like 'odbicie lub namysł' or 'myślowe rozważanie' to better represent the full semantic range",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme split is incorrect. 'vit' is not a standalone morpheme; the correct split should be 'invit' (from Latin invitare, to invite) + '-ation'. The 'in-' prefix combines with 'vit' to form 'invit'.",
+    "suggestion": "Change parts[1].targetLang from 'vit' to 'vit' and reconsider: actually, the split should be 'in' + 'vit' + 'ation', but 'vit' alone is not standard. Better approach: 'invite' + 'ation' or 'in' + 'vite' + 'ation'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "'par' is not the correct morpheme boundary. The word 'preparation' comes from Latin 'praeparare' (prae + parare). The correct split should recognize 'prepare' as the base, not isolate 'par'.",
+    "suggestion": "Change to 'pre' + 'pare' + 'ation' with parts[1].targetLang as 'pare' (to prepare) and parts[1].homeLang as 'przygotowywać/przygotowywać się'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "simplification",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The suffix '-ify' should be split into '-fy' or kept as '-ify', but the morphological structure is 'simple' + '-fy' + '-ation', not 'simple' + '-ify' + '-ation'. The '-ation' suffix already accounts for the nominalization.",
+    "suggestion": "The split could be 'simpl' + 'ify' + 'ation' or more accurately 'simple' + '-fication' as a unit, since '-fication' is a common English suffix (not '-ify' + '-ation' as separate steps).",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "simplification",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'sprawiło, że gra jest łatwiejsza w grę' is grammatically awkward. The phrase 'w grę' (in/into the game) is incorrect here.",
+    "suggestion": "Change to 'Uproszczenie reguł sprawiło, że gra jest łatwiejsza do gry.' or 'Uproszczenie reguł sprawiło, że grę łatwiej się gra.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The split 'sat' + 'is' + 'faction' is misleading. The correct etymology is Latin 'satisfacere' (satis + facere). The modern English morpheme breakdown should be 'satisfy' + '-action' or 'satis' + 'fy' + '-action', not 'sat' + 'is' + 'faction'.",
+    "suggestion": "Revise to 'satisfy' (satis + facere, meaning to do enough/fully) + '-tion', or 'satis' + 'fy' + '-tion'. The current split obscures the actual Latin roots.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme split is incorrect. 'evaluation' is not 'e-val-uation' but rather 'e-valu-ation'. The 'e' prefix is not a separate morpheme here; 'evaluate' is the root verb, and 'e-val' comes from Latin 'ex-valere' (to be strong/worth), making the correct split 'evalu(ate) + -ation'.",
+    "suggestion": "Reconsider the split. The prefix 'e-' in 'evaluate' is not productive in English and misleads learners. Better approach: 'evalu' (from Latin valere, to be worth) + '-ation', or treat 'evaluate' as the base + '-ation'.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss 'eks-' (ex-) with the meaning 'na zewnątrz, były, albo daleko' does not accurately apply to the 'e-' in 'evaluation'. While 'ex-' can mean 'outside' or 'former', in 'evaluate' it comes from Latin 'ex-valere' (to determine worth) and does not carry those meanings. The homeLang explanation is misleading.",
+    "suggestion": "Either remove this entry's morpheme analysis or reframe it to show 'evaluate' as the base root (Latin 'valere' = to be strong/worth) + '-ation', without claiming an 'ex-' prefix with the meanings listed.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "understandable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'understand' does not decompose as 'under' + 'stand' in the synchronic sense. 'Understand' comes from Old English 'understandan', where 'under-' originally meant 'between/among', not 'below' as modern English suggests. The modern morphemic reading is misleading because 'stand' has no direct semantic connection to comprehension.",
+    "suggestion": "Flag this as a frozen compound. While historically 'under' + 'stand' exists, modern English speakers do not productively interpret it this way. Either omit the morphemic breakdown or note that it is etymologically analyzable but not synchronically transparent.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'To była niesamowita występ!' is grammatically incorrect. 'Występ' is masculine, so the adjective should be 'niesamowity' not 'niesamowita'. Also, 'wykonanie' (performance/execution) would be more natural than 'występ' in this context.",
+    "suggestion": "To była niesamowita wykonanie! or To był niesamowity występ!",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "impossible",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'poss' should be split further into 'poss' + 'ible'. However, the actual issue is that 'impossible' is structured as 'im-' + 'possible', where 'possible' is itself the root. The entry incorrectly splits 'possible' into 'poss' + 'ible' when 'possible' should be treated as a single unit.",
+    "suggestion": "Consider splitting as: 'im-' (not-) + 'possible' (possible), rather than 'im-' + 'poss' + 'ible'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'nie można tego zrobić lub się stanie' is awkwardly constructed and unclear. Also 'niepossible' at the end is English mixed with Polish and is unnatural.",
+    "suggestion": "nie można tego zrobić; coś, czego się nie da zrobić",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'niech odpowiedzialny' appears to be corrupted or incomplete. It should start differently. The phrase 'niewiarygodny lub niewykonalny' doesn't properly convey the meaning of 'irresponsible'.",
+    "suggestion": "nie odpowiedzialny; niech odpowiedzialny za swoje działania; nieniezawodny",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Byłoby nieodpowiedzialne opuszczanie pracy wcześnie' is awkwardly constructed with the gerund 'opuszczanie'. More natural would use an infinitive or different structure.",
+    "suggestion": "Byłoby nieodpowiedzialne wcześnie opuszczać pracę. or Opuszczenie pracy wcześnie byłoby nieodpowiedzialne.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The description conflates two unrelated functions of 'ir-'. The prefix 'ir-' is simply the negation prefix (not reversible), not a prefix meaning 'w' or 'do' (in/into). The homeLangDetails incorrectly suggests 'ir-' has the dual meaning of negation AND direction (like 'import'), but in 'irreversible' it only negates.",
+    "suggestion": "Simplify to: \"Przedrostek negacji: 'nie-' (nieaktywny, niemożliwy, nielegalny). To działa podobnie jak polski przedrostek 'nie-' lub 'bez-'.\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "Same issue as 'irreversible': the description conflates negation with direction/location meaning. The prefix 'in-' here is purely negation (not destructible), not a prefix meaning 'w' or 'do'.",
+    "suggestion": "Simplify to: \"Przedrostek negacji: 'nie-' (nieaktywny, niemożliwy, nielegalny). To działa podobnie jak polski przedrostek 'nie-' lub 'bez-'.\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The second part 'historic' should be further split into 'history' (historia) + '-ic' (-iczny), since the entry is meant to teach morpheme decomposition.",
+    "suggestion": "Split as: pre + historic + -ic, or alternatively: pre + history + -ic",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "submarine",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation uses incorrect verb conjugation and gender agreement. 'Zanurzył się' (masculine singular past) doesn't agree with 'Łódź podwodna' (feminine singular). Should be 'zanurzyla się' or better 'zanurzyła się'.",
+    "suggestion": "Łódź podwodna zanurzyła się na wielkie głębokości pod oceanem.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase 'sam z siebie' is awkward and unnatural in Polish. It literally means 'by itself from itself' which is redundant. The phrase should better reflect the adverbial form.",
+    "suggestion": "Something like 'automatycznie, bez udziału człowieka' or simply 'samoistnie, bez ingerencji' would be more natural.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "geography",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'ziemia' (earth/land) is misleading. 'Geo-' comes from Greek 'gē' (earth), not Polish 'ziemia'. While the meaning happens to overlap, the etymological connection is not through Polish.",
+    "suggestion": "Consider noting that 'geo-' is Greek for earth/land, or provide the Greek etymology rather than Polish translation",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "geography",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'graph' means 'to write/writing', but the gloss '-grafem' is not a standard Polish word. The correct Polish term would be '-grafia' or 'pisanie'.",
+    "suggestion": "Change '-grafem' to '-grafia' (from Greek graphia) or use 'pisanie' (writing)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "'respons' is not the correct morpheme boundary. The word should be split as 'respond' (from Latin respondere - to answer/reply) + '-ibility' (ability/capacity). 'Respons' alone is not a morpheme.",
+    "suggestion": "Change parts[0].targetLang to 'respond' and adjust homeLang to reflect 'odpowiadać' (to answer/respond)",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'zależy od prądu elektrycznego do zasilania' is awkward. 'Prąd' means current, not electricity generally. More natural would be 'elektryczność' or 'energię elektryczną'.",
+    "suggestion": "Change to: 'Większość nowoczesnych domów zależy od energii elektrycznej.' or 'Większość nowoczesnych domów potrzebuje elektryczności do zasilania.'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The first morpheme should be 'flex' (the root), but 'flex' alone is not a standalone morpheme with the meaning 'giętkość' (flexibility). The word structure is flex+ible+ity, not flex as a complete unit meaning flexibility.",
+    "suggestion": "Change parts[0].homeLang from 'giętkość' to a more accurate gloss like 'zginać się' or 'elastyczny' that reflects the Latin root 'flectere' (to bend), not the full word flexibility",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix 'ible' is glossed as '-alny' (capable), but this is imprecise. The suffix '-ible' is a variant of '-able' meaning 'capable of being' or 'worthy of being'. The Polish '-alny' doesn't perfectly capture this function.",
+    "suggestion": "Change to '-owy' or add clarification that it's '-able/-ible' meaning 'capable of being/worthy of being': perhaps '-zdolny' or keep '-alny' but refine the homeLangDetails",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "nationality",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The example 'naturalny' (natural) is given to illustrate the suffix '-al', but 'naturalny' is not formed from '-al' in the same productive way; it's a separate word. The suffix '-al' does appear in words like 'narodowy' (national), but 'naturalny' is misleading as an example.",
+    "suggestion": "Replace 'naturalny' with a better example like 'narodowy' (national) or 'przemysłowy' (industrial) that clearly shows the '-al' suffix at work",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "creatively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split is incomplete. 'create' should be further split into 'creat' (root) + 'e' (infinitive marker), as the suffix '-ive' attaches to 'creat', not 'create'.",
+    "suggestion": "Split as: creat + e (infinitive) + iv (suffix) + ly, or alternatively adjust the parts to reflect that 'create' is the base form and '-ive' converts it to an adjective.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation contains a Russian word 'привлекающий' (Cyrillic text) which should not appear in a Polish translation. The meaning is also somewhat awkward with 'lub' (or).",
+    "suggestion": "Should read: 'w sposób, który jest przyjemny, pociągający lub wizualnie atrakcyjny; w angażujący sposób' or simply 'w sposób, który jest atrakcyjny, pociągający lub wizualnie przyjemny'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0]",
+    "issue": "The prefix 're-' in 'researcher' does not carry the meaning of 'repetition' or 'return'. In 'researcher', 're-' is part of the French loanword 'recherche' (meaning 'search/inquiry'), not a productive English prefix meaning 'again'. The homeLangDetails explanation is misleading as applied to this word.",
+    "suggestion": "Either mark this as a frozen compound where 're-' is not a separable morpheme with its typical meaning, or reconsider the splitting entirely. The word could be split as just 'research' + 'er' without the 're-' prefix as a separate meaningful unit.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "developer",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'develop' should be further split into 'develop' (root from French 'développer') or at minimum 'de' + 'velop'. However, since this is a simple base form, the split 'develop + er' is acceptable, but the structure is incomplete compared to the morphological depth shown in other entries.",
+    "suggestion": "Either keep as is (develop + er) if treating 'develop' as an atomic base, or split into 'de' + 'velop' + 'er' to maintain consistency with the depth of morphological analysis in other entries.",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation uses \"komunikatorka\" which is not a standard Polish word. The correct term would be \"komunikantka\" or more naturally \"osoba o wysokich umiejętnościach komunikacyjnych\" or simply \"świetna mówczyni publiczna\".",
+    "suggestion": "Change to: \"Jako osoba o wysokich umiejętnościach komunikacyjnych, doskonale radzi sobie w wystąpieniach publicznych.\" or \"Jako świetna mówczyni publiczna, doskonale radzi sobie w wystąpieniach publicznych.\"",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'mun' is glossed as 'wspólny' (common/shared), but in 'communicate' it derives from Latin 'munis' (duty/service), not 'communis' (common). The morpheme here means something closer to 'shared burden' or 'service,' not simply 'common.'",
+    "suggestion": "Change homeLang to 'wspólna służba' or 'wspólny obowiązek' to better reflect the etymological sense",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "investigate",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'vestig' should be further analyzed as 'vestig-ium' where the Latin suffix '-ium' (noun-forming) is part of the root. However, more critically, the split conflates the root with its suffix form. In the verb form 'investigate,' the actual morpheme is 'vestig-' (the root), not 'vestig' in isolation.",
+    "suggestion": "Consider whether to represent this as 'vestig-' to clarify it's a root, or provide more precise etymological detail about how Latin noun 'vestigium' relates to the verbal root",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Polish translation 'Chciałbym Cię pogratulować doskonałego wykonania!' is slightly awkward. The preposition and case are not standard in Polish. Standard Polish would use 'Chciałbym Ci pogratulować doskonałego wykonania!' (dative 'Ci' instead of accusative 'Cię') or 'Chciałbym pogratulować Ci/Tobie doskonałego wykonania!'",
+    "suggestion": "Change to 'Chciałbym Ci pogratulować doskonałego wykonania!' or 'Chciałbym pogratulować Tobie doskonałego wykonania!'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split into 4 parts (mis, inter, pret, et) but 'et' is not a separate morpheme—it's part of the Latin root. The correct split should be: mis + interpret (or mis + inter + pret). The '-et' is not a productive English morpheme and including it creates a false analysis.",
+    "suggestion": "Remove the 'et' part or restructure to: parts = [mis, interpret] or [mis, inter, pret] without the '-et'",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'wyjaśniać' (explain) is misleading. 'Pret' comes from Latin 'praetere' or from 'interpretari', not from a meaning 'to explain'. The morpheme should be glossed as relating to 'interpretation' or 'meaning', not as a standalone prefix meaning 'explain'.",
+    "suggestion": "Change homeLang to something like 'interpretacja/znaczenie' or provide the correct etymological root without overstating the 'explain' meaning",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'Inter' should not be a separate part here. 'Misinterpret' is mis- + interpret, not mis- + inter- + pret-. The 'inter-' prefix is already baked into the word 'interpret' and splitting it out creates a false analysis of the word's structure.",
+    "suggestion": "Restructure to: [mis, interpret] or at minimum clarify that 'inter' is part of the root, not an independent prefix in this word",
+    "source_file": "en-pl.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'Con' is glossed as 'kon-/razem' (together) but in 'deconstruct', the 'con-' is part of 'construct' (con- = together + struct = build). It's not functioning as an independent prefix here; it's baked into the root word 'construct'.",
+    "suggestion": "Restructure the split to [de, construct] to avoid misleading the learner, or clarify that 'con' is part of the root 'construct' rather than a separate prefix",
+    "source_file": "en-pl.json"
+  }
+]

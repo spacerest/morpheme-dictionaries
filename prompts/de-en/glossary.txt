@@ -1,0 +1,54 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+
+# Prefixes
+ver- | for-/away | A prefix with several related senses. It can give a verb a sense of completion or formal enactment (as in verabschieden, to formally say goodbye), transformation (verwandeln, to transform), or going wrong or astray (versprechen, to misspeak). Its exact shade shifts with each word.
+be- | (on/about) | Turns intransitive verbs into transitive ones, or focuses the action on a specific object. Think of it as making the verb reach out and grab something -- besuchen (to visit) vs suchen (to search), bedecken (to cover) vs decken (to lay).
+er- | (to completion) | Signals that an action reaches completion or brings about a new state. Erkennen is not just knowing -- it is the moment recognition arrives. The same prefix appears in erwachen (to awaken) and erschaffen (to create).
+ge- | (collective/done) | One of the most versatile prefixes in German. It marks past participles (gemacht, done), forms collective nouns (Gebirge, mountain range, from Berg), and gives a sense of things coming together.
+ent- | away/un- | Suggests removal, separation, or the very beginning of a process. Entscheiden is to cut away the options and decide; entstehen is for something to begin coming into being.
+un- | un-/not | The straightforward negating prefix, like English un-. Turns the meaning of the base word on its head. Found in hundreds of German words: unglaublich (unbelievable), Unruhe (unrest).
+miss- | mis- | Signals that something went wrong or was done incorrectly, like English mis-. Missverstaendnis (misunderstanding), misslingen (to fail or go wrong).
+aus- | out | Points outward, away from a source, or to full completion. Ausgehen is to go out; ausschlafen is to sleep all the way through until fully rested.
+auf- | up/open | Suggests upward movement, opening, or the start of something. Aufstehen (to stand up), aufmachen (to open), aufhoeren (to stop -- literally to hear something to the very end).
+an- | at/on | Points toward something or signals the beginning of contact. Anrufen (to call), ankommen (to arrive), anfangen (to begin, literally to grab on to something).
+ab- | away/off | Points away, downward, or signals separation and completion. Abfahren (to depart), abgeben (to hand over), abschneiden (to cut off).
+vor- | fore-/before | Something happening before, in front of, or in advance. Vorbereiten (to prepare, to ready something beforehand), vorstellen (to introduce, to place before someone).
+nach- | after/following | After, behind, or following something. Nachdenken (to think after or about something), nachmachen (to imitate, to do after someone else).
+uber- | over/above | Over, above, or across -- and sometimes excess or crossing a threshold. Uebersetzen (to translate, to set across), uebertreiben (to exaggerate, to drive past the limit).
+unter- | under/below | Under or below. Can suggest support from below or being subordinate. Unterstuetzen (to support, to prop up from underneath), unterstreichen (to underline).
+mit- | with/together | Together with or accompanying. Mitbringen (to bring along), mitdenken (to think along with someone, to follow their reasoning).
+zuruck- | back | Back, or a return to a previous state. Zurueckgehen (to go back), zurueckgeben (to give back, to return something).
+zusammen- | together | Together or combined into one. Zusammenarbeiten (to work together), Zusammenhang (connection, literally a hanging-together of things).
+um- | around/re- | Around something, or a reversal and transformation. Umdrehen (to turn around), umbenennen (to rename, to call something around to a new name).
+durch- | through | Through, all the way, or to completion. Durchhalten (to persevere, to hold through to the end), durchlesen (to read all the way through).
+ein- | in/into (directional) or one/single (numeral) | Two distinct meanings. Directional prefix meaning "in, into": einschlafen (fall asleep, sleep oneself in), einkaufen (shop, buy in), einwanderung (immigration, wandering in). Numeral prefix meaning "one, single, united" when derived from the numeral eins: einseitig (one-sided), einheitlich (uniform, of one kind), einfamilienhaus (single-family home). Context determines which sense applies — if the word relates to direction or entering, use "in/into"; if it relates to oneness, singularity, or unity, use "one/single".
+selbst- | self- | Self. Appears in compound nouns and adjectives where the subject acts on or refers to itself. Selbstvertrauen (self-confidence), selbststaendig (independent, self-standing).
+wider- | against | Against or in opposition to something. Widerstand (resistance, a standing-against), widersprechen (to contradict, to speak against).
+
+# Suffixes
+-ung | -tion/-ing | The most common German noun-forming suffix. Turns a verb into a noun for the action, its process, or its result. Verwandlung (transformation, from verwandeln), Bedeutung (meaning, from bedeuten). Always feminine.
+-heit | -ness | Forms abstract nouns from adjectives, referring to a state or quality. Gesundheit (health, from gesund), Freiheit (freedom, from frei). Always feminine.
+-keit | -ness | The same role as -heit, used after stems ending in -lich, -ig, or -sam. Freundlichkeit (friendliness), Moeglichkeit (possibility). Always feminine.
+-schaft | -ship/-hood | Forms collective or abstract nouns, similar to English -ship or -hood. Freundschaft (friendship), Gesellschaft (society, a being-together of people), Wissenschaft (science, knowledge-craft).
+-lich | -ly/-like | Turns nouns or verbs into adjectives meaning like or characteristic of. Freundlich (friendly), taeglich (daily), moeglich (possible). Often matches English -ly or -like.
+-ig | -y/-ish | Forms adjectives meaning having the quality of or characterized by. Hungrig (hungry), wichtig (important, weighty), maechtig (powerful, mighty).
+-los | -less | The German suffix for without, matching English -less. Sinnlos (senseless), hoffnungslos (hopeless), grenzenlos (limitless).
+-bar | -able | Signals that something can be done, matching English -able or -ible. Machbar (doable), erkennbar (recognizable), verwendbar (usable).
+-sam | -some | A suffix meaning inclined toward or characterized by. Langsam (slow), achtsam (mindful), gemeinsam (shared or common, together-inclined).
+-er | -er | Forms agent nouns -- the person or thing that does the action. Lehrer (teacher), Fahrer (driver), Baecker (baker). One of the most productive suffixes in German.
+-en | (infinitive) | The standard infinitive ending for German verbs, equivalent to English to. All German infinitives end in -en or rarely -n. It also appears in plural noun forms, so context matters.
+-isch | -ish/-ic | Forms adjectives, often for things relating to a field, style, or origin. Technisch (technical), kindisch (childish), typisch (typical).
+
+# Linking elements (Fugenlaute -- no independent meaning)
+-s- | - | A Fugenlaut, a connective sound inserted between compound parts for ease of pronunciation. It carries no meaning of its own and is one of the most common linking elements in German compounds.
+-es- | - | A Fugenlaut variant inserted between compound parts. Like -s-, it carries no independent meaning and exists purely to smooth the join between morphemes.
+-en- | - | A Fugenlaut variant inserted between compound parts. It looks like a plural ending but here carries no grammatical meaning -- it just connects the parts.
+
+# Prefixes
+zer- | apart, to pieces | Think of English "scatter" or "shatter" -- zer- takes a verb and adds the sense of breaking something into pieces or destroying it completely. It's very productive and consistent: *zerstören* (to destroy), *zerbrechen* (to break apart), *zerschneiden* (to cut up). If something gets zer-ed, it probably won't be usable afterward.
+über- | over, above, across | This one maps almost perfectly onto English "over-" in both its physical and figurative senses. You'll see it meaning physically above (*überbrücken*, to bridge over), exceeding a limit (*übertreiben*, to exaggerate, literally to over-drive), or covering something completely (*übersetzen*, to translate, to ferry across). Watch out -- it can be separable or inseparable depending on the verb.
+# Suffixes
+-nis | result, state, thing | This suffix turns verbs or adjectives into nouns, usually naming the result or condition of something. It's a bit like English "-ness" or "-ment" in feel. Common examples include *Ergebnis* (result), *Kenntnis* (knowledge), and *Erlebnis* (experience). Nouns ending in -nis are usually neuter, though a handful are feminine.
+-schaft | -ship, -hood, -dom | You'll recognize this one immediately from English "-ship" -- they're actually cognates. It forms nouns describing a collective group, a shared condition, or an abstract relationship. Think *Freundschaft* (friendship), *Gesellschaft* (society, company), and *Mannschaft* (team). It always produces a feminine noun, so it's always die -schaft.
+# Roots and stems
+-fahr- | travel, journey, ride | This root comes from the verb *fahren* (to travel, to drive, to ride) and shows up across a huge family of everyday words. You'll spot it in *Erfahrung* (experience, literally a journeying-through), *Gefahr* (danger, from an old sense of what you encounter on a journey), *Fahrzeug* (vehicle), and *Bahnhof* (well, paired with *fahren* in countless compound signs). Recognizing it helps unlock a surprisingly wide cluster of common vocabulary.

@@ -1,0 +1,118 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Prefixes -- Germanic/Old English
+un- | un-/not | The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable.
+re- | re-/again | Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with "doing again" or "going back."
+over- | over-/too much | Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for "above" in older compounds.
+under- | under-/too little | The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform).
+out- | out-/beyond | Points outward or signals surpassing something: outnumber, outstanding, outrun.
+mis- | mis-/wrongly | Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent.
+fore- | fore-/before | Before or in front. Forecast, foresee, forehead.
+
+# Prefixes -- Latin
+in-/im-/il-/ir- | in-/not or into | A chameleon prefix with two distinct meanings: "not" (inactive, impossible, illegal) and "into" (insert, import). The spelling shifts to match the following sound.
+ex-/e-/ef- | ex-/out of | Out of, former, or away. Exhale, export, eject, ex-president.
+con-/com-/co-/col-/cor- | con-/together | With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound.
+de- | de-/down/undo | Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word.
+dis- | dis-/not/apart | Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-.
+pre- | pre-/before | Before in time or position. Predict, prepare, prehistoric.
+pro- | pro-/forward/for | Forward, in favor of, or in place of. Progress, produce, pronoun.
+sub- | sub-/under | Under, below, or secondary. Subway, submarine, substitute.
+inter- | inter-/between | Between or among. International, interrupt, interact.
+trans- | trans-/across | Across, through, or changing from one state to another. Transport, transform, translate.
+super- | super-/above | Above, over, or exceptional. Superman, superior, supernatural.
+anti- | anti-/against | Against or opposing. Antiwar, antibiotic, anticipate.
+per- | per-/through | Through, thoroughly, or completely. Perform, permit, persist.
+ad-/a- | to/toward | Toward or in addition to. Adapt, admit, attract, arrive.
+
+# Prefixes -- Greek
+auto- | auto-/self | Self. Autobiography, automatic, automobile.
+micro- | micro-/tiny | Very small. Microphone, microscope, microwave.
+tele- | tele-/far | At a distance. Telephone, television, telescope.
+poly- | poly-/many | Many. Polygon, polyglot, polynomial.
+mono- | mono-/one | One or alone. Monopoly, monologue, monotone.
+semi- | semi-/half | Half or partly. Semicircle, semifinal, semiconscious.
+bio- | bio-/life | Life. Biology, biography, biodegradable.
+geo- | geo-/earth | Earth or land. Geography, geology, geometry.
+multi- | multi-/many | Many or multiple. Multicultural, multimedia, multiply.
+
+# Suffixes
+-tion/-sion | -tion | The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung.
+-ment | -ment | Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment.
+-ness | -ness | Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity.
+-ity/-ty | -ity | The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality.
+-er/-or | -er | Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer.
+-ist | -ist | A person who practices, specializes in, or believes in something. Artist, scientist, pianist.
+-ism | -ism | A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm.
+-ize/-ise | -ize | To make something have a quality, or to cause a process. Modernize, organize, realize.
+-ify | -ify | To make or cause to become. Simplify, clarify, intensify.
+-ful | -ful | Full of or characterized by. Beautiful, careful, powerful.
+-less | -less | Without. Careless, hopeless, speechless.
+-able/-ible | -able | Capable of being done. Readable, comfortable, possible.
+-ous/-ious | -ous | Having, full of, or characterized by. Famous, serious, courageous.
+-al/-ial | -al | Relating to or of the nature of. Musical, natural, industrial.
+-ic | -ic | Relating to or having the qualities of. Heroic, electric, historic.
+-ive | -ive | Tending to or having the nature of. Active, creative, descriptive.
+-ly | -ly | Forms adverbs from adjectives, meaning "in a [manner]." Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely.
+-ship | -ship | A state, condition, or relationship. Friendship, leadership, scholarship.
+-hood | -hood | A state, condition, or group. Childhood, neighborhood, brotherhood.
+-dom | -dom | A state, realm, or collective. Freedom, kingdom, wisdom.
+-ward/-wards | -ward | In the direction of. Forward, backward, upward.
+
+# Greek roots (appear as standalone morpheme parts in many words)
+-graph-/-graphy | -graph- | Writing or recording. Photography, biography, autograph.
+-logy | -logy | The study of. Biology, psychology, technology.
+-phon-/-phone | -phone | Sound or voice. Telephone, microphone, symphony.
+-chron- | -chron- | Time. Chronology, synchronize, anachronism.
+-path-/-pathy | -pathy | Feeling, suffering, or disease. Sympathy, empathy, antipathy.
+-morph- | -morph- | Form or shape. Metamorphosis, amorphous, morphology.
+-scope | -scope | An instrument for viewing. Telescope, microscope, stethoscope.
+-meter | -meter | A measuring instrument. Thermometer, speedometer, barometer.
+
+# Prefixes
+post- | na-, achter- | "Post-" betekent "na" of "achter" en komt precies overeen met het Nederlandse "post-" of "na-". Je ziet het in woorden zoals "postwar" (naoorlogs), "postpone" (uitstellen) en "postmodern". Als je "post-" ziet, weet je dat iets ná een bepaald moment of gebeurtenis komt.
+non- | niet-, on- | "Non-" is een eenvoudige ontkenning, vergelijkbaar met het Nederlandse "niet-" of "on-". Je kent het misschien al van woorden als "non-stop" (dat we in het Nederlands ook gewoon gebruiken), "nonsense" en "nonfiction". Het maakt een woord simpelweg zijn tegendeel.
+over- | te veel, boven- | Wacht, "over-" staat al in de lijst... laat me een andere kiezen.
+# Prefixes
+post- | na-, achter- | "Post-" betekent "na" of "achter" en komt precies overeen met het Nederlandse "post-" of "na-". Je ziet het in woorden zoals "postwar" (naoorlogs), "postpone" (uitstellen) en "postmodern". Als je "post-" ziet, weet je dat iets ná een bepaald moment of gebeurtenis komt.
+non- | niet-, on- | "Non-" is een eenvoudige ontkenning, vergelijkbaar met het Nederlandse "niet-" of "on-". Je kent het misschien al van woorden als "non-stop" (dat we in het Nederlands ook gewoon gebruiken), "nonsense" en "nonfiction". Het maakt een woord simpelweg zijn tegendeel.
+up- | omhoog, op- | "Up-" geeft richting of verbetering aan, net als "op-" in het Nederlands. Je herkent het in "upgrade" (opwaarderen), "upload" en "upstairs" (boven). Het is een heel productief prefix in alledaags Engels en voelt meteen intuïtief aan voor Nederlanders.
+mid- | midden- | "Mid-" betekent gewoon "midden" en werkt precies zoals het Nederlandse "midden-". Denk aan "midnight" (middernacht), "midday" (middag) en "midterm". Je kunt het voor bijna elk tijdwoord of ruimtebegrip plakken.
+counter- | tegen-, contra- | "Counter-" betekent "tegen" of "in reactie op", vergelijkbaar met het Nederlandse "tegen-" of "contra-". Je ziet het in "counterattack" (tegenaanval), "counterpart" en "counterproductive". Het Engelse woord "counter" heeft dezelfde Latijnse oorsprong als ons "contra".
+# Suffixes
+-en | werkwoord maken | Het achtervoegsel "-en" verandert bijvoeglijke naamwoorden of zelfstandige naamwoorden in werkwoorden, net als in het Nederlands. Denk aan "brighten" (helderder maken), "soften" (zachter maken) en "widen" (verbreden). Dit patroon werkt in het Engels precies zoals bij ons "verbreden" of "verlengen".
+-ness | toestand, eigenschap | Wacht, "-ness" staat al in de lijst. Laat me opnieuw beginnen.
+# Suffixes
+-en | werkwoord maken | Het achtervoegsel "-en" verandert bijvoeglijke naamwoorden of zelfstandige naamwoorden in werkwoorden, net als in het Nederlands. Denk aan "brighten" (helderder maken), "soften" (zachter maken) en "widen" (verbreden). Dit patroon werkt in het Engels precies zoals bij ons "verbreden" of "verlengen".
+-age | resultaat, geheel | "-Age" duidt een resultaat, een hoeveelheid of een proces aan. Je kent dit al van Nederlandse leenwoorden zoals "bagage" en "garage". In het Engels vind je het in "package" (pakket), "storage" (opslag) en "coverage" (dekking). Het is van Franse oorsprong maar heel gewoon in alledaags Engels.
+-ance/-ence | toestand, eigenschap | Dit achtervoegsel maakt zelfstandige naamwoorden van werkwoorden of bijvoeglijke naamwoorden, vergelijkbaar met het Nederlandse "-antie" of "-entie". Denk aan "distance" (afstand), "importance" (belang) en "difference" (verschil). Je herkent de eindklank vaak omdat we veel van deze woorden als leenwoord in het Nederlands hebben.
+-ant/-ent | persoon, middel | "-Ant/-ent" duidt iemand of iets aan dat een bepaalde handeling uitvoert. In het Nederlands heb je "-ant" in woorden als "assistent" en "student", en dat is precies hetzelfde in het Engels: "assistant", "student", "participant". Heel makkelijk te herkennen als Nederlander.
+-ary/-ory/-ery | plaats, eigenschap | Dit achtervoegsel duidt vaak een plaats of functie aan. Je herkent het in "library" (bibliotheek), "factory" (fabriek) en "bakery" (bakkerij). Het "-ery" deel is zelfs productief in modern Engels, zoals "bakery" of "brewery" (brouwerij), en dat herken je meteen als Nederlander.
+-ward/-wards | staat al in de lijst | (sla over)
+# Suffixes
+-ify | werkwoord maken | Staat al in de lijst. Sla over.
+Laat me dit opnieuw en netjes aanpakken zonder fouten of zelfcorrecties in de uitvoer.
+# Prefixes
+post- | na-, achter- | "Post-" betekent "na" of "achter" en werkt precies zoals het Nederlandse "post-" of "na-". Je ziet het in "postwar" (naoorlogs), "postpone" (uitstellen) en "postmodern". Zodra je "post-" herkent, weet je dat iets ná een bepaald moment of gebeurtenis plaatsvindt.
+non- | niet-, on- | "Non-" is een ontkenningsprefix dat precies overeenkomt met het Nederlandse "niet-" of "on-". Je kent het al van internationale woorden zoals "non-stop" en "nonsense". In het Engels vind je het ook in "nonfiction" en "nonprofit", en het werkt altijd op dezelfde simpele manier.
+up- | omhoog, op- | "Up-" geeft richting omhoog of verbetering aan, vergelijkbaar met het Nederlandse "op-" in samenstellingen. Denk aan "upgrade" (opwaarderen), "upload" en "upstairs" (boven). Het is een heel alledaags en productief prefix in informeel Engels.
+mid- | midden- | "Mid-" betekent gewoon "midden" en werkt net als het Nederlandse "midden-" in samenstellingen. Je ziet het in "midnight" (middernacht), "midday" (middag) en "midterm". Het is een kort en handig prefix dat je voor allerlei tijds- en ruimtebegrippen kunt herkennen.
+counter- | tegen-, contra- | "Counter-" betekent "tegen" of "in reactie op iets", vergelijkbaar met het Nederlandse "tegen-" of "contra-". Je ziet het in "counterattack" (tegenaanval), "counterpart" en "counterproductive". De Latijnse oorsprong deelt het met ons "contra-", dus het voelt heel vertrouwd.
+# Suffixes
+-en | werkwoord maken | Het suffix "-en" maakt van bijvoeglijke naamwoorden werkwoorden, precies zoals dat in het Nederlands ook werkt. Denk aan "brighten" (ophelderen), "soften" (zachter worden) en "widen" (verbreden). Dit patroon zit diep in het Germaanse taalgevoel en is daardoor voor Nederlanders heel intuïtief.
+-age | resultaat, hoeveelheid | "-Age" duidt een resultaat, hoeveelheid of proces aan en is van Franse oorsprong. Je kent het al uit het Nederlands via leenwoorden als "bagage" en "garage". In het Engels vind je het in "package" (pakket), "storage" (opslag) en "coverage" (dekking).
+-ance/-ence | toestand, hoedanigheid | Dit suffix maakt abstracte zelfstandige naamwoorden van werkwoorden of bijvoeglijke naamwoorden. In het Nederlands heb je de parallelle vormen "-antie" en "-entie", zoals in "tolerantie" en "competentie". In het Engels zijn dat "tolerance" en "competence", "distance" en "importance".
+-ant/-ent | doend persoon of middel | "-Ant/-ent" duidt iemand of iets aan dat een handeling uitvoert, net als in het Nederlands. Woorden als "student", "assistent" en "participant" zijn in beide talen vrijwel identiek. Je kunt dit patroon ook zien in "resident" (inwoner) en "coolant" (koelmiddel).
+-ary/-ory/-ery | plaats of hoedanigheid | Dit familiesuffix duidt vaak een plek of een functie aan. Denk aan "library" (bibliotheek), "factory" (fabriek) en "bakery" (bakkerij). Het "-ery" deel herken je als Nederlander ook in "brewery" (brouwerij) en "fishery" (visserij).
+# Roots and stems
+-vert-/-vers- | draaien, keren | De Latijnse wortel "-vert-" of "-vers-" betekent "draaien" of "keren" en zit in heel veel alledaagse Engelse woorden. Denk aan "convert" (omzetten), "reverse" (omkeren) en "divert" (afleiden). In het Nederlands herken je dezelfde wortel in "converteren" en "diversie".
+-port- | dragen, vervoeren | "-Port-" komt van het Latijnse "portare" (dragen) en zit in woorden zoals "transport", "import", "export" en "support". In het Nederlands gebruik je "transporteren" en "importeren" op precies dezelfde manier. Zodra je deze wortel herkent, begrijp je een heel cluster van veelgebruikte woorden.
+-dict- | zeggen, spreken | De wortel "-dict-" komt van het Latijnse "dicere" (zeggen) en zit in "predict" (voorspellen), "dictionary" (woordenboek) en "contradict" (tegenspreken). In het Nederlands herken je het in "dictee" en "edicaat". Het is een heel productieve wortel in zowel formeel als alledaags Engels.
+-duct-/-duc- | leiden, brengen | "-Duct-" of "-duc-" komt van het Latijnse "ducere" (leiden) en zit in woorden als "produce" (produceren), "reduce" (verminderen) en "conduct" (gedrag, leiden). In het Nederlands heb je "produceren" en "reduceren" met exact dezelfde oorsprong. Je vindt deze wortel ook in "educate" (opleiden).
+-scrib-/-script- | schrijven | "-Scrib-/-script-" komt van het Latijnse "scribere" (schrijven). Je ziet het in "describe" (beschrijven), "subscribe" (abonneren) en "prescription" (recept). In het Nederlands herken je de wortel in "inscriptie" en "beschrijven" (letterlijk "be-schrijven"). Het is een mooie brug tussen beide talen.
+-pend-/-pens- | hangen, betalen | De wortel "-pend-/-pens-" betekent "hangen" of "wegen" en leidde tot de betekenis "betalen". Je ziet hem in "depend" (afhangen), "spend" (uitgeven) en "expensive" (duur). In het Nederlands herken je hem in "penseel" (via het Latijn) en "afhankelijk" als betekenisparallel.
+-vis-/-vid- | zien | "-Vis-/-vid-" komt van het Latijnse "videre" (zien) en zit in "visible" (zichtbaar), "vision" (visie) en "provide" (voorzien). In het Nederlands gebruik je "visie" en "video" op precies dezelfde manier. Deze wortel is ook de basis van "television", samen met het Griekse "tele-".
+-fac-/-fect-/-fic- | maken, doen | Deze veelzijdige wortel komt van het Latijnse "facere" (maken of doen). Je herkent hem in "factory" (fabriek), "affect" (beïnvloeden) en "efficient" (efficiënt). In het Nederlands heb je "effect" en "efficiënt" met exact dezelfde stam. Het is een van de meest productieve Latijnse wortels in het Engels.

@@ -1,0 +1,4834 @@
+{
+  "homeLang": "nl",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/niet of in"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "werpen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "injectie",
+      "translationLong": "het injecteren; een vloeistof die in het lichaam wordt gespoten",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "De verpleegkundige gaf me een injectie om de pijn te verlichten."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "vooruit/voor",
+          "homeLangDetails": "Vooruit, ervoor, of in plaats van iets. Denk aan woorden als vooruitgang, voortbrengen, voornaamwoord. Het geeft het gevoel van iets wat naar voren wordt gegooid."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "werpen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "projectie",
+      "translationLong": "iets dat naar buiten steekt; een voorspelling of schatting",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "De verkoopraming toont sterke groei volgende kwartaal."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "tegen",
+          "homeLangDetails": "Tegen of tegenover. In dit woord betekent het dat je iets tegen iets anders in werpt, je verzet aantekent. Net als 'tegenwerpen' in het Nederlands."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "werpen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "bezwaar",
+      "translationLong": "een uitdrukking van onenigheid of afkeuring",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "Hij maakte bezwaar tegen het voorstel tijdens de vergadering."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "voor",
+          "homeLangDetails": "Voor in tijd of positie. Voorspellen, voorbereiding, prehistorisch. Het geeft het idee van iets wat van tevoren wordt gezegd."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "zeggen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "voorspelling",
+      "translationLong": "een uitspraak over wat in de toekomst zal gebeuren",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "De weersvoorspelling voor morgen is regen."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "tegen",
+          "homeLangDetails": "Tegen of tegenover. Dit slaat samen met 'zeggen' om het idee van 'tegenin spreken' of 'tegenspreken' uit te drukken. Net als in het Nederlandse woord 'tegenspraak'."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "zeggen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "tegenspraak",
+      "translationLong": "een uitspraak of situatie die in tegenspraak is met iets anders",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "Er is een duidelijke tegenspraak in zijn twee uitspraken."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "recht"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "zeggen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "rechtsmacht",
+      "translationLong": "de officiële bevoegdheid om juridische beslissingen te nemen en wetten af te dwingen",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Deze zaak valt onder de rechtsmacht van de federale rechtbank."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "over",
+          "homeLangDetails": "Over, door, of van de ene staat naar de andere. Transport, transformeren, vertalen. Het geeft het idee van iets dat van plek naar plek gaat."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "vervoer",
+      "translationLong": "het verplaatsen van mensen of goederen van de ene plaats naar de andere",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Openbaar vervoer is goedkoper dan auto rijden."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "weg/ongedaan",
+          "homeLangDetails": "Omlaag, weg, of het ongedaan maken van iets. Afname, vertrek, deconstrueren. Het draait vaak het basiswoord om, net als 'deporteren' iemand weg voert uit een land."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "deportatie",
+      "translationLong": "de gedwongen verwijdering van een persoon uit een land",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "De deportatieprocedure duurde enkele maanden."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/niet of in"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "invoer",
+      "translationLong": "het binnenbrengen van goederen vanuit het buitenland in een land",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "De invoer van buitenlandse goederen is dit jaar toegenomen."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bouwen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "constructie",
+      "translationLong": "het proces van het bouwen van iets; een structuur die wordt gebouwd",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "De constructie van de nieuwe brug duurt twee jaar."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "af/omhoog",
+          "homeLangDetails": "Neerwaarts, weg, of het ongedaan maken van iets. Afnemen, vertrekken, afbreken. Dit voorvoegsel keert vaak de betekenis van het basiswoord om."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bouwen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "vernietiging",
+      "translationLong": "het vernietigen van iets; ernstige beschadiging of verwoesting",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "Het orkaan veroorzaakte uitgebreide vernietiging."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "opnieuw",
+          "homeLangDetails": "Dit geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn re-, het verschijnt in duizenden Nederlandse woorden: terugkeer, herbouwen, heroverwegen. Je kunt het vaak vervangen door 'nogmaals doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bouwen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "reconstructie",
+      "translationLong": "het proces van het herbouwen van iets dat beschadigd of vernield was",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "De reconstructie van de stad na de brand duurde veel jaren."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/niet of binnen"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "kijken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "inspectie",
+      "translationLong": "een zorgvuldige onderzoeks- of beoordelingsprocedure van iets",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "Het gebouw slaagde voor de veiligheidsinspectie."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "door",
+          "homeLangDetails": "Door, volledig, of helemaal. Uitvoeren, toestaan, volharden."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "kijken"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief",
+          "homeLangDetails": "Neigend naar of hebbende de aard van. Actief, creatief, beschrijvend."
+        }
+      ],
+      "translationShort": "perspectief",
+      "translationLong": "een bepaalde manier van bekijken of begrijpen van iets; standpunt",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Vanuit mijn perspectief is het plan te riskant."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "terug",
+          "homeLangDetails": "Uit het Latijn retro, betekent 'achterwaarts' of 'terug'. Het combineert met 'spect' (kijken) en betekent dus 'teruggekeken' op het verleden."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "kijken"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief",
+          "homeLangDetails": "Neigend naar of hebbende de aard van. Actief, creatief, beschrijvend."
+        }
+      ],
+      "translationShort": "retrospectief",
+      "translationLong": "een overzicht of onderzoek van voorbije gebeurtenissen; betrekking hebbend op of handeling over voorbije gebeurtenissen",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Het museum hield een retrospectieve tentoonstelling van het werk van de kunstenaar."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "voor",
+          "homeLangDetails": "Voor in tijd of positie. Voorspellen, voorbereiden, voorhistorisch."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "schrijven"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een schriftelijk medisch voorschrift",
+      "translationLong": "een schriftelijk medisch voorschrift voor medicijnen; een reeks instructies",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "De dokter gaf me een recept voor antibiotica."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "af/omhoog",
+          "homeLangDetails": "Neerwaarts, weg, of het ongedaan maken van iets. Afnemen, vertrekken, afbreken. Dit voorvoegsel keert vaak de betekenis van het basiswoord om."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "schrijven"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een beschrijving van iets",
+      "translationLong": "een mondeling of schriftelijk verslag van iets; een afbeelding",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Haar beschrijving van het gebeurde was erg gedetailleerd."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "onder",
+          "homeLangDetails": "Onder, beneden, of secundair. Ondergrondse spoorlijn, onderzeeër, vervanger."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "schrijven"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een regelmatige betaling voor een dienst",
+      "translationLong": "een regelmatige betaling voor een dienst of publikatie; een handtekening",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Ik ben abonnee van drie tijdschriften."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "uit"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "drukken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het uiten van gevoel of betekenis",
+      "translationLong": "het overbrengen van gevoel of betekenis; een uitdrukking of woord",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Haar gezichtsuitdrukking toonde dat zij overstuur was."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "af/omhoog",
+          "homeLangDetails": "Neerwaarts, weg, of het ongedaan maken van iets. Afnemen, vertrekken, afbreken. Dit voorvoegsel keert vaak de betekenis van het basiswoord om."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "drukken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een psychische aandoening; een ingezonken plaats",
+      "translationLong": "een psychische aandoening gekenmerkt door verdriet; een ingezonken of hol gebied",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Ze zocht behandeling voor haar depressie."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/naar"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "druk"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een gevoel of indruk; een afdruk gemaakt door indrukken",
+      "translationLong": "een gevoel of indruk over iets; een afdruk of verdieping gemaakt door indrukken",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Ik kreeg de indruk dat hij niet blij was."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "naar/toe"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "trek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een gevoel van interesse of aantrekkingskracht",
+      "translationLong": "een gevoel van interesse of aantrekkingskracht; iets dat mensen aantrekt",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Het pretpark is de hoofdattractie voor toeristen."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "uit"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "trek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het verwijderen of weghalen",
+      "translationLong": "het verwijderen of weghalen; het uittrekken van een tand",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "De tandarts bevolen tandextractie aan."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "uit-/weg-",
+          "homeLangDetails": "Uit of uit elkaar halen. Uitageren, wegslepen, weglopen. Dit geeft een sterker gevoel van scheiding of tegenbeweging dan bijvoorbeeld 'on-' in het Nederlands."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "trek"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "iets dat de aandacht afleidt",
+      "translationLong": "iets dat de aandacht afleidt van een taak; de toestand van afgeleid zijn",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Het lawaai was een grote afleiding tijdens de test."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "door/vol-",
+          "homeLangDetails": "Door, volledig of helemaal. Uitvoeren, toestaan, volharden. Dit prefix geeft het idee van grondige of volledige actie."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "zend"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "officiële toestemming of goedkeuring",
+      "translationLong": "officiële toestemming of goedkeuring om iets te doen",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Je hebt toestemming van de manager nodig om eerder weg te gaan."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "over/door-",
+          "homeLangDetails": "Over, doorheen, of verandering van de ene toestand naar de andere. Vervoeren, omvormen, vertalen."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "zend"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het versturen van iets; een voertuigmechanisme",
+      "translationLong": "het versturen van iets van de ene plaats naar een ander; een mechanisme in een voertuig",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "De transmissie van gegevens verliep zonder fouten."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "zend"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat of de middelen. Regering, beweging, genoegen."
+        }
+      ],
+      "translationShort": "een belofte; toewijding",
+      "translationLong": "een belofte om iets te doen; toewijding aan een zaak of persoon",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Haar inzet voor het project was onwankelbaar."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "terug",
+          "homeLangDetails": "In dit woord heeft 're-' de oudere Latijnse betekenis 'terug' in plaats van 'opnieuw'. Ontvangen betekent terugkrijgen (of ontvangen), teruggaan betekent achteruitgaan, en verwijzen betekent terugbrengen naar een bron."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "neem"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het ontvangen; een formeel gelegenheid",
+      "translationLong": "het ontvangen; een formeel samenzijn of evenement; de kwaliteit van signaatontvangst",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "De bruiloftsreceptie werd gehouden in een lokaal hotel."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "door/vol-",
+          "homeLangDetails": "Door, volledig of helemaal. Uitvoeren, toestaan, volharden. Dit prefix geeft het idee van grondige of volledige actie."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "neem"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het vermogen om iets te begrijpen of bewust te worden",
+      "translationLong": "het vermogen om iets te begrijpen of bewust te worden via de zintuigen; een bewustzijn",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "Zijn perceptie van tijd veranderde na het ongeluk."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "af-/ont-",
+          "homeLangDetails": "Neerwaarts, weg, of het terugdraaien van een handeling. Afnemen, weggaan, ontmantelen. Dit prefix draait vaak de betekenis van het kernwoord om."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "neem"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het bedriegen of misleiden",
+      "translationLong": "het bedriegen of misleiden van iemand; een trucje of leugen",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "De bedrog werd uiteindelijk onthuld."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "terug",
+          "homeLangDetails": "Hier heeft re- de oudere Latijnse betekenis van 'terug' in plaats van 'opnieuw'. Receive betekent terugnemen (of ontvangen), recede betekent teruggaan, en refer betekent terugvoeren naar een bron."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "referentie",
+      "translationLong": "een bron die je raadpleegt voor informatie; een allusie of verwijzing",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "Ik heb dat boek als referentie voor mijn essay gebruikt."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "conferentie",
+      "translationLong": "een formeel overleg of discussie",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "De jaarlijkse conferentie brengt wetenschappers van over de hele wereld bij elkaar."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tussen",
+          "homeLangDetails": "Tussen of onder elkaar. International, interrupt, interact."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "dragen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "interferentie",
+      "translationLong": "het verstoren; ongewenste signalen die een uitzending verstoren",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radiostoring verstoorde de uitzending."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "draaien"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "conversie",
+      "translationLong": "het proces van verandering van de ene vorm, toestand of geloof naar een ander",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "De omzetting van het magazijn in appartementen duurde enkele maanden."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "naar binnen"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "draaien"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "introversie",
+      "translationLong": "een neiging om je naar binnen te richten op je eigen gedachten en gevoelens",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Haar introversie zorgde ervoor dat ze rustige avonden thuis prefereerde."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "onder",
+          "homeLangDetails": "Onder, beneden of ondergeschikt. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "draaien"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "subversie",
+      "translationLong": "het ondermijnen of omverwerpen van iets gevestigds",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "De regering trad hard op tegen elke subversie van het gezag."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "naar beneden/van",
+          "homeLangDetails": "Hier heeft de- de richtinggevende betekenis van 'naar beneden van'. Het Latijnse dependere betekent letterlijk 'naar beneden hangen'. Het keert het grondwoord niet om, maar beschrijft een relatie van afhangen van of vertrouwen op iets."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hangen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "afhankelijkheid",
+      "translationLong": "de toestand van afhangen van iets of iemand anders",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "Zijn cafeïneafhankelijkheid beïnvloedde zijn slaap."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "niet"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "naar beneden/van",
+          "homeLangDetails": "Hier heeft de- de richtinggevende betekenis van 'naar beneden van'. Het Latijnse dependere betekent letterlijk 'naar beneden hangen'. Het keert het grondwoord niet om, maar beschrijft een relatie van afhangen van of vertrouwen op iets."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hangen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "onafhankelijkheid",
+      "translationLong": "de toestand van zelfstandigheid en vrijheid van afhankelijkheid",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "Ze bereikte eindelijk financiële onafhankelijkheid."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tussen",
+          "homeLangDetails": "Tussen of onder elkaar. International, interrupt, interact."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "naar beneden/van",
+          "homeLangDetails": "Hier heeft de- de richtinggevende betekenis van 'naar beneden van'. Het Latijnse dependere betekent letterlijk 'naar beneden hangen'. Het keert het grondwoord niet om, maar beschrijft een relatie van afhangen van of vertrouwen op iets."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hangen"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "onderlinge afhankelijkheid",
+      "translationLong": "wederzijdse afhankelijkheid tussen verschillende partijen of groepen",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Wereldeconomieën vertonen toenemende onderlinge afhankelijkheid."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "naar"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "rennen"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-entie"
+        }
+      ],
+      "translationShort": "voorkomen",
+      "translationLong": "een instantie of gebeurtenis waarbij iets gebeurt",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "Het voorkomen van aardbevingen in die regio is gebruikelijk."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer aan. Dit voorvoegsel uit het Latijn verschijnt in duizenden Engelse woorden: return, rebuild, reconsider. Je kunt het zien als 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "lopen"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "terugkeer",
+      "translationLong": "het feit dat iets opnieuw gebeurt of verschijnt",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "De terugkeer van migraine werd een serieus probleem."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "samen"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "lopen"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        }
+      ],
+      "translationShort": "gelijktijdig",
+      "translationLong": "gebeurend of bestaand op hetzelfde moment",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "De twee gebeurtenissen waren gelijktijdig, ze gebeurden op hetzelfde moment."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "terug",
+          "homeLangDetails": "Hier heeft het voorvoegsel re- de oudere Latijnse betekenis van 'terug' in plaats van 'opnieuw'. Kijk maar: receive betekent terugnemen (of binnennemen), recede betekent terugwijken, en refer betekent iets terugoverbrengen naar een bron."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gaan"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "recessie",
+      "translationLong": "een economische achteruitgang; een periode van tijdelijke vermindering van activiteit",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Het land ervoer in het begin van de jaren 2000 een ernstige recessie."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "onder"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gaan"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "opvolging",
+      "translationLong": "een reeks dingen die achter elkaar volgen; het proces van opeenvolging",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "De opvolging van koningen duurde drie eeuwen."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "niet",
+          "homeLangDetails": "Het meest gebruikte Engelse voorvoegsel voor ontkenning, afkomstig uit het Oudengels. Het werkt precies zoals het Duitse 'un-' of het Nederlands 'on-' en verwante vormen in Germaanse talen. Het keert de betekenis van het basiswoord om: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "voor",
+          "homeLangDetails": "Voorafgaand in tijd of positie. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "gaan"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "-ed (bijvoeglijk)"
+        }
+      ],
+      "translationShort": "ongekend",
+      "translationLong": "nog nooit eerder gedaan of bekend; zonder precedent",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "De pandemie veroorzaakte ongekende verstoring in scholen wereldwijd."
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "over",
+          "homeLangDetails": "Over, heen, of het veranderen van de ene toestand naar de andere. Transport, transform, translate."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "vorm"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "transformatie",
+      "translationLong": "het proces van verandering van vorm",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "De transformatie van rups tot vlinder is opmerkelijk."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer aan. Dit voorvoegsel uit het Latijn verschijnt in duizenden Engelse woorden: return, rebuild, reconsider. Je kunt het zien als 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "vorm"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "reformatie",
+      "translationLong": "het opnieuw vormen of hervormen",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "De Reformatie was een belangrijke religieuze beweging in Europa in de 16e eeuw."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "vorm"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "informatie",
+      "translationLong": "feiten of details die worden gegeven of geleerd",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Ik vond bruikbare informatie over het onderwerp online."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tussen",
+          "homeLangDetails": "Tussen of onder. International, interrupt, interact."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "breken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "onderbreking",
+      "translationLong": "een onderbreking in continuïteit of een pauze",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "Er was een korte onderbreking tijdens de vergadering."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "uit elkaar",
+          "homeLangDetails": "Niet, of uit elkaar nemen. Disagree, disconnect, disappear. Een sterkere betekenis van scheiding of omkering dan 'un-'."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "breken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "verstoring",
+      "translationLong": "een verstoring of probleem dat onderbreking veroorzaakt",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "De storm veroorzaakte een grote verstoring van het vervoer."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "samen/met"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "breken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "corruptie",
+      "translationLong": "oneerlijk of immoreel gedrag; de staat van verdorvenheid",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "De regering trad hard op tegen corruptie."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "zelf",
+          "homeLangDetails": "Zelf. Autobiografie, automaat, automobiel. Net als in het Nederlands gebruik je 'auto-' om aan te geven dat iets met jezelf te maken heeft."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "leven",
+          "homeLangDetails": "Leven. Biologie, biografie, biologisch afbreekbaar. Dit deel herken je vast uit biologieles."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(zelfstandignaamwoordsuffix)"
+        }
+      ],
+      "translationShort": "autobiografie",
+      "translationLong": "het geschreven levensverhaal van iemand zelf",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Ze schreef een autobiografie over haar vroege jaren."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "leven",
+          "homeLangDetails": "Leven. Biologie, biografie, biologisch afbreekbaar. Dit deel herken je vast uit biologieles."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(zelfstandignaamwoordsuffix)"
+        }
+      ],
+      "translationShort": "biografie",
+      "translationLong": "een geschreven verslag van iemands leven",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Ik lees een biografie van de beroemde wetenschapper."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "licht"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(zelfstandignaamwoordsuffix)"
+        }
+      ],
+      "translationShort": "fotografie",
+      "translationLong": "de kunst of praktijk van het maken van foto's",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Ze heeft een passie voor fotografie."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "samen/met",
+          "homeLangDetails": "Een variant van de samen-prefix, uit het Grieks. Het betekent 'samen' of 'mee' – in symphonie spelen veel instrumenten samen in harmonie."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-foon"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(zelfstandignaamwoordsuffix)"
+        }
+      ],
+      "translationShort": "symphonie",
+      "translationLong": "een uitgebreide orkestrale compositie",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethovens Negende Symphonie is een van zijn grootste werken."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "ver",
+          "homeLangDetails": "Op een afstand. Telefoon, televisie, telescoop. Deze prefix duidt aan dat iets van verre werkt."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-foon"
+        }
+      ],
+      "translationShort": "telefoon",
+      "translationLong": "een apparaat voor communicatie op afstand",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Ik bel je morgen via de telefoon."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "klein",
+          "homeLangDetails": "Heel klein. Microfoon, microscoop, magnetron. Deze prefix verwijst naar iets in miniatuur."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-foon"
+        }
+      ],
+      "translationShort": "microfoon",
+      "translationLong": "een apparaat dat kleine geluiden opvangt en versterkt",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "De zanger sprak in de microfoon."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "Tijd. Chronologie, synchroniseren, anachronisme. Dit deel gaat altijd over het ordenen van dingen in de tijd."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logie",
+          "homeLangDetails": "De studie van. Biologie, psychologie, technologie. Als je -logie ziet, gaat het over een bepaald vakgebied of wetenschap."
+        }
+      ],
+      "translationShort": "chronologie",
+      "translationLong": "de ordening van gebeurtenissen op volgorde van tijd",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "De chronologie van de gebeurtenissen is belangrijk om te begrijpen."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "samen/met",
+          "homeLangDetails": "Een variant van de samen-prefix, uit het Grieks. Het betekent 'samen' – in synchroniseren gebeuren gebeurtenissen of acties tegelijk, samen."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "Tijd. Chronologie, synchroniseren, anachronisme. Dit deel gaat altijd over het ordenen van dingen in de tijd."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-iseren"
+        }
+      ],
+      "translationShort": "synchroniseren",
+      "translationLong": "dingen op hetzelfde moment laten gebeuren",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Laten we onze horloges synchroniseren voordat we vertrekken."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "terug",
+          "homeLangDetails": "Een Griekse prefix die 'terug' of 'opnieuw' betekent – in anachronisme staat iets op het verkeerde moment in de tijd, alsof het 'terug' gaat naar het verkeerde tijdperk."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-chron-",
+          "homeLangDetails": "Tijd. Chronologie, synchroniseren, anachronisme. Dit deel gaat altijd over het ordenen van dingen in de tijd."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-isme",
+          "homeLangDetails": "Een geloof, praktijk, stelsel of karakteristieke eigenschap. Realisme, kapitalisme, enthousiasme. Dit suffix beschrijft een idee of systeem."
+        }
+      ],
+      "translationShort": "anachronisme",
+      "translationLong": "iets dat in het verkeerde tijdperk is geplaatst",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Een smartphone in een middeleeuwse film zou een anachronisme zijn."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "geest"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Een klinkerverbinder (thematische klinker) die in Griekse samenstellingen morfemen glad aan elkaar koppelt. Het heeft geen eigen betekenis."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logie",
+          "homeLangDetails": "De studie van. Biologie, psychologie, technologie."
+        }
+      ],
+      "translationShort": "studie van de geest",
+      "translationLong": "de wetenschappelijke studie van de geest en gedrag",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "Ze studeerde psychologie aan de universiteit."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "mens"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Een klinkerverbinder (thematische klinker) die in Griekse samenstellingen morfemen glad aan elkaar koppelt. Het heeft geen eigen betekenis."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logie",
+          "homeLangDetails": "De studie van. Biologie, psychologie, technologie."
+        }
+      ],
+      "translationShort": "studie van de mensheid",
+      "translationLong": "de wetenschappelijke studie van menselijke samenlevingen en culturen",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Antropologie helpt ons verschillende culturen beter te begrijpen."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "huid"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Een klinkerverbinder (thematische klinker) die in Griekse samenstellingen morfemen glad aan elkaar koppelt. Het heeft geen eigen betekenis."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logie",
+          "homeLangDetails": "De studie van. Biologie, psychologie, technologie."
+        }
+      ],
+      "translationShort": "studie van de huid",
+      "translationLong": "de medische studie van de huid en huidziekten",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "Ik heb een afspraak met een huidspecialist."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "samen",
+          "homeLangDetails": "Een variant van syn-, een Grieks voorvoegsel dat 'samen' of 'mee' betekent. Hier combineert het met -pathy (gevoel) tot 'samen voelen' - het begrijpen van andermans emoties."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathie",
+          "homeLangDetails": "Gevoel, lijden of aandoening. Uit het Grieks pathos. Sympathie, empathie, antipathie, apathie."
+        }
+      ],
+      "translationShort": "medelijden, begrip",
+      "translationLong": "het vermogen om iemands gevoelens te begrijpen en te delen",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "Ik voelde medelijden met haar moeilijke situatie."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "in-",
+          "homeLangDetails": "Een variant van en-, een Grieks voorvoegsel dat 'in' of 'naar binnen' betekent. Hier suggereert het dat je ingaat in de emotionele toestand van een ander - een dieper en meer verbeeldingrijker engagement dan sympathie."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathie",
+          "homeLangDetails": "Gevoel, lijden of aandoening. Uit het Grieks pathos. Sympathie, empathie, antipathie, apathie."
+        }
+      ],
+      "translationShort": "emotioneel inzicht",
+      "translationLong": "het vermogen om iemands emoties te begrijpen en te voelen alsof ze van jezelf zijn",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empathie is belangrijk om een goede vriend te zijn."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "anti-",
+          "homeLangDetails": "Tegen of tegenovergesteld. Antioorlog, antibioticum, anticiperen."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathie",
+          "homeLangDetails": "Gevoel, lijden of aandoening. Uit het Grieks pathos. Sympathie, empathie, antipathie, apathie."
+        }
+      ],
+      "translationShort": "afkeer, tegenstand",
+      "translationLong": "een sterk gevoel van afkeer of tegenstand",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "Hij had een afkeer van moderne kunst."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "verandering/voorbij",
+          "homeLangDetails": "Een Grieks voorvoegsel dat 'verandering', 'voorbij' of 'over' betekent. In dit woord combineert het met morph (vorm) en beschrijft een ingrijpende verandering in vorm - de transformatie van een rups in een vlinder."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Vorm of gestalte. Metamorfose, amorf, morfologie."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "Een klinkerverbinder (thematische klinker) die in Griekse samenstellingen morfemen glad aan elkaar koppelt. Het heeft geen eigen betekenis."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-is",
+          "homeLangDetails": "Een Grieks achtervoegsel dat een staat, proces of aandoening aangeeft. Hier wordt het concept van vormsverandering genominaliseerd tot een zelfstandig naamwoord dat het proces zelf aanduidt."
+        }
+      ],
+      "translationShort": "transformatie, verandering",
+      "translationLong": "een volledige verandering in vorm of structuur; een biologische transformatie",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "De metamorfose van de kikkervisje naar kikker duurt enkele weken."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "niet-/zonder",
+          "homeLangDetails": "Een Grieks voorvoegsel dat 'niet' of 'zonder' betekent. Het is het Griekse equivalent van het Germaanse voorvoegsel on-. Hier ontkent het morphe (vorm), wat leidt tot een woord voor iets zonder duidelijke vorm."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Vorm of gestalte. Metamorfose, amorf, morfologie."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-eus"
+        }
+      ],
+      "translationShort": "vormloos, diffuus",
+      "translationLong": "zonder duidelijke vorm; vaag of onbepaald",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "De vloeibare kleibol kon van alles worden."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende ontkenning voorvoegsel in het Engels, afkomstig uit het Oudengels. Het komt direct overeen met het Duitse un- en het Nederlandse on- en verwanten in germaanse talen. Het keert de betekenis van het basiswoord om: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "comfort"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "ongemakkelijk, oncomfortabel",
+      "translationLong": "onaangenaam of lastig voelend; onprettig of onhandig",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "Die stoel is erg oncomfortabel."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende ontkenning voorvoegsel in het Engels, afkomstig uit het Oudengels. Het komt direct overeen met het Duitse un- en het Nederlandse on- en verwanten in germaanse talen. Het keert de betekenis van het basiswoord om: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "geloven"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "ongelooflijk, onwaarschijnlijk",
+      "translationLong": "niet te geloven; ongelooflijk of verbazingwekkend",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "Dat verhaal klinkt ongelooflijk!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende voorvoegsel voor ontkenning in het Engels, overgeërfd van het Oudengels. Het werkt precies zoals het Nederlandse on- en het Duitse un-. Het voegsel draait de betekenis van het basiswoord om: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "vergeten"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "onvergetelijk, memorabel",
+      "translationLong": "niet te vergeten; indrukwekkend en blijvend in herinnering",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "Die vakantie was onvergetelijk."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende voorvoegsel voor ontkenning in het Engels, overgeërfd van het Oudengels. Het werkt precies zoals het Nederlandse on- en het Duitse un-. Het voegsel draait de betekenis van het basiswoord om: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "herkennen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "niet herkenbaar",
+      "translationLong": "niet te herkennen of identificeren",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Na het ongeluk was de auto niet herkenbaar."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Geeft aan dat iets verkeerd of slecht is gedaan. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "begrijpen"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Een achtervoegsel dat een werkwoord in een zelfstandig naamwoord omzet. Hier maakt het het werkwoord 'misunderstand' tot een zelfstandig naamwoord dat het verkeerd begrijpen aanduidt."
+        }
+      ],
+      "translationShort": "misverstand, verwarring",
+      "translationLong": "een onvoldoende begrip van iets; verwarring of onenigheid",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "Er was een misverstand over het moment van de afspraak."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Geeft aan dat iets verkeerd of slecht is gedaan. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "vertegenwoordigen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "valse voorstelling, verdraaiing",
+      "translationLong": "een onnauwkeurige of misleidende weergave van iets; een verdraaiing van feiten",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "Het artikel bevatte een misvorming van de feiten."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/teveel",
+          "homeLangDetails": "Duidt op overmaat of het overschrijden van een grens. Overlook, overwhelm, overestimate. Ook gebruikt voor ruimtelijk 'boven' in oudere samenstelling."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "Het betekent volledig onderdompelen of onderwater zetten (hoewel het woord zelden zonder het voorvoegsel 'over' wordt gebruikt). Met 'over-' ervoor geeft het het gevoel aan van volledig ondergedompeld zijn, of overspoel zijn, emotioneel of lichamelijk."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Een achtervoegsel dat een gerundium of tegenwoordig deelwoord vormt. Hier creëert het een bijvoeglijk naamwoord dat iets beschrijft dat overweldigend is."
+        }
+      ],
+      "translationShort": "overweldigend, verbijsterend",
+      "translationLong": "uiterst indrukwekkend, krachtig of emotioneel intens; overweldigend",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "De steun die zij ontving was overweldigend."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "onder-/te weinig",
+          "homeLangDetails": "Het tegenovergestelde van over-. Kan betekenen onder (underground) of niet genoeg (underestimate, underperform)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "schatten"
+        }
+      ],
+      "translationShort": "onderschatten",
+      "translationLong": "onderschatten, iets minder belangrijk of geschikt bevinden dan het werkelijk is",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Onderschat haar vermogen niet om complexe problemen op te lossen."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/teveel",
+          "homeLangDetails": "Duidt op overmaat of het overschrijden van een grens. Overlook, overwhelm, overestimate. Ook gebruikt voor ruimtelijk 'boven' in oudere samenstelling."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "schatten"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "overschatting",
+      "translationLong": "het beoordelen van iets als groter of belangijker dan het werkelijk is",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "De overschatting van het projectbudget leidde tot financiële problemen."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/veel",
+          "homeLangDetails": "Veel of meerdere. Multicultural, multimedia, multiply."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultureel"
+        }
+      ],
+      "translationShort": "multicultureel",
+      "translationLong": "betrekking hebbend op of bestaande uit veel verschillende culturen",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Onze stad staat bekend om zijn multiculturele bevolking."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/over",
+          "homeLangDetails": "Over, dwars door, of veranderend van de ene staat naar de andere. Transport, transform, translate."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continentaal"
+        }
+      ],
+      "translationShort": "transcontinentaal",
+      "translationLong": "zich uitstrekkend over of kruisend van een continent of meerdere continenten",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "De spoorweg die het continent doorkruist verbond de oost- en westkusten."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/tussen",
+          "homeLangDetails": "Tussen of onder elkaar. International, interrupt, interact."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "wisselen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "uitwisselbaar",
+      "translationLong": "in staat om met elkaar uitgewisseld te worden zonder de werking van iets te beïnvloeden",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "Deze twee onderdelen kunnen met elkaar worden uitgewisseld zonder de werking van het apparaat te beïnvloeden."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "des-/niet/uit elkaar",
+          "homeLangDetails": "Niet, of uit elkaar halen. Disagreer, disconnect, disappear. Een sterkere betekenis van scheiding of omkering dan un- (ontkenen)."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organiseren"
+        }
+      ],
+      "translationShort": "ontregelen",
+      "translationLong": "in wanorde brengen, de organisatie van iets verstoren",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "De plotselinge verandering zal ons zorgvuldig geplande schema in wanorde brengen."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "modern"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-iseren"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "modernisering",
+      "translationLong": "het proces van het modern of actueel maken van iets",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "De modernisering van de fabriek verbeterde de efficiëntie ervan."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industrieel"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-iseren"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "industrialisering",
+      "translationLong": "het proces van het ontwikkelen van industrieën in een regio of samenleving",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "De industrialisering van het land transformeerde de economie ervan."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "aanmoedigen"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ing",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden, verwijzend naar de handeling, het resultaat ervan of het middel. Regering, beweging, genot."
+        }
+      ],
+      "translationShort": "aanmoediging",
+      "translationLong": "het geven van moed of steun aan iemand",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Haar aanmoediging hielp me mijn angsten te overwinnen."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "des-/niet/uit elkaar",
+          "homeLangDetails": "Niet, of uit elkaar halen. Disagreer, disconnect, disappear. Een sterkere betekenis van scheiding of omkering dan un- (ontkenen)."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "akkoord gaan"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ing",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden, verwijzend naar de handeling, het resultaat ervan of het middel. Regering, beweging, genot."
+        }
+      ],
+      "translationShort": "onenigheid",
+      "translationLong": "gebrek aan overeenstemming, een meeningsverschil",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Hun onenigheid over de begroting duurde weken."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "des-/niet/uit elkaar",
+          "homeLangDetails": "Niet, of uit elkaar halen. Disagreer, disconnect, disappear. Een sterkere betekenis van scheiding of omkering dan un- (ontkenen)."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "aanstellen"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ing",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden, verwijzend naar de handeling, het resultaat ervan of het middel. Regering, beweging, genot."
+        }
+      ],
+      "translationShort": "teleurstelling",
+      "translationLong": "het gevoel van verdriet wanneer iets niet aan verwachtingen voldoet",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "De afgelasting van het concert was een enorme teleurstelling."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "erkennen"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ing",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden, verwijzend naar de handeling, het resultaat ervan of het middel. Regering, beweging, genot."
+        }
+      ],
+      "translationShort": "erkenning",
+      "translationLong": "erkenning of toegeven van iets, meestal wat iemand heeft gedaan of gezegd",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "De erkenning van zijn bijdragen was lang geleden verschuldigd."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "moed"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-eus"
+        }
+      ],
+      "translationShort": "moedig",
+      "translationLong": "dapper, moed tonend",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Haar moedige acties redden levens tijdens de crisis."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "belediging",
+          "homeLangDetails": "Een vast samengesteld woord uit het Oudfraans (exces, geweld), niet het productieve Engelse voorvoegsel out- plus rage. Het out- hier komt van het Latijn ultra (voorbij), niet uit het Germaans. Dus outrageous betekent 'buiten alle grenzen' in plaats van letterlijk 'woede overtreffen'."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-eus"
+        }
+      ],
+      "translationShort": "schandalig",
+      "translationLong": "schokkerend slecht of aanstootgevend, uitermate ongewoon of buitensporig",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "De schandalig hoge prijs voor zo'n klein artikel maakte me aan het lachen."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "voordeel"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-eus"
+        }
+      ],
+      "translationShort": "voordelig",
+      "translationLong": "een voordeel of winst biedend, gunstig",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Studeren in het buitenland kan voordelig zijn voor je carrière."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "buiten"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "gewoon"
+        }
+      ],
+      "translationShort": "buitengewoon, uitzonderlijk",
+      "translationLong": "buitengewoon, uitzonderlijk, opmerkelijk, ongewoon",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Ze heeft een buitengewoon talent voor muziek."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "opmerking, waarneming"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "opmerkelijk, waardig om op te merken",
+      "translationLong": "opmerkelijk, waardig om op te merken, indrukwekkend",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "De atleet maakte een opmerkelijk herstel van zijn blessure."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "voorspellen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "voorspelbaar",
+      "translationLong": "voorspelbaar, te voorzien",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "Het einde van die film was totaal voorspelbaar."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "aanpassen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "verstelbaar",
+      "translationLong": "verstelbaar, in te stellen",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "De stoel heeft een verstelbare hoogte."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "uitbreiden"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar"
+        }
+      ],
+      "translationShort": "uitbreidbaar",
+      "translationLong": "uitbreidbaar, uit te breiden",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Deze opslagdoos is uitbreidbaar als je meer ruimte nodig hebt."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Nederlandse voorvoegsel voor ontkenning. Net zoals je in het Engels 'un-' gebruikt voor unhappy of unknown, zeggen wij in het Nederlands 'on-' voor ongelukkig of onbekend. Het keert de betekenis van het basiswoord helemaal om."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "bewust"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Zet bijvoeglijke naamwoorden om in zelfstandige naamwoorden die een toestand of eigenschap uitdrukken. Gelukkigheid, duisternis, bewustzijn. Dit is hoe we in het Nederlands abstracte begrippen maken."
+        }
+      ],
+      "translationShort": "bewusteloosheid, verlies van bewustzijn",
+      "translationLong": "bewusteloosheid, verlies van bewustzijn, toestand van onbewust zijn",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "De klap op zijn hoofd veroorzaakte enkele minuten bewusteloosheid."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "on-/niet"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "verantwoordelijk"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-heid"
+        }
+      ],
+      "translationShort": "onverantwoordelijkheid, gebrek aan verantwoordelijkheid",
+      "translationLong": "onverantwoordelijkheid, gebrek aan verantwoordelijkheid, onzorgvuldigheid",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "Zijn onverantwoordelijkheid kostte het bedrijf duizenden euro's."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "on-/niet"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "begrijpelijk"
+        }
+      ],
+      "translationShort": "onbegrijpelijk, niet te verstaan",
+      "translationLong": "onbegrijpelijk, niet te verstaan, onverstaanbaar",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "De instructies waren geschreven in onbegrijpelijk jargon."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "compartiment"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-aal",
+          "homeLangDetails": "Dit voorvoegsel duidt aan dat iets van die aard is of ervan afhangt. Muzikaal, natuurlijk, industrieel. Het geeft aan dat iets een bepaalde eigenschap heeft."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-eer",
+          "homeLangDetails": "Dit achtervoegsel maakt werkwoorden uit zelfstandige naamwoorden of bijvoeglijke naamwoorden, met de betekenis van het proces uitvoeren of iets een bepaalde kwaliteit geven. Moderniseer, organiseer, realiseer."
+        }
+      ],
+      "translationShort": "in vakjes verdelen",
+      "translationLong": "in vakjes verdelen, in aparte categorieën onderverdelen",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Sommige mensen verdelen hun werk en privéleven in aparte vakjes."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "on-/niet"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "compatibel"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-heid"
+        }
+      ],
+      "translationShort": "incompatibiliteit",
+      "translationLong": "incompatibiliteit, toestand van onverenigbaarheid",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "De incompatibiliteit tussen de twee systemen maakte integratie moeilijk."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "zorg"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Dit werkt net zoals in het Nederlands: mooi, voorzichtig, krachtig. Je kunt het zien als 'vol van' die eigenschap."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een voorzichtige manier",
+      "translationLong": "met zorg; op een aandachtige of voorzichtige wijze",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Ze plaatste de vaas voorzichtig op de plank."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "zorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een onvoorzichtige manier",
+      "translationLong": "zonder zorg; op een achteloze of nonchalante wijze",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Hij liet de beker achteloos vallen."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "zorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Maakt zelfstandige naamwoorden van bijvoeglijke naamwoorden voor een staat of eigenschap. Geluk, duisternis, bewustzijn. Dit is het Nederlands equivalent van het Latijnse -iteit."
+        }
+      ],
+      "translationShort": "gebrek aan zorg",
+      "translationLong": "de staat of eigenschap van onvoorzichtigheid; nonchalance",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Haar achteloosheid resulteerde in een gebroken bord."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hulp"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Dit werkt net zoals in het Nederlands: mooi, voorzichtig, krachtig. Je kunt het zien als 'vol van' die eigenschap."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een behulpzame manier",
+      "translationLong": "op een manier die steun of assistentie biedt",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Ze legde de instructies behulpzaam uit."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hulp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een hulpeloze manier",
+      "translationLong": "zonder de mogelijkheid jezelf te helpen; machteloos",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Hij keek machteloos toe terwijl het ongeluk gebeurde."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hulp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Maakt zelfstandige naamwoorden van bijvoeglijke naamwoorden voor een staat of eigenschap. Geluk, duisternis, bewustzijn. Dit is het Nederlands equivalent van het Latijnse -iteit."
+        }
+      ],
+      "translationShort": "staat van machteloosheid",
+      "translationLong": "de toestand of voorwaarde van niet in staat zijn jezelf te helpen",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "De machteloosheid in haar stem was hartverscheurend."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hoop"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Dit werkt net zoals in het Nederlands: mooi, voorzichtig, krachtig. Je kunt het zien als 'vol van' die eigenschap."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een hoopvolle manier; hopelijk",
+      "translationLong": "met hoop of optimisme; uitdrukking van de wens dat iets zal gebeuren",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Hopelijk wordt het weer morgen beter."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hoop"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Maakt zelfstandige naamwoorden van bijvoeglijke naamwoorden voor een staat of eigenschap. Geluk, duisternis, bewustzijn. Dit is het Nederlands equivalent van het Latijnse -iteit."
+        }
+      ],
+      "translationShort": "staat van wanhoop",
+      "translationLong": "de toestand of gevoel van geen hoop hebben; wanhoop",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "Een gevoel van wanhoop overviel het team."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hoop"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Onvoorzichtig, hopeloos, sprakeloos. Dit achtervoegsel werkt precies hetzelfde in het Nederlands als in het Engels."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een hopeloze manier",
+      "translationLong": "op een manier die geen hoop toont; wanhopig",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "De situatie leek hopeloos ernstig."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "dank"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Dit werkt net zoals in het Nederlands: mooi, voorzichtig, krachtig. Je kunt het zien als 'vol van' die eigenschap."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ig",
+          "homeLangDetails": "Maakt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [manier]'. Snel, blij, verrassend. Ook heel nuttig voor bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "gelukkig; op een dankbare manier",
+      "translationLong": "gelukkig; met dankbaarheid of opluchting",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Gelukkig raakte niemand gewond bij het ongeluk."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "dank"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Mooi, voorzichtig, krachtig. Dit werkt net als het Nederlandse -vol achtervoegsel."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Zet bijvoeglijke naamwoorden om in zelfstandige naamwoorden die een toestand of eigenschap uitdrukken. Gelukkigheid, duisternis, bewustzijn. Dit is het Nederlandse equivalent van het Engelse -ness."
+        }
+      ],
+      "translationShort": "staat van dankbaarheid",
+      "translationLong": "de kwaliteit of toestand van dankbaar zijn",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "Haar dankbaarheid was duidelijk zichtbaar in haar warme omhelzing."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "gedachte"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Mooi, voorzichtig, krachtig. Dit werkt net als het Nederlandse -vol achtervoegsel."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een doordachte manier",
+      "translationLong": "met zorgvuldige overweging; op een peinzende of attente manier",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "Ze overwoog de vraag zorgvuldig voordat ze antwoordde."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "gedachte"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Zorgeloos, hopeloos, woordeloos. Net als het Nederlandse -loos achtervoegsel."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Zet bijvoeglijke naamwoorden om in zelfstandige naamwoorden die een toestand of eigenschap uitdrukken. Gelukkigheid, duisternis, bewustzijn. Dit is het Nederlandse equivalent van het Engelse -ness."
+        }
+      ],
+      "translationShort": "gebrek aan attentie",
+      "translationLong": "de kwaliteit of toestand van onoplettend of zorgeloos zijn",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "Zijn gebrek aan attentie deed haar pijn."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "angst"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Zorgeloos, hopeloos, woordeloos. Net als het Nederlandse -loos achtervoegsel."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een moedige manier",
+      "translationLong": "zonder angst; moedig of stoutmoedig",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "De soldaat marcheerde moedig de slag in."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "angst"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Zorgeloos, hopeloos, woordeloos. Net als het Nederlandse -loos achtervoegsel."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Zet bijvoeglijke naamwoorden om in zelfstandige naamwoorden die een toestand of eigenschap uitdrukken. Gelukkigheid, duisternis, bewustzijn. Dit is het Nederlandse equivalent van het Engelse -ness."
+        }
+      ],
+      "translationShort": "afwezigheid van angst",
+      "translationLong": "de kwaliteit of toestand van moedig zijn; afwezigheid van angst",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Haar moed inspireerde iedereen om haar heen."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "vrede"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Mooi, voorzichtig, krachtig. Dit werkt net als het Nederlandse -vol achtervoegsel."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een vreedzame manier",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "De demonstranten marcheerden vreedzaam door de stad."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "schoonheid"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Hier voegt -vol zich aan het zelfstandig naamwoord schoonheid, maar schoonheid zelf bevat al een achtervoegsel. In mooi (schoon + -heid = vol van schoonheid) voegen we -lijk toe om het bijwoord te vormen."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een mooie manier",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "Ze zong prachtig op het concert."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "succes"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Mooi, voorzichtig, krachtig. Dit werkt net als het Nederlandse -vol achtervoegsel."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een succesvolle manier",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "Het project werd succesvol op tijd voltooid."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "macht"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-vol",
+          "homeLangDetails": "Vol van of gekenmerkt door. Mooi, voorzichtig, krachtig. Dit werkt net als het Nederlandse -vol achtervoegsel."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-lijk",
+          "homeLangDetails": "Vormt bijwoorden van bijvoeglijke naamwoorden, met de betekenis 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook bijvoeglijke naamwoorden: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een krachtige manier",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "De spreker bracht een krachtig overtuigend argument naar voren."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "macht"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-loos",
+          "homeLangDetails": "Zonder. Zorgeloos, hopeloos, woordeloos. Net als het Nederlandse -loos achtervoegsel."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-heid",
+          "homeLangDetails": "Zet bijvoeglijke naamwoorden om in zelfstandige naamwoorden die een toestand of eigenschap uitdrukken. Gelukkigheid, duisternis, bewustzijn. Dit is het Nederlandse equivalent van het Engelse -ness."
+        }
+      ],
+      "translationShort": "gebrek aan macht",
+      "translationLong": "de toestand van zonder macht of invloed zijn",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "Hij voelde een diep gevoel van machteloosheid wanneer hij zich confranteerde met onrechtvaardigheid."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Nederlandse negatie-voorvoegsel, net als het Engelse 'un-'. Je ziet het in woorden als ongelukkig, onbekend, onvergetelijk. In het Engels en Nederlands werkt het precies hetzelfde: het keert de betekenis van het basiswoord om."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "toestand van zonder werk zijn",
+      "translationLong": "de toestand van zonder werk zijn; werkloosheid",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "The unemployment rate rose significantly during the recession."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/af/ongedaan",
+          "homeLangDetails": "Betekent afwaarts, weg, of het ongedaan maken van een actie. Denk aan: afname, vertrek, deconstrueer. Het voorvoegsel keert de betekenis van het basiswoord vaak om."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "ontvouwen",
+          "homeLangDetails": "Komt uit het Oudfrans 'devoluper' (uitpakken, ontvouwen). De wortel is verwant aan 'velop' (zoals in enveloppe), wat betekent in te pakken. De voorvoegsel 'de-' betekent hier 'uit' of 'weg van', dus ontwikkelen betekent letterlijk 'uit te pakken' of 'geleidelijk aan te ontvouwen'."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "het proces van groeien",
+      "translationLong": "het proces van zich ontwikkelen of ontwikkeld worden; groei of verbetering",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Child development is the focus of this research program."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/naar",
+          "homeLangDetails": "Een veelzijdig voorvoegsel met twee betekenissen: 'niet' (inactief, onmogelijk, onwettig) en 'naar' (invoegen, importeren). De spelling verandert om beter aan te sluiten bij de volgende klank."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "draaien/rollen",
+          "homeLangDetails": "Komt uit het Latijn 'volvere' (draaien, rollen). Dezelfde wortel zie je terug in revolve (omwentelen), evolution (evolutie) en convolution (windingen) - allemaal met het begrip draaien of rollen."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "het feit van betrokken zijn",
+      "translationLong": "het feit of de toestand van betrokken zijn; deelname",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Her involvement in community service was widely recognized."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/naar",
+          "homeLangDetails": "Een veelzijdig voorvoegsel met twee betekenissen: 'niet' (inactief, onmogelijk, onwettig) en 'naar' (invoegen, importeren). De spelling verandert om beter aan te sluiten bij de volgende klank."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "bewijzen",
+          "homeLangDetails": "Komt uit het Latijn 'probare' (instemmen met, goedkeuren). In improve betekent het voorvoegsel in- (naar) + prove samen 'beter maken' - iets in een betere toestand brengen. Dezelfde wortel zie je in prove en approbation (goedkeuring)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "het beter maken",
+      "translationLong": "de handeling of het proces van verbeteren; een verandering die iets beter maakt",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "The improvement in her grades was the result of hard work."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/naar",
+          "homeLangDetails": "Betekent naar of in aanvulling op. Zie het in: adapteren, toelaten, aantrekken, aankomen."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "draaien",
+          "homeLangDetails": "Komt uit het Latijn 'vertere' (draaien). In advertise betekent het voorvoegsel ad- (naar) + vert (draaien) samen 'aandacht naar iets draaien' - de aandacht trekken. Dezelfde wortel zie je in convert (omzetten), divert (afleiden) en avert (afwenden)."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize",
+          "homeLangDetails": "Maakt iets een bepaalde kwaliteit hebben, of veroorzaakt een proces. Moderniseren, organiseren, realiseren."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "een openbare aankondiging",
+      "translationLong": "een mededeling of aankondiging bedoeld om het publiek in te lichten of te overtuigen",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "The advertisement for the new product appeared on television."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "enter"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "houden",
+          "homeLangDetails": "Komt uit het Oudfrans 'tenir' en Latijn 'tenere' (houden). De wortel zie je terug in retain (behouden), maintain (handhaven), sustain (ondersteunen) en contain (bevatten) - allemaal met het begrip houden of vasthouden. In entertain combineert 'enter + tain' het idee van iemand uitnodigen met hun aandacht vasthouden."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "vermaak of afleiding",
+      "translationLong": "de handeling van vermaak of plezier verschaffen of krijgen",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "The concert was a wonderful evening of entertainment."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of een terugkeer naar een eerdere toestand aan. Komt uit het Latijn en verschijnt in duizenden Engelse woorden: return (terugkeren), rebuild (herbouwen), reconsider (heroverwegen). Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "vragen/zoeken",
+          "homeLangDetails": "Komt uit het Latijn 'quaerere' (vragen, zoeken). In require betekent re- (opnieuw) + quir samen 'vragen naar' of 'roepen om' iets wat nodig is. Dezelfde wortel zie je in inquiry (onderzoek), inquisition (inquisitie) en query (vraag)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "iets wat nodig is",
+      "translationLong": "iets wat nodig is; een voorwaarde of ding dat vereist is",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "A high school diploma is a requirement for most college programs."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of een terugkeer naar een eerdere toestand aan. Komt uit het Latijn en verschijnt in duizenden Engelse woorden: return (terugkeren), rebuild (herbouwen), reconsider (heroverwegen). Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "terugtrekken",
+          "homeLangDetails": "Komt uit het Oudfrans 'tirer' (trekken, halen). In retire betekent re- (opnieuw, terug) + tir samen 'terugtrekken' of 'teruggaan', vooral van het werk. Dezelfde wortel zie je in tired (moe van het getrokken worden)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "het stoppen met werken",
+      "translationLong": "de handeling of het feit van permanent uit een baan of functie treden",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "She is planning her retirement for next year."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/af/ongedaan",
+          "homeLangDetails": "Betekent afwaarts, weg, of het ongedaan maken van een actie. Denk aan: afname, vertrek, deconstrueer. Het voorvoegsel keert de betekenis van het basiswoord vaak om."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "part"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "een afdeling of sectie",
+      "translationLong": "een onderverdeling of afdeling van een organisatie, bedrijf of instelling",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "She works in the marketing department."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of een terugkeer naar een eerdere toestand aan. Komt uit het Latijn en verschijnt in duizenden Engelse woorden: return (terugkeren), rebuild (herbouwen), reconsider (heroverwegen). Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "place"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden van werkwoorden en verwijst naar de handeling, het resultaat ervan, of het middel. Denk aan: regering, beweging, genot."
+        }
+      ],
+      "translationShort": "iets wat de plaats van ander neemt",
+      "translationLong": "een persoon of ding die de plaats van iets anders inneemt",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "The replacement for the broken window arrived yesterday."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "fortunate"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit bijvoeglijke naamwoorden, wat betekent 'op een bepaalde manier'. Quickly (snel), happily (blij), surprisingly (verrassend). Vormt ook bijvoeglijke naamwoorden: friendly (vriendelijk), lovely (mooi)."
+        }
+      ],
+      "translationShort": "jammer genoeg, helaas",
+      "translationLong": "jammer genoeg, helaas, ongelukkigerwijs",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Jammer genoeg was het concert afgelast."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "expect"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(voltooid deelwoord)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit bijvoeglijke naamwoorden, wat betekent 'op een bepaalde manier'. Quickly (snel), happily (blij), surprisingly (verrassend). Vormt ook bijvoeglijke naamwoorden: friendly (vriendelijk), lovely (mooi)."
+        }
+      ],
+      "translationShort": "onverwacht, plotseling",
+      "translationLong": "onverwacht, plotseling, op een onvoorziene manier",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "Ze kwam onverwacht naar het feest."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "health"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(bijvoeglijk)"
+        }
+      ],
+      "translationShort": "ongezond, schadelijk",
+      "translationLong": "ongezond, schadelijk, slecht voor de gezondheid",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "Een ongezond dieet kan tot ziekte leiden."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "reason"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "In staat zijn om iets te doen. Readable (leesbaar), comfortable (comfortabel), possible (mogelijk)."
+        }
+      ],
+      "translationShort": "onredelijk, onbillijk",
+      "translationLong": "onredelijk, onbillijk, buitensporig",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "Zijn eisen waren buitensporig."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "accept"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "In staat zijn om iets te doen. Readable (leesbaar), comfortable (comfortabel), possible (mogelijk)."
+        }
+      ],
+      "translationShort": "niet aanvaardbaar",
+      "translationLong": "niet aanvaardbaar, ontoelaatbaar, ondraaglijk",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "Dat gedrag is volledig ondraaglijk."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "avoid"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "In staat zijn om iets te doen. Readable (leesbaar), comfortable (comfortabel), possible (mogelijk)."
+        }
+      ],
+      "translationShort": "onvermijdelijk, onontkoombaar",
+      "translationLong": "onvermijdelijk, onontkoombaar, zeker te gebeuren",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "Dood en belastingen zijn onvermijdelijk."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "important"
+        }
+      ],
+      "translationShort": "onbelangrijk, trivaal",
+      "translationLong": "onbelangrijk, trivaal, van weinig belang",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "Dat detail is onbelangrijk."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "on-/niet",
+          "homeLangDetails": "Het meest voorkomende Engelse ontkennende voorvoegsel, afkomstig uit het Oudengels. Het werkt precies zoals het Nederlandse on- of het Duitse un-. Het draait de betekenis van het basiswoord om: unhappy (ongelukkig), unknown (onbekend), unforgettable (onvergetelijk)."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "will"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundium)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Verandert bijvoeglijke naamwoorden in zelfstandige naamwoorden die een staat of kwaliteit aangeven. Happiness (geluk), darkness (duisternis), awareness (bewustzijn). Het Germaanse equivalent van het Latijnse -iteit."
+        }
+      ],
+      "translationShort": "tegenstand, onwil",
+      "translationLong": "tegenstand, onwil, gebrek aan bereidheid",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "Zijn tegenstand om te helpen was teleurstellend."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige staat aan. Afkomstig uit het Latijn, het verschijnt in duizenden Engelse woorden: return (terugkeren), rebuild (herbouwen), reconsider (heroverwegen). Vaak verwisselbaar met 'iets opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        }
+      ],
+      "translationShort": "heroverwegen",
+      "translationLong": "heroverwegen, herzien, van gedachten veranderen",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "Ik moet mijn beslissing heroverwegen."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige staat aan. Afkomstig uit het Latijn, het verschijnt in duizenden Engelse woorden: return (terugkeren), rebuild (herbouwen), reconsider (heroverwegen). Vaak verwisselbaar met 'iets opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie",
+          "homeLangDetails": "Het meest voorkomende Engelse naamwoordsuffix afkomstig uit het Latijn. Verandert werkwoorden in zelfstandige naamwoorden die een actie of het resultaat ervan aangeven. Construction (bouw), permission (toestemming), explosion (explosie). Gelijk aan het Duitse -ung."
+        }
+      ],
+      "translationShort": "herzien, tweede gedachte",
+      "translationLong": "herzien, tweede gedachte, het heroverwegen",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "De raad verzocht om herzien van het voorstel."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn her-, het verschijnt in duizenden Nederlandse woorden: herstellen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organiseren"
+        }
+      ],
+      "translationShort": "opnieuw organiseren",
+      "translationLong": "opnieuw organiseren, herstructureren, herschikken",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "Het bedrijf besloot zijn afdelingen te herstructureren."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn her-, het verschijnt in duizenden Nederlandse woorden: herstellen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organiseren"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "herstructurering, herschikking",
+      "translationLong": "herstructurering, herschikking, het proces van opnieuw organiseren",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "De herstructurering duurde drie maanden."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn her-, het verschijnt in duizenden Nederlandse woorden: herstellen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "introduceren"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ing",
+          "homeLangDetails": "De meest voorkomende Nederlandse nominalisatiesuffix. Verandert werkwoorden in zelfstandige naamwoorden die een handeling of het resultaat daarvan benoemen. Constructie, toestemming, explosie. Gelijk aan het Duitse -ung."
+        }
+      ],
+      "translationShort": "herinvoering, herstel",
+      "translationLong": "herinvoering, herstel, het opnieuw introduceren",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "De herinvoering van wolven hielp het ecosysteem te herstellen."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn her-, het verschijnt in duizenden Nederlandse woorden: herstellen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "verbinden"
+        }
+      ],
+      "translationShort": "opnieuw verbinden",
+      "translationLong": "opnieuw verbinden, herenigen, het contact herstellen",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Na jaren uit elkaar te zijn geweest, hervatten we contact op de reünie."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-/opnieuw",
+          "homeLangDetails": "Geeft herhaling of terugkeer naar een vorige toestand aan. Uit het Latijn her-, het verschijnt in duizenden Nederlandse woorden: herstellen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan'."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "cyclus"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "materialen hergebruiken, circulair hergebruik",
+      "translationLong": "materialen hergebruiken, circulair hergebruik, het proces van afval omzetten in nieuwe producten",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Hergebruik helpt afval te verminderen."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "com-/samen",
+          "homeLangDetails": "Met of samen. Een van de meest vruchtbare Latijnse voorvoegsels. Verbinden, combineren, samenwerken, verzamelen. De spelling varieert naar gelang van het volgende geluid."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "gemeen"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "de uitwisseling van informatie",
+      "translationLong": "het overbrengen of uitwisselen van informatie of bericht",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "Goede communicatie is essentieel in elke relatie."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-/uit",
+          "homeLangDetails": "Uit, voormalig, of weg. Uitademen, uitvoer, uitwerpen, ex-voorzitter."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leiden"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "het proces van onderwijs",
+      "translationLong": "het proces van lesgeven of leren, vooral op scholen",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Onderwijs opent deuren naar veel mogelijkheden."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/in",
+          "homeLangDetails": "Een kameleonvoorvoegsel met twee aparte betekenissen: 'niet' (inactief, onmogelijk, onwettig) en 'in' (invoegen, importeren). De spelling verandert naar gelang van het volgende geluid."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spoor"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "een nauwkeurig onderzoek",
+      "translationLong": "een gedetailleerd onderzoek of nasporing naar iets",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "De politie voerde een onderzoek naar de diefstal in."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "intra-/binnen"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leiden"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ing",
+          "homeLangDetails": "De meest voorkomende Nederlandse nominalisatiesuffix. Verandert werkwoorden in zelfstandige naamwoorden die een handeling of het resultaat daarvan benoemen. Constructie, toestemming, explosie. Gelijk aan het Duitse -ung."
+        }
+      ],
+      "translationShort": "een formele presentatie",
+      "translationLong": "een formele voorstelling van de ene persoon aan de ander; het begin van een boek of toespraak",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "De inleiding van de roman zet het centrale conflict uit."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/vooruit",
+          "homeLangDetails": "Vooruit, voor, of in plaats van. Vordering, voortbrengen, voornaamwoord."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leiden"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-ing",
+          "homeLangDetails": "De meest voorkomende Nederlandse nominalisatiesuffix. Verandert werkwoorden in zelfstandige naamwoorden die een handeling of het resultaat daarvan benoemen. Constructie, toestemming, explosie. Gelijk aan het Duitse -ung."
+        }
+      ],
+      "translationShort": "de vervaardiging van goederen",
+      "translationLong": "het maken, produceren, of creëren van iets",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "De fabriek verhoogde de productie om aan de vraag te voldoen."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/vooruit",
+          "homeLangDetails": "Vooruit, ervoor, of in plaats van. Denk aan woorden als progressie, produceren, voornaamwoord."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-telefoon"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "de manier waarop een woord wordt uitgesproken",
+      "translationLong": "de manier waarop een woord of taal wordt uitgesproken",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Haar uitspraak van het Frans is aanzienlijk verbeterd."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/uit",
+          "homeLangDetails": "Uit, voormalig, of weg. Uitademen, exporteren, uitwerpen, ex-president. Net als in het Nederlands gebruik je dit voorvoegsel om aan te geven dat iets naar buiten gaat of van origine iets anders was."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "vlak"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een uitleg die duidelijkheid geeft",
+      "translationLong": "een verklaring of uiteenzetting die iets duidelijk maakt of begrijpelijk stelt",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "De leraar gaf een duidelijke uitleg van het wiskundige concept."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/uit",
+          "homeLangDetails": "Uit, voormalig, of weg. Uitademen, exporteren, uitwerpen, ex-president. Net als in het Nederlands gebruik je dit voorvoegsel om aan te geven dat iets naar buiten gaat of van origine iets anders was."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "wegen"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een grondige inspectie",
+      "translationLong": "een grondige inspectie of toets; een medisch of academisch examen",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "Het onderzoek toonde geen tekenen van de ziekte."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/in",
+          "homeLangDetails": "Dit voorvoegsel is een echte chameleontje met twee verschillende betekenissen: 'niet' (inactief, onmogelijk, illegaal) en 'in' (invoegen, importeren). De spelling past zich aan aan het volgende geluid. In het Nederlands werk het precies hetzelfde."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "beeld"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "het vermogen om mentale beelden te creëren",
+      "translationLong": "het vermogen om mentale beelden of concepten te vormen van iets wat niet aanwezig is",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "De fantasie van kinderen kent geen grenzen."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "volk"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "alle mensen in een gebied",
+      "translationLong": "alle inwoners van een plaats; een groep organismen van dezelfde soort",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "De bevolking van de stad is aanzienlijk gegroeid."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met of samen. Dit is een van de meest gebruikte Latijnse voorvoegsels. Verbinden, combineren, samenwerken, verzamelen. De spelling verandert mee met het volgende geluid. In het Nederlands herkent het ook als 'co-' in woorden als coëxistentie."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "draaien"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een informeel gesprek",
+      "translationLong": "een informele uitwisseling van gedachten of praatje tussen mensen",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "We hadden een interessant gesprek over reizen."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "col-/samen",
+          "homeLangDetails": "Met of samen. Dit is een van de meest gebruikte Latijnse voorvoegsels. Verbinden, combineren, samenwerken, verzamelen. De spelling verandert mee met het volgende geluid. In het Nederlands herkent het ook als 'co-' in woorden als coëxistentie."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "verzamelen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een groep verzamelde voorwerpen",
+      "translationLong": "een groep dingen of mensen die samen zijn verzameld; het verzamelen ervan",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Ze heeft een indrukwekkende verzameling oude boeken."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/terug",
+          "homeLangDetails": "In reflectie betekent re- 'terug' (van het Latijnse reflectere, 'terugbuigen'), niet 'nogmaals'. Het woord beschrijft de terugkaatsing van licht of hoe gedachten op zichzelf terugkeren. Hetzelfde gebeurt in het Nederlands met het woord 'reflectie'."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "buigen"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "de terugkaatsing van licht",
+      "translationLong": "de terugkaatsing van licht of warmte; ernstige gedachte of overweging",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Ik zag mijn spiegelbeeld in de spiegel."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met of samen. Dit is een van de meest gebruikte Latijnse voorvoegsels. Verbinden, combineren, samenwerken, verzamelen. De spelling verandert mee met het volgende geluid. In het Nederlands herkent het ook als 'co-' in woorden als coëxistentie."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "binden"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "een relatie of verbinding",
+      "translationLong": "een relatie of associatie tussen dingen; het verbinden ervan",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "Er is een sterke verbinding tussen lichaamsbeweging en goede gezondheid."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/vooruit",
+          "homeLangDetails": "Vooruit, ervoor, of in plaats van. Denk aan woorden als progressie, produceren, voornaamwoord."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "bedekken"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "bescherming tegen schade",
+      "translationLong": "het beschermen van iemand of iets tegen schade of letsel",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "We hebben betere bescherming nodig tegen cyberaanvallen."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Een flexibel voorvoegsel met twee verschillende betekenissen: 'niet' (inactief, onmogelijk, illegaal) en 'naar binnen' (invoegen, importeren). De spelling past zich aan aan de volgende klank."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "roepen"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "uitnodiging",
+      "translationLong": "een handeling van uitnodigen; een verzoek of oproep om aanwezig te zijn",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "Ik heb een uitnodiging voor de bruiloft ontvangen."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "voor",
+          "homeLangDetails": "Voor in tijd of plaats. Voorspellen, voorbereiding, voorhistorisch."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "gereed maken"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "voorbereiding",
+      "translationLong": "het proces van iets klaar maken; voorbedachte planning",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "Goede voorbereiding is essentieel voor succes."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "lichaam/instrument"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-eer",
+          "homeLangDetails": "Iets een bepaalde kwaliteit geven, of een proces veroorzaken. Moderniseren, organiseren, realiseren."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "organisatie",
+      "translationLong": "een groep mensen met een gemeenschappelijk doel; de handeling van systematische ordening",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "De organisatie werkt om mensen in nood te helpen."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "eenvoudig"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-eer",
+          "homeLangDetails": "Iets maken of doen worden. Vereenvoudigen, verduidelijken, intensiveren."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "vereenvoudiging",
+      "translationLong": "de handeling van iets eenvoudiger of minder ingewikkeld maken",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "De vereenvoudiging van de regels maakte het spel makkelijker om te spelen."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "genoeg"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "doen/maken"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "tevredenheid",
+      "translationLong": "de toestand van tevreden of blij zijn; vervulling",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Klanttevredenheid is onze topprioriteit."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "kwaliteit/geschikt"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-eer",
+          "homeLangDetails": "Iets maken of doen worden. Vereenvoudigen, verduidelijken, intensiveren."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "kwalificatie",
+      "translationLong": "een vaardigheid, vermogen of bewijs dat iemand geschikt maakt voor iets; het zich kwalificeren",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "Ze heeft de juiste kwalificaties voor de baan."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "hetzelfde"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-eer",
+          "homeLangDetails": "Iets maken of doen worden. Vereenvoudigen, verduidelijken, intensiveren."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "identificatie",
+      "translationLong": "de handeling van herkennen of bewijzen wie of wat iets is; een document dat identiteit vaststelt",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "Je hebt een foto-identificatie nodig om naar binnen te gaan."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "Uit, voormalig, of weg. Uitademen, exporteren, uitwerpen, ex-president."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "kracht/waarde"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tie"
+        }
+      ],
+      "translationShort": "evaluatie",
+      "translationLong": "het proces van het beoordelen of bepalen van de waarde of kwaliteit van iets",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "De docent voert een evaluatie uit van de voortgang van de leerlingen."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "onder-",
+          "homeLangDetails": "De tegenhanger van over-. Kan betekenen beneden (ondergronds) of onvoldoende (onderschatten, ondermaats presteren)."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "staan"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar",
+          "homeLangDetails": "In staat zijn om te worden gedaan. Leesbaar, comfortabel, mogelijk."
+        }
+      ],
+      "translationShort": "begrijpelijk",
+      "translationLong": "in staat om begrepen te worden; inzichtelijk",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "De instructies zijn helder en begrijpelijk."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "betalen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar",
+          "homeLangDetails": "In staat zijn om te worden gedaan. Leesbaar, comfortabel, mogelijk."
+        }
+      ],
+      "translationShort": "betaalbaar",
+      "translationLong": "in staat om betaald te worden; redelijk geprijsd",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "We vonden een betaalbaar appartement in de stad."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "afhangen"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "betrouwbaar",
+      "translationLong": "betrouwbaar; waarop je kunt rekenen",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "Hij is een betrouwbare vriend die je altijd helpt."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "geloof"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "ongelooflijk",
+      "translationLong": "verbazingwekkend; niet te geloven; buitengewoon",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "Dat was een ongelooflijke voorstelling!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "zien"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "onzichtbaar",
+      "translationLong": "niet zichtbaar; verborgen uit het zicht",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "De vlek was onzichtbaar voor het blote oog."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "mogelijk"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "onmogelijk",
+      "translationLong": "niet mogelijk; kan niet gebeuren of gedaan worden",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Het leek onmogelijk om de puzzel op te lossen."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "antwoorden"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "onverantwoordelijk",
+      "translationLong": "niet verantwoordelijk; niet betrouwbaar of aansprakelijk",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "Het zou onverantwoordelijk zijn om vroeg van werk te gaan."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "terugdraaien"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "niet terug te draaien",
+      "translationLong": "niet terug te draaien of ongedaan te maken",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "Klimaatverandering kan irreversibele schade aan het milieu veroorzaken."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "on-",
+          "homeLangDetails": "Dit voorvoegsel kan twee dingen betekenen: 'niet' (onactief, onmogelijk, onwettig) en 'in' (invoegen, invoer). De spelling past zich aan aan het volgende geluid, net zoals in het Nederlands 'on-' soms 'om-' of 'ont-' wordt."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "vernietigen"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-baar",
+          "homeLangDetails": "Iets dat kan gebeuren of gedaan kan worden. Leesbaar, comfortabel, mogelijk. Je kent dit achtervoegsel uit woorden als 'eetbaar' en 'begrijpbaar'."
+        }
+      ],
+      "translationShort": "niet kapot te maken",
+      "translationLong": "niet vernietigd of kapot gemaakt kan worden",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Het monument was gebouwd om onverwoestbaar te zijn."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "tussen",
+          "homeLangDetails": "Tussen of onder. Je ziet dit in woorden als 'internationaal', 'interrumperen', 'interactie'. Net als in het Engels werkt dit voorvoegsel perfect voor 'tussen twee dingen'."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "natie"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-aal",
+          "homeLangDetails": "Heeft betrekking op iets of hoort bij iets. Muzikaal, natuurlijk, industrieel. Dit kent je uit het Nederlands met '-aal'."
+        }
+      ],
+      "translationShort": "tussen landen",
+      "translationLong": "met betrekking tot twee of meer landen; tussen landen",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Zij werkt voor een internationale organisatie."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "boven",
+          "homeLangDetails": "Boven, over, of uitzonderlijk. Superman, superieur, bovennatuurlijk. Dit voorvoegsel geeft aan dat iets hoger staat dan normaal."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "natuur"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-aal",
+          "homeLangDetails": "Heeft betrekking op iets of hoort bij iets. Muzikaal, natuurlijk, industrieel. Dit kent je uit het Nederlands met '-aal'."
+        }
+      ],
+      "translationShort": "bovennatuurlijk",
+      "translationLong": "buiten de wetten van de natuur; boven de natuur uit",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "De film bevat bovennatuurlijke wezens en spoken."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "voor",
+          "homeLangDetails": "Voor in tijd of positie. Voorspellen, voorbereiden, prehistorisch. Dit voorvoegsel duidt op iets dat vroeger komt."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "historisch"
+        }
+      ],
+      "translationShort": "voor de geschreven geschiedenis",
+      "translationLong": "uit de tijd voordat geschreven geschiedenis werd bijgehouden",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinosauriërs leefden tijdens de prehistorische tijd op aarde."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "tegen",
+          "homeLangDetails": "Tegen of verzet tegen iets. Antioorlog, antibioticum, anticiperen. Het werkt net als het Nederlandse prefix 'anti-'."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "leven",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-isch"
+        }
+      ],
+      "translationShort": "tegen bacteriën",
+      "translationLong": "een geneesmiddel dat bacteriën doodt of hun groei remt",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "De dokter schreef een antibioticum voor voor de infectie."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "onder",
+          "homeLangDetails": "Onder, beneden of ondergeschikt. Ondergrondse trein, onderzeeër, vervanger. Net als het Nederlandse 'sub-'."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "zee"
+        }
+      ],
+      "translationShort": "onderwaterschip",
+      "translationLong": "een voertuig dat onder water opereert, vooral een militair marineschip",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "De onderzeeër daalde naar grote diepten onder de oceaan."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "zelf",
+          "homeLangDetails": "Zelf of van jezelf. Autobiografie, automatisch, automobiel. Je kent dit uit het Nederlands 'auto-'."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "beweging"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-lijkheid"
+        }
+      ],
+      "translationShort": "vanzelf, zonder handmatig ingrijpen",
+      "translationLong": "op een manier die vanzelf gebeurt of werkt zonder menselijke tussenkomst",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "De deur opent automatisch wanneer je ernaartoe loopt."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "ver",
+          "homeLangDetails": "Op afstand. Telefoon, televisie, telescoop. Het Nederlandse 'tele-' werkt precies hetzelfde."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "zicht"
+        }
+      ],
+      "translationShort": "kijken op afstand",
+      "translationLong": "een systeem voor het verzenden en ontvangen van bewegende beelden en geluid over afstand",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Ze kijkt elke avond televisie."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "volk"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "heerschappij"
+        }
+      ],
+      "translationShort": "heerschappij van het volk",
+      "translationLong": "een regeringssysteem waarin de macht berust bij het volk",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Democratie vereist actieve deelname van alle burgers."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "aarde",
+          "homeLangDetails": "Aarde of land. Aardrijkskunde, geologie, meetkunde. Het Nederlandse 'geo-' betekent hetzelfde."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-schrift-",
+          "homeLangDetails": "Schrijven of vastleggen. Fotografie, biografie, handtekening. Dit zie je overal in woorden die gaan over opnemen of beschrijven."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "beschrijving van de aarde",
+      "translationLong": "de studie van plaatsen, volkeren en de fysieke kenmerken van de aarde",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Aardrijkskundelessen gaan over verschillende regio's en culturen."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "verantwoordelijk"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-heid"
+        }
+      ],
+      "translationShort": "plicht of verplichting",
+      "translationLong": "de staat van verantwoordelijk zijn voor je eigen handelingen of beslissingen",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Met grote macht komt grote verantwoordelijkheid."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "persoon"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-heid"
+        }
+      ],
+      "translationShort": "individueel karakter",
+      "translationLong": "de onderscheidende kenmerken en eigenschappen van een persoon",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Haar uitbundige persoonlijkheid maakt haar populair bij iedereen."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "populair"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-heid",
+          "homeLangDetails": "Het Nederlandse equivalent van het Engelse -ness, maar van Latijnse oorsprong. Vormt abstracte zelfstandige naamwoorden uit bijvoeglijke naamwoorden. Gelijkheid, elektriciteit, werkelijkheid."
+        }
+      ],
+      "translationShort": "geliefd zijn",
+      "translationLong": "de kwaliteit of staat van geliefd, bewonderd of gewaardeerd zijn door veel mensen",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "De populariteit van de band is wereldwijd gegroeid."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "elektrisch"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-heid",
+          "homeLangDetails": "Het Nederlandse equivalent van het Engelse -ness, maar van Latijnse oorsprong. Vormt abstracte zelfstandige naamwoorden uit bijvoeglijke naamwoorden. Gelijkheid, elektriciteit, werkelijkheid."
+        }
+      ],
+      "translationShort": "elektrische energie",
+      "translationLong": "een vorm van energie die ontstaat door de beweging van elektronen door een geleider",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "De meeste moderne huizen zijn afhankelijk van elektriciteit voor stroomvoorziening."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "creëren"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-iteit",
+          "homeLangDetails": "Het Latijnse equivalent van -heid. Vormt abstracte zelfstandige naamwoorden uit adjectieven. Gelijkheid, elektriciteit, realiteit."
+        }
+      ],
+      "translationShort": "het vermogen om creatief te zijn",
+      "translationLong": "de kwaliteit of toestand van creatief zijn; het vermogen om nieuwe dingen te creëren of voor te stellen",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "Haar creativiteit bij het oplossen van problemen indrukwekkend iedereen."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "product"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-iteit",
+          "homeLangDetails": "Het Latijnse equivalent van -heid. Vormt abstracte zelfstandige naamwoorden uit adjectieven. Gelijkheid, elektriciteit, realiteit."
+        }
+      ],
+      "translationShort": "het vermogen om productief te zijn",
+      "translationLong": "de kwaliteit of toestand van productief zijn; de effectiviteit van inspanning gemeten aan de productiviteit",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "De productiviteit van het team nam toe na de installatie van de nieuwe software."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "buigen"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-baar",
+          "homeLangDetails": "Betekent dat iets kan worden gedaan. Leesbaar, comfortabel, mogelijk. Net als het Engels -able."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-iteit",
+          "homeLangDetails": "Het Latijnse equivalent van -heid. Vormt abstracte zelfstandige naamwoorden uit adjectieven. Gelijkheid, elektriciteit, realiteit."
+        }
+      ],
+      "translationShort": "het vermogen om flexibel te zijn",
+      "translationLong": "de kwaliteit of toestand van flexibel zijn; het vermogen om zich aan te passen of te buigen zonder te breken",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "De flexibiliteit van dit materiaal maakt het ideaal voor productie."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "natie"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-aal",
+          "homeLangDetails": "Betekent gerelateerd aan of van de aard van iets. Muzikaal, natuurlijk, industrieel."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-iteit",
+          "homeLangDetails": "Het Latijnse equivalent van -heid. Vormt abstracte zelfstandige naamwoorden uit adjectieven. Gelijkheid, elektriciteit, realiteit."
+        }
+      ],
+      "translationShort": "de status van burgerschap van een natie",
+      "translationLong": "de status van burger van een bepaald land; nationale herkomst of identiteit",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "Zij bezit de dubbele nationaliteit, omdat zij in het ene land is geboren en in het andere genaturaliseerd."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "effect"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit adjectieven, wat betekent 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook adjectieven: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een effectieve manier",
+      "translationLong": "op een manier die het gewenste of beoogde resultaat oplevert; succesvol",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "De nieuwe strategie werkte effectief om kosten te verminderen."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "creëren"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit adjectieven, wat betekent 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook adjectieven: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een creatieve manier",
+      "translationLong": "op een manier die het gebruik van creativiteit en verbeelding inhoudt; met originaliteit en vindingrijkheid",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "Zij benaderde het project creatief en vond innovatieve oplossingen."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "product"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit adjectieven, wat betekent 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook adjectieven: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een productieve manier",
+      "translationLong": "op een manier die resultaten oplevert of effectief is; met goede output of prestatie",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "We brachten de middag productief door en voltooiden al onze taken."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "aantrekken"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ief"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Vormt bijwoorden uit adjectieven, wat betekent 'op een [bepaalde] manier'. Snel, gelukkig, verrassend. Vormt ook adjectieven: vriendelijk, mooi."
+        }
+      ],
+      "translationShort": "op een aantrekkelijke manier",
+      "translationLong": "op een manier die aangenaam, aantrekkelijk of visueel aantrekkelijk is; op een boeiende manier",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "Het winkelraam was aantrekkelijk versierd met seizoensgebonden displays."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "her-",
+          "homeLangDetails": "Geeft aan dat iets opnieuw gebeurt of terugkeert naar een vorige toestand. Uit het Latijn re-, komt het voor in duizenden woorden: herhalen, herbouwen, heroverwegen. Vaak uitwisselbaar met 'opnieuw doen' of 'teruggaan naar'."
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "zoeken"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden voor personen of dingen die de actie uitvoeren. Leraar, acteur, chauffeur, computer."
+        }
+      ],
+      "translationShort": "iemand die onderzoek doet",
+      "translationLong": "een persoon die onderzoek uitvoert; een wetenschapper of geleerde die een onderwerp onderzoekt",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "De onderzoeker publiceerde haar bevindingen in een vakblad."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "ontwikkelen"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Vormt zelfstandige naamwoorden voor personen of dingen die de actie uitvoeren. Leraar, acteur, chauffeur, computer."
+        }
+      ],
+      "translationShort": "iemand die iets ontwikkelt",
+      "translationLong": "een persoon die iets ontwikkelt; verwijst meestal naar een softwareontwikkelaar",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "De ontwikkelaar creëerde een nieuwe functie voor de applicatie."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "werkgeven"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Vormt agentiva, dus woorden voor personen of dingen die een handeling uitvoeren. Net zoals in het Nederlands: leraar, acteur, chauffeur, computer."
+        }
+      ],
+      "translationShort": "degene die werkgeeft",
+      "translationLong": "een persoon of organisatie die werknemers in dienst neemt; een bedrijfseigenaar of manager",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "De werkgever bood aantrekkelijke voordelen aan om toptalent aan te trekken."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "werkgeven"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "Een achtervoegsel (uit het Frans -é) dat de persoon aanduidt die een handeling ondergaat of het doel ervan is. Vergelijk werkgever (degene die werk geeft) met werknemer (degene die werk krijgt). Hetzelfde achtervoegsel zie je in interviewee, trainee en payee."
+        }
+      ],
+      "translationShort": "degene die wordt tewerkgesteld",
+      "translationLong": "een persoon die voor een werkgever werkt in ruil voor betaling",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Elke werknemer van het bedrijf krijgt ziektekostenverzekering."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "foto",
+          "homeLangDetails": "Een samenstelling uit het Grieks phōtos (licht). Je ziet het in veel woorden over licht en afbeeldingen: fotografie, fotosynthese, fotogeniek. Fotografie komt van foto- (licht) + graf (schrijven/opnemen) - letterlijk 'schrijven met licht'."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-",
+          "homeLangDetails": "Schrijven of opnemen. Fotografie, biografie, handtekening."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Vormt agentiva, dus woorden voor personen of dingen die een handeling uitvoeren. Net zoals in het Nederlands: leraar, acteur, chauffeur, computer."
+        }
+      ],
+      "translationShort": "degene die foto's maakt",
+      "translationLong": "een persoon die foto's maakt als beroep of hobby",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "De fotograaf legde prachtige momenten vast op de bruiloft."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "onderzoeken"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "Een variant van het -er achtervoegsel, gebruikt in meer formele of Latijnse contexten. Zowel -er als -or betekenen 'degene die doet', maar -or is gebruikelijk in woorden met Latijnse wortels zoals onderzoeker, senator, acteur en instructeur."
+        }
+      ],
+      "translationShort": "degene die onderzoekt",
+      "translationLong": "een persoon die onderzoeken uitvoert; vaak een professional die bewijsmateriaal of feiten verzamelt",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "De onderzoeker zocht naar aanwijzingen op de plaats van het misdrijf."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "communiceren"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "Vormt agentiva, dus woorden voor personen of dingen die een handeling uitvoeren. Leraar, acteur, chauffeur, computer."
+        }
+      ],
+      "translationShort": "degene die communiceert",
+      "translationLong": "een persoon die effectief of professioneel communiceert; iemand die goed informatie kan overbrengen",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "Als vaardige communicator blinkt zij uit in openbaar spreken."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met elkaar of gezamenlijk. Dit is een van de meest gebruikte Latijnse voorzetsels. Verbinden, combineren, samenwerken, verzamelen. De spelling past zich aan bij het volgende geluid."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "gemeen"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Een achtervoegsel dat zelfstandige naamwoorden en bijvoeglijke naamwoorden in werkwoorden verandert, hier met de betekenis 'dit doen' of 'in deze toestand zijn'."
+        }
+      ],
+      "translationShort": "informatie uitwisselen",
+      "translationLong": "informatie uitwisselen, betekenis overbrengen, gedachten uitwisselen",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "We moeten onze ideeën duidelijk aan het team communiceren."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/niet of in",
+          "homeLangDetails": "Een veelzijdig voorzetsel met twee betekenissen: 'niet' (inactief, onmogelijk, onwettig) en 'in' (inbrengen, importeren). De spelling verandert naar gelang het volgende geluid."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spoor",
+          "homeLangDetails": "Uit het Latijn vestigium (voetafdruk, spoor). Dezelfde wortel zie je in vestige (een overgebleven spoor) en investigator (degene die sporen volgt)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Een achtervoegsel dat de wortel in een handeling verandert: sporen of aanwijzingen volgen of onderzoeken."
+        }
+      ],
+      "translationShort": "zorgvuldig onderzoeken",
+      "translationLong": "zorgvuldig onderzoeken, onderzoeken, een onderzoek uitvoeren",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "De politie zal morgen de plaats van het misdrijf onderzoeken."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met elkaar of gezamenlijk. Dit is een van de meest gebruikte Latijnse voorzetsels. Verbinden, combineren, samenwerken, verzamelen. De spelling past zich aan bij het volgende geluid."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "werk"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Een achtervoegsel dat 'werk' in een handeling verandert: samen werken."
+        }
+      ],
+      "translationShort": "samen werken",
+      "translationLong": "samen werken, samenwerken",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "We zullen samen met collega's van andere afdelingen aan dit project werken."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "deel",
+          "homeLangDetails": "Uit het Latijn pars (deel). Gecombineerd met het volgende morfeem -icip-, ontstaat het idee van 'deel nemen' of 'aandeel hebben in iets'."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "nemen",
+          "homeLangDetails": "Uit het Latijn capere (nemen). Het Latijnse participium ('degene die deelneemt') combineert 'deel' + 'nemen' om betekent 'aandeel hebben in iets'."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Een achtervoegsel dat zelfstandige naamwoorden in werkwoorden verandert."
+        }
+      ],
+      "translationShort": "deelnemen",
+      "translationLong": "deelnemen, meedoen, erbij betrokken zijn",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Alle studenten moeten aan de klasdiscussie deelnemen."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met elkaar of gezamenlijk. Dit is een van de meest gebruikte Latijnse voorzetsels. Verbinden, combineren, samenwerken, verzamelen. De spelling past zich aan bij het volgende geluid."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "aangenaam",
+          "homeLangDetails": "Uit het Latijn gratus (aangenaam, dankbaar). Dezelfde wortel zie je in gracie, dankbaar en dankbaarheid - alles gerelateerd aan aangenaamheid en welwillendheid."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "Een verkleinend/iteratief achtervoegsel (uit het Latijn -ulatus). Het verzacht of herhaalt de handeling, hier met de betekenis plezier of welwillendheid naar iemand uitdrukken op een warme, aanhoudende manier."
+        }
+      ],
+      "translationShort": "iemand prijzen voor een prestatie",
+      "translationLong": "iemand prijzen voor een prestatie, plezier of welwillendheid uitdrukken",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Ik wil je feliciteren met je uitstekende prestatie!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/verkeerd",
+          "homeLangDetails": "Dit voorvoegsel geeft aan dat iets fout of slecht is gedaan. Net als in het Nederlands 'mis-' (mislukt, misbruik, misverstand). Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/tussen",
+          "homeLangDetails": "Tussen of onderling. Je herkent dit terug in Nederlandse woorden als 'inter-' (interactie, interrupt). International, interrupt, interact."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "pret/uitleggen",
+          "homeLangDetails": "Afkomstig uit het Latijn praetere of prae (voor) plus ire (gaan). Het voorvoegsel inter- plus pret- geeft de betekenis van uitleggen wat ertussen zit, dus helderen of verklaren. Maar mis- draait dit om: verkeerd uitleggen."
+        }
+      ],
+      "translationShort": "verkeerd begrijpen",
+      "translationLong": "verkeerd begrijpen, onjuist uitleggen of interpreteren",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Mis mijn woorden niet uit; ik bedoelde het vriendelijk."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/omlaag/ongedaan maken",
+          "homeLangDetails": "Omlaag, weg, of het ongedaan maken van iets. Net als het Nederlandse 'de-' (demontage, deactiveren). Decrease, depart, deconstruct. Dit voorvoegsel keert often de betekenis van het basiswoord om."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/samen",
+          "homeLangDetails": "Met of samen. Een van de meest gebruikte Latijnse voorzetsels. Connect, combine, cooperate, collect. De spelling past zich aan naar het geluid dat volgt."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "struct/bouwen"
+        }
+      ],
+      "translationShort": "uit elkaar halen en analyseren",
+      "translationLong": "uit elkaar halen, ontleden, analyseren door in onderdelen op te splitsen",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "In dit seminar gaan we de hoofdargumenten in de tekst uit elkaar halen en analyseren."
+    }
+  ]
+}

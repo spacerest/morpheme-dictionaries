@@ -1,0 +1,92 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows English and is learning Hindi. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the Hindi word exactly as given in Devanagari script (do not romanize).
+2. **article**: Hindi has no articles. Use "" for verbs and uninflected forms. For nouns, use "(m)" or "(f)" to indicate grammatical gender, which affects agreement in sentences even though there is no separate article word.
+3. **displayPrefix**: Omit — not used for Hindi.
+4. **parts**: Split the word at all real morpheme boundaries. Key patterns:
+   - Prefixes (उपसर्ग): Sanskrit-origin (अ-, अति-, प्र-, वि-, सु-, स्व-, नि-, परि-, अनु-, सम्-) and Persian/Arabic-origin (बद-, बे-, ना-, ला-, हम-, कम-, ख़ुश-) are their own parts.
+   - Suffixes (प्रत्यय): Abstract noun suffixes (-ता, -त्व, -पन, -आई), quality suffixes (-मान/-वान, -हीन), agent/occupational suffixes (-कार, -दार, -वाला/-वाली, -ख़ोर, -बाज़) are their own parts.
+   - Compound nouns split at each recognizable root: विद्यालय = विद्या + आलय (knowledge + abode).
+   - The surface form of each part must be exactly as it appears in the word — Devanagari conjunct consonants stay intact within a part.
+   Aim for 2–4 parts. If a word genuinely has only 1 morpheme, include it and add a flag.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning only — never slash-separate synonyms; pick the best single English word and put alternatives in homeLangDetails. (b) Prefixes: अ = "not", बे = "without", प्र = "forth", सु = "well", स्व = "self", बद = "ill", ना = "un-". (c) Suffixes use short English equivalents: -ता = "-ness", -दार = "holder", -वाला = "person", -हीन = "-less", -कार = "doer". (d) Roots get one clear English word.
+6. **translationShort**: A natural, concise English translation (1–4 words).
+7. **translationLong**: Longer or alternate translations if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it only when (a) a morpheme works differently in this specific word than its standard meaning, or (b) the letters resemble a morpheme but are not functioning as one here. Write in a warm, conversational tone. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct Hindi sentence in Devanagari script using the word.
+10. **exampleTranslation**: Accurate English translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "Hindi Vocab",
+  "words": [
+    {
+      "id": "स्वतंत्रता",
+      "article": "(f)",
+      "parts": [
+        {"targetLang": "स्व", "homeLang": "self/own"},
+        {"targetLang": "तंत्र", "homeLang": "rule/system"},
+        {"targetLang": "ता", "homeLang": "-ness"}
+      ],
+      "translationShort": "independence",
+      "translationLong": "independence, freedom, self-rule",
+      "exampleSentence": "भारत को 1947 में स्वतंत्रता मिली।",
+      "exampleTranslation": "India gained independence in 1947."
+    },
+    {
+      "id": "बेकार",
+      "article": "",
+      "parts": [
+        {"targetLang": "बे", "homeLang": "without"},
+        {"targetLang": "कार", "homeLang": "work/use"}
+      ],
+      "translationShort": "useless",
+      "translationLong": "useless, idle, without purpose",
+      "exampleSentence": "यह पुरानी मशीन अब बेकार हो गई है।",
+      "exampleTranslation": "This old machine has become useless now."
+    },
+    {
+      "id": "दुकानदार",
+      "article": "(m)",
+      "parts": [
+        {"targetLang": "दुकान", "homeLang": "shop"},
+        {"targetLang": "दार", "homeLang": "holder/possessor"}
+      ],
+      "translationShort": "shopkeeper",
+      "translationLong": "shopkeeper, storekeeper",
+      "exampleSentence": "दुकानदार ने मुझे ताज़ी सब्ज़ियाँ दीं।",
+      "exampleTranslation": "The shopkeeper gave me fresh vegetables."
+    },
+    {
+      "id": "अज्ञान",
+      "article": "(m)",
+      "parts": [
+        {"targetLang": "अ", "homeLang": "not/without"},
+        {"targetLang": "ज्ञान", "homeLang": "knowledge"}
+      ],
+      "translationShort": "ignorance",
+      "translationLong": "ignorance, lack of knowledge",
+      "exampleSentence": "अज्ञान से बड़ा कोई दुश्मन नहीं है।",
+      "exampleTranslation": "There is no greater enemy than ignorance."
+    },
+    {
+      "id": "पढ़ाई",
+      "article": "(f)",
+      "parts": [
+        {"targetLang": "पढ़", "homeLang": "read/study"},
+        {"targetLang": "आई", "homeLang": "process/quality"}
+      ],
+      "translationShort": "studying",
+      "translationLong": "studying, education, the act of learning",
+      "exampleSentence": "उसकी पढ़ाई बहुत अच्छी है।",
+      "exampleTranslation": "His/her studies are going very well."
+    }
+  ]
+}

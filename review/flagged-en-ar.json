@@ -1,0 +1,970 @@
+[
+  {
+    "word": "injection",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation states that 'in' means 'the entrance into something or negation' and compares it to Arabic 'في' (fee) meaning 'in/inside.' However, the Latin prefix 'in-' in 'injection' actually means 'in/into' (indicating direction inward), not negation. The negation sense of 'in-' is a separate (though related) usage. The homeLang gloss 'في/داخل' is acceptable, but the details are misleading by introducing 'negation' as a primary meaning here.",
+    "suggestion": "Simplify homeLangDetails to focus on the locative/directional meaning: 'إلى الداخل/في الداخل - تشير إلى الدخول والحركة نحو الداخل' and remove the reference to negation as it doesn't apply to this particular word.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "projection",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The prefix 'pro-' is analyzed as a single unit, but it should ideally be kept as is. However, the more critical issue is that 'projection' has multiple meanings (physical protrusion, forecast, psychological defense mechanism), and the translationShort 'إسقاط/توقع' conflates different senses. 'إسقاط' typically refers to the psychological mechanism or to projection as casting/throwing outward, while 'توقع' means forecast/prediction. The word structure is correct, but the translation is imprecise.",
+    "suggestion": "Either split the translation into separate senses or choose the primary intended meaning. If this entry is meant to cover the 'forecast' sense, translationShort should be 'توقع' alone. If covering the geometric/psychological sense, it should be 'إسقاط' alone. The translationLong attempts to cover both but is somewhat awkward.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'أبدى اعتراضه على الاقتراح خلال الاجتماع' is grammatically awkward. 'أبدى اعتراضه' (literally 'expressed his objection') is correct, but a more natural phrasing would be 'أبدى اعتراضاً على...' or 'اعترض على...' The current version sounds stilted.",
+    "suggestion": "Change exampleTranslation to: 'اعترض على الاقتراح خلال الاجتماع' or 'أبدى اعتراضاً على الاقتراح خلال الاجتماع.'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'juris' is translated as 'قانون' (law), but it actually comes from Latin 'ius' meaning 'law/right' and 'juris' is the genitive form. The translation is acceptable but could be more precise as 'حق/قانون' to reflect the root meaning of right or law.",
+    "suggestion": "Consider 'حق' (right/law) as it more directly reflects the Latin root 'ius'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'dict' is translated as 'يحكم/يقضي' but 'dict' comes from Latin 'dicere' meaning 'to say/speak', not 'to judge' or 'to rule'. The suffix relates to speaking/saying (as in dictate, predict, etc.), not judgment.",
+    "suggestion": "Change to 'يقول/ينطق' (to say/speak) to accurately reflect the Latin root 'dicere'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'port' is translated as 'يحمل/ينقل', but 'port' comes from Latin 'portare' which means 'to carry'. While 'ينقل' (to transport) is contextually related, 'يحمل' (to carry/bear) is the more direct translation of the Latin root.",
+    "suggestion": "Simplify to 'يحمل' (to carry) as the primary translation, with 'ينقل' as secondary if needed",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "Same as in 'transportation': 'port' comes from Latin 'portare' meaning 'to carry', not 'يحمل/ينقل'. Should be consistent with the more direct Latin root translation.",
+    "suggestion": "Change to 'يحمل' (to carry) for consistency and accuracy",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue: 'port' should translate to 'يحمل' (to carry) from Latin 'portare', not 'يحمل/ينقل'.",
+    "suggestion": "Change to 'يحمل' (to carry) for consistency",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "destruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The prefix 'de' should be separated as its own morpheme. The entry shows 'de' combined with 'struct' as a single unit, but 'de-' is a distinct prefix meaning 'down' or 'reversal' that should be listed separately from 'struct' (build).",
+    "suggestion": "Split into four parts: 'de' (down/reversal), 'struct' (build), 'ion' (noun suffix). The first part should be targetLang 'de' with homeLang 'إنزال أو نفي' rather than the current 'nuzūlāan aw ilghā'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'spect' comes from Latin 'specere' (to look/see), but the gloss 'نظر' is incomplete. While 'نظر' means 'look,' the context of inspection involves looking 'into' or 'upon' something, and the fuller sense should reflect examination or observation.",
+    "suggestion": "Consider 'نظر/فحص' or add detail in homeLangDetails to clarify that this specifically means 'to look at' or 'to examine'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'خلال' (through/during) is not the most accurate representation of the Latin prefix 'per-' in this context. While 'per-' can mean 'through,' in 'perspective' it carries the sense of 'thoroughly' or 'completely,' implying seeing through to understand fully.",
+    "suggestion": "Change to 'بشكل شامل' or 'تماماً' (thoroughly/completely) to better reflect the meaning of 'per-' in perspective",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "description",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The entry splits 'description' as 'de + scrib + tion', but the homeLang definition for 'de' states it is not a separable prefix in this word—it's part of the root from Latin 'describere'. The morphological analysis is self-contradictory: the homeLangDetails correctly notes that 'de' is not a productive prefix here, yet the entry splits it as if it were.",
+    "suggestion": "Either remove 'de' as a separate part and analyze it as 'describ + tion' (with 'describ' as the root), or revise the homeLangDetails to align with a prefix-based analysis. The current state conflates two incompatible analyses.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "prescription",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang for '-tion' is listed as 'صيغة الفعل' (verb form), but '-tion' is a nominalizing suffix that converts verbs to nouns, not a verb form itself.",
+    "suggestion": "Change to 'لاحقة تحويل الفعل إلى اسم' (suffix that converts verbs to nouns) or similar, to match the treatment in other entries like 'description' and 'depression'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang for '-tion' is listed as 'صيغة الفعل' (verb form), but '-tion' is a nominalizing suffix, not a verb form.",
+    "suggestion": "Change to 'لاحقة تحويل الفعل إلى اسم' (suffix that converts verbs to nouns) for consistency with other entries.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "impression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' is glossed as 'في/داخل' (in/inside), but in 'impression' it functions as a variant of 'in-' meaning 'into' or 'upon', not simply 'in'. The gloss is oversimplified and doesn't capture the directional sense that produces 'pressing into'.",
+    "suggestion": "Change to 'إلى داخل' or 'على' to better reflect the sense of pressing upon or into a surface",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "impression",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'press' is glossed as 'ضغط' (pressure/pressing), but this doesn't fully capture the semantic connection. The Latin root is 'pressare' (to press), and the sense in 'impression' relates to the mark or effect created by pressing, not simply the act of pressing itself.",
+    "suggestion": "Refine to 'ضغط/أثر الضغط' to reflect both the action and the resulting mark",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation uses 'عائقاً' (obstacle/barrier) which does not accurately convey 'distraction'. The Arabic should more directly reflect 'distraction' as something that diverts attention.",
+    "suggestion": "Change to 'الضوضاء كانت مشتتة كبيرة للانتباه خلال الاختبار' or 'الضوضاء صرفت انتباهي عن الاختبار'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "transmission",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' is glossed as 'إرسال' (sending), but in 'transmission', 'miss' comes from Latin 'mittere' (to send). The gloss should reflect the root meaning more accurately as 'إرسال/إطلاق' or 'بعث'.",
+    "suggestion": "Change to 'بعث/إرسال' or clarify that this is the Latin root 'mittere'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "reception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation of 're-' as 'للخلف' (backward) or 'في المقابل' (in return) is misleading for 'reception'. In this word, 're-' simply means 'back/again' in the sense of receiving something sent TO you, not a reversal of meaning. The detailed explanation conflates the prefix meaning with a backward/reciprocal action that isn't accurate for this particular word.",
+    "suggestion": "Simplify to: 're-' means 'back' or 'toward the receiver,' indicating something coming toward you to be received.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "perception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation that 'per-' means 'من خلال' (through) and invokes the idea of 'grasping something completely through the senses' is somewhat speculative. While 'per-' can mean 'through,' in 'perception' it functions more as an intensifier. The lengthy explanation about 'grasping all aspects' overstates the morphological contribution.",
+    "suggestion": "Simplify to: 'per-' means 'through' or 'thoroughly,' but in 'perception' it primarily works with 'cept' (take/seize) to mean 'to take in' or apprehend.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'fer' is glossed as 'يُشير/ينقل' (indicates/transfers), but in Latin 'ferre' means 'to carry/bear'. The sense of 'refer' comes from 're-' (back) + 'ferre' (carry), meaning 'to carry back' or 'direct to'. The gloss should reflect the root meaning 'to carry' rather than the derived sense of 'indicate/transfer'.",
+    "suggestion": "Change homeLang for 'fer' to 'يحمل/يحمل' (to carry/bear) to accurately reflect the Latin root ferre",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "conference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'reference': 'fer' is glossed as 'يُشير/ينقل' but should reflect the root meaning 'to carry'. In 'conference', con- (together) + fer (carry) means 'to carry together' or 'bring together' for discussion.",
+    "suggestion": "Change homeLang for 'fer' to 'يحمل/يحمل' (to carry/bear)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "interference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'يُمرِّر/ينقل' (transfers/transmits) is imprecise. The root 'fer' means 'to carry/bear'. 'Interference' comes from inter- (between) + fer (carry), meaning 'to carry/strike between'.",
+    "suggestion": "Change homeLang for 'fer' to 'يحمل/يحمل' (to carry/bear)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "interdependence",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'de' is glossed as 'اعتماد' (dependence as a whole noun), but it should be split as 'de+pend' to show the actual morphological structure. The entry treats 'de' as a standalone morpheme meaning the full word 'dependence', which obscures the actual morpheme boundaries.",
+    "suggestion": "Remove the 'de' part entirely or replace it with 'depend' (or keep de+pend as separate parts 0 and 1). The current analysis mixes a full derived word with morpheme-level decomposition.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split 'oc' + 'cur' + 'rence' is misleading. The actual morphological structure is 'oc+curr+ence' or better understood as 'occur+ence'. The 'oc' prefix should be shown as 'ob-/oc-' and 'cur/curr' represents the root, but splitting 'oc' and 'cur' separately without showing 'curr' is incomplete.",
+    "suggestion": "Split as 'oc' (or 'ob-') + 'curr' + 'ence', or provide 'cur/curr' as a single morpheme to reflect that the doubled 'r' is part of the root form 'curr'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-cur-rence' is incorrect. The word should be split as 're-cur-rence' but 'rence' is not a standalone morpheme. The correct split is 're-curr-ence' where 'curr' comes from Latin currere (to run) and '-ence' is the nominalizing suffix.",
+    "suggestion": "Split as: re + curr + ence, with parts[1].targetLang = 'curr' and parts[2].targetLang = 'ence'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'يجري' (runs/flows) is the present tense verb, but the morpheme 'curr' in Latin carries the meaning 'to run'. The gloss should reflect the infinitive or root meaning more clearly.",
+    "suggestion": "Change to 'يركض' or 'يجري (الجذر من اللاتينية currere)' to clarify it's the Latin root",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Similar to 'recurrence', the split 'con-cur-ent' is incorrect. The correct split should be 'con-curr-ent' with the Latin root 'curr' (to run) and the suffix '-ent'.",
+    "suggestion": "Split as: con + curr + ent, with parts[1].targetLang = 'curr' and parts[2].targetLang = 'ent'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as recurrence: 'يجري' should better reflect the Latin root meaning 'to run' in the context of occurring together.",
+    "suggestion": "Change to 'يركض' or clarify with a note about the Latin root currere",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-cess-ion' is incorrect. The correct split should be 're-ced-ion' where 'ced' comes from Latin cedere (to go/yield). 'Cess' is not the correct morpheme boundary.",
+    "suggestion": "Split as: re + ced + ion, with parts[1].targetLang = 'ced'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'suc-cess-ion' is incorrect. The correct split should be 'suc-ced-ion' where 'ced' comes from Latin cedere (to go/yield). 'Cess' is not the correct morpheme boundary.",
+    "suggestion": "Split as: suc + ced + ion, with parts[1].targetLang = 'ced'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'pre' should be further analyzed. The entry correctly notes that 'precedent' is the base word, but 'pre' should be split from 'ced' to show the full structure: un-pre-ced-ent-ed. Currently parts[1] and parts[2] conflate the prefix with the root.",
+    "suggestion": "Reorganize as: un + prec + ed + ent + ed, OR clarify that 'pre' is part of the 'precedent' root (pre-ced-ent) and split as: un + precedent + ed",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The structure is unclear and possibly incorrect. The word is: un + prec(ed)ent + ed. The current split includes 'ced' and 'ent' separately, but 'ed' appears twice (parts[3] and parts[4]) which is confusing. The '-ed' in 'unprecedented' is not a past tense marker but part of the adjective form 'precedented' with negation prefix.",
+    "suggestion": "Restructure as: un + precedent + ed (where 'ed' is the adjectival suffix), OR: un + prec + ed + ent (if splitting the Latin root)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "reformation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The word \"Reformation\" (when capitalized) refers specifically to the 16th-century Protestant religious movement, not a general act of reforming. The generic translation \"إصلاح\" is misleading for the historical proper noun usage shown in the example.",
+    "suggestion": "For the generic sense, \"إصلاح\" is acceptable, but consider clarifying that when referring to the historical event, it should be \"الإصلاح الديني\" or \"حركة الإصلاح\". Alternatively, provide the specific historical meaning as the primary translation.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "information",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The morpheme boundary is incorrect. 'in-' and 'form' should not be separated this way. The word structure is 'inform' + 'ation', where 'inform' is the base verb. The prefix 'in-' is part of the Latin root 'informare', but in modern English morphology, it's more accurate to analyze it as 'in' + 'form' + 'ation' only if treating the Latin components; however, the entry treats 'in' as a standalone morpheme meaning 'forming' which conflates the prefix with part of the root meaning.",
+    "suggestion": "Either split as 'inform' + 'ation' (treating inform as the base), or if splitting 'in' + 'form' + 'ation', clarify that 'in-' here is a Latin prefix meaning 'into/upon' (not 'forming'), and the combined sense comes from the original Latin 'informare'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme split is incorrect. 'Cor' is not a morpheme meaning 'prefix of intensification' in corruption. The correct split should be: cor (with) + rupt (break) + ion (noun suffix).",
+    "suggestion": "Change parts[0].targetLang from 'cor' to 'co' or 'com', and update homeLang to 'مع/معاً' (with/together). Alternatively, keep 'cor' but clarify it means 'with' not 'intensification prefix'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'بادئة تكثيف' (intensification prefix) is incorrect for the 'cor-' morpheme in corruption. The prefix 'cor-/com-' means 'with' or 'together', not intensification.",
+    "suggestion": "Change to 'مع/معاً' (with/together) to accurately reflect the Latin prefix meaning.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'جهاز يلتقط الأصوات الضعيفة ويعليها' suggests the microphone makes weak sounds louder, which is imprecise. A microphone converts sound waves into electrical signals; amplification is a separate function.",
+    "suggestion": "Change to 'جهاز يحول الأصوات إلى إشارات كهربائية' or 'جهاز لالتقاط الأصوات وتحويلها إلى إشارات كهربائية'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ism' in 'anachronism' does not mean 'معتقد/نظام' (belief/system). In this context, '-ism' is a noun-forming suffix that creates the noun from the root concept, not indicating a belief system. The word refers to a state or instance of being anachronistic.",
+    "suggestion": "Change to 'حالة/ظاهرة' (state/phenomenon) or simply note it as a 'لاحقة تكوين الأسماء' (noun-forming suffix)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "psychology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'psych' is glossed as 'النفس' (the soul/psyche), but this is a false cognate relationship. In English, 'psych' comes from Greek 'psyche' meaning soul/mind, not from Arabic. The gloss should reflect the Greek origin and meaning, not create a false equivalence with the Arabic word.",
+    "suggestion": "Either change the homeLang to reflect the Greek etymology (e.g., 'العقل/الروح (من اليونانية)') or clarify that this is a semantic equivalent rather than a cognate",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "anthropology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'anthrop' is glossed as 'الإنسان' but this represents a semantic equivalent from Greek 'anthropos', not an actual Arabic cognate. This misleads learners about the word's origin.",
+    "suggestion": "Clarify that 'anthropos' is the Greek root meaning 'الإنسان', or rephrase to make the Greek etymology explicit",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "dermatology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'dermat' is glossed as 'الجلد' but this is a Greek root 'derma', not an Arabic cognate. The gloss creates a false equivalence.",
+    "suggestion": "Clarify the Greek etymology (e.g., 'الجلد (من اليونانية derma)') to distinguish it from actual Arabic cognates",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'sym' is glossed as 'مع' (with), implying an Arabic or direct equivalence, but 'sym' is a Greek prefix 'syn' meaning 'with/together'. This misleads about the word's actual origin.",
+    "suggestion": "Clarify that 'sym' is from Greek 'syn' meaning 'مع/معاً', making the Greek origin explicit",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "empathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'em' is glossed as 'في' (in), but 'em' is from Greek 'en' meaning 'in/within'. The gloss creates a false equivalence with Arabic rather than acknowledging the Greek origin.",
+    "suggestion": "Clarify that 'em' is from Greek 'en' meaning 'في/بداخل', making the Greek etymology explicit",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'غير مريح أو مسبب للازعاج' is redundant and awkwardly phrased. 'مسبب للازعاج' (causing annoyance) is not the primary meaning of uncomfortable.",
+    "suggestion": "Use a simpler, more direct translation: 'غير مريح' or 'غير مريح'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation contains a confusing tangent about the Latin root 'credere' which is not the etymology of English 'believe'. English 'believe' comes from Old English 'gelēfan' (Germanic origin), and the detailed comparison to 'incredible' and 'credible' creates false associations and is misleading.",
+    "suggestion": "Remove the tangential discussion about Latin 'credere' and focus on the actual Germanic etymology of 'believe'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "\"whelm\" is not a standalone morpheme in modern English. The word should be split as \"over\" + \"whelm\" where \"whelm\" itself is archaic/rare and only appears in the compound \"overwhelm\". However, the entry treats \"whelm\" as if it were a recognizable component, which may mislead learners. Consider noting that this is a historical compound where \"whelm\" is no longer productive.",
+    "suggestion": "Either add a note that \"whelm\" is archaic and rarely used independently, or restructure to show \"overwhelm\" as a single lexical unit before adding \"-ing\". If keeping the current structure, clarify in homeLangDetails that \"whelm\" is primarily found in the compound form.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "underestimate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The second part is listed as 'estimate' in both targetLang and homeLang, but 'estimate' is not a standalone morpheme in this context—it's the root verb. The homeLang should provide the Arabic equivalent of the English word 'estimate', not just repeat the English word.",
+    "suggestion": "parts[1].homeLang should be something like 'تقدير' (taqdīr) or a similar Arabic translation of 'estimate'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "overestimation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as above: 'estimate' is listed in homeLang but should be translated to Arabic.",
+    "suggestion": "parts[1].homeLang should be 'تقدير' or equivalent Arabic translation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "overestimation",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tion' is listed as 'tion' in homeLang, which is just a repetition of the English. It should be explained or translated to show it's a nominalization suffix.",
+    "suggestion": "parts[2].homeLang should be '-tion (لاحقة تحويل الفعل إلى اسم)' or similar explanation in Arabic",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "multicultural",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The second part is listed as 'cultural' in both targetLang and homeLang, but homeLang should provide the Arabic translation, not repeat the English word.",
+    "suggestion": "parts[1].homeLang should be 'ثقافي' (thaqāfī) or equivalent Arabic translation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The second part is listed as 'continental' in both targetLang and homeLang, but homeLang should provide the Arabic translation, not repeat the English word.",
+    "suggestion": "parts[1].homeLang should be 'قاري' (qārī) or equivalent Arabic translation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The second part is listed as 'change' in both targetLang and homeLang, but homeLang should provide the Arabic translation, not repeat the English word.",
+    "suggestion": "parts[1].homeLang should be 'تغيير' (taghyīr) or equivalent Arabic translation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-able' is listed as '-able' in homeLang, which is just a repetition of the English. It should be explained or translated to show it's an adjective-forming suffix.",
+    "suggestion": "parts[2].homeLang should be '-able (لاحقة صفة تدل على الإمكانية)' or similar explanation in Arabic",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'Encouragement' should be split as 'en' + 'courage' + 'ment', not 'encourage' + 'ment'. The prefix 'en-' is a separate morpheme that transforms the noun 'courage' into a verb 'encourage'.",
+    "suggestion": "Split into three parts: 'en' (prefix meaning 'to put into/cause to be'), 'courage' (noun), and 'ment' (suffix forming nouns from verbs)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "encouragement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLang gloss 'شجاعة' (courage/bravery) and the detailed explanation are misleading. While 'courage' etymologically comes from Latin 'cor' (heart), the morpheme here is not 'courage' as a standalone root in the modern sense—it's part of the verb 'encourage'. The homeLang should reflect the verb 'encourage' or its components, not just the noun 'courage'.",
+    "suggestion": "Correct the split first (see above), then gloss 'courage' simply as 'شجاعة' without the etymological details that obscure the synchronic morphological structure",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. The three parts should be 'industry' + 'ize' + 'tion' (or 'industrial' + 'ize' + 'tion'), but the current split shows 'industrial' in part[0], then incorrectly assigns '-al' to part[1] and '-ize' to part[2]. This is backwards and confusing.",
+    "suggestion": "Split as: 'industry' (or 'industrial') + 'ize' + 'tion'. The homeLang values should be 'صناعة' + '-ize' + '-tion' (or similar for the suffix glosses)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Part[1] lists homeLang as '-al' (which is an adjective-forming suffix), but the targetLang is 'ize' (a verb-forming suffix). These are different morphemes and should not be conflated.",
+    "suggestion": "homeLang for part[1] should be '-ize' or a clear gloss of the verb-forming suffix",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The entry splits 'disappointment' into 'dis + appoint + ment', but the homeLangDetails correctly notes that 'disappoint' is itself a frozen compound from French 'désappointer'. The morphemic analysis is misleading because 'dis' and 'appoint' no longer transparently compose to mean 'disappointment' in modern English. The word should be treated as 'disappoint + ment', not further decomposed.",
+    "suggestion": "Revise parts to contain only: (1) 'disappoint' (homeLang: 'خيّب ظنه/أحبط'), and (2) 'ment' (homeLang: '-ment'). Remove the 'dis' and 'appoint' split, or add a note that 'disappoint' itself is a frozen compound not to be further analyzed.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The entry splits 'outrageous' as 'outrage + ous', and the homeLangDetails explicitly explains that 'outrage' is a frozen compound where 'out' is NOT the English prefix and 'rage' is NOT the word for anger. However, the parts list still presents 'outrage' as if it can be transparently analyzed, which contradicts the detailed explanation that it is an indivisible unit.",
+    "suggestion": "Either: (1) Remove the homeLangDetails explanation and accept the 'outrage + ous' split as presented, or (2) Restructure the entry to indicate that 'outrage' is a frozen compound not meant to be further decomposed, and present it as a single morpheme + 'ous'. Choose one approach consistently.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'فوق، خارج نطاق' (above, outside scope) is imprecise. The prefix 'extra-' means 'beyond' or 'outside,' but the translation should reflect this more clearly as a prefix meaning rather than listing synonyms.",
+    "suggestion": "Change to 'خارج، بعيد عن' or simply 'خارج' to better represent the prefix meaning of 'beyond'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'تعليق، ملاحظة' (comment, observation) is misleading. While 'remark' can mean 'comment,' in 'remarkable' the root 'mark' (from Old French marquer) means 'to mark/notice,' making 'remarkable' mean 'worthy of being marked/noted,' not literally derived from the modern noun 'remark.'",
+    "suggestion": "Change to 'جدير بالملاحظة' (worthy of notice) or 'قابل للاحتفاظ به في الذاكرة' (notable) to reflect the actual etymological sense",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix is split incorrectly as 'al' and 'ize' separately. The actual morphological structure is 'compartment' + 'alize' (not 'al' + 'ize'). The '-alize' suffix is a single morpheme that means 'to make into' or 'to cause to be.' Splitting it into 'al' and 'ize' misrepresents the morphology.",
+    "suggestion": "Combine parts[1] and parts[2] into a single morpheme '-alize' with appropriate homeLang and homeLangDetails",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'تقسيم إلى أقسام منفصلة' (dividing into separate sections) is too literal and misses the psychological/cognitive meaning of the verb. Compartmentalize means to mentally separate or isolate different aspects (especially emotionally), not just to divide into sections.",
+    "suggestion": "Use a translation that captures the sense of mental or emotional separation, such as 'عزل عقلياً' (mentally isolate) or 'فصل بشكل متعمد' (deliberately separate)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'ممتلئ بـ، يتصف بـ' is overly literal and awkward. A more natural Arabic explanation would emphasize that '-ful' means 'full of' or 'characterized by' in a clearer way.",
+    "suggestion": "Consider: 'مليء بـ، ذو' or simply 'يدل على امتلاء بـ' for clarity",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang for 'ly' is given as just 'لاحقة إنجليزية' (English suffix) without an actual Arabic gloss. This is inconsistent with other entries where the meaning is provided.",
+    "suggestion": "Should be 'بطريقة، بشكل' (as in the 'carefully' entry) to show what the suffix means in Arabic",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'help' is given as 'مساعدة' (help/aid), but in the context of 'helpful/helpfully', the meaning is closer to 'يساعد' (helps) or 'مفيد' (useful). The noun form 'مساعدة' is less precise.",
+    "suggestion": "Consider 'مساعد، مفيد' to better capture the adjectival/helpful sense",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "helplessly",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "Similar to 'helpfully', the homeLang 'مساعدة' (help/aid as a noun) is imprecise for 'help' in 'helpless'. The word 'helpless' is not about 'help' as assistance but about lack of ability/control.",
+    "suggestion": "Consider 'قوة، حول' (power/strength) to better reflect the negation in 'help' that relates to capability, or use 'قادر على المساعدة' (able to help)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss 'لاحقة إنجليزية' (English suffix) is not a translation or homeLang equivalent. It should provide an Arabic morpheme or concept, not a label.",
+    "suggestion": "Change to something like 'مليء بـ' or 'ممتلئ بـ' to match the actual meaning explained in homeLangDetails",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'نأملُ أن، إن شاء الله' is inaccurate. 'Hopefully' is an adverb meaning 'in a hopeful manner' or 'it is hoped that', not a direct expression equivalent to Arabic prayer phrases. The translation is misleading.",
+    "suggestion": "Change to 'بأمل' or 'من المأمول أن' to better reflect the adverbial function and meaning",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "'بالأمل، ستتحسن الأحوال الجوية غداً' is awkward. The structure doesn't naturally convey what 'hopefully' does in English (expressing a wish/hope about the sentence).",
+    "suggestion": "Change to 'نأمل أن تتحسن الأحوال الجوية غداً' or 'من المأمول أن تتحسن الأحوال الجوية غداً' to sound more natural in Arabic",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "hopelessly",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "'بدت الحالة يائسة وسيئة جداً' translates the adjective, not the adverb. The example sentence uses 'hopelessly' as an adverb modifying 'dire', so the translation should reflect adverbial usage.",
+    "suggestion": "Change to 'بدت الحالة بشكل يائس وسيئة جداً' or 'بدت الحالة يائسة تماماً'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "thankfulness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'thank' + 'ful' + 'ness', but 'thank' itself may need clarification since the morphological analysis treats it as a single root. However, the current split is acceptable. The real issue is that 'thankful' is the intermediate form that should be noted.",
+    "suggestion": "The split is actually correct as presented. No change needed.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'كان امتنانها واضحاً في عناقها الدافئ' uses past tense 'كان' but the English example uses present tense 'was' in a narrative sense. The translation should match the tense more naturally or the example should be reconsidered.",
+    "suggestion": "Change to 'كان امتنانها واضحاً في عناقها الدافئ' is actually acceptable for narrative past, but consider: 'كان امتنانها واضحاً من خلال عناقها الدافئ' for better flow.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'تأملت بعناية في السؤال قبل الإجابة عليه' changes the structure significantly. 'She thoughtfully considered' should translate more directly to maintain the adverbial modifier position.",
+    "suggestion": "Change to 'اعتبرت السؤال بعناية وتمعن قبل الإجابة عليه' or 'فكرت في السؤال بتأنٍ قبل الإجابة.'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "thoughtlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'عدم اهتمامه آلمها' loses the nuance of 'thoughtlessness' which is more about lack of consideration than simply lack of care. It should better reflect insensitivity or inconsiderateness.",
+    "suggestion": "Change to 'عدم تأمله/تفكيره آلمها' or 'قلة اهتمامه بمشاعرها آلمها' to better capture the meaning.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The part should be 'beautiful' (the adjective), not 'beauty' (the noun). The morpheme structure is beautiful + ly, not beauty + ful + ly. The homeLang should reflect the adjective 'جميل', not the noun.",
+    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beautiful', or restructure to show: beautiful (جميل) + ly (-ly)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation incorrectly suggests that in 'beautifully', -ful is added to 'جمال' (beauty/noun). This is misleading. The -ful suffix creates the adjective 'beautiful' from 'beauty', but the way it's explained makes it seem like -ful is being applied separately in 'beautifully', which is incorrect synchronically.",
+    "suggestion": "Clarify that 'beautifully' = beautiful (adjective: جميل, from beauty + -ful) + -ly. The -ful creates the adjective, then -ly converts it to an adverb.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'cycle' should be further split into 'cyc' (the root) and 'le' (a suffix), since the root is 'cycl-' and the final 'e' is dropped before '-ing'. However, more importantly, 'cycle' itself should be recognized as containing a root 'cycl-' that undergoes vowel dropping before the '-ing' suffix.",
+    "suggestion": "Consider whether the split should be: re- + cycl- + e (noun-forming suffix) + -ing, or simplify by noting that 'cycle' is the base form and '-ing' is added after dropping the final 'e' to form 'recycling'. The current entry obscures this morphophonemic rule.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "reintroduction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'إعادة الإدخال، إعادة التأسيس' is inconsistent. 'إعادة التأسيس' (re-establishment/refounding) does not accurately capture the meaning of 'reintroduction.' The second option is misleading.",
+    "suggestion": "Change to 'إعادة تقديم' or 'إعادة الإدخال' only, to remain consistent with the actual meaning of introducing something again.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "communication",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The part 'ication' should be split into '-ic' (adjective suffix) and '-ation' (noun suffix) as noted in the homeLangDetails, but the entry treats it as a single morpheme.",
+    "suggestion": "Split into two parts: 'ic' (homeLang: لاحقة صفة) and 'ation' (homeLang: لاحقة الاسم)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "education",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'e' is incomplete and misleading. The actual prefix is 'ex-' or 'e-' before 'ducere', but 'e-' alone doesn't clearly represent the morpheme. The word should split as 'e' + 'duc' + 'ation', but 'e' is typically written as 'ex-' in this context or needs clarification that it's the reduced form of 'ex-'.",
+    "suggestion": "Either correct to 'ex' (homeLang: خارج) with note that it becomes 'e-' before vowels, or clarify that 'e' here is the reduced form of 'ex-' meaning 'out'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "introduction",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The part 'tion' should be split from 'intro' since 'intro' itself is a complete prefix and '-tion' is a separate suffix. Currently 'intro' + 'duc' + 'tion' is reasonable, but 'intro' could be further analyzed as 'in-' + 'tro' for greater morphological transparency.",
+    "suggestion": "Consider whether 'intro' should be split further as 'in' (داخل) + 'tro' to show the full morphological structure, or keep as is if treating 'intro' as a fossilized prefix",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as pro-nunc-iation, but 'nunc' is not a meaningful morpheme in English. The correct split should be pro-nounce-ation, where 'nounce' relates to 'announce/renounce' (Latin nuntiare). The current split misrepresents the morphological structure.",
+    "suggestion": "Split as: pro- (forward) + nounce (announce/declare) + -ation (noun suffix)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as ex-plan-ation, but 'plan' does not mean 'flat' in this context. The correct etymological split is ex-plain-ation, where 'plain' relates to 'explain' (from Latin planare, to make clear/smooth). The current morpheme reading is misleading.",
+    "suggestion": "Split as: ex- (out) + plain (make clear) + -ation (noun suffix), not ex-plan-ation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as ex-am-ination, but 'am' meaning 'يزن/يختبر' is not the correct morpheme. The correct split is ex-amin-ation, where 'amin' relates to 'examine' (from Latin examinare). The morpheme 'am' alone does not accurately represent this.",
+    "suggestion": "Split as: ex- (out) + amin (examine/weigh) + -ation (noun suffix), not ex-am-ination with 'am' as a standalone morpheme",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as im-ag-ination, but 'ag' meaning 'صورة ذهنية' is not accurate. The correct split is im-agin-ation, where 'agin' relates to 'imagine' (from Latin imaginari). The morpheme 'ag' alone does not properly represent this semantic component.",
+    "suggestion": "Split as: im- (into) + agin (imagine/form images) + -ation (noun suffix), not im-ag-ination with 'ag' as the core morpheme",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "population",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as pop-ulation, but '-ulation' is glossed as 'تصغير' (diminutive), which is incorrect. The correct analysis is pop-ul-ation, where '-ule' is a diminutive suffix and '-ation' is the nominalizing suffix. Additionally, 'pop-' should be 'popul-' (people, from Latin populus).",
+    "suggestion": "Split as: popul- (people) + -ation (noun suffix forming process), not pop-ulation with '-ulation' as a diminutive. Or more precisely: popul- (people) + -us (masculine singular) + -ation",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'vers' is glossed as '-تحول/تبادل' (transform/exchange), but the Latin root 'vertere' means 'to turn'. While 'تبادل' (exchange) is a loose semantic extension, the core meaning should reflect the turning action.",
+    "suggestion": "Change to '-تحول' or '-دوران' to more directly represent the 'turn' meaning, or clarify that 'تبادل' is a semantic extension of the turning concept (people turning toward each other in conversation).",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'flect' is glossed as '-انحناء' (bending), but in modern English 'reflection' the meaning is more about 'bending back' or 'bouncing back'. The simple '-انحناء' alone doesn't capture the directional aspect (back).",
+    "suggestion": "Change to '-انحناء للخلف' or '-ارتداد' to better reflect that flection in this context means bending/turning backward.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'invitation' should be split as 'invite' + '-ation', not 'in' + 'vit' + 'ation'. The 'in-' prefix and '-vite' root are fused in the modern English word.",
+    "suggestion": "Split as: 'invite' (استدعاء) + '-ation' (-tion), or more granularly: 'in-' (في-) + 'vite' (استدعاء) + '-ation' (-tion), but the current 'vit' is an incomplete/incorrect segmentation.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'par' is not the correct root. The correct split should be 'pre-' + 'pare' + '-ation'. The root is 'pare' (prepare), not 'par'.",
+    "suggestion": "Change parts[1] targetLang from 'par' to 'pare' and homeLang to 'أعدّ/حضّر' (keep the same meaning but correct the morpheme boundary).",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'organ' + 'ize' + 'ation' is incorrect. The correct morphological analysis is 'organ' (جسم/أداة) + '-ize' (صيغة الفعل) + '-ation' (صيغة الاسم)—the 'ize' should include the hyphen to show it's a suffix, and 'organ' as a free root is questionable. Better: 'organize' is the verb, then '-ation' is added.",
+    "suggestion": "Reconsider the split: either 'organ' + '-ize' + '-ation' (with hyphens showing suffixes) or 'organize' + '-ation' as a two-part analysis.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'simple' + 'ify' + 'ation' is problematic. The correct sequence is 'simple' + '-ify' (which creates the verb 'simplify') + '-ation'. The 'ify' should be marked as '-ify' (a suffix), not a separate morpheme.",
+    "suggestion": "Adjust parts[1]: targetLang should be '-ify' (with hyphen) to show it's a suffix that attaches to 'simple'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'sat' + 'is' + 'faction' is morphologically incorrect. The word should be analyzed as 'satisfy' + '-action' or 'satis-' + '-faction', not as three separate parts. The Latin root 'satis' (enough) + 'facere' (to make/do) fuses into 'satisfy', then '-action' is a suffix. The current splitting of 'is' and 'faction' separately is wrong.",
+    "suggestion": "Reconsider: either split as 'satis-' (يكفي) + '-fac-' (يصنع) + '-tion', or more simply as 'satisfy' + '-ation'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "qualification",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'qual' is itself incomplete. The root should be 'qual' (from Latin qualis = of what kind/quality), but the entry doesn't clarify that 'qualif' or the full root 'qual' combines with '-ify' to form 'qualify' before '-ation' is added.",
+    "suggestion": "Consider whether the split should show 'qualify' + '-ation' rather than splitting 'qual-ify-ation', or clarify the morpheme boundaries more precisely.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The 'e-' prefix in 'evaluation' is not 'خارج/سابق' (out/former). The prefix 'e-' in this word is from Latin 'ex-' meaning 'out', but in 'evaluation' it's better understood as part of the root 'evaluate' rather than a productive prefix meaning 'out'. The homeLang gloss misleads by suggesting 'ex-' with its full semantic force.",
+    "suggestion": "Either reconsider the morpheme boundary (perhaps 'eval-' + '-uation') or clarify that 'e-' here is a historical remnant of 'ex-' but functions differently in this context than productive prefixes like 'ex-port' or 'ex-pire'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "understandable",
+    "category": "frozen_compound",
+    "field": "parts[1].homeLangDetails",
+    "issue": "While the note correctly identifies 'understand' as a frozen compound, the entry then splits it into 'under' + 'stand' + 'able'. This is contradictory: if the compound is frozen and 'stand' no longer carries its independent meaning, then presenting 'stand' as a separate morpheme with the gloss 'وقف' (stand) is misleading to a learner.",
+    "suggestion": "Either treat 'understand' as a single unsplittable root (understand + able), or if splitting is educational, clarify in the homeLangDetails that this is etymological rather than synchronic morphology, not a productive morpheme relationship.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'يستجيب' (respond/respond to) does not accurately capture the meaning of the Latin root 'respons-' which relates to responsibility and accountability, not just responding.",
+    "suggestion": "Change to 'يتحمل المسؤولية' or 'المسؤولية' (responsibility/accountability) to better reflect the actual meaning in 'responsible'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'reverse' should be further split into 're-' (again/back) and 'verse' (turn), as the entry's own homeLangDetails explains. Currently it's presented as a single unit when it's itself a compound.",
+    "suggestion": "Split into three parts: 'ir-' (not), 're-' (back), 'verse' (turn), 'ible' (-able). Or at minimum, split 'reverse' into 're' + 'verse'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'destruct' should be further split into 'de-' (remove/undo) and 'struct' (build), as the entry's own homeLangDetails explains. Currently it's presented as a single unit when it's itself a compound.",
+    "suggestion": "Split into three parts: 'in-' (not), 'de-' (remove), 'struct' (build), 'ible' (-able). Or at minimum, split 'destruct' into 'de' + 'struct'.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "international",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'بين الأمم' (literally 'between nations') is awkward. The standard Arabic term for 'international' is 'دولي' or 'عالمي', not a literal compound.",
+    "suggestion": "Use 'دولي' or 'عالمي' as the translationShort to match natural Arabic usage.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'historic' should be further split into 'history' + 'ic' (or 'history' as the root and '-ic' as the suffix forming the adjective). Currently presented as a single unit when the morphological structure continues beyond it.",
+    "suggestion": "Split 'historic' into 'history' and '-ic', resulting in: 'pre-' (before), 'history' (history), '-ic' (adjective suffix).",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "automatically",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'matic' is presented as a separate morpheme, but it should be split further into 'mat' (from Greek 'automatos') + 'ic' (adjective suffix). The entry acknowledges that 'matic' is not independent and always connects to 'auto', which suggests poor segmentation. A cleaner analysis would be: auto + mat + ic + ally.",
+    "suggestion": "Restructure parts to: auto (ذاتي), mat (movement/action), ic (adjective suffix), ally (adverb suffix). Or if keeping 'matic' as a unit, clarify that it functions as a non-productive bound morpheme rather than a standalone morpheme.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "submarine",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'سفينة غواصة' (submarine ship) is redundant. 'غواصة' alone means submarine; adding 'سفينة' (ship) is unnecessary and awkward in Arabic.",
+    "suggestion": "Change translationShort to 'غواصة' (submarine) or 'سفينة حربية تغوص' if more detail is needed.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'respons' is glossed as 'يستجيب/يجيب' (respond/answer), but this is misleading. In 'responsibility', 'respons-' comes from Latin 'respondere' (to answer/respond), but the modern sense has shifted to mean 'accountable' or 'answerable for'. The gloss should reflect the derived meaning in context rather than the literal root.",
+    "suggestion": "Consider glossing as 'مسؤول/محاسب' (accountable/answerable) or add homeLangDetails explaining the semantic shift from 'respond' to 'be accountable for'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "personality",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The suffix '-ality' should be split into '-al' (adjective-forming suffix) and '-ity' (noun-forming suffix, parallel to '-ness'). The current entry treats '-ality' as a single unit, but it's a compound suffix.",
+    "suggestion": "Split into three parts: 'person' (شخص), '-al' (صفة/خاصية), '-ity' (الحالة)",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "creativity",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into three parts: 'create', 'iv', and 'ity'. However, 'iv' is not a meaningful morpheme in English. The correct split should be 'create' + 'ivity' or 'creative' + 'ity'. The current split misleads by treating 'iv' and 'ity' as separate suffixes when they function together as '-ivity'.",
+    "suggestion": "Split as either: (1) 'create' + 'ivity', or (2) 'creative' + 'ity'. The current three-part split is incorrect.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "productivity",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "Similar to 'creativity', the word is split into 'product', 'iv', and 'ity'. The 'iv' is not a standalone morpheme. The correct split should be 'product' + 'ivity' or 'productive' + 'ity'.",
+    "suggestion": "Split as either: (1) 'product' + 'ivity', or (2) 'productive' + 'ity'. The current three-part split is incorrect.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "effectively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'effect', 'iv', and 'ly'. The 'iv' is not a standalone morpheme here. The word should be split as 'effective' + 'ly' or 'effect' + 'ively'.",
+    "suggestion": "Split as either: (1) 'effective' + 'ly', or (2) 'effect' + 'ively'. The current three-part split is incorrect.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "researcher",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The entry acknowledges that 're' in 'research' is a frozen compound where 're' and 'search' no longer function as separable morphemes in modern English. The split into 're + search + er' is misleading because it suggests 're' is a productive prefix, when the entry's own homeLangDetails explicitly states that 'research' is treated as a single lexicalized unit in modern English.",
+    "suggestion": "Either: (1) split as 'research + er' (two parts only), or (2) remove this entry if the intent is to show only productively decomposable words. If keeping it, reconsider the morphological analysis to reflect that 'research' functions as an unanalyzable root.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLangDetails for the '-ly' suffix includes 'تُستخدم أيضاً لتكوين صفات: \"ودود\" و\"جميل\"' (It's also used to form adjectives: 'friendly' and 'beautiful'). This is inaccurate. The '-ly' suffix does not form adjectives; it forms adverbs from adjectives. The examples 'ودود' and 'جميل' are adjectives, not products of '-ly' formation.",
+    "suggestion": "Remove the statement about forming adjectives, or clarify that '-ly' forms adverbs from adjectives, not adjectives themselves. The homeLangDetails should focus solely on the adverbial function.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "Same as productively: the homeLangDetails incorrectly states that '-ly' is 'تُستخدم أيضاً لتكوين صفات' (also used to form adjectives). The '-ly' suffix forms adverbs, not adjectives.",
+    "suggestion": "Remove or correct the false statement about forming adjectives. Clarify that '-ly' converts adjectives to adverbs.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "employer",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'من يستخدم العمال' (who uses/employs workers) is awkward and overly literal. It should be more natural and direct.",
+    "suggestion": "صاحب العمل or من يوظف الموظفين",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Arabic translation uses the feminine form 'متواصلة ماهرة' but the English sentence uses 'she' which is already feminine. However, the translation should match the English more naturally.",
+    "suggestion": "كمتواصلة ماهرة، تتميز في الخطابة العامة. (or use a more natural phrasing like 'تبرع في الخطابة العامة')",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'mun' is glossed as 'مشترك' (shared/common), but this is incomplete. The actual meaning in 'communicate' relates to 'munis' meaning common or public, but the translation should clarify it means 'common' or 'shared among people' rather than just 'مشترك'.",
+    "suggestion": "Change to 'مشترك/عام' or 'مشترك بين الناس' to better reflect the sense of 'common to all people'",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'congratulate' should be split as 'con + grat + ul + ate', not 'con + grat + ulate'. The '-ul-' is a separate formative element (diminutive suffix) that should not be merged with '-ate'.",
+    "suggestion": "Add a fourth part: targetLang 'ul', homeLang '-' (diminutive formative), then keep 'ate' as the final verbal suffix",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is incorrectly split into four parts (mis, inter, pret, et). The correct morphological boundary is: mis + interpret. The 'inter' and 'pret' are not separate morphemes; 'interpret' is the root word, and 'inter-' is a prefix within that root (from Latin inter- 'between'), not a standalone morpheme to be separated from 'pret'.",
+    "suggestion": "Split as: mis (wrong/badly) + interpret (explain/clarify). Remove the separate 'inter' and 'pret' entries, and remove the 'et' suffix entry which does not exist in English.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The explanation of 'pret' is misleading and historically inaccurate. It suggests 'pret' means 'before' and 'go', but 'pret' is not a morpheme in 'misinterpret'. The 'inter-' in 'interpret' means 'between', not 'before', and the Latin root is interpretari (to explain), not decomposable in the way described.",
+    "suggestion": "Remove this part or correct the entire analysis to properly identify the morpheme boundaries.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts[3]",
+    "issue": "English 'misinterpret' does not end in '-et'. There is no archaic or poetic '-et' suffix in this word. The infinitive form is 'misinterpret' with no additional suffix.",
+    "suggestion": "Remove the 'et' part entirely.",
+    "source_file": "en-ar.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang and homeLangDetails",
+    "issue": "The explanation of 'con' is incorrect in context. While 'con-' generally means 'with/together' in Latin, in 'deconstruct' the prefix is 'de-' (reverse/undo) and the root is 'construct'. The 'con-' in 'construct' is part of the root word, not a separate morpheme to analyze. The entry treats 'con' as if it's a standalone morpheme that should be counted separately.",
+    "suggestion": "The correct split should be: de (reverse/undo) + construct (build). Remove the separate 'con' entry, as it is part of the root 'construct', not a separate morpheme in the analysis of 'deconstruct'.",
+    "source_file": "en-ar.json"
+  }
+]

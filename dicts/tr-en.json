@@ -1,0 +1,3965 @@
+{
+  "words": [
+    {
+      "id": "kitaplık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kitap",
+          "homeLang": "book"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ary/-room",
+          "homeLangDetails": "The suffix -lık (and its vowel-harmony variants -lik, -luk, -lük) is a workhorse in Turkish. One of its most common jobs is turning a noun into a place associated with that noun — so kitap (book) becomes kitaplık (bookshelf or library). It also forms abstract nouns and role words, which you'll see in several other words here."
+        }
+      ],
+      "translationShort": "bookshelf, library",
+      "translationLong": "bookcase, bookshelf, library",
+      "exampleSentence": "Kitaplıktaki tüm kitapları okudum.",
+      "exampleTranslation": "I read all the books in the bookcase."
+    },
+    {
+      "id": "öğretmen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğret",
+          "homeLang": "teach"
+        },
+        {
+          "targetLang": "men",
+          "homeLang": "(agent)",
+          "homeLangDetails": "The suffix -men/-man is an older Turkish agent-forming suffix, now mostly seen in a handful of established words like öğretmen (teacher) and çoban (shepherd). It works like -er in English: the one who does the action. In modern Turkish, -ci/-cı is more productive for this role."
+        }
+      ],
+      "translationShort": "teacher",
+      "translationLong": "",
+      "exampleSentence": "Öğretmenimiz bugün yeni bir konu anlattı.",
+      "exampleTranslation": "Our teacher explained a new topic today."
+    },
+    {
+      "id": "yazarlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yaz",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "ar",
+          "homeLang": "(agent)",
+          "homeLangDetails": "The suffix -ar/-er forms agent nouns from verb roots in Turkish — so yaz- (to write) becomes yazar (writer/author). It's equivalent to English -er in this role."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ship/-hood",
+          "homeLangDetails": "Here -lık attaches to an already-formed agent noun (yazar) to create an abstract noun denoting the profession or state. So yazarlık is the condition or profession of being a yazar — authorship, the craft of writing."
+        }
+      ],
+      "translationShort": "authorship, writing",
+      "translationLong": "authorship, the profession of writing",
+      "exampleSentence": "Yazarlık onun en büyük tutkusuydu.",
+      "exampleTranslation": "Writing was his greatest passion."
+    },
+    {
+      "id": "mutfak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mutfak",
+          "homeLang": "kitchen"
+        }
+      ],
+      "translationShort": "kitchen",
+      "translationLong": "kitchen, cuisine",
+      "exampleSentence": "Mutfakta lezzetli bir yemek pişiriyorum.",
+      "exampleTranslation": "I am cooking a delicious meal in the kitchen.",
+      "flag": "only 1 part — mutfak is borrowed from Arabic matbakh (مطبخ, place of cooking) and its internal structure is not transparent in Turkish"
+    },
+    {
+      "id": "temizlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "temiz",
+          "homeLang": "clean"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness",
+          "homeLangDetails": "Here -lik (the front-vowel harmony form of -lık) creates an abstract noun from the adjective temiz, just as English -ness turns 'clean' into 'cleanliness.'"
+        }
+      ],
+      "translationShort": "cleanliness",
+      "translationLong": "cleanliness, tidiness, hygiene",
+      "exampleSentence": "Temizlik sağlığın temelidir.",
+      "exampleTranslation": "Cleanliness is the foundation of health."
+    },
+    {
+      "id": "güzellik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "güzel",
+          "homeLang": "beautiful"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness",
+          "homeLangDetails": "The suffix -lik turns the adjective güzel (beautiful) into an abstract noun, exactly like English -ness turns 'beautiful' into 'beauty' or 'beautifulness.'"
+        }
+      ],
+      "translationShort": "beauty",
+      "translationLong": "beauty, loveliness",
+      "exampleSentence": "Bu şehrin güzelliği herkesi büyülüyor.",
+      "exampleTranslation": "The beauty of this city enchants everyone."
+    },
+    {
+      "id": "hastane",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hasta",
+          "homeLang": "sick, patient"
+        },
+        {
+          "targetLang": "ne",
+          "homeLang": "(place of)",
+          "homeLangDetails": "The -ne/-hane ending comes from Persian khane (خانه), meaning 'house' or 'place.' You see it in a handful of Turkish words: hastane (hospital, literally 'place of the sick'), eczane (pharmacy), and dershane (classroom). It's not a living productive suffix in modern Turkish but is recognizable across these loanwords."
+        }
+      ],
+      "translationShort": "hospital",
+      "translationLong": "",
+      "exampleSentence": "Annem dün hastaneye gitti.",
+      "exampleTranslation": "My mother went to the hospital yesterday."
+    },
+    {
+      "id": "işçi",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "iş",
+          "homeLang": "work, job"
+        },
+        {
+          "targetLang": "çi",
+          "homeLang": "-er (worker)",
+          "homeLangDetails": "The suffix -çi (and its vowel-harmony variants -ci, -cu, -cü, -çı, -çu, -çü) is Turkish's most productive 'person associated with X' suffix. It covers professions, sellers, and enthusiasts alike — so iş (work) gives işçi (worker/laborer). Think of it as a general-purpose -er or -ist."
+        }
+      ],
+      "translationShort": "worker, laborer",
+      "translationLong": "worker, laborer, employee",
+      "exampleSentence": "Fabrikadaki işçiler grevde.",
+      "exampleTranslation": "The workers at the factory are on strike."
+    },
+    {
+      "id": "öğrenci",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğren",
+          "homeLang": "learn"
+        },
+        {
+          "targetLang": "ci",
+          "homeLang": "-er (one who)",
+          "homeLangDetails": "Here the -ci suffix attaches to the verb stem öğren- (to learn) to produce öğrenci (learner, student). It's the same suffix as in işçi, doing its standard job of creating a person-noun from a base."
+        }
+      ],
+      "translationShort": "student",
+      "translationLong": "student, learner, pupil",
+      "exampleSentence": "Her öğrenci sınavda başarılı oldu.",
+      "exampleTranslation": "Every student was successful in the exam."
+    },
+    {
+      "id": "çalışkan",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çalış",
+          "homeLang": "work, strive"
+        },
+        {
+          "targetLang": "kan",
+          "homeLang": "(prone to)",
+          "homeLangDetails": "The suffix -kan/-ken/-gan/-gen forms adjectives meaning 'inclined to' or 'characterized by' a certain action. So çalış- (to work/strive) plus -kan gives çalışkan: someone who is naturally hardworking, inclined to work. It's similar to how English uses -ing in a stable adjective sense ('a striving person'), but -kan implies a habitual disposition."
+        }
+      ],
+      "translationShort": "hardworking, diligent",
+      "translationLong": "hardworking, diligent, industrious",
+      "exampleSentence": "O çok çalışkan bir öğrenci.",
+      "exampleTranslation": "She is a very hardworking student."
+    },
+    {
+      "id": "yardımcı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yardım",
+          "homeLang": "help, aid"
+        },
+        {
+          "targetLang": "cı",
+          "homeLang": "-er (one who)",
+          "homeLangDetails": "The -cı suffix here turns yardım (help/aid) into a noun or adjective meaning 'the one who helps' or 'helping.' It functions like English '-er' in helper, or the adjective 'helpful' depending on context."
+        }
+      ],
+      "translationShort": "helper, assistant",
+      "translationLong": "helper, assistant, helpful, auxiliary",
+      "exampleSentence": "O her zaman yardımcı olmaya hazır.",
+      "exampleTranslation": "She is always ready to be helpful."
+    },
+    {
+      "id": "arkadaşlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "arkadaş",
+          "homeLang": "friend"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ship",
+          "homeLangDetails": "Here -lık creates an abstract noun from arkadaş (friend), giving arkadaşlık (friendship) — the state or quality of being friends. This mirrors how English -ship turns 'friend' into 'friendship.'"
+        }
+      ],
+      "translationShort": "friendship",
+      "translationLong": "friendship, companionship",
+      "exampleSentence": "Arkadaşlık hayatın en değerli hazinesidir.",
+      "exampleTranslation": "Friendship is the most precious treasure in life."
+    },
+    {
+      "id": "sevgi",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sev",
+          "homeLang": "love, like"
+        },
+        {
+          "targetLang": "gi",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "The suffix -gi/-gı/-gu/-gü is a nominalizing suffix that turns a verb root into an abstract noun. From sev- (to love) it produces sevgi — love as a feeling or state. It's less common than -lik but appears in a handful of important emotional and sensory nouns in Turkish."
+        }
+      ],
+      "translationShort": "love, affection",
+      "translationLong": "love, affection, fondness",
+      "exampleSentence": "Annesine olan sevgisi çok derin.",
+      "exampleTranslation": "His love for his mother is very deep."
+    },
+    {
+      "id": "bilgisayar",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bilgi",
+          "homeLang": "knowledge, information"
+        },
+        {
+          "targetLang": "sayar",
+          "homeLang": "counter, processor",
+          "homeLangDetails": "From say- (to count) plus the agent suffix -ar/-er, giving sayar — one who counts or processes. So bilgisayar is literally 'information counter' or 'knowledge processor,' a transparent coinage made when Turkish needed a word for computer."
+        }
+      ],
+      "translationShort": "computer",
+      "translationLong": "",
+      "exampleSentence": "Bilgisayarımda yeni bir program yükledim.",
+      "exampleTranslation": "I installed a new program on my computer."
+    },
+    {
+      "id": "telefon",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "far, distant"
+        },
+        {
+          "targetLang": "fon",
+          "homeLang": "sound, voice"
+        }
+      ],
+      "translationShort": "telephone, phone",
+      "translationLong": "",
+      "exampleSentence": "Telefonum çalıyor, biraz bekler misin?",
+      "exampleTranslation": "My phone is ringing, can you wait a moment?"
+    },
+    {
+      "id": "mutluluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mutlu",
+          "homeLang": "happy"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness",
+          "homeLangDetails": "The suffix -luk (and its vowel-harmony variants -lik, -lık, -lük) turns adjectives or nouns into abstract nouns, much like English -ness or -hood. So mutlu (happy) → mutluluk (happiness)."
+        }
+      ],
+      "translationShort": "happiness",
+      "translationLong": "happiness, joy, contentment",
+      "exampleSentence": "Mutluluk en büyük zenginliktir.",
+      "exampleTranslation": "Happiness is the greatest wealth."
+    },
+    {
+      "id": "üzüntü",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "üzün",
+          "homeLang": "sad/grieved",
+          "homeLangDetails": "From the verb üzmek (to sadden, to distress). The stem üzün- captures the state of being saddened or troubled."
+        },
+        {
+          "targetLang": "tü",
+          "homeLang": "-ness",
+          "homeLangDetails": "The suffix -tü (and its vowel-harmony variants -ti, -tı, -tu) forms abstract nouns from verb stems, expressing the resulting state or condition. Here it turns the sense of being grieved into the noun 'sadness.'"
+        }
+      ],
+      "translationShort": "sadness",
+      "translationLong": "sadness, sorrow, grief",
+      "exampleSentence": "Gözlerindeki üzüntüyü herkes fark etti.",
+      "exampleTranslation": "Everyone noticed the sadness in her eyes."
+    },
+    {
+      "id": "soğukluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "soğuk",
+          "homeLang": "cold"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness",
+          "homeLangDetails": "The suffix -luk (vowel-harmony variants: -lik, -lık, -lük) converts adjectives into abstract nouns. Here soğuk (cold) becomes soğukluk (coldness). It can also refer to figurative coldness, like emotional distance."
+        }
+      ],
+      "translationShort": "coldness",
+      "translationLong": "coldness, cold, chilliness; (figurative) aloofness",
+      "exampleSentence": "İkimiz arasındaki soğukluk birkaç gündür devam ediyor.",
+      "exampleTranslation": "The coldness between us has been going on for a few days."
+    },
+    {
+      "id": "sıcaklık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sıcak",
+          "homeLang": "warm/hot"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "The suffix -lık (vowel-harmony variants: -lik, -luk, -lük) converts adjectives into abstract nouns. Here sıcak (warm, hot) becomes sıcaklık (warmth, heat). It works equally for physical temperature and figurative warmth."
+        }
+      ],
+      "translationShort": "warmth, heat",
+      "translationLong": "warmth, heat, temperature; (figurative) warmth, friendliness",
+      "exampleSentence": "Yazın sıcaklığı bazen dayanılmaz oluyor.",
+      "exampleTranslation": "The heat in summer sometimes becomes unbearable."
+    },
+    {
+      "id": "doktorluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "doktor",
+          "homeLang": "doctor"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-hood/-ship",
+          "homeLangDetails": "When -luk (and its variants) is attached to a profession or role noun rather than an adjective, it means something like '-hood', '-ship', or 'the practice/office of being a —'. So doktorluk is not just 'doctorness' but 'being a doctor, the medical profession.'"
+        }
+      ],
+      "translationShort": "being a doctor",
+      "translationLong": "the medical profession, doctoring, being a doctor",
+      "exampleSentence": "Doktorluk çok sorumluluk gerektiren bir meslektir.",
+      "exampleTranslation": "Being a doctor is a profession that requires a lot of responsibility."
+    },
+    {
+      "id": "gazeteci",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gazete",
+          "homeLang": "newspaper"
+        },
+        {
+          "targetLang": "ci",
+          "homeLang": "-ist/-er",
+          "homeLangDetails": "The suffix -ci (vowel-harmony variants: -cı, -cu, -cü, -çi, -çı, -çu, -çü) is one of Turkish's most productive suffixes. It attaches to a noun to mean 'a person who deals with, works with, or sells that thing.' So gazeteci is literally 'a newspaper person' — a journalist or reporter."
+        }
+      ],
+      "translationShort": "journalist",
+      "translationLong": "journalist, reporter, newsperson",
+      "exampleSentence": "Gazeteci, olayı yerinden takip etti.",
+      "exampleTranslation": "The journalist followed the event on the ground."
+    },
+    {
+      "id": "fırıncı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fırın",
+          "homeLang": "oven/bakery"
+        },
+        {
+          "targetLang": "cı",
+          "homeLang": "-er",
+          "homeLangDetails": "The suffix -cı (vowel-harmony variants: -ci, -cu, -cü, -çi, -çı, -çu, -çü) means 'a person who works with or at something.' Attached to fırın (oven, bakery), it gives fırıncı: the person who works the oven — a baker."
+        }
+      ],
+      "translationShort": "baker",
+      "translationLong": "baker, bread baker",
+      "exampleSentence": "Fırıncı her sabah erken kalkar.",
+      "exampleTranslation": "The baker wakes up early every morning."
+    },
+    {
+      "id": "taksici",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "taksi",
+          "homeLang": "taxi"
+        },
+        {
+          "targetLang": "ci",
+          "homeLang": "-er",
+          "homeLangDetails": "The suffix -ci (vowel-harmony variants) marks a person associated with something. Here it attaches to taksi (taxi) to make taksici: a taxi driver, someone whose work is the taxi."
+        }
+      ],
+      "translationShort": "taxi driver",
+      "translationLong": "taxi driver, cabdriver",
+      "exampleSentence": "Taksici bizi havalimanına zamanında yetiştirdi.",
+      "exampleTranslation": "The taxi driver got us to the airport on time."
+    },
+    {
+      "id": "berberi",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "berber",
+          "homeLang": "barber"
+        },
+        {
+          "targetLang": "i",
+          "homeLang": "(accusative)",
+          "homeLangDetails": "This -i is the accusative case suffix (vowel-harmony variants: -i, -ı, -u, -ü), marking a definite direct object. So berberi means 'the barber' as the object of a verb, e.g. berberi gördüm (I saw the barber). Without it, berber is just the bare noun."
+        }
+      ],
+      "translationShort": "the barber (object)",
+      "translationLong": "barber (as direct object); the barber",
+      "exampleSentence": "Berberi aradım ama meşguldü.",
+      "exampleTranslation": "I called the barber, but he was busy."
+    },
+    {
+      "id": "boyacı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "boya",
+          "homeLang": "paint/dye"
+        },
+        {
+          "targetLang": "cı",
+          "homeLang": "-er",
+          "homeLangDetails": "The suffix -cı (vowel-harmony variants) forms occupational nouns. Boya means paint or dye, so boyacı is the person who paints or dyes things — a painter (as in house painter or shoe shiner) or dyer."
+        }
+      ],
+      "translationShort": "painter, shoe shiner",
+      "translationLong": "painter (walls/shoes), dyer, shoe shiner",
+      "exampleSentence": "Boyacı evi iki günde boyadı.",
+      "exampleTranslation": "The painter painted the house in two days."
+    },
+    {
+      "id": "çamaşırhane",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çamaşır",
+          "homeLang": "laundry/linen"
+        },
+        {
+          "targetLang": "hane",
+          "homeLang": "-house/place",
+          "homeLangDetails": "Hane is a borrowing from Persian خانه (khāne), meaning 'house' or 'place.' In Turkish it appears as a suffix forming compound nouns for places: eczanehane → eczane (pharmacy), yatakhane (dormitory), pastane (pastry shop). Here it turns çamaşır (laundry) into çamaşırhane: a place for doing laundry — a laundromat or laundry room."
+        }
+      ],
+      "translationShort": "laundromat, laundry room",
+      "translationLong": "laundromat, laundry room, washhouse",
+      "exampleSentence": "Çamaşırhane bodrum katta bulunuyor.",
+      "exampleTranslation": "The laundry room is located in the basement."
+    },
+    {
+      "id": "okul",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "okul",
+          "homeLang": "school"
+        }
+      ],
+      "translationShort": "school",
+      "translationLong": "",
+      "flag": "only 1 part",
+      "exampleSentence": "Çocuklar her gün okula gidiyor.",
+      "exampleTranslation": "The children go to school every day."
+    },
+    {
+      "id": "öğretmenlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğret",
+          "homeLang": "teach",
+          "homeLangDetails": "The causative verb stem from öğrenmek (to learn). Öğretmek means 'to cause to learn' — i.e., to teach. The stem öğret- carries this meaning of teaching or instruction."
+        },
+        {
+          "targetLang": "men",
+          "homeLang": "-er (person)",
+          "homeLangDetails": "The suffix -men (also -man) is an agentive suffix that forms nouns for people who perform an action. So öğret- (to teach) + -men = öğretmen (teacher). It is less productive than -ci but appears in several key occupational words."
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-hood/-ship",
+          "homeLangDetails": "The suffix -lik (vowel-harmony variants: -lık, -luk, -lük) attached to an occupational noun means 'the profession, role, or state of being that person.' So öğretmenlik is 'teacherhood' — the profession or act of being a teacher."
+        }
+      ],
+      "translationShort": "teaching (profession)",
+      "translationLong": "the teaching profession, being a teacher",
+      "exampleSentence": "Öğretmenlik çok değerli bir meslektir.",
+      "exampleTranslation": "Teaching is a very valuable profession."
+    },
+    {
+      "id": "yazılı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yaz",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "ıl",
+          "homeLang": "(passive)",
+          "homeLangDetails": "The suffix -ıl (vowel-harmony variants: -il, -ul, -ül) is a passive voice marker in Turkish. It turns an active verb into a passive one: yazmak (to write) → yazılmak (to be written). This passive stem is then used as the base for further derivation."
+        },
+        {
+          "targetLang": "ı",
+          "homeLang": "(adjectival)",
+          "homeLangDetails": "This final -ı (vowel-harmony variants: -i, -u, -ü) functions as a participial/adjectival suffix, converting the passive verb stem into an adjective meaning 'written' or, as a noun, 'a written exam.' So yazılı means 'written (thing)' or colloquially 'written test.'"
+        }
+      ],
+      "translationShort": "written; written exam",
+      "translationLong": "written; written test or exam",
+      "exampleSentence": "Yarın matematik yazılısı var.",
+      "exampleTranslation": "There is a written math exam tomorrow."
+    },
+    {
+      "id": "konuşmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "konuş",
+          "homeLang": "talk/speak",
+          "homeLangDetails": "From the root kon- (related to settling, placing oneself) combined with the reciprocal suffix -uş, giving konuşmak its sense of mutual exchange — people talking with each other. The reciprocal nuance is baked into the stem, so konuşmak inherently implies a back-and-forth."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The suffix -mak (vowel-harmony variant: -mek) is the standard Turkish infinitive ending, equivalent to English 'to —'. It appears on all dictionary forms of Turkish verbs."
+        }
+      ],
+      "translationShort": "to speak, to talk",
+      "translationLong": "to speak, to talk, to converse",
+      "exampleSentence": "Seninle konuşmak her zaman güzel.",
+      "exampleTranslation": "Talking with you is always nice."
+    },
+    {
+      "id": "okumak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oku",
+          "homeLang": "read/recite",
+          "homeLangDetails": "The core verb root meaning to read or to recite. It also covers studying in context, as in 'üniversite okumak' (to study at university)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to read",
+      "translationLong": "to read, to study, to recite",
+      "exampleSentence": "Her gece kitap okumak istiyorum.",
+      "exampleTranslation": "I want to read a book every night."
+    },
+    {
+      "id": "yazmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yaz",
+          "homeLang": "write",
+          "homeLangDetails": "The core verb root meaning to write. It also covers typing and spelling in the right context."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to write",
+      "translationLong": "to write, to type, to spell",
+      "exampleSentence": "Sana bir mektup yazmak istiyorum.",
+      "exampleTranslation": "I want to write you a letter."
+    },
+    {
+      "id": "gitmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "git",
+          "homeLang": "go",
+          "homeLangDetails": "The core verb root meaning to go. Note that the t softens to d in most conjugated forms (gidiyorum, gidecek), but the dictionary form preserves the t."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to go",
+      "translationLong": "to go, to leave, to travel",
+      "exampleSentence": "Yarın okula gitmek zorundayım.",
+      "exampleTranslation": "I have to go to school tomorrow."
+    },
+    {
+      "id": "gelmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gel",
+          "homeLang": "come",
+          "homeLangDetails": "The core verb root meaning to come or to arrive. It is also used in many compound verb constructions, such as 'hoşuna gelmek' (to please someone)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to come",
+      "translationLong": "to come, to arrive",
+      "exampleSentence": "Akşam eve erken gelmek istiyorum.",
+      "exampleTranslation": "I want to come home early in the evening."
+    },
+    {
+      "id": "almak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "al",
+          "homeLang": "take/get",
+          "homeLangDetails": "A very high-frequency root covering both 'take' and 'get/receive'. It also appears in compound verbs like 'yardım almak' (to receive help) and 'nefes almak' (to breathe, literally 'take breath')."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to take, to get",
+      "translationLong": "to take, to get, to receive, to buy",
+      "exampleSentence": "Marketten süt almak gerekiyor.",
+      "exampleTranslation": "We need to get milk from the market."
+    },
+    {
+      "id": "vermek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ver",
+          "homeLang": "give",
+          "homeLangDetails": "The core verb root meaning to give. It pairs naturally with almak (to take/get) and appears in many compound expressions, such as 'karar vermek' (to make a decision, literally 'give a decision')."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to give",
+      "translationLong": "to give, to hand over, to yield",
+      "exampleSentence": "Ona bir hediye vermek istiyorum.",
+      "exampleTranslation": "I want to give her a gift."
+    },
+    {
+      "id": "sevmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sev",
+          "homeLang": "love/like",
+          "homeLangDetails": "The core verb root meaning to love or to like. It covers both deep affection and everyday preferences, so context tells you whether someone loves a person or just likes pizza."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to love, to like",
+      "translationLong": "to love, to like, to be fond of",
+      "exampleSentence": "Müzik dinlemeyi çok seviyorum.",
+      "exampleTranslation": "I love listening to music."
+    },
+    {
+      "id": "bilmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bil",
+          "homeLang": "know",
+          "homeLangDetails": "The core verb root meaning to know (a fact or skill). It is also the source of the extremely important ability suffix -abil-/-ebil- (can/be able to), so this root is a cornerstone of Turkish grammar."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to know",
+      "translationLong": "to know, to be aware of",
+      "exampleSentence": "Bu sorunun cevabını bilmek istiyorum.",
+      "exampleTranslation": "I want to know the answer to this question."
+    },
+    {
+      "id": "istemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "iste",
+          "homeLang": "want/wish",
+          "homeLangDetails": "The core verb root meaning to want or to wish. It is one of the most common verbs in Turkish and is frequently followed by another verb in its infinitive form, just as in English."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to want",
+      "translationLong": "to want, to wish, to desire",
+      "exampleSentence": "Ne istemek istediğini bilmiyorum.",
+      "exampleTranslation": "I don't know what you want."
+    },
+    {
+      "id": "yapılmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yap",
+          "homeLang": "do/make",
+          "homeLangDetails": "The core verb root meaning to do or to make. It is one of the most versatile roots in Turkish, appearing in countless compound expressions."
+        },
+        {
+          "targetLang": "ıl",
+          "homeLang": "(passive)",
+          "homeLangDetails": "The passive voice suffix, here in its back-vowel form -ıl-. It transforms an active verb into one where the subject receives the action rather than performs it, like English '-ed' or 'to be done'."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to be done, to be made",
+      "translationLong": "to be done, to be made, to happen",
+      "exampleSentence": "Bu iş bugün yapılmak zorunda.",
+      "exampleTranslation": "This work has to be done today."
+    },
+    {
+      "id": "çalışmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çalış",
+          "homeLang": "work/study",
+          "homeLangDetails": "The core verb root meaning to work or to study. It carries both senses — professional work and academic studying — depending on context. It also means 'to try' or 'to strive' in some expressions."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to work, to study",
+      "translationLong": "to work, to study, to strive, to try",
+      "exampleSentence": "Sınav için çok çalışmak lazım.",
+      "exampleTranslation": "You need to study a lot for the exam."
+    },
+    {
+      "id": "dinlenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dinlen",
+          "homeLang": "rest/relax",
+          "homeLangDetails": "This form already contains a reflexive suffix (-en) fused into the stem, derived from dinlemek (to listen) via the idea of quieting oneself. The resulting stem dinlen- means specifically 'to rest' or 'to relax'."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to rest, to relax",
+      "translationLong": "to rest, to relax, to take a break",
+      "exampleSentence": "Hafta sonu evde dinlenmek istiyorum.",
+      "exampleTranslation": "I want to rest at home on the weekend."
+    },
+    {
+      "id": "temizlemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "temiz",
+          "homeLang": "clean",
+          "homeLangDetails": "An adjective meaning clean or pure. It forms the base from which the verb is built by adding the verbalizing suffix."
+        },
+        {
+          "targetLang": "le",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "A highly productive suffix that turns nouns and adjectives into verbs, similar to English '-en' or '-ify'. So temiz (clean) + -le = to clean, to make clean."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to clean",
+      "translationLong": "to clean, to tidy up, to purify",
+      "exampleSentence": "Her cumartesi evi temizlemek zorundayım.",
+      "exampleTranslation": "I have to clean the house every Saturday."
+    },
+    {
+      "id": "başlamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "baş",
+          "homeLang": "head/start",
+          "homeLangDetails": "A noun meaning head or top, but also used metaphorically as the beginning or start of something. This dual meaning (physical head and figurative beginning) is what drives the verb's meaning."
+        },
+        {
+          "targetLang": "la",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "The back-vowel form of the verbalizing suffix -le/-la, turning the noun baş (head/beginning) into a verb: to begin, to start."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to begin, to start",
+      "translationLong": "to begin, to start, to commence",
+      "exampleSentence": "Yeni bir projeye başlamak heyecan verici.",
+      "exampleTranslation": "Starting a new project is exciting."
+    },
+    {
+      "id": "bitirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bit",
+          "homeLang": "end/finish",
+          "homeLangDetails": "A root meaning to end or to be finished, seen in the intransitive bitmek (to end, to run out). The causative suffix -ir- makes it transitive: to finish something, to bring something to an end."
+        },
+        {
+          "targetLang": "ir",
+          "homeLang": "(causative)",
+          "homeLangDetails": "A causative suffix that makes the verb transitive, shifting it from 'to end' (bitmek) to 'to finish (something)' or 'to cause to end'. Similar to how English uses 'to finish' as a transitive counterpart to 'to be done'."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to finish, to complete",
+      "translationLong": "to finish, to complete, to end, to use up",
+      "exampleSentence": "Ödevi zamanında bitirmek önemlidir.",
+      "exampleTranslation": "It is important to finish the homework on time."
+    },
+    {
+      "id": "öğrenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğren",
+          "homeLang": "learn",
+          "homeLangDetails": "The root verb stem meaning 'to learn.' Related to öğretmek (to teach) — the same root with a causative twist."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to learn",
+      "translationLong": "to learn, to study, to find out",
+      "exampleSentence": "Türkçe öğrenmek istiyorum.",
+      "exampleTranslation": "I want to learn Turkish."
+    },
+    {
+      "id": "anlamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anla",
+          "homeLang": "understand",
+          "homeLangDetails": "The verb stem meaning 'to understand' or 'to grasp meaning.' Related to anlam (meaning, sense) — so there's a nice loop: the root of 'understand' is the same as the word for 'meaning.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to understand",
+      "translationLong": "to understand, to comprehend, to grasp",
+      "exampleSentence": "Seni anlamak istiyorum.",
+      "exampleTranslation": "I want to understand you."
+    },
+    {
+      "id": "düşünmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "düşün",
+          "homeLang": "think",
+          "homeLangDetails": "The verb stem for thinking or pondering. Also appears in düşünce (thought, idea) — the noun form of this same root."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to think",
+      "translationLong": "to think, to consider, to reflect",
+      "exampleSentence": "Biraz düşünmem gerekiyor.",
+      "exampleTranslation": "I need to think a little."
+    },
+    {
+      "id": "söylemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "söyle",
+          "homeLang": "say/tell",
+          "homeLangDetails": "The verb stem meaning 'to say' or 'to tell.' Also the root of söylem (discourse, speech) and söz (word, promise) — though söz involves a vowel shift at the root level."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to say, to tell",
+      "translationLong": "to say, to tell, to speak, to utter",
+      "exampleSentence": "Bana ne söylemek istiyorsun?",
+      "exampleTranslation": "What do you want to tell me?"
+    },
+    {
+      "id": "susuzluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "su",
+          "homeLang": "water"
+        },
+        {
+          "targetLang": "suz",
+          "homeLang": "-less",
+          "homeLangDetails": "A privative suffix meaning 'without' or '-less.' Works like English '-less': susuz = waterless, parasız = penniless, işsiz = jobless."
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns from adjectives, much like English '-ness.' Susuz (waterless) + -luk = the state of being waterless, i.e. thirst."
+        }
+      ],
+      "translationShort": "thirst",
+      "translationLong": "thirst, dehydration",
+      "exampleSentence": "Susuzluk hissediyorum, bir bardak su içebilir miyim?",
+      "exampleTranslation": "I'm feeling thirsty — can I have a glass of water?"
+    },
+    {
+      "id": "açlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aç",
+          "homeLang": "hungry/starving",
+          "homeLangDetails": "An adjective meaning 'hungry' or 'starving.' It also means 'open' in a different context (as in a door being open), but in this compound the 'hungry' sense is what drives the meaning."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns from adjectives, much like English '-ness.' Here it turns the adjective aç (hungry) into the noun açlık (hunger, the state of being hungry)."
+        }
+      ],
+      "translationShort": "hunger",
+      "translationLong": "hunger, starvation, famine",
+      "exampleSentence": "Dünyada açlıkla mücadele etmeliyiz.",
+      "exampleTranslation": "We must fight hunger in the world."
+    },
+    {
+      "id": "yorgunluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yorgun",
+          "homeLang": "tired/weary",
+          "homeLangDetails": "An adjective meaning 'tired' or 'weary.' The root yormak means 'to tire (someone out),' and yorgun is the resulting state — the one who has been worn out."
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns from adjectives. Yorgun (tired) + -luk = yorgunluk, the state of being tired — fatigue or weariness."
+        }
+      ],
+      "translationShort": "tiredness, fatigue",
+      "translationLong": "tiredness, fatigue, weariness, exhaustion",
+      "exampleSentence": "Yorgunluktan gözlerimi açamıyorum.",
+      "exampleTranslation": "I can't keep my eyes open from tiredness."
+    },
+    {
+      "id": "hastalık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hasta",
+          "homeLang": "sick/ill",
+          "homeLangDetails": "An adjective (and noun) meaning 'sick,' 'ill,' or 'patient.' Borrowed from Persian. It stands on its own as a word — hasta = a sick person or patient."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns. Hasta (sick) + -lık = hastalık, the state of being sick — illness or disease."
+        }
+      ],
+      "translationShort": "illness, disease",
+      "translationLong": "illness, sickness, disease, ailment",
+      "exampleSentence": "Bu hastalık çok hızlı yayılıyor.",
+      "exampleTranslation": "This disease is spreading very quickly."
+    },
+    {
+      "id": "özgürlük",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "özgür",
+          "homeLang": "free/independent",
+          "homeLangDetails": "An adjective meaning 'free' or 'independent.' Derived from öz (self, essence) — so özgür carries the sense of being one's own self, unrestrained by others."
+        },
+        {
+          "targetLang": "lük",
+          "homeLang": "-ness/-dom",
+          "homeLangDetails": "A suffix forming abstract nouns — the vowel shifts to -lük here due to vowel harmony with özgür. Özgür (free) + -lük = özgürlük, freedom or liberty."
+        }
+      ],
+      "translationShort": "freedom, liberty",
+      "translationLong": "freedom, liberty, independence",
+      "exampleSentence": "Özgürlük herkesin hakkıdır.",
+      "exampleTranslation": "Freedom is everyone's right."
+    },
+    {
+      "id": "yalnızlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yalnız",
+          "homeLang": "alone/lonely",
+          "homeLangDetails": "An adjective meaning 'alone,' 'lonely,' or 'only.' It can be neutral (simply 'alone, by oneself') or carry an emotional weight of loneliness depending on context."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns. Yalnız (alone/lonely) + -lık = yalnızlık, the state of being alone — loneliness or solitude."
+        }
+      ],
+      "translationShort": "loneliness, solitude",
+      "translationLong": "loneliness, solitude, aloneness",
+      "exampleSentence": "Büyük şehirlerde bile yalnızlık hissedebilirsin.",
+      "exampleTranslation": "You can feel loneliness even in big cities."
+    },
+    {
+      "id": "karanlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "karan",
+          "homeLang": "dark",
+          "homeLangDetails": "An older or archaic root meaning 'dark' or 'darkness,' not commonly used independently in modern Turkish. The full modern adjective is karanlık itself, but the root is visible in related forms across Turkic languages."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns and adjectives. Here it builds karanlık from the root karan, giving both the adjective 'dark' and the noun 'darkness' — the word does double duty."
+        }
+      ],
+      "translationShort": "darkness, dark",
+      "translationLong": "darkness, dark, obscurity",
+      "exampleSentence": "Karanlıkta bir şey göremiyorum.",
+      "exampleTranslation": "I can't see anything in the dark."
+    },
+    {
+      "id": "aydınlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aydın",
+          "homeLang": "bright/enlightened",
+          "homeLangDetails": "An adjective meaning 'bright,' 'light,' or 'enlightened.' It also functions as a noun meaning an intellectual or enlightened person — a nice double meaning rooted in the idea of light and clarity."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns and adjectives. Aydın (bright) + -lık = aydınlık, both the noun 'brightness/light' and the adjective 'bright/well-lit.'"
+        }
+      ],
+      "translationShort": "brightness, light",
+      "translationLong": "brightness, lightness, luminosity, well-lit",
+      "exampleSentence": "Bu odanın aydınlığı çok güzel.",
+      "exampleTranslation": "The brightness of this room is very beautiful."
+    },
+    {
+      "id": "sessizlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ses",
+          "homeLang": "sound/voice"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "-less",
+          "homeLangDetails": "A privative suffix meaning 'without.' Ses (sound) + -siz = sessiz, 'soundless' or 'silent.' The double -s- is a result of the suffix attaching to a root ending in -s."
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness",
+          "homeLangDetails": "A suffix forming abstract nouns. Sessiz (silent) + -lik = sessizlik, the state of being silent — silence or quietness."
+        }
+      ],
+      "translationShort": "silence, quietness",
+      "translationLong": "silence, quietness, stillness",
+      "exampleSentence": "Geceleri bu mahallede tam bir sessizlik olur.",
+      "exampleTranslation": "At night there is complete silence in this neighborhood."
+    },
+    {
+      "id": "renkli",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "renk",
+          "homeLang": "color"
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "-ful/-ed",
+          "homeLangDetails": "A suffix meaning 'having' or 'full of' something — like English '-ful' or '-ed' in 'colorful' or 'colored.' Renk (color) + -li = renkli, colorful or colored."
+        }
+      ],
+      "translationShort": "colorful, colored",
+      "translationLong": "colorful, colored, vivid",
+      "exampleSentence": "Bu renkli resmi çok seviyorum.",
+      "exampleTranslation": "I really love this colorful picture."
+    },
+    {
+      "id": "renksiz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "renk",
+          "homeLang": "color"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "-less",
+          "homeLangDetails": "A privative suffix meaning 'without.' Renk (color) + -siz = renksiz, 'colorless' or 'without color.' Works just like English '-less' here."
+        }
+      ],
+      "translationShort": "colorless",
+      "translationLong": "colorless, without color, dull",
+      "exampleSentence": "Su renksiz ve tatsız bir sıvıdır.",
+      "exampleTranslation": "Water is a colorless and tasteless liquid."
+    },
+    {
+      "id": "güçlü",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "güç",
+          "homeLang": "strength/power"
+        },
+        {
+          "targetLang": "lü",
+          "homeLang": "-ful/-ed",
+          "homeLangDetails": "The suffix -(l)ü (and its vowel-harmony variants -lı, -li, -lu) attaches to nouns to mean 'having' or 'full of' that quality — very similar to English -ful or -ed. So güçlü = 'having strength', umutlu = 'having hope'."
+        }
+      ],
+      "translationShort": "strong, powerful",
+      "translationLong": "strong, powerful, mighty",
+      "exampleSentence": "O çok güçlü bir sporcu.",
+      "exampleTranslation": "He/She is a very strong athlete."
+    },
+    {
+      "id": "güçsüz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "güç",
+          "homeLang": "strength/power"
+        },
+        {
+          "targetLang": "süz",
+          "homeLang": "-less",
+          "homeLangDetails": "The suffix -(s)üz (and its vowel-harmony variants -sız, -siz, -suz) means 'without' or 'lacking' — a direct parallel to English -less. Güçsüz = 'without strength', umutsuz = 'without hope'."
+        }
+      ],
+      "translationShort": "weak, powerless",
+      "translationLong": "weak, powerless, feeble",
+      "exampleSentence": "Hasta olduğumda kendimi çok güçsüz hissediyorum.",
+      "exampleTranslation": "When I am sick, I feel very weak."
+    },
+    {
+      "id": "umutlu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "umut",
+          "homeLang": "hope"
+        },
+        {
+          "targetLang": "lu",
+          "homeLang": "-ful/-ed",
+          "homeLangDetails": "The suffix -(l)u (vowel-harmony variant of -lü/-lı/-li) means 'having' or 'full of' the noun it attaches to — like English -ful. Umutlu = 'hopeful', güçlü = 'powerful'."
+        }
+      ],
+      "translationShort": "hopeful",
+      "translationLong": "hopeful, optimistic",
+      "exampleSentence": "Gelecek hakkında umutlu hissediyorum.",
+      "exampleTranslation": "I feel hopeful about the future."
+    },
+    {
+      "id": "umutsuz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "umut",
+          "homeLang": "hope"
+        },
+        {
+          "targetLang": "suz",
+          "homeLang": "-less",
+          "homeLangDetails": "The suffix -(s)uz (vowel-harmony variant of -süz/-sız/-siz) means 'without' or 'lacking' — parallel to English -less. Umutsuz = 'hopeless', güçsüz = 'powerless'."
+        }
+      ],
+      "translationShort": "hopeless",
+      "translationLong": "hopeless, desperate, despairing",
+      "exampleSentence": "Bu durumda kendini umutsuz hissetti.",
+      "exampleTranslation": "He/She felt hopeless in this situation."
+    },
+    {
+      "id": "çocukluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çocuk",
+          "homeLang": "child"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-hood/-ness",
+          "homeLangDetails": "The suffix -(l)uk (and its vowel-harmony variants -lık, -lik, -lük) forms abstract nouns, often corresponding to English -hood or -ness. It turns a noun into a state or period: çocukluk = 'childhood', gençlik = 'youth', dostluk = 'friendship'."
+        }
+      ],
+      "translationShort": "childhood",
+      "translationLong": "childhood, boyhood, girlhood",
+      "exampleSentence": "Çocukluk anılarımı özlüyorum.",
+      "exampleTranslation": "I miss my childhood memories."
+    },
+    {
+      "id": "gençlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "genç",
+          "homeLang": "young"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-hood/-ness",
+          "homeLangDetails": "The suffix -(l)ik (vowel-harmony variant of -luk/-lık/-lük) forms abstract nouns from adjectives or nouns — like English -hood or -ness. Gençlik = 'youth/youngness', yaşlılık = 'old age'."
+        }
+      ],
+      "translationShort": "youth",
+      "translationLong": "youth, young age, youthfulness",
+      "exampleSentence": "Gençlik enerjisi harika bir şeydir.",
+      "exampleTranslation": "The energy of youth is a wonderful thing."
+    },
+    {
+      "id": "yaşlılık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yaş",
+          "homeLang": "age"
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "-ed/-ful",
+          "homeLangDetails": "The suffix -(l)ı (vowel-harmony variant of -lü/-lu/-li) means 'having' the quality of the noun. Yaşlı = 'having age' = 'old/aged'. Note that yaşlı is an intermediate derived form — the -lık suffix is then added to it to form the abstract noun."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-hood/-ness",
+          "homeLangDetails": "Added here to the adjective yaşlı ('old/aged') to form the abstract noun 'old age' — the state or condition of being old. Same suffix pattern as in gençlik and çocukluk."
+        }
+      ],
+      "translationShort": "old age",
+      "translationLong": "old age, elderliness",
+      "exampleSentence": "Yaşlılıkta sağlık çok önemlidir.",
+      "exampleTranslation": "Health is very important in old age."
+    },
+    {
+      "id": "dostluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dost",
+          "homeLang": "friend"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ship/-hood",
+          "homeLangDetails": "The suffix -(l)uk (vowel-harmony variant of -lık/-lik/-lük) forms abstract nouns. When attached to words for people or relationships, it works like English -ship or -hood: dostluk = 'friendship', düşmanlık = 'enmity'."
+        }
+      ],
+      "translationShort": "friendship",
+      "translationLong": "friendship, camaraderie, amity",
+      "exampleSentence": "Onlarla uzun yıllar süren bir dostluk kurduk.",
+      "exampleTranslation": "We built a friendship with them that lasted many years."
+    },
+    {
+      "id": "düşmanlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "düşman",
+          "homeLang": "enemy"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ship/-ness",
+          "homeLangDetails": "The suffix -(l)ık (vowel-harmony variant of -luk/-lik/-lük) forms abstract nouns. Here it turns 'enemy' into the abstract state of being enemies — 'enmity' or 'hostility'. Compare dostluk (friendship) from dost (friend)."
+        }
+      ],
+      "translationShort": "enmity, hostility",
+      "translationLong": "enmity, hostility, antagonism",
+      "exampleSentence": "Aralarındaki düşmanlık yıllarca sürdü.",
+      "exampleTranslation": "The hostility between them lasted for years."
+    },
+    {
+      "id": "vatandaş",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vatan",
+          "homeLang": "homeland"
+        },
+        {
+          "targetLang": "daş",
+          "homeLang": "fellow-",
+          "homeLangDetails": "The suffix -daş (and its vowel-harmony variants -taş, -deş, -teş) means 'sharer of' or 'fellow' — someone who shares the thing indicated by the root. Vatandaş = 'fellow of the homeland' = citizen/compatriot. The same suffix appears in meslektaş (colleague, fellow professional) and yoldaş (comrade, fellow traveler)."
+        }
+      ],
+      "translationShort": "citizen",
+      "translationLong": "citizen, compatriot, fellow national",
+      "exampleSentence": "Her vatandaşın oy kullanma hakkı vardır.",
+      "exampleTranslation": "Every citizen has the right to vote."
+    },
+    {
+      "id": "başkent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "baş",
+          "homeLang": "head/chief"
+        },
+        {
+          "targetLang": "kent",
+          "homeLang": "city"
+        }
+      ],
+      "translationShort": "capital city",
+      "translationLong": "capital, capital city",
+      "exampleSentence": "Türkiye'nin başkenti Ankara'dır.",
+      "exampleTranslation": "The capital of Turkey is Ankara."
+    },
+    {
+      "id": "kapıcı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kapı",
+          "homeLang": "door/gate"
+        },
+        {
+          "targetLang": "cı",
+          "homeLang": "-er (agent)",
+          "homeLangDetails": "The suffix -(c)ı (and its vowel-harmony variants -ci, -cu, -cü, -çı, -çi, -çu, -çü) forms agent nouns — a person associated with or working with the thing named. Kapıcı = 'door person' = doorman/janitor. Very common: araba (car) → arabacı (taxi/carriage driver), süt (milk) → sütçü (milkman)."
+        }
+      ],
+      "translationShort": "doorman, janitor",
+      "translationLong": "doorman, janitor, gatekeeper, porter",
+      "exampleSentence": "Kapıcı binayı her sabah temizler.",
+      "exampleTranslation": "The janitor cleans the building every morning."
+    },
+    {
+      "id": "bekçi",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bek",
+          "homeLang": "watch/guard",
+          "homeLangDetails": "From the verb beklemek (to wait, to watch over, to guard). The root bek- carries the sense of watchful waiting. It is related to the same idea as a night watchman keeping vigil."
+        },
+        {
+          "targetLang": "çi",
+          "homeLang": "-er (agent)",
+          "homeLangDetails": "The suffix -(ç)i (vowel-harmony variant of the agent suffix -cı/-ci/-cu/-cü etc.) forms a person who does or is associated with the root action. Bekçi = 'one who watches/guards'. Compare kapıcı (doorman) from kapı (door)."
+        }
+      ],
+      "translationShort": "guard, watchman",
+      "translationLong": "guard, watchman, security officer",
+      "exampleSentence": "Gece bekçisi parkı denetledi.",
+      "exampleTranslation": "The night watchman patrolled the park."
+    },
+    {
+      "id": "sanatçı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sanat",
+          "homeLang": "art/craft"
+        },
+        {
+          "targetLang": "çı",
+          "homeLang": "-er (agent)",
+          "homeLangDetails": "The suffix -(ç)ı (vowel-harmony variant of the agent suffix -cı/-ci/-cu etc.) means 'one who practices' the noun. Sanatçı = 'one who practices art' = artist. The same suffix in bekçi (watchman), kapıcı (doorman), and müzisyen's Turkish equivalent müzikçi."
+        }
+      ],
+      "translationShort": "artist",
+      "translationLong": "artist, performer, artisan",
+      "exampleSentence": "O yetenekli bir sanatçı.",
+      "exampleTranslation": "He/She is a talented artist."
+    },
+    {
+      "id": "müzisyen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "müzis",
+          "homeLang": "music",
+          "homeLangDetails": "This is the stem form of müzik (music), adapted through French musicien. Turkish borrowed the whole word from French, so the internal structure here reflects French/Latin morphology rather than native Turkish word-building. Compare the native Turkish pattern in sanatçı (artist), where the agent suffix -çı is added directly to sanat (art)."
+        },
+        {
+          "targetLang": "yen",
+          "homeLang": "-ian/-ist",
+          "homeLangDetails": "This ending comes from the French suffix -ien (as in musicien), which corresponds to English -ian or -ist. It is not the native Turkish agent suffix -cı/-çı, but a borrowed suffix that came packaged with the word. A few other French-origin borrowings in Turkish end similarly."
+        }
+      ],
+      "translationShort": "musician",
+      "translationLong": "musician, music performer",
+      "exampleSentence": "Kardeşim profesyonel bir müzisyen.",
+      "exampleTranslation": "My sibling is a professional musician."
+    },
+    {
+      "id": "doğallık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "doğal",
+          "homeLang": "natural"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "naturalness",
+      "translationLong": "naturalness, being natural",
+      "exampleSentence": "Onun doğallığı herkesi etkiliyor.",
+      "exampleTranslation": "Her naturalness impresses everyone."
+    },
+    {
+      "id": "yapaylık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yapay",
+          "homeLang": "artificial"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "artificiality",
+      "translationLong": "artificiality, being artificial",
+      "exampleSentence": "Konuşmasındaki yapaylık hemen belli oluyordu.",
+      "exampleTranslation": "The artificiality in his speech was immediately obvious."
+    },
+    {
+      "id": "yararlı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yarar",
+          "homeLang": "benefit, use"
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "-ful"
+        }
+      ],
+      "translationShort": "useful, beneficial",
+      "translationLong": "useful, beneficial, helpful",
+      "exampleSentence": "Bu uygulama çok yararlı.",
+      "exampleTranslation": "This application is very useful."
+    },
+    {
+      "id": "yararsız",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yarar",
+          "homeLang": "benefit, use"
+        },
+        {
+          "targetLang": "sız",
+          "homeLang": "-less"
+        }
+      ],
+      "translationShort": "useless",
+      "translationLong": "useless, of no benefit",
+      "exampleSentence": "Bu alet tamamen yararsız.",
+      "exampleTranslation": "This tool is completely useless."
+    },
+    {
+      "id": "zararlı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "zarar",
+          "homeLang": "harm, damage"
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "-ful"
+        }
+      ],
+      "translationShort": "harmful",
+      "translationLong": "harmful, damaging, injurious",
+      "exampleSentence": "Sigara içmek sağlık için zararlıdır.",
+      "exampleTranslation": "Smoking is harmful to health."
+    },
+    {
+      "id": "zararsız",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "zarar",
+          "homeLang": "harm, damage"
+        },
+        {
+          "targetLang": "sız",
+          "homeLang": "-less"
+        }
+      ],
+      "translationShort": "harmless",
+      "translationLong": "harmless, innocuous",
+      "exampleSentence": "Bu böcek tamamen zararsızdır.",
+      "exampleTranslation": "This insect is completely harmless."
+    },
+    {
+      "id": "verimli",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "verim",
+          "homeLang": "yield, productivity"
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "-ful"
+        }
+      ],
+      "translationShort": "productive, efficient",
+      "translationLong": "productive, efficient, fertile, fruitful",
+      "exampleSentence": "Bugün çok verimli bir gün geçirdim.",
+      "exampleTranslation": "I had a very productive day today."
+    },
+    {
+      "id": "verimsiz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "verim",
+          "homeLang": "yield, productivity"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "-less"
+        }
+      ],
+      "translationShort": "unproductive, inefficient",
+      "translationLong": "unproductive, inefficient, infertile",
+      "exampleSentence": "Verimsiz topraklarda tarım yapmak zordur.",
+      "exampleTranslation": "It is difficult to farm on unproductive land."
+    },
+    {
+      "id": "güvenlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "güven",
+          "homeLang": "trust, safety"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness/-ity",
+          "homeLangDetails": "Here -lik forms an abstract noun from güven (trust, safety), giving the sense of a state or condition — safety, security. It's the same suffix as the -lık in doğallık or büyüklük, just with vowel harmony adjusting the vowel."
+        }
+      ],
+      "translationShort": "security, safety",
+      "translationLong": "security, safety, trust",
+      "exampleSentence": "Güvenlik kameraları her yere kuruldu.",
+      "exampleTranslation": "Security cameras were installed everywhere."
+    },
+    {
+      "id": "tehlike",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tehlik",
+          "homeLang": "danger"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "The -e here is not a productive affix but part of the frozen word tehlike (danger). The word is borrowed from Arabic (tahlika), and -e is not independently meaningful in Turkish — it is simply the final syllable of the root as it was absorbed into Turkish."
+        }
+      ],
+      "translationShort": "danger",
+      "translationLong": "danger, hazard, peril",
+      "exampleSentence": "Bu yol çok tehlikeli, dikkatli ol.",
+      "exampleTranslation": "This road is very dangerous, be careful.",
+      "flag": "only 1 part — tehlike is an Arabic loanword with no productive Turkish morpheme boundary"
+    },
+    {
+      "id": "kolaylık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kolay",
+          "homeLang": "easy"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "easiness, convenience",
+      "translationLong": "easiness, ease, convenience, facility",
+      "exampleSentence": "Bu programın kolaylığı sayesinde işimi çok çabuk bitirdim.",
+      "exampleTranslation": "Thanks to the ease of this program, I finished my work very quickly."
+    },
+    {
+      "id": "zorluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "zor",
+          "homeLang": "hard, difficult"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "difficulty, hardship",
+      "translationLong": "difficulty, hardship, trouble",
+      "exampleSentence": "Hayatta her zorluğun üstesinden gelebilirsin.",
+      "exampleTranslation": "You can overcome every difficulty in life."
+    },
+    {
+      "id": "büyüklük",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "büyük",
+          "homeLang": "big, great"
+        },
+        {
+          "targetLang": "lük",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "greatness, bigness, size",
+      "translationLong": "greatness, bigness, size, grandeur",
+      "exampleSentence": "Bu tablonun büyüklüğü beni şaşırttı.",
+      "exampleTranslation": "The size of this painting surprised me."
+    },
+    {
+      "id": "küçüklük",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "küçük",
+          "homeLang": "small, little"
+        },
+        {
+          "targetLang": "lük",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "smallness, childhood",
+      "translationLong": "smallness, littleness; also used to mean childhood (the state of being little)",
+      "exampleSentence": "Küçüklüğümde çok kitap okurdum.",
+      "exampleTranslation": "I used to read a lot of books in my childhood."
+    },
+    {
+      "id": "uzunluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uzun",
+          "homeLang": "long, tall"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "length, tallness",
+      "translationLong": "length, tallness, height",
+      "exampleSentence": "Bu köprünün uzunluğu iki kilometredir.",
+      "exampleTranslation": "The length of this bridge is two kilometers."
+    },
+    {
+      "id": "kısalık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kısa",
+          "homeLang": "short"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "shortness, brevity",
+      "translationLong": "shortness, brevity, briefness",
+      "exampleSentence": "Cevabın kısalığı herkesi şaşırttı.",
+      "exampleTranslation": "The brevity of the answer surprised everyone."
+    },
+    {
+      "id": "ağırlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ağır",
+          "homeLang": "heavy"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "weight, heaviness",
+      "translationLong": "weight, heaviness, gravity",
+      "exampleSentence": "Bu çantanın ağırlığı çok fazla.",
+      "exampleTranslation": "The weight of this bag is too much."
+    },
+    {
+      "id": "hafiflik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hafif",
+          "homeLang": "light, gentle"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "lightness",
+      "translationLong": "lightness, lightness of touch, frivolity",
+      "exampleSentence": "Tüyün hafifliği beni şaşırttı.",
+      "exampleTranslation": "The lightness of the feather surprised me."
+    },
+    {
+      "id": "sertlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sert",
+          "homeLang": "hard, harsh"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "hardness, harshness",
+      "translationLong": "hardness, harshness, severity, firmness",
+      "exampleSentence": "Taşın sertliği onu kırmayı zorlaştırdı.",
+      "exampleTranslation": "The hardness of the stone made it difficult to break."
+    },
+    {
+      "id": "yumuşaklık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yumuşak",
+          "homeLang": "soft"
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "softness",
+      "translationLong": "softness, gentleness, tenderness",
+      "exampleSentence": "Kadifenin yumuşaklığı gerçekten etkileyiciydi.",
+      "exampleTranslation": "The softness of the velvet was truly impressive."
+    },
+    {
+      "id": "hızlı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hız",
+          "homeLang": "speed"
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "-y, having"
+        }
+      ],
+      "translationShort": "fast, quick",
+      "translationLong": "fast, quick, rapid, speedy",
+      "exampleSentence": "Hızlı araba şehir merkezinden geçti.",
+      "exampleTranslation": "The fast car passed through the city center."
+    },
+    {
+      "id": "yavaş",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yavaş",
+          "homeLang": "slow"
+        }
+      ],
+      "translationShort": "slow",
+      "translationLong": "slow, slowly, gently",
+      "exampleSentence": "Araba yavaş bir şekilde ilerledi.",
+      "exampleTranslation": "The car moved slowly.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "dikkatli",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dikkat",
+          "homeLang": "attention, care"
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "-ful, having"
+        }
+      ],
+      "translationShort": "careful, attentive",
+      "translationLong": "careful, attentive, cautious, mindful",
+      "exampleSentence": "Dikkatli sürücüler kazaları önler.",
+      "exampleTranslation": "Careful drivers prevent accidents."
+    },
+    {
+      "id": "dikkatsiz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dikkat",
+          "homeLang": "attention, care"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "-less, without"
+        }
+      ],
+      "translationShort": "careless, inattentive",
+      "translationLong": "careless, inattentive, negligent, heedless",
+      "exampleSentence": "Dikkatsiz davranışlar tehlikeli sonuçlar doğurabilir.",
+      "exampleTranslation": "Careless behavior can lead to dangerous consequences."
+    },
+    {
+      "id": "sevgili",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sev",
+          "homeLang": "love",
+          "homeLangDetails": "The root sev- means 'love' and appears in many related words: sevmek (to love), sevgi (love/affection), sevinmek (to be glad)."
+        },
+        {
+          "targetLang": "gi",
+          "homeLang": "(noun stem)",
+          "homeLangDetails": "The -gi suffix nominalizes the verb root sev- into 'sevgi' (love, affection) — an intermediate step before the -li suffix is added."
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "having, with",
+          "homeLangDetails": "Creates adjectives meaning \"having\" or \"characterized by\" something -- a lot like English \"-ful\" or \"-ed\" as in \"talented.\" It's incredibly productive. Examples: sütlü (with milk), şekerli (with sugar), deneyimli (experienced/with experience)."
+        }
+      ],
+      "translationShort": "dear, beloved",
+      "translationLong": "dear, beloved, darling",
+      "exampleSentence": "Sevgili arkadaşım, seni çok özledim.",
+      "exampleTranslation": "Dear friend, I have missed you so much."
+    },
+    {
+      "id": "çalışkanlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çalış",
+          "homeLang": "work",
+          "homeLangDetails": "The root çalış- means 'to work' or 'to strive.' It forms the basis for çalışmak (to work), çalışkan (hardworking), and çalışkanlık (diligence)."
+        },
+        {
+          "targetLang": "kan",
+          "homeLang": "(adjectival)",
+          "homeLangDetails": "The suffix -kan/-ken attaches to verb roots to form adjectives meaning 'inclined to do' the action — so çalış + kan = hardworking, diligent. Similar to English '-ful' or '-ous' in this function."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "diligence, hardworkingness",
+      "translationLong": "diligence, industriousness, hardworking nature",
+      "exampleSentence": "Öğretmen, öğrencisinin çalışkanlığını övdü.",
+      "exampleTranslation": "The teacher praised the student's diligence."
+    },
+    {
+      "id": "yardımsever",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yardım",
+          "homeLang": "help"
+        },
+        {
+          "targetLang": "sever",
+          "homeLang": "loving",
+          "homeLangDetails": "From sev- (to love) + -er, a suffix forming agent-like adjectives in compound words. So yardım + sever literally means 'help-loving,' i.e., one who loves to help. This -er is not the same as the agentive -er in English; it's a Turkish compounding element derived from the verb sevmek."
+        }
+      ],
+      "translationShort": "helpful, benevolent",
+      "translationLong": "helpful, benevolent, philanthropic, one who loves to help",
+      "exampleSentence": "O çok yardımsever bir insan.",
+      "exampleTranslation": "He is a very helpful person."
+    },
+    {
+      "id": "gülümsemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gül",
+          "homeLang": "laugh/smile",
+          "homeLangDetails": "The root gül- means 'to laugh' or 'to smile.' It appears in gülmek (to laugh) and gülümsemek (to smile) — the latter being a gentler, diminutive version of the action."
+        },
+        {
+          "targetLang": "ümse",
+          "homeLang": "(diminutive/softening)",
+          "homeLangDetails": "The suffix -ümse/-imse attaches to verb roots to create a softened or diminutive version of the action — here turning 'laugh' into the gentler act of smiling. Similar to how English might distinguish 'laugh' from 'chuckle.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to smile",
+      "translationLong": "",
+      "exampleSentence": "Çocuk fotoğrafa bakınca gülümsedi.",
+      "exampleTranslation": "The child smiled when looking at the photo."
+    },
+    {
+      "id": "ulaşmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ulaş",
+          "homeLang": "reach, arrive",
+          "homeLangDetails": "The root ulaş- means 'to reach' or 'to arrive at.' It implies making contact with a destination or goal. Related words include ulaşım (transportation) and ulaşılabilir (accessible/reachable)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to reach, to arrive",
+      "translationLong": "to reach, to arrive at, to attain",
+      "exampleSentence": "Hedefe ulaşmak için çok çalışmalıyız.",
+      "exampleTranslation": "We must work hard to reach the goal.",
+      "flag": "only 2 parts, one of which is the infinitive suffix — effectively a single-root word"
+    },
+    {
+      "id": "anlaşmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "an",
+          "homeLang": "understand",
+          "homeLangDetails": "The root an- (from anlamak, to understand) is the core of this word. Here it combines with -laş- to shift from 'understanding' individually to 'coming to an understanding' mutually."
+        },
+        {
+          "targetLang": "laş",
+          "homeLang": "(reciprocal/become)",
+          "homeLangDetails": "The suffix -laş/-leş attaches to roots to convey a process of becoming or doing something together/mutually. Here: 'to mutually understand' → 'to agree.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to agree, to come to terms",
+      "translationLong": "to agree, to come to an agreement, to get along",
+      "exampleSentence": "İki taraf sonunda bir fiyat üzerinde anlaştı.",
+      "exampleTranslation": "The two parties finally agreed on a price."
+    },
+    {
+      "id": "kazanmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kazan",
+          "homeLang": "win, earn",
+          "homeLangDetails": "The root kazan- means 'to win' or 'to earn.' It can apply to winning a competition, earning money, or gaining something. The same root appears in kazanç (earnings, gain)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to win, to earn",
+      "translationLong": "to win, to earn, to gain",
+      "exampleSentence": "Bu maçı kazanmak istiyoruz.",
+      "exampleTranslation": "We want to win this match."
+    },
+    {
+      "id": "kaybetmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kayb",
+          "homeLang": "loss, disappear",
+          "homeLangDetails": "From kayıp (loss, missing) — the root conveys the idea of something going missing or being lost. The vowel drops in this surface form before the following suffix. Related: kaybolmak (to disappear), kayıp (loss/casualty)."
+        },
+        {
+          "targetLang": "et",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "The light verb et- is one of Turkish's most common verbalizers, turning a noun or borrowed concept into a verb. Here kayıp + etmek = to cause/experience loss = to lose. Compare: yardım etmek (to help), kabul etmek (to accept)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to lose",
+      "translationLong": "to lose, to misplace",
+      "exampleSentence": "Anahtarlarımı kaybettim.",
+      "exampleTranslation": "I lost my keys."
+    },
+    {
+      "id": "güvenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "güven",
+          "homeLang": "trust, safety",
+          "homeLangDetails": "The root güven means 'trust' or 'safety' as a noun, and güven- as a verb stem means 'to trust.' Related words include güvenli (safe/trustworthy), güvensiz (unsafe/untrustworthy), and güvenlik (security)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to trust",
+      "translationLong": "to trust, to rely on",
+      "exampleSentence": "Sana güveniyorum.",
+      "exampleTranslation": "I trust you."
+    },
+    {
+      "id": "sevinmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sev",
+          "homeLang": "love",
+          "homeLangDetails": "The root sev- means 'love.' The addition of -in- here creates a reflexive/internal sense — 'love coming back into oneself' — which evolved semantically into joy or gladness. Compare sevmek (to love) and sevgi (affection)."
+        },
+        {
+          "targetLang": "in",
+          "homeLang": "(reflexive)",
+          "homeLangDetails": "The suffix -in/-ın forms reflexive or internally-directed verbs in Turkish. Here it turns sev- (to love) inward, yielding the sense of being filled with joy — as if one's heart is loving the moment."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to be glad, to rejoice",
+      "translationLong": "to be glad, to rejoice, to be happy",
+      "exampleSentence": "Seni görünce çok sevindim.",
+      "exampleTranslation": "I was so glad to see you."
+    },
+    {
+      "id": "korkmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kork",
+          "homeLang": "fear",
+          "homeLangDetails": "The root kork- means 'to fear' or 'to be afraid.' It is the core of words like korku (fear), korkutucu (frightening), and korkusuz (fearless)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to fear, to be afraid",
+      "translationLong": "to fear, to be afraid of, to be scared",
+      "exampleSentence": "Karanlıktan korkmuyorum.",
+      "exampleTranslation": "I am not afraid of the dark."
+    },
+    {
+      "id": "beklemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bekle",
+          "homeLang": "wait, expect",
+          "homeLangDetails": "The root bekle- means 'to wait' or 'to expect.' It appears in beklenti (expectation), bekleme salonu (waiting room), and beklenmedik (unexpected)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to wait, to expect",
+      "translationLong": "to wait, to expect, to await",
+      "exampleSentence": "Otobüsü beklemek zorundayım.",
+      "exampleTranslation": "I have to wait for the bus."
+    },
+    {
+      "id": "taşımak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "taşı",
+          "homeLang": "carry, transport",
+          "homeLangDetails": "The root taşı- means 'to carry' or 'to transport.' It appears in taşıma (transportation/carrying), taşıyıcı (carrier), and taşınmak (to move house, reflexive)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to carry, to transport",
+      "translationLong": "to carry, to transport, to haul",
+      "exampleSentence": "Bu kutuları taşımama yardım eder misin?",
+      "exampleTranslation": "Can you help me carry these boxes?"
+    },
+    {
+      "id": "götürmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "göt",
+          "homeLang": "go (causative)",
+          "homeLangDetails": "Derived from git-/gid- (to go), with the vowel shifting to 'göt-' in this causative/directional form. The idea is 'to make go' or 'to take away (from here).' Compare getirmek (to bring here) — these are directional opposites."
+        },
+        {
+          "targetLang": "ür",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The suffix -ür/-ur/-ir/-ıl forms causative verbs in Turkish, meaning 'to cause to [verb].' Here: göt + ür = to cause to go = to take (someone/something away from here)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to take (away), to carry off",
+      "translationLong": "to take away, to carry off, to escort somewhere",
+      "exampleSentence": "Çocukları okula götürdüm.",
+      "exampleTranslation": "I took the children to school."
+    },
+    {
+      "id": "getirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "get",
+          "homeLang": "come (causative)",
+          "homeLangDetails": "Derived from gel- (to come), with the root altered to 'get-' in this causative form. The idea is 'to cause to come' — i.e., to bring something here. Compare götürmek (to take away from here) — these are directional opposites."
+        },
+        {
+          "targetLang": "ir",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The suffix -ir/-ır/-ur/-ür forms causative verbs in Turkish. Here: get + ir = to cause to come = to bring (toward here). It mirrors the -ür in götürmek."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to bring",
+      "translationLong": "to bring, to fetch, to deliver",
+      "exampleSentence": "Bana bir bardak su getirir misin?",
+      "exampleTranslation": "Can you bring me a glass of water?"
+    },
+    {
+      "id": "kaldırmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaldır",
+          "homeLang": "lift/raise",
+          "homeLangDetails": "The root kaldır- means to lift, raise, or remove something. It's the causative form of kalkmak (to rise), so literally 'to cause to rise.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to lift, to raise",
+      "translationLong": "to lift, to raise, to remove, to pick up",
+      "exampleSentence": "Lütfen o kutuyu kaldırır mısın?",
+      "exampleTranslation": "Could you please lift that box?"
+    },
+    {
+      "id": "indirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "indir",
+          "homeLang": "lower/download",
+          "homeLangDetails": "The root indir- means to bring down, lower, or download. It's the causative form of inmek (to descend), so literally 'to cause to go down.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to lower, to download",
+      "translationLong": "to lower, to bring down, to reduce, to download",
+      "exampleSentence": "Bu uygulamayı telefonuma indirmek istiyorum.",
+      "exampleTranslation": "I want to download this app to my phone."
+    },
+    {
+      "id": "açmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aç",
+          "homeLang": "open/turn on",
+          "homeLangDetails": "The root aç- covers opening things (doors, books) as well as turning things on (lights, devices). It can also mean 'to be hungry' as an unrelated adjective, but as a verb root it consistently means to open or activate."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to open, to turn on",
+      "translationLong": "to open, to turn on, to switch on, to start",
+      "exampleSentence": "Lütfen pencereyi açar mısın?",
+      "exampleTranslation": "Could you please open the window?"
+    },
+    {
+      "id": "kapatmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kapat",
+          "homeLang": "close/turn off",
+          "homeLangDetails": "The root kapat- means to close or shut something, and also to turn something off. It's the causative of kapanmak (to close by itself), related to kapı (door)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to close, to turn off",
+      "translationLong": "to close, to shut, to turn off, to cover",
+      "exampleSentence": "Giderken kapıyı kapatmayı unutma.",
+      "exampleTranslation": "Don't forget to close the door when you leave."
+    },
+    {
+      "id": "girmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gir",
+          "homeLang": "enter",
+          "homeLangDetails": "The root gir- means to enter or go into something. It's used for entering rooms, logging into accounts, or participating in events."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to enter, to go in",
+      "translationLong": "to enter, to go in, to log in, to join",
+      "exampleSentence": "Odaya girmeden önce kapıyı çal.",
+      "exampleTranslation": "Knock on the door before entering the room."
+    },
+    {
+      "id": "çıkmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çık",
+          "homeLang": "exit/go out",
+          "homeLangDetails": "The root çık- means to go out, exit, leave, or come out. It's the natural opposite of girmek and is widely used — for leaving a room, logging out, or something appearing or arising."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to exit, to go out",
+      "translationLong": "to exit, to go out, to leave, to come out",
+      "exampleSentence": "Saat beşte işten çıkıyorum.",
+      "exampleTranslation": "I get off work at five o'clock."
+    },
+    {
+      "id": "oturmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "otur",
+          "homeLang": "sit/reside",
+          "homeLangDetails": "The root otur- means both to sit down and to reside or live somewhere. Context usually makes the meaning clear — 'oturmak' at a table means to sit, but 'İstanbul'da oturmak' means to live in Istanbul."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to sit, to reside",
+      "translationLong": "to sit, to sit down, to reside, to live (in a place)",
+      "exampleSentence": "Lütfen buraya oturun.",
+      "exampleTranslation": "Please sit here."
+    },
+    {
+      "id": "kalkmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kalk",
+          "homeLang": "rise/get up",
+          "homeLangDetails": "The root kalk- means to get up, stand up, or depart (as a vehicle). It's the intransitive counterpart of kaldırmak — where kaldırmak means to raise something, kalkmak means to rise on one's own."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to get up, to rise",
+      "translationLong": "to get up, to stand up, to rise, to depart (of transport)",
+      "exampleSentence": "Her sabah saat yedide kalkıyorum.",
+      "exampleTranslation": "I get up at seven every morning."
+    },
+    {
+      "id": "uyumak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uyu",
+          "homeLang": "sleep",
+          "homeLangDetails": "The root uyu- means to sleep. It also underlies uyumak in the sense of 'to fit' or 'to be compatible,' but in everyday use as a basic verb it almost always means to sleep."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to sleep",
+      "translationLong": "to sleep, to go to sleep",
+      "exampleSentence": "Bebek şu an uyuyor, lütfen sessiz olun.",
+      "exampleTranslation": "The baby is sleeping right now, please be quiet."
+    },
+    {
+      "id": "uyanmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uyan",
+          "homeLang": "wake up",
+          "homeLangDetails": "The root uyan- means to wake up or become awake. It's the reflexive/intransitive counterpart — uyanmak is what you do yourself, while uyandırmak means to wake someone else up."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to wake up",
+      "translationLong": "to wake up, to awaken",
+      "exampleSentence": "Yarın erken uyanmam gerekiyor.",
+      "exampleTranslation": "I need to wake up early tomorrow."
+    },
+    {
+      "id": "yemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ye",
+          "homeLang": "eat",
+          "homeLangDetails": "The root ye- means to eat. Interestingly, yemek serves double duty in Turkish — as the infinitive of 'to eat' and as a standalone noun meaning 'food' or 'meal.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to eat; food",
+      "translationLong": "to eat; also used as a noun meaning food or meal",
+      "exampleSentence": "Akşam yemeği ne yiyeceğiz?",
+      "exampleTranslation": "What are we going to eat for dinner?"
+    },
+    {
+      "id": "içmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "iç",
+          "homeLang": "drink/smoke",
+          "homeLangDetails": "The root iç- means to drink. In Turkish it also covers smoking (sigara içmek = to smoke a cigarette), since the action of inhaling is grouped under the same verb as drinking."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to drink",
+      "translationLong": "to drink; also to smoke (cigarettes)",
+      "exampleSentence": "Sabahları kahve içmeyi seviyorum.",
+      "exampleTranslation": "I like drinking coffee in the mornings."
+    },
+    {
+      "id": "koşmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "koş",
+          "homeLang": "run",
+          "homeLangDetails": "The root koş- means to run. It's used both for physical running and idiomatically for rushing or hurrying somewhere."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to run",
+      "translationLong": "to run, to rush",
+      "exampleSentence": "Her gün parkta koşuyorum.",
+      "exampleTranslation": "I run in the park every day."
+    },
+    {
+      "id": "yüzmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yüz",
+          "homeLang": "swim/float",
+          "homeLangDetails": "The root yüz- means to swim. It's also a homograph of the word for 'face' and the number 'one hundred,' but as a verb root it specifically means swimming or floating in water."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to swim",
+      "translationLong": "to swim, to float",
+      "exampleSentence": "Yazın denizde yüzmeyi çok seviyorum.",
+      "exampleTranslation": "I love swimming in the sea in summer."
+    },
+    {
+      "id": "uçmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uç",
+          "homeLang": "fly",
+          "homeLangDetails": "The root uç- means to fly. It's also the word for 'tip' or 'end' as a noun (the tip of a pencil, the far end of something), but as a verb it consistently means to fly."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to fly",
+      "translationLong": "to fly, to soar",
+      "exampleSentence": "Kuşlar gökyüzünde özgürce uçuyor.",
+      "exampleTranslation": "The birds are flying freely in the sky."
+    },
+    {
+      "id": "düşmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "düş",
+          "homeLang": "fall"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to fall",
+      "translationLong": "to fall, to drop, to tumble",
+      "exampleSentence": "Merdivenden düşmek tehlikeli olabilir.",
+      "exampleTranslation": "Falling from the stairs can be dangerous."
+    },
+    {
+      "id": "tutmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tut",
+          "homeLang": "hold, grasp"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to hold, to grab",
+      "translationLong": "to hold, to grab, to keep, to catch",
+      "exampleSentence": "Çantanı sıkıca tutmak önemlidir.",
+      "exampleTranslation": "It is important to hold your bag tightly."
+    },
+    {
+      "id": "bırakmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bırak",
+          "homeLang": "leave, release"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to leave, to let go",
+      "translationLong": "to leave, to let go, to release, to quit",
+      "exampleSentence": "Sigarayı bırakmak çok zor olabilir.",
+      "exampleTranslation": "Quitting smoking can be very difficult."
+    },
+    {
+      "id": "ödenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öde",
+          "homeLang": "pay"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(passive)",
+          "homeLangDetails": "This is the passive voice suffix -n-, which turns an active verb into a passive one. Here it transforms 'to pay' into 'to be paid.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to be paid",
+      "translationLong": "to be paid, to get paid",
+      "exampleSentence": "Fatura bu ay ödenmek zorunda.",
+      "exampleTranslation": "The bill must be paid this month."
+    },
+    {
+      "id": "satmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "sell"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to sell",
+      "translationLong": "to sell, to vend",
+      "exampleSentence": "Evini satmak istiyor.",
+      "exampleTranslation": "He wants to sell his house."
+    },
+    {
+      "id": "satın almak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "sell",
+          "homeLangDetails": "Though this root means 'sell,' it appears in the fixed phrase satın almak ('to buy'). Satın is an old directional form meaning roughly 'toward purchase,' so the phrase literally captures the idea of taking something into one's possession through a sale."
+        },
+        {
+          "targetLang": "ın",
+          "homeLang": "(directional)",
+          "homeLangDetails": "This is an archaic directional suffix frozen in this phrase. It no longer functions productively in modern Turkish, but here it turns 'sell' into a noun-like form meaning roughly 'by purchase' or 'into purchase,' combining with almak (to take/buy)."
+        },
+        {
+          "targetLang": " al",
+          "homeLang": "take, get"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to buy",
+      "translationLong": "to buy, to purchase",
+      "exampleSentence": "Yeni bir araba satın almak istiyorum.",
+      "exampleTranslation": "I want to buy a new car."
+    },
+    {
+      "id": "kullanmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kullan",
+          "homeLang": "use"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to use",
+      "translationLong": "to use, to make use of, to operate",
+      "exampleSentence": "Bu aleti doğru kullanmak gerekiyor.",
+      "exampleTranslation": "It is necessary to use this tool correctly."
+    },
+    {
+      "id": "görmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gör",
+          "homeLang": "see"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to see",
+      "translationLong": "to see, to observe, to notice",
+      "exampleSentence": "Onu bu kadar mutlu görmek harika.",
+      "exampleTranslation": "It is wonderful to see him this happy."
+    },
+    {
+      "id": "bakmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bak",
+          "homeLang": "look"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to look, to watch",
+      "translationLong": "to look, to watch, to look after, to care for",
+      "exampleSentence": "Pencereden dışarı bakmak istiyorum.",
+      "exampleTranslation": "I want to look outside through the window."
+    },
+    {
+      "id": "dinlemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dinle",
+          "homeLang": "listen"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to listen",
+      "translationLong": "to listen, to listen to, to hear out",
+      "exampleSentence": "Müzik dinlemek beni rahatlatıyor.",
+      "exampleTranslation": "Listening to music relaxes me."
+    },
+    {
+      "id": "gülmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gül",
+          "homeLang": "laugh, smile"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to laugh, to smile",
+      "translationLong": "to laugh, to smile, to giggle",
+      "exampleSentence": "Çocukların gülmesi herkesi mutlu etti.",
+      "exampleTranslation": "The children's laughter made everyone happy."
+    },
+    {
+      "id": "ağlamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ağla",
+          "homeLang": "cry, weep"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to cry, to weep",
+      "translationLong": "to cry, to weep, to sob",
+      "exampleSentence": "Üzücü filmlerde ağlamak normaldir.",
+      "exampleTranslation": "It is normal to cry during sad movies."
+    },
+    {
+      "id": "düşünülmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "düşün",
+          "homeLang": "think"
+        },
+        {
+          "targetLang": "ül",
+          "homeLang": "(passive)",
+          "homeLangDetails": "The passive voice suffix, here in the form -ül- (vowel harmony with the front rounded vowel of the stem). It turns 'to think' into 'to be thought (about)' or 'to be considered.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to be thought about",
+      "translationLong": "to be thought about, to be considered",
+      "exampleSentence": "Bu konu daha fazla düşünülmek zorunda.",
+      "exampleTranslation": "This topic needs to be thought about more."
+    },
+    {
+      "id": "hatırlamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hatır",
+          "homeLang": "memory, mind",
+          "homeLangDetails": "Borrowed from Arabic khatir (خاطر), meaning 'thought,' 'mind,' or 'regard.' In Turkish it serves as the root for remembering and recalling."
+        },
+        {
+          "targetLang": "la",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "A common Turkish verbalizing suffix that turns nouns and adjectives into verbs. Here it transforms the noun hatır (memory/mind) into a verb meaning 'to recall.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to remember, to recall",
+      "translationLong": "to remember, to recall, to recollect",
+      "exampleSentence": "O günü her zaman hatırlamak isterim.",
+      "exampleTranslation": "I always want to remember that day."
+    },
+    {
+      "id": "unutmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "unut",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to forget",
+      "translationLong": "to forget, to fail to remember",
+      "exampleSentence": "Anahtarlarını evde unutmak can sıkıcı.",
+      "exampleTranslation": "Forgetting your keys at home is annoying."
+    },
+    {
+      "id": "öğretmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğret",
+          "homeLang": "teach",
+          "homeLangDetails": "The causative stem of öğrenmek (to learn) — öğret- literally means 'to cause to learn.' The same root öğren- appears in öğrenci (student) and öğrenmek (to learn)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to teach",
+      "translationLong": "to teach, to instruct",
+      "exampleSentence": "Annesi ona matematik öğretmek istiyor.",
+      "exampleTranslation": "His mother wants to teach him mathematics."
+    },
+    {
+      "id": "izlemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "izle",
+          "homeLang": "watch, follow",
+          "homeLangDetails": "From iz (track, trace, footprint) — izlemek originally meant 'to follow a trail' and broadened to mean watching or observing something."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to watch, to follow",
+      "translationLong": "to watch, to follow, to observe, to track",
+      "exampleSentence": "Akşamları film izlemekten hoşlanırım.",
+      "exampleTranslation": "I enjoy watching movies in the evenings."
+    },
+    {
+      "id": "oynamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oyna",
+          "homeLang": "play, dance",
+          "homeLangDetails": "The root oyna- covers playing games, acting in a film or play, and dancing. It's a broad, lively verb covering many kinds of movement and entertainment."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to play",
+      "translationLong": "to play, to act, to dance",
+      "exampleSentence": "Çocuklar parkta oynamak istiyor.",
+      "exampleTranslation": "The children want to play in the park."
+    },
+    {
+      "id": "temizlenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "temiz",
+          "homeLang": "clean"
+        },
+        {
+          "targetLang": "len",
+          "homeLang": "(become)",
+          "homeLangDetails": "A verbalizing suffix that turns adjectives or nouns into verbs meaning 'to become' something. Temiz (clean) + -len- = to become clean, to get clean."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to clean oneself",
+      "translationLong": "to get clean, to clean oneself, to be cleaned",
+      "exampleSentence": "Spor yaptıktan sonra temizlenmek gerekiyor.",
+      "exampleTranslation": "It's necessary to clean oneself after exercising."
+    },
+    {
+      "id": "hazırlanmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hazır",
+          "homeLang": "ready"
+        },
+        {
+          "targetLang": "lan",
+          "homeLang": "(become)",
+          "homeLangDetails": "A verbalizing suffix meaning 'to become' or 'to make oneself.' Hazır (ready) + -lan- gives hazırlanmak, meaning to get ready or prepare oneself."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to get ready",
+      "translationLong": "to prepare oneself, to get ready",
+      "exampleSentence": "Sabahları işe gitmek için hazırlanmak zaman alıyor.",
+      "exampleTranslation": "Getting ready to go to work in the mornings takes time."
+    },
+    {
+      "id": "giyinmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "giyin",
+          "homeLang": "dress (oneself)",
+          "homeLangDetails": "From giymek (to wear, to put on clothing). The -in- here is a reflexive suffix, turning 'to put clothes on' into 'to dress oneself.' The surface form giyin- is how it appears in this word."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to get dressed",
+      "translationLong": "to dress oneself, to get dressed",
+      "exampleSentence": "Çocuk her sabah kendisi giyinebiliyor.",
+      "exampleTranslation": "The child can dress himself every morning."
+    },
+    {
+      "id": "yıkamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yıka",
+          "homeLang": "wash",
+          "homeLangDetails": "The root yıka- means to wash something (dishes, clothes, hands, etc.). It differs from yıkanmak, the reflexive form meaning to wash oneself or to bathe."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to wash",
+      "translationLong": "to wash, to rinse",
+      "exampleSentence": "Yemekten sonra bulaşıkları yıkamak gerekiyor.",
+      "exampleTranslation": "The dishes need to be washed after the meal."
+    },
+    {
+      "id": "pişirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pişir",
+          "homeLang": "cook (something)",
+          "homeLangDetails": "The causative form of pişmek (to cook, to ripen, to be cooked). Pişir- means 'to cause to cook' — i.e., to cook something. Compare: Yemek pişti (The food is cooked) vs. Yemek pişirdim (I cooked food)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to cook",
+      "translationLong": "to cook, to prepare food",
+      "exampleSentence": "Bu akşam annem çorba pişirmek istiyor.",
+      "exampleTranslation": "This evening my mother wants to cook soup."
+    },
+    {
+      "id": "toplamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "topla",
+          "homeLang": "collect, gather",
+          "homeLangDetails": "From top (ball, round object, group). Topla- means to gather things together into a group or pile — to collect, pick up, or add up. It also means 'to add' in mathematics."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to collect, to gather",
+      "translationLong": "to collect, to gather, to pick up, to add up",
+      "exampleSentence": "Çocuklar ormanda çiçek toplamak için gitti.",
+      "exampleTranslation": "The children went to pick flowers in the forest."
+    },
+    {
+      "id": "dağıtmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dağıt",
+          "homeLang": "distribute, scatter",
+          "homeLangDetails": "The causative form of dağılmak (to scatter, to disperse). Dağıt- means 'to cause to scatter' — to hand out, distribute, or spread things around. The root dağ- relates to spreading or dispersing."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to distribute, to hand out",
+      "translationLong": "to distribute, to hand out, to scatter, to deliver",
+      "exampleSentence": "Öğretmen kağıtları öğrencilere dağıtmak için kalktı.",
+      "exampleTranslation": "The teacher got up to hand out the papers to the students."
+    },
+    {
+      "id": "bölmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "böl",
+          "homeLang": "divide, split",
+          "homeLangDetails": "The root böl- means to divide or split something into parts. It is used in math (bölme = division), geography (bölge = region, zone), and everyday contexts like dividing food or space."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to divide, to split",
+      "translationLong": "to divide, to split, to separate into parts",
+      "exampleSentence": "Pastayı eşit parçalara bölmek zor oldu.",
+      "exampleTranslation": "It was difficult to divide the cake into equal pieces."
+    },
+    {
+      "id": "çarpmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çarp",
+          "homeLang": "hit, multiply",
+          "homeLangDetails": "The root çarp- covers striking or hitting something with force, as well as multiplication in math (çarpma = multiplication). The connecting thread is impact — things coming together forcefully or being combined by a factor."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to hit, to multiply",
+      "translationLong": "to hit, to strike, to multiply, to collide",
+      "exampleSentence": "İki sayıyı çarpmak için hesap makinesi kullandım.",
+      "exampleTranslation": "I used a calculator to multiply the two numbers."
+    },
+    {
+      "id": "çizmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çiz",
+          "homeLang": "draw, scratch",
+          "homeLangDetails": "The root çiz- means to draw a line, sketch, or scratch a surface. It's used for drawing pictures, sketching diagrams, and also for scratching lines into a surface. Related words include çizgi (line, stripe, cartoon) and çizim (drawing, sketch)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to draw, to sketch",
+      "translationLong": "to draw, to sketch, to trace, to scratch",
+      "exampleSentence": "Kağıda bir ev çizmek istiyorum.",
+      "exampleTranslation": "I want to draw a house on paper."
+    },
+    {
+      "id": "boyamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "boya",
+          "homeLang": "paint, color",
+          "homeLangDetails": "From boya (paint, dye, color) — boya is both the noun (paint) and the verb stem. Boyamak means to apply color to something: painting a wall, coloring a picture, dyeing hair. Related: boyacı (painter, shoeshine)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to paint, to color",
+      "translationLong": "to paint, to color, to dye",
+      "exampleSentence": "Çocuklar resim defterlerini boyamaktan çok zevk alıyor.",
+      "exampleTranslation": "The children really enjoy coloring their drawing books."
+    },
+    {
+      "id": "kesmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kes",
+          "homeLang": "cut, stop",
+          "homeLangDetails": "The root kes- means to cut (with scissors, a knife, etc.) but also to stop or cut off something (like electricity or a conversation). Related words: keskin (sharp), kesinlikle (definitely — 'sharply/decisively'), kesinti (interruption, cut)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to cut",
+      "translationLong": "to cut, to slice, to stop, to cut off",
+      "exampleSentence": "Ekmek kesmek için keskin bir bıçak kullanmalısın.",
+      "exampleTranslation": "You should use a sharp knife to cut bread."
+    },
+    {
+      "id": "dikmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dik",
+          "homeLang": "plant/sew/erect",
+          "homeLangDetails": "The core root dik- covers a range of related actions: planting something upright (a tree, a pole), sewing or stitching (fabric), and erecting or setting something straight. Context tells you which sense is meant."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to plant, to sew, to erect",
+      "translationLong": "to plant (a tree), to sew/stitch, to erect, to set upright",
+      "exampleSentence": "Bahçeye bir ağaç dikmek istiyorum.",
+      "exampleTranslation": "I want to plant a tree in the garden."
+    },
+    {
+      "id": "dökmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dök",
+          "homeLang": "pour/spill/shed",
+          "homeLangDetails": "The root dök- captures the idea of something flowing or falling out in quantity: pouring liquid, spilling something, shedding leaves or tears. It appears in dökme (casting/pouring) and döküntü (debris, spillage)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to pour, to spill, to shed",
+      "translationLong": "to pour, to spill, to shed (leaves, tears), to cast (metal)",
+      "exampleSentence": "Çayı yanlışlıkla masaya döktüm.",
+      "exampleTranslation": "I accidentally spilled the tea on the table."
+    },
+    {
+      "id": "karıştırmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "karış",
+          "homeLang": "mix/meddle",
+          "homeLangDetails": "The root karış- means to be mixed or to get involved. It appears in karışık (mixed, complicated) and karışım (mixture)."
+        },
+        {
+          "targetLang": "tır",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The causative suffix -tır/-tir/-tur/-tür makes an intransitive or basic verb transitive: where karışmak means 'to get mixed/involved,' karıştırmak means 'to mix something' or 'to cause confusion.' It's the difference between 'to mix' and 'to be mixed.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to mix, to stir, to confuse",
+      "translationLong": "to mix, to stir, to shuffle, to confuse, to meddle with",
+      "exampleSentence": "Lütfen çorbayı karıştırmayı unutma.",
+      "exampleTranslation": "Please don't forget to stir the soup."
+    },
+    {
+      "id": "sormak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sor",
+          "homeLang": "ask/inquire",
+          "homeLangDetails": "The root sor- means to ask or inquire. It appears in soru (question) and soruşturma (investigation)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to ask",
+      "translationLong": "to ask, to inquire, to question",
+      "exampleSentence": "Öğretmene bir şey sormak istiyorum.",
+      "exampleTranslation": "I want to ask the teacher something."
+    },
+    {
+      "id": "cevaplamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cevap",
+          "homeLang": "answer/reply",
+          "homeLangDetails": "Borrowed from Arabic jawāb, cevap is the standalone noun meaning 'answer' or 'reply.' You might also hear yanıt as a native Turkish synonym."
+        },
+        {
+          "targetLang": "la",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "The suffix -la/-le turns nouns and adjectives into verbs: cevap (answer, noun) → cevapla- (to answer, verb). You see the same pattern in temizlemek (to clean, from temiz, clean) or sulamak (to water, from su, water)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to answer, to reply",
+      "translationLong": "to answer, to reply, to respond",
+      "exampleSentence": "Telefonu neden cevaplamadın?",
+      "exampleTranslation": "Why didn't you answer the phone?"
+    },
+    {
+      "id": "anlatmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anla",
+          "homeLang": "understand/grasp",
+          "homeLangDetails": "The root anla- means to understand or comprehend, as in anlamak (to understand). The causative -t- transforms this into 'to make someone understand,' i.e., to explain or narrate."
+        },
+        {
+          "targetLang": "t",
+          "homeLang": "(causative)",
+          "homeLangDetails": "A short causative suffix -t- turns anlamak (to understand) into anlatmak (to explain, to make understood, to narrate). Same pattern as öğrenmek (to learn) → öğretmek (to teach)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to explain, to narrate",
+      "translationLong": "to explain, to narrate, to tell, to describe",
+      "exampleSentence": "Bana bu hikâyeyi anlatır mısın?",
+      "exampleTranslation": "Will you tell me this story?"
+    },
+    {
+      "id": "göstermek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "göster",
+          "homeLang": "show/display",
+          "homeLangDetails": "The root göster- is itself derived from görmek (to see) via a causative process historically, but it now functions as an independent root meaning 'to show.' You also see it in gösteri (performance, display) and gösterge (indicator)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to show, to demonstrate",
+      "translationLong": "to show, to demonstrate, to display, to indicate",
+      "exampleSentence": "Bana yolu gösterir misin?",
+      "exampleTranslation": "Can you show me the way?"
+    },
+    {
+      "id": "saklamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sakla",
+          "homeLang": "hide/store",
+          "homeLangDetails": "The root sakla- means to hide, conceal, or store something away. It appears in saklanmak (to hide oneself) and saklama (hiding, storage)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to hide, to conceal",
+      "translationLong": "to hide, to conceal, to store, to keep secret",
+      "exampleSentence": "Anahtarı nereye sakladın?",
+      "exampleTranslation": "Where did you hide the key?"
+    },
+    {
+      "id": "bulmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bul",
+          "homeLang": "find/discover",
+          "homeLangDetails": "The root bul- means to find, discover, or come up with something. It appears in buluş (invention, meeting), buluşmak (to meet up), and bulgu (finding, discovery)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to find",
+      "translationLong": "to find, to discover, to locate, to come up with",
+      "exampleSentence": "Kaybolan kitabımı nihayet buldum.",
+      "exampleTranslation": "I finally found my lost book."
+    },
+    {
+      "id": "seçmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "seç",
+          "homeLang": "choose/select",
+          "homeLangDetails": "The root seç- means to choose, select, or elect. It appears in seçim (election, choice), seçici (selective), and seçenek (option, alternative)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to choose, to select",
+      "translationLong": "to choose, to select, to elect, to pick",
+      "exampleSentence": "Hangi rengi seçmek istiyorsun?",
+      "exampleTranslation": "Which color do you want to choose?"
+    },
+    {
+      "id": "değiştirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "değiş",
+          "homeLang": "change/exchange",
+          "homeLangDetails": "The root değiş- means to change or be exchanged, as in değişmek (to change, intransitive). Adding the causative -tir- makes it transitive: to change something, to swap, to replace."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The causative suffix -tir- makes the change transitive: değişmek (to change by itself) → değiştirmek (to change something, to swap something). The same root also gives değişim (change, transformation) and değiş tokuş (exchange)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to change, to swap",
+      "translationLong": "to change, to swap, to replace, to exchange, to alter",
+      "exampleSentence": "Fikrini değiştirmeye karar verdi.",
+      "exampleTranslation": "She decided to change her mind."
+    },
+    {
+      "id": "düzeltmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "düzel",
+          "homeLang": "become correct/straight",
+          "homeLangDetails": "The root düzel- comes from düz (flat, straight, correct) and means to become straight or correct, as in düzelmek (to improve, to be fixed). The causative -t- turns this into 'to make straight/correct.'"
+        },
+        {
+          "targetLang": "t",
+          "homeLang": "(causative)",
+          "homeLangDetails": "A short -t- causative: where düzelmek means 'to get better/fixed on its own,' düzeltmek means 'to fix something, to correct something.' It's the same pattern as in anlatmak."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to correct, to fix",
+      "translationLong": "to correct, to fix, to adjust, to straighten out",
+      "exampleSentence": "Ödevindeki hataları düzeltmeni istiyorum.",
+      "exampleTranslation": "I want you to correct the mistakes in your homework."
+    },
+    {
+      "id": "geliştirmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geliş",
+          "homeLang": "develop/come along",
+          "homeLangDetails": "The root geliş- is related to gelmek (to come) and means to develop, to grow, or to progress — a sense of 'coming into fuller form.' It appears in gelişme (development, progress) and gelişmiş (developed, advanced)."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The causative suffix -tir- makes the process transitive: gelişmek (to develop on its own) → geliştirmek (to develop something, to improve something). You are now the one driving the progress."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to develop, to improve",
+      "translationLong": "to develop, to improve, to advance, to enhance",
+      "exampleSentence": "Kendini geliştirmek için her gün kitap okuyor.",
+      "exampleTranslation": "She reads books every day to improve herself."
+    },
+    {
+      "id": "ilerlemek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "iler",
+          "homeLang": "forward/ahead",
+          "homeLangDetails": "İler- is the verbal root derived from ileri (forward, ahead, advanced). It captures the notion of moving forward or making progress. İleri itself also appears in ileri sürmek (to put forward, to propose) and ilerleme (progress, advancement)."
+        },
+        {
+          "targetLang": "le",
+          "homeLang": "(verbalizer)",
+          "homeLangDetails": "The suffix -le turns the directional concept ileri (forward) into the verb stem ilerle- (to advance, to progress). The same -le verbalizer appears in cevaplamak (to answer) and many other Turkish verbs formed from nouns or adjectives."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to advance, to progress",
+      "translationLong": "to advance, to progress, to move forward, to make headway",
+      "exampleSentence": "Türkçem her geçen gün ilerliyor.",
+      "exampleTranslation": "My Turkish is progressing more every day."
+    },
+    {
+      "id": "geri dönmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geri",
+          "homeLang": "back/backward",
+          "homeLangDetails": "Geri is an adverb meaning 'back' or 'backward.' It frequently pairs with verbs to indicate a return or reversal, much like the English prefix 're-' or 'back.' You see it in geri gelmek (to come back), geri vermek (to give back), and geri çekilmek (to withdraw)."
+        },
+        {
+          "targetLang": "dön",
+          "homeLang": "turn/return",
+          "homeLangDetails": "The root dön- means to turn or to return. On its own, dönmek can mean simply 'to turn around.' Combined with geri, it specifically means 'to return, to go back.' It also appears in dönüşüm (transformation, recycling) and döngü (cycle, loop)."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to return, to go back",
+      "translationLong": "to return, to go back, to come back",
+      "exampleSentence": "Eve geri dönmek için sabırsızlanıyorum.",
+      "exampleTranslation": "I can't wait to return home."
+    },
+    {
+      "id": "ziyaret etmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ziyaret",
+          "homeLang": "visit",
+          "homeLangDetails": "A noun borrowed from Arabic meaning 'visit' or 'visitation.' In Turkish, it pairs with the light verb etmek (to do/make) to form a verb phrase meaning 'to visit.'"
+        },
+        {
+          "targetLang": " ",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "et",
+          "homeLang": "do/make",
+          "homeLangDetails": "The light verb etmek (to do, to make) is used with many Arabic and Persian loan nouns to form verbal phrases. Here it turns the noun ziyaret into the verb 'to visit.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to visit",
+      "translationLong": "to visit, to pay a visit",
+      "exampleSentence": "Anneми hafta sonu ziyaret etmek istiyorum.",
+      "exampleTranslation": "I want to visit my mother this weekend.",
+      "flag": "space treated as separator part; light verb construction"
+    },
+    {
+      "id": "kutlamak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kutla",
+          "homeLang": "celebrate",
+          "homeLangDetails": "From the root kut (luck, blessing, auspiciousness), an old Turkic word. The suffix -la turns it into a verb stem meaning 'to bless' or 'to celebrate.'"
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to celebrate",
+      "translationLong": "to celebrate, to commemorate",
+      "exampleSentence": "Bugün doğum günümü kutlamak istiyorum.",
+      "exampleTranslation": "I want to celebrate my birthday today."
+    },
+    {
+      "id": "eğlenmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "eğlen",
+          "homeLang": "have fun",
+          "homeLangDetails": "From eğlenmek, a reflexive/intransitive verb meaning 'to enjoy oneself, to have fun.' The root eğle- relates to 'lingering' or 'engaging oneself pleasantly.' The -n- is a reflexive marker built into the stem."
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to have fun",
+      "translationLong": "to have fun, to enjoy oneself, to be entertained",
+      "exampleSentence": "Çocuklar parkta eğlenmek için sabırsızlanıyor.",
+      "exampleTranslation": "The children are eagerly waiting to have fun in the park."
+    },
+    {
+      "id": "öğrencilik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "öğren",
+          "homeLang": "learn",
+          "homeLangDetails": "The verb root öğren- means 'to learn.' It is the basis for öğrenci (student/learner) and related words."
+        },
+        {
+          "targetLang": "ci",
+          "homeLang": "(agent/occupation)",
+          "homeLangDetails": "The suffix -ci/-cı/-cu/-cü/-çi/-çı/-çu/-çü forms nouns denoting a person who does or is associated with something. Here öğren + ci = öğrenci, meaning 'learner' or 'student.'"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "The suffix -lik/-lık/-luk/-lük turns nouns and adjectives into abstract nouns. Here it turns öğrenci (student) into öğrencilik, meaning the state, period, or condition of being a student — 'studenthood' or 'student life.'"
+        }
+      ],
+      "translationShort": "student life",
+      "translationLong": "studenthood, being a student, the student years",
+      "exampleSentence": "Öğrencilik yılları çok güzeldi.",
+      "exampleTranslation": "The student years were very beautiful."
+    },
+    {
+      "id": "işsizlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "iş",
+          "homeLang": "work, job"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The opposite of -lı, meaning \"without\" or \"-less,\" just like English \"hopeless\" or \"sugarless.\" It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work)."
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "unemployment",
+      "translationLong": "unemployment, joblessness",
+      "exampleSentence": "İşsizlik oranı bu yıl arttı.",
+      "exampleTranslation": "The unemployment rate increased this year."
+    },
+    {
+      "id": "parasızlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "para",
+          "homeLang": "money"
+        },
+        {
+          "targetLang": "sız",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The opposite of -lı, meaning \"without\" or \"-less,\" just like English \"hopeless\" or \"sugarless.\" It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work)."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "poverty, pennilessness",
+      "translationLong": "lack of money, being broke, pennilessness",
+      "exampleSentence": "Parasızlık yüzünden tatile gidemedik.",
+      "exampleTranslation": "We couldn't go on vacation because of lack of money."
+    },
+    {
+      "id": "evlilik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ev",
+          "homeLang": "home, house",
+          "homeLangDetails": "The root ev means 'house' or 'home.' Evli means 'married' — literally 'having a home/household' — and evlilik extends this to the abstract state of marriage."
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "having, with",
+          "homeLangDetails": "The suffix -li/-lı/-lu/-lü means 'having' or 'with.' Ev + li = evli, literally 'one who has a home/household,' meaning 'married.'"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "marriage",
+      "translationLong": "marriage, matrimony, wedlock",
+      "exampleSentence": "Evlilik büyük bir sorumluluk gerektirir.",
+      "exampleTranslation": "Marriage requires great responsibility."
+    },
+    {
+      "id": "bekârlık",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bekâr",
+          "homeLang": "single, unmarried",
+          "homeLangDetails": "Borrowed from Arabic bakkar (bachelor, young man). In Turkish it means 'unmarried' or 'single.' The circumflex on the â is a remnant of the Arabic long vowel."
+        },
+        {
+          "targetLang": "lık",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "bachelorhood",
+      "translationLong": "bachelorhood, being single, the single life",
+      "exampleSentence": "Bekârlık sultanların bile başına kakacağı bir durum değildir.",
+      "exampleTranslation": "Being single is not a situation to be ashamed of, even for kings."
+    },
+    {
+      "id": "askerlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "asker",
+          "homeLang": "soldier",
+          "homeLangDetails": "Borrowed from Arabic 'askar (army, soldier). In Turkish, asker means 'soldier' or 'military personnel.'"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Here -lik turns asker (soldier) into an abstract noun covering both the profession/service of being a soldier and the institution of military service — 'soldierhood,' 'military service,' or 'military life.'"
+        }
+      ],
+      "translationShort": "military service",
+      "translationLong": "military service, soldiering, the military",
+      "exampleSentence": "Askerlik görevini geçen yıl tamamladı.",
+      "exampleTranslation": "He completed his military service last year."
+    },
+    {
+      "id": "sağlıklı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sağlık",
+          "homeLang": "health",
+          "homeLangDetails": "From sağ (alive, healthy, intact) + -lık (the abstract noun suffix). Sağlık means 'health' as an abstract concept."
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "having, with",
+          "homeLangDetails": "The suffix -lı/-li/-lu/-lü here turns the noun sağlık (health) into the adjective 'having health' — i.e., healthy."
+        }
+      ],
+      "translationShort": "healthy",
+      "translationLong": "healthy, wholesome, sound",
+      "exampleSentence": "Sağlıklı beslenmek önemlidir.",
+      "exampleTranslation": "Eating healthily is important."
+    },
+    {
+      "id": "sağlıksız",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sağlık",
+          "homeLang": "health",
+          "homeLangDetails": "From sağ (alive, healthy) + -lık (abstract noun suffix). Sağlık means 'health.'"
+        },
+        {
+          "targetLang": "sız",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The opposite of -lı, meaning \"without\" or \"-less,\" just like English \"hopeless\" or \"sugarless.\" It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work)."
+        }
+      ],
+      "translationShort": "unhealthy",
+      "translationLong": "unhealthy, unwholesome, unsound",
+      "exampleSentence": "Sağlıksız yiyeceklerden kaçınmaya çalışıyorum.",
+      "exampleTranslation": "I try to avoid unhealthy foods."
+    },
+    {
+      "id": "başarılı",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "başarı",
+          "homeLang": "success",
+          "homeLangDetails": "From the verb başarmak (to succeed, to accomplish), itself from baş (head, beginning) + -ar (a verbal suffix). Başarı is the noun meaning 'success' or 'achievement.'"
+        },
+        {
+          "targetLang": "lı",
+          "homeLang": "having, with",
+          "homeLangDetails": "Creates adjectives meaning \"having\" or \"characterized by\" something -- a lot like English \"-ful\" or \"-ed\" as in \"talented.\" It's incredibly productive. Examples: sütlü (with milk), şekerli (with sugar), deneyimli (experienced/with experience)."
+        }
+      ],
+      "translationShort": "successful",
+      "translationLong": "successful, accomplished",
+      "exampleSentence": "O, çok başarılı bir öğrenci.",
+      "exampleTranslation": "She is a very successful student."
+    },
+    {
+      "id": "başarısız",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "başarı",
+          "homeLang": "success",
+          "homeLangDetails": "From başarmak (to succeed), rooted in baş (head, beginning). Başarı means 'success' or 'achievement.'"
+        },
+        {
+          "targetLang": "sız",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The opposite of -lı, meaning \"without\" or \"-less,\" just like English \"hopeless\" or \"sugarless.\" It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work)."
+        }
+      ],
+      "translationShort": "unsuccessful",
+      "translationLong": "unsuccessful, failing, without success",
+      "exampleSentence": "Bu seferki girişim başarısız oldu.",
+      "exampleTranslation": "This attempt was unsuccessful."
+    },
+    {
+      "id": "zenginlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "zengin",
+          "homeLang": "rich, wealthy",
+          "homeLangDetails": "An adjective of uncertain etymology (possibly of Persian or Sogdian origin) meaning 'rich' or 'wealthy.' It is used both literally (financially rich) and figuratively (rich in content, abundant)."
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "wealth, richness",
+      "translationLong": "wealth, richness, affluence",
+      "exampleSentence": "Zenginlik mutluluğu garantilemez.",
+      "exampleTranslation": "Wealth does not guarantee happiness."
+    },
+    {
+      "id": "fakirlik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fakir",
+          "homeLang": "poor, needy",
+          "homeLangDetails": "Borrowed from Arabic faqīr (poor, needy — literally 'one in need'). In Turkish, fakir means 'poor' or 'impoverished.' The same Arabic root gives English the word 'fakir.'"
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "poverty",
+      "translationLong": "poverty, poorness, destitution",
+      "exampleSentence": "Fakirlik, eğitime erişimi zorlaştırabilir.",
+      "exampleTranslation": "Poverty can make access to education more difficult."
+    },
+    {
+      "id": "yoksulluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yok",
+          "homeLang": "absent, none",
+          "homeLangDetails": "A core Turkish word meaning 'there is not' or 'nonexistent.' It is the opposite of 'var' (there is). Here it forms the base of a chain meaning 'lacking (things).'"
+        },
+        {
+          "targetLang": "sul",
+          "homeLang": "having",
+          "homeLangDetails": "This is the -lı/-li suffix in its -sul form after the vowel 'o', following vowel harmony. It means 'having' or 'characterized by' — so 'yoksul' literally means 'having nothing,' i.e., poor."
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "poverty",
+      "translationLong": "poverty, destitution, neediness",
+      "exampleSentence": "Yoksullukla mücadele etmek hükümetin önceliğidir.",
+      "exampleTranslation": "Fighting poverty is the government's priority."
+    },
+    {
+      "id": "bilinçli",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bil",
+          "homeLang": "know",
+          "homeLangDetails": "The root 'bil-' means 'to know' or 'to be aware of.' It is one of the most productive roots in Turkish, appearing in bilgi (knowledge), bilim (science), and bilgisayar (computer)."
+        },
+        {
+          "targetLang": "inç",
+          "homeLang": "(consciousness)",
+          "homeLangDetails": "Together with 'bil-', this forms 'bilinç' (consciousness, awareness). The -inç element is a nominalizing suffix that has fossilized into the stem — 'bilinç' is best treated as a single lexical item meaning 'consciousness.'"
+        },
+        {
+          "targetLang": "li",
+          "homeLang": "having, with",
+          "homeLangDetails": "Creates adjectives meaning \"having\" or \"characterized by\" something -- a lot like English \"-ful\" or \"-ed\" as in \"talented.\" It's incredibly productive. Examples: sütlü (with milk), şekerli (with sugar), deneyimli (experienced/with experience)."
+        }
+      ],
+      "translationShort": "conscious, aware",
+      "translationLong": "conscious, aware, deliberate, mindful",
+      "exampleSentence": "Bilinçli tüketim hem insanlara hem de çevreye faydalıdır.",
+      "exampleTranslation": "Conscious consumption is beneficial both to people and to the environment."
+    },
+    {
+      "id": "bilinçsiz",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bil",
+          "homeLang": "know",
+          "homeLangDetails": "The root 'bil-' means 'to know' or 'to be aware of.' It is one of the most productive roots in Turkish, appearing in bilgi (knowledge), bilim (science), and bilgisayar (computer)."
+        },
+        {
+          "targetLang": "inç",
+          "homeLang": "(consciousness)",
+          "homeLangDetails": "Together with 'bil-', this forms 'bilinç' (consciousness, awareness). The -inç element is a nominalizing suffix that has fossilized into the stem — 'bilinç' is best treated as a single lexical item meaning 'consciousness.'"
+        },
+        {
+          "targetLang": "siz",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The opposite of -lı, meaning \"without\" or \"-less,\" just like English \"hopeless\" or \"sugarless.\" It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work)."
+        }
+      ],
+      "translationShort": "unconscious, unaware",
+      "translationLong": "unconscious, unaware, unwitting, oblivious",
+      "exampleSentence": "Bilinçsiz bir şekilde yaptığı hatalar onu zor durumda bıraktı.",
+      "exampleTranslation": "The mistakes he made unknowingly left him in a difficult situation."
+    },
+    {
+      "id": "sorumluluk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sor",
+          "homeLang": "ask",
+          "homeLangDetails": "From the verb 'sormak' (to ask). The idea behind 'sorumluluk' traces from asking — being someone who can be asked, i.e., accountable."
+        },
+        {
+          "targetLang": "umlu",
+          "homeLang": "(accountable)",
+          "homeLangDetails": "This segment bundles two elements: '-um-' is a nominalizing/agent suffix turning the verb into a noun-like stem, and '-lu' is the -lı 'having/characterized by' suffix. Together '-umlu' creates 'sorumlu' (responsible, accountable) — literally 'one who can be asked.'"
+        },
+        {
+          "targetLang": "luk",
+          "homeLang": "-ness, -hood, -ity",
+          "homeLangDetails": "Turns adjectives and nouns into abstract nouns, very much like English \"-ness,\" \"-hood,\" or \"-ity.\" It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty)."
+        }
+      ],
+      "translationShort": "responsibility",
+      "translationLong": "responsibility, accountability, liability",
+      "exampleSentence": "Bu projenin sorumluluğunu ben üstlendim.",
+      "exampleTranslation": "I took on the responsibility for this project."
+    },
+    {
+      "id": "çevrecilik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "çevre",
+          "homeLang": "environment, surroundings",
+          "homeLangDetails": "A core Turkish word meaning 'surroundings,' 'environment,' or 'neighborhood.' It comes from the verb 'çevirmek' (to turn, to surround) — so 'çevre' is literally 'what surrounds you.'"
+        },
+        {
+          "targetLang": "ci",
+          "homeLang": "(agent/occupation)",
+          "homeLangDetails": "The -ci suffix here creates 'çevreci' (environmentalist) — someone who advocates for or is devoted to the environment. It is the same suffix that makes 'çay' (tea) into 'çaycı' (tea seller)."
+        },
+        {
+          "targetLang": "lik",
+          "homeLang": "-ism, -ity",
+          "homeLangDetails": "The -lik suffix turns 'çevreci' (environmentalist) into an abstract noun: environmentalism as a movement, ideology, or set of practices."
+        }
+      ],
+      "translationShort": "environmentalism",
+      "translationLong": "environmentalism, ecological activism",
+      "exampleSentence": "Çevrecilik son yıllarda giderek daha fazla önem kazanmaktadır.",
+      "exampleTranslation": "Environmentalism has been gaining more and more importance in recent years."
+    }
+  ]
+}

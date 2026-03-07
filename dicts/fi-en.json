@@ -1,0 +1,4157 @@
+{
+  "words": [
+    {
+      "id": "kirjasto",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirja",
+          "homeLang": "book"
+        },
+        {
+          "targetLang": "sto",
+          "homeLang": "(place of)",
+          "homeLangDetails": "A Finnish suffix forming place names — a location associated with the base noun. The same suffix appears in words like apteekki (pharmacy) and varasto (storage). Think of it as '-ery' or '-arium' in English."
+        }
+      ],
+      "translationShort": "library",
+      "translationLong": "",
+      "exampleSentence": "Lainaan kirjan kirjastosta.",
+      "exampleTranslation": "I borrow a book from the library."
+    },
+    {
+      "id": "lukeminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "luke",
+          "homeLang": "read"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The Finnish -minen suffix turns a verb into a noun meaning 'the act of doing something' — much like English '-ing' in 'reading' or 'writing'. It's one of the most productive nominalizing suffixes in Finnish."
+        }
+      ],
+      "translationShort": "reading",
+      "translationLong": "the act of reading",
+      "exampleSentence": "Lukeminen on minulle tärkeää.",
+      "exampleTranslation": "Reading is important to me."
+    },
+    {
+      "id": "kirjoittaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirjoitta",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The Finnish -minen suffix turns a verb into a noun meaning 'the act of doing something' — like English '-ing'. Here kirjoittaa (to write) becomes kirjoittaminen (writing)."
+        }
+      ],
+      "translationShort": "writing",
+      "translationLong": "the act of writing",
+      "exampleSentence": "Kirjoittaminen auttaa minua ajattelemaan selkeämmin.",
+      "exampleTranslation": "Writing helps me think more clearly."
+    },
+    {
+      "id": "opettaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "opetta",
+          "homeLang": "teach"
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er",
+          "homeLangDetails": "The Finnish -ja/-jä suffix forms agent nouns — a person who does the action. Opettaa means 'to teach', so opettaja is 'one who teaches'. The same pattern appears in laulaja (singer, from laulaa, to sing) and juoksija (runner, from juosta, to run)."
+        }
+      ],
+      "translationShort": "teacher",
+      "translationLong": "",
+      "exampleSentence": "Opettaja selitti tehtävän huolellisesti.",
+      "exampleTranslation": "The teacher explained the assignment carefully."
+    },
+    {
+      "id": "opiskelija",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "opiskele",
+          "homeLang": "study"
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er",
+          "homeLangDetails": "The Finnish agent suffix -ja/-jä, meaning 'one who does something'. Opiskella means 'to study', so opiskelija is 'one who studies'. The same suffix appears in opettaja (teacher) and myyjä (seller)."
+        }
+      ],
+      "translationShort": "student",
+      "translationLong": "student, learner",
+      "exampleSentence": "Opiskelija luki tenttiä varten koko yön.",
+      "exampleTranslation": "The student read all night for the exam."
+    },
+    {
+      "id": "ravintola",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ravinto",
+          "homeLang": "nourishment"
+        },
+        {
+          "targetLang": "la",
+          "homeLang": "(place of)",
+          "homeLangDetails": "The Finnish suffix -la/-lä forms place nouns — a location associated with the base word. Ravinto means 'nourishment' or 'food', so ravintola is literally 'a place of nourishment'. The same suffix appears in koulu (school → koulula wouldn't be standard, but the pattern is visible in words like sairaala)."
+        }
+      ],
+      "translationShort": "restaurant",
+      "translationLong": "",
+      "exampleSentence": "Söimme illallista italialaisessa ravintolassa.",
+      "exampleTranslation": "We ate dinner at an Italian restaurant."
+    },
+    {
+      "id": "kaupunki",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaupunki",
+          "homeLang": "city, town"
+        }
+      ],
+      "translationShort": "city, town",
+      "translationLong": "",
+      "exampleSentence": "Helsinki on Suomen suurin kaupunki.",
+      "exampleTranslation": "Helsinki is the largest city in Finland.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "kaupunkilainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaupunki",
+          "homeLang": "city, town"
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(person from/of)",
+          "homeLangDetails": "The Finnish suffix -lainen/-läinen forms words meaning 'a person associated with or belonging to' the base noun. Kaupunki means 'city', so kaupunkilainen is 'a city person' or 'city dweller'. The same suffix is used for nationalities and origins: suomalainen (Finnish person), helsinkiläinen (person from Helsinki)."
+        }
+      ],
+      "translationShort": "city dweller",
+      "translationLong": "city dweller, urbanite, town person",
+      "exampleSentence": "Hän on syntyperäinen kaupunkilainen.",
+      "exampleTranslation": "He is a born-and-bred city dweller."
+    },
+    {
+      "id": "sairaala",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "saira",
+          "homeLang": "sick, ill",
+          "homeLangDetails": "From sairas (sick, ill). The stem saira- connects to illness and disease throughout Finnish vocabulary, as in sairaanhoitaja (nurse) and sairaus (illness)."
+        },
+        {
+          "targetLang": "ala",
+          "homeLang": "(place of)",
+          "homeLangDetails": "A variant of the Finnish place-forming suffix -la/-lä. Here it attaches to the sickness root to mean 'a place for the sick'. The same suffix pattern appears in ravintola (restaurant, place of nourishment)."
+        }
+      ],
+      "translationShort": "hospital",
+      "translationLong": "",
+      "exampleSentence": "Hänet vietiin sairaalaan ambulanssilla.",
+      "exampleTranslation": "He was taken to the hospital by ambulance."
+    },
+    {
+      "id": "sairaanhoitaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sairaan",
+          "homeLang": "of the sick",
+          "homeLangDetails": "The genitive form of sairas (sick, ill). In Finnish compounds, the genitive case is often used to show that one noun belongs to or relates to another. So sairaan- here means 'of the sick person' — the one being cared for."
+        },
+        {
+          "targetLang": "hoita",
+          "homeLang": "care for, tend"
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er",
+          "homeLangDetails": "The Finnish agent suffix -ja/-jä, meaning 'one who does the action'. Hoitaa means 'to care for', so hoitaja is 'caregiver'. Combined with sairaan-, the whole word means 'one who cares for the sick'."
+        }
+      ],
+      "translationShort": "nurse",
+      "translationLong": "nurse, caregiver",
+      "exampleSentence": "Sairaanhoitaja mittasi potilaan verenpaineen.",
+      "exampleTranslation": "The nurse measured the patient's blood pressure."
+    },
+    {
+      "id": "lääkäri",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lääkäri",
+          "homeLang": "doctor, physician"
+        }
+      ],
+      "translationShort": "doctor",
+      "translationLong": "doctor, physician",
+      "exampleSentence": "Lääkäri kirjoitti minulle reseptin.",
+      "exampleTranslation": "The doctor wrote me a prescription.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "lääkärinvastaanotto",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lääkärin",
+          "homeLang": "doctor's",
+          "homeLangDetails": "The genitive form of lääkäri (doctor). In Finnish, the genitive (-n) is used to show possession or association within a compound or phrase. Lääkärin means 'of the doctor' or 'doctor's'."
+        },
+        {
+          "targetLang": "vastaan",
+          "homeLang": "against, opposite",
+          "homeLangDetails": "In isolation, vastaan means 'against' or 'towards'. But in this compound it contributes the idea of 'receiving' or 'meeting' — the doctor comes toward (meets) the patient. It's the same root as in vastaanottaa (to receive, to accept)."
+        },
+        {
+          "targetLang": "otto",
+          "homeLang": "taking, reception",
+          "homeLangDetails": "From ottaa (to take). Otto here means 'a taking' or 'reception'. Combined with vastaan-, vastaanotto means 'reception' or 'receiving'. A doctor's vastaanotto is the appointment or consulting session where the doctor 'receives' the patient."
+        }
+      ],
+      "translationShort": "doctor's appointment",
+      "translationLong": "doctor's appointment, doctor's office visit, medical consultation",
+      "exampleSentence": "Minulla on lääkärinvastaanotto huomenna aamulla.",
+      "exampleTranslation": "I have a doctor's appointment tomorrow morning."
+    },
+    {
+      "id": "kirjakauppa",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirja",
+          "homeLang": "book"
+        },
+        {
+          "targetLang": "kauppa",
+          "homeLang": "shop, store"
+        }
+      ],
+      "translationShort": "bookstore",
+      "translationLong": "bookstore, bookshop",
+      "exampleSentence": "Ostin uuden romaanin kirjakaupasta.",
+      "exampleTranslation": "I bought a new novel from the bookstore."
+    },
+    {
+      "id": "ruokakauppa",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruoka",
+          "homeLang": "food"
+        },
+        {
+          "targetLang": "kauppa",
+          "homeLang": "shop, store"
+        }
+      ],
+      "translationShort": "grocery store",
+      "translationLong": "grocery store, food shop",
+      "exampleSentence": "Käyn ruokakaupassa joka viikko.",
+      "exampleTranslation": "I go to the grocery store every week."
+    },
+    {
+      "id": "tietokone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tieto",
+          "homeLang": "knowledge, information"
+        },
+        {
+          "targetLang": "kone",
+          "homeLang": "machine"
+        }
+      ],
+      "translationShort": "computer",
+      "translationLong": "",
+      "exampleSentence": "Tietokoneeni on rikki, joten en pysty tekemään töitä.",
+      "exampleTranslation": "My computer is broken, so I can't work."
+    },
+    {
+      "id": "matkapuhelin",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "matka",
+          "homeLang": "journey, travel"
+        },
+        {
+          "targetLang": "puhelin",
+          "homeLang": "telephone",
+          "homeLangDetails": "From puhua (to speak) + -lin, a suffix for instruments or devices. So a puhelin is literally 'a speaking device.'"
+        }
+      ],
+      "translationShort": "mobile phone",
+      "translationLong": "mobile phone, cell phone",
+      "exampleSentence": "Jätin matkapuhelimeni kotiin.",
+      "exampleTranslation": "I left my mobile phone at home."
+    },
+    {
+      "id": "puhelinnumero",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puhelin",
+          "homeLang": "telephone",
+          "homeLangDetails": "From puhua (to speak) + -lin, a suffix for instruments or devices. Literally 'a speaking device.'"
+        },
+        {
+          "targetLang": "numero",
+          "homeLang": "number"
+        }
+      ],
+      "translationShort": "phone number",
+      "translationLong": "",
+      "exampleSentence": "Voitko antaa minulle puhelinnumerosi?",
+      "exampleTranslation": "Can you give me your phone number?"
+    },
+    {
+      "id": "rautatieasema",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rauta",
+          "homeLang": "iron"
+        },
+        {
+          "targetLang": "tie",
+          "homeLang": "road, way"
+        },
+        {
+          "targetLang": "asema",
+          "homeLang": "station, position"
+        }
+      ],
+      "translationShort": "train station",
+      "translationLong": "railway station",
+      "exampleSentence": "Tapaamme rautatieasemalla kello kolme.",
+      "exampleTranslation": "We'll meet at the train station at three o'clock."
+    },
+    {
+      "id": "lentokenttä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lento",
+          "homeLang": "flight, flying"
+        },
+        {
+          "targetLang": "kenttä",
+          "homeLang": "field, ground"
+        }
+      ],
+      "translationShort": "airport",
+      "translationLong": "airport, airfield",
+      "exampleSentence": "Lentokenttä on kaupungin ulkopuolella.",
+      "exampleTranslation": "The airport is outside the city."
+    },
+    {
+      "id": "bussiasema",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bussi",
+          "homeLang": "bus"
+        },
+        {
+          "targetLang": "asema",
+          "homeLang": "station, position"
+        }
+      ],
+      "translationShort": "bus station",
+      "translationLong": "",
+      "exampleSentence": "Bussiasema on lähellä toria.",
+      "exampleTranslation": "The bus station is near the market square."
+    },
+    {
+      "id": "uimaallas",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uima",
+          "homeLang": "swimming",
+          "homeLangDetails": "The verbal stem of uida (to swim) in its nominal/compound form. It shows up in many compound words related to swimming, like uimapuku (swimsuit) and uimaranta (swimming beach)."
+        },
+        {
+          "targetLang": "allas",
+          "homeLang": "pool, basin"
+        }
+      ],
+      "translationShort": "swimming pool",
+      "translationLong": "",
+      "exampleSentence": "Lapset leikkivät uima-altaassa.",
+      "exampleTranslation": "The children are playing in the swimming pool."
+    },
+    {
+      "id": "kirjahylly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirja",
+          "homeLang": "book"
+        },
+        {
+          "targetLang": "hylly",
+          "homeLang": "shelf"
+        }
+      ],
+      "translationShort": "bookshelf",
+      "translationLong": "bookcase, bookshelf",
+      "exampleSentence": "Kirjahylly on täynnä romaaneja.",
+      "exampleTranslation": "The bookshelf is full of novels."
+    },
+    {
+      "id": "ruoanlaitto",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruoan",
+          "homeLang": "of food",
+          "homeLangDetails": "The genitive form of ruoka (food). In Finnish compounds, the first element often appears in the genitive, indicating that something belongs to or concerns it. Here it signals that this is cooking that belongs to food — the preparation of food."
+        },
+        {
+          "targetLang": "laitto",
+          "homeLang": "putting, placing",
+          "homeLangDetails": "From laittaa (to put, to prepare, to make). Laitto as a noun refers to the act of making or putting something together. In this compound it conveys preparation — putting food together."
+        }
+      ],
+      "translationShort": "cooking",
+      "translationLong": "cooking, food preparation",
+      "exampleSentence": "Ruoanlaitto on minulle rentouttavaa.",
+      "exampleTranslation": "Cooking is relaxing for me."
+    },
+    {
+      "id": "ruoanlaitta",
+      "article": "",
+      "flag": "Possible misspelling — standard Finnish is 'ruoanlaittaja' (cook, noun) or 'ruoanlaitto' (cooking). Please verify the intended word.",
+      "parts": [
+        {
+          "targetLang": "ruoan",
+          "homeLang": "of food",
+          "homeLangDetails": "The genitive form of ruoka (food). In Finnish compounds, the first element often appears in the genitive to show that something relates to it."
+        },
+        {
+          "targetLang": "laitta",
+          "homeLang": "cook/prepare",
+          "homeLangDetails": "Appears to be a truncated or colloquial form related to laittaa (to prepare, to make). The full agent noun would be laittaja (one who makes/prepares). As written, this may be an informal shortening or a typo."
+        }
+      ],
+      "translationShort": "cook (person)?",
+      "translationLong": "Likely intended as 'cook' (person) — the standard form is ruoanlaittaja",
+      "exampleSentence": "Hän on taitava ruoanlaittaja.",
+      "exampleTranslation": "He is a skilled cook."
+    },
+    {
+      "id": "juominen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juo",
+          "homeLang": "drink"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun meaning 'the act of doing something.' It's one of the most productive suffixes in Finnish — juoda (to drink) becomes juominen (drinking), just as syödä (to eat) becomes syöminen (eating)."
+        }
+      ],
+      "translationShort": "drinking",
+      "translationLong": "the act of drinking",
+      "exampleSentence": "Riittävä juominen on tärkeää terveydelle.",
+      "exampleTranslation": "Drinking enough is important for your health."
+    },
+    {
+      "id": "syöminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syö",
+          "homeLang": "eat"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun meaning 'the act of doing something.' Syödä (to eat) becomes syöminen (eating)."
+        }
+      ],
+      "translationShort": "eating",
+      "translationLong": "the act of eating",
+      "exampleSentence": "Hidas syöminen auttaa ruoansulatusta.",
+      "exampleTranslation": "Eating slowly helps digestion."
+    },
+    {
+      "id": "nukkuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nukku",
+          "homeLang": "sleep"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun meaning 'the act of doing something.' Nukkua (to sleep) becomes nukkuminen (sleeping)."
+        }
+      ],
+      "translationShort": "sleeping",
+      "translationLong": "the act of sleeping",
+      "exampleSentence": "Hyvä nukkuminen parantaa mielialaa.",
+      "exampleTranslation": "Good sleep improves your mood."
+    },
+    {
+      "id": "herääminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "herää",
+          "homeLang": "wake up"
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun meaning 'the act of doing something.' Herätä (to wake up) becomes herääminen (waking up)."
+        }
+      ],
+      "translationShort": "waking up",
+      "translationLong": "the act of waking up",
+      "exampleSentence": "Aikainen herääminen on minulle vaikeaa.",
+      "exampleTranslation": "Waking up early is difficult for me."
+    },
+    {
+      "id": "harjoitteleminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "harjoitte",
+          "homeLang": "practice, exercise",
+          "homeLangDetails": "From harjoitella (to practice, to train), which is itself a frequentative form of harjoittaa (to exercise, to practice something). The frequentative ending -le- conveys repeated or ongoing action."
+        },
+        {
+          "targetLang": "le",
+          "homeLang": "(frequentative)",
+          "homeLangDetails": "A frequentative suffix indicating that the action is repeated or habitual. Harjoitella, with -le-, emphasizes ongoing or regular practice rather than a one-time act."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun meaning 'the act of doing something.' Harjoitella (to practice) becomes harjoitteleminen (practicing)."
+        }
+      ],
+      "translationShort": "practicing",
+      "translationLong": "the act of practicing, exercising",
+      "exampleSentence": "Säännöllinen harjoitteleminen kehittää taitoja.",
+      "exampleTranslation": "Regular practice develops skills."
+    },
+    {
+      "id": "liikuntakeskus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liikunta",
+          "homeLang": "exercise, physical activity",
+          "homeLangDetails": "From liikkua (to move). Liikunta refers specifically to physical exercise or movement as a beneficial activity — the same root gives liike (movement, motion) and liikenne (traffic)."
+        },
+        {
+          "targetLang": "keskus",
+          "homeLang": "center"
+        }
+      ],
+      "translationShort": "fitness center",
+      "translationLong": "fitness center, sports center, gym",
+      "exampleSentence": "Käyn liikuntakeskuksessa kolme kertaa viikossa.",
+      "exampleTranslation": "I go to the fitness center three times a week."
+    },
+    {
+      "id": "jalkapallo",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "jalka",
+          "homeLang": "foot"
+        },
+        {
+          "targetLang": "pallo",
+          "homeLang": "ball"
+        }
+      ],
+      "translationShort": "football, soccer",
+      "translationLong": "football (soccer)",
+      "exampleSentence": "Minä pelaan jalkapalloa viikonloppuisin.",
+      "exampleTranslation": "I play soccer on weekends."
+    },
+    {
+      "id": "koripallo",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kori",
+          "homeLang": "basket"
+        },
+        {
+          "targetLang": "pallo",
+          "homeLang": "ball"
+        }
+      ],
+      "translationShort": "basketball",
+      "translationLong": "",
+      "exampleSentence": "Hän on hyvä koripallossa.",
+      "exampleTranslation": "She is good at basketball."
+    },
+    {
+      "id": "jääkiekko",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "jää",
+          "homeLang": "ice"
+        },
+        {
+          "targetLang": "kiekko",
+          "homeLang": "disc, puck"
+        }
+      ],
+      "translationShort": "ice hockey",
+      "translationLong": "",
+      "exampleSentence": "Jääkiekko on Suomen kansallispeli.",
+      "exampleTranslation": "Ice hockey is Finland's national sport."
+    },
+    {
+      "id": "talvipäivä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "talvi",
+          "homeLang": "winter"
+        },
+        {
+          "targetLang": "päivä",
+          "homeLang": "day"
+        }
+      ],
+      "translationShort": "winter day",
+      "translationLong": "",
+      "exampleSentence": "Tänään on kylmä talvipäivä.",
+      "exampleTranslation": "Today is a cold winter day."
+    },
+    {
+      "id": "kesäpäivä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kesä",
+          "homeLang": "summer"
+        },
+        {
+          "targetLang": "päivä",
+          "homeLang": "day"
+        }
+      ],
+      "translationShort": "summer day",
+      "translationLong": "",
+      "exampleSentence": "Nautimme lämpimästä kesäpäivästä.",
+      "exampleTranslation": "We enjoyed a warm summer day."
+    },
+    {
+      "id": "auringonlasku",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auringon",
+          "homeLang": "sun's",
+          "homeLangDetails": "This is the genitive form of 'aurinko' (sun), meaning 'of the sun'. Finnish compounds often use the genitive to link elements, so 'auringon' simply marks the sun as the possessor — 'the sun's setting'."
+        },
+        {
+          "targetLang": "lasku",
+          "homeLang": "descent, setting",
+          "homeLangDetails": "From 'laskea' (to lower, to descend, to set). In everyday Finnish it also means 'bill' or 'calculation', but here it captures the sun going down — a lowering or descent."
+        }
+      ],
+      "translationShort": "sunset",
+      "translationLong": "",
+      "exampleSentence": "Auringonlasku oli upea eilen illalla.",
+      "exampleTranslation": "The sunset was magnificent yesterday evening."
+    },
+    {
+      "id": "auringonnousu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auringon",
+          "homeLang": "sun's",
+          "homeLangDetails": "The genitive form of 'aurinko' (sun), meaning 'of the sun'. Finnish compounds frequently use the genitive to link elements, expressing a possessive or descriptive relationship between parts."
+        },
+        {
+          "targetLang": "nousu",
+          "homeLang": "rise, ascent",
+          "homeLangDetails": "From 'nousta' (to rise, to ascend, to go up). The same root appears in words like 'ylösnousu' (resurrection) and 'hinnan nousu' (price increase) — it always carries the sense of going upward."
+        }
+      ],
+      "translationShort": "sunrise",
+      "translationLong": "",
+      "exampleSentence": "Heräsin aikaisin nähdäkseni auringonnousun.",
+      "exampleTranslation": "I woke up early to see the sunrise."
+    },
+    {
+      "id": "lumisade",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lumi",
+          "homeLang": "snow"
+        },
+        {
+          "targetLang": "sade",
+          "homeLang": "rain, precipitation",
+          "homeLangDetails": "In isolation 'sade' means rain specifically, but as the second element of weather compounds it broadens to mean any kind of falling precipitation. So 'lumisade' is 'snow-fall' and 'vesisade' is 'rain-fall' (water-fall in the weather sense)."
+        }
+      ],
+      "translationShort": "snowfall",
+      "translationLong": "snowfall, snowstorm",
+      "exampleSentence": "Lumisade yllätti meidät aamulla.",
+      "exampleTranslation": "The snowfall surprised us in the morning."
+    },
+    {
+      "id": "vesisade",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vesi",
+          "homeLang": "water"
+        },
+        {
+          "targetLang": "sade",
+          "homeLang": "rain, precipitation",
+          "homeLangDetails": "Normally 'sade' alone means rain, so 'vesisade' is a bit like saying 'water-rain' — emphasizing that it is liquid precipitation as opposed to snow or sleet. The compound is used to distinguish from other types of sade (like lumisade or räntäsade)."
+        }
+      ],
+      "translationShort": "rainfall, rain",
+      "translationLong": "rainfall, liquid precipitation",
+      "exampleSentence": "Vesisade jatkui koko päivän.",
+      "exampleTranslation": "The rain continued all day."
+    },
+    {
+      "id": "tuulinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tuuli",
+          "homeLang": "wind"
+        },
+        {
+          "targetLang": "nen",
+          "homeLang": "-y, -ful",
+          "homeLangDetails": "A very common Finnish adjectival suffix that attaches to nouns to mean 'having the quality of' or 'full of' — like English -y or -ful. You see it all over weather words: pilvinen (cloudy), aurinkoinen (sunny), luminen (snowy)."
+        }
+      ],
+      "translationShort": "windy",
+      "translationLong": "",
+      "exampleSentence": "Tänään on hyvin tuulinen sää.",
+      "exampleTranslation": "Today the weather is very windy."
+    },
+    {
+      "id": "pilvinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pilvi",
+          "homeLang": "cloud"
+        },
+        {
+          "targetLang": "nen",
+          "homeLang": "-y, -ful",
+          "homeLangDetails": "A very common Finnish adjectival suffix meaning 'having the quality of' or 'full of'. It turns nouns into adjectives the way English -y does: pilvi (cloud) → pilvinen (cloudy), tuuli (wind) → tuulinen (windy)."
+        }
+      ],
+      "translationShort": "cloudy",
+      "translationLong": "",
+      "exampleSentence": "Taivas on tänään hyvin pilvinen.",
+      "exampleTranslation": "The sky is very cloudy today."
+    },
+    {
+      "id": "aurinkoinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aurinko",
+          "homeLang": "sun"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-y, -ful",
+          "homeLangDetails": "The same adjectival suffix as -nen (the vowel shifts slightly after certain stems). It means 'having the quality of' — so aurinkoinen is literally 'sun-ful', i.e. sunny. Compare pilvinen (cloudy) and tuulinen (windy)."
+        }
+      ],
+      "translationShort": "sunny",
+      "translationLong": "",
+      "exampleSentence": "Huomenna on aurinkoinen päivä.",
+      "exampleTranslation": "Tomorrow will be a sunny day."
+    },
+    {
+      "id": "kylmyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kylm",
+          "homeLang": "cold"
+        },
+        {
+          "targetLang": "yys",
+          "homeLang": "-ness",
+          "homeLangDetails": "A Finnish nominalizing suffix that turns adjectives into abstract nouns, just like English -ness. Kylmä (cold) → kylmyys (coldness). The double vowel is typical of this suffix's long-vowel form. Compare kuumuus (heat) from kuuma (hot)."
+        }
+      ],
+      "translationShort": "coldness, cold",
+      "translationLong": "coldness, the cold",
+      "exampleSentence": "Kylmyys tuntui luihin asti.",
+      "exampleTranslation": "The cold was felt to the bone."
+    },
+    {
+      "id": "kuumuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kuum",
+          "homeLang": "hot"
+        },
+        {
+          "targetLang": "uus",
+          "homeLang": "-ness",
+          "homeLangDetails": "A Finnish nominalizing suffix turning adjectives into abstract nouns, like English -ness. Kuuma (hot) → kuumuus (hotness, heat). The suffix appears as -yys after front vowels (kylmyys) and -uus after back vowels (kuumuus) due to vowel harmony."
+        }
+      ],
+      "translationShort": "heat, hotness",
+      "translationLong": "",
+      "exampleSentence": "Kesän kuumuus oli sietämätöntä.",
+      "exampleTranslation": "The heat of summer was unbearable."
+    },
+    {
+      "id": "lämpötila",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lämpö",
+          "homeLang": "warmth, heat"
+        },
+        {
+          "targetLang": "tila",
+          "homeLang": "state, space",
+          "homeLangDetails": "On its own, 'tila' means 'space', 'room', or 'state/condition'. In this compound it carries the sense of a measurable condition or state — so lämpötila is literally the 'state of warmth', i.e. temperature. The same word appears in 'tilanne' (situation) and 'tila' (farm, space)."
+        }
+      ],
+      "translationShort": "temperature",
+      "translationLong": "",
+      "exampleSentence": "Mikä on tämän päivän lämpötila?",
+      "exampleTranslation": "What is today's temperature?"
+    },
+    {
+      "id": "ystävyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ystäv",
+          "homeLang": "friend",
+          "homeLangDetails": "The root of ystävä (friend). The final -ä shifts to -äv- when suffixes are added."
+        },
+        {
+          "targetLang": "yys",
+          "homeLang": "-ness/-ship",
+          "homeLangDetails": "A Finnish derivational suffix that turns adjectives or nouns into abstract nouns — similar to English '-ness' or '-ship'. It follows vowel harmony, appearing as -uus/-yys depending on the vowels in the root."
+        }
+      ],
+      "translationShort": "friendship",
+      "translationLong": "friendship, friendliness",
+      "exampleSentence": "Heidän ystävyytensä on kestänyt vuosikymmeniä.",
+      "exampleTranslation": "Their friendship has lasted for decades."
+    },
+    {
+      "id": "ystävällinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ystäv",
+          "homeLang": "friend",
+          "homeLangDetails": "The root of ystävä (friend). The final -ä shifts to -äv- when suffixes are added."
+        },
+        {
+          "targetLang": "ällinen",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "A Finnish adjectival suffix meaning 'having the quality of' or 'characteristic of', roughly equivalent to English '-ly' or '-like' when applied to nouns. It follows vowel harmony, appearing as -allinen/-ällinen."
+        }
+      ],
+      "translationShort": "friendly, kind",
+      "translationLong": "friendly, kind, amicable",
+      "exampleSentence": "Hän on aina ollut hyvin ystävällinen naapureitaan kohtaan.",
+      "exampleTranslation": "She has always been very friendly toward her neighbors."
+    },
+    {
+      "id": "vihamielinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "viha",
+          "homeLang": "hate/anger",
+          "homeLangDetails": "Viha means hatred, anger, or hostility — a core Finnish noun. It appears in compounds and derivatives related to aggression or enmity."
+        },
+        {
+          "targetLang": "miel",
+          "homeLang": "mind/spirit",
+          "homeLangDetails": "From mieli (mind, spirit, mood). This root appears in many Finnish compound words relating to mental state or disposition, much like English '-minded'."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "A very common Finnish adjectival suffix meaning 'full of' or 'having the quality of', similar to English '-ful', '-ous', or '-ish'. It follows vowel harmony, appearing as -inen/-inen."
+        }
+      ],
+      "translationShort": "hostile",
+      "translationLong": "hostile, antagonistic, unfriendly",
+      "exampleSentence": "Miksi olet niin vihamielinen minua kohtaan?",
+      "exampleTranslation": "Why are you so hostile toward me?"
+    },
+    {
+      "id": "surullinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suru",
+          "homeLang": "sorrow/grief",
+          "homeLangDetails": "Suru is the Finnish word for sorrow, grief, or sadness — a core emotional noun used widely in everyday speech and literature."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "A variant of the -inen adjectival suffix, appearing as -llinen after vowel-final stems to mean 'characterized by' or 'full of'. Equivalent to English '-ful' or '-ous'."
+        }
+      ],
+      "translationShort": "sad",
+      "translationLong": "sad, sorrowful, mournful",
+      "exampleSentence": "Lapsi näytti surulliselta kadotettuaan lelunsa.",
+      "exampleTranslation": "The child looked sad after losing their toy."
+    },
+    {
+      "id": "iloinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilo",
+          "homeLang": "joy/happiness",
+          "homeLangDetails": "Ilo is the Finnish word for joy, happiness, or delight — a foundational positive emotion noun."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "A common Finnish adjectival suffix meaning 'full of' or 'having the quality of', similar to English '-ful' or '-ous'."
+        }
+      ],
+      "translationShort": "happy, joyful",
+      "translationLong": "happy, joyful, cheerful, glad",
+      "exampleSentence": "Hän oli iloinen kuullessaan uutisen.",
+      "exampleTranslation": "She was happy when she heard the news."
+    },
+    {
+      "id": "väsynyt",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "väsy",
+          "homeLang": "tire/fatigue",
+          "homeLangDetails": "From the verb väsyä (to get tired, to become fatigued). This root captures the process of growing weary."
+        },
+        {
+          "targetLang": "nyt",
+          "homeLang": "(past participle)",
+          "homeLangDetails": "The Finnish active past participle suffix -nut/-nyt, which follows vowel harmony. It turns a verb into an adjective or participial form meaning 'having [done]' — so väsynyt literally means 'having become tired', i.e., tired."
+        }
+      ],
+      "translationShort": "tired, weary",
+      "translationLong": "tired, weary, fatigued, exhausted",
+      "exampleSentence": "Olin niin väsynyt pitkän päivän jälkeen.",
+      "exampleTranslation": "I was so tired after the long day."
+    },
+    {
+      "id": "energinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "energi",
+          "homeLang": "energy",
+          "homeLangDetails": "Borrowed from the international/European word for energy (Greek energeia via Latin/Swedish). The Finnish form drops the final vowel of the base form energía before the suffix."
+        },
+        {
+          "targetLang": "nen",
+          "homeLang": "-ous/-ic",
+          "homeLangDetails": "A variant of the Finnish adjectival suffix -inen/-nen meaning 'having the quality of', here adapted to a loanword stem."
+        }
+      ],
+      "translationShort": "energetic",
+      "translationLong": "energetic, lively, vigorous",
+      "exampleSentence": "Hän on erittäin energinen ihminen.",
+      "exampleTranslation": "He is a very energetic person."
+    },
+    {
+      "id": "kaunis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaunis",
+          "homeLang": "beautiful",
+          "homeLangDetails": "A single-root adjective with no transparent morpheme split in modern Finnish. The word is ancient and not productively decomposable into separate meaningful parts today."
+        }
+      ],
+      "translationShort": "beautiful, pretty",
+      "translationLong": "beautiful, pretty, handsome, lovely",
+      "exampleSentence": "Auringonlasku oli todella kaunis.",
+      "exampleTranslation": "The sunset was truly beautiful.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "ruma",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruma",
+          "homeLang": "ugly",
+          "homeLangDetails": "A single-root adjective meaning ugly or unattractive. It is not transparently decomposable into smaller meaningful parts in modern Finnish."
+        }
+      ],
+      "translationShort": "ugly",
+      "translationLong": "ugly, unattractive, unsightly",
+      "exampleSentence": "Hän sanoi, että taulussa on ruma väri.",
+      "exampleTranslation": "She said the painting has an ugly color.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "nopeus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nope",
+          "homeLang": "fast/quick",
+          "homeLangDetails": "From the adjective nopea (fast, quick, rapid). The stem shifts to nope- before the abstract noun suffix."
+        },
+        {
+          "targetLang": "us",
+          "homeLang": "-ness/-ity",
+          "homeLangDetails": "The Finnish abstract noun suffix -uus/-us/-yys, which derives nouns of quality from adjectives, much like English '-ness' or '-ity'. Here it turns 'fast' into 'speed/fastness'."
+        }
+      ],
+      "translationShort": "speed",
+      "translationLong": "speed, quickness, rapidity",
+      "exampleSentence": "Auton nopeus oli liian suuri kaupungissa.",
+      "exampleTranslation": "The car's speed was too high in the city."
+    },
+    {
+      "id": "hitaus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hita",
+          "homeLang": "slow",
+          "homeLangDetails": "From the adjective hidas (slow). The stem form hita- appears before the abstract noun suffix."
+        },
+        {
+          "targetLang": "us",
+          "homeLang": "-ness/-ity",
+          "homeLangDetails": "The Finnish abstract noun suffix -uus/-us, deriving nouns of quality from adjectives. Here it turns 'slow' into 'slowness'."
+        }
+      ],
+      "translationShort": "slowness",
+      "translationLong": "slowness, sluggishness",
+      "exampleSentence": "Projektin hitaus alkoi turhauttaa tiimiä.",
+      "exampleTranslation": "The slowness of the project began to frustrate the team."
+    },
+    {
+      "id": "voimakas",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "voima",
+          "homeLang": "strength/power",
+          "homeLangDetails": "Voima means strength, power, or force — a core Finnish noun that also appears in words like voimistella (to exercise) and ydinvoima (nuclear power)."
+        },
+        {
+          "targetLang": "kas",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "The Finnish adjectival suffix -kas/-käs, meaning 'having plenty of' or 'characterized by'. It is similar to '-ful' or '-ous' in English, and always follows vowel harmony."
+        }
+      ],
+      "translationShort": "strong, powerful",
+      "translationLong": "strong, powerful, forceful, intense",
+      "exampleSentence": "Tuuli oli erittäin voimakas rannikolla.",
+      "exampleTranslation": "The wind was very strong on the coast."
+    },
+    {
+      "id": "heikko",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "heikko",
+          "homeLang": "weak/feeble",
+          "homeLangDetails": "A single-root adjective meaning weak, feeble, or frail. It is not transparently decomposable into smaller meaningful parts in modern Finnish."
+        }
+      ],
+      "translationShort": "weak, feeble",
+      "translationLong": "weak, feeble, frail, poor (in quality)",
+      "exampleSentence": "Signaali oli niin heikko, että puhelu katkesi.",
+      "exampleTranslation": "The signal was so weak that the call dropped.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "puhdas",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puhdas",
+          "homeLang": "clean/pure",
+          "homeLangDetails": "A single-root adjective meaning clean or pure. Related to the verb puhdistaa (to clean, to purify), but the adjective itself is not transparently decomposable in modern Finnish."
+        }
+      ],
+      "translationShort": "clean, pure",
+      "translationLong": "clean, pure, spotless, neat",
+      "exampleSentence": "Vesi oli kristallinkirkasta ja puhdasta.",
+      "exampleTranslation": "The water was crystal clear and pure.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "likainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lika",
+          "homeLang": "dirt/filth",
+          "homeLangDetails": "Lika means dirt, filth, or grime — the base noun from which this adjective is formed."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-y/-ful",
+          "homeLangDetails": "A common Finnish adjectival suffix meaning 'full of' or 'covered with', similar to English '-y' (as in 'dirty') or '-ful'. It follows vowel harmony."
+        }
+      ],
+      "translationShort": "dirty",
+      "translationLong": "dirty, filthy, grimy, soiled",
+      "exampleSentence": "Lapset tulivat kotiin likaisilla vaatteilla.",
+      "exampleTranslation": "The children came home with dirty clothes."
+    },
+    {
+      "id": "vaarallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vaara",
+          "homeLang": "danger"
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "-",
+          "homeLangDetails": "A consonant-doubling transition that appears at morpheme boundaries in Finnish. It has no independent meaning but is part of the adjectival suffix attachment."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "A very common Finnish adjectival suffix meaning 'having the quality of' or 'characterized by.' Like English -ful or -ous, it turns a noun into an adjective: vaara (danger) → vaarallinen (dangerous)."
+        }
+      ],
+      "translationShort": "dangerous",
+      "translationLong": "dangerous, hazardous",
+      "exampleSentence": "Tämä tie on hyvin vaarallinen talvella.",
+      "exampleTranslation": "This road is very dangerous in winter."
+    },
+    {
+      "id": "turvallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "turva",
+          "homeLang": "safety, shelter"
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "-",
+          "homeLangDetails": "A consonant-doubling transition at the morpheme boundary before the adjectival suffix -inen. It carries no independent meaning."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "-ful/-ous",
+          "homeLangDetails": "A common Finnish adjectival suffix meaning 'having the quality of.' Here: turva (safety) → turvallinen (safe, secure)."
+        }
+      ],
+      "translationShort": "safe, secure",
+      "translationLong": "safe, secure, protected",
+      "exampleSentence": "Lapset voivat leikkiä turvallisessa ympäristössä.",
+      "exampleTranslation": "Children can play in a safe environment."
+    },
+    {
+      "id": "tärkeä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tärkeä",
+          "homeLang": "important"
+        }
+      ],
+      "translationShort": "important",
+      "translationLong": "important, significant",
+      "exampleSentence": "On tärkeää syödä terveellisesti.",
+      "exampleTranslation": "It is important to eat healthily.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "merkityksetön",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "merkitys",
+          "homeLang": "meaning, significance"
+        },
+        {
+          "targetLang": "etön",
+          "homeLang": "-less",
+          "homeLangDetails": "The suffix -ton/-tön is Finnish's equivalent of English -less, meaning 'without' or 'lacking.' It attaches to a noun to form an adjective: merkitys (meaning) → merkityksetön (meaningless). The stem vowel shifts slightly for phonological harmony."
+        }
+      ],
+      "translationShort": "meaningless",
+      "translationLong": "meaningless, insignificant, trivial",
+      "exampleSentence": "Hän sanoi, että väittely oli täysin merkityksetön.",
+      "exampleTranslation": "He said that the argument was completely meaningless."
+    },
+    {
+      "id": "opiskelu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "opiskele",
+          "homeLang": "study",
+          "homeLangDetails": "From opiskella (to study). The stem opiskele- carries the full meaning of studying or pursuing learning, often in a formal context like university."
+        },
+        {
+          "targetLang": "u",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -u/-y is a common Finnish nominalizing suffix that turns a verb into a noun denoting the action or process itself. Like English -ing in 'studying,' it makes the activity into a thing: opiskella (to study) → opiskelu (studying, the act of studying)."
+        }
+      ],
+      "translationShort": "studying",
+      "translationLong": "studying, academic study",
+      "exampleSentence": "Opiskelu yliopistossa on haastavaa mutta palkitsevaa.",
+      "exampleTranslation": "Studying at university is challenging but rewarding."
+    },
+    {
+      "id": "harjoittelu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "harjoitte",
+          "homeLang": "practice, train",
+          "homeLangDetails": "From harjoitella (to practice, to train). The root harjoite- relates to practicing or exercising a skill, and the -tte- is part of the frequentative/iterative verb stem, suggesting repeated or ongoing action."
+        },
+        {
+          "targetLang": "lu",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -lu/-ly nominalizes the verb, turning the action of practicing into a noun: harjoitella (to practice) → harjoittelu (practicing, training, internship)."
+        }
+      ],
+      "translationShort": "practice, training",
+      "translationLong": "practice, training, internship, rehearsal",
+      "exampleSentence": "Harjoittelu tekee mestarin.",
+      "exampleTranslation": "Practice makes perfect."
+    },
+    {
+      "id": "valmistuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "valmis",
+          "homeLang": "ready, finished"
+        },
+        {
+          "targetLang": "tu",
+          "homeLang": "(become)",
+          "homeLangDetails": "The suffix -tu/-ty here is part of the reflexive/passive verb formation, making valmistua mean 'to become ready' or 'to graduate' — something that happens to or within the subject, rather than something they do to an external object."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -minen is the most common Finnish verbal noun suffix, equivalent to English -ing or -tion. It turns any verb into a noun representing the action: valmistua (to graduate/finish) → valmistuminen (graduating, completion, graduation)."
+        }
+      ],
+      "translationShort": "graduation",
+      "translationLong": "graduating, graduation, completion",
+      "exampleSentence": "Valmistuminen yliopistosta on suuri saavutus.",
+      "exampleTranslation": "Graduating from university is a great achievement."
+    },
+    {
+      "id": "aloittaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aloitta",
+          "homeLang": "begin, start",
+          "homeLangDetails": "From aloittaa (to start, to begin), a causative/transitive verb built on alku (beginning). The aloitta- stem carries the active sense of initiating something."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -minen turns a verb into a noun of action. Here: aloittaa (to start) → aloittaminen (starting, the act of beginning)."
+        }
+      ],
+      "translationShort": "starting, beginning",
+      "translationLong": "starting, beginning, initiation",
+      "exampleSentence": "Uuden projektin aloittaminen on aina jännittävää.",
+      "exampleTranslation": "Starting a new project is always exciting."
+    },
+    {
+      "id": "lopettaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lopetta",
+          "homeLang": "stop, end",
+          "homeLangDetails": "From lopettaa (to stop, to finish, to end), built on loppu (end, finish). The -tta- marks this as a causative form, meaning to bring something to an end."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -minen nominalizes the verb: lopettaa (to stop) → lopettaminen (stopping, ending, quitting)."
+        }
+      ],
+      "translationShort": "stopping, ending",
+      "translationLong": "stopping, ending, quitting, terminating",
+      "exampleSentence": "Tupakoinnin lopettaminen on vaikeaa mutta mahdollista.",
+      "exampleTranslation": "Quitting smoking is difficult but possible."
+    },
+    {
+      "id": "muuttaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "muutta",
+          "homeLang": "change, move",
+          "homeLangDetails": "From muuttaa (to change something, or to move/relocate). This verb can mean both transforming something and moving to a new place — context tells you which. The -tta- marks it as a transitive/causative form."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -minen turns muuttaa into a noun: muuttaminen (changing, moving, the act of relocating or transforming)."
+        }
+      ],
+      "translationShort": "moving, changing",
+      "translationLong": "moving (home), changing, altering",
+      "exampleSentence": "Muuttaminen uuteen kaupunkiin on iso päätös.",
+      "exampleTranslation": "Moving to a new city is a big decision."
+    },
+    {
+      "id": "rakentaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rakenta",
+          "homeLang": "build, construct",
+          "homeLangDetails": "From rakentaa (to build, to construct). Related to rakennus (building) and rakenne (structure). The -nta-/-nna- element is part of the verb stem."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The suffix -minen nominalizes the verb: rakentaa (to build) → rakentaminen (building, construction, the act of constructing)."
+        }
+      ],
+      "translationShort": "building, construction",
+      "translationLong": "building, constructing, construction",
+      "exampleSentence": "Talon rakentaminen kesti kaksi vuotta.",
+      "exampleTranslation": "Building the house took two years."
+    },
+    {
+      "id": "rakennuttaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rakennu",
+          "homeLang": "build, construct",
+          "homeLangDetails": "From rakentaa (to build), with the causative/commissive suffix -uta/-utta- embedded in the stem. Rakennuttaa means 'to have something built' or 'to commission construction' — you're the one who makes building happen, not necessarily the one swinging the hammer."
+        },
+        {
+          "targetLang": "tta",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The -tta/-ttä suffix creates a causative verb — one who causes or commissions an action rather than doing it directly. Rakennuttaa means 'to have (something) built,' distinguishing the developer/commissioner from the builder."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er (doer)",
+          "homeLangDetails": "The suffix -ja/-jä is the standard Finnish agent suffix, equivalent to English -er. It turns a verb into a person who does that action: rakennuttaa (to commission building) → rakennuttaja (developer, one who commissions construction)."
+        }
+      ],
+      "translationShort": "developer, builder",
+      "translationLong": "property developer, construction commissioner",
+      "exampleSentence": "Rakennuttaja tilasi uuden asuintalon suunnitelmat.",
+      "exampleTranslation": "The developer commissioned plans for a new residential building."
+    },
+    {
+      "id": "myyjä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "myy",
+          "homeLang": "sell",
+          "homeLangDetails": "From myydä (to sell). The stem myy- is the core of the verb."
+        },
+        {
+          "targetLang": "jä",
+          "homeLang": "-er (doer)",
+          "homeLangDetails": "The suffix -ja/-jä is the Finnish agent suffix, meaning 'one who does X.' Here: myydä (to sell) → myyjä (seller, salesperson)."
+        }
+      ],
+      "translationShort": "seller, salesperson",
+      "translationLong": "seller, salesperson, vendor, shop assistant",
+      "exampleSentence": "Myyjä auttoi minua löytämään oikean koon.",
+      "exampleTranslation": "The salesperson helped me find the right size."
+    },
+    {
+      "id": "ostaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "osta",
+          "homeLang": "buy",
+          "homeLangDetails": "From ostaa (to buy). The stem osta- carries the full meaning of purchasing."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er (doer)",
+          "homeLangDetails": "The suffix -ja/-jä forms agent nouns: ostaa (to buy) → ostaja (buyer, purchaser)."
+        }
+      ],
+      "translationShort": "buyer, purchaser",
+      "translationLong": "buyer, purchaser, customer",
+      "exampleSentence": "Ostaja maksoi talon täydellä hinnalla.",
+      "exampleTranslation": "The buyer paid the full price for the house."
+    },
+    {
+      "id": "tuottaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tuotta",
+          "homeLang": "produce, yield",
+          "homeLangDetails": "From tuottaa (to produce, to yield, to generate). Related to tuote (product) and tuotos (output). The -tta- marks this as a causative/transitive verb form."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er (doer)",
+          "homeLangDetails": "The suffix -ja/-jä forms agent nouns: tuottaa (to produce) → tuottaja (producer, one who produces)."
+        }
+      ],
+      "translationShort": "producer",
+      "translationLong": "producer, manufacturer, grower",
+      "exampleSentence": "Elokuvan tuottaja esitteli projektin rahoittajille.",
+      "exampleTranslation": "The film producer presented the project to the investors."
+    },
+    {
+      "id": "kuluttaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kulut",
+          "homeLang": "consume/wear",
+          "homeLangDetails": "From kulua (to wear down, to be consumed, to pass). The same root appears in kulua (to pass/wear), kulutus (consumption), and kuluttaa (to consume/spend). Think of something gradually used up."
+        },
+        {
+          "targetLang": "ta",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The -tta-/-ta- suffix makes a verb causative — here turning 'wear down' into 'cause to wear down / consume.' Combined with the following -ja, it forms the base for the agent noun."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er (doer)"
+        }
+      ],
+      "translationShort": "consumer",
+      "translationLong": "consumer, user",
+      "exampleSentence": "Kuluttaja voi valita itse, mitä ostaa.",
+      "exampleTranslation": "The consumer can choose for themselves what to buy."
+    },
+    {
+      "id": "johtaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "johta",
+          "homeLang": "lead/guide",
+          "homeLangDetails": "From johtaa (to lead, to manage, to conduct). The root johta- also appears in johto (leadership, cable), johdanto (introduction), and johtopäätös (conclusion). Think of guiding something along a path."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "-er (doer)"
+        }
+      ],
+      "translationShort": "leader, manager",
+      "translationLong": "leader, manager, director, conductor",
+      "exampleSentence": "Johtaja piti pitkän puheen kokouksessa.",
+      "exampleTranslation": "The leader gave a long speech at the meeting."
+    },
+    {
+      "id": "päätöksenteko",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "päätös",
+          "homeLang": "decision",
+          "homeLangDetails": "From päättää (to end, to decide) + -ös (noun-forming suffix). The idea is 'bringing something to an end' — reaching a conclusion. Related: pää (head/end), päättyä (to conclude)."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(genitive link)",
+          "homeLangDetails": "A genitive linking element that connects the two halves of this compound, meaning roughly 'of decisions.' Finnish compound nouns often use the genitive case to join their parts."
+        },
+        {
+          "targetLang": "teko",
+          "homeLang": "making/doing",
+          "homeLangDetails": "From tehdä (to do, to make). Teko on its own means 'act' or 'deed.' The same root appears in tekijä (doer, author), tekoäly (artificial intelligence), and teos (work/piece)."
+        }
+      ],
+      "translationShort": "decision-making",
+      "translationLong": "decision-making, the making of decisions",
+      "exampleSentence": "Päätöksenteko voi olla vaikeaa epävarmoissa tilanteissa.",
+      "exampleTranslation": "Decision-making can be difficult in uncertain situations."
+    },
+    {
+      "id": "yhteistyö",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhteis",
+          "homeLang": "common/shared",
+          "homeLangDetails": "From yhteinen (common, shared, joint), itself from yhte- (one/together). This prefix appears in many compound words: yhteiskunta (society), yhteisö (community), yhteinen (common). Think of 'what is held together by all.'"
+        },
+        {
+          "targetLang": "työ",
+          "homeLang": "work"
+        }
+      ],
+      "translationShort": "cooperation",
+      "translationLong": "cooperation, collaboration, teamwork",
+      "exampleSentence": "Hanke onnistui hyvän yhteistyön ansiosta.",
+      "exampleTranslation": "The project succeeded thanks to good cooperation."
+    },
+    {
+      "id": "kansalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kansa",
+          "homeLang": "people/nation"
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)",
+          "homeLangDetails": "The suffix -lainen/-läinen is one of Finnish's most productive suffixes, forming nouns that mean 'a person belonging to or associated with' something. Here: a person of the people/nation, i.e. a citizen. The same suffix forms nationalities and regional identities."
+        }
+      ],
+      "translationShort": "citizen",
+      "translationLong": "citizen, national",
+      "exampleSentence": "Jokainen kansalainen on tasa-arvoinen lain edessä.",
+      "exampleTranslation": "Every citizen is equal before the law."
+    },
+    {
+      "id": "suomalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suoma",
+          "homeLang": "Finland",
+          "homeLangDetails": "The root Suomi (Finland) in its stem form. The origin of the word Suomi is debated, but it is the Finnish name for Finland itself. Here the stem appears as suoma- before the suffix."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)"
+        }
+      ],
+      "translationShort": "Finnish (person)",
+      "translationLong": "a Finn, Finnish person; also used as adjective meaning 'Finnish'",
+      "exampleSentence": "Hän on suomalainen kirjailija.",
+      "exampleTranslation": "She is a Finnish author."
+    },
+    {
+      "id": "ruotsalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruotsa",
+          "homeLang": "Sweden",
+          "homeLangDetails": "The stem of Ruotsi, the Finnish name for Sweden. The origin likely relates to Old Norse 'Roþs-' referring to the coastal rowing people. Here the stem appears as ruotsa- before the suffix."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)"
+        }
+      ],
+      "translationShort": "Swedish (person)",
+      "translationLong": "a Swede, Swedish person; also used as adjective meaning 'Swedish'",
+      "exampleSentence": "Ruotsalainen naapurimme puhuu sujuvaa suomea.",
+      "exampleTranslation": "Our Swedish neighbor speaks fluent Finnish."
+    },
+    {
+      "id": "saksalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "saksa",
+          "homeLang": "Germany",
+          "homeLangDetails": "The stem of Saksa, the Finnish name for Germany. It derives from the name of the Saxon people (Saxons), who were among the most prominent Germanic groups encountered by early Finns and Baltic peoples."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)"
+        }
+      ],
+      "translationShort": "German (person)",
+      "translationLong": "a German, German person; also used as adjective meaning 'German'",
+      "exampleSentence": "Saksalainen insinööri suunnitteli sillan.",
+      "exampleTranslation": "A German engineer designed the bridge."
+    },
+    {
+      "id": "ranskalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ranska",
+          "homeLang": "France",
+          "homeLangDetails": "The stem of Ranska, the Finnish name for France. It derives from the Franks (Franchi), the Germanic people who gave their name to France. Here the stem appears as ranska- before the suffix."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)"
+        }
+      ],
+      "translationShort": "French (person)",
+      "translationLong": "a French person; also used as adjective meaning 'French'",
+      "exampleSentence": "Ranskalainen kollega opetti minulle muutaman sanonnan.",
+      "exampleTranslation": "A French colleague taught me a few sayings."
+    },
+    {
+      "id": "eurooppalainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "eurooppa",
+          "homeLang": "Europe"
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "(member of)"
+        }
+      ],
+      "translationShort": "European (person)",
+      "translationLong": "a European; also used as adjective meaning 'European'",
+      "exampleSentence": "Eurooppalainen kulttuuri on hyvin monimuotoinen.",
+      "exampleTranslation": "European culture is very diverse."
+    },
+    {
+      "id": "kansainvälinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kansa",
+          "homeLang": "people/nation"
+        },
+        {
+          "targetLang": "in",
+          "homeLang": "(genitive link)",
+          "homeLangDetails": "A genitive linking element connecting the two parts of the compound, meaning roughly 'of nations.' Finnish compounds frequently use the genitive to join their components."
+        },
+        {
+          "targetLang": "väli",
+          "homeLang": "between/interval",
+          "homeLangDetails": "Väli means 'space between,' 'gap,' or 'interval.' It appears in many compounds: väliaika (halftime/interval), välimatka (distance), välitön (immediate/direct). Here it captures the 'inter-' idea."
+        },
+        {
+          "targetLang": "nen",
+          "homeLang": "(adjectival)",
+          "homeLangDetails": "The suffix -nen/-inen is extremely common in Finnish for forming adjectives from nouns. It means roughly 'of the nature of' or 'relating to.' Here it turns the noun compound into the adjective 'international.'"
+        }
+      ],
+      "translationShort": "international",
+      "translationLong": "international, between nations",
+      "exampleSentence": "Sopimus on tärkeä kansainvälisen rauhan kannalta.",
+      "exampleTranslation": "The agreement is important for international peace."
+    },
+    {
+      "id": "ympäristö",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ympäri",
+          "homeLang": "around/surrounding",
+          "homeLangDetails": "Ympäri means 'around' or 'all around.' It appears in words like ympäröidä (to surround), ympyrä (circle), and ympäriinsä (all around/everywhere). It gives a vivid sense of what encircles you."
+        },
+        {
+          "targetLang": "stö",
+          "homeLang": "(collective noun)",
+          "homeLangDetails": "The suffix -stö/-sto forms collective or abstract nouns from stems — often meaning 'a collection of' or 'the totality of' something. Compare: kalusto (equipment/fleet), henkilöstö (staff/personnel), kalasto (fish stock). Here it turns 'around' into 'the totality of what surrounds,' i.e. the environment."
+        }
+      ],
+      "translationShort": "environment",
+      "translationLong": "environment, surroundings",
+      "exampleSentence": "Meidän täytyy suojella ympäristöä tulevien sukupolvien takia.",
+      "exampleTranslation": "We must protect the environment for future generations."
+    },
+    {
+      "id": "ympäristönsuojelu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ympäristö",
+          "homeLang": "environment"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(genitive link)",
+          "homeLangDetails": "The genitive suffix -n linking the two parts of the compound, meaning 'of the environment.' A very common pattern in Finnish compound nouns."
+        },
+        {
+          "targetLang": "suojelu",
+          "homeLang": "protection",
+          "homeLangDetails": "From suojella (to protect) + -u (noun-forming suffix). Suojella itself comes from suoja (shelter, protection). The same root appears in suojelualue (protected area), suoja (cover/shelter), and suojavarusteet (protective gear)."
+        }
+      ],
+      "translationShort": "environmental protection",
+      "translationLong": "environmental protection, conservation of the environment",
+      "exampleSentence": "Ympäristönsuojelu on yksi tärkeimmistä poliittisista aiheista.",
+      "exampleTranslation": "Environmental protection is one of the most important political topics."
+    },
+    {
+      "id": "luonnonsuojelu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "luonnon",
+          "homeLang": "nature's",
+          "homeLangDetails": "The genitive form of luonto (nature). The genitive -n here links the two compound parts, meaning 'of nature.' Luonto appears in luonnonvara (natural resource), luonnontiede (natural science), and luonnonmukainen (natural/organic)."
+        },
+        {
+          "targetLang": "suojelu",
+          "homeLang": "protection"
+        }
+      ],
+      "translationShort": "nature conservation",
+      "translationLong": "nature conservation, nature protection",
+      "exampleSentence": "Luonnonsuojelu on tärkeää biodiversiteetin säilyttämiseksi.",
+      "exampleTranslation": "Nature conservation is important for preserving biodiversity."
+    },
+    {
+      "id": "ilmastonmuutos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilmaston",
+          "homeLang": "climate's",
+          "homeLangDetails": "The genitive form of ilmasto (climate), itself from ilma (air) + -sto (collective suffix). The genitive -n links the parts, meaning 'of the climate.' Compare ympäristö: just as that word is built on 'surrounding,' ilmasto is literally 'the totality of the air.'"
+        },
+        {
+          "targetLang": "muutos",
+          "homeLang": "change",
+          "homeLangDetails": "From muuttaa (to change, to move) + -os/-ös (noun-forming suffix meaning 'the result or act of'). The same root appears in muuttaa (to change/relocate), muutos (change/amendment), and muuttuja (variable). A muutos is a concrete change or alteration."
+        }
+      ],
+      "translationShort": "climate change",
+      "translationLong": "climate change, climate shift",
+      "exampleSentence": "Ilmastonmuutos on yksi aikamme suurimmista haasteista.",
+      "exampleTranslation": "Climate change is one of the greatest challenges of our time."
+    },
+    {
+      "id": "saastuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "saast",
+          "homeLang": "filth/pollution",
+          "homeLangDetails": "The root saas- or saast- relates to dirt, filth, or contamination. It appears in words like saastua (to become polluted) and saaste (pollutant)."
+        },
+        {
+          "targetLang": "u",
+          "homeLang": "(become)",
+          "homeLangDetails": "This -u- is a Finnish inchoative/intransitive suffix, turning the root into a verb meaning 'to become polluted' (saastua). It signals that the subject undergoes the change rather than causing it."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns a verb into a noun, like English '-ing' or '-tion'. Saastua (to become polluted) + -minen = the act or process of becoming polluted."
+        }
+      ],
+      "translationShort": "pollution, contamination",
+      "translationLong": "the process of becoming polluted or contaminated",
+      "exampleSentence": "Vesistöjen saastuminen on vakava ympäristöongelma.",
+      "exampleTranslation": "The pollution of waterways is a serious environmental problem."
+    },
+    {
+      "id": "kierrättäminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kierr",
+          "homeLang": "circle/turn",
+          "homeLangDetails": "From the root kierr-, related to kiertää (to go around, to circulate). The same root appears in kierros (round, loop) and kierros (a turn or cycle)."
+        },
+        {
+          "targetLang": "ättä",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The -ättä- is a causative suffix meaning 'to make something go around' or 'to cause circulation'. It transforms the intransitive root into a transitive, causative verb: kierrättää (to recycle, literally 'to make go around again')."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns the verb kierrättää into a noun: the act or process of recycling."
+        }
+      ],
+      "translationShort": "recycling",
+      "translationLong": "the act of recycling",
+      "exampleSentence": "Kierrättäminen auttaa vähentämään jätteen määrää.",
+      "exampleTranslation": "Recycling helps reduce the amount of waste."
+    },
+    {
+      "id": "kasvaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kasv",
+          "homeLang": "grow",
+          "homeLangDetails": "The root kasv- is the core of kasvaa (to grow). It appears in kasvatus (upbringing, cultivation), kasvi (plant), and kasvisto (flora)."
+        },
+        {
+          "targetLang": "a",
+          "homeLang": "(infinitive marker)",
+          "homeLangDetails": "The -a here is part of the infinitive ending of kasvaa. When -minen attaches, the infinitive vowel is retained as part of the verbal noun stem."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns the verb kasvaa (to grow) into a noun: the act or process of growing."
+        }
+      ],
+      "translationShort": "growing, growth",
+      "translationLong": "the process of growing",
+      "exampleSentence": "Lapsen kasvaminen tapahtuu nopeasti.",
+      "exampleTranslation": "A child's growing happens quickly."
+    },
+    {
+      "id": "kehittyminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kehit",
+          "homeLang": "develop",
+          "homeLangDetails": "From the root kehit-, related to kehittää (to develop, to advance). The same root appears in kehitys (development) and kehittyä (to develop oneself/naturally)."
+        },
+        {
+          "targetLang": "ty",
+          "homeLang": "(reflexive/passive)",
+          "homeLangDetails": "The -ty- is a reflexive or medio-passive suffix, turning the causative kehittää (to develop something) into kehittyä (to develop on one's own, to evolve naturally). It signals that the subject undergoes the process rather than initiating it externally."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns kehittyä (to develop) into a noun: the process of developing or evolving."
+        }
+      ],
+      "translationShort": "developing, development",
+      "translationLong": "the process of developing or evolving",
+      "exampleSentence": "Ammatillinen kehittyminen vaatii jatkuvaa opiskelua.",
+      "exampleTranslation": "Professional development requires continuous studying."
+    },
+    {
+      "id": "oppiminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "learn",
+          "homeLangDetails": "From the root opp-, the core of oppia (to learn). Related words include oppi (learning, doctrine), oppilas (student), opettaa (to teach), and opettaja (teacher)."
+        },
+        {
+          "targetLang": "i",
+          "homeLang": "(stem vowel)",
+          "homeLangDetails": "The -i- is a stem vowel that connects the root to the -minen suffix. It is part of the infinitive stem of oppia."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns oppia (to learn) into a noun: the act or process of learning."
+        }
+      ],
+      "translationShort": "learning",
+      "translationLong": "the act or process of learning",
+      "exampleSentence": "Kielen oppiminen vie aikaa mutta on palkitsevaa.",
+      "exampleTranslation": "Learning a language takes time but is rewarding."
+    },
+    {
+      "id": "ymmärtäminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ymmärt",
+          "homeLang": "understand",
+          "homeLangDetails": "The root ymmärt- is the core of ymmärtää (to understand). It appears in ymmärrys (understanding, comprehension) and ymmärrettävä (understandable). The origin is somewhat obscure but the root is distinctively Finnish."
+        },
+        {
+          "targetLang": "ä",
+          "homeLang": "(stem vowel)",
+          "homeLangDetails": "The -ä- is the stem vowel of the infinitive ymmärtää, retained when -minen attaches to form the verbal noun."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns ymmärtää (to understand) into a noun: the act or process of understanding."
+        }
+      ],
+      "translationShort": "understanding",
+      "translationLong": "the act or process of understanding",
+      "exampleSentence": "Toisen ihmisen ymmärtäminen on tärkeä taito.",
+      "exampleTranslation": "Understanding another person is an important skill."
+    },
+    {
+      "id": "muistaminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "muist",
+          "homeLang": "memory/remember",
+          "homeLangDetails": "The root muist- is the core of muistaa (to remember). Related words include muisti (memory), muistio (memo), muistiinpano (note), and muistella (to reminisce)."
+        },
+        {
+          "targetLang": "a",
+          "homeLang": "(stem vowel)",
+          "homeLangDetails": "The -a- is the stem vowel of the infinitive muistaa, retained when -minen attaches."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns muistaa (to remember) into a noun: the act of remembering."
+        }
+      ],
+      "translationShort": "remembering",
+      "translationLong": "the act of remembering",
+      "exampleSentence": "Nimien muistaminen on minulle vaikeaa.",
+      "exampleTranslation": "Remembering names is difficult for me."
+    },
+    {
+      "id": "unohttaminen",
+      "article": "",
+      "flag": "Possible typo: standard Finnish spelling is 'unohtaminen' (single t). Entry created as given but note the likely misspelling.",
+      "parts": [
+        {
+          "targetLang": "unoh",
+          "homeLang": "forget",
+          "homeLangDetails": "The root unoh- is the core of unohtaa (to forget). Related words include unohtunut (forgotten) and unohdus (forgetfulness, an instance of forgetting). The root may be distantly related to uni (sleep/dream), suggesting a sense of something 'slipping away'."
+        },
+        {
+          "targetLang": "tta",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The -tta- is a causative suffix. In unohtaa it contributes to the transitive sense of actively forgetting something, as opposed to something slipping from memory passively."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns unohtaa (to forget) into a noun: the act of forgetting."
+        }
+      ],
+      "translationShort": "forgetting",
+      "translationLong": "the act of forgetting",
+      "exampleSentence": "Tärkeiden asioiden unohtaminen voi olla stressaavaa.",
+      "exampleTranslation": "Forgetting important things can be stressful."
+    },
+    {
+      "id": "epäonnistuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "epä",
+          "homeLang": "un-, non-",
+          "homeLangDetails": "Think of this as Finnish's version of \"un-\" or \"dis-\". It flips a word to its opposite, and it's incredibly common. You'll see it in epäonninen (unlucky), epäselvä (unclear), and epätodellinen (unreal). Once you spot it, you'll start seeing it everywhere."
+        },
+        {
+          "targetLang": "onnistuminen",
+          "homeLang": "succeeding",
+          "homeLangDetails": "The noun form of onnistua (to succeed), itself built on onni (luck, happiness) + -stua (a reflexive/inchoative verb suffix). So 'onnistuminen' is literally 'a coming into luck' — the act of succeeding. The epä- prefix flips it to failure."
+        }
+      ],
+      "translationShort": "failure, failing",
+      "translationLong": "failure, a failing, an instance of not succeeding",
+      "exampleSentence": "Epäonnistuminen on osa oppimista.",
+      "exampleTranslation": "Failure is part of learning."
+    },
+    {
+      "id": "epäselvästi",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "epä",
+          "homeLang": "un-, non-",
+          "homeLangDetails": "Think of this as Finnish's version of \"un-\" or \"dis-\". It flips a word to its opposite, and it's incredibly common. You'll see it in epäonninen (unlucky), epäselvä (unclear), and epätodellinen (unreal). Once you spot it, you'll start seeing it everywhere."
+        },
+        {
+          "targetLang": "selv",
+          "homeLang": "clear",
+          "homeLangDetails": "From selväs/selvä, meaning clear, distinct, or sober. The same root appears in selvittää (to clarify) and selvyys (clarity)."
+        },
+        {
+          "targetLang": "ästi",
+          "homeLang": "(manner adverb)",
+          "homeLangDetails": "The -sti adverb suffix attaches to adjectives to form manner adverbs — here to epäselvä (unclear), giving 'unclearly'. The -ä- before -sti is vowel harmony with the front vowels in the word."
+        }
+      ],
+      "translationShort": "unclearly, vaguely",
+      "translationLong": "unclearly, vaguely, indistinctly",
+      "exampleSentence": "Hän puhui niin epäselvästi, että en ymmärtänyt mitään.",
+      "exampleTranslation": "He spoke so unclearly that I didn't understand anything."
+    },
+    {
+      "id": "epärehellinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "epä",
+          "homeLang": "un-, non-",
+          "homeLangDetails": "Think of this as Finnish's version of \"un-\" or \"dis-\". It flips a word to its opposite, and it's incredibly common. You'll see it in epäonninen (unlucky), epäselvä (unclear), and epätodellinen (unreal). Once you spot it, you'll start seeing it everywhere."
+        },
+        {
+          "targetLang": "rehell",
+          "homeLang": "honest",
+          "homeLangDetails": "From rehellis-, the stem of rehellinen (honest). Rehellinen itself comes from rehtä (straight, upright), with -llinen adding the sense of 'having the quality of'. The root rehtä is related to the concept of straightness or uprightness."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "dishonest",
+      "translationLong": "dishonest, untruthful, deceitful",
+      "exampleSentence": "On epärehellistä valehdella ystävällesi.",
+      "exampleTranslation": "It is dishonest to lie to your friend."
+    },
+    {
+      "id": "esikoulu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "esi",
+          "homeLang": "pre-, fore-",
+          "homeLangDetails": "This prefix puts something before or in front of something else, much like English \"pre-\" or \"fore-\". It shows up in esimerkki (example, literally \"fore-mark\"), esimies (supervisor, literally \"fore-man\"), and esikoulu (preschool). It's a tidy little time-and-order marker."
+        },
+        {
+          "targetLang": "koulu",
+          "homeLang": "school"
+        }
+      ],
+      "translationShort": "preschool, kindergarten",
+      "translationLong": "preschool, kindergarten, pre-primary school",
+      "exampleSentence": "Lapsi aloittaa esikoulun ensi syksynä.",
+      "exampleTranslation": "The child starts preschool next autumn."
+    },
+    {
+      "id": "esimies",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "esi",
+          "homeLang": "fore-, chief",
+          "homeLangDetails": "This prefix puts something before or in front of something else, much like English \"pre-\" or \"fore-\". It shows up in esimerkki (example, literally \"fore-mark\"), esimies (supervisor, literally \"fore-man\"), and esikoulu (preschool). It's a tidy little time-and-order marker."
+        },
+        {
+          "targetLang": "mies",
+          "homeLang": "man, person",
+          "homeLangDetails": "Mies means 'man' or 'person' in Finnish. In compounds like esimies it often carries a gender-neutral sense of 'person in a role', though the word itself is grammatically masculine in origin. Think of it like 'foreman' — the original meaning is gendered, but the usage has broadened."
+        }
+      ],
+      "translationShort": "supervisor, boss",
+      "translationLong": "supervisor, manager, superior, boss",
+      "exampleSentence": "Minun esimieheni on erittäin kannustava.",
+      "exampleTranslation": "My supervisor is very encouraging."
+    },
+    {
+      "id": "itseluottamus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "itse",
+          "homeLang": "self-",
+          "homeLangDetails": "This one works just like English \"self-\" in compounds. It comes from the word itse meaning \"self\" or \"oneself\". You'll find it in itseluottamus (self-confidence), itseopiskelu (self-study), and itsepalvelu (self-service). Very recognizable once you know itse on its own."
+        },
+        {
+          "targetLang": "luottamus",
+          "homeLang": "trust, confidence",
+          "homeLangDetails": "From luottaa (to trust) + -mus (abstract noun suffix). Luottaa itself comes from a root related to relying or leaning on something. The same root appears in luottokelpoisuus (creditworthiness) and luottamus (trust between people)."
+        }
+      ],
+      "translationShort": "self-confidence",
+      "translationLong": "self-confidence, self-trust, confidence in oneself",
+      "exampleSentence": "Hänellä on paljon itseluottamusta.",
+      "exampleTranslation": "She has a lot of self-confidence."
+    },
+    {
+      "id": "itseopiskelu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "itse",
+          "homeLang": "self-",
+          "homeLangDetails": "This one works just like English \"self-\" in compounds. It comes from the word itse meaning \"self\" or \"oneself\". You'll find it in itseluottamus (self-confidence), itseopiskelu (self-study), and itsepalvelu (self-service). Very recognizable once you know itse on its own."
+        },
+        {
+          "targetLang": "opiskelu",
+          "homeLang": "studying",
+          "homeLangDetails": "The noun form of opiskella (to study), built on oppia (to learn) + -skella (a frequentative/continuative verb suffix). So opiskelu is the ongoing activity of studying — not just learning in a flash, but sustained engagement. See also: opiskelija (student)."
+        }
+      ],
+      "translationShort": "self-study",
+      "translationLong": "self-study, independent study, self-directed learning",
+      "exampleSentence": "Itseopiskelu vaatii paljon kurinalaisuutta.",
+      "exampleTranslation": "Self-study requires a lot of discipline."
+    },
+    {
+      "id": "itsemääräämisoikeus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "itse",
+          "homeLang": "self-",
+          "homeLangDetails": "This one works just like English \"self-\" in compounds. It comes from the word itse meaning \"self\" or \"oneself\". You'll find it in itseluottamus (self-confidence), itseopiskelu (self-study), and itsepalvelu (self-service). Very recognizable once you know itse on its own."
+        },
+        {
+          "targetLang": "määräämis",
+          "homeLang": "determining, deciding",
+          "homeLangDetails": "From määrätä (to determine, to order, to decree) + -mis (a nominalizing suffix forming verbal nouns, similar to -minen but used in compound contexts). Määrätä itself comes from määrä (amount, measure, limit). The sense here is 'the act of determining one's own course'."
+        },
+        {
+          "targetLang": "oikeus",
+          "homeLang": "right, justice",
+          "homeLangDetails": "From oikea (right, correct, straight) + -us (abstract noun suffix). Oikeus means both 'a right' (as in a legal entitlement) and 'justice' or 'court' depending on context. Here it means 'the right to'."
+        }
+      ],
+      "translationShort": "self-determination",
+      "translationLong": "right to self-determination, autonomy",
+      "exampleSentence": "Itsemääräämisoikeus on tärkeä ihmisoikeus.",
+      "exampleTranslation": "The right to self-determination is an important human right."
+    },
+    {
+      "id": "yhteisöllinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhteisö",
+          "homeLang": "community",
+          "homeLangDetails": "Built on yhte- (together, joint) + -isö (a suffix forming collective or institutional nouns, similar to -sto/-stö). Yhteisö literally means 'a togetherness-group' — a community or collective. See also: yhteinen (common, shared)."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "communal, community-oriented",
+      "translationLong": "communal, collective, community-oriented, social",
+      "exampleSentence": "Meillä on vahva yhteisöllinen henki tässä kylässä.",
+      "exampleTranslation": "We have a strong communal spirit in this village."
+    },
+    {
+      "id": "yhteisvastuu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhteis",
+          "homeLang": "joint, shared",
+          "homeLangDetails": "The combining form of yhteinen (common, shared, joint), itself from yhte- (together). This form appears in many Finnish compounds: yhteiskunta (society), yhteistyö (cooperation), yhteisvastuu. The -s at the end is a genitive/compound linking element."
+        },
+        {
+          "targetLang": "vastuu",
+          "homeLang": "responsibility",
+          "homeLangDetails": "From vastata (to respond, to be responsible for) + -uu (a suffix forming abstract nouns). Vastuu is the noun for responsibility or liability. The same root appears in vastaus (answer) and vastuullinen (responsible)."
+        }
+      ],
+      "translationShort": "joint responsibility",
+      "translationLong": "joint responsibility, collective responsibility, shared liability",
+      "exampleSentence": "Yhteisvastuu tarkoittaa, että kaikki vastaavat yhdessä.",
+      "exampleTranslation": "Joint responsibility means that everyone is responsible together."
+    },
+    {
+      "id": "kirjailija",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirja",
+          "homeLang": "book, writing",
+          "homeLangDetails": "This root meaning \"book\" or \"writing\" is one of the most useful in Finnish. Kirja means book, kirjasto is library, kirjain is a letter of the alphabet, and kirjoittaa means to write. It is distantly related to the same Old Germanic roots that give English \"script\" its flavor, and it seeds a whole family of literacy-related words."
+        },
+        {
+          "targetLang": "ili",
+          "homeLang": "(verb stem formant)",
+          "homeLangDetails": "The -ili- here is part of the verb kirjailla (to embroider, to embellish with writing), a frequentative/ornamental verb derived from kirja. In the context of kirjailija, this verb form lends the sense of 'one who works with writing in a creative or elaborate way' — a writer or author, not just someone who writes functionally."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "doer, agent",
+          "homeLangDetails": "This is Finnish's answer to English \"-er\" as in \"someone who does X\". It attaches to verb stems to make nouns for people or things that perform an action. A laulaja is a singer (laulaa, to sing), an opettaja is a teacher (opettaa, to teach), and an ajaja is a driver. Super consistent and very handy."
+        }
+      ],
+      "translationShort": "author, writer",
+      "translationLong": "author, writer, novelist",
+      "exampleSentence": "Tunnettu kirjailija julkaisi uuden romaanin.",
+      "exampleTranslation": "A well-known author published a new novel."
+    },
+    {
+      "id": "kirjallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirja",
+          "homeLang": "book, writing",
+          "homeLangDetails": "This root meaning \"book\" or \"writing\" is one of the most useful in Finnish. Kirja means book, kirjasto is library, kirjain is a letter of the alphabet, and kirjoittaa means to write. It is distantly related to the same Old Germanic roots that give English \"script\" its flavor, and it seeds a whole family of literacy-related words."
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(stem connector)",
+          "homeLangDetails": "A double-l connector that appears when -llinen attaches to certain noun stems. It is part of the suffix complex and has no independent meaning, but it is required by Finnish phonological rules for this class of words."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "written, literary",
+      "translationLong": "written, literary, in writing",
+      "exampleSentence": "Hän antoi kirjallisen varoituksen.",
+      "exampleTranslation": "He gave a written warning."
+    },
+    {
+      "id": "kirjekuori",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kirje",
+          "homeLang": "letter (mail)",
+          "homeLangDetails": "From kirja (book, writing) with a diminutive/variant form kirje specifically meaning a written letter — a piece of correspondence. The same root but a slightly different form from kirja, reflecting the more specific sense of a letter sent to someone."
+        },
+        {
+          "targetLang": "kuori",
+          "homeLang": "shell, cover, envelope",
+          "homeLangDetails": "Kuori means shell, husk, peel, or outer covering — the outer layer of something. In kirjekuori it refers to the paper sleeve that holds a letter. The same word is used for an orange peel or a snail's shell."
+        }
+      ],
+      "translationShort": "envelope",
+      "translationLong": "envelope (for a letter)",
+      "exampleSentence": "Laita kirje kirjekuoreen ennen lähettämistä.",
+      "exampleTranslation": "Put the letter in the envelope before sending it."
+    },
+    {
+      "id": "taloyhtiö",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "talo",
+          "homeLang": "house, building",
+          "homeLangDetails": "Talo means house, and this root appears across a big family of words about buildings and home life. Taloyhtiö is a housing company, talous means household or economy, and talvi (winter) is a separate word but talo itself is everywhere. It is a great anchor word for domestic vocabulary."
+        },
+        {
+          "targetLang": "yhtiö",
+          "homeLang": "company, corporation",
+          "homeLangDetails": "From yhte-/yhti- (together, joint) + -ö (a suffix forming collective or institutional nouns). Yhtiö means a company or corporation — literally 'a togetherness entity'. A taloyhtiö is the legal entity that jointly owns and manages a residential building, similar to a housing cooperative or homeowners' association."
+        }
+      ],
+      "translationShort": "housing company",
+      "translationLong": "housing company, residential building cooperative, homeowners' association",
+      "exampleSentence": "Taloyhtiö päätti remontoida kaikki parvekkeet.",
+      "exampleTranslation": "The housing company decided to renovate all the balconies."
+    },
+    {
+      "id": "taloustiede",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "talous",
+          "homeLang": "economy, household",
+          "homeLangDetails": "From talo (house, building) + -us (abstract noun suffix). Originally meant household management — the running of a home or estate. This is exactly the same semantic path as the Greek oikonomia (eco-nomy): oikos (house) + nomos (management). Now used broadly for economy and economics."
+        },
+        {
+          "targetLang": "tiede",
+          "homeLang": "science, knowledge",
+          "homeLangDetails": "From tietää (to know) + a nominalizing suffix. Tiede means science or an academic discipline — systematic knowledge. It appears in many Finnish compound discipline names: lääketiede (medicine), oikeustiede (law), luonnontiede (natural science)."
+        }
+      ],
+      "translationShort": "economics",
+      "translationLong": "economics, the science of economics",
+      "exampleSentence": "Hän opiskelee taloustiedettä yliopistossa.",
+      "exampleTranslation": "She studies economics at university."
+    },
+    {
+      "id": "talouspolitiikka",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "talous",
+          "homeLang": "economy",
+          "homeLangDetails": "From talo- (house, building) with the -us suffix forming an abstract noun. The original sense is 'household management' — the same root as the Greek oikos in 'economics'. Here it means the national economy broadly."
+        },
+        {
+          "targetLang": "politiikka",
+          "homeLang": "politics, policy"
+        }
+      ],
+      "translationShort": "economic policy",
+      "translationLong": "economic policy, fiscal policy",
+      "exampleSentence": "Hallitus julkisti uuden talouspolitiikan suunnitelman.",
+      "exampleTranslation": "The government published a new economic policy plan."
+    },
+    {
+      "id": "työttömyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "työ",
+          "homeLang": "work, labor",
+          "homeLangDetails": "Työ means work, and it anchors a huge cluster of everyday words. Työtä tehdä means to do work, työpaikka is a workplace, and työttömyys means unemployment. There is no direct English cognate, but once you know työ you will start seeing it in nearly every conversation about daily life."
+        },
+        {
+          "targetLang": "ttömyys",
+          "homeLang": "-lessness",
+          "homeLangDetails": "A fusion of -tön/-ttön (without, lacking) and -ys (abstract noun suffix). Together they turn an adjective like 'workless' into the noun 'worklessness' — i.e., the state of lacking work. The double-t reflects Finnish consonant gradation."
+        }
+      ],
+      "translationShort": "unemployment",
+      "translationLong": "unemployment, joblessness",
+      "exampleSentence": "Työttömyys on laskenut viime vuosina.",
+      "exampleTranslation": "Unemployment has decreased in recent years."
+    },
+    {
+      "id": "työttömyysturva",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "työ",
+          "homeLang": "work, labor",
+          "homeLangDetails": "Työ means work, and it anchors a huge cluster of everyday words. Työtä tehdä means to do work, työpaikka is a workplace, and työttömyys means unemployment. There is no direct English cognate, but once you know työ you will start seeing it in nearly every conversation about daily life."
+        },
+        {
+          "targetLang": "ttömyys",
+          "homeLang": "-lessness",
+          "homeLangDetails": "A fusion of -tön/-ttön (without, lacking) and -ys (abstract noun suffix) — together meaning 'the state of lacking work'. The double-t reflects Finnish consonant gradation."
+        },
+        {
+          "targetLang": "turva",
+          "homeLang": "protection, security"
+        }
+      ],
+      "translationShort": "unemployment benefit",
+      "translationLong": "unemployment benefit, unemployment security, social protection for the unemployed",
+      "exampleSentence": "Hän sai työttömyysturvaa kuuden kuukauden ajan.",
+      "exampleTranslation": "She received unemployment benefit for six months."
+    },
+    {
+      "id": "työnantaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "työn",
+          "homeLang": "work's",
+          "homeLangDetails": "Työ (work, labor) in the genitive case (-n), linking it to the following element. In Finnish compounds the genitive signals 'giver of work' — the one who provides work."
+        },
+        {
+          "targetLang": "anta",
+          "homeLang": "give",
+          "homeLangDetails": "From antaa (to give). This is the stem of the giving action — the same root appears in words like lahja-nantaja (gift-giver)."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "doer, agent",
+          "homeLangDetails": "This is Finnish's answer to English \"-er\" as in \"someone who does X\". It attaches to verb stems to make nouns for people or things that perform an action. A laulaja is a singer (laulaa, to sing), an opettaja is a teacher (opettaa, to teach), and an ajaja is a driver. Super consistent and very handy."
+        }
+      ],
+      "translationShort": "employer",
+      "translationLong": "employer, one who gives work",
+      "exampleSentence": "Työnantaja tarjosi hänelle kokoaikaisen työsopimuksen.",
+      "exampleTranslation": "The employer offered him a full-time employment contract."
+    },
+    {
+      "id": "työnhakija",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "työn",
+          "homeLang": "work's",
+          "homeLangDetails": "Työ (work, labor) in the genitive case (-n), linking it to the following element. The genitive here marks what is being sought: 'seeker of work'."
+        },
+        {
+          "targetLang": "haki",
+          "homeLang": "seek, apply for",
+          "homeLangDetails": "From hakea (to seek, to fetch, to apply for). This is the verb stem used in the agent noun construction. The same root appears in hakemisto (index, directory) and hakea töitä (to look for work)."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "doer, agent",
+          "homeLangDetails": "This is Finnish's answer to English \"-er\" as in \"someone who does X\". It attaches to verb stems to make nouns for people or things that perform an action. A laulaja is a singer (laulaa, to sing), an opettaja is a teacher (opettaa, to teach), and an ajaja is a driver. Super consistent and very handy."
+        }
+      ],
+      "translationShort": "job seeker",
+      "translationLong": "job seeker, job applicant",
+      "exampleSentence": "Työnhakija lähetti hakemuksensa sähköpostitse.",
+      "exampleTranslation": "The job seeker sent their application by email."
+    },
+    {
+      "id": "päiväkoti",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "päivä",
+          "homeLang": "day",
+          "homeLangDetails": "Päivä means day and seeds a rich family of time and greeting words. Tänään means today, huomenna means tomorrow, but päivä itself appears in hyvää päivää (good day), arkipäivä (weekday, literally \"everyday day\"), and päiväkoti (daycare, literally \"day home\"). A foundational root for talking about time."
+        },
+        {
+          "targetLang": "koti",
+          "homeLang": "home"
+        }
+      ],
+      "translationShort": "daycare center",
+      "translationLong": "daycare center, kindergarten, day home",
+      "exampleSentence": "Lapsi viihtyy hyvin päiväkodissa.",
+      "exampleTranslation": "The child is very happy at daycare."
+    },
+    {
+      "id": "päiväkirja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "päivä",
+          "homeLang": "day",
+          "homeLangDetails": "Päivä means day and seeds a rich family of time and greeting words. Tänään means today, huomenna means tomorrow, but päivä itself appears in hyvää päivää (good day), arkipäivä (weekday, literally \"everyday day\"), and päiväkoti (daycare, literally \"day home\"). A foundational root for talking about time."
+        },
+        {
+          "targetLang": "kirja",
+          "homeLang": "book, writing",
+          "homeLangDetails": "This root meaning \"book\" or \"writing\" is one of the most useful in Finnish. Kirja means book, kirjasto is library, kirjain is a letter of the alphabet, and kirjoittaa means to write. It is distantly related to the same Old Germanic roots that give English \"script\" its flavor, and it seeds a whole family of literacy-related words."
+        }
+      ],
+      "translationShort": "diary, journal",
+      "translationLong": "diary, journal, daily log",
+      "exampleSentence": "Hän kirjoittaa päiväkirjaan joka ilta.",
+      "exampleTranslation": "She writes in her diary every evening."
+    },
+    {
+      "id": "vesitorni",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vesi",
+          "homeLang": "water",
+          "homeLangDetails": "Vesi means water, and its stem vete- appears when suffixes are added. Vesijohto is a water pipe, vedenalainen means underwater, and vedenpitävä means waterproof. The stem shift from vesi to vete is a classic Finnish pattern, and spotting this root makes water-related vocabulary click immediately."
+        },
+        {
+          "targetLang": "torni",
+          "homeLang": "tower"
+        }
+      ],
+      "translationShort": "water tower",
+      "translationLong": "",
+      "exampleSentence": "Kaupungin vanha vesitorni on nyt museo.",
+      "exampleTranslation": "The city's old water tower is now a museum."
+    },
+    {
+      "id": "vesilaitos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vesi",
+          "homeLang": "water",
+          "homeLangDetails": "Vesi means water, and its stem vete- appears when suffixes are added. Vesijohto is a water pipe, vedenalainen means underwater, and vedenpitävä means waterproof. The stem shift from vesi to vete is a classic Finnish pattern, and spotting this root makes water-related vocabulary click immediately."
+        },
+        {
+          "targetLang": "laitos",
+          "homeLang": "institution, facility",
+          "homeLangDetails": "From laitaa/laittaa (to set up, to arrange), with the -os suffix forming a noun. A laitos is an established facility or institution — the same word is used for a hospital (sairaalaitos), a university (laitos as 'department'), or any public utility."
+        }
+      ],
+      "translationShort": "waterworks, water utility",
+      "translationLong": "waterworks, water utility, water treatment plant",
+      "exampleSentence": "Vesilaitos huolehtii puhtaan veden jakelusta.",
+      "exampleTranslation": "The water utility takes care of the distribution of clean water."
+    },
+    {
+      "id": "yliopistolainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yli",
+          "homeLang": "over, above",
+          "homeLangDetails": "Think of this as Finnish's version of \"over-\" or \"super-.\" It stacks onto nouns and adjectives to mean something exceeds a limit or sits above something else. You'll spot it in ylinopeus (speeding, literally \"over-speed\"), ylipaino (overweight), and yliopisto (university, literally \"over-school,\" the highest level of study)."
+        },
+        {
+          "targetLang": "opisto",
+          "homeLang": "institute, school",
+          "homeLangDetails": "From oppia (to learn), with -isto forming a noun meaning a place of learning. An opisto is a school or institute; yliopisto adds yli- (over, above) to mean the highest level of learning institution — a university."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "person from, -ian",
+          "homeLangDetails": "This suffix turns a place name into a word for the people or things from that place, just like English \"-ian\" or \"-ese.\" Suomi gives you suomalainen (Finnish person), Helsinki gives helsinkiläinen (Helsinkian), and Eurooppa gives eurooppalainen (European). It also carries cultural identity, so it's a high-frequency word you'll need from day one."
+        }
+      ],
+      "translationShort": "university student/person",
+      "translationLong": "university student, member of a university community",
+      "exampleSentence": "Hän on ylioppilas, mutta hänen sisarensa on yliopistolainen.",
+      "exampleTranslation": "He is a high school graduate, but his sister is a university student."
+    },
+    {
+      "id": "ylikuormitus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yli",
+          "homeLang": "over, above",
+          "homeLangDetails": "Think of this as Finnish's version of \"over-\" or \"super-.\" It stacks onto nouns and adjectives to mean something exceeds a limit or sits above something else. You'll spot it in ylinopeus (speeding, literally \"over-speed\"), ylipaino (overweight), and yliopisto (university, literally \"over-school,\" the highest level of study)."
+        },
+        {
+          "targetLang": "kuormi",
+          "homeLang": "load, burden",
+          "homeLangDetails": "From kuorma (load, cargo, burden). The stem kuormi- appears in verbs like kuormittaa (to burden, to load) and nouns like kuormitus (loading, strain). The same root gives us kuorma-auto (truck, literally 'load-car')."
+        },
+        {
+          "targetLang": "tus",
+          "homeLang": "result, state, abstract noun",
+          "homeLangDetails": "A variant of the -us/-ys suffix that forms abstract nouns from verbs, especially causative or action verbs. Here kuormittaa (to load/burden) → kuormitus (the act or state of loading/burdening)."
+        }
+      ],
+      "translationShort": "overload, overloading",
+      "translationLong": "overload, overloading, excessive burden",
+      "exampleSentence": "Verkon ylikuormitus hidastaa yhteyttä.",
+      "exampleTranslation": "Network overload slows down the connection."
+    },
+    {
+      "id": "alisuoriutuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ali",
+          "homeLang": "under, sub-",
+          "homeLangDetails": "The natural partner to yli-, this works just like English \"under-\" to mean something is below a threshold or subordinate. It shows up in alipaino (underweight), aliarvioida (to underestimate), and alisuorittaa (to underperform). Once you know the yli-/ali- pair, a whole family of words clicks into place."
+        },
+        {
+          "targetLang": "suoriutu",
+          "homeLang": "perform, manage",
+          "homeLangDetails": "From suoriutua (to perform, to manage, to get through something). The root suori- relates to suora (straight, direct) — suoriutua originally means to straighten out or get through a task. Here it carries the sense of performing or achieving."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "verbal noun",
+          "homeLangDetails": "Finnish turns verbs into nouns by adding -minen, similar to English \"-ing\" as a gerund. Syöminen means eating (syödä, to eat), juominen means drinking, and nukkuminen means sleeping. These nouns are everywhere in conversation and writing."
+        }
+      ],
+      "translationShort": "underperformance",
+      "translationLong": "underperformance, underachievement",
+      "exampleSentence": "Opettaja huolestui oppilaan alisuoriutumisesta.",
+      "exampleTranslation": "The teacher became concerned about the student's underperformance."
+    },
+    {
+      "id": "alipalkkainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ali",
+          "homeLang": "under, sub-",
+          "homeLangDetails": "The natural partner to yli-, this works just like English \"under-\" to mean something is below a threshold or subordinate. It shows up in alipaino (underweight), aliarvioida (to underestimate), and alisuorittaa (to underperform). Once you know the yli-/ali- pair, a whole family of words clicks into place."
+        },
+        {
+          "targetLang": "palkka",
+          "homeLang": "wage, salary"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "underpaid",
+      "translationLong": "underpaid, receiving below-standard wages",
+      "exampleSentence": "Monet hoitoalan työntekijät ovat alipalkkaisia.",
+      "exampleTranslation": "Many healthcare workers are underpaid."
+    },
+    {
+      "id": "pääkaupunki",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pää",
+          "homeLang": "main, head, chief",
+          "homeLangDetails": "Pää literally means \"head,\" and it works just like \"head-\" or \"main-\" in English compounds. The learner's best friends here are pääkaupunki (capital city, \"head city\"), pääasia (the main point), and pääministeri (prime minister). It's one of the most productive compounding elements in everyday Finnish."
+        },
+        {
+          "targetLang": "kaupunki",
+          "homeLang": "city, town"
+        }
+      ],
+      "translationShort": "capital city",
+      "translationLong": "capital, capital city",
+      "exampleSentence": "Helsinki on Suomen pääkaupunki.",
+      "exampleTranslation": "Helsinki is the capital of Finland."
+    },
+    {
+      "id": "pääministeri",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pää",
+          "homeLang": "main, head, chief",
+          "homeLangDetails": "Pää literally means \"head,\" and it works just like \"head-\" or \"main-\" in English compounds. The learner's best friends here are pääkaupunki (capital city, \"head city\"), pääasia (the main point), and pääministeri (prime minister). It's one of the most productive compounding elements in everyday Finnish."
+        },
+        {
+          "targetLang": "ministeri",
+          "homeLang": "minister"
+        }
+      ],
+      "translationShort": "prime minister",
+      "translationLong": "prime minister, head of government",
+      "exampleSentence": "Pääministeri piti tiedotustilaisuuden eilen illalla.",
+      "exampleTranslation": "The prime minister held a press conference yesterday evening."
+    },
+    {
+      "id": "uudistuminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uudi",
+          "homeLang": "new, re-",
+          "homeLangDetails": "From the root uus-/uude- (new). Here it forms the base of a verb meaning 'to renew/reform'. The stem shifts slightly to 'uudi-' before the verb-forming elements."
+        },
+        {
+          "targetLang": "stu",
+          "homeLang": "(become, reflexive)",
+          "homeLangDetails": "The -stu/-sty suffix makes a verb reflexive or intransitive — indicating that the subject undergoes the change rather than causing it in something else. So uudistua means 'to renew oneself, to be renewed'."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "Finnish turns verbs into nouns by adding -minen, similar to English \"-ing\" as a gerund. Syöminen means eating (syödä, to eat), juominen means drinking, and nukkuminen means sleeping. These nouns are everywhere in conversation and writing."
+        }
+      ],
+      "translationShort": "renewal, reformation",
+      "translationLong": "renewal, self-renewal, reformation, regeneration",
+      "exampleSentence": "Yrityksen uudistuminen oli välttämätöntä.",
+      "exampleTranslation": "The company's renewal was necessary."
+    },
+    {
+      "id": "uudisrakennus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "uudis",
+          "homeLang": "new, fresh",
+          "homeLangDetails": "From uus-/uude- (new). The form uudis- appears specifically in compounds referring to something newly created or pioneering, like a new settlement or new construction."
+        },
+        {
+          "targetLang": "rakennus",
+          "homeLang": "building, construction",
+          "homeLangDetails": "From rakentaa (to build). Rakennus means both the act of building and the resulting structure — context usually makes clear which is meant. Here it refers to the physical structure."
+        }
+      ],
+      "translationShort": "new building",
+      "translationLong": "new building, newly constructed building",
+      "exampleSentence": "Uudisrakennus valmistui aikataulussa.",
+      "exampleTranslation": "The new building was completed on schedule."
+    },
+    {
+      "id": "etuoikeutettu",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "etu",
+          "homeLang": "front, advance, pre-",
+          "homeLangDetails": "Etu means both \"front\" and \"benefit/advantage,\" so context matters, but in compounds it usually marks position or priority. You'll see it in etunimi (first name, literally \"front name\"), etuovi (front door), and etuoikeus (privilege, \"front right\"). It overlaps nicely with English \"pre-\" and \"front-.\""
+        },
+        {
+          "targetLang": "oikeu",
+          "homeLang": "right, entitlement",
+          "homeLangDetails": "From oikeus (right, justice, law). The stem oikeu- appears here before the -tettu suffix. Oikeus itself comes from oikea (right, correct)."
+        },
+        {
+          "targetLang": "tettu",
+          "homeLang": "(given, granted)",
+          "homeLangDetails": "This is a past passive participle suffix (-ttu/-tty after a long stem). So etuoikeutettu literally means 'one to whom a prior right has been granted' — privileged."
+        }
+      ],
+      "translationShort": "privileged",
+      "translationLong": "privileged, entitled, having special rights",
+      "exampleSentence": "Hän syntyi etuoikeutettuun perheeseen.",
+      "exampleTranslation": "She was born into a privileged family."
+    },
+    {
+      "id": "eturivin",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "etu",
+          "homeLang": "front, advance, pre-",
+          "homeLangDetails": "Etu means both \"front\" and \"benefit/advantage,\" so context matters, but in compounds it usually marks position or priority. You'll see it in etunimi (first name, literally \"front name\"), etuovi (front door), and etuoikeus (privilege, \"front right\"). It overlaps nicely with English \"pre-\" and \"front-.\""
+        },
+        {
+          "targetLang": "rivin",
+          "homeLang": "of the row/line",
+          "homeLangDetails": "Rivi means 'row' or 'line'. The form rivin is the genitive (possessive) case — so eturivin means 'of the front row'. It is typically used as a modifier: eturivin poliitikko = a front-row (i.e. leading) politician."
+        }
+      ],
+      "translationShort": "front-row, leading",
+      "translationLong": "front-row, frontline, leading, top-tier",
+      "exampleSentence": "Hän on eturivin asiantuntija alallaan.",
+      "exampleTranslation": "She is a leading expert in her field."
+    },
+    {
+      "id": "ilmastollinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilmasto",
+          "homeLang": "climate",
+          "homeLangDetails": "From ilma (air, atmosphere) + -sto (a suffix forming collective or systemic nouns). So ilmasto is literally 'the air-system' — the overall atmospheric condition, i.e. climate."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of, -al",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "climatic",
+      "translationLong": "climatic, relating to climate",
+      "exampleSentence": "Ilmastolliset muutokset vaikuttavat koko maailmaan.",
+      "exampleTranslation": "Climatic changes affect the whole world."
+    },
+    {
+      "id": "luonnollinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "luonto",
+          "homeLang": "nature",
+          "homeLangDetails": "Luonto means 'nature' (in the sense of the natural world) and also 'character, disposition'. The stem shifts to luonnol- before the -llinen suffix through consonant gradation and assimilation."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of, -al",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "natural",
+      "translationLong": "natural, innate, unaffected",
+      "exampleSentence": "On luonnollista, että lapset leikkivät.",
+      "exampleTranslation": "It is natural that children play."
+    },
+    {
+      "id": "luonnollisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "luonto",
+          "homeLang": "nature",
+          "homeLangDetails": "Luonto means 'nature' or 'character'. The stem shifts to luonnollis- through consonant gradation and assimilation before the abstract noun suffix."
+        },
+        {
+          "targetLang": "llisuus",
+          "homeLang": "-alness, quality of",
+          "homeLangDetails": "This is -llinen + -uus merged in sequence: the adjectival suffix -llinen (having the quality of) combined with -uus (abstract noun, state or result). Together they convert the noun luonto into an abstract quality: naturalness."
+        }
+      ],
+      "translationShort": "naturalness",
+      "translationLong": "naturalness, being natural",
+      "exampleSentence": "Hänen puheessaan oli ainutlaatuinen luonnollisuus.",
+      "exampleTranslation": "There was a unique naturalness in her speech."
+    },
+    {
+      "id": "kansallisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kansa",
+          "homeLang": "people, nation",
+          "homeLangDetails": "Kansa means 'people' or 'folk' in the sense of a collective population or ethnic group. It is the root behind kansallinen (national), kansalainen (citizen), and kansainvälinen (international)."
+        },
+        {
+          "targetLang": "llisuus",
+          "homeLang": "-ality, quality of",
+          "homeLangDetails": "The suffix chain -llinen + -uus: -llinen (relating to, having the quality of) + -uus (abstract noun). Together they form '-ality' as in 'nationality'. The stem kansa becomes kansal- before these suffixes."
+        }
+      ],
+      "translationShort": "nationality",
+      "translationLong": "nationality, national identity",
+      "exampleSentence": "Mikä on sinun kansallisuutesi?",
+      "exampleTranslation": "What is your nationality?"
+    },
+    {
+      "id": "alueellinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "alue",
+          "homeLang": "area, region",
+          "homeLangDetails": "Alue means 'area', 'region', or 'zone'. It appears in many compound words relating to territory or domain. Before -llinen, the final -e is retained as the stem."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of, -al",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "regional, territorial",
+      "translationLong": "regional, territorial, area-specific",
+      "exampleSentence": "Alueellinen kehitys vaihtelee Suomessa paljon.",
+      "exampleTranslation": "Regional development varies greatly in Finland."
+    },
+    {
+      "id": "ajallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "aika",
+          "homeLang": "time, period",
+          "homeLangDetails": "From aika-/ajan- (time, period). The stem shifts to ajal- before -llinen through consonant gradation (k → j in this environment) and assimilation."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of, -al",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "temporal",
+      "translationLong": "temporal, relating to time",
+      "exampleSentence": "Ajallinen etäisyys auttaa näkemään asiat selkeämmin.",
+      "exampleTranslation": "Temporal distance helps to see things more clearly."
+    },
+    {
+      "id": "ajankohtainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ajan",
+          "homeLang": "of the time",
+          "homeLangDetails": "Genitive form of aika (time). Ajan means 'of the time' or 'of the moment', anchoring the compound to current time."
+        },
+        {
+          "targetLang": "kohta",
+          "homeLang": "point, moment",
+          "homeLangDetails": "Kohta means 'point', 'spot', or 'moment'. In this compound, ajankohtainen literally refers to 'a point in time' — the current moment."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -al",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "topical, current",
+      "translationLong": "topical, current, timely, up-to-date",
+      "exampleSentence": "Aihe on erittäin ajankohtainen tänä vuonna.",
+      "exampleTranslation": "The topic is very current this year."
+    },
+    {
+      "id": "vuosikirja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vuosi",
+          "homeLang": "year",
+          "homeLangDetails": "Vuosi is the Finnish word for year, and it appears in a cluster of very high-frequency words. Uusivuosi (New Year), vuosipäivä (anniversary, \"year-day\"), and vuosikerta (annual issue, vintage) all contain it. The stem shifts to vuode- in some compound forms, which can catch learners off guard, but the meaning never wavers."
+        },
+        {
+          "targetLang": "kirja",
+          "homeLang": "book, writing",
+          "homeLangDetails": "This root meaning \"book\" or \"writing\" is one of the most useful in Finnish. Kirja means book, kirjasto is library, kirjain is a letter of the alphabet, and kirjoittaa means to write. It is distantly related to the same Old Germanic roots that give English \"script\" its flavor, and it seeds a whole family of literacy-related words."
+        }
+      ],
+      "translationShort": "yearbook, annual",
+      "translationLong": "yearbook, annual report, almanac",
+      "exampleSentence": "Koulu julkaisee vuosikirjan joka kevät.",
+      "exampleTranslation": "The school publishes a yearbook every spring."
+    },
+    {
+      "id": "vuosikymmen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vuosi",
+          "homeLang": "year",
+          "homeLangDetails": "Vuosi is the Finnish word for year, and it appears in a cluster of very high-frequency words. Uusivuosi (New Year), vuosipäivä (anniversary, \"year-day\"), and vuosikerta (annual issue, vintage) all contain it. The stem shifts to vuode- in some compound forms, which can catch learners off guard, but the meaning never wavers."
+        },
+        {
+          "targetLang": "kymmen",
+          "homeLang": "ten",
+          "homeLangDetails": "Kymmen means 'ten'. It appears in Finnish numbers: kymmenen (of ten), kaksikymmentä (twenty). So vuosikymmen is literally 'ten-year' — a decade."
+        }
+      ],
+      "translationShort": "decade",
+      "translationLong": "decade, ten-year period",
+      "exampleSentence": "Paljon on muuttunut viimeisen vuosikymmenen aikana.",
+      "exampleTranslation": "A lot has changed over the last decade."
+    },
+    {
+      "id": "maanviljelijä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "maan",
+          "homeLang": "of the land/earth",
+          "homeLangDetails": "Genitive form of maa (land, earth, country). In this compound maan specifies 'of the land' — the kind of cultivation involved is of the earth itself, i.e. farming."
+        },
+        {
+          "targetLang": "viljeli",
+          "homeLang": "cultivate, farm",
+          "homeLangDetails": "From viljellä (to cultivate, to till). The stem viljeli- is the past tense/infinitive stem used as a base for the agent noun. Viljellä is related to vilja (grain, crops)."
+        },
+        {
+          "targetLang": "jä",
+          "homeLang": "doer, agent",
+          "homeLangDetails": "This is Finnish's answer to English \"-er\" as in \"someone who does X\". It attaches to verb stems to make nouns for people or things that perform an action. A laulaja is a singer (laulaa, to sing), an opettaja is a teacher (opettaa, to teach), and an ajaja is a driver. Super consistent and very handy."
+        }
+      ],
+      "translationShort": "farmer",
+      "translationLong": "farmer, agricultural worker, cultivator",
+      "exampleSentence": "Maanviljelijä korjasi sadon syksyllä.",
+      "exampleTranslation": "The farmer harvested the crop in autumn."
+    },
+    {
+      "id": "maanomistaja",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "maan",
+          "homeLang": "of the land/earth",
+          "homeLangDetails": "Genitive form of maa (land, earth, country). Here it specifies what is owned: maan = of the land."
+        },
+        {
+          "targetLang": "omista",
+          "homeLang": "own, possess",
+          "homeLangDetails": "From omistaa (to own, to possess). The stem omista- forms the base of the agent noun. Related to oma (own, one's own)."
+        },
+        {
+          "targetLang": "ja",
+          "homeLang": "doer, agent",
+          "homeLangDetails": "This is Finnish's answer to English \"-er\" as in \"someone who does X\". It attaches to verb stems to make nouns for people or things that perform an action. A laulaja is a singer (laulaa, to sing), an opettaja is a teacher (opettaa, to teach), and an ajaja is a driver. Super consistent and very handy."
+        }
+      ],
+      "translationShort": "landowner",
+      "translationLong": "landowner, land proprietor",
+      "exampleSentence": "Maanomistaja antoi luvan rakentaa tielle.",
+      "exampleTranslation": "The landowner gave permission to build on the road."
+    },
+    {
+      "id": "maisemallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "maisema",
+          "homeLang": "landscape, scenery",
+          "homeLangDetails": "The root word for landscape or scenery in Finnish. It appears in words like maisemakuva (landscape picture) and maisemointi (landscaping)."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "scenic, landscape-related",
+      "translationLong": "scenic, picturesque, relating to landscape",
+      "exampleSentence": "Suomi on maisemallisesti upea maa.",
+      "exampleTranslation": "Finland is a scenically stunning country."
+    },
+    {
+      "id": "mielenkiintoinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "miele",
+          "homeLang": "mind, interest",
+          "homeLangDetails": "A genitive-inflected form of mieli (mind, mood, interest). In this compound it contributes the sense of 'mental engagement' or 'catching the mind.'"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(genitive linking)",
+          "homeLangDetails": "The genitive suffix -n, which links the first element mieli to the second in a compound, meaning roughly 'of the mind.'"
+        },
+        {
+          "targetLang": "kiinto",
+          "homeLang": "attachment, attraction",
+          "homeLangDetails": "From kiintyä/kiinnittää (to become attached, to fix). In this compound it conveys the idea of the mind being 'hooked' or drawn to something."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "interesting",
+      "translationLong": "interesting, fascinating, intriguing",
+      "exampleSentence": "Tämä kirja on todella mielenkiintoinen.",
+      "exampleTranslation": "This book is really interesting."
+    },
+    {
+      "id": "mielipide",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mieli",
+          "homeLang": "mind, opinion",
+          "homeLangDetails": "Mieli means \"mind\" or \"mood,\" and it's one of the most versatile roots in Finnish emotional and mental vocabulary. Mielipide (opinion, \"mind-side\"), mielenkiintoinen (interesting, \"mind-catching\"), and mielenterveys (mental health) all carry it. If a word has mieli- in it, you can bet it's about thoughts, feelings, or attitude."
+        },
+        {
+          "targetLang": "pide",
+          "homeLang": "hold, keep",
+          "homeLangDetails": "From pitää (to hold, to keep). Together with mieli it forms 'a holding of the mind' — that is, a view or position you hold. Compare English 'to hold an opinion.'"
+        }
+      ],
+      "translationShort": "opinion",
+      "translationLong": "opinion, view, standpoint",
+      "exampleSentence": "Mikä on sinun mielipiteesi tästä asiasta?",
+      "exampleTranslation": "What is your opinion on this matter?"
+    },
+    {
+      "id": "mielenterveys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mielen",
+          "homeLang": "of the mind",
+          "homeLangDetails": "The genitive form of mieli (mind). The genitive links the first element to the second, meaning 'health of the mind.'"
+        },
+        {
+          "targetLang": "terveys",
+          "homeLang": "health",
+          "homeLangDetails": "From terve (healthy) plus the abstract noun suffix -ys/-eys. The same root appears in tervehtiä (to greet, literally 'to wish health') and terveystarkastus (health check)."
+        }
+      ],
+      "translationShort": "mental health",
+      "translationLong": "",
+      "exampleSentence": "Mielenterveys on yhtä tärkeää kuin fyysinen terveys.",
+      "exampleTranslation": "Mental health is just as important as physical health."
+    },
+    {
+      "id": "mielivaltainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mieli",
+          "homeLang": "mind, will",
+          "homeLangDetails": "Mieli means \"mind\" or \"mood,\" and it's one of the most versatile roots in Finnish emotional and mental vocabulary. Mielipide (opinion, \"mind-side\"), mielenkiintoinen (interesting, \"mind-catching\"), and mielenterveys (mental health) all carry it. If a word has mieli- in it, you can bet it's about thoughts, feelings, or attitude."
+        },
+        {
+          "targetLang": "valta",
+          "homeLang": "power, rule",
+          "homeLangDetails": "A core Finnish root meaning power or authority. It appears in valtio (state/nation), valtakunta (kingdom), and hallitusvalta (governmental power). Here it combines with mieli to mean 'power of the will alone' — doing as one pleases without constraint."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "arbitrary",
+      "translationLong": "arbitrary, capricious, willful",
+      "exampleSentence": "Päätös tuntui täysin mielivaltaiselta.",
+      "exampleTranslation": "The decision felt completely arbitrary."
+    },
+    {
+      "id": "tekeminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "teke",
+          "homeLang": "do, make",
+          "homeLangDetails": "From the verb tehdä (to do/make), this root appears in compounds about actions and deeds. Teko on its own means \"an act\" or \"deed,\" and you'll find it in tekoäly (artificial intelligence, literally \"made intelligence\"), tekotapa (method of doing), and kotitekoinen (homemade). It's a great root to recognize because it signals human activity or manufacture."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "verbal noun",
+          "homeLangDetails": "Finnish turns verbs into nouns by adding -minen, similar to English \"-ing\" as a gerund. Syöminen means eating (syödä, to eat), juominen means drinking, and nukkuminen means sleeping. These nouns are everywhere in conversation and writing."
+        }
+      ],
+      "translationShort": "doing, making",
+      "translationLong": "doing, making, the act of doing",
+      "exampleSentence": "Minulla on paljon tekemistä tänään.",
+      "exampleTranslation": "I have a lot to do today."
+    },
+    {
+      "id": "tekoäly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "teko",
+          "homeLang": "doing, making, action",
+          "homeLangDetails": "The nominal form of tehdä (to do, to make), conveying something made or done artificially. Teko on its own can mean 'deed' or 'act,' and in compounds it often carries the sense of 'artificial' or 'man-made,' as in tekonahka (artificial leather) or tekoallas (artificial pool)."
+        },
+        {
+          "targetLang": "äly",
+          "homeLang": "intelligence, wit",
+          "homeLangDetails": "A Finnish root meaning intelligence, cleverness, or wit. It appears in älykas (smart), älypuhelin (smartphone — literally 'intelligence phone'), and älykkäys (intelligence as a quality)."
+        }
+      ],
+      "translationShort": "artificial intelligence",
+      "translationLong": "artificial intelligence, AI",
+      "exampleSentence": "Tekoäly muuttaa nopeasti työelämää.",
+      "exampleTranslation": "Artificial intelligence is rapidly changing working life."
+    },
+    {
+      "id": "yhdenvertaisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhden",
+          "homeLang": "one (genitive)",
+          "homeLangDetails": "The genitive form of yksi (one). In this compound it contributes the sense of 'being of one standing' — all counting as the same single level. Compare yhdenmukainen (uniform, conforming to one pattern)."
+        },
+        {
+          "targetLang": "vertai",
+          "homeLang": "equal, comparable",
+          "homeLangDetails": "From verrata (to compare) and vertainen (peer, equal). The stem vertai- conveys the idea of standing in comparison to others, being on the same level. See also vertailla (to compare), vertaisryhmä (peer group)."
+        },
+        {
+          "targetLang": "suus",
+          "homeLang": "result, state, abstract noun",
+          "homeLangDetails": "A variant of the abstract noun suffix -us/-ys, used after the stem ending. It turns the adjectival idea of 'being equal' into the noun 'equality' as a state or condition."
+        }
+      ],
+      "translationShort": "equality",
+      "translationLong": "equality, equal treatment, non-discrimination",
+      "exampleSentence": "Yhdenvertaisuus on keskeinen ihmisoikeus.",
+      "exampleTranslation": "Equality is a fundamental human right."
+    },
+    {
+      "id": "yhteiskunnallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhteis",
+          "homeLang": "common, shared, joint",
+          "homeLangDetails": "From yhteinen (common, shared), itself built on yhte- (together). This is the combining form used in compound words, appearing also in yhteistyö (cooperation), yhteisö (community), and yhteisomistus (co-ownership)."
+        },
+        {
+          "targetLang": "kunta",
+          "homeLang": "community, municipality",
+          "homeLangDetails": "A root meaning an organized community or administrative unit. It appears in kunta (municipality), maakunta (region/county), and is the second element of yhteiskunta (society). Originally it conveyed the idea of a collective governed body."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "social, societal",
+      "translationLong": "social, societal, relating to society",
+      "exampleSentence": "Koulutus on tärkeä yhteiskunnallinen investointi.",
+      "exampleTranslation": "Education is an important societal investment."
+    },
+    {
+      "id": "yhteiskunta",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yhteis",
+          "homeLang": "common, shared, joint",
+          "homeLangDetails": "From yhteinen (common, shared), built on yhte- (together). The combining form used in compounds; see also yhteistyö (cooperation) and yhteisö (community)."
+        },
+        {
+          "targetLang": "kunta",
+          "homeLang": "community, municipality",
+          "homeLangDetails": "An organized community or administrative unit. On its own, kunta means municipality. Together with yhteis- it forms the word for the largest organized community of all: society itself."
+        }
+      ],
+      "translationShort": "society",
+      "translationLong": "society, community",
+      "exampleSentence": "Jokainen voi vaikuttaa yhteiskuntaan.",
+      "exampleTranslation": "Everyone can influence society."
+    },
+    {
+      "id": "perheellinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "perhe",
+          "homeLang": "family",
+          "homeLangDetails": "The core Finnish word for family. It appears in compounds like perheenjäsen (family member), perheenäiti (mother of the family), and perheenisä (father of the family)."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "Here it specifically means 'having a family' — a person who has a family, especially one with children. Compare lapsellinen (childish, or having children), taloudellinen (economic, or having means)."
+        }
+      ],
+      "translationShort": "having a family",
+      "translationLong": "having a family, with a family (especially children)",
+      "exampleSentence": "Perheellinen henkilö tarvitsee joustavia työaikoja.",
+      "exampleTranslation": "A person with a family needs flexible working hours."
+    },
+    {
+      "id": "perheettömyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "perhe",
+          "homeLang": "family"
+        },
+        {
+          "targetLang": "ttömyys",
+          "homeLang": "without, -lessness",
+          "homeLangDetails": "A combination of the suffix -ton/-tön (without, lacking) and the abstract noun suffix -us/-ys, together forming -ttomuus/-ttömyys. This pattern converts 'without a family' into the noun 'the state of being without a family.' The same pattern appears in kodittomuus (homelessness) and yksinäisyys (loneliness)."
+        }
+      ],
+      "translationShort": "being without a family",
+      "translationLong": "familylessness, the state of having no family",
+      "exampleSentence": "Hän kirjoitti esseensä vapaaehtoisen perheettömyyden syistä.",
+      "exampleTranslation": "She wrote her essay on the reasons for voluntary familylessness."
+    },
+    {
+      "id": "perheenäiti",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "perheen",
+          "homeLang": "of the family",
+          "homeLangDetails": "The genitive form of perhe (family). The genitive -n links the first element to the second, as in 'mother of the family.' This genitive-linking pattern is very common in Finnish family compounds: perheenisä (father of the family), perheenpää (head of the family)."
+        },
+        {
+          "targetLang": "äiti",
+          "homeLang": "mother"
+        }
+      ],
+      "translationShort": "mother of the family",
+      "translationLong": "family mother, mother of the household",
+      "exampleSentence": "Perheenäiti järjesti koko perheen retkelle.",
+      "exampleTranslation": "The mother of the family organized a trip for the whole family."
+    },
+    {
+      "id": "perheenpää",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "perheen",
+          "homeLang": "of the family",
+          "homeLangDetails": "The genitive form of perhe (family), linking the two parts of the compound. The same genitive-linking pattern appears in perheenäiti (mother of the family) and perheenisä (father of the family)."
+        },
+        {
+          "targetLang": "pää",
+          "homeLang": "main, head, chief",
+          "homeLangDetails": "Literally 'head,' used both anatomically and metaphorically for the leader or chief of something. As a compound element it appears in pääkaupunki (capital city — head city), päätös (decision — head-act), and pääministeri (prime minister)."
+        }
+      ],
+      "translationShort": "head of the family",
+      "translationLong": "head of the family, head of household",
+      "exampleSentence": "Perinteisesti perheenpää teki suuret taloudelliset päätökset.",
+      "exampleTranslation": "Traditionally, the head of the family made the major financial decisions."
+    },
+    {
+      "id": "kotitalous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "koti",
+          "homeLang": "home",
+          "homeLangDetails": "The Finnish word for home (as opposed to talo, which means the building/house). It appears in compounds like kotimainen (domestic, homegrown), kotisivu (homepage), and kotitekoinen (homemade)."
+        },
+        {
+          "targetLang": "talous",
+          "homeLang": "economy, household management",
+          "homeLangDetails": "From talo (house/building) plus the abstract noun suffix -us, literally 'the running of a house.' On its own, talous means both 'economy' (national or otherwise) and 'household management.' The connection to talo reflects the original Greek idea behind 'economy' (oikos + nomos = household law)."
+        }
+      ],
+      "translationShort": "household, home economics",
+      "translationLong": "household, domestic economy, home economics",
+      "exampleSentence": "Kotitalousopetus opettaa lapsille käytännön taitoja.",
+      "exampleTranslation": "Home economics education teaches children practical skills."
+    },
+    {
+      "id": "kotimainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "koti",
+          "homeLang": "home"
+        },
+        {
+          "targetLang": "maa",
+          "homeLang": "land, country",
+          "homeLangDetails": "Maa means land, country, or earth, and it's everywhere in Finnish geography and culture. Suomenmaa (the land of Finland), maailma (world, literally \"land-air/space\"), and maanantai (Monday, \"earth-day\" from an old Norse borrowing pattern) all carry it. Spotting maa- in a word almost always points you toward something geographical or elemental."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to",
+          "homeLangDetails": "The -inen suffix forms adjectives meaning 'made of' or 'relating to.' Here it turns 'home-land' into the adjective 'domestic' or 'native.'"
+        }
+      ],
+      "translationShort": "domestic, native",
+      "translationLong": "domestic, homegrown, native (of one's own country)",
+      "exampleSentence": "Suosin kotimaisia tuotteita kaupassa.",
+      "exampleTranslation": "I prefer domestic products at the store."
+    },
+    {
+      "id": "kotiseudullinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "koti",
+          "homeLang": "home"
+        },
+        {
+          "targetLang": "seudu",
+          "homeLang": "region, area",
+          "homeLangDetails": "From seutu (region, district, area). In compounds it appears in its genitive/stem form seudu-."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "regional, local",
+      "translationLong": "relating to one's home region or local area",
+      "exampleSentence": "Kotiseudullinen kulttuuri on tärkeä osa identiteettiä.",
+      "exampleTranslation": "Local regional culture is an important part of identity."
+    },
+    {
+      "id": "liikenneasema",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liikenne",
+          "homeLang": "traffic, transit"
+        },
+        {
+          "targetLang": "asema",
+          "homeLang": "station, position"
+        }
+      ],
+      "translationShort": "traffic station, bus station",
+      "translationLong": "transit station, bus/coach station, transport hub",
+      "exampleSentence": "Tapaamme liikenneasemalla kello kolme.",
+      "exampleTranslation": "We'll meet at the bus station at three o'clock.",
+      "flag": "only 2 parts — both are full independent words compounded directly"
+    },
+    {
+      "id": "liikenneturvallisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liikenne",
+          "homeLang": "traffic, transit"
+        },
+        {
+          "targetLang": "turva",
+          "homeLang": "safety, security"
+        },
+        {
+          "targetLang": "llisuus",
+          "homeLang": "having quality of + state",
+          "homeLangDetails": "This is a fusion of two suffixes: -llinen (having the quality of) and -uus (abstract noun suffix, like English -ness). Together they turn a noun into an abstract quality noun, e.g., turvallinen (safe) → turvallisuus (safety)."
+        }
+      ],
+      "translationShort": "traffic safety",
+      "translationLong": "road safety, traffic safety",
+      "exampleSentence": "Liikenneturvallisuus paranee uusien sääntöjen myötä.",
+      "exampleTranslation": "Traffic safety improves with the new rules."
+    },
+    {
+      "id": "liikelaitos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liike",
+          "homeLang": "business, movement"
+        },
+        {
+          "targetLang": "laitos",
+          "homeLang": "institution, establishment"
+        }
+      ],
+      "translationShort": "public enterprise",
+      "translationLong": "municipal enterprise, public business entity",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "liiketoiminta",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liike",
+          "homeLang": "business, movement"
+        },
+        {
+          "targetLang": "toiminta",
+          "homeLang": "activity, operation",
+          "homeLangDetails": "From toimia (to act, to function) + -nta, a suffix forming action nouns. Toiminta means 'activity' or 'operation' on its own."
+        }
+      ],
+      "translationShort": "business activity",
+      "translationLong": "business, commerce, business operations",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "isänmaallinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "isä",
+          "homeLang": "father"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(genitive)",
+          "homeLangDetails": "The genitive suffix -n, linking isä (father) to maa (land/country). The compound isänmaa literally means 'father's land,' i.e., fatherland."
+        },
+        {
+          "targetLang": "maa",
+          "homeLang": "land, country",
+          "homeLangDetails": "Maa means land, country, or earth, and it's everywhere in Finnish geography and culture. Suomenmaa (the land of Finland), maailma (world, literally \"land-air/space\"), and maanantai (Monday, \"earth-day\" from an old Norse borrowing pattern) all carry it. Spotting maa- in a word almost always points you toward something geographical or elemental."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "patriotic",
+      "translationLong": "patriotic, of the fatherland",
+      "exampleSentence": "Hän piti isänmaallisen puheen itsenäisyyspäivänä.",
+      "exampleTranslation": "He gave a patriotic speech on Independence Day."
+    },
+    {
+      "id": "isänmaallisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "isä",
+          "homeLang": "father"
+        },
+        {
+          "targetLang": "n",
+          "homeLang": "(genitive)",
+          "homeLangDetails": "The genitive suffix -n, linking isä (father) to maa (land). Together isänmaa means 'fatherland.'"
+        },
+        {
+          "targetLang": "maa",
+          "homeLang": "land, country",
+          "homeLangDetails": "Maa means land, country, or earth, and it's everywhere in Finnish geography and culture. Suomenmaa (the land of Finland), maailma (world, literally \"land-air/space\"), and maanantai (Monday, \"earth-day\" from an old Norse borrowing pattern) all carry it. Spotting maa- in a word almost always points you toward something geographical or elemental."
+        },
+        {
+          "targetLang": "llisuus",
+          "homeLang": "having quality of + state",
+          "homeLangDetails": "A fusion of -llinen (having the quality of) and -uus (abstract noun, like English -ness). Turns the adjective isänmaallinen (patriotic) into the noun isänmaallisuus (patriotism)."
+        }
+      ],
+      "translationShort": "patriotism",
+      "translationLong": "patriotism, love of one's country",
+      "exampleSentence": "Isänmaallisuus ei tarkoita muiden maiden halveksimista.",
+      "exampleTranslation": "Patriotism does not mean looking down on other countries."
+    },
+    {
+      "id": "kestävyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kestä",
+          "homeLang": "endure, last",
+          "homeLangDetails": "From the verb kestää (to last, to endure, to withstand). This is the verb stem that forms the basis for kestävä (durable, sustainable)."
+        },
+        {
+          "targetLang": "vyys",
+          "homeLang": "state, quality",
+          "homeLangDetails": "A fusion of -vä (participial/adjectival suffix, forming kestävä = lasting/durable) and -yys (abstract noun suffix equivalent to English -ness). Together they turn the verb kestää into the noun kestävyys (durability, sustainability)."
+        }
+      ],
+      "translationShort": "sustainability, durability",
+      "translationLong": "endurance, durability, sustainability, resilience",
+      "exampleSentence": "Kestävyys on tärkeä arvo ympäristöpolitiikassa.",
+      "exampleTranslation": "Sustainability is an important value in environmental policy."
+    },
+    {
+      "id": "kestävällinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kestä",
+          "homeLang": "endure, last",
+          "homeLangDetails": "From kestää (to last, to endure). The stem underlying kestävä (lasting, durable)."
+        },
+        {
+          "targetLang": "vä",
+          "homeLang": "(participial adjective)",
+          "homeLangDetails": "The active participle suffix -vä/-vä, forming kestävä (lasting, enduring). Think of it like English '-ing' used as an adjective: 'lasting.'"
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "sustainable, enduring",
+      "translationLong": "sustainable, durable, lasting",
+      "exampleSentence": "Haluamme rakentaa kestävällisen tulevaisuuden.",
+      "exampleTranslation": "We want to build a sustainable future."
+    },
+    {
+      "id": "sähkölaitos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sähkö",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "laitos",
+          "homeLang": "institution, establishment"
+        }
+      ],
+      "translationShort": "power plant, electric utility",
+      "translationLong": "electric utility, power station, electricity company",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "sähköinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sähkö",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "electric, electronic",
+      "translationLong": "electric, electrical, electronic",
+      "exampleSentence": "Lähetä sähköinen lomake ennen määräaikaa.",
+      "exampleTranslation": "Submit the electronic form before the deadline."
+    },
+    {
+      "id": "sähköttömyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sähkö",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "ttömyys",
+          "homeLang": "without + state",
+          "homeLangDetails": "A fusion of -tön/-ttön (without, lacking — like English -less) and -yys (abstract noun suffix, like -ness). Together they form a noun meaning 'the state of being without electricity.' Compare: koditon (homeless) → kodittomuus (homelessness)."
+        }
+      ],
+      "translationShort": "lack of electricity",
+      "translationLong": "absence of electricity, power outage state",
+      "exampleSentence": "Pitkä sähköttömyys talvella voi olla vaarallista.",
+      "exampleTranslation": "A prolonged lack of electricity in winter can be dangerous."
+    },
+    {
+      "id": "ilmaisullinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilmaisu",
+          "homeLang": "expression",
+          "homeLangDetails": "From ilmaista (to express, to reveal) + -u, forming the action noun ilmaisu (expression, articulation). Related to ilma (air) in an older etymological sense of 'bringing into the open/air,' but in modern Finnish ilmaisu straightforwardly means expression or utterance."
+        },
+        {
+          "targetLang": "llinen",
+          "homeLang": "having quality of",
+          "homeLangDetails": "A very common suffix that creates adjectives meaning \"characterized by\" or \"having the quality of\", similar to English \"-ful\", \"-ly\", or \"-al\". Rakastavainen means loving, onnellinen means happy (onni, luck/happiness), and tavallinen means ordinary. It adds a sense of \"full of\" or \"in the manner of\"."
+        }
+      ],
+      "translationShort": "expressive",
+      "translationLong": "expressive, relating to expression",
+      "exampleSentence": "Hänen laulunsa oli hyvin ilmaisullinen.",
+      "exampleTranslation": "Her singing was very expressive."
+    },
+    {
+      "id": "ilmaisukyky",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilmaisu",
+          "homeLang": "expression",
+          "homeLangDetails": "From ilmaista (to express) + the action noun suffix -u. Ilmaisu means 'expression' or 'articulation' — the act of putting something into words or form."
+        },
+        {
+          "targetLang": "kyky",
+          "homeLang": "ability, capacity"
+        }
+      ],
+      "translationShort": "expressive ability",
+      "translationLong": "power of expression, expressive capacity, communicative ability",
+      "exampleSentence": "Kirjallisuus kehittää lapsen ilmaisukykyä.",
+      "exampleTranslation": "Literature develops a child's expressive ability.",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "puolueellinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puolue",
+          "homeLang": "party (political)",
+          "homeLangDetails": "The Finnish word for a political party. It derives from puoli (side, half), capturing the idea of taking a side. The root alone means 'party' as in a faction or group."
+        },
+        {
+          "targetLang": "ell",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "This -ell- element links the noun root to the -inen adjective suffix, forming an adjective meaning 'characterized by' or 'relating to.' It's a common bridging formant in Finnish adjective formation."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -ful",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "biased, partial",
+      "translationLong": "biased, partisan, partial, one-sided",
+      "exampleSentence": "Toimittajan kirjoitus tuntui puolueelliselta.",
+      "exampleTranslation": "The journalist's article felt biased."
+    },
+    {
+      "id": "puolueettomyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puolue",
+          "homeLang": "party (political)",
+          "homeLangDetails": "The Finnish word for a political party, from puoli (side). Here it provides the base meaning of 'taking sides.'"
+        },
+        {
+          "targetLang": "ton",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The -ton/-tön suffix negates the noun, producing the adjective 'puolueton' meaning 'without a party' — i.e., neutral or impartial."
+        },
+        {
+          "targetLang": "muus",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "This is the -uus/-yyS abstract noun suffix, here appearing as -muus after the -ton stem (puolueeton → puolueettomuus). It turns the adjective 'puolueetton' into the abstract noun 'neutrality' or 'impartiality.'"
+        }
+      ],
+      "translationShort": "neutrality, impartiality",
+      "translationLong": "neutrality, impartiality, nonpartisanship",
+      "exampleSentence": "Suomi on tunnettu puolueettomyudestaan kansainvälisissä konflikteissa.",
+      "exampleTranslation": "Finland is known for its neutrality in international conflicts."
+    },
+    {
+      "id": "puutalollinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puu",
+          "homeLang": "wood, tree"
+        },
+        {
+          "targetLang": "talo",
+          "homeLang": "house",
+          "homeLangDetails": "Talo means house, and this root appears across a big family of words about buildings and home life. Taloyhtiö is a housing company, talous means household or economy, and talvi (winter) is a separate word but talo itself is everywhere. It is a great anchor word for domestic vocabulary."
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "A bridging element linking the compound noun puutalo to the -inen adjective suffix. Together with -inen it forms an adjective meaning 'having a wooden house' or 'pertaining to a wooden house.'"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having, relating to",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "having a wooden house",
+      "translationLong": "relating to or owning a wooden house",
+      "exampleSentence": "Puutalollinen perhe remontoi talonsa kesällä.",
+      "exampleTranslation": "The family with a wooden house renovated it in the summer.",
+      "flag": "4 parts — full decomposition retained for clarity"
+    },
+    {
+      "id": "puutalokylä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puu",
+          "homeLang": "wood, tree"
+        },
+        {
+          "targetLang": "talo",
+          "homeLang": "house",
+          "homeLangDetails": "Talo means house, and this root appears across a big family of words about buildings and home life. Taloyhtiö is a housing company, talous means household or economy, and talvi (winter) is a separate word but talo itself is everywhere. It is a great anchor word for domestic vocabulary."
+        },
+        {
+          "targetLang": "kylä",
+          "homeLang": "village"
+        }
+      ],
+      "translationShort": "wooden house village",
+      "translationLong": "a village of wooden houses",
+      "exampleSentence": "Vanha puutalokylä on suojeltu kulttuurihistoriallisesti.",
+      "exampleTranslation": "The old wooden house village is protected for its cultural history."
+    },
+    {
+      "id": "rautainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rauta",
+          "homeLang": "iron"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "made of, -en",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "iron, made of iron",
+      "translationLong": "made of iron; iron-willed, tough (figurative)",
+      "exampleSentence": "Hänellä on rautainen tahto menestyä.",
+      "exampleTranslation": "She has an iron will to succeed."
+    },
+    {
+      "id": "rautaisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rauta",
+          "homeLang": "iron"
+        },
+        {
+          "targetLang": "isuus",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "A compound suffix here: -is- is an adjectival/nominalizing formant, and -uus turns it into an abstract noun. Together they build on rauta to mean 'the quality of being iron-like' — toughness, resilience, steeliness."
+        }
+      ],
+      "translationShort": "iron quality, toughness",
+      "translationLong": "iron nature, toughness, steeliness, resilience",
+      "exampleSentence": "Urheilijan rautaisuus näkyi vaikeina hetkinä.",
+      "exampleTranslation": "The athlete's toughness showed in difficult moments."
+    },
+    {
+      "id": "vastuullinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vastuu",
+          "homeLang": "responsibility"
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "A bridging formant connecting the noun vastuu to the adjective-forming -inen suffix. The double -ll- is a surface feature of how Finnish links this noun type to -inen."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having, -ful",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "responsible, accountable",
+      "translationLong": "responsible, accountable, liable",
+      "exampleSentence": "Johtajan on oltava vastuullinen päätöksissään.",
+      "exampleTranslation": "A leader must be responsible in their decisions."
+    },
+    {
+      "id": "vastuullisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vastuu",
+          "homeLang": "responsibility"
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "A bridging formant connecting the noun vastuu to the adjectival chain. The double -ll- surfaces here as part of the vastuullinen → vastuullisuus derivation."
+        },
+        {
+          "targetLang": "isuus",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "A compound suffix: -is- (adjectival formant) + -uus (abstract noun). Together they turn the adjective vastuullinen into the abstract noun vastuullisuus, meaning 'the quality of being responsible.'"
+        }
+      ],
+      "translationShort": "responsibility, accountability",
+      "translationLong": "responsibility, accountability, sense of duty",
+      "exampleSentence": "Yritysten vastuullisuus on yhä tärkeämpää kuluttajille.",
+      "exampleTranslation": "Corporate responsibility is increasingly important to consumers."
+    },
+    {
+      "id": "vastuuttomuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "vastuu",
+          "homeLang": "responsibility"
+        },
+        {
+          "targetLang": "tto",
+          "homeLang": "without, -less",
+          "homeLangDetails": "This is the -ton/-tön 'without' suffix, appearing here as -tto- (geminated before the -muus ending). It negates vastuu to produce vastuuton, meaning 'irresponsible' or 'without responsibility.'"
+        },
+        {
+          "targetLang": "muus",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "The abstract noun suffix -uus/-yys, here appearing as -muus after the -tto- stem. It converts the adjective vastuuton into the abstract noun vastuuttomuus — 'the state of being irresponsible.'"
+        }
+      ],
+      "translationShort": "irresponsibility",
+      "translationLong": "irresponsibility, recklessness, lack of accountability",
+      "exampleSentence": "Hänen vastuuttomuutensa johti vakaviin seurauksiin.",
+      "exampleTranslation": "His irresponsibility led to serious consequences."
+    },
+    {
+      "id": "kuukausittainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kuukausi",
+          "homeLang": "month"
+        },
+        {
+          "targetLang": "tta",
+          "homeLang": "(distributive/iterative)",
+          "homeLangDetails": "The suffix -itta-/-ittä- signals a regularly recurring or distributive relationship — 'per month,' 'each month.' It's the same element seen in kuukausittain (monthly, adverb). Here it forms the base for the adjective."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -ly",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "monthly",
+      "translationLong": "monthly, occurring each month",
+      "exampleSentence": "Kuukausittainen kokous pidettiin maanantaina.",
+      "exampleTranslation": "The monthly meeting was held on Monday."
+    },
+    {
+      "id": "kuukausittain",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kuukausi",
+          "homeLang": "month"
+        },
+        {
+          "targetLang": "ttain",
+          "homeLang": "(each, per)",
+          "homeLangDetails": "The suffix -ittain/-ittäin forms distributive adverbs meaning 'per X' or 'X by X.' Kuukausittain means 'month by month' or 'monthly.' Compare: vuosittain (yearly), viikoittain (weekly), päivittäin (daily)."
+        }
+      ],
+      "translationShort": "monthly (adverb)",
+      "translationLong": "monthly, every month, on a monthly basis",
+      "exampleSentence": "Lasku maksetaan kuukausittain.",
+      "exampleTranslation": "The bill is paid monthly."
+    },
+    {
+      "id": "viikoittainen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "viiko",
+          "homeLang": "week",
+          "homeLangDetails": "The stem of viikko (week), appearing here as viiko- before the suffix. The geminate -kk- simplifies to -k- in this environment due to Finnish consonant gradation."
+        },
+        {
+          "targetLang": "tta",
+          "homeLang": "(distributive/iterative)",
+          "homeLangDetails": "The suffix -itta-/-ittä- signals regular recurrence — 'per week,' 'each week.' The same element appears in viikoittain (weekly adverb)."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -ly",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "weekly",
+      "translationLong": "weekly, occurring each week",
+      "exampleSentence": "Viikoittainen palaveri auttaa tiimiä pysymään ajan tasalla.",
+      "exampleTranslation": "The weekly meeting helps the team stay up to date."
+    },
+    {
+      "id": "päivittäinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "päivi",
+          "homeLang": "day",
+          "homeLangDetails": "The stem of päivä (day), appearing here as päivi- before the suffix. This vowel alternation (ä → i) is a regular feature of Finnish stem forms before certain suffixes."
+        },
+        {
+          "targetLang": "ttä",
+          "homeLang": "(distributive/iterative)",
+          "homeLangDetails": "The suffix -itta-/-ittä- (front-vowel harmony form) signals regular recurrence — 'per day,' 'each day.' The same element appears in päivittäin (daily adverb)."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -ly",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "daily",
+      "translationLong": "daily, everyday, occurring each day",
+      "exampleSentence": "Päivittäinen liikunta on tärkeää terveydelle.",
+      "exampleTranslation": "Daily exercise is important for health."
+    },
+    {
+      "id": "päivittäisyys",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "päivi",
+          "homeLang": "day",
+          "homeLangDetails": "The stem of päivä (day), with vowel alternation ä → i before the following suffix."
+        },
+        {
+          "targetLang": "ttäi",
+          "homeLang": "(distributive/iterative stem)",
+          "homeLangDetails": "The -ittä- distributive suffix, here retaining its -i- before the abstract noun ending. Together with päivi- it forms the base meaning 'daily-ness' — the quality of being everyday or recurring daily."
+        },
+        {
+          "targetLang": "syys",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "The abstract noun suffix -uus/-yys (here -syys in its front-vowel harmony form after a vowel). It turns the adjective päivittäinen into the abstract noun päivittäisyys — 'the quality or state of being daily or everyday.'"
+        }
+      ],
+      "translationShort": "dailiness, everyday quality",
+      "translationLong": "the quality of being daily, everydayness, routine nature",
+      "exampleSentence": "Työn päivittäisyys voi tuntua raskaalta.",
+      "exampleTranslation": "The daily routine of work can feel heavy."
+    },
+    {
+      "id": "suomalaisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suomi",
+          "homeLang": "Finland, Finnish",
+          "homeLangDetails": "Suomi is the Finnish name for Finland (and for the Finnish language). The stem appears here as suoma- before the suffix, a regular stem alternation."
+        },
+        {
+          "targetLang": "lainen",
+          "homeLang": "person from, -ian",
+          "homeLangDetails": "The suffix -lainen/-läinen forms words for people from a place or of a kind — suomalainen means 'a Finnish person' or 'Finnish.' It's the same suffix seen in helsinkiläinen (person from Helsinki) or eurooppalainen (European)."
+        },
+        {
+          "targetLang": "uus",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "The abstract noun suffix -uus/-yys, here turning the adjective/demonym suomalainen into the abstract noun suomalaisuus — 'Finnishness,' the quality or essence of being Finnish."
+        }
+      ],
+      "translationShort": "Finnishness",
+      "translationLong": "Finnishness, Finnish identity, the quality of being Finnish",
+      "exampleSentence": "Saunakulttuurin katsotaan kuuluvan suomalaisuuteen.",
+      "exampleTranslation": "Sauna culture is considered part of Finnish identity."
+    },
+    {
+      "id": "ruotsalaisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruots",
+          "homeLang": "Swedish",
+          "homeLangDetails": "The stem of 'ruotsi', the Finnish word for Sweden/Swedish. The same root appears in 'ruotsalainen' (a Swedish person)."
+        },
+        {
+          "targetLang": "alainen",
+          "homeLang": "person from, -ian",
+          "homeLangDetails": "The suffix -lainen/-läinen attaches to place or people names to form demonyms or adjectives of origin. Here it derives the adjective/noun 'ruotsalainen' (Swedish, a Swede) before the abstract suffix is added."
+        },
+        {
+          "targetLang": "uus",
+          "homeLang": "state, -ness",
+          "homeLangDetails": "Uusi means \"new,\" and in compounds it behaves a bit like English \"re-\" or \"neo-.\" Watch for uusvuosi (New Year), uusintа (repeat, rerun), and uudelleen (again, anew). The stem shifts to uude- in some forms, but the meaning stays rock solid."
+        }
+      ],
+      "translationShort": "Swedishness",
+      "translationLong": "Swedish identity, the quality of being Swedish",
+      "exampleSentence": "Hän pohti ruotsalaisuuden merkitystä identiteetilleen.",
+      "exampleTranslation": "She reflected on the meaning of Swedishness for her identity."
+    },
+    {
+      "id": "kielellinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kiel",
+          "homeLang": "language",
+          "homeLangDetails": "The stem of 'kieli' (language, tongue). The same root appears in 'kielioppi' (grammar) and 'kielitaito' (language proficiency)."
+        },
+        {
+          "targetLang": "ell",
+          "homeLang": "(stem extension)",
+          "homeLangDetails": "A linking or stem-extension element that appears between the root and the -inen suffix in many Finnish adjective derivations. It doesn't carry independent meaning but is required for the word to sound natural."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "relating to, -al",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "linguistic, language-related",
+      "translationLong": "linguistic, relating to language",
+      "exampleSentence": "Lapsilla on luontainen kielellinen lahjakkuus.",
+      "exampleTranslation": "Children have a natural linguistic talent."
+    },
+    {
+      "id": "kielellistyminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kiel",
+          "homeLang": "language",
+          "homeLangDetails": "The stem of 'kieli' (language, tongue). See also: kielellinen."
+        },
+        {
+          "targetLang": "ellist",
+          "homeLang": "(verbalizing stem)",
+          "homeLangDetails": "This element packages the adjective-forming suffix -ellinen together with a verbalizing -stua/-stya pattern into a single stem. The combined effect is 'become linguistic/language-like'. Finnish frequently builds multi-layer derivations like this before adding the verbal noun ending."
+        },
+        {
+          "targetLang": "yminen",
+          "homeLang": "becoming, process of",
+          "homeLangDetails": "A fusion of the reflexive/inchoative verbal suffix -uminenn/-yminen, forming a verbal noun meaning 'the process of becoming'. Here the full ending is -yminen, indicating an intransitive 'becoming' process."
+        }
+      ],
+      "translationShort": "linguistification, becoming linguistic",
+      "translationLong": "the process of becoming expressed in language, linguistification",
+      "exampleSentence": "Tunteiden kielellistyminen on tärkeä osa terapiaa.",
+      "exampleTranslation": "The linguistification of emotions is an important part of therapy.",
+      "flag": "complex layered derivation; 3 parts used but internal structure is deeply layered"
+    },
+    {
+      "id": "osaavuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "osa",
+          "homeLang": "part, share",
+          "homeLangDetails": "The root 'osa' means 'part' or 'share', but in verb form 'osata' it means 'to know how, to be able'. This word derives from the participial stem 'osaava' (able, competent), so the meaning is grounded in the verbal sense."
+        },
+        {
+          "targetLang": "av",
+          "homeLang": "(participial stem)",
+          "homeLangDetails": "From the present active participle suffix -ava/-ävä, meaning 'one who does / doing'. 'Osaava' means 'competent, skilled'. The -a drops before -uus."
+        },
+        {
+          "targetLang": "uus",
+          "homeLang": "state, -ness",
+          "homeLangDetails": "Uusi means \"new,\" and in compounds it behaves a bit like English \"re-\" or \"neo-.\" Watch for uusvuosi (New Year), uusintа (repeat, rerun), and uudelleen (again, anew). The stem shifts to uude- in some forms, but the meaning stays rock solid."
+        }
+      ],
+      "translationShort": "competence, skill",
+      "translationLong": "competence, capability, skillfulness",
+      "exampleSentence": "Hakijan osaavuus vakuutti rekrytoijan.",
+      "exampleTranslation": "The applicant's competence convinced the recruiter."
+    },
+    {
+      "id": "osallisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "osa",
+          "homeLang": "part, share"
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(stem extension)",
+          "homeLangDetails": "A linking element that appears in Finnish derivations between a noun stem and adjectival or abstract suffixes. 'Osallinen' (partaking, involved) is formed with -llinen on the root 'osa'. The double-l here is part of that intermediate adjectival stem."
+        },
+        {
+          "targetLang": "isuus",
+          "homeLang": "state, quality of",
+          "homeLangDetails": "A fusion of the adjectival suffix -inen and the abstract noun suffix -uus, yielding '-ness' or 'the quality of being'. Compare: 'osallinen' (adjective: involved) → 'osallisuus' (noun: involvement, participation)."
+        }
+      ],
+      "translationShort": "participation, inclusion",
+      "translationLong": "participation, inclusion, sense of belonging",
+      "exampleSentence": "Lasten osallisuus päätöksenteossa on tärkeää.",
+      "exampleTranslation": "Children's participation in decision-making is important."
+    },
+    {
+      "id": "osattomuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "osa",
+          "homeLang": "part, share"
+        },
+        {
+          "targetLang": "tt",
+          "homeLang": "without, -less",
+          "homeLangDetails": "The privative suffix -ton/-tön (without, lacking) appears here in its geminated/consonant-gradated form -tt- before the abstract ending. The full underlying form is 'osa' + 'ton' → 'osaton' (having no share, excluded), which then takes -uus."
+        },
+        {
+          "targetLang": "omuus",
+          "homeLang": "state, -ness",
+          "homeLangDetails": "The abstract noun ending -uus/-yys attached to the privative adjective stem. The -o- is a stem vowel from the -ton suffix grade. Together -omuus signals 'the state of being without'."
+        }
+      ],
+      "translationShort": "exclusion, lack of participation",
+      "translationLong": "exclusion, marginalization, lack of share or participation",
+      "exampleSentence": "Osattomuus yhteiskunnasta voi johtaa syrjäytymiseen.",
+      "exampleTranslation": "Exclusion from society can lead to marginalization."
+    },
+    {
+      "id": "tunnollisuus",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tunn",
+          "homeLang": "conscience, feeling",
+          "homeLangDetails": "The stem of 'tunto' (feeling, sense, touch) or 'tunne' (emotion), here in the sense underlying 'tunnollinen' (conscientious). The moral sense 'conscience' is built on the idea of inner feeling or sensitivity."
+        },
+        {
+          "targetLang": "oll",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "Part of the -ollinen/-öllinen adjectival suffix complex, forming 'tunnollinen' (conscientious). This linking element connects the root to the abstract suffix."
+        },
+        {
+          "targetLang": "isuus",
+          "homeLang": "state, quality of",
+          "homeLangDetails": "Fusion of -inen and -uus, converting the adjective 'tunnollinen' into an abstract noun. See also: osallisuus."
+        }
+      ],
+      "translationShort": "conscientiousness",
+      "translationLong": "conscientiousness, diligence, sense of duty",
+      "exampleSentence": "Hänen tunnollisuutensa työssä on kaikkien tiedossa.",
+      "exampleTranslation": "His conscientiousness at work is known to everyone."
+    },
+    {
+      "id": "tunnollinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tunn",
+          "homeLang": "conscience, feeling",
+          "homeLangDetails": "The stem of 'tunto' (feeling, sense) or 'tunne' (emotion). In 'tunnollinen' the meaning has shifted toward moral inner sense — the kind of feeling that keeps you honest and dutiful, i.e. conscience."
+        },
+        {
+          "targetLang": "oll",
+          "homeLang": "(stem extension)",
+          "homeLangDetails": "A linking/extension element between the noun stem and the adjectival suffix -inen. It appears in several Finnish adjectives derived from feeling- or state-nouns (compare: 'vastuullinen' from 'vastuu')."
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having quality of, -ous",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "conscientious, diligent",
+      "translationLong": "conscientious, thorough, dutiful",
+      "exampleSentence": "Hän on tunnollinen opiskelija, joka tekee aina läksynsä.",
+      "exampleTranslation": "She is a conscientious student who always does her homework."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "words": [
+    {
+      "id": "opslaan",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "op",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "slaan",
+          "homeLang": "strike/store",
+          "homeLangDetails": "Literally 'to strike' or 'to beat', but in compounds with 'op-' it takes on the meaning of storing or laying up — like stacking things up. The same shift happens in 'opslagplaats' (storage place). Think of it as 'laying up' rather than hitting."
+        }
+      ],
+      "translationShort": "to save, store",
+      "translationLong": "to save, to store, to stock",
+      "exampleSentence": "Vergeet niet je document op te slaan.",
+      "exampleTranslation": "Don't forget to save your document.",
+      "flag": "only 2 parts — 'opslaan' is a separable verb where 'slaan' is the full infinitive form, so no separate infinitive suffix is added"
+    },
+    {
+      "id": "boodschappenwagen",
+      "article": "de",
+      "parts": [
+        {
+          "targetLang": "boodschappen",
+          "homeLang": "groceries / errands"
+        },
+        {
+          "targetLang": "wagen",
+          "homeLang": "wagon / cart"
+        }
+      ],
+      "translationShort": "shopping cart",
+      "translationLong": "shopping cart, grocery trolley",
+      "exampleSentence": "Ze vulde de boodschappenwagen met groenten en fruit.",
+      "exampleTranslation": "She filled the shopping cart with vegetables and fruit.",
+      "flag": "only 2 parts but 'boodschappen' is itself a compound (boodschap + -en plural); flagging as boodschappen is treated as a single unit here"
+    },
+    {
+      "id": "bezitter",
+      "article": "de",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "makes verb transitive",
+          "homeLangDetails": "This prefix turns intransitive verbs or nouns into transitive verbs, similar to how English sometimes uses \"be-\" in words like \"befriend.\" It often adds a sense of acting on something: \"betalen\" (to pay), \"bezoeken\" (to visit), \"beginnen\" (to begin). It is extremely common and gives many Dutch verbs their characteristic shape."
+        },
+        {
+          "targetLang": "zit",
+          "homeLang": "sit/hold"
+        },
+        {
+          "targetLang": "t",
+          "homeLang": "(verb stem)"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er (person)",
+          "homeLangDetails": "These two variants form agent nouns, exactly like English \"-er\" in \"teacher\" or \"worker.\" The choice between them depends on the verb ending, but the meaning is always the same: \"leraar\" (teacher), \"werker\" (worker), \"bakker\" (baker). If you see a Dutch noun ending in \"-er\" or \"-aar,\" there is a good chance it names a person defined by what they do."
+        }
+      ],
+      "translationShort": "owner, possessor",
+      "translationLong": "owner, possessor, holder",
+      "exampleSentence": "Hij is de bezitter van een groot huis.",
+      "exampleTranslation": "He is the owner of a large house.",
+      "flag": "5 parts — be- (transitivizing) + zit (sit/hold) + t (stem marker) + er (agent)"
+    }
+  ]
+}

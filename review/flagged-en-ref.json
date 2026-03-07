@@ -1,0 +1,378 @@
+[
+  {
+    "word": "injection",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The prefix 'in' should be split into its component parts: 'in-' (prefix meaning 'in/into') is correct, but the gloss 'in-/not or into' conflates two distinct uses. The 'not' sense (negation) is a separate homonym and shouldn't be grouped with the locative 'into' sense in a single morpheme entry.",
+    "suggestion": "Either clarify that this entry covers only the locative/directional 'in-/into' sense, or create separate entries for the two distinct prefix meanings",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "contradiction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'contra' should be split further. 'Contra' itself contains 'con-' (together/against) + '-tra' (across), but more importantly, the split 'contra + dict + ion' obscures the actual structure: the root is 'dict' (say), and 'contradict' is the verb stem before '-ion' is added. The entry treats 'contra' as a single indivisible prefix when it could be analyzed more precisely.",
+    "suggestion": "Consider whether to represent this as 'contra- + dict + -ion' with clearer delineation, or add a note that 'contra-' is a bound prefix unit in English despite its Latin composition",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' does not mean 'say' in the context of jurisdiction. The root is 'dicere' (Latin: to speak/say), but in 'jurisdiction' the relevant root is 'iurisdictio' from 'iuris' (law) + 'dicere' (to speak). However, 'dict' here comes from Latin 'dictio' meaning 'speaking' or 'pronouncement,' not a direct synonym of 'say' that would be transparent to learners.",
+    "suggestion": "Consider revising to 'dict' = 'speak/pronounce' or 'diction' to better reflect the etymological sense in legal pronouncements, or split as 'juris' (law) + 'diction' (speaking/pronouncement).",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix is split as 'ion' separately, but in English it should be 'tion' as a single morpheme unit. The 'ion' without the preceding 't' is incomplete.",
+    "suggestion": "Combine parts[1] and parts[2] as a single suffix: 'diction' (homeLang: 'speaking/pronouncement') and 'tion' (homeLang: 'action/state'), or adjust to show 'tion' as the complete suffix.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "transportation",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix is split as 'ation' but should be 'ation' as presented. However, reviewing the split: 'trans' + 'port' + 'ation' is correct, but 'ation' is typically analyzed as 'a' + 'tion'. The current split is acceptable but 'ation' could be more clearly marked.",
+    "suggestion": "No change needed if 'ation' is treated as a single nominalizing suffix. Entry is acceptable as-is.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "importation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im' is glossed as 'in-/not or into' but this is misleading. In 'importation,' 'im' is actually the Latin prefix 'in-' meaning 'into,' not a negation. The 'or' choice and inclusion of 'not' conflates the homophone 'im-' (negation, as in 'impatient') with the prefix here, which has a different origin and meaning.",
+    "suggestion": "Change 'im' homeLang to 'into' or 'in' (clarifying that this is the positional prefix, not the negative prefix).",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'press' is glossed as 'press' (the verb), but in 'expression' it comes from Latin 'premere' (to press/squeeze), and the suffix should be 'sion' not 'ion'. The entry splits it as 'press + ion' when it should be 'express + ion' or recognize 'press' derives from a different root.",
+    "suggestion": "Either split as 'ex + press + ion' with 'press' meaning 'squeeze/force out' (from Latin premere), or recognize this entry treats the suffix incorrectly. The suffix should be labeled 'sion' not 'ion'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'expression': 'press' in 'depression' comes from Latin 'premere' (to press/squeeze), not the English verb 'press'. The morpheme should reflect the Latin root meaning. Additionally, the suffix is 'sion' not 'ion'.",
+    "suggestion": "Gloss 'press' as 'squeeze/press' (from Latin premere), and correct the suffix to 'sion' not 'ion'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "subscription",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'scrib' comes from Latin 'scribere' but is presented without recognition that 'subscribe' itself contains the prefix 'sub + scribe'. The entry correctly splits it, but this is worth noting as 'scrib' only makes sense in the context of Latin root morphology.",
+    "suggestion": "Entry is actually correct; no change needed. This is a valid Latin root analysis.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "impression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' is listed as 'in-/not or into', but in 'impression' it functions as a variant of 'in-' meaning 'into' (in + press = press into). The 'not' sense is misleading here since the word doesn't mean 'not pressing'.",
+    "suggestion": "Change homeLang to 'in-/into' or clarify with homeLangDetails that this is the 'into' sense, not the negation sense.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "attraction",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'at-' is glossed as 'to/toward', but 'at-' is a variant of 'ad-' meaning 'to' or 'toward'. The gloss oversimplifies; 'attraction' literally means 'drawing toward', which aligns with the meaning but the morpheme gloss could be more precise.",
+    "suggestion": "Change to 'ad-/to' or add homeLangDetails explaining it's a variant prefix meaning 'to/toward'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "conversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'con' is glossed as 'together', but in 'conversion' it functions as an intensive prefix (con- + vertere = to turn completely/thoroughly), not as 'together' in the sense of 'combining things'. The semantic contribution is not 'turn together' but rather 'turn/transform'.",
+    "suggestion": "Change homeLang to 'thoroughly' or 'completely', or add homeLangDetails explaining that con- here is intensive rather than 'together' in the literal sense",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "dependence",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de-' in 'dependence' does not mean 'down' or 'reversing an action' in this context. In 'dependence', 'de-' is part of the Latin root 'dependere' (to hang from/rely on), not a separate reversing prefix. The homeLangDetails description is misleading for this word.",
+    "suggestion": "Change homeLang to 'from' or 'thoroughly' to better reflect the Latin 'de-' in this context, or note that 'de-' here is part of the root, not a reversing prefix",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "independence",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'dependence': the 'de-' in 'independence' is not a reversing prefix meaning 'down'. It is part of the Latin root 'dependere'. The morpheme split is misleading.",
+    "suggestion": "Reconsider the split. 'Independence' should be split as 'in' + 'dependence' (not 'in' + 'de' + 'pend' + 'ence'), where 'dependence' is itself a lexical unit",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "interdependence",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'Interdependence' should be split as 'inter' + 'dependence', where 'dependence' is a complete lexical unit, not further decomposed into 'de' + 'pend' + 'ence'",
+    "suggestion": "Revise the split to: 'inter' (between) + 'dependence' (reliance/hanging from)",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "'oc' is not a meaningful morpheme boundary. The prefix should be 'oc-' (a variant of 'ob-', meaning 'toward/against'), but it is typically written as part of the root in 'occur'. The split 'oc' + 'cur' + 'rence' is awkward.",
+    "suggestion": "Consider splitting as 'oc' (variant of ob-, toward/against) + 'curr' (run) + 'ence', or note that 'occur' is the base and 'rence' is the suffix. Alternatively, present as 'occur' + '-ence' to be clearer",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "unnatural_example",
+    "field": "exampleSentence",
+    "issue": "The phrase \"running concurrent with\" is grammatically awkward. The adjective 'concurrent' should not follow 'running' in this way.",
+    "suggestion": "Change to: 'The two projects are running concurrently.' or 'The two projects are concurrent with each other.' (removing 'running')",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "succession",
+    "category": "false_cognate",
+    "field": "parts[0]",
+    "issue": "The morpheme 'suc' is glossed as 'under', but this is misleading. In 'succession', 'suc-' is the variant of 'sub-' (meaning 'under' in position, but in this context it semantically means 'following after'). The root meaning that drives 'succession' is more accurately 'following' rather than just 'under'.",
+    "suggestion": "Either keep 'suc' as 'under' but add a note explaining the semantic shift to 'following', or change the gloss to better reflect how it functions in this word",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ent' and 'ed' are split separately, but 'precedent' should be treated as the complete past participle base before negation. The structure should recognize 'un-' negates the entire adjective 'precedented'.",
+    "suggestion": "Reconsider the split as: un- (not) + precedent + -ed (past), or treat 'precedent' as a single unit before the suffix",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "transformation",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'across' for 'trans-' is historically accurate but the example translations suggest a modern reading where 'trans' means 'changing from one state to another.' This conflates the etymological meaning with a reinterpreted sense that isn't standard morpheme glossing.",
+    "suggestion": "Keep the gloss as 'across' or 'through' without adding the paraphrase 'changing from one state to another,' which is a folk etymology rather than the actual morpheme meaning.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "information",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "The morpheme 'in-' here is not the preposition 'in' (meaning 'within') but rather a Latin prefix that became fused during word formation. The word comes from Latin 'informatio' (in-formare), where 'in-' was a formative prefix, not a transparent preposition. The synchronic reading 'in + form + -ation' (information as 'putting form in') is misleading.",
+    "suggestion": "Either mark this as a frozen compound where the morpheme boundary is unclear, or gloss 'in-' as a prefix with the note that it functions as a formative rather than as the transparent preposition 'in'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme boundary is incorrect. 'Cor' is not the standard root; the Latin root is 'corrup-' (from corrumpere). The split should reflect 'cor-' (with/together, related to con-) + 'rupt' (break), but 'cor' alone is misleading as it obscures the prefix-root structure.",
+    "suggestion": "Consider relabeling as parts: 'com-/con-' (together) + 'rupt' (break) + '-ion' (noun suffix), or clarify that 'cor' is a variant of the 'com-' prefix before 'r'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "autobiography",
+    "category": "incomplete_split",
+    "field": "parts[3].homeLang",
+    "issue": "The suffix '-y' is labeled only as '(noun)' without explaining what it means or does. It should clarify that '-y' (or '-ia') converts the root to a noun, or provide its actual morphological function.",
+    "suggestion": "Change homeLang from '(noun)' to something like 'noun-forming suffix' or '-ia/-y (noun)' to be more explicit.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "biography",
+    "category": "incomplete_split",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-y' is labeled only as '(noun)' without explaining what it means or does. It should clarify that '-y' (or '-ia') converts the root to a noun, or provide its actual morphological function.",
+    "suggestion": "Change homeLang from '(noun)' to something like 'noun-forming suffix' or '-ia/-y (noun)' to be more explicit.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-y' is labeled only as '(noun)' without explaining what it means or does. It should clarify that '-y' (or '-ia') converts the root to a noun, or provide its actual morphological function.",
+    "suggestion": "Change homeLang from '(noun)' to something like 'noun-forming suffix' or '-ia/-y (noun)' to be more explicit.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "symphony",
+    "category": "incomplete_split",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-y' is labeled only as '(noun)' without explaining what it means or does. It should clarify that '-y' (or '-ia') converts the root to a noun, or provide its actual morphological function.",
+    "suggestion": "Change homeLang from '(noun)' to something like 'noun-forming suffix' or '-ia/-y (noun)' to be more explicit.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "telephone",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The second part is listed as '-phone' but should be 'phon' (or 'phon-'). The '-phone' notation with a leading hyphen suggests it's only a suffix, when it's actually a combining form from Greek 'phonē' (sound/voice) that can stand as a morpheme root.",
+    "suggestion": "Change targetLang to 'phon' and homeLang to 'sound/voice' with appropriate homeLangDetails",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "microphone",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The second part is listed as '-phone' but should be 'phon' (or 'phon-'). Same issue as telephone — the '-phone' notation with leading hyphen is misleading.",
+    "suggestion": "Change targetLang to 'phon' and homeLang to 'sound/voice' with appropriate homeLangDetails",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation for 'ana' is misleading. While 'ana' does mean 'back' or 'again,' the logic given ('going back to the wrong era') conflates the morphological meaning with the semantic effect. In anachronism, 'ana' more accurately means 'against' or 'backwards,' making the word literally 'against-time' rather than justifying the sense through a metaphor of going 'back.' The current explanation is circular.",
+    "suggestion": "Revise to: 'A Greek prefix meaning \"back\" or \"against\" — in anachronism, it means against or contrary to time, placing something outside its proper temporal period.'",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "anthropology",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme 'anthropo' contains a thematic vowel 'o' that should be separated for consistency with how 'psychology' and 'dermatology' are handled in this set. Currently anthropology splits as anthropo + logy, but psychology splits as psych + o + logy and dermatology as dermat + o + logy.",
+    "suggestion": "Split as 'anthrop' + 'o' + 'logy' to maintain parallel structure across all -logy compounds, or revise psychology and dermatology to match anthropology's approach.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'pathy' is split without its thematic vowel, but '-pathy' should include the vowel connector. The homeLang is listed as '-pathy' but should include the meaning 'feeling' or 'suffering' as in the case of other -pathy words (pathology, telepathy).",
+    "suggestion": "Either add the vowel 'a' as a separate part (sym + pa + thy) or ensure homeLangDetails for 'pathy' defines what it means (e.g., 'feeling, suffering, disease').",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "empathy",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "Same as sympathy: 'pathy' is split without its thematic vowel and lacks a definition of what '-pathy' means on its own.",
+    "suggestion": "Either add the vowel 'a' as a separate part (em + pa + thy) or ensure homeLangDetails for 'pathy' defines the morpheme's meaning (e.g., 'feeling, suffering, disease').",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "antipathy",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The morpheme '-pathy' is missing its definition/details. It should explain that '-pathy' comes from Greek 'pathos' meaning 'feeling' or 'suffering', which is essential to understanding how 'anti-' + 'pathy' creates 'dislike'.",
+    "suggestion": "Add homeLangDetails for the 'pathy' part: 'Feeling, emotion, or suffering. From Greek pathos. Sympathy, empathy, telepathy.'",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The translation 'across' is incomplete and potentially misleading. While 'meta-' can mean 'across', in 'metamorphosis' it more accurately means 'change' or 'transformation'. The homeLangDetails explain this better, but the concise gloss should match.",
+    "suggestion": "Change homeLang from 'across' to 'change' or 'transformation' to align with the word's actual meaning",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "underestimate",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into three morphemes: under + estimate + (verb marker), but 'estimate' itself can be further analyzed as e- + -stimate. However, more critically, the morphological analysis misses that 'estimate' is a complete unit here. The entry is acceptable as-is since 'estimate' is a single morpheme in modern English.",
+    "suggestion": "Entry is acceptable; no change needed.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "overestimation",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses 'overvaluation' which is semantically different from 'overestimation'. 'Overvaluation' typically refers to assigning too much value (worth/merit), while 'overestimation' refers to an assessment that is too high. The translation should stay closer to the original meaning.",
+    "suggestion": "Change exampleTranslation to: 'The overestimation of the project's budget led to financial problems.' (keep the same word rather than substitute 'overvaluation')",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "multicultural",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The second part 'cultural' should be further split into 'culture' + '-al' to show the complete morphological structure and parallel the treatment of other entries.",
+    "suggestion": "Split 'cultural' into two parts: 'culture' (homeLang: 'culture') and '-al' (homeLang: '-al/adjective suffix')",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The second part 'continental' should be further split into 'continent' + '-al' to show the complete morphological structure.",
+    "suggestion": "Split 'continental' into two parts: 'continent' (homeLang: 'continent') and '-al' (homeLang: '-al/adjective suffix')",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The second part 'change' should note that in 'interchange' it functions as a verb root, but the entry lists it without clarification. More importantly, 'interchange' (inter + change) is itself a complete verb/noun before the '-able' suffix is added.",
+    "suggestion": "Consider whether to split as 'inter' + 'change' + 'able' or reorganize to show 'interchange' as the base unit before '-able'. Current structure is acceptable but could be clearer.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The first part should be split further. 'industrial' is itself a compound of 'industry' + '-al', and the entry should reflect the base form 'industry' + '-al' + '-ize' + '-tion' for proper morphological decomposition.",
+    "suggestion": "Split 'industrial' into 'industry' and '-al', or adjust the parts to show: 'industry', '-al', '-ize', '-tion'",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' (to/toward) + 'point' (from Old French, meaning to establish/assign). The entry treats 'appoint' as an unanalyzable base when it is itself a derived form.",
+    "suggestion": "Split into three root parts: dis + ap + point + ment, or alternatively acknowledge that 'appoint' is the relevant synchronic unit and note it comes from 'ap-' (to) + 'point' (to designate).",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "acknowledgment",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The morpheme 'acknowledge' is itself a compound that could be analyzed further (ac- + knowledge), but more importantly, for a morpheme dictionary focusing on meaningful parts, treating the entire 'acknowledge' as a single unanalyzable unit may be incomplete. However, 'acknowledge' is the standard synchronic analysis.",
+    "suggestion": "If following strict morpheme boundaries, consider whether to split 'acknowledge' into ac- + knowledge, or keep it as-is with a note that it's a complex verbal base. Current entry is acceptable if the dictionary prioritizes synchronic analysis.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'outrage' masks the actual etymology. 'Outrage' comes from Old French 'outrage' (excess/violence), not from 'out' + 'rage' in the modern sense. The synchronic reading 'out + rage' is misleading—'rage' here does not mean anger but derives from Latin 'ultraticum' (beyond measure).",
+    "suggestion": "Either note that this is a frozen compound where 'outrage' no longer transparently reflects 'out' + modern 'rage', or provide the historical gloss clarifying that '-rage' comes from an archaic sense of 'excess/violence.'",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into three morphemes: extra + ordinary, but 'extra' itself is a prefix that could be analyzed further. More importantly, 'extraordinary' is typically analyzed as 'extra-' (prefix meaning 'beyond') + 'ordinary' (adjective), but the entry treats 'extra' as a standalone word rather than as a prefix. The morphological boundary and the nature of 'extra' as a productive prefix should be clarified.",
+    "suggestion": "Consider analyzing as 'extra-' (prefix, 'beyond') + 'ordinary' (adjective, 'ordinary'), and note that 'extra' functions as a prefix rather than a standalone morpheme in this context.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'remark' is glossed as 'remark, notice', but in the context of 'remarkable', the relevant meaning is not the modern noun/verb 'remark' (to comment). The suffix '-able' means 'worthy of' or 'capable of being', so 'remarkable' means 'worthy of remark/attention', but the gloss conflates the modern sense of 'remark' with the relevant historical or etymological sense. This is potentially misleading.",
+    "suggestion": "Gloss 'remark' as 'notice, attention' or 'worthy of notice/attention' to clarify that it means 'worthy of being remarked upon' rather than 'capable of making remarks'.",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "unnatural_example",
+    "field": "exampleSentence",
+    "issue": "The example uses 'consciousness' (the opposite of the entry word) rather than 'unconsciousness'. The sentence doesn't illustrate the morpheme being taught.",
+    "suggestion": "Use a sentence containing 'unconsciousness', such as: 'The blow caused temporary unconsciousness.' or 'He lost consciousness and fell into unconsciousness for several minutes.'",
+    "source_file": "en-ref.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix is split as 'alize' when it should be split as 'al' + 'ize'. The morpheme structure is: compartment + al + ize (adjective-forming -al, then verb-forming -ize).",
+    "suggestion": "Split into three parts: 'compartment', 'al', and 'ize'",
+    "source_file": "en-ref.json"
+  }
+]

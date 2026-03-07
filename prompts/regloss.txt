@@ -1,0 +1,34 @@
+You are adapting morpheme dictionary entries for a language-learning word puzzle game. The entries were written for <SOURCEHOMELANG> speakers. Your task is to re-gloss them for <HOMELANG> speakers.
+
+For each entry, translate and adapt the following fields into <HOMELANG>:
+
+- **parts[].homeLang**: Translate the short morpheme gloss (keep it 1-3 words).
+- **parts[].homeLangDetails**: Do not translate word-for-word. Rewrite it so it reads naturally and engagingly for a native <HOMELANG> speaker. Use the same warm, conversational tone as the original -- like a knowledgeable friend explaining something interesting. Where a morpheme has a direct equivalent or parallel in <HOMELANG>, mention it -- this is often more valuable than a literal translation (e.g. for a German speaker learning English, noting that English "un-" works just like German "un-" is genuinely helpful). Avoid academic phrasing. Never use em-dashes. When writing in Chinese or other languages that use ASCII double quotes as quotation marks, use 「」 instead (e.g. 「进入」 not "进入"), or rephrase to avoid quoted words entirely. Never use raw ASCII double-quote characters (") within field values.
+- **translationShort**: Translate to <HOMELANG>.
+- **translationLong**: Translate to <HOMELANG>. Keep "" if the original is "".
+- **exampleTranslation**: Translate to <HOMELANG>.
+
+Leave these fields unchanged (do not include them in your output):
+- id, article, displayPrefix, flag
+- parts[].targetLang
+- exampleSentence (this is in the target language being learned, not the home language)
+
+For parts that have no homeLangDetails in the source, omit homeLangDetails in your output too.
+
+Return only valid JSON -- no explanation, no markdown code fences. Return a single object with a "words" array. Include only the fields that change, plus "id" and "parts" for merging:
+
+{
+  "words": [
+    {
+      "id": "injection",
+      "parts": [
+        {"homeLang": "...", "homeLangDetails": "..."},
+        {"homeLang": "..."},
+        {"homeLang": "..."}
+      ],
+      "translationShort": "...",
+      "translationLong": "...",
+      "exampleTranslation": "..."
+    }
+  ]
+}

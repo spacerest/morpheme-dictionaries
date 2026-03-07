@@ -1,0 +1,1050 @@
+[
+  {
+    "word": "injection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'içeri-/değil veya içine' is confusing and inaccurate. 'in-' means 'in' or 'into', not 'değil' (which means 'not'). The conjunction with 'değil' is nonsensical.",
+    "suggestion": "Change to 'içine' or 'içeri' to properly reflect the 'in-' prefix meaning",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'ileri/için' is misleading. 'pro-' means 'forward' or 'forth', not 'için' (which means 'for'). While 'ileri' is acceptable, the addition of 'için' is incorrect.",
+    "suggestion": "Change to 'ileri' or 'ileri doğru' to accurately represent the 'pro-' prefix",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'bir itiraz yükseltmiştir' uses archaic/formal Turkish. The verb 'yükseltmek' is unusual with 'itiraz' in modern Turkish.",
+    "suggestion": "Change to 'O, toplantıda teklif hakkında itiraz etmiştir' or 'O, toplantıda teklife itiraz etmiştir'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'yağmurlu olduğunu göstermektedir' is awkward. A weather prediction does not 'show' rain; rather, it 'predicts' or 'says' rain.",
+    "suggestion": "Change to 'Yarın için hava tahmini yağmur öngörmektedir' or 'Yarın yağış bekleniyor'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' is glossed as 'söylemek' (to say), but in 'jurisdiction' it comes from Latin 'dicere' (to say/speak). While this seems correct, the issue is that 'dict' in this context relates to 'saying/pronouncing judgment' rather than just 'saying'. The gloss is oversimplified and doesn't capture the legal sense of 'pronouncing' or 'declaring'.",
+    "suggestion": "Consider 'söylemek/hüküm vermek' or add a note that this specifically means 'pronouncing judgment' in legal contexts",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'ithalatı' (accusative case - 'importation' as object), but should be in nominative case to match the English nominative form",
+    "suggestion": "Change to 'ithalat' (nominative form)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Yeni köprüsünün inşaatı iki yıl sürecektir' has an awkward possessive. It should be 'Yeni köprünün inşaatı' not 'köprüsünün'",
+    "suggestion": "Change to 'Yeni köprünün inşaatı iki yıl sürecektir.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme should be 'de-' not 'de'. The prefix in 'destruction' is 'de-' (meaning down/away), not the standalone morpheme 'de'.",
+    "suggestion": "Change targetLang from 'de' to 'de-'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "inspection",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "'in-' in 'inspection' comes from Latin 'in-' meaning 'in/into', not 'in' as a standalone morpheme. The prefix should be marked as 'in-' to clarify it's a prefix, not a standalone word.",
+    "suggestion": "Change targetLang from 'in' to 'in-'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The translation 'içinden' (from within/through) is imprecise. The Latin prefix 'per-' means 'through' or 'thoroughly', and in 'perspective' it combines with 'spect' (look) to mean 'looking through'. The homeLang should more clearly reflect 'through' rather than 'içinden'.",
+    "suggestion": "Change homeLang to 'yoluyla/aracılığıyla' (through) or clarify as 'içinden/yoluyla (through)'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The 'de' prefix in 'description' does not mean 'aşağı/geri' (down/back). In 'description', 'de' is simply part of the Latin root 'describere' (to write down/describe), but it does not carry the semantic meaning of 'down' in modern English—the word means 'an account or representation' not 'a reversal of writing'. The gloss misleads by suggesting 'de' has its typical prefix meaning here.",
+    "suggestion": "Either revise the homeLang gloss to clarify that 'de' in this context is etymological but not semantically productive (not reversing the action), or note that 'de' here comes from Latin 'de' (about/concerning) rather than the Germanic 'down' sense.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Üç dergiye abone olmak için aboneliğim var' is awkward and unnatural. The phrase 'abone olmak için aboneliğim var' (I have a subscription for becoming a subscriber) is redundant and grammatically clunky in Turkish.",
+    "suggestion": "Change to: 'Üç dergiye abone hesabım var.' or 'Üç dergiyi düzenli takip ediyorum.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Depresyonun tedavisi için yardım istedi.' changes the meaning. The original sentence 'She sought treatment for her depression' refers to the subject seeking treatment, but the Turkish translation says 'she sought help for the treatment of depression' which is subtly different and less personal.",
+    "suggestion": "Change to: 'O, depresyonu için tedavi aradı.' or 'Depresyonunun tedavisi için yardım istedi.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'Impression' should be split as 'im-press-ion', but 'im' is a prefix meaning 'in/into' (not 'içine/içeri' as a separate morpheme in this context). The core is 'press' (to push/press), and '-ion' is the nominalization suffix. The entry treats 'im' and 'press' as separate meaningful units when they form a bound morpheme + root relationship.",
+    "suggestion": "Consider revising to clarify that 'im-' is a prefix (in/into) + 'press' (push/apply pressure) + '-ion' (nominalization). The Turkish glosses should reflect this relationship more clearly.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "'At' is not a standalone morpheme in 'attraction'. The correct split is 'at-tract-ion', where 'at-' is a prefix (to/toward) and 'tract' is the root (from Latin trahere, to pull/draw). The gloss 'doğru' (straight/toward) is misleading for this prefix.",
+    "suggestion": "Revise to show 'at-' as a prefix meaning 'to/toward' rather than as 'doğru', and clarify the relationship between prefix and root.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation 'Gürültü sınav sırasında büyük bir dikkat dağıtıcısıydı' is slightly awkward. While understandable, the phrase 'dikkat dağıtıcı' (distractor/distracting thing) should more naturally be 'Gürültü sınav sırasında dikkatini büyük ölçüde dağıtmıştı' or 'büyük bir dikkat dağıtma kaynağıydı'.",
+    "suggestion": "Use a more natural Turkish phrasing such as 'Gürültü sınav sırasında dikkatimi büyük ölçüde dağıtmıştı' or 'büyük bir dikkat dağıtma unsuru olmuştu'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'Miss' is not the correct morpheme. The root is 'miss' from Latin mittere (to send), but the split 'per-miss-ion' should be clearly understood as 'per-' (through/completely) + 'miss' (send) + '-ion'. The entry presents this correctly in structure but the gloss 'gönder' (send) needs clearer contextualization that this is the Latin root, not the modern English verb 'miss'.",
+    "suggestion": "Clarify in homeLangDetails or parts that 'miss' comes from Latin mittere (to send/let go), distinguishing it from the modern English verb 'miss'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "transmission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' is glossed as 'gönder' (send), but in 'transmission' it comes from Latin 'mittere' (to send). While the gloss is technically correct for the root meaning, the presentation is misleading because 'miss' in English morphology is not a standalone morpheme that means 'send' in modern English—it only appears in Latinate compounds. The entry should clarify this is a bound root from Latin.",
+    "suggestion": "Either add homeLangDetails clarifying that 'miss' is a bound Latinate root, or rephrase as 'mit (Latince: gönder)' to indicate it's a Latin root element, not a productive English morpheme.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "commitment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'mitt' is glossed as 'gönder' (send), but this is misleading. In 'commitment,' the root is from Latin 'mittere,' but the modern English morpheme 'commit' means 'dedicate/pledge,' not 'send.' The gloss reflects the etymological root rather than the synchronic meaning of the morpheme in English.",
+    "suggestion": "Change homeLang to reflect the modern meaning: 'taahhüt et' or 'adadı et' (pledge/dedicate), or add homeLangDetails explaining the Latinate root 'mittere' (send) and how it evolved to mean 'commit.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "reception",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'cept' is incomplete. The actual root is 'cept' which comes from Latin 'capere' (to take/seize). While 'al' (take/receive) is a reasonable gloss, the morpheme representation should account for the full Latin root 'capt-' or 'cept-' consistently, which does mean 'take/receive.'",
+    "suggestion": "This entry is actually acceptable as-is if the inconsistency with other -cept words (perception, deception) is intentional, but for consistency, 'cept' should always represent the same Latin root 'capere' meaning 'take/receive.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "perception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The claim that 'per-' shows similarity to Turkish 'per-' is not accurate and misleading. Turkish does not have a 'per-' prefix with comparable meaning. This appears to be a false cognate claim without linguistic basis.",
+    "suggestion": "Remove the statement 'Türkçedeki per- ile benzerlik gösterir' (shows similarity with Turkish per-). Keep the Latin meaning explanation only.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Aldatmaca sonunda ortaya çıkarıldı' uses 'aldatmaca,' which is more colloquial/poetic. A more direct and natural translation would use 'aldatış' or 'hile' as the subject, or restructure entirely.",
+    "suggestion": "Change to 'Aldatmaca/Hile sonunda ortaya çıkarıldı' or 'Aldatmaca sonunda açığa çıkarıldı' for better naturalness.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'geri' (back) for 're-' is misleading in the context of 'reference'. While 're-' can mean 'back', in 'reference' it combines with 'fer' (carry) to mean 'bring back' or 'relate to', but the semantic result is 'something referred to' not literally 'carrying back'. The homeLang should reflect the actual meaning in this word.",
+    "suggestion": "Consider 'geri' or 'atıfta bulun' (refer to) as more accurate. The detailed explanation provided is good but the simple gloss 'geri' alone is insufficient.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'parazit' (parasite) is incorrect. 'Parazit' refers to a biological organism, not the linguistic/technical phenomenon of interference.",
+    "suggestion": "Should be 'girişim' or 'müdahale' or 'parazit (teknik anlamda)' or better yet 'elektromanyetik girişim' for radio context. The translationLong better captures the meaning but translationShort is wrong.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "conversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'Con' is glossed as 'beraber' (together) but in 'conversion' the 'con-' does not carry the 'together' meaning—it's a prefix that modifies the root 'vert' (turn). The meaning is 'turning' not 'turning together'.",
+    "suggestion": "Either remove or clarify that 'con-' here functions as part of the verb root rather than carrying independent meaning, or gloss it as the bound prefix form without implying 'together'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "introversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'Intro' is glossed as 'içeri' (inward/inside) which is approximately correct, but this is a frozen etymology. Modern 'introversion' is not transparently 'inward-turning'—it is a Jungian psychological term. The morphological composition no longer reflects current meaning clearly.",
+    "suggestion": "Flag as frozen_compound or add detail that this is a technical/psychological term where the morphological reading is historical rather than synchronically productive. Gloss is acceptable but may mislead learners about transparency.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation 'otoritenin altını oymaya çalışan her girişimi bastırdı' is awkward and doesn't naturally convey the meaning. 'Altını oymak' (to undermine literally) is unnatural in this context.",
+    "suggestion": "A more natural translation would be: 'Hükümet, otoritenin herhangi bir şekilde baltalanmasına yönelik her girişimi bastırdı.' or 'Hükümet, otoritesine karşı her türlü sabotaj girişimini bastırdı.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The morpheme 'oc' is not a standard morpheme boundary. The correct split should be 'oc' + 'cur' + 'rence', but 'oc-' is not a meaningful prefix in English. The word derives from Latin 'occurrere' (to run toward/meet), so the split should reflect 'oc' (variant of 'ob') + 'cur' + 'rence'.",
+    "suggestion": "The entry is attempting to show 'oc' but this should be clarified as the prefix 'ob-/oc-' (meaning 'toward/against'), not simply 'oc' as a standalone morpheme. Consider: parts should be [{targetLang: 'ob/oc', homeLang: 'doğru/karşı'}, {targetLang: 'cur', homeLang: 'koş'}, {targetLang: 'rence', homeLang: '-rence'}]",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'doğru' (straight/correct) does not accurately represent the meaning of the 'oc-' prefix, which comes from Latin 'ob-' meaning 'toward' or 'against', not 'doğru'.",
+    "suggestion": "Should be 'karşı' (against/toward) or 'doğru/karşı' to better capture the prefix meaning",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'cur' is not a correct boundary. The word is 're-' + 'curr-' + '-ence'. The root is 'curr-' (from Latin currere, to run), not 'cur'. Splitting as 'cur' + 'rence' misses the root structure.",
+    "suggestion": "Split should be: re- (again) + curr- (run) + -ence (noun suffix), or minimally re- + curr- + -ence",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'koş' (run) is correct for the root, but the isolated morpheme 'cur' is incomplete and misleading without the doubled 'r'. It should reflect that this is the root 'curr-' meaning 'run'.",
+    "suggestion": "Change homeLang to 'koş (kök)' or clarify in homeLangDetails that 'cur' is an incomplete representation of 'curr-'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "Same issue as recurrence: 'cur' should be 'curr-'. The root is 'curr-' (to run), not a standalone 'cur' morpheme.",
+    "suggestion": "Split as: con- + curr- + -ent, not con- + cur- + -ent",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'altında' (under/beneath) is misleading. The prefix 'suc-' (from Latin sub, under) does contribute to the meaning of succession, but in this context, the full etymological sense is 'following after' or 'coming after'. The modern gloss should reflect the derived sense rather than literal 'under'.",
+    "suggestion": "Change homeLang to 'sonra/ardından' (after/following) to reflect the actual semantic contribution to 'succession'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts overall",
+    "issue": "The word is split into 5 parts, but the structure is overanalyzed. 'Precedent' is the core noun (prec-ed-ent), and 'un-' is the negation prefix. The final '-ed' is redundant with '-ent' already captured. The split should be: un- + precedent-ed, where 'precedent' itself could be split as pre- + ced- + -ent, but adding another '-ed' at the end creates duplication.",
+    "suggestion": "Restructure as: un- + prec- + ed- + ent (4 parts), or un- + precedent (2 parts), but not 5 parts with '-ed' appearing as a separate final morpheme",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "transformation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'trans' is glossed as 'boyunca' (along/throughout), but in 'transformation' it means 'across' or 'through' (changing from one state to another). The gloss 'boyunca' suggests a directional/temporal sense that doesn't accurately capture the prefix's meaning in this context.",
+    "suggestion": "Change homeLang to 'karşısından karşısına' (across) or 'üzerinden' (through), or provide a gloss that better reflects 'across/through' rather than 'along'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "information",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'in' is glossed as 'içinde' (inside/within), but historically in 'information' it means 'in' or 'into' (giving form/shape to something). While 'içinde' is not entirely wrong, it's misleading because 'information' doesn't mean 'form inside' but rather 'forming/shaping into knowledge'. The morpheme isn't the preposition 'in' but the Latin prefix 'in-' meaning 'into'.",
+    "suggestion": "Change homeLang to 'içine' (into) or add clarification that this 'in' prefix means 'forming into' rather than 'inside'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translationLong 'kesintiye uğratmayan bir rahatsızlık veya sorun' (a disturbance or problem that doesn't cause interruption) is contradictory and confusing. It should express that disruption IS a serious interruption or disturbance, not something that doesn't cause interruption.",
+    "suggestion": "Change translationLong to 'ciddi bir kesinti veya düzeni bozan olay' (a serious interruption or event that disrupts order) or 'sürekliliği kesintiye uğratan ciddi rahatsızlık' (a serious disturbance that interrupts continuity)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'cor' does not come from Turkish 'bir-/beraber' (together). Latin 'cor' means 'heart', and 'corrupt' comes from Latin 'corruptus' (spoiled, broken). The Turkish gloss is incorrect.",
+    "suggestion": "Change homeLang to something more accurate like 'kalp (archaic sense: to spoil/break)' or note that this is a Latin root without a direct Turkish equivalent",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'rupt' does not directly mean 'kırılmak' (to break). While 'rupt' comes from Latin 'rumpere' (to break), the gloss conflates the modern sense. The entry treats it as if the morpheme itself carries the breaking sense, but in 'corruption' it's part of a frozen Latin compound.",
+    "suggestion": "Consider noting this is a Latin-derived morpheme, or use a gloss like 'rumpere (Latindan: kırmak)'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is awkward. 'Erken yılları hakkında bir otobiyografi yazdı' is grammatically acceptable but the pronoun reference is unclear without 'kendi' (her own). A more natural rendering would include the possessive.",
+    "suggestion": "Change to: 'Kendi erken yılları hakkında bir otobiyografi yazdı.' or 'Hayatının erken yılları hakkında bir otobiyografi yazdı.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "photography",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'photo' does not simply mean 'ışık' (light). While 'photo' derives from Greek 'phos' (light), in the context of 'photography' it is part of a compound. The gloss oversimplifies and may mislead learners into thinking 'photo' = 'light' rather than recognizing it as a bound morpheme.",
+    "suggestion": "Consider: 'ışık (Yunancadan: phos)' or note it as a Greek-derived morpheme meaning 'light'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "chronology",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation is grammatically incomplete. It should include a verb form that matches the English sentence structure.",
+    "suggestion": "Change to: 'Olayların kronolojisini anlamak için önemlidir.' or 'Olayların kronolojisi anlamak için önemli.' The original 'Olayların kronolojisi anlamak için önemlidir.' is awkward and needs either the accusative case (kronolojisini) or restructuring.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "microphone",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'çok küçük' (very small) is misleading. In 'microphone', the 'micro-' prefix actually means 'small in scale' or 'used for detecting small signals,' not literally 'very small.' The device itself is not necessarily tiny; the function relates to amplifying small sounds.",
+    "suggestion": "Change to: 'küçük/ince' or add clarification like 'küçük sinyalleri algılayan' to reflect the actual function rather than just size.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "psychology",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence and should be translated into Turkish",
+    "suggestion": "exampleTranslation should be: 'Üniversitede psikoloji bölümünde okudu.' or similar Turkish translation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "anthropology",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence and should be translated into Turkish",
+    "suggestion": "exampleTranslation should be: 'Antropoloji, farklı kültürleri anlamaya yardımcı olur.' or similar Turkish translation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "dermatology",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence and should be translated into Turkish",
+    "suggestion": "exampleTranslation should be: 'Dermatoloji uzmanı ile bir randevum var.' or similar Turkish translation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence and should be translated into Turkish",
+    "suggestion": "exampleTranslation should be: 'Onun zor durumuna sempati hissettim.' or similar Turkish translation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence and should be translated into Turkish",
+    "suggestion": "exampleTranslation should be: 'İyi bir arkadaş olmak için empati önemlidir.' or similar Turkish translation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as un + comfort + able, but 'comfort' should be further analyzed. 'Comfortable' is the base adjective, and 'un-' is added to it. The entry treats 'comfort' as a standalone morpheme when the actual structure is un + comfortable, or un + comfort + able where 'able' is the adjective-forming suffix on 'comfort'.",
+    "suggestion": "Either restructure as: un + comfortable (where comfortable = comfort + able), or keep un + comfort + able but clarify that '-able' is an adjective-forming suffix with a home language gloss",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'rahatsız edici, dengesiz' is inaccurate. 'Uncomfortable' means 'causing discomfort' or 'not comfortable', not 'dengesiz' (unbalanced). 'Dengesiz' introduces an unrelated meaning.",
+    "suggestion": "Change to 'rahatsız, konforlu olmayan' or 'rahat olmayan'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as un + believe + able, but 'believe' should be analyzed further. 'Unbelievable' is formed from un + believable, where 'believable' = believe + able. The suffix '-able' is not properly glossed.",
+    "suggestion": "Either restructure as: un + believable (where believable = believe + able), or keep un + believe + able but provide a home language gloss for '-able' (e.g., '-able' as an adjective-forming suffix)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'belirli bir şekli ya da biçimi olmayan; muğlak ya da tanımsız' is partially inaccurate. While 'belirli bir şekli olmayan' is correct, 'muğlak' and 'tanımsız' are not accurate definitions. 'Amorphous' specifically means 'without a defined form', not 'vague' or 'indefinite' in a broader sense.",
+    "suggestion": "Change to 'belirli bir şekli ya da biçimi olmayan; tanısız yapı ya da biçim' or simply 'belirli bir şekil taşımayan'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "unforgettable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 4 morphemes, not 3. The structure is: un- + forget + -able, but 'forget' itself is a compound (for + get) that could be noted, though the main issue is that '-able' is presented as a separate morpheme when it attaches to 'forget' to form 'forgettable' first, then 'un-' attaches to the whole adjective. The current split obscures the derivational order.",
+    "suggestion": "Consider clarifying that the morpheme order is: un- + (forget + -able), or note that '-able' transforms the verb 'forget' into an adjective before 'un-' is prefixed.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "Similar to 'unforgettable', the split doesn't reflect that '-able' attaches to 'recognize' first to form 'recognizable', then 'un-' prefixes to that adjective. The current three-part split is misleading about derivational structure.",
+    "suggestion": "Clarify the morphological order: un- + (recognize + -able + -ize), or note that the suffix sequence is '-izable' attached to the root, then prefixed with 'un-'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix is listed as '-tion' but the full derivational sequence is: mis- + represent + -ation. The morpheme boundaries are correct, but '-tion' is presented without noting it may derive from Latin or that it's the nominalizing suffix. More importantly, the word could be analyzed as mis- + (represent + -ation) to show that -ation nominalizes the verb before mis- prefixes.",
+    "suggestion": "Consider restructuring to show: mis- + represent + -ation, or clarify in homeLangDetails that '-ation' transforms the verb 'represent' into a noun before 'mis-' is added.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation states that 'whelm' is 'genellikle over- önekisiz kullanılmaz' (usually not used without 'over-'), which is accurate, but the entry treats 'whelm' as an independent morpheme. This is misleading because 'whelm' in modern English is almost exclusively found in the compound 'overwhelm' and is not productively used alone.",
+    "suggestion": "Revise the homeLangDetails to clarify that 'whelm' is a semi-bound morpheme that survives primarily in 'overwhelm' and is not commonly used independently in modern English.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss 'karşı' (opposite/against) is misleading for 'trans-'. The actual meaning is 'across/beyond', not 'opposite'. While the examples (transport, transform, translate) are correct, the core gloss 'karşı' doesn't accurately represent the morpheme's function.",
+    "suggestion": "Change homeLang gloss to 'trans-/üstünde/karşısında/ötesinde' or more accurately 'trans-/karşısından geçmek/ötesine' to better capture 'across' meaning",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation is incomplete and awkwardly phrased. It says 'Bu iki parça birbirinin yerine kullanılabilir ve cihazın çalışışını etkilemez' but the second part ('and doesn't affect how the device works') is not a natural continuation and contains a typo ('çalışışını').",
+    "suggestion": "Revise to: 'Bu iki parça birbirinin yerine kullanılabilir ve her iki pozisyonda da kullanılabilir.' or 'Bu iki parça değiştirilebilir ve cihazın çalışmasını etkilemez.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "disorganize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into three morphemes: dis + organ + ize. Currently 'organize' is treated as a single unit, but it contains the root 'organ' and the suffix 'ize' which should be separated for consistency with other entries like 'modernization' and 'industrialization'.",
+    "suggestion": "Split into: dis / organ / ize",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "encouragement",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into three morphemes: en + courage + ment. Currently 'encourage' is treated as a single unit, but the prefix 'en-' and root 'courage' should be separated.",
+    "suggestion": "Split into: en / courage / ment",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 'dis' + 'appoint' + 'ment', but 'appoint' itself could be further analyzed as 'ap' + 'point'. However, the main issue is that 'appoint' is presented as a single morpheme without noting it's a Romance-origin word (from Old French 'apointer'), not a Germanic compound of 'ap' + 'point'.",
+    "suggestion": "Either keep 'appoint' as a single unit (preferable for clarity) or add a note that it's a frozen morpheme from Romance origin, not a synchronic English compound.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ous' is glossed only as '-lu/-ous' without explanation. While not incorrect, it lacks the detail provided in other entries about what the suffix does (creates adjectives from nouns).",
+    "suggestion": "Expand to: '-lu/-ous: İsimleri sıfat yapar, o şeyin niteliğini taşıyan anlamı verir' or similar explanation consistent with other suffix entries.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'öfke' (anger) for 'outrage' is misleading. While 'outrage' can mean anger as a noun, the morphological analysis suggesting 'out-' + 'rage' is incorrect (as the entry itself notes). The homeLang should reflect the actual synchronic meaning rather than suggesting a transparent morphological composition.",
+    "suggestion": "Change homeLang to 'aşırılık/hakaretli davranış' or 'sınırları aşan şey' to better reflect the frozen compound status already noted in homeLangDetails.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "Similar to 'courageous', the '-ous' suffix lacks explanatory detail about its function as an adjective-forming suffix.",
+    "suggestion": "Expand to match the pattern used elsewhere: '-lu/-ous: İsimleri sıfat yapar, o şeyin niteliğini taşıyan anlamı verir'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "\"ötesinde\" (beyond) is not an accurate translation of \"extra\" in this context. The morpheme \"extra\" means \"outside\" or \"beyond the ordinary\".",
+    "suggestion": "Change to \"dış\" or \"ötesinde\" is acceptable but \"dışında\" (outside of) would be more precise for the morpheme meaning",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into \"re-mark-able\" (three parts) since \"re-\" is a prefix modifying \"mark\". Currently shows only \"remark\" + \"able\".",
+    "suggestion": "Split as: \"re\" (tekrar/yeniden), \"mark\" (fark etme/işaret), \"able\" (-able)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'compartment' + 'alize', not 'compartment' + 'al' + 'ize'. The suffix is '-alize' as a single unit (adjective-forming '-al' + verb-forming '-ize'), not separate morphemes in this analysis context.",
+    "suggestion": "Reconsider the split: either keep it as 'compartment' + 'alize' (single suffix), or if splitting further is desired, clarify that '-al' + '-ize' are combined as '-alize'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix is 'ir-' not 'ir'. While 'ir-' is indeed the negation prefix used before words starting with 'r' (like 'responsible'), the notation 'ir' without the hyphen suggests it's a standalone morpheme, which is misleading. It should be clearly marked as a prefix.",
+    "suggestion": "Change 'ir' to 'ir-' to indicate it is a prefix",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase \"ihramlı bir tarzda\" (in an ihram manner) is incorrect and nonsensical. \"İhram\" refers to the pilgrimage state in Islam and is completely unrelated to the meaning of 'carefully'.",
+    "suggestion": "Should be something like \"dikkatli veya tedbirli bir şekilde\" or \"özenli bir tarzda\"",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase \"ihmalkar bir tarzda\" uses \"ihmalkar\" (negligent/remiss) which, while related to ihmal (neglect), is awkward here. More importantly, the overall phrasing is unnatural.",
+    "suggestion": "Should be \"dikkat etmeden; dikkatsiz veya umursamaz bir şekilde\"",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation \"Talimatları yardımcı bir şekilde açıkladı\" is awkward. The phrase \"yardımcı bir şekilde\" (in a helpful manner) is unnatural in Turkish when describing the act of explaining.",
+    "suggestion": "Should be \"Talimatları yardım ederek açıkladı\" or \"Talimatları faydalı bir şekilde açıkladı\" or simply \"Talimatları açıklamakta yardımcı oldu.\"",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "helplessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'çaresizlik durumu' is redundant. 'Çaresizlik' already means 'helplessness' or 'state of being helpless', so adding 'durumu' (state/condition) is unnecessary.",
+    "suggestion": "Just 'çaresizlik' is sufficient and more natural",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The gloss 'umutla; umut dolu bir şekilde' is inaccurate for modern English usage. In contemporary English, 'hopefully' as a sentence adverb means 'it is hoped that' or 'one hopes that', not 'with hope' or 'hopefully' in the sense of 'full of hope'. The example 'Hopefully, the weather will improve tomorrow' uses the sentence-adverb sense.",
+    "suggestion": "Should reflect the sentence-adverb meaning: 'umarız ki; inşallah; bir bakalım' or similar",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "hopelessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'umutsuzluk durumu' is redundant for the same reason as 'helplessness'. 'Umutsuzluk' already encodes the state, making 'durumu' unnecessary.",
+    "suggestion": "Just 'umutsuzluk' is sufficient and more natural",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The gloss 'şükresliye; minnettar bir şekilde' is awkward and imprecise. 'Şükresliye' is not standard modern Turkish. The example 'Thankfully, no one was hurt' uses the sentence-adverb meaning (like 'hopefully'), similar to 'it is fortunate that', not 'gratefully'.",
+    "suggestion": "Should be something like 'neyse ki; ne mutlu ki; şans eseri' to match the sentence-adverb usage in the example",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'şanslı kısmet' is unclear and awkwardly phrased. 'Kısmet' is a religious/fate-based concept and doesn't naturally fit with the adverb's modern meaning. The translation should reflect the sentence-adverb usage.",
+    "suggestion": "Something like: 'Neyse ki; şans eseri; çok iyi ki; bereket versin' to convey fortunate/luck-based meaning",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation is ungrammatical. \"etrafındaki herkesi ilham verdi\" is awkward; the verb should be \"ilham verdi\" or better \"ilhamlandırdı\" (inspired). The correct phrasing would be \"Onun korkusuzluğu etrafındaki herkesi ilhamlandırdı.\"",
+    "suggestion": "Onun korkusuzluğu etrafındaki herkesi ilhamlandırdı.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The entry splits 'beauty' as the base, but 'beautifully' is actually derived from the adjective 'beautiful' (beauty + -ful), not directly from the noun 'beauty'. The morphological chain should be: beauty → beautiful (-ful) → beautifully (-ly).",
+    "suggestion": "Split as: beautiful (not beauty) + ly, or if you want to show the full chain, use: beauty + ful + ly",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "Similar to 'beautifully', this splits 'power' as the base, but 'powerfully' derives from the adjective 'powerful' (power + -ful), not directly from the noun 'power'.",
+    "suggestion": "Split as: powerful (not power) + ly, or show the full chain: power + ful + ly",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "powerlessness",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "This splits 'power' as the base, but 'powerlessness' derives from the adjective 'powerless' (power + -less), not directly from the noun. The morphological chain should be: power → powerless (-less) → powerlessness (-ness).",
+    "suggestion": "Split as: powerless (not power) + ness, or show the full chain: power + less + ness",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "development",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'de' + 'velop' + 'ment', but 'velop' is not a standard morpheme boundary. The correct split should be 'develop' + 'ment', where 'develop' is the verb base and '-ment' is the nominalizing suffix.",
+    "suggestion": "Revise to: parts[0] = {targetLang: 'develop', homeLang: 'geliştirmek'}, parts[1] = {targetLang: 'ment', homeLang: '-ment'}",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "development",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation that 'de-' means 'aşağı/geri' (down/back) is misleading here. In 'develop', the 'de-' prefix does not negate or reverse the meaning; 'develop' comes from Old French 'desvelopper' where 'de-' is part of the original French word structure, not a productive English prefix with the meaning 'down' or 'back'. The gloss misrepresents the etymological reality.",
+    "suggestion": "Clarify that in 'develop', 'de-' is not a productive negating prefix but part of the original French etymology, where it meant 'to unwrap' or 'unfold'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'ad' + 'vert' + 'ise' + 'ment', but this breaks apart the verb 'advertise' incorrectly. The correct analysis should treat 'advertise' as the verb base, then add '-ment'. The suffix sequence 'ise' + 'ment' is awkward; the actual suffix chain is '-ise' (making the verb) then '-ment' (nominalizing it).",
+    "suggestion": "Revise to: parts[0] = {targetLang: 'advertise', homeLang: 'reklam vermek/ilan etmek'}, parts[1] = {targetLang: 'ment', homeLang: '-ment'}, or alternatively keep 'ad' + 'vert' + 'ise' but acknowledge that 'ise' here is the verb-forming suffix, not a separate morpheme before '-ment'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ize' is inaccurate for British English spelling. The entry uses 'advertisement' (British spelling with '-ment'), but then labels the suffix as '-ize' (American spelling). In British English, the suffix is '-ise'.",
+    "suggestion": "Change homeLang from '-ize' to '-ise' to match the British English convention used in the word 'advertisement'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'enter' is glossed as 'gir/içine' (enter/inside), but in 'entertain' it comes from Old French 'entretenir' meaning 'to hold together' or 'to maintain'. The modern English verb 'enter' and the root in 'entertain' have different etymologies and meanings.",
+    "suggestion": "Clarify that 'enter' in entertainment derives from 'entre-' (between/among) + 'tenir' (hold), not from the modern verb 'enter'. The gloss should reflect 'hold together/among' rather than 'gir/içine'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "requirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'quir' is glossed as 'sor/ara' (ask/search), but the explanation already correctly notes that 'require' means 're- + quir' with a sense of 'talep etme' (demand). The gloss 'sor/ara' is misleading because in 'require' the meaning is 'demand' or 'ask for', not merely 'ask' or 'search'.",
+    "suggestion": "Change homeLang to 'iste/talep et' (demand/request) to better reflect the meaning in 'require'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'çek/geri çek' (pull/pull back) is oversimplified. The homeLangDetails correctly explains the meaning comes from Old French 'tirer' but 'tired' (exhausted) does not share the same root as 'retire' (withdraw). The 'tired' example is etymologically inaccurate and conflates two different words.",
+    "suggestion": "Remove the reference to 'tired' from homeLangDetails, as it is a false cognate. Keep the focus on 'tirer' meaning 'to draw/pull back'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "department",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'de' is glossed as 'aşağı/geri' (down/back), but in 'department' the 'de-' prefix with 'part' comes from Old French 'departir' (to divide/distribute). The meaning is not about direction (down/back) but about division or separation. The gloss does not reflect the actual sense in this word.",
+    "suggestion": "For 'department' specifically, note that 'de-' here means 'divide/separate' (from Latin 'de-' + 'partire'), not the directional sense of 'down/back'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "replacement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'place' is glossed simply as 'yer' (place/location), but in 'replace' it derives from Old French 'placer' (to put/set). The verb form 'place' (to put) is more accurate than the noun 'place' (location) for the morpheme's function here.",
+    "suggestion": "Change homeLang to 'koy/yerleştir' (put/set) or clarify that it refers to the verb 'place' (to put) rather than the noun 'place' (location).",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "reconnect",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'iletişimizi restore ettik' is awkward and doesn't accurately convey the meaning of 'reconnected' in this social context. 'Restore' is too technical and 'iletişimi' (communication) is not the best rendering here.",
+    "suggestion": "Should be something like 'Yıllar sonra, bir toplantıda yeniden bağlantı kurduk.' or 'Yıllar sonra, bir toplantıda tekrar birbirimizle iletişime geçtik.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[2].homeLang",
+    "issue": "The -ing morpheme is given only as '(İsim haline getirme)' without a proper Turkish equivalent morpheme name. The entry is inconsistent with the detailed morpheme explanations in other entries.",
+    "suggestion": "Should include a proper notation and explanation, such as: 'homeLang': '-ing' or 'homeLang': '-ıyor/-ılıyor' (if discussing the gerund/present participle form), with appropriate homeLangDetails",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'com-mun-ication' is incorrect. The correct morphological breakdown is 'com-' + 'munic-' + '-ation'. The root is 'munic' (related to Latin 'munus' meaning duty/service), not 'mun'. The '-ication' should be '-ation' with 'munic' as the preceding root.",
+    "suggestion": "Split as: com- (together) + munic- (communicate/share) + -ation (process/result)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'intro' should be split as 'in-' + 'tro-' or more accurately analyzed as 'intr-', but 'intro' itself obscures the morpheme boundary. The correct analysis is 'in-' (in/into) + 'tro-' (turn, from Latin 'troducere').",
+    "suggestion": "Split as: in- (in/into) + tro- (turn) + duc- (lead) + -tion, or if keeping 'intro' as a unit, clarify it contains 'in-' + 'tro-'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'resmi tanıtım' (formal introduction of a person) is too narrow. The word has broader meanings including the opening section of a text/speech.",
+    "suggestion": "Change to 'tanıtım; giriş; sunuş' or 'kişi tanıtımı veya başlangıç bölümü'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'pro', 'nunc', and 'iation', but 'nunc' is not a standard morpheme. The word should be split as 'pro' (forward) + 'nounce' (from Latin nuntiare, to announce) + 'iation' (suffix). The current split obscures the actual morphological structure.",
+    "suggestion": "Reconsider the split to reflect the actual etymology: 'pro-' + 'nounce' + '-iation', or simplify to show it as 'pro-' + 'nunciation' as a bound morpheme unit.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'tartı/ölçü' (weighing/measurement) is inaccurate for the Latin root 'exam-' which comes from 'examinare' (to weigh out, test). While historically related to weighing, the modern morphological meaning in 'examination' is 'test' or 'to test', not simply 'weighing/measurement'.",
+    "suggestion": "Change to 'sınav/test' (test/examination) or 'inceleme' (examination) to reflect the actual meaning in the English word.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "imagination",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix is listed as 'ination' which is itself a compound suffix. It should be further split into '-ina-' (making/causing) + '-tion' (noun suffix), or at minimum clarified that '-ination' is a combined suffix unit.",
+    "suggestion": "Either split as '-ina' + '-tion' or clarify that '-ination' is a single bound morpheme unit meaning 'the act of becoming/making'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "population",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix is listed as 'ulation' which is itself a compound. It should be split further into '-ul-' (diminutive/forming) + '-ation' (noun suffix), or at minimum clarified as a combined suffix unit for consistency with how other words are analyzed.",
+    "suggestion": "Either split as '-ul' + '-ation' or clarify that '-ulation' is a single bound morpheme unit. Consistency with other entries (like 'examination' with '-ination') would help.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation uses \"yansımasını\" (his/her reflection) but the English sentence uses \"my reflection\". It should be \"Aynada kendi yansımamı gördüm.\" or \"Aynada yansımamı gördüm.\"",
+    "suggestion": "Change to \"Aynada kendi yansımamı gördüm.\" or \"Aynada yansımamı gördüm.\"",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Turkish translation \"daha iyi korunmaya ihtiyacımız var\" is awkward and incomplete. It literally means \"we need better protecting\" but the structure doesn't align well with the English meaning. A more natural translation would be \"Siber saldırılara karşı daha iyi koruma/korunma ihtiyacımız var.\"",
+    "suggestion": "Change to \"Siber saldırılara karşı daha iyi koruma ihtiyacımız var.\" or \"Siber saldırılara karşı daha iyi korunmaya ihtiyacımız var.\" (though the former is more natural)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'invitation' should be split as 'in-vit-ation', not 'in-vit-ation' with 'vit' glossed as 'çağır'. The root is 'vit' (Latin vitare → invite), but the morpheme boundary and gloss need clarification. The current split obscures that 'invite' is the base verb.",
+    "suggestion": "Consider: parts should reflect 'in' (inside/toward) + 'vite' (Latin root meaning to call) + 'ation'. The homeLang gloss 'çağır' for 'vit' is incomplete; it should acknowledge the Latin root 'vit-' meaning 'to call/summon'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'par' is glossed as 'hazırla' (prepare), but this is misleading. The actual root is 'par-' from Latin 'parare' (to make ready). The morpheme should be 'par' with gloss reflecting the Latin root meaning, not the modern English derivative.",
+    "suggestion": "Change homeLang for 'par' from 'hazırla' to 'hazır et' or clarify it as the Latin root 'parare' (make ready), since 'hazırla' is circular (using the English meaning in Turkish).",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'organ-ize-ation' is incorrect. The actual morpheme structure is 'organ-iz-ation' or better analyzed as 'organ-ize-ation' where 'organize' is the base verb. However, 'organ' as glossed ('gövde/araç') is misleading for understanding the morpheme; the root relates to a tool/instrument, not body parts in this context.",
+    "suggestion": "The parts should more clearly show: 'organ' (instrument/tool, from Greek) + '-ize' (to make/cause) + '-ation' (noun suffix). The gloss for 'organ' should reflect the Greek meaning (instrument/tool for work), not body anatomy.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'sat-is-faction' treats 'is' as a separate morpheme glossed as 'yap/et' (make/do), but this is inaccurate. The actual structure is 'satis-fac-tion' where 'satis' = enough/sufficient and 'fac' = make/do. The '-is' in 'sat' is part of the Latin root 'satis', not a separate suffix.",
+    "suggestion": "Restructure as: 'satis' (yeter/yeterli - enough) + 'fac' (yap/et - make) + 'tion' (-tion). Remove the artificial 'is' morpheme; it's part of the root 'satis'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "qualification",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as qual-i-fy-ation, not qual-ify-ation. The '-i-' is a connecting vowel that should be separated from '-fy'.",
+    "suggestion": "Split into: qual, -i-, -fy, -ation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "identification",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as ident-i-fy-ation, not ident-ify-ation. The '-i-' is a connecting vowel that should be separated from '-fy'.",
+    "suggestion": "Split into: ident, -i-, -fy, -ation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'e-' in evaluation is not 'ex-' (meaning 'out' or 'away'). The 'e-' here is a connecting vowel before 'val-', not the Latin prefix 'ex-'. The word derives from 'value' with evaluare, not from 'ex-' + 'val'.",
+    "suggestion": "Should be split as e-val-uation, and 'e' should be marked as a connecting vowel, not as the prefix 'dış-'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "understandable",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'dur' (Turkish for 'stop/stand') is misleading. In 'understand', the 'stand' comes from Old English and means 'to be present/remain', related to 'standing still' or 'being present'. The connection to meaning is not straightforward etymologically (it's a frozen compound where under+stand no longer reflects 'stand under').",
+    "suggestion": "Either remove the gloss or clarify it as 'stand' (from Old English for 'to be present/remain'), noting this is a frozen compound",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "incredible",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'cred' is glossed as 'inanmak' (to believe), but this is semantically imprecise. 'Cred' comes from Latin 'credere' (to believe/trust), so the gloss should reflect the root meaning more accurately as 'inanç/güven' or similar, not a verb form.",
+    "suggestion": "Change homeLang to reflect the Latin root meaning: 'inanç' or 'güven' (belief/trust) rather than the verb 'inanmak'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "invisible",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'vis' is glossed as 'görmek' (to see), but 'vis' comes from Latin 'visus/videre' and relates to sight/vision. The gloss should reflect 'görüş/görme' (sight/vision) as a noun concept, not the verb 'görmek'.",
+    "suggestion": "Change homeLang to 'görü' or 'görme' (sight/vision) to more accurately represent the Latin root",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "There is a typo: 'sorumsutz' should be 'sorumsuzsuz' or more naturally 'sorumsuzsuz'. The word appears corrupted with a stray 'z'.",
+    "suggestion": "Change 'sorumsutz' to 'sorumsuzsuz' or simply 'sorumsuzsuz'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as ir + reverse + ible, not ir + reverse + ible. The prefix 'ir-' is a variant of 'in-' that assimilates before 'r', but 'reverse' itself is a complete morpheme (re + verse) that could be further analyzed. However, the main issue is that 'ible' should be '-ible' (the actual suffix form), not listed as a separate part without showing it's a suffix.",
+    "suggestion": "Either split more completely as ir + re + verse + ible, or clarify that 'ible' is the suffix '-ible' by marking it with a hyphen in targetLang as '-ible'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'destruct' is itself derived from 'de + struct' and could be further analyzed. Additionally, 'ible' should be marked as a suffix with a hyphen '-ible' for consistency and clarity.",
+    "suggestion": "Split as in + de + struct + ible, or at minimum mark the suffix as '-ible' in targetLang",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'historic' is itself a compound (histo + ric) or derived form that could be further analyzed as hist + or + ic. The entry splits it as a single unit when it contains multiple morphemes.",
+    "suggestion": "Split as pre + hist + or + ic, or at minimum as pre + hist + oric to show the internal structure",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The example 'anticipate (önceden tahmin etmek)' is misleading. 'Anticipate' contains 'anti-' but does not mean 'against' — it comes from Latin 'anticipare' (to take before). This is a false cognate that makes the morpheme explanation confusing.",
+    "suggestion": "Remove 'anticipate' from the examples or clarify that it is not a true 'anti-' prefix word. Better examples: 'antimatter', 'antitoxin', 'antithesis'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'matic' should be split as 'mat' (from Latin 'matus' meaning 'make/do') plus '-ic' (adjective suffix). The current split 'matic' as 'hareket' (movement) is inaccurate — '-matic' is not a standalone morpheme meaning movement.",
+    "suggestion": "Split into: auto + mat + ic, or acknowledge that 'matic' comes from Greek 'matikos' related to 'automatos' (acting by itself), not 'hareket'. Alternatively, simplify to 'auto + (matic)' and clarify that '-matic' means 'operating by itself'.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "geography",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'yer' (place/ground) is not the actual etymological source of 'geo'. The morpheme comes from Greek 'gē' meaning 'earth', not Turkish 'yer'. While they are semantically related, the homeLang should reflect the actual etymology or be clearly marked as a functional equivalent.",
+    "suggestion": "Use 'gē (Grek: yer/toprak)' to clarify it's the Greek root, or note that 'yer' is a functional translation equivalent rather than the etymological source",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "geography",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-grafi' suggests this is a Turkish morpheme, but 'graph' is from Greek 'graphia' (writing). The entry is confusing by using Turkish '-grafi' as if it were the source when it's actually borrowed from the same Greek root.",
+    "suggestion": "Change to 'graphia (Grek: yazma/kayıt)' to show it's the Greek source, not a Turkish morpheme",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "'respons' is not a standard morpheme boundary. The word should be split as 're-' (back/again) + 'spond-' (to answer/commit) + '-ibility'. The current split masks the internal structure.",
+    "suggestion": "Split into: re- + spond + -ibility, or at minimum acknowledge 'respons-' as a Latin root that itself contains multiple elements",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'Grubun popülaritesi dünya çapında arttı' is awkward; 'popülaritesi' is a direct loanword. More natural Turkish would be 'Grubun popülaritesi/ünü dünya çapında arttı' or better 'Grup dünya çapında ün kazandı.'",
+    "suggestion": "Use 'Grup dünya çapında ün kazandı.' or 'Grubun popülaritesi dünya çapında arttı.' (with slight adjustment to flow)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'Çoğu modern ev elektrik gücüne bağımlıdır' is grammatically awkward. The phrase 'elektrik gücüne bağımlıdır' is unnatural; more natural would be 'elektriğe bağımlıdır' or 'elektrik enerjisine ihtiyaç duyar'.",
+    "suggestion": "Change to 'Çoğu modern ev elektriğe bağımlıdır.' or 'Çoğu modern ev elektrik enerjisine ihtiyaç duyar.'",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "photographer",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'photo' + 'graph' + 'er', but 'photograph' is the base unit that should be kept intact. The morphological analysis should be 'photograph' + 'er', not further decomposed into photo + graph, since the -graph element in 'photograph' is not independently productive in modern English morphology the way -er is.",
+    "suggestion": "Split as: photograph (fotoğraf) + -er (ek), rather than photo + graph + -er",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The first morpheme 'communicate' is glossed as 'iletişim' (noun: communication), but the base verb form should be glossed as 'iletişim kur' or 'iletişim kurmak' (to communicate) to reflect that it is the verb, not the noun.",
+    "suggestion": "Change homeLang from 'iletişim' to 'iletişim kur' or 'iletişim kurmak' to properly represent the verb base",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'com-mun-icate' is incorrect. The correct morphemic boundary is 'com-' (prefix) + 'munic-' (root from Latin munis/municeps) + '-ate' (suffix). 'Mun' alone is not a meaningful morpheme; 'munic-' is the actual root.",
+    "suggestion": "Split as: com- (together) + munic- (from Latin munis, related to duty/service) + -ate (verb suffix)",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "investigate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'iz/ayak' (trace/foot) is overly simplistic. While vestigium does mean 'footprint/trace,' in 'investigate' the morpheme 'vestig-' carries the sense of 'tracking' or 'following a trail,' not just the literal 'foot.' The homeLang gloss should reflect the semantic function in the word.",
+    "suggestion": "Change to 'iz/ayak izi' or 'takip etme' to better capture that this root means 'following a trace/track' in the context of investigation",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'par-ticip-ate' with 'ticip' glossed as 'al' (take) is misleading. The correct analysis is: 'par-' (from pars, part) + '-ticip-' (from capere, to take), but 'ticip' is not an independently meaningful morpheme in English; it's part of the bound morpheme '-ticip-' which derives from Latin participium. The current split obscures this.",
+    "suggestion": "Consider splitting as: 'par-' (part) + '-ticipate' (the bound morpheme containing capere 'to take') + '-ate' (verb suffix), or note that '-ticipate' is a fused Latin-derived element",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix is split as '-ulate' but this masks the structure. The actual suffix is '-ate' (verb suffix), and '-ul-' is a diminutive/iterative infix (as correctly noted in homeLangDetails). The splitting should clarify this layering: 'congrat-' + '-ul-' (diminutive/iterative) + '-ate' (verb suffix).",
+    "suggestion": "Split as: con- (together) + grat- (favor/grace) + -ul- (diminutive/iterative infix) + -ate (verb suffix), or explicitly note that '-ulate' contains a diminutive element",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 4 parts (mis-inter-pret-et), but 'pret' is not a standalone morpheme in 'misinterpret'. The correct split should be 'mis-interpret', where 'interpret' is the base word. The explanation conflates Latin etymology with modern English morphology.",
+    "suggestion": "Split as: mis- (wrongly) + interpret (to explain the meaning of). The base 'interpret' should not be further decomposed into 'inter-pret-et' for a learner-friendly entry.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'açıklamak' (to explain) for 'pret' is misleading. In 'interpret', the Latin root is 'interpretari' (to explain), but 'pret' on its own is not a distinct morpheme in modern English. This analysis artificially decomposes a Latin root that functions as a unit.",
+    "suggestion": "Remove the separate 'pret' and 'et' morphemes. Instead, present 'interpret' as a single base morpheme meaning 'açıklamak' (to explain/interpret).",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_translation",
+    "field": "parts[3].homeLang",
+    "issue": "The note '(mastar)' (infinitive marker) is inaccurate. English does not use '-et' as an infinitive suffix in 'misinterpret'. This appears to be a Latin infinitive ending, not relevant to modern English morphology.",
+    "suggestion": "Remove this morpheme or clarify that it is not a productive English morpheme. The word 'misinterpret' does not contain a separate '-et' suffix in modern usage.",
+    "source_file": "en-tr.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The split de-con-struct is problematic because 'con' in 'construct' is not separate from the root; 'construct' is a single base word. While one could argue for a Latin etymology de-+con-+struct, for a language-learning game this is not a synchronic English morpheme boundary.",
+    "suggestion": "Split as: de- (undo/reverse) + construct (to build). Treat 'construct' as the base morpheme rather than splitting it further into 'con-struct'.",
+    "source_file": "en-tr.json"
+  }
+]

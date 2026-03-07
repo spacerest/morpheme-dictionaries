@@ -1,0 +1,91 @@
+{
+  "words": [
+    {
+      "id": "misforståelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "wrongly/badly",
+          "homeLangDetails": "Identical in form and meaning to English \"mis-,\" signalling that something is done incorrectly or badly. This is one of the easiest Danish prefixes for English speakers. Examples: misforstå (misunderstand), mislykkes (fail), mistro (distrust)."
+        },
+        {
+          "targetLang": "for",
+          "homeLang": "intensive",
+          "homeLangDetails": "The same intensifying for- seen in forståelse — here it's simply part of the base word forståelse (understanding) that mis- is attached to."
+        },
+        {
+          "targetLang": "stå",
+          "homeLang": "stand"
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Turns verbs and adjectives into abstract nouns, roughly like English \"-ness\" or \"-ance.\" It is one of the most productive suffixes in formal and everyday Danish alike. Examples: følelse (feeling), forståelse (understanding), oplevelse (experience)."
+        }
+      ],
+      "translationShort": "misunderstanding",
+      "translationLong": "misunderstanding, misconception",
+      "exampleSentence": "Det var en total misforståelse fra min side.",
+      "exampleTranslation": "It was a total misunderstanding on my part.",
+      "flag": "4 parts — borderline, but each is a meaningful morpheme in its own right"
+    },
+    {
+      "id": "udslettelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ud",
+          "homeLang": "out",
+          "homeLangDetails": "Mirrors English \"out-\" almost perfectly, giving a sense of outward movement or completion. You will spot it constantly in spoken Danish because Danes love phrasal-verb-style compounds. Examples: udgang (exit), udvikle (develop), udtale (pronounce)."
+        },
+        {
+          "targetLang": "slet",
+          "homeLang": "wipe/erase",
+          "homeLangDetails": "From the verb slette (to erase, to wipe out, to delete). Related to 'slet' meaning bad or plain — the core idea is reducing something to nothing."
+        },
+        {
+          "targetLang": "t",
+          "homeLang": "(past participle stem)",
+          "homeLangDetails": "The -t here is part of the participial stem of slette → udslettet, before the abstract noun suffix -else is added."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Turns verbs and adjectives into abstract nouns, roughly like English \"-ness\" or \"-ance.\" It is one of the most productive suffixes in formal and everyday Danish alike. Examples: følelse (feeling), forståelse (understanding), oplevelse (experience)."
+        }
+      ],
+      "translationShort": "annihilation, erasure",
+      "translationLong": "annihilation, erasure, obliteration, extermination",
+      "exampleSentence": "Krigen førte til udslettelse af hele landsbyer.",
+      "exampleTranslation": "The war led to the annihilation of entire villages.",
+      "flag": "only 1 part — consider flagging complexity"
+    },
+    {
+      "id": "selvbevidsthed",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "selv",
+          "homeLang": "self",
+          "homeLangDetails": "An independent Danish word meaning 'self' or 'oneself', used as a compounding element much like English 'self-' in 'self-awareness'."
+        },
+        {
+          "targetLang": "bevidst",
+          "homeLang": "conscious/aware",
+          "homeLangDetails": "From 'bevidst' (conscious, aware). Related to 'vide' (to know) — so 'bevidst' is something like 'be-knowledged', i.e., aware or conscious."
+        },
+        {
+          "targetLang": "hed",
+          "homeLang": "state/quality noun",
+          "homeLangDetails": "The direct cognate of English \"-hood\" and German \"-heit,\" it creates abstract nouns from adjectives describing a state or quality. Examples: frihed (freedom), skønhed (beauty), sandhed (truth)."
+        }
+      ],
+      "translationShort": "self-awareness",
+      "translationLong": "self-awareness, self-consciousness",
+      "exampleSentence": "Selvbevidsthed er en vigtig egenskab for en leder.",
+      "exampleTranslation": "Self-awareness is an important quality for a leader.",
+      "flag": "3 parts, but 'selvbevidsthed' could be further split (selv + be + vidst + hed); kept at 3 meaningful units for clarity"
+    }
+  ]
+}

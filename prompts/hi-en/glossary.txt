@@ -1,0 +1,52 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# Hindi morpheme glossary (Devanagari script)
+# Morphemes appear as they do in actual Hindi words.
+# Two main layers: Sanskrit-origin (upsarg/pratyay) and Persian/Arabic-origin affixes.
+
+# Prefixes (उपसर्ग — Upsarg)
+
+## Sanskrit-origin prefixes
+अ- | not, without | The most common negation prefix, from Sanskrit. Flips the meaning of the base word. अभाव (abhāv, absence/lack), अज्ञान (ajñān, ignorance), असंभव (asambhav, impossible). Learners can think of it like English "un-" or "non-".
+अन- | not, without | Variant of अ- used before vowel-initial stems. अनुचित (anucit, improper), अनादर (anādar, disrespect). The extra न prevents vowel collision.
+अति- | excessive, over- | Signals going beyond a normal limit, like English "over-" or "hyper-". अत्याचार (atyācār, oppression/excess), अतिरिक्त (atirikt, extra), अति (ati, too much).
+अनु- | after, following | Indicates following, repetition, or accordance with something. अनुवाद (anuvād, translation — speaking after/following), अनुसरण (anusaraṇ, following/imitation), अनुभव (anubhav, experience).
+अप- | away, mis-, bad | Indicates removal, deterioration, or doing something wrongly. अपमान (apmān, insult/dishonor — wrong respect), अपशब्द (apśabd, abusive word), अपव्यय (apvyay, waste).
+आ- | up to, fully, toward | Indicates completeness, extent, or direction toward. आजीवन (ājīvan, lifelong — up to life's end), आकर्षण (ākarṣaṇ, attraction), आगमन (āgaman, arrival/coming toward).
+उप- | near, sub-, under | Indicates proximity, subordination, or a secondary version. उपनाम (upnām, surname — near/secondary name), उपयोग (upyog, use/utility), उपहार (uphār, gift — something brought near).
+नि- | down, fully, in | Indicates direction inward, completeness, or intensification. निर्माण (nirmāṇ, construction — making completely), निवास (nivās, residence — dwelling in), नियम (niyam, rule).
+परि- | around, fully | Indicates surrounding, completeness, or thoroughness. परिवार (parivār, family — those around one), परिणाम (pariṇām, result — what comes around), परिश्रम (pariśram, hard work — working all around).
+प्र- | forward, forth, intensely | Indicates forward movement, high degree, or prominence. प्रगति (pragati, progress — moving forward), प्रयोग (prayog, experiment/use), प्रसिद्ध (prasiddha, famous).
+वि- | apart, special, without | Indicates separation, negation, or distinction. विशेष (viśeṣ, special), विदेश (videś, foreign country — apart from one's country), विश्वास (viśvās, trust/belief).
+सम्-/सं- | together, complete | Indicates togetherness, completeness, or thoroughness. संगठन (saṅgaṭhan, organization), संभव (sambhav, possible), संस्कृति (saṃskṛti, culture — refined/made together).
+सु- | well, good, easy | Indicates goodness, ease, or positive quality. सुंदर (sundar, beautiful — well-formed), सुरक्षा (surakṣā, protection/safety), सुविधा (suvidhā, convenience).
+स्व- | self, own | Indicates self-reference or one's own. स्वतंत्र (svatantra, independent — own rule), स्वास्थ्य (svāsthya, health — own-wellbeing), स्वागत (svāgat, welcome).
+दुर्-/दुस्- | bad, difficult | Indicates difficulty, badness, or misfortune. दुर्भाग्य (durbhāgya, misfortune — bad fortune), दुराचार (durācār, misconduct), दुस्साहस (dussāhas, recklessness).
+
+## Persian/Arabic-origin prefixes
+बद- | bad, ill | From Persian, signals something negative or morally bad. बदनाम (badnām, ill-reputed — bad name), बदकिस्मत (badkismat, unlucky), बदतमीज़ (badtamīz, ill-mannered).
+बे- | without, lacking | From Persian, equivalent of English "un-" or "-less". बेकार (bekār, useless — without work), बेघर (beghar, homeless — without house), बेईमान (beīmān, dishonest).
+कम- | less, under- | Indicates deficiency or lesser degree. कमज़ोर (kamzor, weak — less strong), कमअक्ल (kamaql, foolish — less sense), कमसिन (kamsin, young/minor).
+ख़ुश- | happy, good | From Persian, indicates happiness or pleasantness. ख़ुशबू (khushbū, fragrance — happy smell), ख़ुशहाल (khushhāl, prosperous — happy state), ख़ुशनसीब (khushnasīb, lucky).
+ना- | not, un- | From Persian, a common negation prefix in everyday Hindi. नाराज़ (nārāz, displeased — not pleased), नाकाम (nākām, unsuccessful), नासमझ (nāsamajh, foolish — not understanding).
+ला- | without, lacking | From Arabic لا (lā, no/not). लाजवाब (lājawāb, matchless — without answer), लापरवाह (lāparvāh, careless), लाइलाज (lāilāj, incurable).
+हम- | together, fellow | From Persian, indicates shared identity or companionship. हमदर्द (hamdard, sympathetic — fellow pain), हमसफ़र (hamsafar, fellow traveler), हमउम्र (hamumr, same-aged).
+
+# Suffixes (प्रत्यय — Pratyay)
+
+## Sanskrit-origin suffixes
+-ता (-tā) | -ness, abstract quality | The most common suffix for forming abstract nouns from adjectives. सुंदरता (sundaratā, beauty), स्वतंत्रता (svatantratā, independence), कठिनता (kaṭhinatā, difficulty). Equivalent to English "-ness".
+-त्व (-tva) | -ness, -hood | More formal abstract noun suffix, often in philosophical or elevated registers. मानवत्व (mānavatva, humanity), नेतृत्व (netṛtva, leadership), राष्ट्रत्व (rāṣṭratva, nationhood).
+-पन (-pan) | -ness, state of | Colloquial and warm abstract noun suffix, common in everyday speech. बचपन (bacpan, childhood), अपनापन (apnāpan, sense of belonging), बड़प्पन (baṛappan, greatness/nobility).
+-मान/-वान (-mān/-vān) | possessing, having | Indicates having a quality in abundance. बुद्धिमान (buddhimān, intelligent — having intellect), धनवान (dhanvān, wealthy — having wealth), बलवान (balvān, powerful).
+-हीन (-hīn) | lacking, without | Indicates absence of a quality, like English "-less". गुणहीन (guṇhīn, without virtue), बलहीन (balhīn, powerless), आधारहीन (ādhārhīn, baseless).
+
+## Hindi/colloquial suffixes
+-आई (-āī) | process, fee, quality | Forms abstract nouns from verbs, often indicating a process or its cost. पढ़ाई (paṛhāī, studying/education), लिखाई (likhāī, writing), सिलाई (silāī, sewing/stitching fee).
+-ई (-ī) | relating to, adjective | Forms adjectives or feminine nouns indicating belonging or origin. देशी (deśī, domestic/local), विदेशी (videśī, foreign), घरेलू (ghareloo, domestic/homely).
+-वाला/-वाली (-vālā/-vālī) | one associated with | Extremely common suffix indicating a person associated with something — their trade, vehicle, or characteristic. दूधवाला (dūdhvālā, milkman), स्कूलवाला (skūlvālā, school person), गाड़ीवाला (gāṛīvālā, driver/vehicle owner). The -वाली form is feminine.
+
+## Persian/Arabic-origin suffixes
+-कार (-kār) | doer, maker, artist | Agent noun from Persian, indicating someone who does or makes something. कलाकार (kalākār, artist), लेखकार (lekhkār, writer), नमस्कार (namaskār, greeting — maker of respect).
+-दार (-dār) | holder, possessor | From Persian, indicates someone who holds or possesses something. दुकानदार (dukāndār, shopkeeper — shop holder), ज़मींदार (zamīndār, landowner), ज़िम्मेदार (zimmedār, responsible — holder of responsibility).
+-ख़ोर (-khor) | consumer, eater of | From Persian, indicates someone who consumes something (often negatively). रिश्वतख़ोर (riśvatkhor, bribe-taker), ग़म-ख़ोर (ghamkhor, one who consumes sorrow/sympathetic).
+-बाज़ (-bāz) | player, practitioner | From Persian, indicates someone habitually doing something, often with a negative or playful tone. धोखेबाज़ (dhokebāz, cheater — deception player), जादूबाज़ (jādūbāz, magician).

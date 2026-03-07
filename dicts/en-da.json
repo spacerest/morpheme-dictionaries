@@ -1,0 +1,4593 @@
+{
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ind-/ikke eller ind"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kaste"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "indsprøjtning",
+      "translationLong": "det at sprøjte noget ind; væske som bliver presset ind i kroppen",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "Sygeplejersken gav mig en indsprøjtning for at hjælpe med smerten."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "frem/for",
+          "homeLangDetails": "Fremad, til fordel for, eller i stedet for. Tænk på ord som fremskridt, fremstille, pronomen."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kaste"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "projektion",
+      "translationLong": "noget som stikker ud; et skøn eller en forudsigelse",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "Salgsprognosen viser stærk vækst næste kvartal."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "imod",
+          "homeLangDetails": "Fra latinsk, betyder typisk 'imod' eller 'mod'. I dette ord handler det om at kaste noget mod eller i opposition til noget andet."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kaste"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "indsigelse",
+      "translationLong": "et udtryk for uenighed eller misbilligelse",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "Han rejste en indsigelse mod forslaget under mødet."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "før",
+          "homeLangDetails": "Før i tid eller sted. Tænk på ord som forudsige, forberede, forhistorisk."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "sige"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "forudsigelse",
+      "translationLong": "en udtalelse om hvad der skal ske i fremtiden",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "Vejrudsigelsen for i morgen er regn."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "imod",
+          "homeLangDetails": "Fra latinsk contra, betyder 'imod'. Her kombineres det med roden 'dict' (sige) for at udtrykke 'at sige imod' eller 'at tale imod'."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "sige"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "modsigelse",
+      "translationLong": "en udtalelse eller situation som modsiger noget andet",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "Der er en klar modsigelse i hans to udsagn."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "ret"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "sige"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "jurisdiktion",
+      "translationLong": "den officielle magt til at træffe juridiske afgørelser og håndhæve love",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Denne sag falder under den føderale domstols jurisdiktion."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "på tværs",
+          "homeLangDetails": "På tværs af, gennem, eller fra en tilstand til en anden. Transport, transformation, oversættelse."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "transport",
+      "translationLong": "flytning af mennesker eller varer fra et sted til et andet",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Offentlig transport er billigere end at køre bil."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/omvendt",
+          "homeLangDetails": "Nedad, væk, eller omvendt en handling. Mindsker, afgår, dekonstruer. Ofte helt modsat af grundordet."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "udvisning",
+      "translationLong": "tvungen fjernelse af en person fra et land",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "Udvisningssagen varede flere måneder."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "ind-/ikke eller ind"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "import",
+      "translationLong": "det at bringe varer ind i et land fra udlandet",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "Importen af udenlandske varer er steget i år."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygge"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "konstruktion",
+      "translationLong": "processen med at bygge noget; en struktur som bliver bygget",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "Bygningen af den nye bro vil tage to år."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/ophævelse",
+          "homeLangDetails": "Nedad, væk fra eller ophævelse af en handling. Forringelse, fravær, nedbrydelse. Ofte lige det modsatte af grundordet."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygge"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ødelæggelse",
+      "translationLong": "handlingen at ødelægge noget; alvorlig skade eller ruin",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "Orkanen forårsagede omfattende ødelæggelser."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "igen",
+          "homeLangDetails": "Angiver gentagelse eller en tilbagevenden til en tidligere tilstand. Fra latin re- optræder det i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan det udskiftes med 'at gøre igen' eller 'at gå tilbage'."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygge"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "genopbygning",
+      "translationLong": "processen med at genopbygge noget, der var ødelagt eller beskadiget",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "Genopbygningen af byen efter branden tog mange år."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "i/ikke eller ind"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "se"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "inspektion",
+      "translationLong": "en omhyggelig undersøgelse eller gennemgang af noget",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "Bygningen bestod sikkerheds inspektionen."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "gennem",
+          "homeLangDetails": "Gennem, grundigt eller fuldstændigt. Perform, permit, persist."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "se"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv",
+          "homeLangDetails": "Tilbøjelig til eller har karakteren af noget. Aktiv, kreativ, beskrivende."
+        }
+      ],
+      "translationShort": "perspektiv",
+      "translationLong": "en særlig måde at betragte eller forstå noget på; synspunkt",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Fra mit perspektiv er planen for risikabel."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "tilbage",
+          "homeLangDetails": "Fra latin retro, der betyder 'tilbage' eller 'bagud'. Det kombineres med 'spect' (se) for at betyde 'at se tilbage' på fortiden."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "se"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv",
+          "homeLangDetails": "Tilbøjelig til eller har karakteren af noget. Aktiv, kreativ, beskrivende."
+        }
+      ],
+      "translationShort": "retrospektiv",
+      "translationLong": "en gennemgang eller undersøgelse af tidligere begivenheder; vedrørende eller omhandlende tidligere begivenheder",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Museet afholdta retrospektiv udstilling af kunstnerens værker."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "før",
+          "homeLangDetails": "Før i tid eller position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skrive"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "recept",
+      "translationLong": "en skriftlig lægeordre på medicin; et sæt instruktioner",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "Lægen gav mig en recept på antibiotika."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/ophævelse",
+          "homeLangDetails": "Nedad, væk fra eller ophævelse af en handling. Forringelse, fravær, nedbrydelse. Ofte lige det modsatte af grundordet."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skrive"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "beskrivelse",
+      "translationLong": "en mundtlig eller skriftlig redegørelse for noget; en afbildning",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Hendes beskrivelse af begivenheden var meget detaljeret."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, nedenfor eller sekundær. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skrive"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "abonnement",
+      "translationLong": "en regelmæssig betaling for en service eller publikation; en underskrift",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Jeg har abonnement på tre magasiner."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ud af"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "presse"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "udtryk",
+      "translationLong": "formidling af følelser eller betydning; en sætning eller ord",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Hendes udtryk viste, at hun var utilfreds."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/ophævelse",
+          "homeLangDetails": "Nedad, væk fra eller ophævelse af en handling. Forringelse, fravær, nedbrydelse. Ofte lige det modsatte af grundordet."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "presse"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "depression",
+      "translationLong": "en mental sundhedstilstand karakteriseret af tristhed; et sunket eller hult område",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Hun søgte behandling for sin depression."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/ind-"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "tryk"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "et indtryk eller følelse; et mærke fra at trykke",
+      "translationLong": "et indtryk eller følelse om noget; et mærke eller aftryk lavet ved at trykke",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Jeg fik indtryk af, at han ikke var glad."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "til/mod"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "træk"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "en følelse af interesse eller tiltrækning",
+      "translationLong": "en følelse af interesse eller tiltrækning; noget der tiltrekker mennesker",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Temaparken er hovedattrraktionen for turister."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ud af"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "træk"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "det at fjerne eller tage ud",
+      "translationLong": "det at fjerne eller tage ud; fjernelse af en tand",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "Tandlægen anbefalede tandudtrækning."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "fra/ud-",
+          "homeLangDetails": "Fra eller adskilt. Disagree bliver til uenig, disconnect bliver til afbryde, disappear bliver til forsvinde. Har en stærkere følelse af adskillelse end de fleste andre præfikser."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "træk"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "noget der afleder opmærksomheden",
+      "translationLong": "noget der afleder opmærksomheden fra en opgave; tilstanden at være afledt",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Støjen var en stor distraktíon under testen."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "gennem",
+          "homeLangDetails": "Gennem, helt igennem eller fuldstændigt. Perform bliver til udføre, permit bliver til tillade, persist bliver til fortsætte. Det giver ofte en følelse af at noget går helt igennem."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "officielt samtykke eller godkendelse",
+      "translationLong": "officielt samtykke eller godkendelse til at gøre noget",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Du skal have tilladelse fra lederen for at gå tidligt."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "på tværs",
+          "homeLangDetails": "På tværs, gennem eller fra en tilstand til en anden. Transport bliver til transport, transform bliver til forandre, translate bliver til oversætte."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "det at sende noget; en køretøjsmekanisme",
+      "translationLong": "det at sende noget fra et sted til et andet; en mekanisme i et køretøj",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "Datatransmissionen foregik uden fejl."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "send"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord ud fra verber og refererer til handlingen, dens resultat eller dens middel. Government bliver til regering, movement bliver til bevægelse, enjoyment bliver til glæde."
+        }
+      ],
+      "translationShort": "et løfte; dedikation",
+      "translationLong": "et løfte om at gøre noget; dedikation til en sag eller person",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Hendes indsats for projektet var usvigelig."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tilbage",
+          "homeLangDetails": "Her bruger re- sin ældre latinske betydning 'tilbage' snarere end 'igen'. Receive betyder at tage imod (eller tilbage), recede betyder at gå tilbage, og refer betyder at føre tilbage til en kilde."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "tag"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "det at modtage; et formelt arrangement",
+      "translationLong": "det at modtage; et formelt arrangement eller event; kvaliteten af signalmodtagelse",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "Bryllupsreceptionen blev holdt på et lokalt hotel."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "gennem",
+          "homeLangDetails": "Gennem, helt igennem eller fuldstændigt. Perform bliver til udføre, permit bliver til tillade, persist bliver til fortsætte."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "tag"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "evnen til at forstå eller blive klar over",
+      "translationLong": "evnen til at forstå eller blive klar over noget gennem sanserne; en bevidsthed",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "Hans opfattelse af tid ændrede sig efter ulykken."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/fra-",
+          "homeLangDetails": "Nedad, væk fra eller tilbagerulling af en handling. Decrease bliver til mindske, depart bliver til tage af sted, deconstruct bliver til dekonstruere. Vendinger ofte helt tilbage til det modsatte af grundordet."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "tag"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "det at bedrage eller vildlede",
+      "translationLong": "det at bedrage eller vildlede nogen; et trick eller løgn",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "Bedragelsen blev til sidst afsløret."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tilbage",
+          "homeLangDetails": "Her betyder re- det ældre latinske 'tilbage' snarere end 'igen' — receive betyder at tage tilbage (eller ind), recede betyder at gå tilbage, og refer betyder at føre tilbage til en kilde."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "reference",
+      "translationLong": "en kilde man søger informationer fra; en henvisning eller omtale",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "Jeg brugte den bog som reference til min essay."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "conference",
+      "translationLong": "et formelt møde eller diskussion",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "Den årlige konference samler videnskabsmænd fra hele verden."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellem",
+          "homeLangDetails": "Mellem eller blandt. International, interrupt, interact."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bære"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "interference",
+      "translationLong": "handlingen at blande sig; uønskede signaler der forstyrrer en transmission",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radioforstyrrelser afbrød udsendelsen."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vende"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "conversion",
+      "translationLong": "processen med at ændre fra en form, tilstand eller tro til en anden",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "Ombygningen af lageret til lejligheder tog flere måneder."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "indad"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vende"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "introversion",
+      "translationLong": "en tilbøjelighed til at fokusere indad på egne tanker og følelser",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Hendes introversion gjorde, at hun foretrækker stille aftener hjemme."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, nedenfor eller sekundær. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vende"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "subversion",
+      "translationLong": "handlingen at underminere eller vælte noget etableret",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "Regeringen slog ned på enhver underminering af autoriteten."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/fra",
+          "homeLangDetails": "Her betyder de- sin retningsbestemte betydning 'ned fra' — latin dependere betyder 'at hænge ned fra'. Det vender ikke grundordet; det beskriver et forhold hvor man er afhængig af eller påhængt noget."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hænge"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "dependence",
+      "translationLong": "tilstanden at være afhængig af noget eller nogen",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "Hans afhængighed af kaffe påvirkede hans søvn."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ikke"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "ned/fra",
+          "homeLangDetails": "Her betyder de- sin retningsbestemte betydning 'ned fra' — latin dependere betyder 'at hænge ned fra'. Det vender ikke grundordet; det beskriver et forhold hvor man er afhængig af eller påhængt noget."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hænge"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "independence",
+      "translationLong": "tilstanden at være selvhjulpen og fri fra afhængighed",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "Hun opnåede endelig finansiel uafhængighed."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellem",
+          "homeLangDetails": "Mellem eller blandt. International, interrupt, interact."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "ned/fra",
+          "homeLangDetails": "Her betyder de- sin retningsbestemte betydning 'ned fra' — latin dependere betyder 'at hænge ned fra'. Det vender ikke grundordet; det beskriver et forhold hvor man er afhængig af eller påhængt noget."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hænge"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "interdependence",
+      "translationLong": "gensesidig afhængighed blandt forskellige parter eller grupper",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Globale økonomier viser stigende gensesidighed."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "mod"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "løbe"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "occurrence",
+      "translationLong": "en forekomst eller begivenhed af noget, der sker",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "Forekomsten af jordskælv i det område er almindelig."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "igen",
+          "homeLangDetails": "Signalerer gentagelse eller venden tilbage til en tidligere tilstand. Fra latin re- optræder det i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan du bare tænke på det som 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "løbe"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "tilbagevendelse",
+      "translationLong": "det at noget sker eller dukker op igen",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "Tilbagevendelsen af migræneanfald blev et alvorligt problem."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "sammen"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "løbe"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        }
+      ],
+      "translationShort": "samtidig",
+      "translationLong": "sker eller findes på samme tid",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "De to begivenheder var samtidige og skete på samme tid."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tilbage",
+          "homeLangDetails": "Her betyder re- den ældre latinske betydning 'tilbage' snarere end 'igen'. Receive betyder at tage tilbage (eller ind), recede betyder at gå tilbage, og refer betyder at føre tilbage til en kilde."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "recession",
+      "translationLong": "en økonomisk tilbagegang; en periode med midlertidig reduktion i aktivitet",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Landet oplevede en alvorlig recession i begyndelsen af 2000'erne."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "under"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "rækkefølge",
+      "translationLong": "en serie af ting der følger efter hinanden; processen med at følge efter hinanden",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "Rækkefølgen af konger varede i tre århundreder."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, nedarvet fra Oldengelsk. Det minder præcist om tysk un-, hollandsk on- og lignende ord på tværs af germanske sprog. Det vender betydningen af ord på hovedet: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "før",
+          "homeLangDetails": "Før i tid eller position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(fortid)"
+        }
+      ],
+      "translationShort": "hidtil uset",
+      "translationLong": "aldrig gjort eller kendt før; uden præcedens",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "Pandemien forårsagede hidtil uset forstyrrelser på skoler verden over.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "på tværs af",
+          "homeLangDetails": "På tværs af, gennem, eller ændring fra en tilstand til en anden. Transport, transform, translate."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "transformation",
+      "translationLong": "handlingen eller processen med at ændre form",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "Transformationen fra larve til sommerfugl er bemærkelsesværdig."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "igen",
+          "homeLangDetails": "Signalerer gentagelse eller venden tilbage til en tidligere tilstand. Fra latin re- optræder det i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan du bare tænke på det som 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "reformation",
+      "translationLong": "handlingen med at danne igen eller reformere",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "Reformationen var en stor religiøs bevægelse i 1500-tallets Europa."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "i"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "information",
+      "translationLong": "fakta eller detaljer der bliver givet eller læret",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Jeg fandt nyttig information om emnet online."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellem",
+          "homeLangDetails": "Mellem eller blandt. International, interrupt, interact."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryde"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "afbrydelse",
+      "translationLong": "et brud i kontinuiteten eller en pause",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "Der var en kort afbrydelse under mødet."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "fra hinanden",
+          "homeLangDetails": "Ikke, eller at skille fra hinanden. Disagree, disconnect, disappear. Har en stærkere følelse af separation eller vending end un-."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryde"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "forstyrrelser",
+      "translationLong": "en forstyrrelse eller problem som afbryder",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "Stormen forårsagede større forstyrrelser i transporten."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "sam-/sammen"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryde"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "korruption",
+      "translationLong": "uærlig eller umoralsk adfærd; tilstanden af at være korrupt",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "Regeringen gjorde en indsats mod korruption."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "selv",
+          "homeLangDetails": "Selv. Autobiografi, automatisk, automobil."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Liv. Biologi, biografi, biologisk nedbrydelig."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-skrivning"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(navneordsendelse)"
+        }
+      ],
+      "translationShort": "autobiografi",
+      "translationLong": "en persons egen skrevne livshistorie",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Hun skrev en autobiografi om sine tidlige år."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Liv. Biologi, biografi, biologisk nedbrydelig."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-skrivning"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(navneordsendelse)"
+        }
+      ],
+      "translationShort": "biografi",
+      "translationLong": "en skriftlig beskrivelse af en persons liv",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Jeg læser en biografi om den berømte videnskabsmand."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "lys"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-skrivning"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(navneordsendelse)"
+        }
+      ],
+      "translationShort": "fotografi",
+      "translationLong": "kunsten eller praksis med at tage fotografier",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Hun har en passion for fotografi."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "sam-/sammen",
+          "homeLangDetails": "En variant af sam-præfikset fra græsk. Det betyder 'sammen' eller 'med' - i symfoni spiller mange instrumenter sammen i harmoni."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-lyd"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(navneordsendelse)"
+        }
+      ],
+      "translationShort": "symfoni",
+      "translationLong": "en udvidet orkesterkomposition",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethovens niende symfoni er et af hans største værker."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "fjern",
+          "homeLangDetails": "På afstand. Telefon, television, teleskop."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-lyd"
+        }
+      ],
+      "translationShort": "telefon",
+      "translationLong": "en enhed til kommunikation over afstand",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Jeg ringer til dig i morgen."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "lille",
+          "homeLangDetails": "Meget lille. Mikrofon, mikroskop, mikroovn."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-lyd"
+        }
+      ],
+      "translationShort": "mikrofon",
+      "translationLong": "en enhed der fanger og forstærker små lyde",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "Sangeren talte ind i mikrofonen."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-tid-",
+          "homeLangDetails": "Tid. Kronologi, synkronisere, anakronisme."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Læren om eller studiet af. Biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "kronologi",
+      "translationLong": "ordningen af begivenheder i tidsfølge",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "Kronologien for begivenhederne er vigtig at forstå."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "sam-/sammen",
+          "homeLangDetails": "En variant af sam-præfikset fra græsk. Det betyder 'sammen' - i synkronisering sker begivenheder eller handlinger på samme tid sammen."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-tid-",
+          "homeLangDetails": "Tid. Kronologi, synkronisere, anakronisme."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-isere"
+        }
+      ],
+      "translationShort": "synkronisere",
+      "translationLong": "at få ting til at ske på samme tid",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Lad os synkronisere vores ure før vi går."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "tilbage",
+          "homeLangDetails": "Et græsk præfiks der betyder 'tilbage' eller 'igen' - i anakronisme er noget uden for sin rigtige tid, går 'tilbage' til den forkerte epoke."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-tid-",
+          "homeLangDetails": "Tid. Kronologi, synkronisere, anakronisme."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-isme",
+          "homeLangDetails": "En tro, praksis, system eller karakteristisk kvalitet. Realisme, kapitalisme, entusiasme."
+        }
+      ],
+      "translationShort": "anakronisme",
+      "translationLong": "noget placeret i den forkerte tidsperiode",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "At have en smartphone i en middelalderlig film ville være en anakronisme."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "sind"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalforbinder (tematisk vokal) brugt i græsk-afledte sammensætninger til at forbinde morfemer glat. Den har ingen selvstændig betydning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Læren om noget, studiet af. Biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "læren om sindet",
+      "translationLong": "det videnskabelige studium af sindet og adfærd",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "Hun læste psykologi på universitetet."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "menneske"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalforbinder (tematisk vokal) brugt i græsk-afledte sammensætninger til at forbinde morfemer glat. Den har ingen selvstændig betydning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Læren om noget, studiet af. Biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "læren om menneskeheden",
+      "translationLong": "det videnskabelige studium af menneskesamfund og kulturer",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Antropologi hjælper os med at forstå forskellige kulturer."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "hud"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalforbinder (tematisk vokal) brugt i græsk-afledte sammensætninger til at forbinde morfemer glat. Den har ingen selvstændig betydning."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Læren om noget, studiet af. Biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "læren om huden",
+      "translationLong": "det medicinske studium af huden og dens sygdomme",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "Jeg har en aftale med en hudlæge."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "sammen",
+          "homeLangDetails": "En variant af syn-, et græsk præfiks der betyder 'sammen' eller 'med'. Her kombineres det med -pathy (følelse) til at betyde 'følelse sammen' – at forstå en andens følelser."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Følelse, lidelse eller tilstand. Fra græsk pathos. Sympati, empati, antipati, apatí."
+        }
+      ],
+      "translationShort": "medfølelse, forståelse",
+      "translationLong": "evnen til at forstå og dele en andens følelser",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "Jeg følte medfølelse over for hendes svære situation."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "ind-",
+          "homeLangDetails": "En variant af en-, et græsk præfiks der betyder 'ind' eller 'inde i'. Her antyder det at trænge ind i eller absorbere en andens følelsestilstand – en dybere og mere imaginativ inddragelse end medfølelse."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Følelse, lidelse eller tilstand. Fra græsk pathos. Sympati, empati, antipati, apatí."
+        }
+      ],
+      "translationShort": "følelsesmæssig forståelse",
+      "translationLong": "evnen til at forstå og føle en andens følelser som om de var dine egne",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empati er vigtig for at være en god ven."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "anti-",
+          "homeLangDetails": "Mod eller til strid imod. Antikrigs, antibiotikum, antipati."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Følelse, lidelse eller tilstand. Fra græsk pathos. Sympati, empati, antipati, apatí."
+        }
+      ],
+      "translationShort": "modvilje, uvillighed",
+      "translationLong": "en stærk følelse af uvillighed eller modstand",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "Han havde en modvilje mod moderne kunst."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "ændring/ud over",
+          "homeLangDetails": "Et græsk præfiks der betyder 'ændring', 'ud over' eller 'på tværs'. Her kombineres det med morph (form) til at beskrive en dyb formændring – forvandlingen af en larve til en sommerfugl."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Form eller skikkelse. Metamorfose, amorf, morfologi."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalforbinder (tematisk vokal) brugt i græsk-afledte sammensætninger til at forbinde morfemer glat. Den har ingen selvstændig betydning."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "Et græsk suffiks der angiver en tilstand, proces eller forhold. Her nominaliserer det begrebet morph (at ændre form) til et substantiv der refererer til processen selv."
+        }
+      ],
+      "translationShort": "forvandling, ændring",
+      "translationLong": "en fuldstændig ændring i form eller struktur; en biologisk forvandling",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "Tadpollens forvandling til frø tager flere uger."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Et græsk præfiks der betyder 'ikke' eller 'uden'. Det er det græske modstykke til det germanske præfiks u-. Her nægter det morphe (form) og skaber et ord for noget uden defineret skikkelse."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morph-",
+          "homeLangDetails": "Form eller skikkelse. Metamorfose, amorf, morfologi."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "formløs, uden form",
+      "translationLong": "uden klar form eller skikkelse; vag eller udefineret",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "Den formløse lerkugle kunne blive hvad som helst."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske nægtelsesfiks, arvet fra oldengelsk. Det svarer direkte til tysk u- og nederlandsk on- og lignende præfikser på tværs af germanske sprog. Det vender betydningen af grundordet på hovedet: ulykkelig, ukendt, uforglemmelig."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "komfort"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "ubehagelig, ubækvem",
+      "translationLong": "som forårsager eller fremkalder ubehag; utilpas eller ubelejlig",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "Den stol er meget ubehagelig."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske nægtelsesfiks, arvet fra oldengelsk. Det svarer direkte til tysk u- og nederlandsk on- og lignende præfikser på tværs af germanske sprog. Det vender betydningen af grundordet på hovedet: ulykkelig, ukendt, uforglemmelig."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "tro"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "utrolig, utroværdig",
+      "translationLong": "ikke til at tro; utrolig eller forbløffende",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "Den historie lyder utrolig!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negativt præfiks, arvet fra oldengelsk. Det virker præcis som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver 'ulykkelig', unknown bliver 'ukendt', unforgettable bliver 'uforglemmelig'."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "uforglemmelig, umulig at glemme",
+      "translationLong": "ikke mulig at glemme; mindeværdig og iøjnefaldende",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "Den ferie var uforglemmelig."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negativt præfiks, arvet fra oldengelsk. Det virker præcis som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver 'ulykkelig', unknown bliver 'ukendt', unforgettable bliver 'uforglemmelig'."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "genkende"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "ikke mulig at genkende",
+      "translationLong": "ikke mulig at genkende eller identificere",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Efter ulykken var bilen ikke til at genkende."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Signalerer at noget blev gjort forkert eller dårligt. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "forstå"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Et suffiks der danner et substantiv eller gerund (verbalt substantiv). Her omdanner det verbet 'misunderstand' til et substantiv, der refererer til handlingen eller resultatet af at misforstå."
+        }
+      ],
+      "translationShort": "misforståelse, uenighed",
+      "translationLong": "en fejltagelse i forståelsen af noget; uenighed eller forvirring",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "Der var en misforståelse om mødetidspunktet."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-",
+          "homeLangDetails": "Signalerer at noget blev gjort forkert eller dårligt. Misunderstand, mistake, misrepresent."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "repræsentere"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "misrepræsentation, forvrængning",
+      "translationLong": "en falsk eller vildledende fremstilling af noget; en forvrængning af fakta",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "Artiklen indeholdt en misrepræsentation af faktaerne."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/for meget",
+          "homeLangDetails": "Antyder overdrivelse eller at gå ud over en grænse. Overlook, overwhelm, overestimate. Bruges også rumligt for 'over' i ældre sammensætninger."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "At 'whelm' betyder at omgive eller dykke ned (selvom ordet sjældent bruges uden præfikset 'over'). Med præfikset 'over-' udtrykker det at blive helt nedsænket eller oversvømmet, enten følelsesmæssigt eller fysisk."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Et suffiks der danner et gerund eller præsens participium. Her skaber det et adjektiv der beskriver noget der overvælder."
+        }
+      ],
+      "translationShort": "overvældende, forbløffende",
+      "translationLong": "ekstremt imponerende, kraftfuldt eller følelsesmæssigt intenst; overvældende",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "Den støtte hun modtog var overvældende."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/for lidt",
+          "homeLangDetails": "Modstykket til 'over-'. Kan betyde nedenfor (underground) eller utilstrækkelig (underestimate, underperform)."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimere"
+        }
+      ],
+      "translationShort": "undervurdere",
+      "translationLong": "undervurdere, at bedømme som mindre vigtig eller dygtig end fortjent",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Undervurder ikke hendes evne til at løse komplekse problemer."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/for meget",
+          "homeLangDetails": "Antyder overdrivelse eller at gå ud over en grænse. Overlook, overwhelm, overestimate. Bruges også rumligt for 'over' i ældre sammensætninger."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimere"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "overestimering",
+      "translationLong": "det at bedømme noget som større end det faktisk er",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "Overestimeringen af projektets budget førte til økonomiske problemer."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/mange",
+          "homeLangDetails": "Mange eller flere. Multicultural, multimedia, multiply."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "kulturel"
+        }
+      ],
+      "translationShort": "multikulturel",
+      "translationLong": "vedrørende eller sammensat af mange forskellige kulturer",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Vores by er kendt for sin multikulturelle befolkning."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/på tværs af",
+          "homeLangDetails": "På tværs af, gennem eller ændring fra en tilstand til en anden. Transport, transform, translate."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "kontinental"
+        }
+      ],
+      "translationShort": "tværkontinental",
+      "translationLong": "der strækker sig over eller krydser et kontinent eller flere kontinenter",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "Jernbanen der gik på tværs af kontinentet forbandt øst og vestkysten."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/mellem",
+          "homeLangDetails": "Mellem eller blandt. International, interrupt, interact."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "skifte"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "udskiftelig",
+      "translationLong": "mulig at bytte ud med hinanden uden at påvirke hvordan noget fungerer",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "De to dele kan byttes ud med hinanden uden at påvirke hvordan enheden fungerer."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ikke/fra hinanden",
+          "homeLangDetails": "Betyder ikke eller at tage fra hinanden. Se det i ord som disagree, disconnect, disappear. Det er en stærkere følelse af adskillelse eller vending end hvad du får med un-."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organisere"
+        }
+      ],
+      "translationShort": "at skabe uorden",
+      "translationLong": "at kaste noget ud i uorden, at forstyrre organisationen af noget",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "Pludselig ændringen vil kaste vores omhyggeligt planlagte schedule ud i uorden."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "moderne"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-izer"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "modernisering",
+      "translationLong": "processen med at gøre noget moderne eller ajourført",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "Moderniseringen af fabrikken forbedrede dens effektivitet."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industriel"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-izer"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "industrialisering",
+      "translationLong": "processen med at udvikle industrier i en region eller samfund",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "Industrialiseringen af landet transformerede dets økonomi."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "opmuntre"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord ud fra verbum og refererer til handlingen, dens resultat eller dens middel. Tænk på regering, bevægelse, nydelse."
+        }
+      ],
+      "translationShort": "opmuntring",
+      "translationLong": "handlingen med at give mod eller støtte til nogen",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Hendes opmuntring hjalp mig med at overvinde mine frygtelser."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ikke/fra hinanden",
+          "homeLangDetails": "Betyder ikke eller at tage fra hinanden. Se det i ord som disagree, disconnect, disappear. Det er en stærkere følelse af adskillelse eller vending end hvad du får med un-."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "enig"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord ud fra verbum og refererer til handlingen, dens resultat eller dens middel. Tænk på regering, bevægelse, nydelse."
+        }
+      ],
+      "translationShort": "uenighed",
+      "translationLong": "mangel på enighed, en forskellighed i mening",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Deres uenighed om budgettet varede i ugevis."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/ikke/fra hinanden",
+          "homeLangDetails": "Betyder ikke eller at tage fra hinanden. Se det i ord som disagree, disconnect, disappear. Det er en stærkere følelse af adskillelse eller vending end hvad du får med un-."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "udpege"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord ud fra verbum og refererer til handlingen, dens resultat eller dens middel. Tænk på regering, bevægelse, nydelse."
+        }
+      ],
+      "translationShort": "skuffelse",
+      "translationLong": "følelsen af sorg når noget ikke lever op til forventningerne",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "Aflysningen af koncerten var en stor skuffelse."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "anerkende"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord ud fra verbum og refererer til handlingen, dens resultat eller dens middel. Tænk på regering, bevægelse, nydelse."
+        }
+      ],
+      "translationShort": "anerkendelse",
+      "translationLong": "genkendelse eller tilståelse af noget, typisk noget nogen har gjort eller sagt",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "Anerkendelsen af hans bidrag var længe i venten."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "mod"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "dristig",
+      "translationLong": "dristig, der viser mod",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Hendes dristige handlinger reddede liv under krisen."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "fornærmelse",
+          "homeLangDetails": "Et fastfrosset ord fra Old French outrage (overskridelse, vold), ikke det produktive engelske præfiks out- plus rage. Dette out- stammer fra Latin ultra (hinsides), ikke germansk. Så outrageous betyder på en måde 'uden for grænserne' snarere end bogstaveligt talt 'overgår vrede'."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "chokerende",
+      "translationLong": "chokerende dårlig eller fornærmende, ekstremt usædvanlig eller overdreven",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "Den chokerende høje pris for sådan en lille genstand gjorde mig grin."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "fordel"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "fordelagtig",
+      "translationLong": "der giver en fordel eller gevinst, fordelagtig",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "At studere i udlandet kan være fordelagtigt for din karriere."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "uden for"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "almindelig"
+        }
+      ],
+      "translationShort": "ekstraordinær, usædvanlig",
+      "translationLong": "ekstraordinær, usædvanlig, bemærkelsesværdig, ualmindelig",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Hun har et ekstraordinært musikalt talent."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "bemærk, iagttag"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "bemærkelsesværdig, iøjnefaldende",
+      "translationLong": "bemærkelsesværdig, iøjnefaldende, værd at lægge mærke til",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "Atleten gjorde et bemærkelsesværdigt comeback efter skaden."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "forudsige"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "forudsigelig",
+      "translationLong": "forudsigelig, let at se komme",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "Slutningen på filmen var helt forudsigelig."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "justere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "justerbar",
+      "translationLong": "justerbar, som kan justeres",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "Stolen har justerbar højde."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "udvide"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "udvidelig",
+      "translationLong": "udvidelig, som kan udvides",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Denne opbevaringskasse er udvidelig når du har brug for mere plads."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationsprefix, arvet fra oldengelsk. Det virker præcis som det danske 'u-' eller tyske 'un-' og går igen i alle germanske sprog. Det vender betydningen af ordet på hovedet: ulykkelig, ukendt, uforglemmelig."
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "bevidst"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-hed",
+          "homeLangDetails": "Gør adjektiver om til substantiver der betyder en tilstand eller kvalitet. Lykke, mørke, bevidsthed. Det germanske svar på latinsk -itet."
+        }
+      ],
+      "translationShort": "bevidstløshed, mangel på bevidsthed",
+      "translationLong": "bevidstløshed, mangel på bevidsthed, tilstand af at være bevidstløs",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "Slaget på hans hoved forårsagede bevidstløshed i flere minutter."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "i-/ikke"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "ansvarlig"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet"
+        }
+      ],
+      "translationShort": "uansvaarlighed, mangel på ansvar",
+      "translationLong": "uansvarlighed, mangel på ansvar, skødesløshed",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "Hans uansvarlighed kostede virksomheden tusindvis af kroner."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "i-/ikke"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "forståelig"
+        }
+      ],
+      "translationShort": "uforståelig, ufattelig",
+      "translationLong": "uforståelig, ufattelig, umulig at forstå",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "Instruktionerne var skrevet i uforståelig fagsprog."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "rum"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Vedrørende eller af arten af noget. Musikalsk, naturlig, industriel."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-isere",
+          "homeLangDetails": "At gøre noget til at have en kvalitet, eller at udføre en proces. Modernisere, organisere, realisere."
+        }
+      ],
+      "translationShort": "opdele i rum",
+      "translationLong": "opdele i separate rum eller kategorier",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Nogle mennesker opdeler deres arbejds- og privatliv i separate rum."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "i-/ikke"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "kompatibel"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet"
+        }
+      ],
+      "translationShort": "uforenlighed",
+      "translationLong": "uforenlighed, tilstand af at være uforenlig",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "Uforenligheden mellem de to systemer gjorde integrationen vanskelig."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-fuld",
+          "homeLangDetails": "Fyldt af eller karakteriseret ved noget. Det svarer til dansk '-fuld' eller '-fuldt'. Smuk, omhyggelig, kraftig."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "på en omhyggelig måde",
+      "translationLong": "med omsorg; på en varsomfuld eller opmærksom måde",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Hun lagde vasen på hyldenen med omsorg."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "på en omsorgsløs måde",
+      "translationLong": "uden omsorg; på en uopmærksom eller forsømmende måde",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Han tabte koppen uden omsorg."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-hed",
+          "homeLangDetails": "Omdanner adjektiver til navneord og betyder en tilstand eller egenskab. Glæde, mørke, bevidsthed. Dette er det germanske sidestykke til latinsk '-itet'."
+        }
+      ],
+      "translationShort": "mangel på omsorg",
+      "translationLong": "tilstanden eller kvaliteten af at være omsorgsløs; forsømmelse",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Hendes omsorgsløshed resulterede i et knust fad."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjælp"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-fuld",
+          "homeLangDetails": "Fyldt af eller karakteriseret ved noget. Det svarer til dansk '-fuld' eller '-fuldt'. Smuk, omhyggelig, kraftig."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "på en hjælpsom måde",
+      "translationLong": "på en måde der giver hjælp eller støtte",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Hun forklarede instruktionerne på en hjælpsom måde."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjælp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "på en hjælpeløs måde",
+      "translationLong": "uden evne til at hjælpe sig selv; magtesløst",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Han så magtesløst til mens ulykken udspillede sig."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjælp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-hed",
+          "homeLangDetails": "Omdanner adjektiver til navneord og betyder en tilstand eller egenskab. Glæde, mørke, bevidsthed. Dette er det germanske sidestykke til latinsk '-itet'."
+        }
+      ],
+      "translationShort": "tilstand af magtesløshed",
+      "translationLong": "tilstanden eller betingelsen ved at være hjælpeløs",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "Magtesløsheden i hendes stemme var hjerteskærende."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "håb"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-fuld",
+          "homeLangDetails": "Fyldt af eller karakteriseret ved noget. Det svarer til dansk '-fuld' eller '-fuldt'. Smuk, omhyggelig, kraftig."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "forhåbentlig; på en håbefuld måde",
+      "translationLong": "med håb eller optimisme; udtrykkende et ønske om at noget vil ske",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Forhåbentlig bliver vejret bedre i morgen."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "håb"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-hed",
+          "homeLangDetails": "Omdanner adjektiver til navneord og betyder en tilstand eller egenskab. Glæde, mørke, bevidsthed. Dette er det germanske sidestykke til latinsk '-itet'."
+        }
+      ],
+      "translationShort": "tilstand af fortvivlelse",
+      "translationLong": "tilstanden eller følelsen af at have intet håb; fortvivlelse",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "En følelse af håbløshed bredte sig over holdet."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "håb"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-løs",
+          "homeLangDetails": "Uden noget. Ligesom dansk '-løs': omsorgsløs, håbløs, talløs."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "på en håbløs måde",
+      "translationLong": "på en måde der viser intet håb; fortvivlet",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "Situationen så ud til at være desperat håbløs."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "tak"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-fuld",
+          "homeLangDetails": "Fyldt af eller karakteriseret ved noget. Det svarer til dansk '-fuld' eller '-fuldt'. Smuk, omhyggelig, kraftig."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, hvilket betyder 'på en [måde]'. Hurtigt, gladeligt, overraskende. Dannes også fra adjektiver: venlig, dejlig."
+        }
+      ],
+      "translationShort": "heldigvis; på en taknemlig måde",
+      "translationLong": "heldigvis; med taknemmelighed eller lettelse",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Heldigvis blev ingen skadet i ulykken."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelsk præfiks for negation, arvet fra oldengelsk. Det svarer direkte til dansk 'u-' og tysk 'un-'. Det vender betydningen af ordet på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "tilstand uden arbejde",
+      "translationLong": "tilstanden med ikke at have beskæftigelse; arbejdsløshed",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "Arbejdsløshedsprocenten steg betydeligt under recessionen."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/tilbage",
+          "homeLangDetails": "Betyder nedadgående, væk eller omvendt af en handling. Decrease bliver fald, depart bliver afgang, deconstruct bliver dekonstruktion. Ofte vender det betydningen af det grundlæggende ord rundt."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "udfolde",
+          "homeLangDetails": "Fra oldfransk 'devoluper' (at pakke ud, at folde ud). Roden er forbundet med 'velop' (som i envelope), der betyder at pakke ind eller dække. Præfikset de- betyder her 'ud af' eller 'væk fra', så develop betyder bogstaveligt 'at pakke ud' eller 'gradvist at folde ud'."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "processen med at vokse",
+      "translationLong": "processen med at udvikle sig eller blive udviklet; vækst eller forbedring",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Børns udvikling er fokus for dette forskningsprogram."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/ind",
+          "homeLangDetails": "Et kameleonpræfiks med to forskellige betydninger: 'ikke' (inactive, impossible, illegal) og 'ind i' (insert, import). Stavemåden ændrer sig for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "vend/drej",
+          "homeLangDetails": "Fra latin volvere (at vende, at dreje). Den samme rod findes i revolve, evolution og convolution, hvor alle betyder at vende eller dreje. I dansk tænk på 'volve' som at rulle rundt."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "handlingen ved at være involveret",
+      "translationLong": "det faktum eller tilstand med at være involveret; deltagelse",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Hendes indsats i samfundsarbejde blev bredt anerkendt."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/ind",
+          "homeLangDetails": "Et kameleonpræfiks med to forskellige betydninger: 'ikke' (inactive, impossible, illegal) og 'ind i' (insert, import). Stavemåden ændrer sig for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "godkende",
+          "homeLangDetails": "Fra latin probare (at bifalde, at godkende). I improve betyder præfikset im- (ind i) + prove 'at gøre bedre' på en måde, som at bringe noget ind i en bedre tilstand. Den samme rod findes i prove og approbation."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "handlingen ved at gøre bedre",
+      "translationLong": "handlingen eller processen med at forbedre; en ændring der gør noget bedre",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "Forbedringsgraden i hendes karakterer var resultatet af hårdt arbejde."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/til",
+          "homeLangDetails": "Betyder retning mod eller desuden. Adapt blir tilpasse, admit bliver indrømme, attract bliver tiltrække, arrive bliver ankomme."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "drej",
+          "homeLangDetails": "Fra latin vertere (at dreje). I advertise betyder præfikset ad- (til, mod) + vert (drej) 'at dreje opmærksomheden mod' noget, som at få folk til at bemærke det. Den samme rod findes i convert, divert og avert."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize",
+          "homeLangDetails": "Gør noget til at have en egenskab, eller forårsager en proces. Modernize bliver modernisere, organize bliver organisere, realize bliver realisere."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "en offentlig promovering",
+      "translationLong": "en meddelelse eller bekendtgørelse beregnet på at informere eller overtale offentligheden",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "Annoncen for det nye produkt blev sendt på fjernsyn."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "enter"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "holde",
+          "homeLangDetails": "Fra oldfransk tenir, latin tenere (at holde). Roden findes i retain, maintain, sustain og contain, som alle handler om at holde eller bevare noget. I entertain betyder 'enter + tain' at invitere nogen ind samtidig med at holde deres opmærksomhed."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "fornøjelse eller afledning",
+      "translationLong": "handlingen ved at give eller blive givet fornøjelse eller glæde",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "Koncerten var en pragtfuld aften med underholdning."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan det udskiftes med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "spørge/søge",
+          "homeLangDetails": "Fra latin quaerere (at spørge, at søge). I require betyder re- (igen) + quir 'at spørge efter' eller 'kalde på' noget der er nødvendigt. Den samme rod findes i inquiry, inquisition og query."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "noget der er nødvendigt",
+      "translationLong": "noget som er nødvendigt; en betingelse eller ting der kræves",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "Et gymnasiebevis er et krav for de fleste universitetsprogrammer."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan det udskiftes med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "trække sig tilbage",
+          "homeLangDetails": "Fra oldfransk tirer (at trække, at tværre). I retire betyder re- (igen, tilbage) + tir 'at trække sig tilbage' eller 'gå tilbage', især fra arbejde. Den samme rod findes i tired (udmattet fra at blive trukket)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "handlingen ved at forlade arbejde",
+      "translationLong": "handlingen eller faktum med at forlade sit job eller sin stilling permanent",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "Hun planlægger sin pensionering til næste år."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/tilbage",
+          "homeLangDetails": "Betyder nedadgående, væk eller omvendt af en handling. Decrease bliver fald, depart bliver afgang, deconstruct bliver dekonstruktion. Ofte vender det betydningen af det grundlæggende ord rundt."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "part"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "en opdeling eller sektion",
+      "translationLong": "en underafdeling eller sektion af en organisation, virksomhed eller institution",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "Hun arbejder i marketingafdelingen."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte kan det udskiftes med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "place"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Danner navneord fra verber og refererer til handlingen, dens resultat eller middel. I dansk svarer det til endelser som '-hed', '-else' eller '-ing'. Government bliver styre, movement bliver bevægelse, enjoyment bliver nydelse."
+        }
+      ],
+      "translationShort": "noget der tager stedet for noget andet",
+      "translationLong": "en person eller ting der tager stedet for noget andet",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "Erstatningen for det ødelagte vindue ankom i går."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "heldig"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier ud fra adjektiver, betyder \"på en [bestemt måde]\". I dansk svarer det til vores '-t' eller '-vis'. Quickly bliver quickly, happily bliver happily. Kan også danne adjektiver: friendly, lovely."
+        }
+      ],
+      "translationShort": "desværre, uheldigvis",
+      "translationLong": "desværre, uheldigvis, beklageligvis",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Desværre blev koncerten aflyst."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "forvente"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(participium)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier ud fra adjektiver, betyder \"på en [bestemt måde]\". I dansk svarer det til vores '-t' eller '-vis'. Quickly bliver quickly, happily bliver happily. Kan også danne adjektiver: friendly, lovely."
+        }
+      ],
+      "translationShort": "uventet, overraskende",
+      "translationLong": "uventet, overraskende, uden varsel",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "Hun ankom uventet til festen."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "sundhed"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(adjektivisk)"
+        }
+      ],
+      "translationShort": "usundt, dårligt",
+      "translationLong": "usundt, dårligt, skadeligt for sundheden",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "En usund kost kan føre til sygdom."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "fornuft"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder \"kan gøres\" eller \"værd at være\". I dansk har vi præfikset '-bar': læsbar, behagelig, mulig. Det svarer direkte til engelsk '-able'."
+        }
+      ],
+      "translationShort": "urimelig, uretfærdig",
+      "translationLong": "urimelig, uretfærdig, overdreven",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "Hans krav var urimeligt."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "acceptere"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder \"kan gøres\" eller \"værd at være\". I dansk har vi præfikset '-bar': læsbar, behagelig, mulig. Det svarer direkte til engelsk '-able'."
+        }
+      ],
+      "translationShort": "uacceptabelt, uacceptabel",
+      "translationLong": "uacceptabelt, uacceptabel, utilådeligt",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "Den adfærd er fuldstændig uacceptabel."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "undgå"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder \"kan gøres\" eller \"værd at være\". I dansk har vi præfikset '-bar': læsbar, behagelig, mulig. Det svarer direkte til engelsk '-able'."
+        }
+      ],
+      "translationShort": "uundgåelig, uafvendelig",
+      "translationLong": "uundgåelig, uafvendelig, bound to happen",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "Døden og skatter er uundgåelige."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "vigtig"
+        }
+      ],
+      "translationShort": "uvigtig, ubetydeligt",
+      "translationLong": "uvigtig, ubetydeligt, uden større betydning",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "Den detalje er uvigtig."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "u-/ikke",
+          "homeLangDetails": "Det mest almindelige engelske negationspræfiks, arvet fra oldengelsk. Det fungerer helt på samme måde som dansk 'u-' og tysk 'un-'. Det vender betydningen på hovedet: unhappy bliver ulykkelig, unknown bliver ukendt, unforgettable bliver uforglemmelig."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "vilje"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(substantivering)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-hed",
+          "homeLangDetails": "Omdanner adjektiver til substantiver, betyder en tilstand eller egenskab. Lykkelighed, mørkelighed, bevidsthed. Det germanske modstykke til latin -itet."
+        }
+      ],
+      "translationShort": "ulyst, uvillighed",
+      "translationLong": "ulyst, uvillighed, mangel på vilje",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "Hans ulyst til at hjælpe var skuffende."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "gen-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller et tilbagevenden til en tidligere tilstand. Fra latin re-, den optræder i tusindvis af engelske ord: return, rebuild, reconsider. I dansk er 'gen-' helt præcist det samme: genoverveje, genopbygge. Det betyder at gøre noget igen eller vende tilbage til det."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "overveje"
+        }
+      ],
+      "translationShort": "genoverveje",
+      "translationLong": "genoverveje, revurdere, ombestemme sig",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "Jeg skal genoverveje min beslutning."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "gen-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller et tilbagevenden til en tidligere tilstand. Fra latin re-, den optræder i tusindvis af engelske ord: return, rebuild, reconsider. I dansk er 'gen-' helt præcist det samme: genoverveje, genopbygge. Det betyder at gøre noget igen eller vende tilbage til det."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "overveje"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing",
+          "homeLangDetails": "Det mest almindelige engelske substantivafledningssuffix fra latin. Omdanner verber til navneord, som navngiver en handling eller dens resultat. Construction, permission, explosion. Svarer til dansk '-ing' og tysk '-ung'."
+        }
+      ],
+      "translationShort": "genovervejelse, anmodning om omtanke",
+      "translationLong": "genovervejelse, anmodning om omtanke, handling af at overveje igen",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "Bestyrelsen anmodede om en genovervejelse af forslaget."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, og det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte udveksleligt med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organisere"
+        }
+      ],
+      "translationShort": "at organisere igen",
+      "translationLong": "at organisere igen, at omstrukturere, at omorganisere",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "Virksomheden besluttede at omstrukturere sine afdelinger."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, og det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte udveksleligt med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organisere"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "omstrukturering, omorganisering",
+      "translationLong": "omstrukturering, omorganisering, processen med at organisere igen",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "Omstruktureringen tog tre måneder at gennemføre."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, og det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte udveksleligt med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "introducere"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det mest almindelige engelske substantivaffix fra latin. Forvandler verber til substantiver, der navngiver en handling eller dens resultat. Construction, permission, explosion. Svarende til dansk -ing eller tysk -ung."
+        }
+      ],
+      "translationShort": "genbringelelse, genindsættelse",
+      "translationLong": "genbringelelse, genindsættelse, det at introducere noget igen",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "Genintroduktionen af ulve hjalp med at genoprette økosystemet."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, og det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte udveksleligt med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "forbinde"
+        }
+      ],
+      "translationShort": "at forbinde igen",
+      "translationLong": "at forbinde igen, at genforenes, at genetablere kontakt",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Efter år fra hinanden, genoprettede vi kontakten ved festen."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin re-, og det optræder i tusindvis af engelske ord: return, rebuild, reconsider. Ofte udveksleligt med 'gøre igen' eller 'gå tilbage'."
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "cykel"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundium)"
+        }
+      ],
+      "translationShort": "genbrug af materialer, cirkulær genanvendelse",
+      "translationLong": "genbrug af materialer, cirkulær genanvendelse, processen med at omdanne affald til nye produkter",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Genbrug hjælper med at reducere miljøaffald."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "con-/sammen",
+          "homeLangDetails": "Med eller sammen. Et af de mest produktive latinske præfikser. Connect, combine, cooperate, collect. Stavemåden varierer for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "fælles"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "udveksling af information",
+      "translationLong": "formidling eller udveksling af information eller nyheder",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "God kommunikation er vigtig i ethvert forhold."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-/ud af",
+          "homeLangDetails": "Ud af, tidligere eller væk. Exhale, export, eject, ex-president."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "føre"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "processen med at undervise",
+      "translationLong": "processen med at undervise eller lære, især på skoler",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Uddannelse åbner døre til mange muligheder."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/ind i",
+          "homeLangDetails": "Et kameleonpræfiks med to forskellige betydninger: 'ikke' (inactive, impossible, illegal) og 'ind i' (insert, import). Stavemåden skifter for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spor"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en grundig undersøgelse",
+      "translationLong": "en detaljeret undersøgelse eller efterforskning af noget",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "Politiet gennemførte en efterforskning af tyveriet."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "intra-/inden for"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "føre"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det mest almindelige engelske substantivaffix fra latin. Forvandler verber til substantiver, der navngiver en handling eller dens resultat. Construction, permission, explosion. Svarende til dansk -ing eller tysk -ung."
+        }
+      ],
+      "translationShort": "en formel præsentation",
+      "translationLong": "en formel præsentation af en person for en anden; begyndelsen på en bog eller tale",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "Introduktionen til romanen etablerer hovedkonflikten."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/frem",
+          "homeLangDetails": "Frem, til fordel for, eller på vegne af. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "føre"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det mest almindelige engelske substantivaffix fra latin. Forvandler verber til substantiver, der navngiver en handling eller dens resultat. Construction, permission, explosion. Svarende til dansk -ing eller tysk -ung."
+        }
+      ],
+      "translationShort": "fremstilling af varer",
+      "translationLong": "tilvirkning, produktion eller skabelse af noget",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "Fabrikken øgede produktionen for at imødekomme efterspørgslen."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/fremad",
+          "homeLangDetails": "Fremad, til fordel for eller i stedet for. Tænk på ord som progression, produktion, pronomen."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-lyd"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "måden et ord udtales på",
+      "translationLong": "den måde hvorpå et ord eller et sprog udtales",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Hendes udtale af fransk forbedrede sig betydeligt."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ud",
+          "homeLangDetails": "Ud, tidligere eller væk. Tænk på ord som udånde, eksport, udkast, eks-præsident."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "flad"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en udsagn der præciserer",
+      "translationLong": "en udsagn eller beskrivelse som præciserer eller gør noget forståeligt",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "Læreren gav en klar forklaring af det matematiske koncept."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ud",
+          "homeLangDetails": "Ud, tidligere eller væk. Tænk på ord som udånde, eksport, udkast, eks-præsident."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "veje"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en grundig undersøgelse",
+      "translationLong": "en grundig undersøgelse eller test; en medicinsk eller akademisk prøve",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "Undersøgelsen afslørede ingen tegn på sygdom."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/ind",
+          "homeLangDetails": "En prefix som kameleon med to helt forskellige betydninger: \"ikke\" (inaktiv, umulig, illegalt) og \"ind i\" (indsætte, importere). Stavningen ændres for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "billede"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "evnen til at skabe mentale billeder",
+      "translationLong": "evnen eller handlingen at danne mentale billeder eller begreber om det som ikke er til stede",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "Børns fantasi kender ingen grænser."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "mennesker"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "alle mennesker i et område",
+      "translationLong": "alle beboere på et sted; en gruppe organismer af samme art",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "Befolkningen i byen er vokset betydeligt."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/sammen",
+          "homeLangDetails": "Med eller sammen. En af de mest brugte latinske præfikser. Forbinde, kombinere, samarbejde, indsamle. Stavningen varierer for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "dreje"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en uformel samtale",
+      "translationLong": "en uformel udveksling af tanker eller snak mellem mennesker",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "Vi havde en interessant samtale om rejser."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/sammen",
+          "homeLangDetails": "Med eller sammen. En af de mest brugte latinske præfikser. Forbinde, kombinere, samarbejde, indsamle. Stavningen varierer for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "samle"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en gruppe af samlede genstande",
+      "translationLong": "en gruppe ting eller mennesker samlet sammen; handlingen at samle",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Hun har en imponerende samling af antikvariske bøger."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/tilbage",
+          "homeLangDetails": "I reflektion betyder re- \"tilbage\" (fra latin reflectere, \"at bøje tilbage\"), ikke \"igen\". Ordet beskriver hvordan lys kastes tilbage eller hvordan tanken vender sig mod sig selv."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "bøje"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tilbagekastning af lys",
+      "translationLong": "tilbagekastning af lys eller varme; alvorlig eftertanke eller overvejelse",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Jeg så min afspejling i spejlet."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/sammen",
+          "homeLangDetails": "Med eller sammen. En af de mest brugte latinske præfikser. Forbinde, kombinere, samarbejde, indsamle. Stavningen varierer for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "binde"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en relation eller forbindelse",
+      "translationLong": "en relation eller forbindelse mellem ting; handlingen at forbinde",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "Der er en stærk forbindelse mellem træning og god sundhed."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/fremad",
+          "homeLangDetails": "Fremad, til fordel for eller i stedet for. Tænk på ord som progression, produktion, pronomen."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "dække"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "beskyttelse mod skade",
+      "translationLong": "handlingen at holde nogen eller noget sikker fra skade eller skader",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "Vi har brug for bedre beskyttelse mod cyberangreb."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "En præfiks med to forskellige betydninger: \"ikke\" (inactive, impossible, illegal) og \"ind i\" (insert, import). Stavningen ændrer sig efter den næste lyd."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "kalde"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "invitation",
+      "translationLong": "en handling hvor man inviterer; en anmodning eller opfordring til at deltage",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "Jeg modtog en invitation til brylluppet."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "før",
+          "homeLangDetails": "Før i tid eller plads. Forudsige, forberede, forhistorie."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "gøre klar"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "preparation",
+      "translationLong": "processen med at gøre noget klar; forudgående planlægning",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "God forberedelse er vigtig for succes."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "legeme/værktøj"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize",
+          "homeLangDetails": "At gøre noget til at have en egenskab, eller forårsage en proces. Modernisere, organisere, realisere."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "organization",
+      "translationLong": "en gruppe mennesker med et fælles formål; handlingen med at ordne systematisk",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "Organisationen arbejder for at hjælpe dem i nød."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "simpel"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "At gøre eller få til at blive. Forenkle, præcisere, intensivere."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "simplification",
+      "translationLong": "handlingen med at gøre noget enklere eller mindre kompliceret",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "Forenkling af reglerne gjorde spillet lettere at spille."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "nok"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "gøre/lave"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "satisfaction",
+      "translationLong": "tilstanden af at være tilfreds eller glad; opfyldelse",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Kundetilfredshed er vores vigtigste prioritet."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "kvalitet/egnethed"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "At gøre eller få til at blive. Forenkle, præcisere, intensivere."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "qualification",
+      "translationLong": "en evne, færdighed eller legitimation som gør nogen egnet til noget; handlingen med at kvalificere sig",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "Hun har de rigtige kvalifikationer til jobbet."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "samme"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "At gøre eller få til at blive. Forenkle, præcisere, intensivere."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "identification",
+      "translationLong": "handlingen med at genkende eller bevise hvem eller hvad noget er; et dokument der fastslår identitet",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "Du skal have et foto-id for at komme ind."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "Ud af, tidligere eller væk. Udånde, eksportere, kaste ud, eks-præsident."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "styrke/værd"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "evaluation",
+      "translationLong": "processen med at vurdere eller bestemme værdien eller kvaliteten af noget",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "Læreren vil foretage en evaluering af elevernes fremskridt."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-",
+          "homeLangDetails": "Modstykket til over-. Kan betyde under (underground) eller utilstrækkelig (underestimate, underperform)."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "stå"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kan gøres eller opleves. Læseligt, behageligt, muligt."
+        }
+      ],
+      "translationShort": "understandable",
+      "translationLong": "kan forstås; forståeligt",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "Instruktionerne er klare og forståelige."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "have råd til"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kan gøres eller opleves. Læseligt, behageligt, muligt."
+        }
+      ],
+      "translationShort": "affordable",
+      "translationLong": "kan finansieres; rimelig pris",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "Vi fandt en billig lejlighed i byen."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "afhænge"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "pålidelig",
+      "translationLong": "pålidelig; som man kan stole på",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "Han er en pålidelig ven, som altid hjælper."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ik-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'ik-' eller 'u-'."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "tro"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "utrolig",
+      "translationLong": "fantastisk; utrolig; ekstraordinær",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "Det var en utrolig præstation!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "u-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'u-'."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "se"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "usynlig",
+      "translationLong": "som ikke kan ses; skjult for øjet",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "Pletten var usynlig for det blotte øje."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "u-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'u-'."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "mulig"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "umulig",
+      "translationLong": "som ikke kan gøres eller ske; ikke mulig",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Det virkede umuligt at løse puslespillet."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "u-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'u-'."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "svare"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "uansvarlig",
+      "translationLong": "som ikke er ansvarlig; upålidelig eller uansvarllig",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "Det ville være uansvarligt at gå fra arbejde tidligt."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "u-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'u-'."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "vende"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "som ikke kan tilbageføres",
+      "translationLong": "som ikke kan tilbageføres eller undgøres",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "Klimaændringer kan forårsage irreversibel skade på miljøet."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "u-",
+          "homeLangDetails": "Et præfiks med to helt forskellige betydninger: 'ikke' (uaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændrer sig for at passe til det næste bogstav. Det virker præcis som dansk 'u-'."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "ødelægge"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder, at noget kan gøres eller være på en bestemt måde. Læsbar, behagelig, mulig. Det er ligesom engelsk '-able'."
+        }
+      ],
+      "translationShort": "som ikke kan ødelægges",
+      "translationLong": "som ikke kan ødelægges eller knuses",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Monumentet blev bygget for at være udestructibelt."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellem",
+          "homeLangDetails": "Mellem eller blandt. International, afbryde, interagere. Det virker præcis som dansk 'mellem-'."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Betyder forhold til eller egenskaber ved noget. Musikalsk, naturlig, industriel."
+        }
+      ],
+      "translationShort": "mellem nationer",
+      "translationLong": "som angår eller involverer to eller flere nationer",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Hun arbejder for en international organisation."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "over",
+          "homeLangDetails": "Over, oven på eller ekstraordinær. Superman, overlegen, overnaturlig. Det svarer til dansk 'over-'."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "natur"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Betyder forhold til eller egenskaber ved noget. Musikalsk, naturlig, industriel."
+        }
+      ],
+      "translationShort": "overnaturlig",
+      "translationLong": "uden for eller hinsides naturens love",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "Filmen indeholder overnaturlige væsener og spøgelser."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "før",
+          "homeLangDetails": "Før i tid eller position. Forudsige, forberede, forhistorisk. Det virker præcis som dansk 'for-' eller 'før-'."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "historisk"
+        }
+      ],
+      "translationShort": "før skriftsprogets tid",
+      "translationLong": "vedrørende tiden før skriftlige historiske optegnelser",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinosaurer vandrede på jorden i forhistorisk tid."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "mod",
+          "homeLangDetails": "Mod eller imod noget. Det betyder at du arbejder imod eller i opposition til noget. Antiwar betyder imod krig, antibiotic betyder imod bakterier, og anticipate betyder at møde noget på forhånd."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-isk"
+        }
+      ],
+      "translationShort": "mod bakterier",
+      "translationLong": "en medicin som dræber bakterier eller stopper deres vækst",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "Lægen ordinerede et antibiotikum for infektionen."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, nedenfor eller sekundær. Undergrund, undervandsbåd, erstatning. I dansk fungerer det helt ligesom engelskens sub."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "hav"
+        }
+      ],
+      "translationShort": "undervandsfartøj",
+      "translationLong": "et fartøj som opererer under vandet, især et militært krigseskib",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "Undervandsbåden dykede ned til store dybder under havet."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "selv",
+          "homeLangDetails": "Selv eller på egen hånd. Selvbiografi, automatisk, automobil. Det samme prefix bruger vi på dansk."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "bevægelse"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-t"
+        }
+      ],
+      "translationShort": "af sig selv uden manuel handling",
+      "translationLong": "på en måde som sker eller fungerer af sig selv uden menneskelig indgriben",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "Døren åbnes automatisk når du nærmer dig den."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "langt væk",
+          "homeLangDetails": "I en afstand eller langt væk. Telefon betyder lyd fra langt væk, fjernsyn betyder billede fra langt væk, teleskop betyder at se langt væk."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "syn"
+        }
+      ],
+      "translationShort": "at se fra afstand",
+      "translationLong": "et system til at sende og modtage bevægelige billeder og lyd over afstand",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Hun ser fjernsyn hver aften."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "folk"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "styre"
+        }
+      ],
+      "translationShort": "folkenes styre",
+      "translationLong": "et styresystem hvor magten hviler hos folket",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Demokrati kræver aktiv deltagelse fra alle borgere."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "jord",
+          "homeLangDetails": "Jord eller land. Geografi handler om jorden, geologi om jordens indre, geometri om jordens mål og form."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-skrift",
+          "homeLangDetails": "Skrift eller opskrivning af noget. Fotografi betyder at skrive med lys, biografi betyder at skrive et livs historie, autograf betyder at skrive sin egen underskrift."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "beskrivelse af jorden",
+      "translationLong": "studiet af steder, mennesker og jordens fysiske karakteristika",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Geografitime underviser om forskellige regioner og kulturer."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "ansvarlig"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-hed"
+        }
+      ],
+      "translationShort": "pligt eller forpligtelse",
+      "translationLong": "tilstanden af at være ansvarlig for sine handlinger eller beslutninger",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Med stor magt følger stort ansvar."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "person"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-hed"
+        }
+      ],
+      "translationShort": "individuelt væsen",
+      "translationLong": "de særlige karaktertræk og kvaliteter som kendetegner en person",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Hendes åben og udadvendt personlighed gør hende populær hos alle."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "populær"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-hed",
+          "homeLangDetails": "Den danske udgave af det engelske -ness. Danner abstrakte navneord ud fra tillægsord. Ligehed, frygtighed, virkelighed."
+        }
+      ],
+      "translationShort": "tilstand af at være elsket",
+      "translationLong": "kvaliteten eller tilstanden af at være elsket, beundret eller godt lidt af mange mennesker",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "Bandets popularitet er vokset verden over."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "elektrisk"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-hed",
+          "homeLangDetails": "Den danske udgave af det engelske -ness. Danner abstrakte navneord ud fra tillægsord. Ligehed, frygtighed, virkelighed."
+        }
+      ],
+      "translationShort": "elektrisk energi",
+      "translationLong": "en energiform som opstår når elektroner bevæger sig gennem en leder",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "De fleste moderne hjem afhænger af elektricitet for strøm."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "skabe"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Latinsk suffiks svarende til dansk -hed. Danner abstrakte substantiver fra adjektiver. Lighed, elektricitet, virkelighed."
+        }
+      ],
+      "translationShort": "kvaliteten ved at være kreativ",
+      "translationLong": "kvaliteten eller tilstanden ved at være kreativ; evnen til at skabe eller forestille sig nye ting",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "Hendes kreativitet ved at løse problemer imponerede alle."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "produkt"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Latinsk suffiks svarende til dansk -hed. Danner abstrakte substantiver fra adjektiver. Lighed, elektricitet, virkelighed."
+        }
+      ],
+      "translationShort": "kvaliteten ved at være produktiv",
+      "translationLong": "kvaliteten eller tilstanden ved at være produktiv; hvor effektiv indsatsen er målt efter produktionshastigheden",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "Teamets produktivitet steg efter den nye software blev installeret."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "bøj"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-bar",
+          "homeLangDetails": "Betyder at noget kan gøres eller findes. Læsbar, behagelig, mulig. Lidt som engelsk -able."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Latinsk suffiks svarende til dansk -hed. Danner abstrakte substantiver fra adjektiver. Lighed, elektricitet, virkelighed."
+        }
+      ],
+      "translationShort": "kvaliteten ved at være fleksibel",
+      "translationLong": "kvaliteten eller tilstanden ved at være fleksibel; evnen til at tilpasse sig eller bøje uden at brække",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "Materialets fleksibilitet gør det ideelt til fremstilling."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Betyder forhold til eller af samme art som. Musikalsk, naturlig, industriel."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Latinsk suffiks svarende til dansk -hed. Danner abstrakte substantiver fra adjektiver. Lighed, elektricitet, virkelighed."
+        }
+      ],
+      "translationShort": "status for at tilhøre en nation",
+      "translationLong": "status for at være borger i et bestemt land; national herkomst eller identitet",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "Hun har dobbelt nationalitet, da hun blev født i ét land og naturaliseret i et andet."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "effekt"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, betyder \"på en visse måde\". Hurtigt, gladelig, overraskende. Danner også adjektiver: venlig, køn."
+        }
+      ],
+      "translationShort": "på en effektiv måde",
+      "translationLong": "på en måde der giver det ønskede eller tilsigtede resultat; med succes",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "Den nye strategi virkede effektivt til at reducere omkostningerne."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "skabe"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, betyder \"på en visse måde\". Hurtigt, gladelig, overraskende. Danner også adjektiver: venlig, køn."
+        }
+      ],
+      "translationShort": "på en kreativ måde",
+      "translationLong": "på en måde der involverer at skabe eller bruge fantasi; med originalitet og opfindsomhed",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "Hun gik til projektet kreativt og fandt innovative løsninger."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "produkt"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, betyder \"på en visse måde\". Hurtigt, gladelig, overraskende. Danner også adjektiver: venlig, køn."
+        }
+      ],
+      "translationShort": "på en produktiv måde",
+      "translationLong": "på en måde der giver resultater eller er effektiv; med god produktion eller præstation",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "Vi brugte eftermiddagen produktivt og gennemførte alle vores opgaver."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "tiltrække"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Danner adverbier fra adjektiver, betyder \"på en visse måde\". Hurtigt, gladelig, overraskende. Danner også adjektiver: venlig, køn."
+        }
+      ],
+      "translationShort": "på en attraktiv måde",
+      "translationLong": "på en måde der er tiltalende, appelerende eller visuelt flot; på en engagerende måde",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "Butiksvinduet var attraktivt pyntet med sæsondekorationer."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "gen-",
+          "homeLangDetails": "Signalerer gentagelse eller tilbagevenden til en tidligere tilstand. Fra latin, optræder det i tusinder af engelske ord: return, rebuild, reconsider. Ofte udskifteligt med \"gøre igen\" eller \"gå tilbage\"."
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "søg"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Danner agentiva, altså personer eller ting der udfører handlingen. Lærer, skuespiller, chauffør, computer."
+        }
+      ],
+      "translationShort": "en der forsker",
+      "translationLong": "en person der udfører forskning; en videnskabsmand eller scholar der undersøger et emne",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "Forskeren udgav sine fund i et fagfællebedømt tidsskrift."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "udvikl"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Danner agentiva, altså personer eller ting der udfører handlingen. Lærer, skuespiller, chauffør, computer."
+        }
+      ],
+      "translationShort": "en der udvikler",
+      "translationLong": "en person der udvikler noget; refererer almindeligt til en softwareudvikler",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "Udvikleren skabte en ny funktion til applikationen."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "ansætte"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Danner ord for personer eller ting, der udfører handlingen. Lærer, skuespiller, chauffør, computer. Det virker præcis som på dansk."
+        }
+      ],
+      "translationShort": "en der ansætter",
+      "translationLong": "en person eller organisation, der hyrer medarbejdere; en virksomhedsejer eller leder",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "Arbejdsgiveren tilbød konkurrencedygtige fordele for at tiltrække toptalenter."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "ansætte"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ee",
+          "homeLangDetails": "Et sufiks (fra fransk -é) der markerer personen, der modtager eller er genstand for handlingen. Sammenlign employer (en der ansætter) med employee (en der er ansat). Du finder det samme sufiks i interviewee, trainee og payee."
+        }
+      ],
+      "translationShort": "en der er ansat",
+      "translationLong": "en person, der arbejder for en arbejdsgiver mod betaling",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Hver medarbejder i virksomheden får sygeforsikring."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "foto-",
+          "homeLangDetails": "En kombinationsform fra græsk phōtos (lys). Du finder det i mange ord om lys og billeder: fotograf, fotosyntese, fotogen. Foto- betyder lys, og når det kombineres med -graf (skrive/optage) får du ordets oprindelige betydning: at skrive med lys."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-",
+          "homeLangDetails": "Skrivning eller optagelse. Fotografi, biografi, autograf."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "Danner ord for personer eller ting, der udfører handlingen. Lærer, skuespiller, chauffør, computer."
+        }
+      ],
+      "translationShort": "en der tager fotografier",
+      "translationLong": "en person, der fotograferer som profession eller hobby",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "Fotografen fangede smukke billeder ved brylluppet."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "efterforske"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "En variant af -er-suffikset, som bruges i mere formelle eller latinskinfluerede sammenhænge. Både -er og -or betyder 'en der gør', men -or er almindeligt i ord med latinske rødder som investigator, senator, skuespiller og instruktør."
+        }
+      ],
+      "translationShort": "en der efterforsker",
+      "translationLong": "en person, der udfører efterforskninger; ofte en professionel, der indsamler beviser eller fakta",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "Efterforskeren undersøgte gerningsstedet for spor."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "kommunikere"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "Danner ord for personer eller ting, der udfører handlingen. Lærer, skuespiller, chauffør, computer."
+        }
+      ],
+      "translationShort": "en der kommunikerer",
+      "translationLong": "en person, der kommunikerer effektivt eller professionelt; nogen, der er god til at formidle information",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "Som en dygtig kommunikator udmærker hun sig inden for offentlig tale."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "sam-/sammen",
+          "homeLangDetails": "Med eller sammen. Et af de mest produktive latinske præfikser. Forbinde, kombinere, samarbejde, samle. Stavemåden varierer alt efter den følgende lyd."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "fælles"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Et sufiks, der danner verber (fra latin -atus). Det gør nominet eller adjektivet 'kommunikativ' til et verbum, der betyder at udføre den handling eller tilstand."
+        }
+      ],
+      "translationShort": "at dele information",
+      "translationLong": "at dele information, at formidle betydning, at udveksle tanker",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "Vi skal kommunikere vores ideer klart til teamet."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "ind-/ikke eller ind i",
+          "homeLangDetails": "Et kameleon-præfiks med to forskellige betydninger: 'ikke' (inaktiv, umulig, ulovlig) og 'ind i' (indsætte, importere). Stavemåden ændres alt efter den følgende lyd."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spor",
+          "homeLangDetails": "Fra latin vestigium (fodspor, mærke). Du finder samme rod i ordet vestige (et tilbageværende mærke) og investigator (en der følger sporene)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Et sufiks, der danner verber. Det gør ordet til en handling: at følge eller undersøge spor og hintet."
+        }
+      ],
+      "translationShort": "at undersøge grundigt",
+      "translationLong": "at undersøge grundigt, at granskeende, at foretage en granskning",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "Politiet vil efterforske gerningsstedet i morgen."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "sam-/sammen",
+          "homeLangDetails": "Med eller sammen. Et af de mest produktive latinske præfikser. Forbinde, kombinere, samarbejde, samle. Stavemåden varierer alt efter den følgende lyd."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "arbejde"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Et sufiks, der danner verber. Det gør 'arbejde' til en handling: at arbejde sammen."
+        }
+      ],
+      "translationShort": "at arbejde sammen",
+      "translationLong": "at arbejde sammen, at samarbejde",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "Vi samarbejder om dette projekt med kolleger fra andre afdelinger."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "del",
+          "homeLangDetails": "Fra latin pars (del). Kombineret med det følgende morfem -icip- skaber det betydningen 'at tage del i' eller 'at have andel i'."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "tage",
+          "homeLangDetails": "Fra latin capere (at tage). Det latinske participium (ordet for 'deltager') kombinerer 'del' + 'tage' for at betyde at have andel i noget."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-ate",
+          "homeLangDetails": "Et sufiks, der danner verber."
+        }
+      ],
+      "translationShort": "at tage del",
+      "translationLong": "at tage del, at deltage, at være med i",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Alle elever skal deltage i klassedebatten."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "sam-/sammen",
+          "homeLangDetails": "Med eller sammen. Et af de mest produktive latinske præfikser. Forbinde, kombinere, samarbejde, samle. Stavemåden varierer alt efter den følgende lyd."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "nåde",
+          "homeLangDetails": "Fra latin gratus (behagelig, taknemlig). Du finder samme rod i ordene nåde, taknemmelig og taknemlighed, som alle handler om det behageligt og det gode vilje."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulate",
+          "homeLangDetails": "Et diminutivt eller iterativt sufiks, der danner verber (fra latin -ulatus). Det blødgør eller gentager handlingen, og skaber her betydningen at udtrykke glæde eller gode vilje over for nogen på en varm, gentagen måde."
+        }
+      ],
+      "translationShort": "at rose for en præstation",
+      "translationLong": "at rose for en præstation, at udtrykke glæde eller gode vilje",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Jeg vil gerne gratulere dig med din fremragende indsats!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/forkert",
+          "homeLangDetails": "Signalerer at noget blev gjort forkert eller dårligt. Tænk på misforstå, fejltrin, fremstille forkert. Det ligner præfikset mis- på dansk."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/mellem",
+          "homeLangDetails": "Mellem eller blandt. Internationalitet, forstyrre, interagere. Du kender det fra danske ord som international."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "pret-/forklare",
+          "homeLangDetails": "Kommer fra latin og betyder grundlæggende at forklare noget. Når du sætter inter- og pret- sammen, handler det om at præcisere betydningen af det, som ligger mellem ordene. Når mis- kommer foran, vender det hele på hovedet: nu betyder det at forklare forkert."
+        }
+      ],
+      "translationShort": "misforstå",
+      "translationLong": "misforstå, fortolke eller forklare forkert",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Misforstå ikke mine ord; jeg mente dem velvilligt."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/ophæv",
+          "homeLangDetails": "Nedad, væk eller omvendt af en handling. Nedgang, bortgang, dekonstruktion. Præfikset ophæver ofte betydningen af grundordet, ligesom dansk 'af-' gør det."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/sammen",
+          "homeLangDetails": "Med eller sammen. Et af de mest brugte latinske præfikser. Forbinde, kombinere, samarbejde, samle. Stavemåden ændrer sig for at passe til den følgende lyd."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "struct-/bygge"
+        }
+      ],
+      "translationShort": "dekonstruere",
+      "translationLong": "nedbryde, demontere, analysere ved at dele op i bestanddele",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "I dette seminar vil vi dekonstruere hovedargumenterne i teksten."
+    }
+  ]
+}

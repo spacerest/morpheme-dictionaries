@@ -1,0 +1,75 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# Swahili morpheme glossary
+#
+# IMPORTANT CONTEXT FOR GENERATION:
+# Swahili is an agglutinative language. A single verb can encode subject, tense, object,
+# and derivational meaning all in one word: ni-li-m-penda (I loved him/her).
+# Nouns belong to one of ~16 classes, and the class prefix triggers agreement across
+# the whole sentence. When splitting words into parts, each prefix/suffix slot is a
+# meaningful morpheme worth glossing.
+
+# Noun class prefixes
+# These appear at the start of nouns and also as agreement prefixes on verbs/adjectives.
+
+m-/mw- | (person/plant singular) | Singular prefix shared by Class 1 (people) and Class 3 (plants, natural objects). Class 1: mtu (person), mwalimu (teacher), mwanafunzi (student). Class 3: mti (tree), mto (river), mwili (body). Context and agreement pattern distinguish the two.
+wa- | (people plural) | Plural prefix for Class 2 (people). Watu (people), walimu (teachers), wanafunzi (students). Also the 3rd person plural subject marker on verbs: wanakuja (they are coming).
+mi- | (plants/objects plural) | Plural prefix for Class 4 (plants, natural objects). Miti (trees), mito (rivers), mikono (hands/arms).
+ji-/j- | (object singular) | Singular prefix for Class 5. Often zero on short stems. Jicho (eye), jina (name), jambo (matter/issue). Also used as augmentative: jitu (giant person).
+ma- | (plural/mass) | Plural for Class 6; also marks mass or collective nouns and liquids. Macho (eyes), maji (water — always plural in form), matunda (fruits), mawazo (thoughts).
+ki-/ch- | (thing/tool singular) | Singular prefix for Class 7: artifacts, tools, languages, and diminutives. Kitu (thing), chakula (food), kitabu (book), Kiswahili (the Swahili language). The ch- variant appears before certain vowels.
+vi-/vy- | (things plural) | Plural prefix for Class 8. Vitu (things), vyakula (foods), vitabu (books).
+n-/ny- | (animal/loanword class) | Class 9/10 — same form for singular and plural, making number ambiguous without context. Very large class covering animals, most loanwords, and many everyday nouns. Nyumba (house), ndege (bird/airplane), nchi (country), paka (cat).
+u- | (abstract/uncountable) | Class 11/14 prefix for abstract nouns, uncountable concepts, and some body parts. Upendo (love), uhuru (freedom), uso (face), ugonjwa (illness). These nouns often have no plural form.
+ku- | (verbal noun/infinitive) | Class 15: marks verb infinitives and verbal nouns. Kusoma (to read / the act of reading), kufanya (to do), kula (to eat — ku- elides before vowel stems).
+-ni | at, in, on (location) | Locative suffix added to nouns to indicate place. Nyumbani (at home), shuleni (at school), mjini (in the city), baharini (at sea). One of the most productive suffixes in everyday Swahili.
+
+# Verb subject prefixes (subject markers)
+# These attach directly before the tense marker in a conjugated verb.
+
+ni- | I (1st person singular) | First person singular subject prefix. Ninasoma (I am reading), nilifanya (I did), nitakuja (I will come).
+u- | you (2nd person singular) | Second person singular subject prefix. Unasoma (you are reading), ulifanya (you did).
+a- | he/she (3rd person singular) | Third person singular subject prefix, agreeing with Class 1 nouns (people). Anasoma (he/she is reading), alifanya (he/she did).
+tu- | we (1st person plural) | First person plural subject prefix. Tunasoma (we are reading), tulifanya (we did).
+m- | you all (2nd person plural) | Second person plural subject prefix. Mnasoma (you all are reading), mlifanya (you all did).
+wa- | they (3rd person plural) | Third person plural subject prefix, agreeing with Class 2 nouns (people). Wanasoma (they are reading), walifanya (they did).
+
+# Tense and aspect markers
+# These sit between the subject prefix and the verb root: SUBJECT-TENSE-ROOT.
+
+-na- | (present/continuous) | Present tense / ongoing action marker. Ninasoma (I am reading / I read). The default tense for current actions and general truths.
+-li- | (past) | Simple past tense marker. Nilisoma (I read [past]), alifanya (he/she did). For completed actions in the past.
+-me- | (perfect) | Present perfect: completed action with present relevance. Nimesoma (I have read — and the reading matters now), amefika (he/she has arrived).
+-ta- | (future) | Future tense marker. Nitasoma (I will read), watafika (they will arrive).
+-ka- | (consecutive/narrative) | Sequential narrative marker meaning "and then." Used in storytelling to chain events. Alikuja, akasema... (He came, and then said...). Cannot start a sentence.
+-ki- | (simultaneous/conditional) | Marks an action happening at the same time as another, or a condition. Akisoma (while reading / if he reads). Common in conditional clauses.
+-nge- | (hypothetical conditional) | Hypothetical or counterfactual condition — "would." Ningesoma (I would read), angekuja (he/she would come).
+-ja- | (not yet) | Negative perfect: action that has not yet happened. Sijasoma (I haven't read yet), hajafika (he/she hasn't arrived yet). Always inherently negative.
+-si- | (negative marker) | Negation marker replacing the subject prefix in negative forms. Sisomi (I don't read), hakufanya (he/she didn't do — ha- + ku-).
+
+# Derivational verb suffixes (verb extensions)
+# These attach after the verb root to change its meaning. Multiple extensions can stack.
+
+-ish-/-esh- | (causative) | Makes a verb causative: to cause someone to do the action. soma (read) → somesha (make read / teach), lala (sleep) → laza (put to sleep / lay down). One of the most productive extensions.
+-w- | (passive) | Passive voice. soma (read) → somwa (be read), penda (love) → pendwa (be loved). The subject becomes the recipient of the action.
+-an- | (reciprocal) | Mutual or reciprocal action between two or more actors. penda (love) → pendana (love each other), ona (see) → onana (see each other / meet).
+-ik-/-ek- | (stative/potential) | Marks a state resulting from an action, or ability/possibility. vunja (break) → vunjika (be broken / be breakable), funga (close) → fungika (be closeable).
+-i- | (applicative) | Action done for, to, or on behalf of someone. soma (read) → somea (read for/to someone), pika (cook) → pikia (cook for someone).
+
+# Common roots
+# A selection of high-frequency verb and noun roots useful for morpheme decomposition.
+
+-soma- | read, study | Core root for reading and studying. Soma (read/study), kusoma (to read), msomaji (reader).
+-fanya- | do, make | The most general action root. Fanya (do/make), kufanya (to do), mfanyakazi (worker — one who does work).
+-penda- | love, like | Core root for affection. Penda (love/like), upendo (love — noun), mpendwa (beloved).
+-kuja- | come | Motion toward. Kuja (to come), anakuja (he/she is coming), karibu (welcome — be near/come near).
+-enda-/-kwenda- | go | Motion away. Enda (go), nenda (go! — imperative), anaenda (he/she is going).
+-sema- | say, speak | Core speech root. Sema (say/speak), kusema (to speak), maneno (words — plural of neno, from sema family).
+-ona- | see | Vision root. Ona (see), kuona (to see), maono (visions), onana (meet each other).
+-kula- | eat | Core consumption root. Kula (to eat), chakula (food — thing eaten), anakula (he/she is eating).
+-lala- | sleep | Rest root. Lala (sleep), kulala (to sleep), laza (put to sleep — causative).
+-taka- | want, need | Desire/will root. Taka (want), kutaka (to want), anataka (he/she wants).
+-weza- | be able to, can | Ability root. Weza (be able), anaweza (he/she can), uwezo (ability — noun).
+-jua- | know, the sun | Dual meaning root: to know (a fact) and the sun as a noun. Jua (know / sun), kujua (to know), najua (I know).
+-kaa- | stay, sit, live | Residence/position root. Kaa (stay/sit/live), kukaa (to stay), anakaa (he/she stays/sits/lives).
+-pata- | get, obtain | Acquisition root. Pata (get), kupata (to get), anapata (he/she gets/receives).
+-ambia- | tell (someone) | Applicative of -amb- (say), always used with an object. Mwambie (tell him/her), waambia (tell them).

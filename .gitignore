@@ -1,0 +1,15 @@
+__pycache__/
+.cache/
+*.pyc
+*.pkl
+.env
+research_notes.md
+*.swp
+claude-session.md
+.ipynb_checkpoints/
+polyglot.downloader
+morpheme_dicts.db-shm
+morpheme_dicts.db-wal
+word-lists/.~lock.*
+dicts-archive/
+word-lists-archive/

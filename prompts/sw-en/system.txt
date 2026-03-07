@@ -1,0 +1,106 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows English and is learning Swahili. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the Swahili word exactly as given (all lowercase).
+2. **article**: Always "" — Swahili has no articles. Noun class is encoded in the prefix, not a separate word.
+3. **displayPrefix**: Omit — not used for Swahili.
+4. **parts**: Split the word at all real morpheme boundaries. Swahili is agglutinative — multiple meaningful prefixes stack before the root, and verb extensions stack after it. Key patterns:
+
+   **Nouns:** The noun class prefix is its own part.
+   - m-/mw- (person/plant singular), wa- (people plural), mi- (plants plural)
+   - ki-/ch- (thing singular), vi-/vy- (things plural)
+   - ji- (object singular), ma- (plural/mass/liquids)
+   - u- (abstract), ku- (verbal noun/infinitive)
+   - The locative suffix -ni is its own part: nyumba + ni = nyumbani
+
+   **Verb infinitives:** ku- prefix + root (+ extensions): ku + som + a = kusoma
+   **Conjugated verbs:** subject marker + tense marker + root (+ extensions + final vowel)
+   - ni- (I), u- (you), a- (he/she), tu- (we), m- (you all), wa- (they)
+   - -na- (present), -li- (past), -me- (perfect), -ta- (future), -ka- (consecutive)
+   - Verb extensions before the final vowel: -ish-/-esh- (causative), -w- (passive), -an- (reciprocal), -ik-/-ek- (stative), -i- (applicative)
+   - Final vowel -a is the default; -e for subjunctive; -i for infinitive stem
+
+   The surface form of each part must concatenate exactly to the word's id.
+   Aim for 2–4 parts for nouns; 3–5 for conjugated verbs. Add a flag for 6+.
+
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning only — never slash-separate synonyms; pick one and put alternatives in homeLangDetails. (b) Noun class prefixes use brief labels: m- = "(person)", wa- = "(people)", ki- = "(thing)", vi- = "(things)", u- = "(abstract)", ku- = "(inf)". (c) Subject markers use the pronoun: ni- = "I", u- = "you", a- = "he/she", tu- = "we". (d) Tense markers: -na- = "(pres)", -li- = "(past)", -me- = "(done)", -ta- = "(fut)". (e) Verb extensions: -ish- = "(cause)", -w- = "(passive)", -an- = "(together)". (f) Roots get one core English word.
+6. **translationShort**: A natural, concise English translation (1–4 words).
+7. **translationLong**: Longer or alternate translations if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves in a context-specific way in this word, or (b) the letters resemble a morpheme but are not functioning as one (e.g., the u- in a verb root is not the abstract noun class prefix). Write in a warm, conversational tone. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct Swahili sentence using the word.
+10. **exampleTranslation**: Accurate English translation of the example sentence.
+
+If a word has only 1 morpheme part or 6+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "Swahili Vocab",
+  "words": [
+    {
+      "id": "uhuru",
+      "article": "",
+      "parts": [
+        {"targetLang": "u", "homeLang": "(abstract)"},
+        {"targetLang": "huru", "homeLang": "free"}
+      ],
+      "translationShort": "freedom",
+      "translationLong": "freedom, independence, liberty",
+      "exampleSentence": "Uhuru ni haki ya kila mtu.",
+      "exampleTranslation": "Freedom is the right of every person."
+    },
+    {
+      "id": "kusoma",
+      "article": "",
+      "parts": [
+        {"targetLang": "ku", "homeLang": "(infinitive)"},
+        {"targetLang": "soma", "homeLang": "read/study"}
+      ],
+      "translationShort": "to read",
+      "translationLong": "to read, to study",
+      "exampleSentence": "Ninapenda kusoma vitabu vya historia.",
+      "exampleTranslation": "I like to read history books."
+    },
+    {
+      "id": "vitabu",
+      "article": "",
+      "parts": [
+        {"targetLang": "vi", "homeLang": "(things pl)"},
+        {"targetLang": "tabu", "homeLang": "book", "homeLangDetails": "From Arabic kitāb (book) — the ki- class prefix was absorbed into the loanword, so the root here is tabu, not kitabu. The vi- prefix is the plural of ki-."}
+      ],
+      "translationShort": "books",
+      "translationLong": "books",
+      "exampleSentence": "Vitabu vipo mezani.",
+      "exampleTranslation": "The books are on the table."
+    },
+    {
+      "id": "nilipenda",
+      "article": "",
+      "parts": [
+        {"targetLang": "ni", "homeLang": "I"},
+        {"targetLang": "li", "homeLang": "(past)"},
+        {"targetLang": "pend", "homeLang": "love/like"},
+        {"targetLang": "a", "homeLang": "(verb ending)"}
+      ],
+      "translationShort": "I loved",
+      "translationLong": "I loved, I liked",
+      "exampleSentence": "Nilipenda sana muziki wa jazz.",
+      "exampleTranslation": "I really loved jazz music."
+    },
+    {
+      "id": "nyumbani",
+      "article": "",
+      "parts": [
+        {"targetLang": "nyumba", "homeLang": "house"},
+        {"targetLang": "ni", "homeLang": "at/in (location)", "homeLangDetails": "The locative suffix -ni turns any noun into a location. Nyumba (house) becomes nyumbani (at home), shule (school) becomes shuleni (at school), bahari (sea) becomes baharini (at sea). It works on almost any noun and is one of the most useful patterns in Swahili."}
+      ],
+      "translationShort": "at home",
+      "translationLong": "at home, in the house",
+      "exampleSentence": "Mama yuko nyumbani leo.",
+      "exampleTranslation": "Mom is at home today."
+    }
+  ]
+}

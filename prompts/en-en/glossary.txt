@@ -1,0 +1,75 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Prefixes -- Germanic/Old English
+un- | un-/not | The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable.
+re- | re-/again | Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with "doing again" or "going back."
+over- | over-/too much | Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for "above" in older compounds.
+under- | under-/too little | The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform).
+out- | out-/beyond | Points outward or signals surpassing something: outnumber, outstanding, outrun.
+mis- | mis-/wrongly | Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent.
+fore- | fore-/before | Before or in front. Forecast, foresee, forehead.
+
+# Prefixes -- Latin
+in-/im-/il-/ir- | in-/not or into | A chameleon prefix with two distinct meanings: "not" (inactive, impossible, illegal) and "into" (insert, import). The spelling shifts to match the following sound.
+ex-/e-/ef- | ex-/out of | Out of, former, or away. Exhale, export, eject, ex-president.
+con-/com-/co-/col-/cor- | con-/together | With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound.
+de- | de-/down/undo | Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word.
+dis- | dis-/not/apart | Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-.
+pre- | pre-/before | Before in time or position. Predict, prepare, prehistoric.
+pro- | pro-/forward/for | Forward, in favor of, or in place of. Progress, produce, pronoun.
+sub- | sub-/under | Under, below, or secondary. Subway, submarine, substitute.
+inter- | inter-/between | Between or among. International, interrupt, interact.
+trans- | trans-/across | Across, through, or changing from one state to another. Transport, transform, translate.
+super- | super-/above | Above, over, or exceptional. Superman, superior, supernatural.
+anti- | anti-/against | Against or opposing. Antiwar, antibiotic, anticipate.
+per- | per-/through | Through, thoroughly, or completely. Perform, permit, persist.
+ad-/a- | to/toward | Toward or in addition to. Adapt, admit, attract, arrive.
+
+# Prefixes -- Greek
+auto- | auto-/self | Self. Autobiography, automatic, automobile.
+micro- | micro-/tiny | Very small. Microphone, microscope, microwave.
+tele- | tele-/far | At a distance. Telephone, television, telescope.
+poly- | poly-/many | Many. Polygon, polyglot, polynomial.
+mono- | mono-/one | One or alone. Monopoly, monologue, monotone.
+semi- | semi-/half | Half or partly. Semicircle, semifinal, semiconscious.
+bio- | bio-/life | Life. Biology, biography, biodegradable.
+geo- | geo-/earth | Earth or land. Geography, geology, geometry.
+multi- | multi-/many | Many or multiple. Multicultural, multimedia, multiply.
+
+# Suffixes
+-tion/-sion | -tion | The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung.
+-ment | -ment | Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment.
+-ness | -ness | Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity.
+-ity/-ty | -ity | The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality.
+-er/-or | -er | Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer.
+-ist | -ist | A person who practices, specializes in, or believes in something. Artist, scientist, pianist.
+-ism | -ism | A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm.
+-ize/-ise | -ize | To make something have a quality, or to cause a process. Modernize, organize, realize.
+-ify | -ify | To make or cause to become. Simplify, clarify, intensify.
+-ful | -ful | Full of or characterized by. Beautiful, careful, powerful.
+-less | -less | Without. Careless, hopeless, speechless.
+-able/-ible | -able | Capable of being done. Readable, comfortable, possible.
+-ous/-ious | -ous | Having, full of, or characterized by. Famous, serious, courageous.
+-al/-ial | -al | Relating to or of the nature of. Musical, natural, industrial.
+-ic | -ic | Relating to or having the qualities of. Heroic, electric, historic.
+-ive | -ive | Tending to or having the nature of. Active, creative, descriptive.
+-ent/-ant | -ent | Forms adjectives meaning "doing" or "being" something, and agent nouns. Confident, dependent, resistant. Similar to -ive but from a different Latin stem class.
+-ence/-ance | -ence | Forms abstract nouns from verbs or adjectives, referring to a state, quality, or action. Dependence, reference, interference. The noun counterpart to adjectives ending in -ent/-ant.
+-ly | -ly | Forms adverbs from adjectives, meaning "in a [manner]." Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely.
+-ship | -ship | A state, condition, or relationship. Friendship, leadership, scholarship.
+-hood | -hood | A state, condition, or group. Childhood, neighborhood, brotherhood.
+-dom | -dom | A state, realm, or collective. Freedom, kingdom, wisdom.
+-ward/-wards | -ward | In the direction of. Forward, backward, upward.
+
+# Greek roots (appear as standalone morpheme parts in many words)
+-graph-/-graphy | -graph- | Writing or recording. Photography, biography, autograph.
+-logy | -logy | The study of. Biology, psychology, technology.
+-phon-/-phone | -phone | Sound or voice. Telephone, microphone, symphony.
+-chron- | -chron- | Time. Chronology, synchronize, anachronism.
+-path-/-pathy | -pathy | Feeling, suffering, or disease. Sympathy, empathy, antipathy.
+-morph- | -morph- | Form or shape. Metamorphosis, amorphous, morphology.
+-scope | -scope | An instrument for viewing. Telescope, microscope, stethoscope.
+-meter | -meter | A measuring instrument. Thermometer, speedometer, barometer.

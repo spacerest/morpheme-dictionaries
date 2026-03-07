@@ -1,0 +1,24 @@
+{
+  "words": [
+    {
+      "id": "小心翼翼",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "小心",
+          "homeLang": "careful"
+        },
+        {
+          "targetLang": "翼翼",
+          "homeLang": "(intensifier)",
+          "homeLangDetails": "翼翼 is a classical reduplication meaning 'cautious and precise, like the careful folding of wings.' It amplifies 小心 (careful) into an image of great, almost delicate deliberateness. You'll mostly see it in this fixed four-character expression (成语)."
+        }
+      ],
+      "translationShort": "very carefully",
+      "translationLong": "with great care, cautiously, gingerly",
+      "exampleSentence": "她小心翼翼地把花瓶放回架子上。",
+      "exampleTranslation": "She carefully placed the vase back on the shelf.",
+      "flag": "only 2 parts, but 小心翼翼 is a fixed four-character idiom (成语); further splitting would misrepresent its structure"
+    }
+  ]
+}

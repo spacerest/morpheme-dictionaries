@@ -1,0 +1,1090 @@
+[
+  {
+    "word": "injection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-/niet of in' is confusing and inaccurate. The prefix 'in-' means 'in' or 'into', not 'niet' (not). The 'niet' component is misleading.",
+    "suggestion": "Change to 'in/naar binnen' or simply 'in'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'iets dat naar buiten steekt; een voorspelling of schatting' conflates two different meanings. The primary meaning in 'projection' is 'a forecast/estimate', not 'something that sticks out'. While projection can mean a protruding thing, in this context it should focus on the prediction aspect.",
+    "suggestion": "Change to 'een voorspelling, raming, of schatting' to better capture the intended meaning",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' does not mean 'zeggen' (to say). It comes from Latin 'dicere' (to speak/say), but in 'jurisdiction' it functions as part of '-diction' meaning 'judgment' or 'ruling', not simply 'saying'.",
+    "suggestion": "Change homeLang to 'oordelen' or 'uitspraak' (judgment/ruling) to better reflect its meaning in this context",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-/niet of in' is confusing and contradictory. The prefix 'im-' before 'port' means 'in' (into), not 'not' or 'in-/not'. The 'niet' (not) is incorrect.",
+    "suggestion": "Change to simply 'in' or 'naar binnen' (into/inward)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'de' is listed as 'af/omhoog' (up/above), but 'de-' in 'destruction' means 'down' or 'away from', not 'up'. The description mentions 'downward/away' but the label itself is backwards.",
+    "suggestion": "Change homeLang to 'af/omlaag' or 'weg/af' to clearly indicate 'down/away' rather than 'up'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reconstruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The prefix 'con' is listed as a separate morpheme meaning 'samen' (together), but in 'reconstruction', the relevant prefix is 're-' + 'construct' + '-ion'. The 'con-' is part of the Latin root 'construct' (con + struct), not a separate morpheme at this level. This conflates etymological and synchronic morpheme boundaries.",
+    "suggestion": "Revise to split as: 're' (opnieuw) + 'construct' (bouwen/samenstellen) + 'ion' (-tie), or clarify that 'con' is etymologically part of 'struct'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'in' is listed as 'in-/niet of binnen' (in/not or inside), but in 'inspection', 'in-' does not mean 'not'; it means 'in' or 'into' (looking into something). The 'niet' (not) sense is inappropriate here.",
+    "suggestion": "Change to 'in/binnen' or 'naar binnen' to reflect the 'into/upon' meaning in inspection",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "destruction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Het orkaan veroorzaakte uitgebreide vernietiging' is grammatically incorrect. 'Orkaan' is feminine in Dutch and should be 'De orkaan', and 'het orkaan' is wrong. Also, the article is missing.",
+    "suggestion": "Change to 'De orkaan veroorzaakte uitgebreide vernietiging' or 'Het orkaan veroorzaakte wijdverbreide vernietiging'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "description",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'de-' does not mean 'af/omhoog' (down/up). In 'description', 'de-' is part of the Latin prefix 'de-' meaning 'down from' or simply functioning as a prefix without the negating sense. The homeLang gloss 'af/omhoog' is misleading and conflates it with German 'ab-' negation.",
+    "suggestion": "Change homeLang to 'van/af' or 'neer' to better reflect the Latin 'de-' prefix meaning, or clarify that in this context it simply marks the action without strong semantic content.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails describes 'de-' as reversing the meaning of the base word (like German 'ab-'), but in 'description' the prefix does not negate or reverse 'scribe'; it is a Latin prefix with weaker or different semantic function than the negating/reversing sense described.",
+    "suggestion": "Revise the explanation to distinguish between negating prefixes and simple Latin prefixes, or note that 'de-' here functions differently than in typical reversal contexts.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "prescription",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'De dokter gaf me een recept voor antibiotica' uses 'recept' which is more colloquial for a cooking recipe or medical prescription, but 'voorschrift' (used in translationShort) is the more formal term. The translation should be consistent with the formal register of 'prescription'.",
+    "suggestion": "Change exampleTranslation to 'De dokter gaf me een voorschrift voor antibiotica' to match the terminology in translationShort.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation uses 'bevolen' (commanded/ordered) which is grammatically awkward. The correct past tense form should be 'bevolen' or better yet, use a more natural construction.",
+    "suggestion": "Change to 'De tandarts adviseerde tandextractie.' or 'De tandarts aanbevolen tandextractie.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "permission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'zend' (send) for 'miss' in 'permission' is misleading. The Latin 'mittere' (to send) is the root, but in 'permission' the sense is 'to allow/permit' (from 'permittere'), not simply 'to send'. The morpheme breakdown conflates the literal etymological root with the semantic meaning in this compound.",
+    "suggestion": "Consider glossing as 'zend/stuurt' or acknowledge the semantic shift in homeLangDetails: the Latin root means 'send' but in 'permission' it combines with 'per-' to convey 'allow/permit'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "transmission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'miss' is glossed as 'zend' (send), but in 'transmission' it comes from Latin 'mittere' (to send). While 'zend' is a reasonable Dutch equivalent, the morpheme itself in English is 'mitt-' not 'miss-'. The split should clarify this is the root 'mitt' not 'miss'.",
+    "suggestion": "Change parts[1].targetLang from 'miss' to 'mitt' for accuracy",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "commitment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'mitt' is glossed as 'zend' (send), but 'mitt' in 'commitment' comes from Latin 'mittere' (to send/put). While 'zend' captures the semantic field, it's misleading because 'commitment' is about 'putting forth' or 'entrusting' rather than simply 'sending'. The gloss should reflect the 'put/entrust' sense.",
+    "suggestion": "Change parts[1].homeLang to 'zend/leg' or 'toevertrouwen' to better capture the 'entrust/commit' sense",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'De bedrog werd uiteindelijk onthuld' uses 'bedrog' which is archaic/poetic Dutch. The more natural modern translation would use 'bedrog' or better yet 'de misleiding' or 'het bedrog'.",
+    "suggestion": "Change to 'De misleiding werd uiteindelijk onthuld.' or 'Het bedrog werd uiteindelijk onthuld.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'terug' (back) for 're-' is misleading in modern English. While the homeLangDetails correctly note the Latin etymology, 're-' in 'reference' actually means 'again' or 'anew' (bring back/bring to mind), not strictly 'back' in the sense of returning. The modern meaning has shifted.",
+    "suggestion": "Consider revising to 'opnieuw' (again) or noting that in modern English, 're-' typically means 'again' rather than the archaic 'back'. The homeLangDetails explanation is good but the simple gloss 'terug' may confuse learners.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "conversion",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'samen' (together) for 'con-' is misleading. In 'conversion', 'con-' is a prefix meaning 'together' or 'with', but the word's actual meaning (changing from one form to another) doesn't clearly reflect 'together'. The 'con-' here is etymologically present but doesn't contribute transparently to the modern meaning.",
+    "suggestion": "Consider noting that 'con-' here means 'completely' or 'thoroughly' rather than 'together', or acknowledge that this is a case where the morphological analysis doesn't clearly map to modern meaning.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "\"oc\" is not a standard morpheme boundary. The prefix should be \"oc-\" (a variant of \"ob-\", meaning \"toward/against\"), but splitting just \"oc\" is misleading.",
+    "suggestion": "Consider whether to present this as \"oc- (toward)\" or note that \"occur\" is the base and the suffix is \"-rence\" (from Latin -rentia). The current split obscures the actual morphology.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"voorkomen\" is ambiguous in Dutch—it primarily means \"to prevent\" or \"appearance/aspect\", not \"occurrence/instance\". The correct noun is \"voorkomen\" (noun form: appearance) but \"geval\" or \"voorval\" better captures \"occurrence\" in the sense of \"an instance or event\".",
+    "suggestion": "Use \"voorkomen\" only if the context is clearly about \"appearance/happening\", otherwise prefer \"geval\", \"voorval\", or \"incident\" depending on context.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"Het voorkomen van aardbevingen\" is grammatically acceptable but sounds slightly awkward. A more natural phrasing would be \"Het voorkomen van aardbevingen\" (prevention sense) or better: \"Aardbevingen komen in die regio vaak voor\" (earthquakes occur commonly) or \"Het frequente optreden van aardbevingen in die regio\".",
+    "suggestion": "Rephrase as: \"Aardbevingen treden in die regio regelmatig op.\" or \"Het optreden van aardbevingen in die regio is gebruikelijk.\"",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme 'cur' is glossed as 'lopen' (to run/walk), but in 'recurrence' it comes from Latin 'currere' (to run). While the gloss is ultimately correct, the split is problematic because 'cur' alone doesn't cleanly isolate this root—it should be recognized that '-cur-' is the root and '-rence' is a suffix form of '-ence'. The current three-part split obscures the actual morphological structure.",
+    "suggestion": "Consider re-splitting as 're-' + 'curr-' (lopen/rennen) + '-ence' (-ence), or clarify that 'cur' represents the root form of the Latin verb.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-' + 'cess-' + '-ion' is problematic. 'Cess' is not the correct morpheme boundary. The word should be analyzed as 're-' + 'ced-' (from Latin 'cedere', to go/yield) + '-ion', parallel to 'recede'. The '-cess-' in 'recession' is a variant/derived form from the past participle 'cessus', but splitting it as 'cess' obscures the root relationship with other words like 'recede'.",
+    "suggestion": "Re-split as 're-' + 'ced-' + '-ion' to be consistent with the actual Latin root 'cedere' (gaan/wijken).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The morpheme 'suc' is glossed as 'onder' (under), but this is incomplete and misleading. In Latin, 'sub-' means 'under', and it assimilates to 'suc-' before 'ced-'. The gloss 'onder' is technically correct but the split should acknowledge that this is 'sub-' (assimilated to 'suc-'), not just 'suc'.",
+    "suggestion": "Either split as 'sub-' + 'cess-' + '-ion' (showing the prefix form) or clarify in homeLangDetails that 'suc-' is an assimilated form of 'sub-' (onder/volgen onder).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split 'un-' + 'pre-' + 'ced-' + 'ent-' + 'ed' is problematic. The suffix structure is confused: '-ent' and '-ed' should not be separate morphemes here. The correct analysis is 'un-' + 'precedent-' + 'ed', where 'precedent' is the base adjective (which itself breaks down as 'pre-' + 'ced-' + '-ent'). Splitting '-ent' and '-ed' separately is incorrect.",
+    "suggestion": "Re-split as 'un-' + 'pre-' + 'ced-' + '-ent' + '-ed', or better yet, explain that 'unprecedented' = 'un-' + 'precedented', where 'precedent' is pre- + ced- + -ent, and then -ed is added for the adjective form.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "transformation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'over' is misleading. The Latin prefix 'trans-' means 'across' or 'through', not 'over'. While the homeLangDetails mentions transport/transform, the single-word gloss should reflect the actual meaning.",
+    "suggestion": "Change homeLang from 'over' to 'over/heen' or better yet 'dwars/across' to accurately represent the Latin prefix trans-",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "interruption",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'rupt' is incomplete. The full root is 'rupt' from Latin 'rumpere' (to break), but it should be noted that in English the full form is 'rupt-' and the suffix that follows is '-ion' (not just 'ion'). However, the actual issue is that 'interrupt' is 'inter-' + 'rupt' where 'rupt' is itself from the root 'rumpere'. The split is correct but the representation of '-ion' as a separate part from 'rupt' is awkward since they form a unit 'ruption'.",
+    "suggestion": "Consider representing as: 'inter-' + 'rupt-' + '-ion', or clarify that 'rupt' should be understood as the root form before the suffix.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'cor-' is glossed as 'samen/met' (together/with), but in 'corruption' it actually comes from Latin 'cor-' meaning 'together' used as an intensifier in the sense of 'thoroughly' or 'completely broken'. While 'samen' is a surface-level connection, it misleads about the actual function here.",
+    "suggestion": "Consider glossing as 'samen' or noting that it intensifies the meaning of 'rupt' (broken), making it 'thoroughly broken' rather than just 'together broken'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "autobiography",
+    "category": "incomplete_split",
+    "field": "parts[3]",
+    "issue": "The suffix '-y' is split out, but in English morphology, '-graphy' (from Greek '-graphia') is typically treated as a bound morpheme unit meaning 'writing/description of', not as separate '-graph' + '-y'. The split should either be 'auto + bio + graphy' or 'auto + bio + graph + y' with clarification that '-graphy' functions as a single semantic unit.",
+    "suggestion": "Either combine 'graph' and 'y' into 'graphy' with homeLang '-grafie' (writing/description), or add a note that '-graph' means 'write/writing' and '-y' is the nominalization suffix.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "biography",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-y' is split out separately, but '-graphy' (from Greek '-graphia') is a bound morpheme unit meaning 'writing/description of', not as separate '-graph' + '-y'. The homeLang for '-graph' is '-graf-' which is incomplete without explaining that '-y' completes the meaning.",
+    "suggestion": "Either combine 'graph' and 'y' into 'graphy' with homeLang '-grafie', or clarify that '-graph' means 'write' and '-y' is the nominalization suffix that together form '-graphy'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-y' is split out separately, but '-graphy' (from Greek '-graphia') is a bound morpheme unit meaning 'writing/description of', not as separate '-graph' + '-y'. The homeLang for '-graph' is '-graf-' which is incomplete.",
+    "suggestion": "Either combine 'graph' and 'y' into 'graphy' with homeLang '-grafie', or clarify that '-graph' means 'write' and '-y' is the nominalization suffix.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "symphony",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-y' is split out separately, but '-phony' (from Greek '-phonia') is a bound morpheme unit meaning 'sound/sounding', not as separate '-phon' + '-y'. The homeLang for '-phon' is '-foon' which is incomplete without explanation of the '-y' suffix.",
+    "suggestion": "Either combine 'phon' and 'y' into 'phony' with homeLang '-fonie' (sounding/sound), or clarify that '-phon' means 'sound' and '-y' is the nominalization suffix.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang for 'tele' is given as 'ver' (Dutch for 'far'), but the homeLangDetails correctly explains it means 'at a distance'. The short form 'ver' is incomplete and potentially confusing since it's just the Dutch preposition for 'far' rather than a clear gloss of the morpheme's meaning.",
+    "suggestion": "Change homeLang to 'ver-' or 'op afstand' to better align with the detailed explanation",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "chronology",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The morpheme 'chron' is presented with homeLang '-chron-' (with dashes), but in the English entry it should be split and glossed as its own standalone root meaning 'time', not as a bound morpheme with dashes on both sides.",
+    "suggestion": "Change homeLang from '-chron-' to 'chron' or 'tijd' to reflect that it's a root morpheme in this context",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "Same issue as chronology: 'chron' is presented with homeLang '-chron-' (with dashes on both sides), which incorrectly marks it as a bound morpheme when it functions as a root here.",
+    "suggestion": "Change homeLang from '-chron-' to 'chron' or 'tijd'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "Same issue: 'chron' is presented with homeLang '-chron-' (with dashes), incorrectly marking it as bound when it's a root morpheme.",
+    "suggestion": "Change homeLang from '-chron-' to 'chron' or 'tijd'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "dermatology",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Ik heb een afspraak met een huidspecialist' translates back to 'I have an appointment with a skin specialist', which loses the specific reference to 'dermatology' present in the English sentence. A more precise translation would mention dermatologie/dermatoloog.",
+    "suggestion": "Ik heb een afspraak met een dermatoloog. (or: Ik heb een afspraak met een specialist in dermatologie.)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "empathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-' for 'em' is misleading. The prefix 'em-' (from Greek 'en-') does mean 'in', but the homeLangDetails explanation that it suggests 'going into' the emotional state is an interpretive gloss rather than a literal morphological meaning. The actual semantic difference between sympathy and empathy is not reliably conveyed by this morphemic distinction alone.",
+    "suggestion": "Consider clarifying that 'em-' is a variant of Greek 'en-' (in/into), but note that the conceptual distinction between empathy and sympathy derives more from historical usage than from the strict morphemic decomposition.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-ous' is listed without a homeLang translation or homeLangDetails. It should be properly documented as the English adjectival suffix '-ous' (Dutch: '-eus'), which converts nouns/roots into adjectives.",
+    "suggestion": "Add homeLangDetails explaining that '-ous' is an English adjectival suffix derived from Latin '-osus', equivalent to Dutch '-eus'. Example: 'Een achtervoegsel dat zelfstandige naamwoorden of wortels in bijvoeglijke naamwoorden omzet. Afkomstig uit het Latijn -osus. Voorbeelden: dangerous, famous, nervous.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'vloeibare kleibol' (liquid/flowing clay ball) is inaccurate. The example talks about clay that 'could become anything' (shapeless), not specifically liquid. 'Vloeibare' suggests a fluid substance, which misleads.",
+    "suggestion": "Change to 'De vormloze kleibol kon van alles worden' or 'De kleibol zonder duidelijke vorm kon van alles worden' to accurately reflect the sense of 'shapeless' rather than 'liquid'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "incomplete_split",
+    "field": "parts[1] and parts[2]",
+    "issue": "The morpheme 'comfort' is listed without homeLangDetails, and '-able' is listed without homeLangDetails. Both need proper documentation of their origins and meaning.",
+    "suggestion": "Add homeLangDetails for 'comfort': 'Uit het Latijn/Frans, betekent troost of gemak.' And for '-able': 'Een achtervoegsel dat 'geschikt voor' of 'kan' betekent. Afkomstig uit het Latijn -abilis. Voorbeelden: readable, comfortable, valuable.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "incomplete_split",
+    "field": "parts[1] and parts[2] and parts[3]",
+    "issue": "The morphemes 'believe' and '-able' lack homeLangDetails. They should be properly documented with their origins and functions.",
+    "suggestion": "Add homeLangDetails for 'believe': 'Uit het Oudengels gelyfan, betekent vertrouwen stellen in of accepteren als waar.' And for '-able': 'Een achtervoegsel dat 'geschikt voor' of 'kan' betekent. Afkomstig uit het Latijn -abilis.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Het artikel bevatte een misvorming van de feiten' is inaccurate. 'Misvorming' means 'deformation' or 'malformation', not 'misrepresentation'. The correct translation should use 'verdraaiing' or 'onjuiste voorstelling'.",
+    "suggestion": "Het artikel bevatte een verdraaiing van de feiten. OR Het artikel bevatte een onjuiste voorstelling van de feiten.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "overestimation",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "Typo in Dutch: 'belangijker' should be 'belangrijker' (missing 'r')",
+    "suggestion": "Change 'belangijker' to 'belangrijker'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation 'De spoorweg die het continent doorkruist' is awkward and doesn't fully capture 'transcontinental railroad'. A more natural translation would emphasize that it spans/crosses continents (plural).",
+    "suggestion": "Use 'De intercontinentale spoorweg verbond de oost- en westkusten' or 'De spoorweg die continenten verbond verbond de oost- en westkusten'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for '-ment' is listed as '-ing', but '-ment' is the English suffix, not '-ing'. The Dutch equivalent '-ing' is correct for the suffix function, but the field label is misleading since it shows the English suffix name rather than clarifying the Dutch equivalent.",
+    "suggestion": "Clarify that '-ment' (English) corresponds to '-ing' (Dutch) as a nominalizing suffix, or restructure to avoid confusion between the target language suffix and its home language equivalent.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "Same issue as 'encouragement': the homeLang for '-ment' is listed as '-ing'. While '-ing' is the correct Dutch nominalizing suffix, the field should represent the Dutch form, not create confusion with the English '-ing' suffix.",
+    "suggestion": "Clarify the suffix mapping or use a clearer notation to distinguish English '-ment' from Dutch '-ing'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' (ad-) + 'point', as 'appoint' itself is a compound from Latin ad- (to) + punctum (point). The entry treats 'appoint' as an unanalyzed root.",
+    "suggestion": "Split into three parts: 'dis' + 'ap' (ad-) + 'point', or keep 'appoint' but note that it is itself a compound and not a root morpheme",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ous' is translated as '-eus', but '-eus' is not the standard Dutch equivalent. The correct Dutch adjective-forming suffix from Latin -osus is '-eus' or more naturally '-eus/-eus', but the most common modern Dutch rendering of English '-ous' adjectives uses '-eus' or sometimes '-achtig'. The gloss '-eus' is awkward and should be explained or corrected.",
+    "suggestion": "Change '-eus' to a more natural Dutch description such as '-achtig' or provide fuller detail: '-eus (van het Latijn -osus, betekenis: vol van, geneigd tot)'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "courageous",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'redden levens' should be 'redde levens' or 'hebben levens gered' depending on tense. The sentence uses past tense 'saved' but the Dutch translation 'redden levens' is present tense or infinitive form, creating a tense mismatch.",
+    "suggestion": "Change exampleTranslation to: 'Haar moedige acties hebben levens gered tijdens de crisis.' or 'Haar moedige acties redden levens tijdens de crisis.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "\"extra\" does not mean \"buiten\" (outside). In English, \"extra\" means \"additional\" or \"beyond\", which in Dutch is \"extra\" or \"buitengewoon\" (literally \"outside-ordinary\"). The morpheme \"extra-\" is a Latin prefix meaning \"beyond\", not equivalent to Dutch \"buiten\".",
+    "suggestion": "Change homeLang for \"extra\" to \"extra, buiten\" or more accurately \"voorbij, buiten\" (beyond)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The gloss \"waardig om op te merken\" (worthy of being noted) is awkward and not the natural Dutch translation. The word simply means \"opmerkelijk\" (noteworthy/remarkable), not specifically about worthiness.",
+    "suggestion": "Change translationShort to just \"opmerkelijk\" or \"opmerkelijk, indrukwekkend\"",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is incorrectly split as 'compartment + al + ize'. The correct morphological structure should be 'compartment + alize' (a single suffix combining -al and -ize), not separate components. The '-al' is not a standalone morpheme here; it's part of the adjectival form that gets verbalized by '-ize'.",
+    "suggestion": "Split as: compartment (compartiment) + alize (-aliseer or -aliseren as a combined verbal suffix)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation of '-aal' is misleading in this context. The description suggests '-aal' is a standalone morpheme meaning 'of that nature' (as in muzikaal, natuurlijk), but in 'compartmentalize', the '-al' is not functioning as a separate morpheme—it's part of the adjectival form 'compartmental' which is then verbalized. The explanation conflates two different processes.",
+    "suggestion": "Clarify that in this word, '-al' and '-ize' work together as a verbalization strategy, not as separate morphemes with independent meanings",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The Dutch translation 'incompatibiliteit' is a loanword and not a natural or primary translation. The more natural Dutch translation following the morpheme pattern would be 'onverenigbaarheid' or 'onverenigbaarheid', which better reflects the structure shown in the morpheme breakdown.",
+    "suggestion": "Use 'onverenigbaarheid' or 'onverenigbaarheid' as the primary translation, with 'incompatibiliteit' as an alternative loanword",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails for '-ful' lists 'mooi' (beautiful), 'voorzichtig' (careful), 'krachtig' (strong) as examples, but these are adjectives, not examples of the '-vol' suffix being applied. The examples should show the suffix in use, like 'zorgvol' or 'vol van zorg'.",
+    "suggestion": "Revise to show actual words with the suffix: 'zorgvol (full of care), voorzichtig (cautious), krachtig (powerful). Or clarify with examples like 'liefdevol' (full of love), 'kunstig' (artistic).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The examples 'Snel, blij, verrassend' are adjectives in their base form, not adverbs formed by the '-ig' suffix. The explanation is confusing because '-ig' typically forms adjectives (like 'voorzichtig'), not adverbs. The suffix that forms adverbs from adjectives in Dutch is usually the absence of a suffix or other mechanisms.",
+    "suggestion": "Clarify that '-ig' forms adjectives from nouns/other words (like 'voorzichtig' from 'voorzorg'), and that '-ly' converts adjectives to adverbs. The Dutch '-ig' suffix doesn't directly parallel English '-ly' in function.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "carelessness",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "Same as above: the examples 'Geluk, duisternis, bewustzijn' are nouns, not examples of '-heid' being applied. These should show words with the suffix, like 'gelukkigheid', 'duisterheid', 'bewustheid'.",
+    "suggestion": "Provide actual examples with the suffix applied: 'gelukkigheid' (happiness), 'duisterheid' (darkness), 'bewustheid' (consciousness).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "Same issue as 'carefully': The examples 'mooi, voorzichtig, krachtig' are base adjectives, not examples of '-vol' being used as a suffix.",
+    "suggestion": "Provide examples with the suffix: 'liefdevol' (loving), 'smaakwol' (tasteful), or similar words showing '-vol' in use.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "helplessly",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "Same issue as 'carelessly': The examples 'Snel, blij, verrassend' are base adjectives, not adverbs formed by '-ig'. The explanation of '-ig' as forming adverbs is misleading.",
+    "suggestion": "Clarify the actual function and provide examples that show '-ig' forming adjectives, not adverbs.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails for '-vol' lists examples like 'mooi, voorzichtig, krachtig' which are not adjectives formed with -vol. These are standalone adjectives. Better examples would be 'hopvol, angstvol, blijvol' or similar.",
+    "suggestion": "Provide actual Dutch adjectives formed with -vol, such as 'hopvol (full of hope), angstvol (full of fear), blijvol (full of joy)'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLangDetails for '-ig' is misleading. It says '-ig makes adverbs from adjectives' but -ig actually makes adjectives, not adverbs. In Dutch, the adverb form is typically the same as the adjective form, or uses other means. The examples 'snel, blij, verrassend' are already adjectives, not formed by -ig.",
+    "suggestion": "Correct to explain that -ig makes adjectives from nouns (e.g., voorzichtig, vriendelijk), or clarify the actual function. For adverbs, Dutch typically uses the same form as the adjective or other constructions.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "Same issue as 'hopefully': the examples 'mooi, voorzichtig, krachtig' are not formed with -vol and don't illustrate the suffix properly.",
+    "suggestion": "Provide actual Dutch adjectives formed with -vol, such as 'dankbarvol, angstvol, blijvol'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "Same issue as 'hopefully': the homeLangDetails incorrectly describes -ig as making adverbs from adjectives, when -ig actually makes adjectives. The examples are standalone adjectives, not formed by -ig.",
+    "suggestion": "Correct the explanation of -ig's actual function in Dutch morphology",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'staat van dankbaarheid' is somewhat awkward. A more natural Dutch translation would be 'dankbaarheid' or 'dankbare gezindheid'.",
+    "suggestion": "Change to 'dankbaarheid' or 'dankbare gezindheid'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Ze overwoog de vraag zorgvuldig voordat ze antwoordde' is slightly off. 'Overwogen' would be better, or the phrasing should match the English structure more closely.",
+    "suggestion": "Change to 'Ze overwoog de vraag op een doordachte manier voordat ze antwoordde' or 'Ze dacht zorgvuldig na voordat ze antwoordde'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "thoughtlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Zijn gebrek aan attentie deed haar pijn' doesn't capture the full meaning. The word 'thoughtlessness' in the example refers to his reckless or inconsiderate behavior, not just a 'lack of attention'. The Dutch 'gebrek aan attentie' is too narrow.",
+    "suggestion": "Change to 'Zijn onachtzaamheid/zorgeloosheid deed haar pijn' or 'Zijn gebrek aan gevoeligheid deed haar pijn'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'De soldaat marcheerde moedig de slag in' is awkward. The phrase 'de slag in' is not idiomatic Dutch. Should be 'in de slag' or 'naar voren'.",
+    "suggestion": "Change to 'De soldaat marcheerde moedig in de slag' or 'De soldaat marcheerde moedig naar voren'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The entry splits 'beautifully' as beauty + ful + ly, but 'beauty' is itself a derived form (beautiful + -ty). The morphologically transparent base should be 'beautiful', not 'beauty'.",
+    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beautiful' and parts[0].homeLang from 'schoonheid' to 'mooi' (or 'schoon') to reflect the actual morphological structure.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'wanneer hij zich confranteerde met onrechtvaardigheid' has a typo: 'confranteerde' should be 'confronteerde'. Additionally, the word order is awkward in Dutch; it should use 'toen hij' or 'als hij' rather than 'wanneer hij zich confranteerde'.",
+    "suggestion": "Change to: 'Hij voelde een diep gevoel van machteloosheid toen hij zich confronteerde met onrechtvaardigheid.' or 'Hij voelde een diep gevoel van machteloosheid tegenover onrechtvaardigheid.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase 'toestand van zonder werk zijn' is awkward and unnatural Dutch. It literally translates 'state of without work being' which is grammatically incorrect.",
+    "suggestion": "Should be 'werkloosheid' or 'staat van werkeloos zijn' for a more natural phrasing.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "development",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase 'het proces van groeien' is incomplete and imprecise. It only captures 'the process of growing' but development is broader.",
+    "suggestion": "Should be 'het proces van ontwikkeling' or 'het proces van zich ontwikkelen' for accuracy.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase 'het feit van betrokken zijn' is awkward. Dutch would not typically structure this as 'het feit van' + infinitive construction.",
+    "suggestion": "Should be 'het betrokken zijn' or 'betrokkenheid' for natural Dutch.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The phrase 'het beter maken' is too literal and awkward for Dutch. It reads as a crude translation rather than natural usage.",
+    "suggestion": "Should be 'verbetering' or 'het proces van verbeteren' for natural Dutch.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_boundary",
+    "field": "parts[2]",
+    "issue": "The suffix '-ise' should not be split separately from the morpheme analysis. In 'advertise', the structure is ad + vert + ise, but '-ise' is a verb-forming suffix that applies to the root 'vert', not an independent morpheme that then receives '-ment'. The analysis should recognize that 'advertise' is the verb, and '-ment' nominializes it. The extra '-ise' split creates confusion about how the word is actually formed.",
+    "suggestion": "Consider restructuring: either split as ad + vertise (with -ise as part of the verb formation) and then -ment as nominalizer, or acknowledge that the morphological analysis is showing: ad + vert + ise + ment where the intermediate steps show how the verb is formed before nominalization.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence instead of being translated to Dutch",
+    "suggestion": "Should be a Dutch translation such as: 'Het concert was een heerlijke avond vol vermaak.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence instead of being translated to Dutch",
+    "suggestion": "Should be a Dutch translation such as: 'Een middelbareschooldiploma is een vereiste voor de meeste collegeprogramma's.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The claim that 'tired' comes from the root 'tirer' (trekken) is etymologically incorrect. 'Tired' actually comes from the verb 'tire' meaning to exhaust, and is not directly related to 'retire' in the way suggested.",
+    "suggestion": "Remove or correct the claim about 'tired'. The connection between 're-' and 'tir-' is valid, but the 'tired' example is misleading.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "retirement",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence instead of being translated to Dutch",
+    "suggestion": "Should be a Dutch translation such as: 'Ze plant haar pensioen voor volgende jaar.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "department",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence instead of being translated to Dutch",
+    "suggestion": "Should be a Dutch translation such as: 'Ze werkt op de marketingafdeling.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "replacement",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is identical to the English sentence instead of being translated to Dutch",
+    "suggestion": "Should be a Dutch translation such as: 'De vervanging voor het kapotte raam is gisteren aangekomen.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ed' is split separately, but 'expected' should be treated as a single morpheme (the past participle/adjective form used as a base for the -ly suffix). The splitting into expect + ed + ly is technically correct but pedagogically misleading because '-ed' here is part of the adjectival base 'unexpected', not a separate verbal past tense marker.",
+    "suggestion": "Consider restructuring to: un + expected + ly, or keep the current split but clarify that 'ed' forms the adjective 'unexpected' before '-ly' is applied.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Zijn eisen waren buitensporig' translates as 'excessive/extravagant' but the original sentence conveys 'unreasonable/unjustifiable'. While not entirely wrong, a more direct translation would be 'Zijn eisen waren onredelijk' to match the short translation provided.",
+    "suggestion": "Change exampleTranslation to 'Zijn eisen waren onredelijk.' to align with the translationShort.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unacceptable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Dat gedrag is volledig ondraaglijk' (completely unbearable/insufferable) emphasizes emotional burden, while 'unacceptable' is more about violation of standards. While 'ondraaglijk' is listed in translationLong, 'niet aanvaardbaar' or 'ontoelaatbaar' would more directly correspond to the example context.",
+    "suggestion": "Change exampleTranslation to 'Dat gedrag is volledig ontoelaatbaar.' or 'Dat gedrag is niet aanvaardbaar.' for better alignment.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'will' should be split further into 'will' + 'ing' since '-ing' creates the adjective 'willing' from the verb 'will'. The current structure treats 'will' as a standalone morpheme, but the actual morphological structure should reflect that '-ing' is applied to 'will' to create the adjective before 'un-' negates it.",
+    "suggestion": "Restructure as: un + willing (where willing = will + ing) + ness, or split as un + will + ing + ness with clearer labeling that 'willing' is the intermediate adjective form.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Zijn tegenstand om te helpen was teleurstellend' is awkward. 'Tegenstand' means 'resistance/opposition' and the phrase 'tegenstand om te helpen' is unnatural Dutch. 'Zijn onwil om te helpen' or 'Zijn tegenzin om te helpen' would be more natural.",
+    "suggestion": "Change exampleTranslation to: 'Zijn onwil om te helpen was teleurstellend.' or 'Zijn tegenzin om te helpen was teleurstellend.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reconsideration",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'De raad verzocht om herzien van het voorstel' is grammatically awkward. 'Herzien' is an infinitive here, which is not idiomatic. The phrase should use a noun form or restructure the sentence.",
+    "suggestion": "Change to: 'De raad verzocht om herziening van het voorstel.' or 'De raad vroeg om het voorstel opnieuw te overwegen.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reorganization",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tion' is glossed as '-ing', but '-tion' (Latin-derived nominalization suffix in English) corresponds more accurately to Dutch '-tie' or '-atie', not '-ing'. The homeLang should reflect the actual Dutch equivalent suffix.",
+    "suggestion": "Change homeLang from '-ing' to '-tie/-atie' or provide a more accurate Dutch nominalization suffix that corresponds to English '-tion'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reintroduction",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tion' is glossed as '-ing', but '-tion' (Latin-derived nominalization suffix in English) corresponds to Dutch '-tie/-atie', not '-ing'. The homeLang should reflect the actual Dutch equivalent suffix.",
+    "suggestion": "Change homeLang from '-ing' to '-tie/-atie' or provide a more accurate Dutch nominalization suffix that corresponds to English '-tion'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'cycle' should be split into 'cy' + 'cle', or more accurately, the entry conflates 'cycle' (the noun) with 'recycle' (the verb). In English, 'recycle' is re + cycle (where cycle is the base), but the homeLang 'cyclus' is a noun and doesn't capture the verbal action. The structure should clarify whether 'cycle' here refers to the base verb or noun.",
+    "suggestion": "Either split more explicitly (re + cy + cle) or clarify that 'cycle' here represents the verb base, and adjust homeLang accordingly (e.g., 'cyclus/rondgang' with a note on the verbal use)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort 'materialen hergebruiken, circulair hergebruik' is awkwardly phrased. 'Materialen hergebruiken' is a verb phrase, while 'circulair hergebruik' is a noun phrase, making the short translation inconsistent in form. The noun 'recycling' should translate to a noun.",
+    "suggestion": "Use 'hergebruik' or 'recycling' (also used in Dutch) as the primary translation, keeping it as a single noun form",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The suffix split is incorrect. 'ication' should be split as '-tion' (nominalization suffix), not '-ication'. The 'ic' part belongs to the root 'communic-' (related to 'munis' meaning duty/office, not just 'mun').",
+    "suggestion": "Split as: com- + mun(ic) + -tion, or alternatively recognize that '-ication' is a valid but non-standard way to show it, but the homeLang '-ing' for '-ication' is misleading since '-tion' is the core suffix",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "introduction",
+    "category": "false_cognate",
+    "field": "parts[0]",
+    "issue": "'intro' is glossed as 'intra-/binnen' (intra-/within), but 'intro' in 'introduction' is actually 'intr-' (variant of 'inter-' meaning between) + 'o' (connecting vowel), not 'intra'. The modern 'intro' prefix meaning 'inward' is a different morpheme.",
+    "suggestion": "Correct to 'intr-/in' or 'inter-/tussen' to accurately reflect the Latin 'intro-' (inward/within)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'vestig' as a translation of 'spoor' (trace/track) is awkward. The Latin root is 'vestigium' (footprint/trace), so 'vestig' is correct, but it should be 'vestig-' to show it's a bound root, not a free morpheme. More importantly, the split ignores that 'investigation' is in + vestig + ation, which is correct, but 'vestig' alone doesn't clearly convey the morpheme boundary.",
+    "suggestion": "Consider clarifying as 'vestig-/spoor' or note that 'vestigium' means footprint/trace to better explain the etymology",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'pronunciation' should be split as 'pro-nunc-iation', not 'pro-nunc-iation'. The parts [0] and [1] together form 'pronunc-' which should be kept together, or the entire word needs resplitting. Currently 'nunc' is isolated incorrectly with gloss '-telefoon' which makes no sense.",
+    "suggestion": "Resplit as: pro (forward) + nounce/nunc (announce/proclaim) + -iation (-tion suffix). The '-telefoon' gloss is nonsensical and should be removed or corrected.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-telefoon' (telephone) for 'nunc' is incorrect and unrelated to the actual meaning of the Latin root 'nuncius' (messenger/announce).",
+    "suggestion": "Change to 'nunc/nuncius' with homeLang gloss like 'aankondigen/boodschapper' or similar.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'wegen' (weighing/roads) for 'am' is incorrect. The root is Latin 'examinare' from 'examen' (balance/weighing in context of examining), but 'am' alone should reflect 'examen' or the concept of testing/weighing out.",
+    "suggestion": "Change to 'examen' or 'wegen/toetsen' with clearer explanation that 'am' relates to the Latin 'examen' root.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'beeld' (image) for 'ag' is misleading. The root is Latin 'imago' (image), not 'ag'. The 'ag' is an artifact of the word's structure and conflates with incorrect morpheme boundaries.",
+    "suggestion": "Resplit as 'im-ag-ination' and gloss 'ag' as 'imago/beeld' or restructure to show 'image' more clearly.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "population",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The suffix '-ulation' should be further split into '-ul-ation' (where -ul- is a diminutive or formative element and -ation is the nominalization suffix). Currently it's treated as one unit.",
+    "suggestion": "Split as: pop (volk) + -ul- (diminutive/formative) + -ation (-tie/-ing).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "conversation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'vers' is glossed as 'draaien' (to turn), but in 'conversation' it comes from Latin 'vertere' (to turn). While etymologically related to turning/rotation, the sense here is not about physical rotation but about 'turning toward' in discourse. The gloss is overly simplified and potentially misleading.",
+    "suggestion": "Change homeLang to 'draaien/keren' or provide more context that this relates to 'turning toward' or 'interchange' rather than simple rotation",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort 'de terugkaatsing van licht' (the reflection of light) is too narrow. 'Reflection' has multiple meanings including thoughtful consideration/contemplation, which is arguably the primary sense in many contexts. The short translation should capture the broader concept.",
+    "suggestion": "Change to something like 'terugkaatsing; ernstige overweging' or 'het weerspiegelen van licht of gedachten'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'verbinding' is technically correct but sounds slightly unnatural here. The more idiomatic Dutch phrasing would use 'verband' or 'relatie'.",
+    "suggestion": "Change exampleTranslation to 'Er is een sterke relatie tussen lichaamsbeweging en goede gezondheid.' or 'Er is een sterk verband tussen lichaamsbeweging en goede gezondheid.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'betere' should be 'betere' is correct, but the phrase 'We hebben betere bescherming nodig' is grammatically awkward in Dutch. The standard phrasing would invert to 'We hebben bescherming nodig tegen...' or use a different structure.",
+    "suggestion": "Change exampleTranslation to 'We hebben betere bescherming tegen cyberaanvallen nodig.' or 'We hebben meer bescherming tegen cyberaanvallen nodig.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme 'vit' is not a standard English morpheme. The correct split should be 'in' + 'vite' + 'ation', where 'vite' comes from Latin 'vitare' (to call/invite). The current split 'in' + 'vit' + 'ation' breaks at an unnatural boundary.",
+    "suggestion": "Split as: in- (in), -vite (to call), -ation (-tie)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme 'par' does not accurately represent the root. The correct split should be 'pre' + 'pare' + 'ation', where 'pare' comes from Latin 'parare' (to prepare). 'Par' alone is misleading.",
+    "suggestion": "Split as: pre- (voor), -pare (voorbereiden/gereed maken), -ation (-tie)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The part 'faction' should be further split into 'fac' + 'tion', where 'fac' comes from Latin 'facere' (to make/do) and 'tion' is the nominalizing suffix. Combining them as 'faction' obscures the morphological structure.",
+    "suggestion": "Split 'faction' into 'fac' (doen/maken) and 'tion' (-tie), or revise the entire structure as: sat- (genoeg) + -is- (doen/maken) + -fac- (doen/maken) + -tion (-tie). Consider simplifying to: satisfy + -tion.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix 'e' is isolated incorrectly. In 'evaluation', the 'e' is part of the prefix 'ex-' (from Latin 'ex'), but it should not be separated as just 'e'. The correct split should be 'ex' + 'val' + 'uation', or the morpheme should be labeled as 'ex-' not just 'e'.",
+    "suggestion": "Change parts[0].targetLang from 'e' to 'ex' to accurately reflect the morpheme boundary",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-uation' should be further split into '-u-' + '-ation' (or '-ate' + '-ion'), as '-uation' is not a single morpheme. The pattern appears in evaluate > evaluation.",
+    "suggestion": "Split parts[2] into two separate parts: 'u' (homeLang: connecting vowel) and 'ation' (homeLang: '-tie'), or reconsider the split as 'eval' + 'uation' if treating -uation as a unit",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "affordable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'betalen' (to pay) is misleading. 'Afford' in modern English means 'can pay for' but historically derives from Old French 'aforder' (to furnish, manage), not directly from a root meaning 'to pay'. The synchronic meaning 'betalen' obscures that 'afford' is not morphologically related to 'ford' (crossing).",
+    "suggestion": "Change homeLang to 'kunnen/zich veroorloven' (can afford/manage) to better reflect modern meaning, or add a note that 'afford' is a bound form that should not be decomposed further for learners",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme should be 'cred' (from Latin credere, to believe), but splitting 'incredible' as 'in-cred-ible' is incorrect. The correct split is 'in-credible' where 'credible' is the root adjective, not just 'cred'.",
+    "suggestion": "Split as 'in' + 'credible' (or alternatively 'in' + 'cred' + 'ible' if keeping the three-part structure, but then 'cred' alone is incomplete as a standalone morpheme in English synchronically)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The split 'ir-respons-ible' is incorrect. The correct split should recognize that 'responsible' is the base adjective. 'Respons' alone is not a morpheme boundary in English; it should be 'ir' + 'responsible' or 'ir' + 'respons' + 'ible' requires 'respons' which is incomplete.",
+    "suggestion": "Split as 'ir' + 'responsible' (two parts) or reconsider the three-part split structure since 'respons' is not a productive morpheme in English without the '-ible' suffix",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails explains that 'on-' can mean both 'not' and 'in', but in 'irreversible', the prefix 'ir-' is the negation prefix (not 'in'). The explanation conflates the prefix with Dutch 'on-', which is misleading since English 'ir-' is specifically the negation form before words starting with 'r'.",
+    "suggestion": "Clarify that 'ir-' is the negation prefix (variant of 'in-' used before 'r'), meaning 'not', not 'in'. Or use a simpler explanation: 'niet' (not).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation uses 'irreversibele' (the English word) instead of translating it to Dutch. A native Dutch speaker would say 'onherstelbare' or 'onomkeerbare' schade.",
+    "suggestion": "Change to: 'Klimaatverandering kan onherstelbare schade aan het milieu veroorzaken.' or 'Klimaatverandering kan onomkeerbare schade aan het milieu veroorzaken.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLangDetails",
+    "issue": "Same issue as 'irreversible': 'in-' here is the negation prefix, not the preposition 'in'. The explanation conflates the two meanings.",
+    "suggestion": "Clarify that 'in-' is the negation prefix meaning 'niet' (not), not 'in' (into/in). The 'in' meaning is separate and typically appears in other contexts.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation uses 'onverwoestbaar' which is correct, but the English example uses the English word 'indestructible' without translation in the sentence itself. More importantly, the translation is slightly awkward; 'Het monument was gebouwd om onverwoestbaar te zijn' sounds unnatural. Better: 'Het monument werd gebouwd om onverwoestbaar te zijn' or 'Het monument is onverwoestbaar gebouwd.'",
+    "suggestion": "Change to: 'Het monument werd gebouwd om onverwoestbaar te zijn.' or 'Het monument is onverwoestbaar geconstrueerd.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'historic' should be further split into 'histor' (history) and '-ic' (adjective suffix), to match the morphological pattern shown in other entries where suffixes are separated.",
+    "suggestion": "Split into three parts: 'pre' (voor), 'historic' (historisch) OR 'histor' (geschiedenis) and 'ic' (-isch), depending on the intended granularity of the dictionary.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation has a duplicate preposition: 'voor voor' should be 'voor'",
+    "suggestion": "De dokter schreef een antibioticum voor de infectie.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "automatically",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-matic' does not mean 'beweging' (movement). It comes from Greek '-matos' relating to 'machen' (to do/make) and indicates something is done automatically or by itself. 'Beweging' is misleading.",
+    "suggestion": "parts[1].homeLang should be 'werkend' or 'werking' or 'het maken/doen'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'respons' is glossed as 'verantwoordelijk' (responsible/accountable), but 'respons' actually means 'response' or 'answer' in Latin. The connection to responsibility is etymological but the gloss misrepresents the actual morpheme meaning.",
+    "suggestion": "Change homeLang to 'antwoord' or 'reactie' (response), and clarify in homeLangDetails that 'respons' (response) + '-ability' (ability/state) = responsibility, the ability to respond",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "geography",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation 'Aardrijkskundelessen gaan over verschillende regio's en culturen.' is unnatural; the article 'de' is missing before the noun in standard Dutch.",
+    "suggestion": "Change to 'De aardrijkskundelessen gaan over verschillende regio's en culturen.' or 'Aardrijkskunde behandelt verschillende regio's en culturen.'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "creativity",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Dutch translation is missing a verb and reads ungrammatically. 'Haar creativiteit bij het oplossen van problemen indrukwekkend iedereen' lacks the verb 'beïndrukten' or similar.",
+    "suggestion": "Haar creativiteit bij het oplossen van problemen beïndrukkte iedereen.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLang details for '-ly' provide Dutch examples that don't match the suffix function. 'Snel' (fast), 'gelukkig' (happy), 'verrassend' (surprising) are not adverbs formed from adjectives with '-ly'. Also, '-ly' does not form adjectives in English; the statement 'Vormt ook adjectieven: vriendelijk, mooi' is incorrect and conflates English and Dutch morphology.",
+    "suggestion": "Revise to accurately describe that '-ly' forms adverbs from English adjectives, with appropriate English examples like 'quickly', 'happily', 'surprisingly'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "creatively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as create + iv + ly, but 'iv' is not a standalone morpheme. The correct split should be create + ive + ly, where 'ive' is the suffix that forms adjectives (creative), and 'ly' converts the adjective to an adverb.",
+    "suggestion": "Split as: create (creëren) + ive (-ief) + ly (-ly)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "productively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as product + iv + ly, but 'iv' is not a standalone morpheme. The correct split should be product + ive + ly, where 'ive' is the suffix that forms adjectives (productive), and 'ly' converts the adjective to an adverb.",
+    "suggestion": "Split as: product (product) + ive (-ief) + ly (-ly)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "attractively",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as attract + iv + ly, but 'iv' is not a standalone morpheme. The correct split should be attract + ive + ly, where 'ive' is the suffix that forms adjectives (attractive), and 'ly' converts the adjective to an adverb.",
+    "suggestion": "Split as: attract (aantrekken) + ive (-ief) + ly (-ly)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss describes 're-' as coming from Latin and meaning 'again/back', but in 'researcher' the 're-' is not actually present or functional—'research' is a single morpheme (from French 'recherche'). The entry incorrectly suggests the word contains a re- prefix when it does not.",
+    "suggestion": "Remove the 're-' prefix from the parts list, or clarify that 'research' is not re + search. The correct split is simply: research (onderzoeken/onderzoek) + er (-er)",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "photographer",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'photo' + 'graph' + 'er', but 'photograph' is the base unit that should be split as 'photo' + 'graph', then the agentive '-er' applied. The current split obscures that 'photographer' = 'photograph' + '-er', not 'photo' + 'graph' + '-er' as separate morphemes in English.",
+    "suggestion": "Restructure to show: parts[0] = 'photograph' (foto), parts[1] = '-er' (agentive suffix). Alternatively, if decomposing further, clarify that 'photo' and 'graph' combine to form the noun 'photograph' before the agentive suffix is applied.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The entry splits 'communicator' as 'communicate' + '-or', but in English morphology, the base is 'communicate' (verb), and '-or' is added to create the agent noun. However, the Dutch gloss 'communiceren' is the infinitive form; the base for the suffix would more accurately be 'communicat-' (the verb stem). The split is not wrong per se, but the homeLang should reflect the actual root, not the infinitive.",
+    "suggestion": "Either keep 'communicate' with a note that it represents the verb root (not the infinitive form specifically), or split more precisely as 'communicat' + '-or' with homeLang 'communicat-' to show the actual morpheme boundary.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "communicate",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'mun' should be split further. In 'communicate', the Latin root is 'munis' (duty/service), and the full suffix is '-municate' or 'mun-ic-ate'. The 'mun' alone doesn't clearly show the relationship to the meaning.",
+    "suggestion": "Consider splitting as 'mun' (munis: duty/common) + 'ic' (connecting morpheme) + 'ate' (verb suffix), or acknowledge that 'mun' here represents the fused form of the Latin root 'munis' meaning 'common/shared duty'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'iemand prijzen voor een prestatie' (praise someone for an achievement) is too narrow and doesn't capture the full meaning of 'congratulate'. Congratulation can be for various reasons (weddings, promotions, victories), not just praising for achievements.",
+    "suggestion": "Change to 'iemand feliciteren' or 'iemand een compliment maken voor iets goeds' (congratulate someone / compliment someone on something good).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'plezier of welwillendheid uitdrukken' (express pleasure or goodwill) is awkward and not a natural way to describe congratulation in Dutch.",
+    "suggestion": "Change to 'iemand gelukwensen, iemand feliciteren, goede wensen uitspreken' (congratulate someone, wish them well, express congratulations).",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "investigate",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-/niet of in' with the explanation that 'in' can mean 'niet' (not) is misleading in this context. In 'investigate', the prefix 'in-' means 'in' or 'into', not 'not'. The false cognate risk is presenting 'in' as negating when it's actually locative here.",
+    "suggestion": "For 'investigate', clarify that 'in-' means 'in/into' (following tracks into something), not 'not'. Reserve the 'not' meaning for other words like 'inactive' or 'impossible'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as mis-inter-pret-et, but 'inter' and 'pret' should not be separated. The correct morphological split is mis- + interpret, where 'interpret' is itself a single morpheme unit (from Latin interpretari). The further splitting of interpret into inter-pret-et is incorrect for modern English morphology.",
+    "suggestion": "Split the word as: mis- (prefix) + interpret (root/base word). If you want to show Latin origins, note that 'interpret' comes from Latin but treat it as a unit in English morphology.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The explanation claims 'pret' comes from 'praetere or prae (voor) plus ire (gaan)', but this is not accurate for English 'interpret'. The Latin root is 'interpretari' (to explain/translate), not a combination of prae + ire. The homeLang gloss 'uitleggen' (explain) is correct but the etymology provided is misleading.",
+    "suggestion": "Either simplify to just 'pret/uitleggen' with correct etymology, or note that 'interpret' comes from Latin 'interpretari' meaning 'to explain/translate'.",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Mis mijn woorden niet uit' is awkward Dutch. 'Mis' as a verb is not standard here. The intended meaning uses the wrong construction.",
+    "suggestion": "Better: 'Interpreteer mijn woorden niet verkeerd; ik bedoelde het vriendelijk' or 'Begrijp mijn woorden niet verkeerd; ik bedoelde het goed'",
+    "source_file": "en-nl.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The split de-con-struct treats 'con' as a separate morpheme, but in 'construct' the 'con-' is already part of the root 'construct' (from Latin construere). The correct split should be de- + construct, not de- + con- + struct. The user is over-analyzing by breaking down the base word construct into its Latin components.",
+    "suggestion": "Split as: de- (prefix) + construct (root). If Latin etymology is desired, note separately that 'construct' comes from Latin con- + struere, but keep the modern English morpheme boundary at de- + construct.",
+    "source_file": "en-nl.json"
+  }
+]

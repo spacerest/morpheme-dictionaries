@@ -1,0 +1,4842 @@
+{
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "进入/否定",
+          "homeLangDetails": "表示进入或否定的含义。就像中文里的「进」和「非」一样，英文的 in- 也是一个很通用的前缀，可以表示进入状态或否定某个词。比如 incomplete 就是「不完整」，inject 就是「注入」。"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "扔/投掷"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "注射",
+      "translationLong": "注射的动作；强制进入身体的液体",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "护士给我打了一针来缓解疼痛。"
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "向前/向外",
+          "homeLangDetails": "表示向前、向外或朝向某个方向。你可以在很多英文词里看到它，比如 progress（进展）、produce（生产）、pronoun（代词）。这个前缀经常用来表示某种向前或向外的动作。"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "扔/投掷"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "投影/预测",
+      "translationLong": "向外延伸的东西；对未来的预测或估计",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "销售预测表明下个季度增长强劲。"
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "反对/针对",
+          "homeLangDetails": "来自拉丁文的 ob-，通常表示「反对」或「针对」。在这个词里，ob- 与「throw」结合，形成了「向某事投掷反对意见」的概念，也就是「反对」的意思。"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "扔/投掷"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "反对/异议",
+      "translationLong": "表示不同意或不赞成的表达",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "他在会议上对这项提议提出了异议。"
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "之前/提前",
+          "homeLangDetails": "表示时间上或位置上在某事之前。你可以在 predict（预测）、prepare（准备）、prehistoric（史前的）这些词里看到它。pre- 这个前缀经常用来表示提前或预先的意思。"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "说"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "预测",
+      "translationLong": "关于未来会发生什么的陈述",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "明天的天气预报是下雨。"
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "相反/对立",
+          "homeLangDetails": "来自拉丁文的 contra，意思是「相反」或「对立」。在这个词里，contra- 与「说」这个词根结合，形成了「说出相反的话」的概念，也就是「自相矛盾」。"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "说"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "矛盾/自相矛盾",
+      "translationLong": "与另一个陈述或情况相反或相冲突的陈述或情况",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "他的两个陈述之间存在明显的矛盾。"
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "法律"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "说"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "管辖权",
+      "translationLong": "做出法律决定和执行法律的官方权力",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "这个案件属于联邦法院的管辖范围。"
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "横跨/穿过",
+          "homeLangDetails": "表示穿过、跨越，或从一种状态变为另一种状态。你可以在 transport（运输）、transform（转变）、translate（翻译）这些词里看到它。trans- 经常用来表示跨越或改变的含义。"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "运输",
+      "translationLong": "将人或货物从一个地方移动到另一个地方",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "公共交通比开车便宜。"
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/撤销",
+          "homeLangDetails": "表示向下、离开或撤销一个动作。你可以在 decrease（减少）、depart（离开）、deconstruct（分解）这些词里看到它。de- 这个前缀经常直接反转基础词的含义。"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "驱逐出境",
+      "translationLong": "强制将一个人从某个国家驱逐出去",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "驱逐出境的诉讼程序持续了几个月。"
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "进入/内部"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "进口",
+      "translationLong": "从国外将货物运入一个国家的行为",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "今年外国货物的进口增加了。"
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一起/共同"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建造"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "建筑/建设",
+      "translationLong": "建造某物的过程；正在建造的结构",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "新桥的建设将需要两年时间。"
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/撤销",
+          "homeLangDetails": "表示向下、离开或反向一个动作。减少、偏离、拆解。通常直接反转词根的含义。"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建造"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "破坏、毁灭",
+      "translationLong": "摧毁某物的行为；严重的损害或废墟",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "飓风造成了广泛的破坏。"
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文词汇中出现：return、rebuild、reconsider。通常可以理解为「再做一次」或「回溯」的意思。"
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "一起"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "建造"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "重建",
+      "translationLong": "重建被破坏或摧毁的东西的过程",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "火灾后城市的重建花了很多年。"
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "向内/非"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "看"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "检查、检验",
+      "translationLong": "对某物进行仔细的检查或审视",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "这栋楼通过了安全检验。"
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "穿过",
+          "homeLangDetails": "表示穿过、彻底或完全。perform、permit、persist 都用了这个前缀。"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "看"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "倾向于或具有某种特性。active、creative、descriptive 都是这样的形容词。"
+        }
+      ],
+      "translationShort": "视角、观点",
+      "translationLong": "以特定方式看待或理解某事物的观点；看法",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "从我的角度来看，这个计划风险太大了。"
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "向后",
+          "homeLangDetails": "来自拉丁文 retro，意为「向后」或「回顾」。与 spect（看）组合，就是「回顾过去」的意思。"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "看"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-ive",
+          "homeLangDetails": "倾向于或具有某种特性。active、creative、descriptive 都是这样的形容词。"
+        }
+      ],
+      "translationShort": "回顾性的、回顾展",
+      "translationLong": "对过去事件的回顾或审视；与过去事件相关",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "这个美术馆举办了这位艺术家的回顾展。"
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "之前",
+          "homeLangDetails": "在时间或位置上的之前。predict、prepare、prehistoric 都用了这个前缀。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "写"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "处方",
+      "translationLong": "医生开的用药处方；一套指示或建议",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "医生给我开了一份抗生素处方。"
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/撤销",
+          "homeLangDetails": "表示向下、离开或反向一个动作。减少、偏离、拆解。通常直接反转词根的含义。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "写"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "描述、说明",
+      "translationLong": "对某事物的口头或书面陈述；描写",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "她对这次事件的描述非常详细。"
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "在下方",
+          "homeLangDetails": "表示在下方、以下或次要的意思。subway、submarine、substitute 都用了这个前缀。"
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "写"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "订阅、订购",
+      "translationLong": "为服务或出版物定期支付费用；签署",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "我订阅了三份杂志。"
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "向外"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "压"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "表达、表情",
+      "translationLong": "传达感受或意义；一个短语或词汇",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "她的表情显示她很难过。"
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/撤销",
+          "homeLangDetails": "表示向下、离开或反向一个动作。减少、偏离、拆解。通常直接反转词根的含义。"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "压"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "抑郁症、凹陷",
+      "translationLong": "以悲伤为特征的心理健康状况；下陷或凹陷的区域",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "她寻求了对她的抑郁症的治疗。"
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "进入/否定",
+          "homeLangDetails": "「进」表示进入或向内，「否定」表示否定或不。在这里的意思是被按下去的感觉——光凭某件事对你有什么感觉。"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "按压"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "感觉或印象；按压留下的痕迹",
+      "translationLong": "对某事的感觉或印象；通过按压留下的痕迹或凹陷",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "我得到的印象是他不高兴。"
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "向"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "拉"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "兴趣或吸引力的感觉",
+      "translationLong": "兴趣或吸引力的感觉；能够吸引人的事物",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "这个主题公园是游客的主要景点。"
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "向外"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "拉"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "移除或取出的行为",
+      "translationLong": "移除或取出的行为；拔牙",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "牙医建议拔牙。"
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "分散/相反",
+          "homeLangDetails": "分散、分离或相反的意思。不同意、断开连接、消失。比起「不」这种否定，dis-有更强的分离或反转的意味。"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "拉"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "转移注意力的事物",
+      "translationLong": "转移注意力，使人无法专注于某项任务的事物；分心的状态",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "噪音在考试中是一个主要的干扰因素。"
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "通过",
+          "homeLangDetails": "通过、彻底或完全。执行、允许、坚持。per-这个前缀贯穿始终，所以「允许」就像是把事情完整地「通过」了。"
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "发送"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "官方同意或批准",
+      "translationLong": "官方同意或批准去做某事",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "你需要经理的许可才能提早离开。"
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "跨越",
+          "homeLangDetails": "跨越、穿过或从一种状态变为另一种状态。运输、转变、翻译。trans-就像汉语里的「跨」，表达从一边到另一边。"
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "发送"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "从一个地方发送到另一个地方；车辆机制",
+      "translationLong": "从一个地方发送到另一个地方的行为；车辆中的变速器机制",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "数据传输没有出现错误。"
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "一起"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "发送"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "名词后缀",
+          "homeLangDetails": "从动词形成名词，指行为、其结果或手段。政府、运动、享受。-ment就像汉语里加个「化」或「制」，把动作变成一个名词。"
+        }
+      ],
+      "translationShort": "承诺或誓言；奉献",
+      "translationLong": "承诺或誓言去做某事；对某个事业或人的奉献",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "她对这个项目的承诺是坚定不移的。"
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "回",
+          "homeLangDetails": "在这个词里，re-带有更古老的拉丁文意思，是「回」而不是「再」。接收就是把东西拿回（或接入），后退就是往回去，提及就是把信息回溯到源头。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "接收的行为；正式集会",
+      "translationLong": "接收的行为；正式集会或活动；信号接收的质量",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "婚礼招待会在当地一家酒店举行。"
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "通过",
+          "homeLangDetails": "通过、彻底或完全。执行、允许、坚持。在这里，per-表达的是通过感官「彻底地」理解或感受某事。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "理解或意识到某事的能力",
+      "translationLong": "通过感官理解或意识到某事的能力；一种认知或意识",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "他对时间的感知在事故后改变了。"
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/撤销",
+          "homeLangDetails": "向下、向外或撤销一个行为。减少、离开、解构。de-常常会直接反转词根的意思，所以「欺骗」就像是把「接收」的过程搞反了。"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "取"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "欺骗或误导的行为",
+      "translationLong": "欺骗或误导他人的行为；诡计或谎言",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "这个欺骗最终被揭露了。"
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "向后",
+          "homeLangDetails": "在这个词里，re- 保留了它较古老的拉丁文意义，表示「向后」而不是「再次」。比如 receive（接收）可以理解为向后取回，recede（后退）是向后去，refer（参考）是指向回源头。"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "参考",
+      "translationLong": "查阅获取信息的来源；对某事的提及或参考",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "我用那本书作为论文的参考资料。"
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一起"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "会议",
+      "translationLong": "一场正式的聚会或讨论",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "这次年度会议汇聚了来自世界各地的科学家。"
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "在...之间",
+          "homeLangDetails": "在...之间或在...中间。比如 international（国际）、interrupt（打断）、interact（互动）都用到这个前缀。"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "携带"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "干扰",
+      "translationLong": "干涉的行为；打断传输的不需要的信号",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "无线电干扰破坏了广播信号。"
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一起"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "转变"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "转换",
+      "translationLong": "从一种形式、状态或信念变为另一种的过程",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "将仓库转换为公寓花了好几个月。"
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "向内"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "转变"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "内向",
+      "translationLong": "一种倾向于将注意力集中在自己的思想和感受上的性格特征",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "她内向的性格使她更喜欢在家度过安静的夜晚。"
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "在...下面",
+          "homeLangDetails": "在下方、在下面或次要的意思。比如 subway（地铁）、submarine（潜水艇）、substitute（替代品）都含有这个意思。"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "转变"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-sion"
+        }
+      ],
+      "translationShort": "颠覆",
+      "translationLong": "破坏或推翻既定事物的行为",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "政府严厉打击任何颠覆权威的行为。"
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "向下/来自",
+          "homeLangDetails": "在这个词里，de- 表示「向下」或「来自」的方向性意义。拉丁文 dependere 的意思就是「悬挂于...之下」。这里它不是反向的意思，而是描述一种「依赖于」或「悬挂于」某物的关系。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "悬挂"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "依赖",
+      "translationLong": "依靠某物或某人的状态",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "他对咖啡因的依赖正在影响他的睡眠。"
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "向下/来自",
+          "homeLangDetails": "在这个词里，de- 表示「向下」或「来自」的方向性意义。拉丁文 dependere 的意思就是「悬挂于...之下」。这里它不是反向的意思，而是描述一种「依赖于」或「悬挂于」某物的关系。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "悬挂"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "独立",
+      "translationLong": "自给自足、不依赖他人的状态",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "她最终实现了经济独立。"
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "在...之间",
+          "homeLangDetails": "在...之间或在...中间。比如 international（国际）、interrupt（打断）、interact（互动）都用到这个前缀。"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "向下/来自",
+          "homeLangDetails": "在这个词里，de- 表示「向下」或「来自」的方向性意义。拉丁文 dependere 的意思就是「悬挂于...之下」。这里它不是反向的意思，而是描述一种「依赖于」或「悬挂于」某物的关系。"
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "悬挂"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "相互依赖",
+      "translationLong": "不同方或团体之间的相互依赖关系",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "全球经济呈现日益增强的相互依赖关系。"
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "朝向"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "跑"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "事件",
+      "translationLong": "某事发生的一个实例或事件",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "该地区地震的发生很频繁。"
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文词汇中出现：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以理解为「再做一次」或「回到之前」。"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "跑/流动"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence（名词后缀）"
+        }
+      ],
+      "translationShort": "复发，重复出现",
+      "translationLong": "再次发生或出现的事实",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "偏头痛的复发正在成为一个严重问题。"
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "一起"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "跑/流动"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent（形容词后缀）"
+        }
+      ],
+      "translationShort": "同时发生的",
+      "translationLong": "在同一时间发生或存在",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "这两个事件同时发生。"
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "向后",
+          "homeLangDetails": "在这个词中，re- 带有更古老的拉丁文意义 「向后」而不是 「再次」。想一想 receive（接收，向后取入）、recede（后退，向后去）和 refer（提及，向后指向源头）。"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "走/进行"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion（名词后缀）"
+        }
+      ],
+      "translationShort": "经济衰退",
+      "translationLong": "经济下滑；活动暂时减少的时期",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "这个国家在 2000 年代初经历了严重的经济衰退。"
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "在下方"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "走/进行"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion（名词后缀）"
+        }
+      ],
+      "translationShort": "继承，连续",
+      "translationLong": "一系列事物按顺序跟随；按顺序接续的过程",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "这一系列的国王统治持续了三个世纪。"
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不，非",
+          "homeLangDetails": "英文最常见的否定前缀，源自古英文。直接对应德语的 un-、荷兰语的 on- 以及日耳曼语族中的相关词汇。完全改变基础词汇的意思：unhappy（不快乐）、unknown（未知）、unforgettable（难忘）。"
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "之前",
+          "homeLangDetails": "Before in time or position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "走/进行"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent（名词/形容词后缀）"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "-ed（过去式）"
+        }
+      ],
+      "translationShort": "前所未有的",
+      "translationLong": "从未做过或听说过的；没有先例的",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "这场疫情对全球学校造成了前所未有的破坏。",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "穿过，跨越",
+          "homeLangDetails": "穿过、贯穿或从一个状态变化到另一个状态。transport（运输）、transform（改变）、translate（翻译）。"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形状"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名词后缀）"
+        }
+      ],
+      "translationShort": "转变，改造",
+      "translationLong": "改变形式或形态的行为或过程",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "毛毛虫变成蝴蝶的转变是非常了不起的。"
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文词汇中出现：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以理解为「再做一次」或「回到之前」。"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形状"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名词后缀）"
+        }
+      ],
+      "translationShort": "改革，宗教改革",
+      "translationLong": "重新组建或改革的行为",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "宗教改革是 16 世纪欧洲的一次重大宗教运动。"
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "在内"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "形状"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion（名词后缀）"
+        }
+      ],
+      "translationShort": "信息，信息",
+      "translationLong": "提供或学到的事实或细节",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "我在网上找到了关于这个话题的有用信息。"
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "在两者之间",
+          "homeLangDetails": "在两者之间或在许多事物当中。international（国际的）、interrupt（打断）、interact（互动）。"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "打破"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion（名词后缀）"
+        }
+      ],
+      "translationShort": "中断，打断",
+      "translationLong": "连续性的中断或暂停",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "会议中有一次短暂的中断。"
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "分开，散开",
+          "homeLangDetails": "不是，或者说拆散、分解。disagree（不同意）、disconnect（断开连接）、disappear（消失）。比 un- 有更强烈的分离或反向的感觉。"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "打破"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion（名词后缀）"
+        }
+      ],
+      "translationShort": "破坏，干扰",
+      "translationLong": "打断或造成问题的扰乱",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "暴风雨对运输造成了重大破坏。"
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "共/together"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "破裂"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "腐败",
+      "translationLong": "不诚实或不道德的行为；被腐蚀的状态",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "政府打击腐败。"
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "自己",
+          "homeLangDetails": "自己。想象一下「自动」车（你不需要做任何事，它自己行动），或「自传」（你自己讲述你的故事）。这个前缀告诉你一切都是关于自己的。"
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "生活",
+          "homeLangDetails": "生活。生物学讲的是活的生物，传记讲的是某个人的生活故事。「生」和「生命」在中文中是同一个根。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "书写"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "自传",
+      "translationLong": "一个人自己写的人生故事",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "她写了一部关于她早年生活的自传。"
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "生活",
+          "homeLangDetails": "生活。生物学讲的是活的生物，传记讲的是某个人的生活故事。「生」和「生命」在中文中是同一个根。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "书写"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "传记",
+      "translationLong": "某个人的人生经历的文字记录",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "我在读一部关于那位著名科学家的传记。"
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "光"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "书写"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "摄影",
+      "translationLong": "拍摄照片的艺术或实践",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "她对摄影充满热情。"
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "共/together",
+          "homeLangDetails": "一起、一同。交响乐的妙处就在这儿——许多乐器一起演奏，彼此协调呼应，创造出和谐的声音。这很像中文里「共」或「合」的含义。"
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "声音"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "名词后缀"
+        }
+      ],
+      "translationShort": "交响乐",
+      "translationLong": "一部规模宏大的管弦乐作品",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "贝多芬的第九交响乐是他最伟大的作品之一。"
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "远",
+          "homeLangDetails": "远距离、远处。电话让你可以和远处的人交谈，电视让你看到远处的景象，望远镜让你看到很远的星星。「远」这个前缀就是这样用的。"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "声音"
+        }
+      ],
+      "translationShort": "电话",
+      "translationLong": "用来进行远距离通讯的设备",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "我明天会打电话给你。"
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "微小",
+          "homeLangDetails": "非常小。麦克风捕捉微小的声音，显微镜让你看到微小的生物，微波炉用微小的波来加热食物。「微」和「小」在中文里是很亲近的。"
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "声音"
+        }
+      ],
+      "translationShort": "麦克风",
+      "translationLong": "用来采集和放大微弱声音的设备",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "歌手对着麦克风说话。"
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "时间",
+          "homeLangDetails": "时间。年表是按时间顺序排列的，同步意味着在同一时间发生，时代错误则是某样东西出现在错误的时代。「时」、「期」、「代」都与时间相关。"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "学科/领域",
+          "homeLangDetails": "……的学科。生物学是研究生命的，心理学是研究心理的，技术学是研究技术的。这个后缀告诉你这是对某个主题的系统研究。"
+        }
+      ],
+      "translationShort": "年表",
+      "translationLong": "按时间顺序排列事件",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "这些事件的年表对于理解很重要。"
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "共/together",
+          "homeLangDetails": "一起、一同。同步就是让不同的事件或动作在同一时刻一起发生。这和中文里「同」和「共」的意思是一样的。"
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "时间",
+          "homeLangDetails": "时间。年表是按时间顺序排列的，同步意味着在同一时间发生，时代错误则是某样东西出现在错误的时代。「时」、「期」、「代」都与时间相关。"
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "动词后缀"
+        }
+      ],
+      "translationShort": "同步",
+      "translationLong": "使事物在同一时间发生",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "在我们出发前，我们先同步一下手表吧。"
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "反向/回溯",
+          "homeLangDetails": "向后、回到。时代错误就是某样东西出现在了错误的时代，好像时间被「扭转」了。中文里「逆」和「反」有相似的含义。"
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "时间",
+          "homeLangDetails": "时间。年表是按时间顺序排列的，同步意味着在同一时间发生，时代错误则是某样东西出现在错误的时代。「时」、「期」、「代」都与时间相关。"
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "主义/特征",
+          "homeLangDetails": "某种信念、实践、体系或特定的品质。现实主义、资本主义都是 -ism 的例子。这个后缀帮你识别某种主义或运动。"
+        }
+      ],
+      "translationShort": "时代错误",
+      "translationLong": "出现在错误历史时期的事物",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "在一部中世纪电影中出现智能手机会是一个时代错误。"
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "心智"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "希腊语复合词中的连接元音（称为主题元音），用于平顺地连接词素。本身没有独立含义。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "表示「对...的研究」。生物学、心理学、技术学都用到这个后缀。"
+        }
+      ],
+      "translationShort": "对心智的研究",
+      "translationLong": "对心智和行为的科学研究",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "她在大学主修心理学。"
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "人类"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "希腊语复合词中的连接元音（称为主题元音），用于平顺地连接词素。本身没有独立含义。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "表示「对...的研究」。生物学、心理学、技术学都用到这个后缀。"
+        }
+      ],
+      "translationShort": "对人类的研究",
+      "translationLong": "对人类社会和文化的科学研究",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "人类学帮助我们理解不同的文化。"
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "皮肤"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "希腊语复合词中的连接元音（称为主题元音），用于平顺地连接词素。本身没有独立含义。"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-学",
+          "homeLangDetails": "表示「对...的研究」。生物学、心理学、技术学都用到这个后缀。"
+        }
+      ],
+      "translationShort": "对皮肤的研究",
+      "translationLong": "对皮肤及其疾病的医学研究",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "我有个皮肤科专家的预约。"
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "共同",
+          "homeLangDetails": "这是 syn- 的变体，是个希腊前缀，意思是「共同」或「一起」。在这个词里，它和 -pathy（感受）结合，表示「共同感受」，即理解另一个人的情感。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感",
+          "homeLangDetails": "感受、痛苦或状况。来自希腊文 pathos。同情心、共鸣、反感、冷漠都用这个后缀。"
+        }
+      ],
+      "translationShort": "同情，理解",
+      "translationLong": "能够理解并分享他人感受的能力",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "我对她困难的处境感到同情。"
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "进入",
+          "homeLangDetails": "这是 en- 的变体，是个希腊前缀，意思是「在...里」或「进入」。在这个词里，它暗示着进入或吸收他人的情感状态，这是比同情更深层、更富想象力的情感参与。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感",
+          "homeLangDetails": "感受、痛苦或状况。来自希腊文 pathos。同情心、共鸣、反感、冷漠都用这个后缀。"
+        }
+      ],
+      "translationShort": "情感理解",
+      "translationLong": "能够理解他人的情感，并仿佛那是你自己的情感",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "共鸣对做个好朋友很重要。"
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "反对",
+          "homeLangDetails": "反对或对抗。反战、抗生素、预料都用到这个前缀。"
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-感",
+          "homeLangDetails": "感受、痛苦或状况。来自希腊文 pathos。同情心、共鸣、反感、冷漠都用这个后缀。"
+        }
+      ],
+      "translationShort": "厌恶，反感",
+      "translationLong": "对某事物强烈的厌恶或反感",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "他对现代艺术有反感。"
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "变化/超越",
+          "homeLangDetails": "希腊前缀，意思是「变化」、「超越」或「穿过」。在这个词里，它和 morph（形态）结合，用来描述形态的深刻变化，比如毛毛虫变成蝴蝶的过程。"
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-形",
+          "homeLangDetails": "Form or shape. Metamorphosis, amorphous, morphology."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "希腊语复合词中的连接元音（称为主题元音），用于平顺地连接词素。本身没有独立含义。"
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "希腊后缀，表示一种状态、过程或情况。这里它把「变形」的概念名词化，成为一个指代变形过程本身的名词。"
+        }
+      ],
+      "translationShort": "蜕变，转变",
+      "translationLong": "形态或结构的完全改变；生物学上的蜕变",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "蝌蚪变成青蛙的蜕变过程要花几周时间。"
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "无/不",
+          "homeLangDetails": "希腊前缀，意思是「不」或「没有」。它是希腊语中对日耳曼语前缀 un- 的等效表达。在这个词里，它否定了 morph（形态），创造出表示某物没有明确形状的词。"
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-形",
+          "homeLangDetails": "Form or shape. Metamorphosis, amorphous, morphology."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "无定形，没有形状",
+      "translationLong": "没有清晰的形状或形态；模糊或无法确定的",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "这团无定形的粘土可以变成任何东西。"
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不/无",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。和德语的 un-、荷兰语的 on- 以及日耳曼语族其他语言的相关前缀直接对应。它把词的意思完全反转：unhappy 是不快乐、unknown 是未知的、unforgettable 是难以忘怀的。"
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "舒适"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "不舒服，令人不适",
+      "translationLong": "引起或感到不适；令人感到不安或尴尬",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "那把椅子非常不舒服。"
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不/无",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。和德语的 un-、荷兰语的 on- 以及日耳曼语族其他语言的相关前缀直接对应。它把词的意思完全反转：unhappy 是不快乐、unknown 是未知的、unforgettable 是难以忘怀的。"
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "相信"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "不可思议，难以置信",
+      "translationLong": "无法被相信；令人难以置信或惊人的",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "那个故事听起来不可思议！"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中，它的作用跟德语的 un- 和荷兰语的 on- 完全相同。把词义反转：unhappy（不开心）、unknown（未知的）、unforgettable（难忘的）。"
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "难忘的，令人难以遗忘",
+      "translationLong": "无法被遗忘；令人印象深刻且难以忘怀",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "那个假期让人难以忘怀。"
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中，它的作用跟德语的 un- 和荷兰语的 on- 完全相同。把词义反转：unhappy（不开心）、unknown（未知的）、unforgettable（难忘的）。"
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "无法被认出的，不可识别的",
+      "translationLong": "无法被识别或辨认出来",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "车祸后，那辆车面目全非，无法识别。"
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/错误地",
+          "homeLangDetails": "表示某事被错误地或不当地完成。比如 misunderstand（误解）、mistake（错误）、misrepresent（歪曲表述）。"
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "后缀，将动词转化为名词或动名词。这里把动词 misunderstand 转化为名词，指误解这个行为或结果。"
+        }
+      ],
+      "translationShort": "误会，沟通不畅",
+      "translationLong": "对某事的错误理解；产生的混淆或分歧",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "对于会议时间，双方产生了误会。"
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/错误地",
+          "homeLangDetails": "表示某事被错误地或不当地完成。比如 misunderstand（误解）、mistake（错误）、misrepresent（歪曲表述）。"
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "歪曲，虚假陈述",
+      "translationLong": "对某事进行虚假或误导性的描述；事实的扭曲",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "这篇文章对事实进行了歪曲陈述。"
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/过度",
+          "homeLangDetails": "表示过量或超越界限。比如 overlook（忽视）、overwhelm（压倒）、overestimate（高估）。在较古老的复合词中也用来表示 「在上方」。"
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "Whelm 的意思是吞没或淹没（虽然这个词很少单独使用）。加上 over- 前缀后，表示被完全吞没或淹没的感觉，可以是情感上的，也可以是物理上的。"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "后缀，形成动名词或现在分词。这里用来形成形容词，描述令人感到压倒的事物。"
+        }
+      ],
+      "translationShort": "压倒性的，令人惊叹的",
+      "translationLong": "极其令人印象深刻、强有力或情感上激烈的；压倒性的",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "她收到的支持力度令人感到压倒性的感动。"
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/不足",
+          "homeLangDetails": "与 over- 相反。可以表示在下面（underground，地下的）或不够充分（underestimate，低估；underperform，表现不佳）。"
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "低估，轻视",
+      "translationLong": "低估某人或某物的价值、能力或重要性",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "别低估她解决复杂问题的能力。"
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/过度",
+          "homeLangDetails": "表示过量或超越界限。比如 overlook（忽视）、overwhelm（压倒）、overestimate（高估）。在较古老的复合词中也用来表示 「在上方」。"
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "高估",
+      "translationLong": "将某事的程度或价值评估得高于其实际情况的行为",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "对项目预算的高估导致了财务问题。"
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/多个",
+          "homeLangDetails": "许多或多个的意思。比如 multicultural（多元文化的）、multimedia（多媒体）、multiply（相乘或倍增）。"
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "多元文化的",
+      "translationLong": "涉及或由许多不同文化组成的",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "我们的城市以其多元文化人口而闻名。"
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/穿过",
+          "homeLangDetails": "穿过、通过，或从一种状态变为另一种状态。比如 transport（运输）、transform（转变）、translate（翻译）。"
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "跨洲大陆的，横贯大陆的",
+      "translationLong": "跨越或穿过一个大陆或多个大陆的",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "这条横贯大陆的铁路连接了东海岸和西海岸。"
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/相互之间",
+          "homeLangDetails": "在…之间或彼此之间。比如 international（国际的）、interrupt（打断）、interact（互动）。"
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "可互换的，通用的",
+      "translationLong": "能够彼此交换而不影响其工作方式",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "这两个零件可以互换，可以放在任何位置上使用。"
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "否定/分离",
+          "homeLangDetails": "表示否定或分开。比如 disagree（不同意）、disconnect（断开）、disappear（消失）。dis- 的分离感比 un- 更强烈。"
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "整理"
+        }
+      ],
+      "translationShort": "搞混乱",
+      "translationLong": "使陷入混乱状态，破坏...的秩序",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "突然的变化会打乱我们精心计划的日程。"
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "现代"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-化"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-化"
+        }
+      ],
+      "translationShort": "现代化",
+      "translationLong": "使某物变得现代化、与时俱进的过程",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "工厂的现代化改造提高了它的效率。"
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "工业"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-化"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-化"
+        }
+      ],
+      "translationShort": "工业化",
+      "translationLong": "在某个地区或社会发展工业的过程",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "国家的工业化转变了它的经济。"
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "鼓励"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "将动词转换为名词，表示该动作本身、其结果或手段。类似中文的名词后缀。比如 government（政府）、movement（运动）、enjoyment（快乐）。"
+        }
+      ],
+      "translationShort": "鼓励",
+      "translationLong": "给予某人勇气或支持的行为",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "她的鼓励帮我克服了恐惧。"
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "否定/分离",
+          "homeLangDetails": "表示否定或分开。比如 disagree（不同意）、disconnect（断开）、disappear（消失）。dis- 的分离感比 un- 更强烈。"
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "同意"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "将动词转换为名词，表示该动作本身、其结果或手段。类似中文的名词后缀。比如 government（政府）、movement（运动）、enjoyment（快乐）。"
+        }
+      ],
+      "translationShort": "意见不合",
+      "translationLong": "缺乏一致，观点的差异",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "他们关于预算的意见分歧持续了几周。"
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "否定/分离",
+          "homeLangDetails": "表示否定或分开。比如 disagree（不同意）、disconnect（断开）、disappear（消失）。dis- 的分离感比 un- 更强烈。"
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "委任"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "将动词转换为名词，表示该动作本身、其结果或手段。类似中文的名词后缀。比如 government（政府）、movement（运动）、enjoyment（快乐）。"
+        }
+      ],
+      "translationShort": "失望",
+      "translationLong": "当事情没有达到预期时的悲伤感",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "音乐会的取消令人感到极大的失望。"
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "承认"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "将动词转换为名词，表示该动作本身、其结果或手段。类似中文的名词后缀。比如 government（政府）、movement（运动）、enjoyment（快乐）。"
+        }
+      ],
+      "translationShort": "承认",
+      "translationLong": "对某事的认可或承认，通常指某人所做或所说的事",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "对他的贡献的认可早就应该了。"
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "勇气"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "勇敢",
+      "translationLong": "勇敢的，表现出勇气",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "她在危机中的勇敢行为拯救了许多生命。"
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "暴行",
+          "homeLangDetails": "这是一个来自中古法语 outrage（过度、暴力）的固定词汇，而不是现代英语的 out-（外）加上 rage（愤怒）。这里的 out- 来自拉丁语 ultra（超越）而非日耳曼语。所以 outrageous 的意思是「超出界限」，而不是字面上「超越愤怒」。"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "令人震惊的",
+      "translationLong": "极其糟糕或令人反感的，极度异常或过分",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "这么小的东西却要这么高的价格，真是令人震惊。"
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "优势"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "有利的",
+      "translationLong": "带来益处或优势的，有利的",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "出国留学对你的职业发展可能很有利。"
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "超出"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "普通的"
+        }
+      ],
+      "translationShort": "非凡的，杰出的",
+      "translationLong": "非凡的，杰出的，卓越的，不寻常的",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "她在音乐方面有着非凡的天赋。"
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "注意到，评论",
+          "homeLangDetails": "这个词根 remark 本身就带有「注意」和「提及」的意思，所以 remarkable 就是「值得被注意和评论的」东西。一个 remarkable 的现象就是那种让人忍不住要议论、要指出来的东西。"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "这个后缀把动词转化成形容词，表示「能够被...的」或「值得被...的」。你会看到它出现在像 enjoyable（值得享受的）、readable（易读的）、comfortable（舒适的）这样的词里。它在英文里非常常见。"
+        }
+      ],
+      "translationShort": "值得注目的，显著的",
+      "translationLong": "值得注目的，显著的，令人印象深刻的",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "这位运动员从伤病中取得了显著的恢复。"
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "预测"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "这个后缀把动词转化成形容词，表示「能够被...的」或「值得被...的」。你会看到它出现在像 enjoyable（值得享受的）、readable（易读的）、comfortable（舒适的）这样的词里。它在英文里非常常见。"
+        }
+      ],
+      "translationShort": "可预测的，不出所料的",
+      "translationLong": "可预测的，不出所料的，可以预见的",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "那部电影的结局完全是意料之中的。"
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "调整，适应"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "这个后缀把动词转化成形容词，表示「能够被...的」或「值得被...的」。你会看到它出现在像 enjoyable（值得享受的）、readable（易读的）、comfortable（舒适的）这样的词里。它在英文里非常常见。"
+        }
+      ],
+      "translationShort": "可调节的",
+      "translationLong": "可调节的，可以调整的",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "这把椅子的高度是可调节的。"
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "扩展，展开"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "这个后缀把动词转化成形容词，表示「能够被...的」或「值得被...的」。你会看到它出现在像 enjoyable（值得享受的）、readable（易读的）、comfortable（舒适的）这样的词里。它在英文里非常常见。"
+        }
+      ],
+      "translationShort": "可扩展的，可扩张的",
+      "translationLong": "可扩展的，可扩张的，可以扩大的",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "当你需要更多空间时，这个储物盒是可以扩展的。"
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "非，不",
+          "homeLangDetails": "英文中最常见的否定前缀，可以用来否定一个单词的意思。像是 unhappy（不开心）、unknown（未知的）、unforgettable（难以忘怀的）。这个前缀在日耳曼语族里很常见，它的作用就像汉语里的「非」或「不」一样直接有力。"
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "有意识的"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "这个后缀把形容词变成名词，用来表示一种状态或品质。比如 happiness（快乐），darkness（黑暗），awareness（意识）。它是英文里从日耳曼语族继承下来的名词构成方式，可以说是英文版本的「性」或「态」这样的汉语后缀。"
+        }
+      ],
+      "translationShort": "无意识，失去意识",
+      "translationLong": "无意识，失去意识，无知觉的状态",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "头部的打击使他无意识了几分钟。"
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "不，非"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "有责任的，负责的"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "这个后缀把形容词或名词转化成名词，表示一种状态、特质或条件。像 reality（现实）、ability（能力）、responsibility（责任）。它常常与拉丁词根一起使用。"
+        }
+      ],
+      "translationShort": "不负责任，缺乏责任感",
+      "translationLong": "不负责任，缺乏责任感，不谨慎",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "他的不负责任给公司造成了数千美元的损失。"
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不，非"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "能够理解的"
+        }
+      ],
+      "translationShort": "无法理解的，莫名其妙的",
+      "translationLong": "无法理解的，莫名其妙的，难以理解的",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "这些指示用无法理解的术语写成的。"
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "隔间，分隔"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "这个后缀把名词变成形容词，表示「与...有关」或「属于...的性质」。像 musical（音乐的）、natural（自然的）、industrial（工业的）。它可以帮你从一个名词快速联想到相关的形容词。"
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize",
+          "homeLangDetails": "这个后缀把名词或形容词变成动词，表示「使...变成」或「进行...操作」。比如 modernize（使现代化）、organize（组织）、realize（实现）。它是英文中非常强大的动词构成工具。"
+        }
+      ],
+      "translationShort": "分隔开，区分开来",
+      "translationLong": "分隔开，区分开来，将...分成若干部分处理",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "有些人会把工作和个人生活分隔开来。"
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不，非"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "相容的，兼容的"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "这个后缀把形容词或名词转化成名词，表示一种状态、特质或条件。像 reality（现实）、ability（能力）、responsibility（责任）。它常常与拉丁词根一起使用。"
+        }
+      ],
+      "translationShort": "不兼容，不相容",
+      "translationLong": "不兼容，不相容，无法共存的状态",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "这两个系统之间的不兼容性使得集成变得困难。"
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "关心"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种特性或具有某种特质。想想 beautiful（美丽的）、powerful（强大的），它们都充满了美和力量的特性。在中文里，我们也会用「充满」或「具有」这样的概念来表达，比如「美丽的」就是充满美。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "小心谨慎地",
+      "translationLong": "以关注和谨慎的方式；仔细地、留意地",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "她小心谨慎地把花瓶放在架子上。"
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "关心"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "粗心大意地",
+      "translationLong": "不小心地、漫不经心地；没有注意或不负责任的方式",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "他粗心地摔掉了杯子。"
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "关心"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或性质。happiness（幸福）、darkness（黑暗）、awareness（意识）就是这样产生的。这是英文的日耳曼语族词缀，对应拉丁语族的-ity。中文里我们通常用「性」「度」或其他后缀来表达类似的意思。"
+        }
+      ],
+      "translationShort": "粗心",
+      "translationLong": "粗心的状态或特质；疏忽大意",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "她的粗心导致了一个盘子破裂。"
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "帮助"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种特性或具有某种特质。想想 beautiful（美丽的）、powerful（强大的），它们都充满了美和力量的特性。在中文里，我们也会用「充满」或「具有」这样的概念来表达，比如「美丽的」就是充满美。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "有帮助地",
+      "translationLong": "以提供帮助或支持的方式",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "她耐心地解释了这些说明。"
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "帮助"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "无能为力地",
+      "translationLong": "无法自救的方式；无力地、被动地",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "他无能为力地看着事故发展。"
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "帮助"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或性质。happiness（幸福）、darkness（黑暗）、awareness（意识）就是这样产生的。这是英文的日耳曼语族词缀，对应拉丁语族的-ity。中文里我们通常用「性」「度」或其他后缀来表达类似的意思。"
+        }
+      ],
+      "translationShort": "无能为力",
+      "translationLong": "无法自救的状态或情况",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "她声音中的无奈令人心碎。"
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种特性或具有某种特质。想想 beautiful（美丽的）、powerful（强大的），它们都充满了美和力量的特性。在中文里，我们也会用「充满」或「具有」这样的概念来表达，比如「美丽的」就是充满美。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "希望如此；满怀希望地",
+      "translationLong": "带着希望或乐观；表达对某事发生的期待或愿望",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "希望明天天气会好转。"
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或性质。happiness（幸福）、darkness（黑暗）、awareness（意识）就是这样产生的。这是英文的日耳曼语族词缀，对应拉丁语族的-ity。中文里我们通常用「性」「度」或其他后缀来表达类似的意思。"
+        }
+      ],
+      "translationShort": "绝望",
+      "translationLong": "没有希望的状态或感受；失去希望",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "一种绝望的感觉笼罩了整个团队。"
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "希望"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有、缺乏某样东西。careless（粗心的）、hopeless（无望的）、speechless（无言的）都表示没有什么东西。中文的「无」或「没有」就对应这个概念。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "绝望地",
+      "translationLong": "以无望的方式；充满绝望地",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "这种情况似乎彻底无望。"
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "感谢"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种特性或具有某种特质。想想 beautiful（美丽的）、powerful（强大的），它们都充满了美和力量的特性。在中文里，我们也会用「充满」或「具有」这样的概念来表达，比如「美丽的」就是充满美。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。quickly（快速地）、happily（快乐地）、surprisingly（惊人地）就是这样来的。有时候它也能把形容词变成更多的形容词：friendly（友好的）、lovely（可爱的）。中文里我们通常用「地」或其他方式来表达这种转变。"
+        }
+      ],
+      "translationShort": "幸好；感恩地",
+      "translationLong": "幸运地；带着感激或欣慰",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "幸好，没有人在事故中受伤。"
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "感谢"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种感情或特征。类似中文里可以用「满」或「充」来表达这个意思。比如美丽、小心、强大都带有这样的含义。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或品质。比如快乐、黑暗、意识。这个后缀来自日耳曼语，功能类似拉丁语的 -ity。"
+        }
+      ],
+      "translationShort": "感恩的状态",
+      "translationLong": "感谢和感恩的品质或状态",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "她温暖的拥抱表明了她的感恩之心。"
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "思考"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种感情或特征。类似中文里可以用「满」或「充」来表达这个意思。比如美丽、小心、强大都带有这样的含义。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以思考周密的方式",
+      "translationLong": "经过仔细的思考；以沉思或体贴的方式",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "她仔细地思考了这个问题后才回答。"
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "思考"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有或缺少。比如粗心、绝望、无言。这个后缀在英文中很常见，表示完全没有某样东西。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或品质。比如快乐、黑暗、意识。这个后缀来自日耳曼语，功能类似拉丁语的 -ity。"
+        }
+      ],
+      "translationShort": "缺乏考虑",
+      "translationLong": "不体贴或缺乏思考的品质或状态",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "他的不体贴伤害了她的感情。"
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "恐惧"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有或缺少。比如粗心、绝望、无言。这个后缀在英文中很常见，表示完全没有某样东西。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以无畏的方式",
+      "translationLong": "不害怕；勇敢地或大胆地",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "士兵们勇敢地冲进了战场。"
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "恐惧"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有或缺少。比如粗心、绝望、无言。这个后缀在英文中很常见，表示完全没有某样东西。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或品质。比如快乐、黑暗、意识。这个后缀来自日耳曼语，功能类似拉丁语的 -ity。"
+        }
+      ],
+      "translationShort": "无所畏惧",
+      "translationLong": "勇敢的品质或状态；不害怕",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "她的无畏精神鼓舞了周围的每一个人。"
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "和平"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种感情或特征。类似中文里可以用「满」或「充」来表达这个意思。比如美丽、小心、强大都带有这样的含义。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以和平的方式",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "抗议者们平和地在城市中游行。"
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "美丽"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "这里 -ful 附加在名词 beauty 上，但 beauty 本身已经包含后缀 -ty（来自古法语 beaute）。在 beautifully 中，我们先是用形容词 beautiful（beauty + -ful = 充满美），然后再加上 -ly 构成副词。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以美丽的方式",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "她在音乐会上唱得非常优美。"
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "成功"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种感情或特征。类似中文里可以用「满」或「充」来表达这个意思。比如美丽、小心、强大都带有这样的含义。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以成功的方式",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "该项目按时成功完成。"
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "力量"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-ful",
+          "homeLangDetails": "充满某种感情或特征。类似中文里可以用「满」或「充」来表达这个意思。比如美丽、小心、强大都带有这样的含义。"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "把形容词变成副词，表示「以某种方式」。比如快速地、快乐地、惊人地。有时也可以把形容词变成形容词，比如友好的、可爱的。"
+        }
+      ],
+      "translationShort": "以强有力的方式",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "演讲者提出了一个非常有说服力的论证。"
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "力量"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-less",
+          "homeLangDetails": "没有或缺少。比如粗心、绝望、无言。这个后缀在英文中很常见，表示完全没有某样东西。"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词变成名词，表示某种状态或品质。比如快乐、黑暗、意识。这个后缀来自日耳曼语，功能类似拉丁语的 -ity。"
+        }
+      ],
+      "translationShort": "缺乏力量",
+      "translationLong": "无力或无影响力的状态",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "面对不公正，他感到了深深的无力感。"
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un- / 不",
+          "homeLangDetails": "英语中最常见的否定前缀，来自古英语，在日耳曼语族中广泛使用。德语的 un- 和荷兰语的 on- 功能完全相同。这个前缀会完全改变词根的意思，比如 unhappy（不快乐）、unknown（未知的）、unforgettable（难以忘怀的）。"
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "失业状态",
+      "translationLong": "没有工作的状态；失业",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "经济衰退期间失业率大幅上升。"
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de- / 向下、离开",
+          "homeLangDetails": "表示向下、离开或逆转某个动作。比如 decrease（减少）、depart（离开）、deconstruct（解构）。这个前缀通常会反转词根的意思。在 develop 中，de- 加上 velop（来自古法语 devoluper，意为「打开」或「展开」），字面意思是「打开」或「逐步展开」。"
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "velop",
+          "homeLangDetails": "来自古法语 devoluper，意为「打开」或「展开」。词根与 velop 相关（就像 envelope），表示包裹或覆盖。前缀 de- 表示「离开」或「脱离」，所以 develop 字面上的意思是「打开」或「逐步展开」。"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "成长过程",
+      "translationLong": "发展或被发展的过程；进步或改善",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "儿童发展是这项研究计划的重点。"
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in- / 进入、不",
+          "homeLangDetails": "这个前缀就像变色龙一样，有两个截然不同的含义：「不」（如 inactive 不活跃、impossible 不可能、illegal 非法的）和「进入」（如 insert 插入、import 进口）。它的拼写会随后面的音素而改变。"
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "volv",
+          "homeLangDetails": "来自拉丁语 volvere，意为「转动」或「滚动」。这个词根也出现在 revolve（旋转）、evolution（进化）和 convolution（卷绕）中，都涉及转动或滚动的概念。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "参与的行为",
+      "translationLong": "参与或被牵连的事实或状态；参加",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "她在社区服务中的参与获得了广泛认可。"
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im- / 进入、不",
+          "homeLangDetails": "这个前缀就像变色龙一样，有两个截然不同的含义：「不」（如 inactive 不活跃、impossible 不可能、illegal 非法的）和「进入」（如 insert 插入、import 进口）。它的拼写会随后面的音素而改变。"
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "prov",
+          "homeLangDetails": "来自拉丁语 probare，意为「同意」或「赞成」。在 improve 中，前缀 in-（进入）加上 prov 传达出「使更好」的含义——把某样东西带入更好的状态。同样的词根也出现在 prove（证明）和 approbation（赞同）中。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "改进的行为",
+      "translationLong": "改进的行为或过程；使某物变得更好的改变",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "她成绩的提高是努力学习的结果。"
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad- / 向、朝向",
+          "homeLangDetails": "指向某个方向或加在一起。比如 adapt（适应）、admit（承认）、attract（吸引）、arrive（到达）。"
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "vert",
+          "homeLangDetails": "来自拉丁语 vertere，意为「转动」。在 advertise 中，前缀 ad-（向、朝向）加上 vert（转动）产生了「把注意力转向」的含义——吸引人们的注意力。同样的词根也出现在 convert（转换）、divert（转向）和 avert（避开）中。"
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-ize",
+          "homeLangDetails": "To make something have a quality, or to cause a process. Modernize, organize, realize."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "公开宣传",
+      "translationLong": "旨在告知或说服公众的通知或宣传",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "新产品的广告在电视上播出。"
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "enter"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "tain",
+          "homeLangDetails": "来自古法语 tenir 和拉丁语 tenere，意为「拿住」或「保持」。这个词根也出现在 retain（保留）、maintain（维持）、sustain（维持）和 contain（包含）中，都涉及拿住或保持的概念。在 entertain 中，「enter + tain」结合了邀请某人进来和抓住他们的注意力的含义。"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "娱乐或消遣",
+      "translationLong": "提供或获得娱乐或享受的行为",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "这场音乐会是一个美妙的娱乐之夜。"
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re- / 再、重新",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语 re-，它出现在数千个英语词汇中：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以理解为「再做一遍」或「回到之前的状态」。"
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "quir",
+          "homeLangDetails": "来自拉丁语 quaerere，意为「询问」或「寻求」。在 require 中，re-（再、重新）加上 quir 产生了「要求」或「需要」的含义。同样的词根也出现在 inquiry（询问）、inquisition（审问）和 query（疑问）中。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "需要的东西",
+      "translationLong": "需要的东西；必要条件或必要事项",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "高中文凭是大多数大学课程的必要条件。"
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re- / 再、重新",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语 re-，它出现在数千个英语词汇中：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以理解为「再做一遍」或「回到之前的状态」。"
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "tir",
+          "homeLangDetails": "来自古法语 tirer，意为「拉动」或「抽取」。在 retire 中，re-（再、回到）加上 tir 产生了「撤退」或「回归」的含义，尤其是指从工作中退出。同样的词根也出现在 tired（疲惫的，字面上是被「拉扯」得很累）中。"
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "离职",
+      "translationLong": "永久离开工作岗位或职位的行为或事实",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "她正在计划明年退休。"
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de- / 向下、离开",
+          "homeLangDetails": "表示向下、离开或逆转某个动作。比如 decrease（减少）、depart（离开）、deconstruct（解构）。这个前缀通常会反转词根的意思。"
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "part"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "部门或科室",
+      "translationLong": "组织、公司或机构的分部或部门",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "她在市场营销部工作。"
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re- / 再、重新",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语 re-，它出现在数千个英语词汇中：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以理解为「再做一遍」或「回到之前的状态」。"
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "place"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "替代品",
+      "translationLong": "取代某物的人或物",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "破碎窗户的替代品昨天送到了。"
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "fortunate"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "从形容词转变为副词，表示「以...的方式」。比如 quickly（快速地）、happily（开心地）、surprisingly（惊人地）。也可以用来形成形容词：friendly（友善的）、lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "遗憾地，很抱歉地",
+      "translationLong": "遗憾地，很抱歉地，不幸地",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "遗憾的是，音乐会被取消了。"
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "expect"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "（过去分词）"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "从形容词转变为副词，表示「以...的方式」。比如 quickly（快速地）、happily（开心地）、surprisingly（惊人地）。也可以用来形成形容词：friendly（友善的）、lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "出人意料地，突然地",
+      "translationLong": "出人意料地，突然地，以意想不到的方式",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "她出人意料地出现在派对上。"
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "health"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "（形容词后缀）"
+        }
+      ],
+      "translationShort": "不健康的，有害的",
+      "translationLong": "不健康的，有害的，危害身体的",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "不健康的饮食会导致疾病。"
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "reason"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「能够...的」。readable（可读的）、comfortable（舒适的）、possible（可能的）。"
+        }
+      ],
+      "translationShort": "不合理的，不公平的",
+      "translationLong": "不合理的，不公平的，过分的",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "他的要求过分。"
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "accept"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「能够...的」。readable（可读的）、comfortable（舒适的）、possible（可能的）。"
+        }
+      ],
+      "translationShort": "不可接受的",
+      "translationLong": "不可接受的，令人厌恶的，无法容忍的",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "这种行为完全不可接受。"
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "avoid"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「能够...的」。readable（可读的）、comfortable（舒适的）、possible（可能的）。"
+        }
+      ],
+      "translationShort": "不可避免的，无法逃脱的",
+      "translationLong": "不可避免的，无法逃脱的，势必会发生的",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "死亡和税收是不可避免的。"
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "important"
+        }
+      ],
+      "translationShort": "不重要的，微不足道的",
+      "translationLong": "不重要的，微不足道的，无足轻重的",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "那个细节无足轻重。"
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "不-/否定",
+          "homeLangDetails": "英语中最常见的否定前缀，源自古英语。在日耳曼语族中广泛使用，就像德语的「un-」、荷兰语的「on-」一样。它把基础词汇的意思完全反转：unhappy（不开心）、unknown（未知）、unforgettable（难以忘怀）。"
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "will"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "（动名词）"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "把形容词转变成表示状态或特性的名词。happiness（幸福）、darkness（黑暗）、awareness（意识）。这是日耳曼语系中相当于拉丁语「-ity」的后缀。"
+        }
+      ],
+      "translationShort": "不情愿，勉强",
+      "translationLong": "不情愿，勉强，缺乏意愿",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "他不情愿帮忙，令人失望。"
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新-/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语的「re-」，在数千个英语单词中出现：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以用「再次做」或「回到...」来理解。"
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        }
+      ],
+      "translationShort": "重新考虑，再想想",
+      "translationLong": "重新考虑，再想想，审视，改变主意",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "我需要重新考虑我的决定。"
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新-/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语的「re-」，在数千个英语单词中出现：return（返回）、rebuild（重建）、reconsider（重新考虑）。通常可以用「再次做」或「回到...」来理解。"
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "consider"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion",
+          "homeLangDetails": "英语中最常见的拉丁语名词后缀。把动词转变为表示一个动作或其结果的名词。construction（构建）、permission（许可）、explosion（爆炸）。相当于德语的「-ung」。"
+        }
+      ],
+      "translationShort": "重新审视，再思量",
+      "translationLong": "重新审视，再思量，再次考虑的行为",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "董事会要求对该提案进行重新审视。"
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文单词中出现：return（回归）、rebuild（重建）、reconsider（重新考虑）。类似中文的「重新」或「再」。"
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "组织"
+        }
+      ],
+      "translationShort": "重新组织",
+      "translationLong": "重新组织，重新整理，重组",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "公司决定重新组织其部门。"
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文单词中出现：return（回归）、rebuild（重建）、reconsider（重新考虑）。类似中文的「重新」或「再」。"
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "组织"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-化/-行为"
+        }
+      ],
+      "translationShort": "重组，重新整理",
+      "translationLong": "重组，重新整理，重新组织的过程",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "这次重组花了三个月才完成。"
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文单词中出现：return（回归）、rebuild（重建）、reconsider（重新考虑）。类似中文的「重新」或「再」。"
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "介绍"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-化/-行为",
+          "homeLangDetails": "英文最常见的名词后缀，来自拉丁文。把动词变成名词，表示一个动作或其结果。比如 construction（建造）、permission（许可）、explosion（爆炸）。相当于德文的 -ung，中文里对应「化」「行为」等概念。"
+        }
+      ],
+      "translationShort": "重新引进，恢复",
+      "translationLong": "重新引进，恢复引入，重新介绍的行为",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "重新引进狼群帮助恢复了生态系统。"
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文单词中出现：return（回归）、rebuild（重建）、reconsider（重新考虑）。类似中文的「重新」或「再」。"
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "连接"
+        }
+      ],
+      "translationShort": "重新连接",
+      "translationLong": "重新连接，重新联系，恢复联系",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "多年后，我们在聚会上重新联系上了。"
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "重新/再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁文 re-，在数千个英文单词中出现：return（回归）、rebuild（重建）、reconsider（重新考虑）。类似中文的「重新」或「再」。"
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "循环"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-行为"
+        }
+      ],
+      "translationShort": "回收利用，循环再用",
+      "translationLong": "回收利用，循环再用，把废物转化为新产品的过程",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "回收利用有助于减少环境废弃物。"
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "共同/一起",
+          "homeLangDetails": "表示共同、一起。是最富有生产力的拉丁文前缀之一。connect（连接）、combine（结合）、cooperate（合作）、collect（收集）都用这个前缀。拼写会根据后面的声音变化。类似中文的「共」「合」这样的概念。"
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "共同/普通"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-化/-行为"
+        }
+      ],
+      "translationShort": "信息交流",
+      "translationLong": "信息的传递或交换，沟通",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "良好的沟通在任何关系中都至关重要。"
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "向外/出",
+          "homeLangDetails": "表示向外、离开或曾经的意思。exhale（呼出）、export（出口）、eject（驱逐）、ex-president（前总统）都用这个前缀。"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "引导/领导"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-化/-行为"
+        }
+      ],
+      "translationShort": "教育",
+      "translationLong": "教学或学习的过程，尤其是在学校里的教育",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "教育为许多机会打开了大门。"
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "向内/进入",
+          "homeLangDetails": "一个多功能的前缀，有两个不同的含义：「不是」（inactive 不活跃、impossible 不可能、illegal 非法）和「进入」（insert 插入、import 进口）。拼写会根据后面的声音变化。"
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "踪迹/追踪"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-化/-行为"
+        }
+      ],
+      "translationShort": "调查",
+      "translationLong": "对某事进行详细检查或询问，调查",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "警察对这起盗窃案进行了调查。"
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "向内/里面"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "引导/领导"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-化/-行为",
+          "homeLangDetails": "英文最常见的名词后缀，来自拉丁文。把动词变成名词，表示一个动作或其结果。比如 construction（建造）、permission（许可）、explosion（爆炸）。相当于德文的 -ung，中文里对应「化」「行为」等概念。"
+        }
+      ],
+      "translationShort": "介绍，开场",
+      "translationLong": "正式介绍一个人给另一个人，或书籍、演讲等的开场部分",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "小说的开场部分介绍了主要冲突。"
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "向前/正向",
+          "homeLangDetails": "表示向前、赞成或代替。progress（进展）、produce（生产）、pronoun（代词）都用这个前缀。"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "引导/领导"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-化/-行为",
+          "homeLangDetails": "英文最常见的名词后缀，来自拉丁文。把动词变成名词，表示一个动作或其结果。比如 construction（建造）、permission（许可）、explosion（爆炸）。相当于德文的 -ung，中文里对应「化」「行为」等概念。"
+        }
+      ],
+      "translationShort": "生产",
+      "translationLong": "生产、制造或创造某物",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "工厂增加了产量以满足需求。"
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/向前",
+          "homeLangDetails": "向前、支持、或代替。想想progress（进步）、produce（生产）、pronoun（代词）——都是这个前缀为词汇增添 「向前」的意义。"
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-phone"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "一个单词的发音方式",
+      "translationLong": "一个单词或语言的发音或说话方式",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "她的法语发音显著进步了。"
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/出来",
+          "homeLangDetails": "从...出来、曾经的、或离开。这个前缀在exhale（呼气）、export（出口）、eject（弹出）和ex-president（前任总统）等词里都有出现。"
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "平坦"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "说明或澄清某事物的陈述",
+      "translationLong": "一个说明或阐述，用来澄清或让某事变得更易理解",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "老师对这个数学概念做了清晰的讲解。"
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/出来",
+          "homeLangDetails": "从...出来、曾经的、或离开。这个前缀在exhale（呼气）、export（出口）、eject（弹出）和ex-president（前任总统）等词里都有出现。"
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "称量"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "详细的检查",
+      "translationLong": "一种详细的检查或测试；医学或学术方面的考试",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "检查未发现任何疾病迹象。"
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/进入",
+          "homeLangDetails": "这是个真正的变色龙前缀，有两种完全不同的含义：一是 「否定」（如inactive不活跃、impossible不可能、illegal非法），二是 「进入」（如insert插入、import导入）。它的拼写会根据后面的字母而改变，以便发音更顺畅。"
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "形象"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "创造心理意象的能力",
+      "translationLong": "形成不存在的事物的心理形象或概念的能力或行为",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "孩子们的想象力是无限的。"
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "人民"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "一个地区的所有人口",
+      "translationLong": "某地的所有居民；一群相同物种的生物",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "这座城市的人口数量大幅增长。"
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/一起",
+          "homeLangDetails": "与...一起或共同。这是拉丁语中最富有生命力的前缀之一。看看connect（连接）、combine（结合）、cooperate（合作）、collect（收集）——都体现了这个 「一起」的意思。它的拼写会根据后面的字母而改变。"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "转身"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "一次非正式的讨论",
+      "translationLong": "人们之间非正式的想法交流或闲聊",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "我们就旅行话题进行了一次有趣的对话。"
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/一起",
+          "homeLangDetails": "与...一起或共同。这是拉丁语中最富有生命力的前缀之一。看看connect（连接）、combine（结合）、cooperate（合作）、collect（收集）——都体现了这个 「一起」的意思。它的拼写会根据后面的字母而改变。"
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "聚集"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "聚集在一起的一组物品",
+      "translationLong": "聚集在一起的一群事物或人；收集的动作",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "她有一个令人印象深刻的古籍收藏。"
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/向后",
+          "homeLangDetails": "在reflection这个词里，re-的意思是 「向后」（来自拉丁语reflectere，「折射」之意），而不是 「再一次」。这个词描述的是光线或思想的反向运动——光向后反射，思想也向内折返。"
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "弯曲"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "光的反射",
+      "translationLong": "光或热的反射；严肃的思考或沉思",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "我在镜子里看到了自己的倒影。"
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/一起",
+          "homeLangDetails": "与...一起或共同。这是拉丁语中最富有生命力的前缀之一。看看connect（连接）、combine（结合）、cooperate（合作）、collect（收集）——都体现了这个 「一起」的意思。它的拼写会根据后面的字母而改变。"
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "绑定"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "一种关系或联系",
+      "translationLong": "事物之间的一种关系或联系；连接的动作",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "运动和良好健康之间有很强的关联。"
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/向前",
+          "homeLangDetails": "向前、支持、或代替。想想progress（进步）、produce（生产）、pronoun（代词）——都是这个前缀为词汇增添 「向前」的意义。"
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "覆盖"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "保护免受伤害",
+      "translationLong": "保持某人或某物安全、免受伤害或损伤的行为",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "我们需要更好的网络攻击防护措施。"
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "这个前缀很有趣，它有两个完全不同的意思：「不」（比如 inactive、impossible、illegal）和「进入」（比如 insert、import）。前缀的拼写会根据后面的声音改变来适应发音。"
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "召唤"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "邀请",
+      "translationLong": "邀请某人的行为；要求或召唤某人参加",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "我收到了婚礼邀请。"
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "之前",
+          "homeLangDetails": "在时间或位置上的之前。比如 predict（预测）、prepare（准备）、prehistoric（史前的）。"
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "准备"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "准备",
+      "translationLong": "使某物做好准备的过程；提前规划",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "充分的准备对成功至关重要。"
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "身体/工具"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize",
+          "homeLangDetails": "使某物具有某种特质，或引起某个过程。比如 modernize（现代化）、organize（组织）、realize（实现）。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "组织",
+      "translationLong": "具有共同目标的人群；系统地安排事物的行为",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "这个组织致力于帮助需要帮助的人。"
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "简单"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "使某物具有或变成某种样子。比如 simplify（简化）、clarify（澄清）、intensify（加强）。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "简化",
+      "translationLong": "使某物更简单或更不复杂的行为",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "规则的简化使这个游戏更容易玩。"
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "足够"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "做/制造"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "满足",
+      "translationLong": "内心满足或高兴的状态；成就感和满足感",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "顾客满意度是我们的首要任务。"
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "品质/适合"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "使某物具有或变成某种样子。比如 simplify（简化）、clarify（澄清）、intensify（加强）。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "资格",
+      "translationLong": "使某人适合做某事的技能、能力或凭证；获得资格的过程",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "她有这份工作所需的适当资格。"
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "相同"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "使某物具有或变成某种样子。比如 simplify（简化）、clarify（澄清）、intensify（加强）。"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "身份验证",
+      "translationLong": "识别或证明某物是什么的行为；确立身份的文件",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "你需要一份带照片的身份证件才能进入。"
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "向外、曾经的、或离开。比如 exhale（呼气）、export（出口）、eject（弹出）、ex-president（前总统）。"
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "力量/价值"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "评估",
+      "translationLong": "评价或确定某物的价值或质量的过程",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "老师将进行学生进度评估。"
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-",
+          "homeLangDetails": "这是 over-（超过）的反义词前缀。可以表示下方（underground，地下）或不足够（underestimate，低估；underperform，表现不佳）。"
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "站立"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "能够做某事的。比如 readable（可读的）、comfortable（舒适的）、possible（可能的）。"
+        }
+      ],
+      "translationShort": "容易理解的",
+      "translationLong": "能被理解的；容易领会的",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "这些说明清晰易懂。"
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "负担"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "能够做某事的。比如 readable（可读的）、comfortable（舒适的）、possible（可能的）。"
+        }
+      ],
+      "translationShort": "负担得起的",
+      "translationLong": "能被负担起的；价格合理的",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "我们在城市里找到了一套负担得起的公寓。"
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "依赖"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "可靠的",
+      "translationLong": "可以被信任的；值得依赖的",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "他是一个可靠的朋友，总是乐于帮助。"
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "相信"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "难以置信的",
+      "translationLong": "令人惊叹的；令人无法相信的；非凡的",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "那是一场令人难以置信的表演！"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "看"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "看不见的",
+      "translationLong": "无法被看见的；隐藏的",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "这个污渍肉眼看不见。"
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "可能"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "不可能的",
+      "translationLong": "无法做到或发生的；不可能的",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "解决这个谜题似乎不可能。"
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "反应"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "不负责任的",
+      "translationLong": "不负责的；不可信的或不可靠的",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "提前离开工作是不负责任的。"
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "反转"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "无法逆转的",
+      "translationLong": "无法被逆转或撤销的",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "气候变化可能对环境造成无法逆转的伤害。"
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "不",
+          "homeLangDetails": "这个前缀像变色龙一样，有两个意思：「不」（比如 inactive 不活跃）和「进入」（比如 insert 插入）。拼写会跟着后面的声音变化——就像 ir-、il-、im- 这样的变体。"
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "破坏"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able",
+          "homeLangDetails": "表示「可以被……」。就像 readable（可读的）、comfortable（舒适的）一样，这个后缀把动词变成了可以形容人或物的形容词。"
+        }
+      ],
+      "translationShort": "无法被摧毁的",
+      "translationLong": "无法被破坏或损毁的",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "这座纪念碑被建造成坚不可摧的。"
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "之间",
+          "homeLangDetails": "在……之间或之中。比如 international（国际的）、interrupt（打断）、interact（互动）——都带有这种「在中间」的感觉。"
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "国家"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "表示「与……有关的」或「……的性质」。就像 musical（音乐的）、natural（自然的）、industrial（工业的）。"
+        }
+      ],
+      "translationShort": "国际的",
+      "translationLong": "涉及两个或多个国家的；国际性的",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "她在一个国际组织工作。"
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "超越",
+          "homeLangDetails": "在……之上、超过，或表示杰出。比如 Superman（超人）、superior（优越的）、supernatural（超自然的）。"
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "自然"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "表示「与……有关的」或「……的性质」。就像 musical（音乐的）、natural（自然的）、industrial（工业的）。"
+        }
+      ],
+      "translationShort": "超自然的",
+      "translationLong": "超越或违反自然规律的",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "这部电影展现了超自然的生物和幽灵。"
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "之前",
+          "homeLangDetails": "在时间或位置上的「之前」。比如 predict（预测）、prepare（准备）、prehistoric（史前的）。"
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "历史的"
+        }
+      ],
+      "translationShort": "史前的",
+      "translationLong": "与有文字记载的历史之前的时代有关",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "恐龙在史前时代漫游地球。"
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "反对",
+          "homeLangDetails": "反对或相反的意思。想想看，antiwar（反战）、antibiotic（抗生素）、anticipate（预期）这些词都用到了 anti 这个前缀。在中文里，「反」「抗」的效果差不多。"
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "生命",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-ic"
+        }
+      ],
+      "translationShort": "抗菌的",
+      "translationLong": "杀死细菌或阻止其生长的药物",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "医生开了抗生素来治疗感染。"
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "在…下方",
+          "homeLangDetails": "在…下方、以下或次要的。看看 subway（地铁）、submarine（潜艇）、substitute（替代品），都有 sub 这个前缀。它的作用就像中文的「潜」或「下」。"
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "海"
+        }
+      ],
+      "translationShort": "水下船舶",
+      "translationLong": "在水下运行的船舶，特别是军事战舰",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "潜艇下潜到海洋的深处。"
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "自己",
+          "homeLangDetails": "自己的意思。autobiography（自传）、automatic（自动的）、automobile（汽车）都用到了 auto。中文的「自」就是这个意思。"
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "运动"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-ly"
+        }
+      ],
+      "translationShort": "自动地，无需手动操作",
+      "translationLong": "以自动发生或自动运行的方式，不需要人工干预",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "当你靠近时，门会自动打开。"
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "远距离",
+          "homeLangDetails": "在远距离。telephone（电话）、television（电视）、telescope（望远镜）都有 tele 这个前缀。中文的「远」或「电」（在电视、电话这样的词里）都能表达这个概念。"
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "视觉"
+        }
+      ],
+      "translationShort": "远距离观看",
+      "translationLong": "通过远距离传输和接收运动图像和声音的系统",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "她每晚都看电视。"
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "人民"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "统治"
+        }
+      ],
+      "translationShort": "人民统治",
+      "translationLong": "权力掌握在人民手中的政治制度",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "民主制度需要全体公民的积极参与。"
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "地球",
+          "homeLangDetails": "地球或陆地。geography（地理）、geology（地质学）、geometry（几何学）都包含 geo。想想中文里「地」这个字的用法就行。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "书写",
+          "homeLangDetails": "书写或记录。photography（摄影）、biography（传记）、autograph（署名）都用到了 graph。中文的「写」「记」意思差不多。"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "地球的描述",
+      "translationLong": "研究地方、人民和地球物理特征的学科",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "地理课教授不同地区和文化。"
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "可回应"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "责任或义务",
+      "translationLong": "对自己的行为或决定承担责任的状态",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "伟大的力量伴随伟大的责任。"
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "人"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-ity"
+        }
+      ],
+      "translationShort": "个人特质",
+      "translationLong": "一个人独有的特征和品质",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "她爱交际的性格使她受到大家欢迎。"
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "受欢迎的"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "拉丁语里对应英文 -ness 的后缀。用来把形容词变成名词表示某种性质或状态。equality（平等）、electricity（电）、reality（现实）都用到了它。"
+        }
+      ],
+      "translationShort": "受欢迎的状态",
+      "translationLong": "被许多人喜欢、赞美或享受的性质或状态",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "这个乐队的知名度在全球增长。"
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "电的"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-ity",
+          "homeLangDetails": "拉丁语里对应英文 -ness 的后缀。用来把形容词变成名词表示某种性质或状态。equality（平等）、electricity（电）、reality（现实）都用到了它。"
+        }
+      ],
+      "translationShort": "电能",
+      "translationLong": "由电子通过导体运动产生的一种能量形式",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "大多数现代家庭依靠电力供能。"
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "创造"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "名词后缀",
+          "homeLangDetails": "把形容词变成表示性质或状态的抽象名词，来自拉丁语，类似英语的 -ness。比如 equality（平等），electricity（电），reality（现实）。"
+        }
+      ],
+      "translationShort": "具有创造性的品质",
+      "translationLong": "具有创造性的品质或状态；能够创造或想象新事物的能力",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "她解决问题的创意能力给每个人都留下了深刻印象。"
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "产品"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "名词后缀",
+          "homeLangDetails": "把形容词变成表示性质或状态的抽象名词，来自拉丁语，类似英语的 -ness。比如 equality（平等），electricity（电），reality（现实）。"
+        }
+      ],
+      "translationShort": "具有生产力的品质",
+      "translationLong": "具有生产力的品质或状态；按产出率衡量的工作效能",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "安装新软件后，团队的生产力提高了。"
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "屈伸"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "能力后缀",
+          "homeLangDetails": "表示能够做某事，来自拉丁语。比如 readable（可读的），comfortable（舒适的），possible（可能的）。"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "名词后缀",
+          "homeLangDetails": "把形容词变成表示性质或状态的抽象名词，来自拉丁语，类似英语的 -ness。比如 equality（平等），electricity（电），reality（现实）。"
+        }
+      ],
+      "translationShort": "具有灵活性的品质",
+      "translationLong": "具有灵活性的品质或状态；能够适应变化或弯曲而不断裂的能力",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "这种材料的柔韧性使其非常适合制造。"
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "国家"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "关系后缀",
+          "homeLangDetails": "表示与某物相关或具有某物的性质。比如 musical（音乐的），natural（自然的），industrial（工业的）。"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "名词后缀",
+          "homeLangDetails": "把形容词变成表示性质或状态的抽象名词，来自拉丁语，类似英语的 -ness。比如 equality（平等），electricity（电），reality（现实）。"
+        }
+      ],
+      "translationShort": "属于某个国家的身份",
+      "translationLong": "属于某个特定国家的公民身份；国籍或民族身份",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "她拥有双重国籍，在一个国家出生，在另一个国家入籍。"
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "效果"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "副词后缀",
+          "homeLangDetails": "把形容词变成副词，表示某种方式或方法，意思是「以...的方式」。比如 quickly（快速地），happily（高兴地），surprisingly（令人惊讶地）。也能构成形容词：friendly（友好的），lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "以有效的方式",
+      "translationLong": "以能够产生预期或想要结果的方式；成功地",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "新策略有效地降低了成本。"
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "创造"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "副词后缀",
+          "homeLangDetails": "把形容词变成副词，表示某种方式或方法，意思是「以...的方式」。比如 quickly（快速地），happily（高兴地），surprisingly（令人惊讶地）。也能构成形容词：friendly（友好的），lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "以创意的方式",
+      "translationLong": "以涉及创造或运用想象力的方式；带有原创性和创新精神",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "她以创意的方式开展项目，找到了创新的解决方案。"
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "产品"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "副词后缀",
+          "homeLangDetails": "把形容词变成副词，表示某种方式或方法，意思是「以...的方式」。比如 quickly（快速地），happily（高兴地），surprisingly（令人惊讶地）。也能构成形容词：friendly（友好的），lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "以高效的方式",
+      "translationLong": "以产生结果或有效的方式；以高成果或有所收获的方式",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "我们下午的时间利用得很高效，完成了所有任务。"
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "吸引"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "形容词后缀"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "副词后缀",
+          "homeLangDetails": "把形容词变成副词，表示某种方式或方法，意思是「以...的方式」。比如 quickly（快速地），happily（高兴地），surprisingly（令人惊讶地）。也能构成形容词：friendly（友好的），lovely（可爱的）。"
+        }
+      ],
+      "translationShort": "以吸引人的方式",
+      "translationLong": "以令人愉悦、引人注目或视觉上吸引人的方式；以迷人的方式",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "商店橱窗用季节性装饰品装扮得很吸引人。"
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "再次",
+          "homeLangDetails": "表示重复或回到之前的状态。来自拉丁语 re-，在英语成千上万的词汇中出现：return（返回），rebuild（重建），reconsider（重新考虑）。通常可以理解为「再次做某事」或「回到...」。"
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "搜索"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "行为者后缀",
+          "homeLangDetails": "构成代理名词——执行动作的人或物。比如 teacher（教师），actor（演员），driver（司机），computer（计算机）。"
+        }
+      ],
+      "translationShort": "进行研究的人",
+      "translationLong": "进行研究的人；从事某学科调查研究的科学家或学者",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "这位研究人员在同行评审期刊上发表了她的研究成果。"
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "开发"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "行为者后缀",
+          "homeLangDetails": "构成代理名词——执行动作的人或物。比如 teacher（教师），actor（演员），driver（司机），computer（计算机）。"
+        }
+      ],
+      "translationShort": "开发某事物的人",
+      "translationLong": "开发某事物的人；通常指软件开发者",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "这位开发者为应用程序创建了一个新功能。"
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "雇用"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-者",
+          "homeLangDetails": "表示执行某个动作的人或事物。就像中文的「-者」一样，用来形成表示执行者的名词。教师、演员、司机、电脑都是这个模式。"
+        }
+      ],
+      "translationShort": "雇用他人的人",
+      "translationLong": "招聘员工的个人或组织；企业主或管理者",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "雇主提供了富有竞争力的福利来吸引顶尖人才。"
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "雇用"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-被者",
+          "homeLangDetails": "表示接受或成为某个动作对象的人。对比雇主（执行雇用的人）和员工（被雇用的人）。同样的后缀还出现在被采访者、受训者、收款人这样的词里。"
+        }
+      ],
+      "translationShort": "被雇用的人",
+      "translationLong": "为雇主工作以换取报酬的人",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "公司里的每位员工都享受健康保险。"
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "光",
+          "homeLangDetails": "来自希腊语 phōtos（光）。出现在许多与光和图像相关的词汇中：照相、光合作用、上相。从「光」+ 「记录」的组合来看，摄影的本意就是「用光来记录」。"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "记录",
+          "homeLangDetails": "写下或记录。摄影、传记、亲笔签名。"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-者",
+          "homeLangDetails": "表示执行某个动作的人或事物。教师、演员、司机、电脑都使用这个后缀。"
+        }
+      ],
+      "translationShort": "拍摄照片的人",
+      "translationLong": "专业或业余拍摄照片的人",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "摄影师在婚礼上捕捉了惊人的画面。"
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "调查"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-者",
+          "homeLangDetails": "在更正式或带有拉丁语风格的词汇中使用。」-者」和」-员」都表示「执行某个动作的人」，但在带有拉丁词根的词汇中（如调查员、参议员、演员、讲师）更常见。"
+        }
+      ],
+      "translationShort": "进行调查的人",
+      "translationLong": "进行调查的人；通常是专业人员，负责收集证据或事实",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "调查员检查了犯罪现场寻找线索。"
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "沟通"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-者",
+          "homeLangDetails": "表示执行某个动作的人或事物。教师、演员、司机都使用这个后缀来表示执行者。"
+        }
+      ],
+      "translationShort": "进行沟通的人",
+      "translationLong": "有效或专业地进行沟通的人；善于传递信息的人",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "作为一位技巧高超的沟通者，她擅长公开演讲。"
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "共-",
+          "homeLangDetails": "一起、共同。最常见的拉丁前缀之一。连接、结合、合作、收集——都用这个前缀。拼写会随着后面的声音而变化。"
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "通"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-化",
+          "homeLangDetails": "动词化后缀（来自拉丁语 -atus）。把名词或形容词变成动词，表示执行那个动作或状态。"
+        }
+      ],
+      "translationShort": "传递信息",
+      "translationLong": "传递信息、表达意思、交换想法",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "我们需要把想法清楚地传达给团队。"
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "入-/进入",
+          "homeLangDetails": "这个前缀有两个明确的意思：「否定」（无效、不可能、非法）和「进入」（插入、导入）。拼写会随着后面的声音而变化。"
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "踪迹",
+          "homeLangDetails": "来自拉丁语 vestigium（足迹、痕迹）。同样的词根也出现在「痕迹」和「调查员」这样的词里。"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-化",
+          "homeLangDetails": "动词化后缀，把词根变成动作：跟踪或检查痕迹和线索。"
+        }
+      ],
+      "translationShort": "仔细检查",
+      "translationLong": "仔细检查、深入查询、进行调查",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "警察明天将调查犯罪现场。"
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "共-",
+          "homeLangDetails": "一起、共同。最常见的拉丁前缀之一。连接、结合、合作、收集——都用这个前缀。拼写会随着后面的声音而变化。"
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "劳动"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-化",
+          "homeLangDetails": "动词化后缀，把「劳动」变成动作：一起工作。"
+        }
+      ],
+      "translationShort": "一起工作",
+      "translationLong": "一起工作、合作",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "我们将与来自其他部门的同事合作完成这个项目。"
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "部分",
+          "homeLangDetails": "来自拉丁语 pars（部分）。与后面的形态素「-icip-」结合时，产生「参与」或「分享」的意思。"
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "取",
+          "homeLangDetails": "来自拉丁语 capere（拿取）。拉丁语的 participium（参与者）把「部分」和「取」结合在一起，表示分享参与某事。"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-化",
+          "homeLangDetails": "动词化后缀。"
+        }
+      ],
+      "translationShort": "参与",
+      "translationLong": "参与、参加、加入",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "所有学生必须参加课堂讨论。"
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "共-",
+          "homeLangDetails": "一起、共同。最常见的拉丁前缀之一。连接、结合、合作、收集——都用这个前缀。拼写会随着后面的声音而变化。"
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "恩",
+          "homeLangDetails": "来自拉丁语 gratus（令人愉快、感恩）。同样的词根也出现在「优雅」「感谢」「感恩」这样的词里，都与令人愉快和善意有关。"
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-化",
+          "homeLangDetails": "小称/重复性动词化后缀（来自拉丁语 -ulatus）。它柔和或重复这个动作，这里创造出向某人温暖、重复地表达快乐或善意的意思。"
+        }
+      ],
+      "translationShort": "为成就而表扬",
+      "translationLong": "为成就而表扬、表达快乐或善意",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "我想为你的优异表现向你表示祝贺！"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/错误地",
+          "homeLangDetails": "表示某件事做得不对或做得不好。例如 misunderstand（误解）、mistake（错误）、misrepresent（歪曲）。这个前缀在中文里很像「误」或「错」这样的字。"
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/之间",
+          "homeLangDetails": "表示「在...之间」或「彼此」。比如 international（国际的）、interrupt（打断）、interact（互动）。中文的「交互」或「相互」能传达同样的意思。"
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "pret/解释",
+          "homeLangDetails": "来自拉丁语的 praetere 或 prae（之前）加上 ire（去）。inter-（之间）加 pret-（解释）合在一起，表示「解释中间部分」的意思，也就是「澄清含义」。再加上 mis-（错误）前缀，意思就反过来了：「错误地解释」。"
+        }
+      ],
+      "translationShort": "理解错误",
+      "translationLong": "理解错误，错误地解释或曲解某事",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "别误解我的话，我是出于好意的。"
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/向下/撤销",
+          "homeLangDetails": "向下、离开或反转某个动作的意思。比如 decrease（减少）、depart（离开）、deconstruct（解构）。通常直接反转基础词的含义。中文里「解」或「拆」能很好地表达这种反向的概念。"
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/一起",
+          "homeLangDetails": "表示「伴随」或「一起」。这是拉丁语里生产力最强的前缀之一。比如 connect（连接）、combine（组合）、cooperate（合作）、collect（收集）。拼写会根据后面的音来改变。中文的「共」或「合」有着相似的味道。"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "struct/建造"
+        }
+      ],
+      "translationShort": "分析性地拆解",
+      "translationLong": "拆解，分解，通过分成各个部分来分析",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "在这个研讨会上，我们将分析文本中的主要论证。"
+    }
+  ]
+}

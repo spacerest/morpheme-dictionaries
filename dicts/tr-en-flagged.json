@@ -1,0 +1,120 @@
+{
+  "words": [
+    {
+      "id": "mutfak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mutfak",
+          "homeLang": "kitchen"
+        }
+      ],
+      "translationShort": "kitchen",
+      "translationLong": "kitchen, cuisine",
+      "exampleSentence": "Mutfakta lezzetli bir yemek pişiriyorum.",
+      "exampleTranslation": "I am cooking a delicious meal in the kitchen.",
+      "flag": "only 1 part — mutfak is borrowed from Arabic matbakh (مطبخ, place of cooking) and its internal structure is not transparent in Turkish"
+    },
+    {
+      "id": "okul",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "okul",
+          "homeLang": "school"
+        }
+      ],
+      "translationShort": "school",
+      "translationLong": "",
+      "flag": "only 1 part",
+      "exampleSentence": "Çocuklar her gün okula gidiyor.",
+      "exampleTranslation": "The children go to school every day."
+    },
+    {
+      "id": "tehlike",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tehlik",
+          "homeLang": "danger"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "The -e here is not a productive affix but part of the frozen word tehlike (danger). The word is borrowed from Arabic (tahlika), and -e is not independently meaningful in Turkish — it is simply the final syllable of the root as it was absorbed into Turkish."
+        }
+      ],
+      "translationShort": "danger",
+      "translationLong": "danger, hazard, peril",
+      "exampleSentence": "Bu yol çok tehlikeli, dikkatli ol.",
+      "exampleTranslation": "This road is very dangerous, be careful.",
+      "flag": "only 1 part — tehlike is an Arabic loanword with no productive Turkish morpheme boundary"
+    },
+    {
+      "id": "yavaş",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "yavaş",
+          "homeLang": "slow"
+        }
+      ],
+      "translationShort": "slow",
+      "translationLong": "slow, slowly, gently",
+      "exampleSentence": "Araba yavaş bir şekilde ilerledi.",
+      "exampleTranslation": "The car moved slowly.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "ulaşmak",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ulaş",
+          "homeLang": "reach, arrive",
+          "homeLangDetails": "The root ulaş- means 'to reach' or 'to arrive at.' It implies making contact with a destination or goal. Related words include ulaşım (transportation) and ulaşılabilir (accessible/reachable)."
+        },
+        {
+          "targetLang": "mak",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to reach, to arrive",
+      "translationLong": "to reach, to arrive at, to attain",
+      "exampleSentence": "Hedefe ulaşmak için çok çalışmalıyız.",
+      "exampleTranslation": "We must work hard to reach the goal.",
+      "flag": "only 2 parts, one of which is the infinitive suffix — effectively a single-root word"
+    },
+    {
+      "id": "ziyaret etmek",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ziyaret",
+          "homeLang": "visit",
+          "homeLangDetails": "A noun borrowed from Arabic meaning 'visit' or 'visitation.' In Turkish, it pairs with the light verb etmek (to do/make) to form a verb phrase meaning 'to visit.'"
+        },
+        {
+          "targetLang": " ",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "et",
+          "homeLang": "do/make",
+          "homeLangDetails": "The light verb etmek (to do, to make) is used with many Arabic and Persian loan nouns to form verbal phrases. Here it turns the noun ziyaret into the verb 'to visit.'"
+        },
+        {
+          "targetLang": "mek",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English \"to...\" it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do)."
+        }
+      ],
+      "translationShort": "to visit",
+      "translationLong": "to visit, to pay a visit",
+      "exampleSentence": "Anneми hafta sonu ziyaret etmek istiyorum.",
+      "exampleTranslation": "I want to visit my mother this weekend.",
+      "flag": "space treated as separator part; light verb construction"
+    }
+  ]
+}

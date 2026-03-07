@@ -1,0 +1,92 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows Esperanto and is learning English. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the English word exactly as given (lowercase, unless a proper noun).
+2. **article**: Use "the" for countable nouns (the default English article). Use "" for verbs, adjectives, and uncountable nouns.
+3. **displayPrefix**: Use "to" for verb infinitives (e.g., "to understand"), displayed in the UI but not part of gameplay.
+4. **parts**: Split the word at all real morpheme boundaries. English morphemes are mostly Latin, Greek, and Germanic in origin. Key patterns:
+   - Latin/Greek prefixes: pre-, re-, un-, in-/im-/ir-/il-, trans-, inter-, over-, sub-, super-, com-/con-/col-/cor-, de-, dis-, ex-, pro-, per-
+   - Latin/Greek suffixes: -tion/-sion, -ity, -ment, -ness, -ful, -less, -able/-ible, -ive, -al, -ous, -ize/-ise, -er/-or, -ist, -ism, -ology, -graph
+   - Germanic roots and compounds split at recognizable word boundaries
+
+   **CRITICAL — surface forms:** The `targetLang` values for all parts must concatenate exactly to the word's `id`. Always use the surface form as it appears, not the etymological form. Common mutations to watch for:
+   - Roots change before certain suffixes: `scrib` → `scrip` in *prescription*, `vert` → `vers` in *conversion*
+   - Final `-e` drops before vowel suffixes: *believable* = `believ` + `able`
+   - `-ize` + `-ation` → `-iz` + `-ation`: *organization* = `organ` + `iz` + `ation`
+   - `-ify` + `-ation` → `-ific` + `-ation`: *simplification* = `simpl` + `ific` + `ation`
+   - `-ate` drops the `e` before `-or`/`-ion`: *communication* = `commun` + `icat` + `ion`
+   - Connecting vowels are their own parts: *chronology* = `chron` + `o` + `logy`
+   - Double consonants belong to one part: *commitment* = `com` + `mit` + `ment`
+
+   Aim for 2–4 parts. Add a flag for 1 part or 5+.
+
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 Esperanto word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning — never slash synonyms ("re-/denove" is wrong; pick one); put alternatives in homeLangDetails. (b) Affixes: pre- = "antaŭ", re- = "denove", un- = "ne", -tion = "(nomo)", -ness = "(eco)", -ful = "(plena)", -able = "(ebla)", -er = "(aganto)". (c) Roots: use the single closest Esperanto word.
+6. **translationShort**: A natural, concise English translation or definition (1–4 words) — since the player is learning English, this should clarify the word's meaning, not just restate it.
+7. **translationLong**: Longer or alternate meanings if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Esperanto. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct English sentence using the word.
+10. **exampleTranslation**: Accurate Esperanto translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "English Vocab",
+  "words": [
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {"targetLang": "inter", "homeLang": "inter-/inter"},
+        {"targetLang": "nation", "homeLang": "nacio"},
+        {"targetLang": "al", "homeLang": "(adj)"}
+      ],
+      "translationShort": "between nations",
+      "translationLong": "involving or relating to more than one country",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Ŝi laboras por internacia organizo."
+    },
+    {
+      "id": "transportation",
+      "article": "the",
+      "parts": [
+        {"targetLang": "trans", "homeLang": "trans-/trans"},
+        {"targetLang": "port", "homeLang": "porti"},
+        {"targetLang": "ation", "homeLang": "(nomo)"}
+      ],
+      "translationShort": "moving people or goods",
+      "translationLong": "the act of transporting; a system for moving people or goods",
+      "exampleSentence": "Public transportation is very efficient in this city.",
+      "exampleTranslation": "La publika transporto estas tre efika en ĉi tiu urbo."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {"targetLang": "im", "homeLang": "ne-/mal-"},
+        {"targetLang": "possib", "homeLang": "ebla"},
+        {"targetLang": "le", "homeLang": "(adj)"}
+      ],
+      "translationShort": "not possible",
+      "translationLong": "not able to happen or be done",
+      "exampleSentence": "Nothing is impossible if you work hard enough.",
+      "exampleTranslation": "Nenio estas neebla se vi sufiĉe laboras."
+    },
+    {
+      "id": "friendship",
+      "article": "the",
+      "parts": [
+        {"targetLang": "friend", "homeLang": "amiko"},
+        {"targetLang": "ship", "homeLang": "(eco/stato)"}
+      ],
+      "translationShort": "being friends",
+      "translationLong": "a close relationship between friends",
+      "exampleSentence": "Their friendship has lasted for thirty years.",
+      "exampleTranslation": "Ilia amikeco daŭris dum tridek jaroj."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "words": [
+    {
+      "id": "développement",
+      "article": "le",
+      "parts": [
+        {
+          "targetLang": "dé",
+          "homeLang": "un-",
+          "homeLangDetails": "From Latin dis-, here suggesting an unfolding or spreading out — not reversing something, but opening it up. Think of 'de-' as pulling something apart from its envelope."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "wrap",
+          "homeLangDetails": "From Old French voloper/envelopper (to wrap). The same root appears in 'envelope.' So développer literally means to unwrap or unfold."
+        },
+        {
+          "targetLang": "pe",
+          "homeLang": "(verb stem)",
+          "homeLangDetails": "A phonetic extension of the root, part of the verb stem développer. Not a separate meaningful morpheme — just part of how the verb is built."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment"
+        }
+      ],
+      "translationShort": "development",
+      "translationLong": "development, growth, expansion",
+      "exampleSentence": "Le développement de cette région a été rapide ces dernières années.",
+      "exampleTranslation": "The development of this region has been rapid in recent years.",
+      "flag": "5+ parts — velop/pe boundary is phonetic rather than clean morpheme split"
+    },
+    {
+      "id": "prédéterminer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pré",
+          "homeLang": "pre-"
+        },
+        {
+          "targetLang": "dé",
+          "homeLang": "un-",
+          "homeLangDetails": "Here dé- reverses or undoes the idea of setting something in place — to de-termine is to un-fix or undo a boundary. Combined with pré-, the whole word means to fix something in advance."
+        },
+        {
+          "targetLang": "termin",
+          "homeLang": "determine"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to predetermine",
+      "translationLong": "to predetermine, to decide in advance",
+      "exampleSentence": "Certaines théories affirment que le destin est prédéterminé.",
+      "exampleTranslation": "Some theories claim that fate is predetermined.",
+      "flag": "note: dé- + termin- could arguably be one root 'déterminer'; split reflects morpheme transparency"
+    },
+    {
+      "id": "imperceptible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "per",
+          "homeLang": "through"
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "take/grasp"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "imperceptible",
+      "translationLong": "imperceptible, undetectable, barely noticeable",
+      "exampleSentence": "Le changement était si imperceptible qu'on ne le remarquait pas.",
+      "exampleTranslation": "The change was so imperceptible that no one noticed it.",
+      "flag": "4 parts, borderline; all meaningful"
+    },
+    {
+      "id": "présélection",
+      "article": "la",
+      "parts": [
+        {
+          "targetLang": "pré",
+          "homeLang": "pre-"
+        },
+        {
+          "targetLang": "sé",
+          "homeLang": "apart",
+          "homeLangDetails": "From Latin seligere (to pick out, to select). The sé- here is a reduced form of se- (apart), part of the root, not a freestanding prefix — it fused into 'sélection' long ago."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "choose/pick"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "(noun)"
+        }
+      ],
+      "translationShort": "pre-selection, shortlisting",
+      "translationLong": "pre-selection, shortlisting, preliminary screening",
+      "exampleSentence": "La présélection des candidats a été effectuée par un jury indépendant.",
+      "exampleTranslation": "The pre-selection of candidates was carried out by an independent jury.",
+      "flag": "4 parts, borderline; all meaningful"
+    },
+    {
+      "id": "immobilisation",
+      "article": "l'",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "not"
+        },
+        {
+          "targetLang": "mobil",
+          "homeLang": "move"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "(verbalizing)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "(noun)"
+        }
+      ],
+      "translationShort": "immobilization",
+      "translationLong": "immobilization, standstill, locking up",
+      "exampleSentence": "L'immobilisation du blessé était nécessaire avant le transport.",
+      "exampleTranslation": "Immobilizing the injured person was necessary before transport.",
+      "flag": "4 parts, borderline; all meaningful"
+    },
+    {
+      "id": "déresponsabiliser",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dé",
+          "homeLang": "de-/un-",
+          "homeLangDetails": "Here dé- reverses or undoes the action — to de-responsibilize someone is to strip them of their sense of responsibility."
+        },
+        {
+          "targetLang": "responsabil",
+          "homeLang": "responsib(le)",
+          "homeLangDetails": "From Latin responsabilis — the stem that also gives us 'responsible' and 'responsibility'. The -abil- part corresponds to the English '-ible/-able' pattern."
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "(verbalizing)",
+          "homeLangDetails": "Part of the -iser suffix that turns a noun or adjective into a verb, equivalent to English '-ize'. Together with the infinitive ending -er it forms the full suffix -iser."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to make unaccountable",
+      "translationLong": "to relieve of responsibility, to make someone feel unaccountable",
+      "exampleSentence": "Ce système risque de déresponsabiliser les employés.",
+      "exampleTranslation": "This system risks making employees feel unaccountable.",
+      "flag": "5 parts — word is a layered derivation: dé + responsabil(ité) + is(er) + er"
+    },
+    {
+      "id": "itement",
+      "article": "",
+      "flag": "only 1 part — this appears to be a fragment or typo, not a standalone French word",
+      "parts": [
+        {
+          "targetLang": "itement",
+          "homeLang": "(unknown fragment)",
+          "homeLangDetails": "This does not appear to be a standalone French word. It may be a fragment of a word ending in -itement, such as poliment, or a typo. No morpheme analysis can be confidently provided."
+        }
+      ],
+      "translationShort": "(unknown fragment)",
+      "translationLong": "",
+      "exampleSentence": "",
+      "exampleTranslation": ""
+    },
+    {
+      "id": "croyable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "croy",
+          "homeLang": "believe",
+          "homeLangDetails": "From croire (to believe). The spelling shifts from croir- to croy- before the suffix — same root you see in croyance (belief) and incroyable (unbelievable)."
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "able to be, -able",
+          "homeLangDetails": "Means something can be done, exactly like English \"-able/-ible\". Mangeable (edible, literally eatable), compréhensible (comprehensible), acceptable (acceptable). Most of these map directly onto English equivalents, making them easy to guess."
+        }
+      ],
+      "translationShort": "believable, credible",
+      "translationLong": "",
+      "exampleSentence": "Son histoire est à peine croyable.",
+      "exampleTranslation": "His story is barely believable.",
+      "flag": "only 2 parts, but note: 'croyable' is mostly used in negated form 'incroyable'"
+    }
+  ]
+}

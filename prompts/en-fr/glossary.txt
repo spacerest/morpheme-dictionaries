@@ -1,0 +1,28 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Préfixes
+post- | après, ultérieur | Tu retrouves ce préfixe en français aussi : "post-" dans "postérieur" ou "post-mortem". En anglais, il indique qu'une chose vient après une autre, comme dans "postwar" (d'après-guerre) ou "postpone" (remettre à plus tard). On le voit aussi dans "postgraduate", qui désigne les études après le diplôme.
+non- | non, sans | Identique au "non-" français, il sert à nier un mot sans le nuancer, contrairement à "un-". On le trouve dans "nonfiction" (textes factuels, opposés à la fiction), "nonprofit" (sans but lucratif), ou "nonsense" (absurdité). C'est souvent le préfixe le plus neutre et le plus direct pour marquer une négation.
+mid- | au milieu de | Ce préfixe correspond à "mi-" en français, comme dans "mi-temps". En anglais on dit "midday" (midi), "midnight" (minuit) ou "midterm" (mi-semestre). Il se colle directement devant le nom sans trait d'union dans la plupart des cas modernes.
+up- | vers le haut, améliorer | Il n'a pas d'équivalent unique en français, mais il exprime soit un mouvement vers le haut, soit une amélioration ou une mise à jour. On le voit dans "update" (mettre à jour), "upgrade" (améliorer, monter en gamme) et "upstairs" (à l'étage). Son contraire naturel est souvent "down-".
+over- | trop, au-dessus | Attention, ce préfixe figure déjà dans le glossaire, ne pas répéter.
+# Suffixes
+-tion/-sion | résultat, action | Déjà dans le glossaire.
+-en | rendre, devenir | Ce suffixe verbal transforme un adjectif ou un nom en verbe signifiant "rendre tel" ou "devenir tel", un peu comme "-ifier" en français. On le trouve dans "brighten" (rendre plus lumineux), "soften" (adoucir) et "shorten" (raccourcir). Il s'attache généralement à des mots courts d'origine germanique.
+-age | ensemble, action, résultat | Très proche du "-age" français, il forme des noms à partir de verbes ou de noms. On le voit dans "storage" (stockage), "package" (emballage) et "shortage" (pénurie). Le sens est souvent collectif ou abstrait, désignant un processus ou son résultat.
+-ary/-ery/-ory | relatif à, lieu de | Ces terminaisons forment des adjectifs ou des noms, souvent en lien direct avec leurs équivalents français en "-aire" ou "-oire". On les trouve dans "library" (bibliothèque), "discovery" (découverte) et "memory" (mémoire). Beaucoup de ces mots sont de bons faux-amis à surveiller.
+-ance/-ence | état, qualité | Équivalent direct du "-ance/-ence" français, ces suffixes forment des noms abstraits à partir de verbes ou d'adjectifs. On les voit dans "importance" (importance), "difference" (différence) et "performance" (performance). L'orthographe entre "-ance" et "-ence" est malheureusement irrégulière et doit souvent être mémorisée.
+-tion/-sion | déjà listé | doublon à ignorer.
+-ant/-ent | qui fait, agent | Proches des "-ant/-ent" français, ils forment des adjectifs ou des noms désignant une personne ou une chose qui accomplit une action. On les voit dans "student" (étudiant), "assistant" (assistant) et "patient" (patient). Beaucoup de ces mots sont identiques ou quasi-identiques en français.
+-ward/-wards | déjà listé | doublon à ignorer.
+# Racines et bases
+-dict- | dire, parler | Cette racine vient du latin "dicere" (dire) et elle est très productive en anglais comme en français. On la trouve dans "predict" (prédire), "dictionary" (dictionnaire) et "contradict" (contredire). Reconnaître "-dict-" aide à comprendre une grande famille de mots liés à la parole et à l'énoncé.
+-port- | porter, transporter | Du latin "portare", cette racine apparaît dans des mots très courants des deux côtés de la Manche. On la voit dans "transport" (transporter), "import" (importer) et "report" (rapport, signaler). Elle est souvent accompagnée de préfixes comme "ex-", "im-" ou "trans-".
+-rupt- | casser, interrompre | Du latin "rumpere" (rompre), elle donne des mots qu'on retrouve en français avec de légères variations. On la voit dans "interrupt" (interrompre), "corrupt" (corrompu) et "erupt" (entrer en éruption). Le lien avec le français "rupture" aide à mémoriser son sens fondamental.
+-vis-/-vid- | voir | Du latin "videre" (voir), cette racine est commune à l'anglais et au français. On la trouve dans "vision" (vision), "evident" (évident) et "provide" (fournir, littéralement "voir à l'avance"). C'est une des racines les plus rentables pour décoder des mots nouveaux.
+-duc-/-duct- | mener, conduire | Du latin "ducere", elle correspond directement au "-duc-" français dans "éducation" ou "conducteur". En anglais on la voit dans "produce" (produire), "educate" (éduquer) et "conduct" (conduire, se comporter). Les préfixes changent le sens de direction ou d'intensité.
+-scrib-/-script- | écrire | Du latin "scribere", elle est à la base d'une grande famille de mots liés à l'écriture, reconnaissables en français aussi. On la voit dans "describe" (décrire), "prescription" (ordonnance) et "subscribe" (s'abonner). La forme "-script-" apparaît souvent dans les noms dérivés.
+-mit-/-miss- | envoyer | Du latin "mittere", cette racine forme de nombreux verbes et noms courants. On la voit dans "submit" (soumettre), "permission" (permission) et "commit" (commettre, s'engager). Le glissement de "-mit-" au verbe vers "-miss-" au nom suit un schéma régulier très utile à repérer.

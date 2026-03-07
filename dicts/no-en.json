@@ -1,0 +1,4517 @@
+{
+  "words": [
+    {
+      "id": "arbeidsgiver",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element between compound parts, very common in Norwegian compounds. It carries no independent meaning."
+        },
+        {
+          "targetLang": "giver",
+          "homeLang": "giver"
+        }
+      ],
+      "translationShort": "employer",
+      "translationLong": "employer, one who gives work",
+      "exampleSentence": "Arbeidsgiveren min er veldig forståelsesfull.",
+      "exampleTranslation": "My employer is very understanding."
+    },
+    {
+      "id": "arbeidsplads",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element between compound parts, very common in Norwegian compounds. It carries no independent meaning."
+        },
+        {
+          "targetLang": "plads",
+          "homeLang": "place"
+        }
+      ],
+      "translationShort": "workplace",
+      "translationLong": "workplace, place of work",
+      "exampleSentence": "Hun er veldig glad for arbeidsplassen sin.",
+      "exampleTranslation": "She is very happy about her workplace."
+    },
+    {
+      "id": "barnehage",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "barne",
+          "homeLang": "child"
+        },
+        {
+          "targetLang": "hage",
+          "homeLang": "garden"
+        }
+      ],
+      "translationShort": "kindergarten",
+      "translationLong": "kindergarten, nursery school",
+      "exampleSentence": "Barnet mitt begynner i barnehagen neste uke.",
+      "exampleTranslation": "My child starts kindergarten next week."
+    },
+    {
+      "id": "barneskole",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "barne",
+          "homeLang": "child"
+        },
+        {
+          "targetLang": "skole",
+          "homeLang": "school"
+        }
+      ],
+      "translationShort": "primary school",
+      "translationLong": "primary school, elementary school",
+      "exampleSentence": "Hun går på barneskolen i nabolaget.",
+      "exampleTranslation": "She goes to the primary school in the neighborhood."
+    },
+    {
+      "id": "bibliotek",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "biblio",
+          "homeLang": "book",
+          "homeLangDetails": "From Greek biblion (book). The same root shows up in 'Bible' and 'bibliography.'"
+        },
+        {
+          "targetLang": "tek",
+          "homeLang": "collection",
+          "homeLangDetails": "From Greek theke (a chest, a storehouse for keeping things). You see it in words like 'archive' or 'discothèque' — a place where things are stored and kept."
+        }
+      ],
+      "translationShort": "library",
+      "translationLong": "",
+      "exampleSentence": "Jeg lånte tre bøker fra biblioteket i går.",
+      "exampleTranslation": "I borrowed three books from the library yesterday."
+    },
+    {
+      "id": "bilkjøring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "bil",
+          "homeLang": "car"
+        },
+        {
+          "targetLang": "kjøring",
+          "homeLang": "driving"
+        }
+      ],
+      "translationShort": "car driving",
+      "translationLong": "driving, car driving",
+      "exampleSentence": "Han tok bilkjøringskurs for å få sertifikatet.",
+      "exampleTranslation": "He took a driving course to get his license."
+    },
+    {
+      "id": "bortkastet",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bort",
+          "homeLang": "away"
+        },
+        {
+          "targetLang": "kast",
+          "homeLang": "throw"
+        },
+        {
+          "targetLang": "et",
+          "homeLang": "(past participle)",
+          "homeLangDetails": "The -et ending here marks the past participle, giving the word an adjectival meaning: 'thrown away,' i.e., wasted."
+        }
+      ],
+      "translationShort": "wasted",
+      "translationLong": "wasted, thrown away, squandered",
+      "exampleSentence": "Det var bortkastet tid å vente på ham.",
+      "exampleTranslation": "It was wasted time waiting for him."
+    },
+    {
+      "id": "dagligvare",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "daglig",
+          "homeLang": "daily"
+        },
+        {
+          "targetLang": "vare",
+          "homeLang": "goods"
+        }
+      ],
+      "translationShort": "grocery item",
+      "translationLong": "everyday goods, grocery item",
+      "exampleSentence": "Vi handler dagligvarer på butikken hver uke.",
+      "exampleTranslation": "We shop for groceries at the store every week."
+    },
+    {
+      "id": "dagligstue",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "daglig",
+          "homeLang": "daily"
+        },
+        {
+          "targetLang": "stue",
+          "homeLang": "room",
+          "homeLangDetails": "Related to English 'stove' historically, but in modern Norwegian stue simply means a living room or sitting room — the everyday room of the house."
+        }
+      ],
+      "translationShort": "living room",
+      "translationLong": "living room, sitting room",
+      "exampleSentence": "Familien sitter i dagligstuen og ser på TV.",
+      "exampleTranslation": "The family sits in the living room and watches TV."
+    },
+    {
+      "id": "drikkevannn",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "drikke",
+          "homeLang": "drink"
+        },
+        {
+          "targetLang": "vann",
+          "homeLang": "water"
+        }
+      ],
+      "translationShort": "drinking water",
+      "translationLong": "",
+      "exampleSentence": "Det er viktig å ha rent drikkevann tilgjengelig.",
+      "exampleTranslation": "It is important to have clean drinking water available.",
+      "flag": "Word appears to have a typo: 'drikkevannn' has three n's. Entry created as written but likely intended as 'drikkevann'."
+    },
+    {
+      "id": "dyrebutikk",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "dyre",
+          "homeLang": "animal"
+        },
+        {
+          "targetLang": "butikk",
+          "homeLang": "shop"
+        }
+      ],
+      "translationShort": "pet shop",
+      "translationLong": "pet shop, pet store",
+      "exampleSentence": "Vi kjøpte fiskefôr i dyrebutikken.",
+      "exampleTranslation": "We bought fish food at the pet shop."
+    },
+    {
+      "id": "dyrlege",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "dyr",
+          "homeLang": "animal"
+        },
+        {
+          "targetLang": "lege",
+          "homeLang": "doctor"
+        }
+      ],
+      "translationShort": "veterinarian",
+      "translationLong": "veterinarian, vet",
+      "exampleSentence": "Katten vår må til dyrlegen i morgen.",
+      "exampleTranslation": "Our cat needs to go to the vet tomorrow."
+    },
+    {
+      "id": "etternavn",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "etter",
+          "homeLang": "after"
+        },
+        {
+          "targetLang": "navn",
+          "homeLang": "name"
+        }
+      ],
+      "translationShort": "surname",
+      "translationLong": "surname, last name, family name",
+      "exampleSentence": "Hva er etternavnet ditt?",
+      "exampleTranslation": "What is your last name?"
+    },
+    {
+      "id": "fargerik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "farge",
+          "homeLang": "color"
+        },
+        {
+          "targetLang": "rik",
+          "homeLang": "rich",
+          "homeLangDetails": "Related to English 'rich' — in Norwegian compounds, -rik works like '-rich' or '-ful', meaning 'full of' or 'abounding in' something. Think of 'colorful' as the closest English parallel."
+        }
+      ],
+      "translationShort": "colorful",
+      "translationLong": "colorful, rich in color",
+      "exampleSentence": "Maleriet er veldig fargerikt og livlig.",
+      "exampleTranslation": "The painting is very colorful and lively."
+    },
+    {
+      "id": "fargeblind",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "farge",
+          "homeLang": "color"
+        },
+        {
+          "targetLang": "blind",
+          "homeLang": "blind"
+        }
+      ],
+      "translationShort": "color blind",
+      "translationLong": "color blind, unable to distinguish colors",
+      "exampleSentence": "Broren min er fargeblind og kan ikke skille rødt fra grønt.",
+      "exampleTranslation": "My brother is color blind and cannot distinguish red from green."
+    },
+    {
+      "id": "fjelltop",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fjell",
+          "homeLang": "mountain"
+        },
+        {
+          "targetLang": "top",
+          "homeLang": "top, peak"
+        }
+      ],
+      "translationShort": "mountain top",
+      "translationLong": "mountain peak, summit",
+      "exampleSentence": "Vi nådde fjelltopen etter tre timers vandring.",
+      "exampleTranslation": "We reached the mountain top after three hours of hiking."
+    },
+    {
+      "id": "fjernkontroll",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fjern",
+          "homeLang": "remote, distant"
+        },
+        {
+          "targetLang": "kontroll",
+          "homeLang": "control"
+        }
+      ],
+      "translationShort": "remote control",
+      "translationLong": "",
+      "exampleSentence": "Har du sett fjernkontrollen til TV-en?",
+      "exampleTranslation": "Have you seen the TV remote control?"
+    },
+    {
+      "id": "flyktning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "flykt",
+          "homeLang": "flight, escape",
+          "homeLangDetails": "From the verb flykte (to flee, to escape). This root captures the act of fleeing — the same idea as in English 'flight' when used to mean running away."
+        },
+        {
+          "targetLang": "ning",
+          "homeLang": "(person who)",
+          "homeLangDetails": "A suffix that forms nouns, often denoting a person characterized by an action or state. Here it turns 'fleeing' into 'one who flees.'"
+        }
+      ],
+      "translationShort": "refugee, fugitive",
+      "translationLong": "refugee, fugitive, displaced person",
+      "exampleSentence": "Mange flyktninger kom til landet etter krigen.",
+      "exampleTranslation": "Many refugees came to the country after the war."
+    },
+    {
+      "id": "folkemusikk",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "folke",
+          "homeLang": "folk, people"
+        },
+        {
+          "targetLang": "musikk",
+          "homeLang": "music"
+        }
+      ],
+      "translationShort": "folk music",
+      "translationLong": "",
+      "exampleSentence": "Bestemoren min elsker norsk folkemusikk.",
+      "exampleTranslation": "My grandmother loves Norwegian folk music."
+    },
+    {
+      "id": "fornavn",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "for",
+          "homeLang": "fore-, first",
+          "homeLangDetails": "As a prefix in compounds, for- here means 'before' or 'first' — so fornavn is literally the name that comes before (your family name). Compare forord (foreword) or forside (front page)."
+        },
+        {
+          "targetLang": "navn",
+          "homeLang": "name"
+        }
+      ],
+      "translationShort": "first name",
+      "translationLong": "given name, first name",
+      "exampleSentence": "Hva er fornavnet ditt?",
+      "exampleTranslation": "What is your first name?"
+    },
+    {
+      "id": "forståelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "for",
+          "homeLang": "(completive)",
+          "homeLangDetails": "Here for- intensifies or completes the action of the verb — forstå means 'to understand,' a sense that goes beyond the root stå (to stand) alone. Think of it as 'standing something through fully.'"
+        },
+        {
+          "targetLang": "stå",
+          "homeLang": "stand"
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A suffix that forms abstract nouns from verbs, similar to English -ance or -ing. Forstå (to understand) → forståelse (understanding)."
+        }
+      ],
+      "translationShort": "understanding",
+      "translationLong": "understanding, comprehension",
+      "exampleSentence": "Det krever god forståelse av grammatikk.",
+      "exampleTranslation": "It requires a good understanding of grammar."
+    },
+    {
+      "id": "forvirring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "for",
+          "homeLang": "(astray)",
+          "homeLangDetails": "Here for- gives the sense of going wrong or being led off course — forvirre means to confuse or to muddle. Compare German ver- in verwirren, which works the same way."
+        },
+        {
+          "targetLang": "virr",
+          "homeLang": "whirl, tangle",
+          "homeLangDetails": "From the verb virre, meaning to whirl or to tangle. The image is of something spinning out of order — giving forvirre its sense of mental muddle."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "Turns the verb forvirre (to confuse) into an abstract noun, just like English -ing in 'confusing' or -tion in 'confusion.'"
+        }
+      ],
+      "translationShort": "confusion",
+      "translationLong": "confusion, bewilderment, disorientation",
+      "exampleSentence": "Det var stor forvirring etter kunngjøringen.",
+      "exampleTranslation": "There was great confusion after the announcement."
+    },
+    {
+      "id": "fotballspiller",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fot",
+          "homeLang": "foot"
+        },
+        {
+          "targetLang": "ball",
+          "homeLang": "ball"
+        },
+        {
+          "targetLang": "spill",
+          "homeLang": "play, game"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er (person)"
+        }
+      ],
+      "translationShort": "football player",
+      "translationLong": "soccer player, football player",
+      "exampleSentence": "Han drømmer om å bli en profesjonell fotballspiller.",
+      "exampleTranslation": "He dreams of becoming a professional football player.",
+      "flag": "4 parts — included all to show full compound structure"
+    },
+    {
+      "id": "fredelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fred",
+          "homeLang": "peace"
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "The suffix -elig (sometimes -lig) forms adjectives meaning 'having the quality of.' Here it turns fred (peace) into fredelig (peaceful) — much like English -ful in 'peaceful' or -ly in 'peacefully.'"
+        }
+      ],
+      "translationShort": "peaceful",
+      "translationLong": "peaceful, tranquil, serene",
+      "exampleSentence": "Det var en fredelig søndag morgen på landet.",
+      "exampleTranslation": "It was a peaceful Sunday morning in the countryside."
+    },
+    {
+      "id": "friluftsliv",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "fri",
+          "homeLang": "free, open"
+        },
+        {
+          "targetLang": "luft",
+          "homeLang": "air"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element inserted between compound parts for ease of pronunciation and to signal the join. It carries no independent meaning."
+        },
+        {
+          "targetLang": "liv",
+          "homeLang": "life"
+        }
+      ],
+      "translationShort": "outdoor life",
+      "translationLong": "outdoor life, open-air living, connection with nature",
+      "exampleSentence": "Friluftsliv er en viktig del av norsk kultur.",
+      "exampleTranslation": "Outdoor life is an important part of Norwegian culture.",
+      "flag": "4 parts — included all to show full compound structure"
+    },
+    {
+      "id": "frivillig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fri",
+          "homeLang": "free"
+        },
+        {
+          "targetLang": "villig",
+          "homeLang": "willing",
+          "homeLangDetails": "From vilje (will, volition) with the adjectival suffix -ig. So frivillig literally means 'free-willing' — doing something of one's own will, without compulsion."
+        }
+      ],
+      "translationShort": "voluntary, volunteer",
+      "translationLong": "voluntary, willing, volunteer (as noun)",
+      "exampleSentence": "Det er helt frivillig å delta i undersøkelsen.",
+      "exampleTranslation": "Participating in the survey is completely voluntary."
+    },
+    {
+      "id": "fruktbar",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "frukt",
+          "homeLang": "fruit"
+        },
+        {
+          "targetLang": "bar",
+          "homeLang": "-able, -ful",
+          "homeLangDetails": "The suffix -bar forms adjectives meaning 'capable of' or 'bearing' something — similar to English -able or -ful. So fruktbar means literally 'fruit-bearing,' hence fertile or fruitful."
+        }
+      ],
+      "translationShort": "fertile, fruitful",
+      "translationLong": "fertile, fruitful, productive",
+      "exampleSentence": "Dalen er kjent for sin fruktbare jord.",
+      "exampleTranslation": "The valley is known for its fertile soil."
+    },
+    {
+      "id": "fullstendig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "full",
+          "homeLang": "full, complete"
+        },
+        {
+          "targetLang": "stendig",
+          "homeLang": "standing",
+          "homeLangDetails": "From stende/stående (standing), related to stå (to stand). The combination full + stendig gives the sense of something standing fully — complete in every part. Compare English 'outstanding' or 'upstanding' where standing is used similarly in figurative compounds."
+        }
+      ],
+      "translationShort": "complete, total",
+      "translationLong": "complete, total, entire, thorough",
+      "exampleSentence": "Han ga en fullstendig forklaring på hva som hadde skjedd.",
+      "exampleTranslation": "He gave a complete explanation of what had happened."
+    },
+    {
+      "id": "gjennomsiktig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "gjennom",
+          "homeLang": "through"
+        },
+        {
+          "targetLang": "sikt",
+          "homeLang": "sight, visibility",
+          "homeLangDetails": "From sikte (to aim, to see through) or sikt (visibility). The core idea is sight or the ability to see. Compare English 'sight' in 'see-through' — which is essentially what gjennomsiktig means."
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "(adjective suffix)",
+          "homeLangDetails": "A common Norwegian/Germanic suffix that turns nouns or roots into adjectives, similar to English -y or -ous. Here it turns gjennomsikte into the adjective gjennomsiktig (transparent)."
+        }
+      ],
+      "translationShort": "transparent",
+      "translationLong": "transparent, see-through, clear",
+      "exampleSentence": "Glasset er helt gjennomsiktig.",
+      "exampleTranslation": "The glass is completely transparent."
+    },
+    {
+      "id": "gjentakelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "gjen",
+          "homeLang": "again, re-",
+          "homeLangDetails": "A prefix meaning 'again' or 'back.' It is the Norse equivalent of English re- or German wieder-. You see it in gjenta (to repeat), gjenoppbygge (to rebuild), and gjensyn (reunion)."
+        },
+        {
+          "targetLang": "tak",
+          "homeLang": "take",
+          "homeLangDetails": "From ta (to take). The root tak here captures the action of taking — so gjenta is literally 'to take again,' and by extension to repeat."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(noun suffix)",
+          "homeLangDetails": "A suffix that forms abstract nouns from verbs. Gjenta (to repeat) → gjentakelse (repetition) — similar to how English adds -tion to form 'repetition.'"
+        }
+      ],
+      "translationShort": "repetition",
+      "translationLong": "repetition, recurrence",
+      "exampleSentence": "Gjentakelse er nøkkelen til å lære et nytt språk.",
+      "exampleTranslation": "Repetition is the key to learning a new language."
+    },
+    {
+      "id": "gladelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "glad",
+          "homeLang": "glad, happy"
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "A Norwegian adverbial/adjectival suffix similar to English -ly or -like. It softens or generalizes the base word, giving 'gladelig' the sense of 'willingly' or 'with pleasure' rather than just 'happy.'"
+        }
+      ],
+      "translationShort": "gladly, willingly",
+      "translationLong": "gladly, willingly, with pleasure",
+      "exampleSentence": "Jeg hjelper deg gladelig med det.",
+      "exampleTranslation": "I will gladly help you with that."
+    },
+    {
+      "id": "grunnleggende",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "grunn",
+          "homeLang": "ground, base"
+        },
+        {
+          "targetLang": "legg",
+          "homeLang": "lay"
+        },
+        {
+          "targetLang": "ende",
+          "homeLang": "(present participle)",
+          "homeLangDetails": "The Norwegian present participle ending -ende, equivalent to English -ing. Together with grunn + legg, it gives 'grundleggende' the sense of 'ground-laying' — that which lays the foundation."
+        }
+      ],
+      "translationShort": "fundamental, basic",
+      "translationLong": "fundamental, basic, foundational",
+      "exampleSentence": "Dette er en grunnleggende ferdighet for alle studenter.",
+      "exampleTranslation": "This is a fundamental skill for all students."
+    },
+    {
+      "id": "halvtime",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "halv",
+          "homeLang": "half"
+        },
+        {
+          "targetLang": "time",
+          "homeLang": "hour"
+        }
+      ],
+      "translationShort": "half hour",
+      "translationLong": "half an hour, thirty minutes",
+      "exampleSentence": "Vi venter en halvtime på bussen.",
+      "exampleTranslation": "We wait half an hour for the bus."
+    },
+    {
+      "id": "handlekurv",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "handle",
+          "homeLang": "shop, deal"
+        },
+        {
+          "targetLang": "kurv",
+          "homeLang": "basket"
+        }
+      ],
+      "translationShort": "shopping basket",
+      "translationLong": "shopping basket, grocery basket",
+      "exampleSentence": "Hun la varene i handlekurven.",
+      "exampleTranslation": "She put the items in the shopping basket."
+    },
+    {
+      "id": "hjemsted",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "hjem",
+          "homeLang": "home"
+        },
+        {
+          "targetLang": "sted",
+          "homeLang": "place"
+        }
+      ],
+      "translationShort": "hometown, domicile",
+      "translationLong": "hometown, place of residence, domicile",
+      "exampleSentence": "Hva er ditt hjemsted?",
+      "exampleTranslation": "What is your place of residence?"
+    },
+    {
+      "id": "høyttaler",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "høyt",
+          "homeLang": "loudly, high"
+        },
+        {
+          "targetLang": "tal",
+          "homeLang": "speak"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er (device)",
+          "homeLangDetails": "The suffix -er here forms a noun referring to a device or thing that performs an action — 'something that speaks loudly.' This mirrors the English pattern where -er can mean a machine or tool (like a 'speaker')."
+        }
+      ],
+      "translationShort": "loudspeaker, speaker",
+      "translationLong": "loudspeaker, speaker, public address system",
+      "exampleSentence": "Musikken kom fra en stor høyttaler i hjørnet.",
+      "exampleTranslation": "The music came from a large speaker in the corner."
+    },
+    {
+      "id": "huseier",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "hus",
+          "homeLang": "house"
+        },
+        {
+          "targetLang": "eier",
+          "homeLang": "owner"
+        }
+      ],
+      "translationShort": "homeowner",
+      "translationLong": "homeowner, house owner, property owner",
+      "exampleSentence": "Huseieren er ansvarlig for vedlikeholdet av bygningen.",
+      "exampleTranslation": "The homeowner is responsible for the maintenance of the building."
+    },
+    {
+      "id": "håndarbeid",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "hånd",
+          "homeLang": "hand"
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work, labor"
+        }
+      ],
+      "translationShort": "needlework, handwork",
+      "translationLong": "needlework, handcraft, manual work",
+      "exampleSentence": "Hun liker å drive med håndarbeid på kveldene.",
+      "exampleTranslation": "She enjoys doing needlework in the evenings."
+    },
+    {
+      "id": "håndverk",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "hånd",
+          "homeLang": "hand"
+        },
+        {
+          "targetLang": "verk",
+          "homeLang": "work, craft"
+        }
+      ],
+      "translationShort": "craft, trade",
+      "translationLong": "craft, trade, handicraft, skilled work",
+      "exampleSentence": "Snekkeri er et tradisjonelt håndverk.",
+      "exampleTranslation": "Carpentry is a traditional craft."
+    },
+    {
+      "id": "inntekt",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "inn",
+          "homeLang": "in"
+        },
+        {
+          "targetLang": "tekt",
+          "homeLang": "take, received",
+          "homeLangDetails": "From the verb 'ta' (to take) in an older or nominal form. 'Inntekt' literally means 'what is taken in' — the income or revenue received. The root is related to 'ta inn' (to take in)."
+        }
+      ],
+      "translationShort": "income, earnings",
+      "translationLong": "income, earnings, revenue",
+      "exampleSentence": "Han har en stabil inntekt fra jobben sin.",
+      "exampleTranslation": "He has a stable income from his job."
+    },
+    {
+      "id": "jernbane",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "jern",
+          "homeLang": "iron"
+        },
+        {
+          "targetLang": "bane",
+          "homeLang": "track, path"
+        }
+      ],
+      "translationShort": "railway, railroad",
+      "translationLong": "railway, railroad, rail line",
+      "exampleSentence": "Jernbanen forbinder de to byene.",
+      "exampleTranslation": "The railway connects the two cities."
+    },
+    {
+      "id": "jordbruk",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "jord",
+          "homeLang": "earth, soil"
+        },
+        {
+          "targetLang": "bruk",
+          "homeLang": "use, working"
+        }
+      ],
+      "translationShort": "agriculture, farming",
+      "translationLong": "agriculture, farming, husbandry",
+      "exampleSentence": "Jordbruk har vært viktig for Norge i mange hundre år.",
+      "exampleTranslation": "Agriculture has been important to Norway for many hundreds of years."
+    },
+    {
+      "id": "kjærlighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "kjær",
+          "homeLang": "dear, beloved"
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly/-like"
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness",
+          "homeLangDetails": "The Norwegian suffix -het is equivalent to English -ness or -hood, turning an adjective into an abstract noun. So kjær + lig + het = 'dear-like-ness' — the quality or state of loving."
+        }
+      ],
+      "translationShort": "love",
+      "translationLong": "love, affection",
+      "exampleSentence": "Kjærlighet mellom mennesker er noe universelt.",
+      "exampleTranslation": "Love between people is something universal."
+    },
+    {
+      "id": "kjøpesenter",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "kjøpe",
+          "homeLang": "buy, shop"
+        },
+        {
+          "targetLang": "senter",
+          "homeLang": "center"
+        }
+      ],
+      "translationShort": "shopping center, mall",
+      "translationLong": "shopping center, shopping mall",
+      "exampleSentence": "Vi møttes utenfor kjøpesenteret klokken tre.",
+      "exampleTranslation": "We met outside the shopping center at three o'clock."
+    },
+    {
+      "id": "klimaforandring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "klima",
+          "homeLang": "climate"
+        },
+        {
+          "targetLang": "forandring",
+          "homeLang": "change",
+          "homeLangDetails": "Itself a compound: for- (a prefix intensifying or directing the action) + and (related to 'annen', other/different) + ring (a nominalizing suffix forming a noun from the verb). 'Forandring' means a change or alteration — something made different."
+        }
+      ],
+      "translationShort": "climate change",
+      "translationLong": "climate change, climate alteration",
+      "exampleSentence": "Klimaforandring er en av de største utfordringene i vår tid.",
+      "exampleTranslation": "Climate change is one of the greatest challenges of our time."
+    },
+    {
+      "id": "kursendring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "kurs",
+          "homeLang": "course"
+        },
+        {
+          "targetLang": "endring",
+          "homeLang": "change"
+        }
+      ],
+      "translationShort": "change of course",
+      "translationLong": "course change, change of direction",
+      "exampleSentence": "Regjeringen annonserte en drastisk kursendring i klimapolitikken.",
+      "exampleTranslation": "The government announced a drastic change of course in climate policy."
+    },
+    {
+      "id": "langsom",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lang",
+          "homeLang": "long"
+        },
+        {
+          "targetLang": "som",
+          "homeLang": "-like/-ly",
+          "homeLangDetails": "A suffix that forms adjectives, roughly equivalent to English '-some' or '-like'. It often carries a sense of having a certain quality. Related to English '-some' as in 'handsome' or 'tiresome'."
+        }
+      ],
+      "translationShort": "slow",
+      "translationLong": "slow, gradual",
+      "exampleSentence": "Skilpadden er et langsomt dyr.",
+      "exampleTranslation": "The turtle is a slow animal."
+    },
+    {
+      "id": "lederskap",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "leder",
+          "homeLang": "leader"
+        },
+        {
+          "targetLang": "skap",
+          "homeLang": "-ship"
+        }
+      ],
+      "translationShort": "leadership",
+      "translationLong": "leadership, management",
+      "exampleSentence": "Godt lederskap er avgjørende for et vellykket team.",
+      "exampleTranslation": "Good leadership is essential for a successful team."
+    },
+    {
+      "id": "livsstil",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "livs",
+          "homeLang": "life's"
+        },
+        {
+          "targetLang": "stil",
+          "homeLang": "style"
+        }
+      ],
+      "translationShort": "lifestyle",
+      "translationLong": "lifestyle, way of life",
+      "exampleSentence": "Han har en sunn livsstil med mye trening og god mat.",
+      "exampleTranslation": "He has a healthy lifestyle with lots of exercise and good food."
+    },
+    {
+      "id": "luftforurensning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "luft",
+          "homeLang": "air"
+        },
+        {
+          "targetLang": "forurensning",
+          "homeLang": "pollution",
+          "homeLangDetails": "From 'forurense' (to pollute, to contaminate), itself built from the prefix 'for-' (indicating spoiling or worsening) + 'urense' (to make unclean), plus the noun suffix '-ning'. So literally something like 'a making-foul'. The '-ning' ending works like English '-ing' or '-tion' to turn a verb into a noun."
+        }
+      ],
+      "translationShort": "air pollution",
+      "translationLong": "air pollution, air contamination",
+      "exampleSentence": "Luftforurensning er et stort problem i mange storbyer.",
+      "exampleTranslation": "Air pollution is a major problem in many large cities."
+    },
+    {
+      "id": "lydighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "lydig",
+          "homeLang": "obedient"
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "obedience",
+      "translationLong": "obedience, compliance",
+      "exampleSentence": "Hunden viste stor lydighet under treningen.",
+      "exampleTranslation": "The dog showed great obedience during training."
+    },
+    {
+      "id": "lysegrønn",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lyse",
+          "homeLang": "light",
+          "homeLangDetails": "From 'lys' (light, bright), used here as a prefix to modify a color, just like English 'light' in 'light green'. It softens or lightens the color."
+        },
+        {
+          "targetLang": "grønn",
+          "homeLang": "green"
+        }
+      ],
+      "translationShort": "light green",
+      "translationLong": "",
+      "exampleSentence": "Hun hadde på seg en lysegrønn kjole til festen.",
+      "exampleTranslation": "She wore a light green dress to the party."
+    },
+    {
+      "id": "matbutikk",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mat",
+          "homeLang": "food"
+        },
+        {
+          "targetLang": "butikk",
+          "homeLang": "shop/store"
+        }
+      ],
+      "translationShort": "grocery store",
+      "translationLong": "grocery store, food shop",
+      "exampleSentence": "Jeg må innom matbutikken på vei hjem.",
+      "exampleTranslation": "I need to stop by the grocery store on the way home."
+    },
+    {
+      "id": "meningsfull",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "menings",
+          "homeLang": "meaning's"
+        },
+        {
+          "targetLang": "full",
+          "homeLang": "full",
+          "homeLangDetails": "Used as a suffix here, equivalent to English '-ful' as in 'meaningful'. It means 'full of' the quality named by the preceding part."
+        }
+      ],
+      "translationShort": "meaningful",
+      "translationLong": "meaningful, purposeful",
+      "exampleSentence": "Han ønsker å leve et meningsfullt liv.",
+      "exampleTranslation": "He wants to live a meaningful life."
+    },
+    {
+      "id": "menneskelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "menneske",
+          "homeLang": "human/person"
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly/-like"
+        }
+      ],
+      "translationShort": "human",
+      "translationLong": "human, humane, humanly",
+      "exampleSentence": "Det er menneskelig å gjøre feil.",
+      "exampleTranslation": "It is human to make mistakes."
+    },
+    {
+      "id": "midtpunkt",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "midt",
+          "homeLang": "mid/middle"
+        },
+        {
+          "targetLang": "punkt",
+          "homeLang": "point"
+        }
+      ],
+      "translationShort": "center point",
+      "translationLong": "center, midpoint, focal point",
+      "exampleSentence": "Byen er midtpunktet i regionen.",
+      "exampleTranslation": "The city is the center point of the region."
+    },
+    {
+      "id": "miljøvennlig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "miljø",
+          "homeLang": "environment"
+        },
+        {
+          "targetLang": "vennlig",
+          "homeLang": "friendly"
+        }
+      ],
+      "translationShort": "environmentally friendly",
+      "translationLong": "eco-friendly, environmentally friendly",
+      "exampleSentence": "Vi prøver å kjøpe miljøvennlige produkter.",
+      "exampleTranslation": "We try to buy environmentally friendly products."
+    },
+    {
+      "id": "mørketid",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mørke",
+          "homeLang": "darkness"
+        },
+        {
+          "targetLang": "tid",
+          "homeLang": "time"
+        }
+      ],
+      "translationShort": "polar night season",
+      "translationLong": "dark season, polar night period, time of darkness",
+      "exampleSentence": "I Nord-Norge varer mørketiden i flere måneder.",
+      "exampleTranslation": "In northern Norway, the dark season lasts for several months."
+    },
+    {
+      "id": "nattevakt",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "natte",
+          "homeLang": "night's",
+          "homeLangDetails": "A genitive-inflected form of 'natt' (night), used in compounds to indicate the night belongs to or is associated with the following word. The '-e' ending is a linking form, similar to how English once used possessive '-s' in compounds like 'nightwatch'."
+        },
+        {
+          "targetLang": "vakt",
+          "homeLang": "guard/watch"
+        }
+      ],
+      "translationShort": "night shift, night watch",
+      "translationLong": "night shift, night guard, night watch",
+      "exampleSentence": "Sykepleieren jobber nattevakt hver helg.",
+      "exampleTranslation": "The nurse works the night shift every weekend."
+    },
+    {
+      "id": "nattklubb",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "natt",
+          "homeLang": "night"
+        },
+        {
+          "targetLang": "klubb",
+          "homeLang": "club"
+        }
+      ],
+      "translationShort": "nightclub",
+      "translationLong": "",
+      "exampleSentence": "De gikk på nattklubb for å feire bursdagen.",
+      "exampleTranslation": "They went to a nightclub to celebrate the birthday."
+    },
+    {
+      "id": "naturvern",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "natur",
+          "homeLang": "nature"
+        },
+        {
+          "targetLang": "vern",
+          "homeLang": "protection"
+        }
+      ],
+      "translationShort": "nature conservation",
+      "translationLong": "nature conservation, environmental protection",
+      "exampleSentence": "Naturvern er viktig for fremtidige generasjoner.",
+      "exampleTranslation": "Nature conservation is important for future generations."
+    },
+    {
+      "id": "norsktalende",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "norsk",
+          "homeLang": "Norwegian"
+        },
+        {
+          "targetLang": "tal",
+          "homeLang": "speak",
+          "homeLangDetails": "From tale (to speak, to talk). The same root appears in fortale (preface), taler (speaker), and samtale (conversation)."
+        },
+        {
+          "targetLang": "ende",
+          "homeLang": "(present participle)",
+          "homeLangDetails": "The -ende ending forms present participles in Norwegian, equivalent to English '-ing' when used as an adjective. So norsktalende means 'Norwegian-speaking'."
+        }
+      ],
+      "translationShort": "Norwegian-speaking",
+      "translationLong": "",
+      "exampleSentence": "Hun er norsktalende og jobber som tolk.",
+      "exampleTranslation": "She is Norwegian-speaking and works as an interpreter."
+    },
+    {
+      "id": "nytenkende",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ny",
+          "homeLang": "new"
+        },
+        {
+          "targetLang": "tenk",
+          "homeLang": "think",
+          "homeLangDetails": "From tenke (to think). Related to tank (thought) and ettertenksom (thoughtful/reflective)."
+        },
+        {
+          "targetLang": "ende",
+          "homeLang": "(present participle)",
+          "homeLangDetails": "The -ende ending forms present participles in Norwegian, equivalent to English '-ing' when used as an adjective. Nytenkende literally means 'new-thinking' — innovative or forward-thinking."
+        }
+      ],
+      "translationShort": "innovative, forward-thinking",
+      "translationLong": "innovative, forward-thinking, open to new ideas",
+      "exampleSentence": "Vi trenger nytenkende ledere i denne bransjen.",
+      "exampleTranslation": "We need innovative leaders in this industry."
+    },
+    {
+      "id": "opplæring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "lær",
+          "homeLang": "learn/teach",
+          "homeLangDetails": "From lære, which covers both 'to learn' and 'to teach' — similar to German lehren/lernen but combined into one word. Context usually clarifies direction."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "training, instruction",
+      "translationLong": "training, instruction, education, onboarding",
+      "exampleSentence": "Alle nye ansatte får grundig opplæring i systemet.",
+      "exampleTranslation": "All new employees receive thorough training in the system."
+    },
+    {
+      "id": "oppmerksomhet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "merk",
+          "homeLang": "notice/mark",
+          "homeLangDetails": "From merke (to notice, to mark, to observe). Related to merkelig (remarkable, strange) and merkelapp (label/tag). In this compound it carries the sense of noticing or attending to something."
+        },
+        {
+          "targetLang": "som",
+          "homeLang": "-ful/-some",
+          "homeLangDetails": "An adjectival suffix meaning 'characterized by', comparable to English '-some' or '-ful'. Oppmerksomhet builds on oppmerksom (attentive), which itself uses this suffix."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "attention",
+      "translationLong": "attention, attentiveness, awareness",
+      "exampleSentence": "Barnet trengte mye oppmerksomhet fra læreren.",
+      "exampleTranslation": "The child needed a lot of attention from the teacher."
+    },
+    {
+      "id": "opprinnelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "rinn",
+          "homeLang": "run/flow",
+          "homeLangDetails": "From renne (to run, to flow). Opprinnelse means 'origin' — literally the place where something wells up or springs from. The same root appears in bekk (brook) and rinnende (flowing)."
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-al/-ary",
+          "homeLangDetails": "A compound adjectival suffix (-e + -lig) meaning 'of the nature of' or 'relating to', comparable to English '-al' or '-ary'. Turns the noun opprinnelse (origin) into an adjective."
+        }
+      ],
+      "translationShort": "original, initial",
+      "translationLong": "original, initial, primary, aboriginal",
+      "exampleSentence": "Den opprinnelige planen ble endret underveis.",
+      "exampleTranslation": "The original plan was changed along the way."
+    },
+    {
+      "id": "ordforråd",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "ord",
+          "homeLang": "word"
+        },
+        {
+          "targetLang": "forråd",
+          "homeLang": "supply/stock",
+          "homeLangDetails": "From forråd (supply, store, reserve) — itself for- (for/ahead) + råd (provision, means). Forråd is used for stocks of goods, supplies, or reserves. An ordforråd is literally a 'word stock' — the collection of words at one's disposal."
+        }
+      ],
+      "translationShort": "vocabulary",
+      "translationLong": "vocabulary, word stock, lexicon",
+      "exampleSentence": "Hun har et imponerende ordforråd på tre språk.",
+      "exampleTranslation": "She has an impressive vocabulary in three languages."
+    },
+    {
+      "id": "overarbeide",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-"
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(infinitive)"
+        }
+      ],
+      "translationShort": "to overwork; to revise",
+      "translationLong": "to overwork (someone); to revise or rework (a text or plan)",
+      "exampleSentence": "Sjefen pleier å overarbeide de ansatte i høysesongen.",
+      "exampleTranslation": "The boss tends to overwork the employees during peak season."
+    },
+    {
+      "id": "overbevisning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-",
+          "homeLangDetails": "Here over- functions similarly to the Latin con- in 'convince' — it conveys thoroughness or completeness, the sense of winning someone over entirely. It's not so much 'above' as 'completely through'."
+        },
+        {
+          "targetLang": "bevis",
+          "homeLang": "proof/evidence",
+          "homeLangDetails": "From bevis (proof, evidence), related to bevise (to prove). The verb overbevise means 'to convince' — literally to overwhelm with proof."
+        },
+        {
+          "targetLang": "ning",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "conviction, belief",
+      "translationLong": "conviction, firm belief, persuasion",
+      "exampleSentence": "Han handlet ut fra dyp personlig overbevisning.",
+      "exampleTranslation": "He acted out of deep personal conviction."
+    },
+    {
+      "id": "overskudd",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over-/surplus"
+        },
+        {
+          "targetLang": "skudd",
+          "homeLang": "shot/push",
+          "homeLangDetails": "From skyte (to shoot, to push forward). Skudd literally means a shot or a thrust — so overskudd is something that has been pushed over the line, i.e., an excess or surplus. The same root appears in skudd (gunshot) and fremskutt (advanced, pushed forward)."
+        }
+      ],
+      "translationShort": "surplus, excess energy",
+      "translationLong": "surplus, profit, excess; also used for personal energy or vitality",
+      "exampleSentence": "Bedriften gikk med overskudd for første gang på tre år.",
+      "exampleTranslation": "The company made a profit for the first time in three years."
+    },
+    {
+      "id": "pedagogisk",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pedagogisk",
+          "homeLang": "pedagogical"
+        }
+      ],
+      "translationShort": "pedagogical, educational",
+      "translationLong": "pedagogical, educational, relating to teaching",
+      "flag": "only 1 part — borrowed international word with no productive Norwegian morpheme split",
+      "exampleSentence": "Hun har en god pedagogisk tilnærming til vanskelige temaer.",
+      "exampleTranslation": "She has a good pedagogical approach to difficult topics."
+    },
+    {
+      "id": "regjeringsleder",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "regjering",
+          "homeLang": "government",
+          "homeLangDetails": "From regjere (to govern, to rule) + -ing. Regjere is borrowed from Low German or Dutch regeren, ultimately from Latin regere (to rule). The regjering is specifically the cabinet-level executive government."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element (binding -s-) inserted between the two parts of this compound for ease of pronunciation. It carries no independent meaning."
+        },
+        {
+          "targetLang": "leder",
+          "homeLang": "leader"
+        }
+      ],
+      "translationShort": "head of government",
+      "translationLong": "head of government, prime minister (generic)",
+      "exampleSentence": "Regjeringslederen holdt en pressekonferanse om den nye loven.",
+      "exampleTranslation": "The head of government held a press conference about the new law."
+    },
+    {
+      "id": "rengjøring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ren",
+          "homeLang": "clean"
+        },
+        {
+          "targetLang": "gjør",
+          "homeLang": "make/do",
+          "homeLangDetails": "From gjøre (to make, to do). Here it combines with ren (clean) to mean 'make clean'. The same root appears in gjøre (to do), gjørlig (feasible), and many other compounds."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "cleaning",
+      "translationLong": "cleaning, housecleaning",
+      "exampleSentence": "Rengjøringen av leiligheten tok hele dagen.",
+      "exampleTranslation": "Cleaning the apartment took all day."
+    },
+    {
+      "id": "rettferdighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "rett",
+          "homeLang": "right/just"
+        },
+        {
+          "targetLang": "ferdig",
+          "homeLang": "ready/done",
+          "homeLangDetails": "This might look like ferdig (ready, finished), but here it functions as a derivational element meaning something like 'made' or 'rendered'. Rettferdig means 'just' or 'righteous' — something rendered right or made right. It parallels German gerecht, but the Norwegian form is built differently."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness"
+        }
+      ],
+      "translationShort": "justice, fairness",
+      "translationLong": "justice, fairness, righteousness",
+      "exampleSentence": "Alle mennesker har rett til rettferdighet.",
+      "exampleTranslation": "All people have a right to justice."
+    },
+    {
+      "id": "rettskrivning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "rett",
+          "homeLang": "correct/right"
+        },
+        {
+          "targetLang": "skriv",
+          "homeLang": "write"
+        },
+        {
+          "targetLang": "ning",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "orthography, spelling",
+      "translationLong": "orthography, correct spelling, spelling conventions",
+      "exampleSentence": "Elevene øvde på rettskrivning i norsktimen.",
+      "exampleTranslation": "The students practiced spelling in the Norwegian class."
+    },
+    {
+      "id": "rimelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rim",
+          "homeLang": "rhyme/reason",
+          "homeLangDetails": "From Old Norse 'rím', meaning number, reckoning, or order. In modern Norwegian 'rimelig' means reasonable or fair — something that 'adds up' or makes sense. The connection to English 'rhyme' (as in 'rhyme or reason') is a real distant cousin."
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-able/-ible",
+          "homeLangDetails": "A Norwegian adjectival suffix equivalent to English -able or -ible, indicating that something has a certain quality or is suited to something."
+        }
+      ],
+      "translationShort": "reasonable, fair",
+      "translationLong": "reasonable, fair, affordable, moderate",
+      "exampleSentence": "Prisen på leiligheten var veldig rimelig.",
+      "exampleTranslation": "The price of the apartment was very reasonable."
+    },
+    {
+      "id": "samarbeid",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sam",
+          "homeLang": "together",
+          "homeLangDetails": "A common Norwegian prefix meaning 'together' or 'jointly', like English 'co-' or 'together'. You see it in words like 'samtale' (conversation, literally 'together-talk') and 'samfunn' (society, literally 'together-found')."
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work"
+        }
+      ],
+      "translationShort": "cooperation",
+      "translationLong": "cooperation, collaboration, teamwork",
+      "exampleSentence": "Godt samarbeid er viktig på arbeidsplassen.",
+      "exampleTranslation": "Good cooperation is important in the workplace."
+    },
+    {
+      "id": "samfunnsliv",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sam",
+          "homeLang": "together",
+          "homeLangDetails": "A common Norwegian prefix meaning 'together' or 'jointly'. Here it combines with 'funn' to form 'samfunn' (society)."
+        },
+        {
+          "targetLang": "funn",
+          "homeLang": "found/bound",
+          "homeLangDetails": "Related to the verb 'finne' (to find) and the idea of something established or bound together. 'Samfunn' as a whole means 'society' — a community of people bound together."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element (fugeform) inserted between compound parts. It carries no independent meaning."
+        },
+        {
+          "targetLang": "liv",
+          "homeLang": "life"
+        }
+      ],
+      "translationShort": "social life",
+      "translationLong": "social life, community life, civic life",
+      "exampleSentence": "Samfunnslivet i den lille byen var veldig aktivt.",
+      "exampleTranslation": "The social life in the small town was very active.",
+      "flag": "4 parts — samfunn is itself a compound (sam + funn)"
+    },
+    {
+      "id": "selvfølgelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "selv",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "følg",
+          "homeLang": "follow"
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-able/-ibly",
+          "homeLangDetails": "An adjectival/adverbial suffix. Here the whole word means 'self-following' — something that follows naturally from itself, i.e., obvious or of course."
+        }
+      ],
+      "translationShort": "of course, obviously",
+      "translationLong": "of course, obviously, naturally, certainly",
+      "exampleSentence": "Selvfølgelig kan du låne boken min!",
+      "exampleTranslation": "Of course you can borrow my book!"
+    },
+    {
+      "id": "selvtillit",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "selv",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "tillit",
+          "homeLang": "trust",
+          "homeLangDetails": "From 'til' (to) + 'lit' (relied upon), related to the verb 'lite på' (to trust/rely on). 'Tillit' means trust or confidence. So 'selvtillit' is literally 'trust in oneself'."
+        }
+      ],
+      "translationShort": "self-confidence",
+      "translationLong": "self-confidence, self-esteem, self-assurance",
+      "exampleSentence": "Hun har alltid hatt god selvtillit.",
+      "exampleTranslation": "She has always had good self-confidence."
+    },
+    {
+      "id": "sjøfart",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sjø",
+          "homeLang": "sea"
+        },
+        {
+          "targetLang": "fart",
+          "homeLang": "journey/speed",
+          "homeLangDetails": "In Norwegian, 'fart' means speed or travel — not the English slang. Here it has the older sense of 'voyage' or 'journey'. The same root appears in 'ferd' (journey) and the English word 'fare' (as in 'farewell' or 'wayfarer')."
+        }
+      ],
+      "translationShort": "seafaring, shipping",
+      "translationLong": "seafaring, shipping, maritime navigation",
+      "exampleSentence": "Norge har en lang tradisjon innen sjøfart.",
+      "exampleTranslation": "Norway has a long tradition in seafaring."
+    },
+    {
+      "id": "sjømann",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sjø",
+          "homeLang": "sea"
+        },
+        {
+          "targetLang": "mann",
+          "homeLang": "man"
+        }
+      ],
+      "translationShort": "sailor, seaman",
+      "translationLong": "sailor, seaman, mariner",
+      "exampleSentence": "Farfaren min var sjømann i mange år.",
+      "exampleTranslation": "My grandfather was a sailor for many years."
+    },
+    {
+      "id": "skattebetaler",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "skatt",
+          "homeLang": "tax/treasure",
+          "homeLangDetails": "Originally meant 'treasure' or 'wealth' (related to English 'scot' as in 'scot-free'). In modern Norwegian it primarily means 'tax', though the treasure sense survives in some uses."
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "-",
+          "homeLangDetails": "A linking vowel inserted between compound parts for ease of pronunciation. It carries no independent meaning."
+        },
+        {
+          "targetLang": "betal",
+          "homeLang": "pay"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er (one who)"
+        }
+      ],
+      "translationShort": "taxpayer",
+      "translationLong": "",
+      "exampleSentence": "Skattebetalerne finansierer offentlige tjenester.",
+      "exampleTranslation": "Taxpayers finance public services."
+    },
+    {
+      "id": "skjønnlitteratur",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "skjønn",
+          "homeLang": "beautiful/fine",
+          "homeLangDetails": "Means beautiful, fine, or aesthetically pleasing. Related to the verb 'skjønne' (to understand, to appreciate). In this compound it functions like the English 'fine' in 'fine arts' or 'belles' in 'belles-lettres'."
+        },
+        {
+          "targetLang": "litteratur",
+          "homeLang": "literature"
+        }
+      ],
+      "translationShort": "fiction, literary fiction",
+      "translationLong": "fiction, belles-lettres, literary writing (as opposed to non-fiction)",
+      "exampleSentence": "Hun foretrekker skjønnlitteratur fremfor sakprosa.",
+      "exampleTranslation": "She prefers fiction over non-fiction."
+    },
+    {
+      "id": "skolegang",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "skole",
+          "homeLang": "school"
+        },
+        {
+          "targetLang": "gang",
+          "homeLang": "going/walk",
+          "homeLangDetails": "From the verb 'gå' (to go/walk). 'Gang' in Norwegian can mean a walk, a time/instance, or a hallway. Here it conveys the ongoing act of attending school — the 'going to school'. The same root is in English 'gang' (originally a group going together) and 'gangway'."
+        }
+      ],
+      "translationShort": "schooling, school attendance",
+      "translationLong": "schooling, school attendance, education",
+      "exampleSentence": "Alle barn har rett til skolegang.",
+      "exampleTranslation": "All children have the right to schooling."
+    },
+    {
+      "id": "skogstur",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "skog",
+          "homeLang": "forest/woods"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element (fugeform) inserted between compound parts. It carries no independent meaning."
+        },
+        {
+          "targetLang": "tur",
+          "homeLang": "trip/walk",
+          "homeLangDetails": "Means a trip, outing, or walk. Borrowed from French 'tour' but fully integrated into Norwegian. A 'tur' is typically a leisure outing, often outdoors."
+        }
+      ],
+      "translationShort": "forest walk, hike in the woods",
+      "translationLong": "walk in the forest, forest outing, hike in the woods",
+      "exampleSentence": "Vi tok en lang skogstur om søndagen.",
+      "exampleTranslation": "We went on a long forest walk on Sunday."
+    },
+    {
+      "id": "solglass",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sol",
+          "homeLang": "sun"
+        },
+        {
+          "targetLang": "glass",
+          "homeLang": "glass"
+        }
+      ],
+      "translationShort": "sunglasses",
+      "translationLong": "sunglasses, a pair of sunglasses",
+      "exampleSentence": "Ikke glem solglasset ditt på stranden!",
+      "exampleTranslation": "Don't forget your sunglasses at the beach!"
+    },
+    {
+      "id": "sommerfugl",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sommer",
+          "homeLang": "summer"
+        },
+        {
+          "targetLang": "fugl",
+          "homeLang": "bird",
+          "homeLangDetails": "Means 'bird' in Norwegian (related to English 'fowl'). So 'sommerfugl' literally means 'summer bird', even though a butterfly is not a bird. Many European languages use similar folk-etymological names for butterflies — Dutch 'vlinder', German 'Schmetterling' — suggesting they were associated with the warmth and flight of summer creatures."
+        }
+      ],
+      "translationShort": "butterfly",
+      "translationLong": "",
+      "exampleSentence": "En fargerik sommerfugl landet på blomsten.",
+      "exampleTranslation": "A colorful butterfly landed on the flower."
+    },
+    {
+      "id": "soveromsvindu",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sove",
+          "homeLang": "sleep"
+        },
+        {
+          "targetLang": "rom",
+          "homeLang": "room"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A linking element (fugeform) inserted between compound parts for ease of pronunciation. It carries no independent meaning."
+        },
+        {
+          "targetLang": "vindu",
+          "homeLang": "window",
+          "homeLangDetails": "From Old Norse 'vindauga', literally 'wind eye' (vind = wind, auga = eye). The English word 'window' has the exact same origin, via Old Norse into Middle English."
+        }
+      ],
+      "translationShort": "bedroom window",
+      "translationLong": "",
+      "exampleSentence": "Lyset strømmet inn gjennom soveromsvinduet om morgenen.",
+      "exampleTranslation": "The light streamed in through the bedroom window in the morning."
+    },
+    {
+      "id": "spennende",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "spenn",
+          "homeLang": "span/tension",
+          "homeLangDetails": "From the verb 'spenne' (to span, to stretch, to buckle). It carries a sense of tension being stretched or held taut — like a bowstring. 'Spennende' captures that feeling of suspense or excitement, something that has you pulled tight with anticipation. Related to English 'span' and 'spin'."
+        },
+        {
+          "targetLang": "ende",
+          "homeLang": "(present participle)",
+          "homeLangDetails": "The Norwegian present participle suffix, equivalent to English '-ing'. Here it turns the verb 'spenne' into an adjective meaning 'exciting' or 'thrilling'."
+        }
+      ],
+      "translationShort": "exciting, thrilling",
+      "translationLong": "exciting, thrilling, interesting, suspenseful",
+      "exampleSentence": "Det var en veldig spennende film!",
+      "exampleTranslation": "It was a very exciting movie!"
+    },
+    {
+      "id": "statsborgere",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "stats",
+          "homeLang": "state's",
+          "homeLangDetails": "From 'stat' (state, nation). The -s here is a genitive/linking element connecting the two parts of the compound, meaning 'of the state.'"
+        },
+        {
+          "targetLang": "borg",
+          "homeLang": "castle/fortress",
+          "homeLangDetails": "From 'borg' (fortress, stronghold). The idea is that a citizen is someone who 'belongs to the fortress' — historically tied to those who lived within a fortified settlement."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-er",
+          "homeLangDetails": "A noun-forming suffix meaning 'one who belongs to' or 'inhabitant of.' Here it makes 'borger' — a citizen, literally 'one of the fortress.'"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(plural)",
+          "homeLangDetails": "The plural ending on the noun, giving 'statsborgere' — citizens (of the state)."
+        }
+      ],
+      "translationShort": "citizens",
+      "translationLong": "citizens, nationals",
+      "exampleSentence": "Alle statsborgere har rett til å stemme ved valg.",
+      "exampleTranslation": "All citizens have the right to vote in elections.",
+      "flag": "5 parts"
+    },
+    {
+      "id": "steinbruk",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "stein",
+          "homeLang": "stone"
+        },
+        {
+          "targetLang": "bruk",
+          "homeLang": "use/works",
+          "homeLangDetails": "From 'bruk' (use, operation, or works — as in a mill or industrial site). 'Steinbruk' is specifically a quarry — a place where stone is worked or extracted."
+        }
+      ],
+      "translationShort": "quarry",
+      "translationLong": "stone quarry",
+      "exampleSentence": "Arbeiderne jobbet hardt i steinbruddet.",
+      "exampleTranslation": "The workers worked hard in the quarry."
+    },
+    {
+      "id": "storslagen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "stor",
+          "homeLang": "great/big"
+        },
+        {
+          "targetLang": "slag",
+          "homeLang": "stroke/blow",
+          "homeLangDetails": "From 'slag' (stroke, blow, or kind/type). In 'storslagen' the sense is something like 'of great sweep' — struck on a grand scale. The same root appears in 'landslag' (national team) and 'slags' (kind of)."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(adjective ending)",
+          "homeLangDetails": "The definite or predicative adjective ending in Norwegian, here making the word an adjective meaning 'grand' or 'magnificent.'"
+        }
+      ],
+      "translationShort": "grand, magnificent",
+      "translationLong": "grand, magnificent, majestic, sweeping",
+      "exampleSentence": "Utsikten fra fjellet var virkelig storslagen.",
+      "exampleTranslation": "The view from the mountain was truly magnificent."
+    },
+    {
+      "id": "takknemlig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "takk",
+          "homeLang": "thanks"
+        },
+        {
+          "targetLang": "nem",
+          "homeLang": "take/receive",
+          "homeLangDetails": "From an older Germanic root related to 'taking' or 'receiving.' In 'takknemlig,' the idea is being receptive to thanks — or more naturally, being grateful. Compare German 'dankbar' (thankful) where a similar compound logic applies."
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "The Norwegian adjectival suffix '-lig,' equivalent to English '-ly' or '-like,' forming adjectives from nouns or stems. Here it turns the 'gratitude-receiving' compound into the adjective 'grateful.'"
+        }
+      ],
+      "translationShort": "grateful, thankful",
+      "translationLong": "grateful, thankful, appreciative",
+      "exampleSentence": "Jeg er veldig takknemlig for hjelpen din.",
+      "exampleTranslation": "I am very grateful for your help."
+    },
+    {
+      "id": "tilbakemelding",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "til",
+          "homeLang": "to/toward"
+        },
+        {
+          "targetLang": "bake",
+          "homeLang": "back",
+          "homeLangDetails": "Not the baked-goods word — this 'bake' means 'back' (as in backward direction). Together, 'tilbake' means 'back' or 'backward,' like 'tilbake til start' (back to the start)."
+        },
+        {
+          "targetLang": "meld",
+          "homeLang": "report/signal"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(noun ending)",
+          "homeLangDetails": "The Norwegian suffix '-ing' that forms nouns from verbs, similar to English '-ing' nominalizations. 'Melding' means a message or report."
+        }
+      ],
+      "translationShort": "feedback",
+      "translationLong": "feedback, response, reply",
+      "exampleSentence": "Kan du gi meg tilbakemelding på rapporten min?",
+      "exampleTranslation": "Can you give me feedback on my report?"
+    },
+    {
+      "id": "tilgjengelighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "til",
+          "homeLang": "to/toward"
+        },
+        {
+          "targetLang": "gjengelig",
+          "homeLang": "accessible/available",
+          "homeLangDetails": "From 'gjengelighet' rooted in 'gjenge' (to go, to pass), related to the idea of something being passable or reachable. 'Tilgjengelig' means accessible or available — something you can get to."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness",
+          "homeLangDetails": "The Norwegian suffix '-het' forms abstract nouns from adjectives, directly equivalent to English '-ness.' So 'tilgjengelig' (accessible) + '-het' = accessibility."
+        }
+      ],
+      "translationShort": "accessibility",
+      "translationLong": "accessibility, availability",
+      "exampleSentence": "Tilgjengeligheten til offentlige bygninger er viktig for alle.",
+      "exampleTranslation": "The accessibility of public buildings is important for everyone."
+    },
+    {
+      "id": "tilhørighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "til",
+          "homeLang": "to/toward"
+        },
+        {
+          "targetLang": "hør",
+          "homeLang": "hear/belong",
+          "homeLangDetails": "From 'høre' (to hear, but also to belong — as in 'høre til,' to belong to). The 'belonging' sense is central here, even though the root literally means 'hear.' Think of it like 'being attuned to' a place or group."
+        },
+        {
+          "targetLang": "ighet",
+          "homeLang": "-ness",
+          "homeLangDetails": "A contracted form of the suffix '-ighet' (from adjective '-ig' + noun-forming '-het'), creating an abstract noun. Together with 'tilhør-' it gives 'a sense of belonging.'"
+        }
+      ],
+      "translationShort": "sense of belonging",
+      "translationLong": "belonging, sense of belonging, affiliation",
+      "exampleSentence": "Mange unge søker en følelse av tilhørighet.",
+      "exampleTranslation": "Many young people seek a sense of belonging."
+    },
+    {
+      "id": "uavhengig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "un-",
+          "homeLangDetails": "The Norwegian negative prefix 'u-,' directly equivalent to English 'un-' or 'in-.' It negates the adjective that follows."
+        },
+        {
+          "targetLang": "av",
+          "homeLang": "off/from"
+        },
+        {
+          "targetLang": "heng",
+          "homeLang": "hang",
+          "homeLangDetails": "From 'henge' (to hang). 'Avhengig' means dependent — literally 'hanging off' something. So 'uavhengig' is 'not hanging off' anything — independent. Compare English 'independent' from Latin 'dependere' (to hang down from)."
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "The Norwegian adjectival suffix '-ig,' similar to English '-y' or '-like,' turning the verbal idea into an adjective."
+        }
+      ],
+      "translationShort": "independent",
+      "translationLong": "independent, self-reliant",
+      "exampleSentence": "Norge er et uavhengig land med sin egen grunnlov.",
+      "exampleTranslation": "Norway is an independent country with its own constitution."
+    },
+    {
+      "id": "uforbeholden",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "un-",
+          "homeLangDetails": "The Norwegian negative prefix 'u-,' equivalent to English 'un-.' It negates whatever follows, so 'uforbeholden' means 'without reservation.'"
+        },
+        {
+          "targetLang": "for",
+          "homeLang": "(completion)",
+          "homeLangDetails": "A prefix here suggesting something fully done or locked in — akin to German 'vor-' or English 'fore-.' 'Forbeholde' means to reserve or hold back something for a specific purpose."
+        },
+        {
+          "targetLang": "behold",
+          "homeLang": "hold/keep",
+          "homeLangDetails": "From 'beholde' (to keep, to retain). The sense of holding something in reserve is central to 'forbehold' (reservation, caveat)."
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(adjective ending)",
+          "homeLangDetails": "The definite/predicative adjective ending, making the whole word an adjective: 'unreserved.'"
+        }
+      ],
+      "translationShort": "unreserved, wholehearted",
+      "translationLong": "unreserved, unconditional, wholehearted, unqualified",
+      "exampleSentence": "Hun ga ham sin uforbeholdne støtte.",
+      "exampleTranslation": "She gave him her wholehearted support."
+    },
+    {
+      "id": "uhøflig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "un-",
+          "homeLangDetails": "The Norwegian negative prefix 'u-,' equivalent to English 'un-' or 'im-.' Here it negates 'høflig' (polite) to give 'impolite.'"
+        },
+        {
+          "targetLang": "høf",
+          "homeLang": "courtly/polite",
+          "homeLangDetails": "From 'hof' (court, as in a royal court). 'Høflig' originally meant 'courtly' — behaving as one would at court. The same root gives German 'höflich' (polite). Over time it simply came to mean polite or well-mannered."
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "The adjectival suffix '-lig,' equivalent to English '-ly' or '-like,' turning the noun 'hof' into the adjective 'høflig' (polite)."
+        }
+      ],
+      "translationShort": "impolite, rude",
+      "translationLong": "impolite, rude, discourteous",
+      "exampleSentence": "Det er uhøflig å avbryte noen midt i en setning.",
+      "exampleTranslation": "It is rude to interrupt someone in the middle of a sentence."
+    },
+    {
+      "id": "urettferdig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "un-",
+          "homeLangDetails": "The Norwegian negative prefix 'u-,' equivalent to English 'un-' or 'in-.' It negates 'rettferdig' (just, fair) to give 'unjust.'"
+        },
+        {
+          "targetLang": "rett",
+          "homeLang": "right/just"
+        },
+        {
+          "targetLang": "ferd",
+          "homeLang": "conduct/way",
+          "homeLangDetails": "From 'ferd' (conduct, journey, way of acting). 'Rettferd' means justice — literally the right way of conducting oneself. It also appears in 'rettferdighet' (justice, fairness)."
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "-ly/-like",
+          "homeLangDetails": "The adjectival suffix '-ig,' turning the noun 'rettferd' into the adjective 'rettferdig' (just, fair)."
+        }
+      ],
+      "translationShort": "unfair, unjust",
+      "translationLong": "unfair, unjust, inequitable",
+      "exampleSentence": "Det er urettferdig at noen barn ikke får muligheten til å gå på skole.",
+      "exampleTranslation": "It is unfair that some children do not get the opportunity to go to school."
+    },
+    {
+      "id": "utdanning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ut",
+          "homeLang": "out"
+        },
+        {
+          "targetLang": "dann",
+          "homeLang": "form/shape",
+          "homeLangDetails": "From 'danne' (to form, to shape, to cultivate). The idea of 'utdanning' is forming or developing someone outward — drawing out their potential. Compare German 'Bildung' (formation, education) with a similar conceptual root."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(noun ending)",
+          "homeLangDetails": "The '-ing' suffix forming a noun from the verb 'utdanne' (to educate). Like English '-ing' nominalizations, it captures the process or result of the action."
+        }
+      ],
+      "translationShort": "education",
+      "translationLong": "education, training, schooling",
+      "exampleSentence": "God utdanning er nøkkelen til et bedre liv.",
+      "exampleTranslation": "Good education is the key to a better life."
+    },
+    {
+      "id": "utfordring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ut",
+          "homeLang": "out"
+        },
+        {
+          "targetLang": "ford",
+          "homeLang": "demand/require",
+          "homeLangDetails": "From 'fordre' (to demand, to require). 'Utfordre' means to challenge — literally to 'demand outward' from someone, to draw out what they are capable of."
+        },
+        {
+          "targetLang": "ring",
+          "homeLang": "(noun ending)",
+          "homeLangDetails": "A contracted form of the '-ing' noun suffix (with the verb stem ending in '-r'). It turns 'utfordre' (to challenge) into 'utfordring' (a challenge)."
+        }
+      ],
+      "translationShort": "challenge",
+      "translationLong": "challenge, demand, trial",
+      "exampleSentence": "Det var en stor utfordring å lære seg et nytt språk.",
+      "exampleTranslation": "It was a great challenge to learn a new language."
+    },
+    {
+      "id": "velkomst",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "vel",
+          "homeLang": "well"
+        },
+        {
+          "targetLang": "komst",
+          "homeLang": "coming/arrival",
+          "homeLangDetails": "From 'komme' (to come), with the noun suffix '-st' forming a noun of action or result. 'Komst' means arrival or coming. Compare English 'welcome' — literally 'well-come,' a wished-for arrival."
+        }
+      ],
+      "translationShort": "welcome",
+      "translationLong": "welcome, reception, greeting",
+      "exampleSentence": "De fikk en varm velkomst da de ankom landsbyen.",
+      "exampleTranslation": "They received a warm welcome when they arrived at the village."
+    },
+    {
+      "id": "viktigst",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "viktig",
+          "homeLang": "important",
+          "homeLangDetails": "From 'vikt' (weight) + '-ig' (-ly/-like). Literally 'weighty' — something that carries weight. The same metaphor appears in English 'significant' (from Latin signum + facere) and German 'wichtig.'"
+        },
+        {
+          "targetLang": "st",
+          "homeLang": "(superlative)",
+          "homeLangDetails": "The Norwegian superlative suffix '-st,' equivalent to English '-est.' It turns 'viktig' (important) into 'viktigst' (most important)."
+        }
+      ],
+      "translationShort": "most important",
+      "translationLong": "most important, foremost",
+      "exampleSentence": "Det viktigste er at alle har det bra.",
+      "exampleTranslation": "The most important thing is that everyone is doing well."
+    },
+    {
+      "id": "vinterdag",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "vinter",
+          "homeLang": "winter"
+        },
+        {
+          "targetLang": "dag",
+          "homeLang": "day"
+        }
+      ],
+      "translationShort": "winter's day",
+      "translationLong": "a winter day, a day in winter",
+      "exampleSentence": "Det var en kald og grå vinterdag.",
+      "exampleTranslation": "It was a cold and grey winter's day."
+    },
+    {
+      "id": "værstasjon",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "vær",
+          "homeLang": "weather"
+        },
+        {
+          "targetLang": "stasjon",
+          "homeLang": "station"
+        }
+      ],
+      "translationShort": "weather station",
+      "translationLong": "",
+      "exampleSentence": "Værstasjonen på fjellet måler temperatur og vind.",
+      "exampleTranslation": "The weather station on the mountain measures temperature and wind."
+    },
+    {
+      "id": "arbeidsledig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "ledig",
+          "homeLang": "free, vacant"
+        }
+      ],
+      "translationShort": "unemployed",
+      "translationLong": "unemployed, out of work",
+      "exampleSentence": "Han har vært arbeidsledig i seks måneder.",
+      "exampleTranslation": "He has been unemployed for six months."
+    },
+    {
+      "id": "arbeidsløshet",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "løs",
+          "homeLang": "-less"
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "unemployment",
+      "translationLong": "",
+      "exampleSentence": "Arbeidsløsheten har økt det siste året.",
+      "exampleTranslation": "Unemployment has increased over the past year."
+    },
+    {
+      "id": "bearbeide",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(makes verb transitive)",
+          "homeLangDetails": "Here be- intensifies the action — not just to work, but to work on or process something thoroughly. It turns arbeid into a directed, transitive activity."
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "A short vowel used to smooth the join between two parts of a compound word, with no strong independent meaning of its own. Think of it like a hyphen made of sound: \"høyesterett\" (supreme court), \"dagslys\" (daylight). It keeps compound words from piling up too many consonants and makes them easier to say."
+        }
+      ],
+      "translationShort": "to process, to work on",
+      "translationLong": "to process, to work on, to adapt, to revise",
+      "exampleSentence": "Hun brukte timer på å bearbeide dataene.",
+      "exampleTranslation": "She spent hours processing the data."
+    },
+    {
+      "id": "behandling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(makes verb transitive)",
+          "homeLangDetails": "be- here turns 'hand' into a transitive act of dealing with or handling something — treating or managing it directly."
+        },
+        {
+          "targetLang": "hand",
+          "homeLang": "hand"
+        },
+        {
+          "targetLang": "ling",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "The suffix -ling here functions like -ing in English to form a noun from a verb (behandle → behandling), meaning the act or process of treating or handling. It's not the same as the English diminutive -ling."
+        }
+      ],
+      "translationShort": "treatment",
+      "translationLong": "treatment, handling, processing",
+      "exampleSentence": "Han fikk behandling på sykehuset.",
+      "exampleTranslation": "He received treatment at the hospital."
+    },
+    {
+      "id": "bekjentskap",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(makes verb transitive)",
+          "homeLangDetails": "This prefix turns nouns and adjectives into verbs, or gives existing verbs a more direct object feel. It's related to the English prefix \"be-\" as in \"befriend.\" Examples: \"betale\" (to pay), \"besøke\" (to visit), \"begynne\" (to begin). It's one of the most common verb-forming tools in Norwegian."
+        },
+        {
+          "targetLang": "kjent",
+          "homeLang": "known, familiar"
+        },
+        {
+          "targetLang": "skap",
+          "homeLang": "-ship, -hood",
+          "homeLangDetails": "Forms nouns about relationships, states, or collectives, just like English \"-ship\" in \"friendship\" or \"-hood\" in \"neighborhood.\" It's very transparent: \"vennskap\" (friendship), \"medlemskap\" (membership), \"kunnskap\" (knowledge). The English cognate \"-ship\" makes this one especially easy to remember."
+        }
+      ],
+      "translationShort": "acquaintance",
+      "translationLong": "acquaintance, familiarity",
+      "exampleSentence": "Vi gjorde bekjentskap på et seminar.",
+      "exampleTranslation": "We made each other's acquaintance at a seminar."
+    },
+    {
+      "id": "bekreftelse",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(makes verb transitive)",
+          "homeLangDetails": "This prefix turns nouns and adjectives into verbs, or gives existing verbs a more direct object feel. It's related to the English prefix \"be-\" as in \"befriend.\" Examples: \"betale\" (to pay), \"besøke\" (to visit), \"begynne\" (to begin). It's one of the most common verb-forming tools in Norwegian."
+        },
+        {
+          "targetLang": "kreft",
+          "homeLang": "strength, force",
+          "homeLangDetails": "From kraft (strength, force, power). The stem shifts slightly to kreft in this verb form. The idea is 'to give force to something' — to confirm or affirm it. Related to English 'craft' at a deep etymological level."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "confirmation",
+      "translationLong": "confirmation, affirmation, verification",
+      "exampleSentence": "Jeg venter på bekreftelse fra banken.",
+      "exampleTranslation": "I'm waiting for confirmation from the bank."
+    },
+    {
+      "id": "beskyttelse",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "be",
+          "homeLang": "(makes verb transitive)",
+          "homeLangDetails": "This prefix turns nouns and adjectives into verbs, or gives existing verbs a more direct object feel. It's related to the English prefix \"be-\" as in \"befriend.\" Examples: \"betale\" (to pay), \"besøke\" (to visit), \"begynne\" (to begin). It's one of the most common verb-forming tools in Norwegian."
+        },
+        {
+          "targetLang": "skytt",
+          "homeLang": "shield, guard",
+          "homeLangDetails": "Related to skytte (to shoot or guard) and skjold (shield). The root conveys warding off or covering something. In beskyttelse, the sense is protective covering rather than shooting."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "protection",
+      "translationLong": "protection, shelter, defense",
+      "exampleSentence": "Barna trenger beskyttelse mot kulden.",
+      "exampleTranslation": "The children need protection from the cold."
+    },
+    {
+      "id": "betalingsevne",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "betal",
+          "homeLang": "pay",
+          "homeLangDetails": "From betale (to pay), itself built on be- + tale (to count/reckon). The stem betal- appears in compound forms. Think of it as the 'payment' root."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "evne",
+          "homeLang": "ability, capacity"
+        }
+      ],
+      "translationShort": "ability to pay",
+      "translationLong": "ability to pay, solvency",
+      "exampleSentence": "Banken vurderte hans betalingsevne før de innvilget lånet.",
+      "exampleTranslation": "The bank assessed his ability to pay before approving the loan."
+    },
+    {
+      "id": "dagdrøm",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dag",
+          "homeLang": "day"
+        },
+        {
+          "targetLang": "drøm",
+          "homeLang": "dream"
+        }
+      ],
+      "translationShort": "daydream",
+      "translationLong": "",
+      "exampleSentence": "Hun mistet seg i en dagdrøm under forelesningen.",
+      "exampleTranslation": "She lost herself in a daydream during the lecture."
+    },
+    {
+      "id": "dyrevelferd",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dyre",
+          "homeLang": "animal",
+          "homeLangDetails": "From dyr (animal). The -e ending is a compound-linking form, making dyre- the standard combining form of dyr in Norwegian compounds."
+        },
+        {
+          "targetLang": "vel",
+          "homeLang": "well"
+        },
+        {
+          "targetLang": "ferd",
+          "homeLang": "journey, travel",
+          "homeLangDetails": "In this compound, ferd carries the older sense of 'way of going' or 'condition' rather than literal travel. Velferd means 'well-being' — the state of faring well — and ferd here echoes the English word 'fare' (as in 'welfare')."
+        }
+      ],
+      "translationShort": "animal welfare",
+      "translationLong": "",
+      "exampleSentence": "Dyrevelferd er viktig for alle som holder husdyr.",
+      "exampleTranslation": "Animal welfare is important for everyone who keeps pets."
+    },
+    {
+      "id": "enkeltperson",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enkelt",
+          "homeLang": "single, individual"
+        },
+        {
+          "targetLang": "person",
+          "homeLang": "person"
+        }
+      ],
+      "translationShort": "individual",
+      "translationLong": "individual, private person",
+      "exampleSentence": "Loven gjelder for hver enkeltperson i landet.",
+      "exampleTranslation": "The law applies to every individual in the country."
+    },
+    {
+      "id": "ærlighetsprøve",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ærlig",
+          "homeLang": "honest"
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "prøve",
+          "homeLang": "test, trial"
+        }
+      ],
+      "translationShort": "honesty test",
+      "translationLong": "test of honesty, integrity test",
+      "exampleSentence": "Det var en ærlighetsprøve å finne lommeboken og levere den inn.",
+      "exampleTranslation": "Finding the wallet and turning it in was a test of honesty."
+    },
+    {
+      "id": "fargeløs",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "farge",
+          "homeLang": "color"
+        },
+        {
+          "targetLang": "løs",
+          "homeLang": "-less"
+        }
+      ],
+      "translationShort": "colorless",
+      "translationLong": "colorless, dull, bland",
+      "exampleSentence": "Rommet virket fargeløst uten bilder på veggene.",
+      "exampleTranslation": "The room seemed colorless without pictures on the walls."
+    },
+    {
+      "id": "fastboende",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fast",
+          "homeLang": "fixed, permanent"
+        },
+        {
+          "targetLang": "bo",
+          "homeLang": "live, reside"
+        },
+        {
+          "targetLang": "ende",
+          "homeLang": "(present participle)",
+          "homeLangDetails": "The -ende ending is the Norwegian present participle, equivalent to English -ing. Here it works as an adjective or noun: 'those who permanently reside' — permanent residents."
+        }
+      ],
+      "translationShort": "permanent residents",
+      "translationLong": "permanent residents, settled population",
+      "exampleSentence": "De fastboende i bygda ønsket ikke flere hytter.",
+      "exampleTranslation": "The permanent residents of the village did not want more cabins."
+    },
+    {
+      "id": "fellesskap",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "felles",
+          "homeLang": "common, shared"
+        },
+        {
+          "targetLang": "skap",
+          "homeLang": "-ship, -hood",
+          "homeLangDetails": "Forms nouns about relationships, states, or collectives, just like English \"-ship\" in \"friendship\" or \"-hood\" in \"neighborhood.\" It's very transparent: \"vennskap\" (friendship), \"medlemskap\" (membership), \"kunnskap\" (knowledge). The English cognate \"-ship\" makes this one especially easy to remember."
+        }
+      ],
+      "translationShort": "community, fellowship",
+      "translationLong": "community, fellowship, sense of togetherness",
+      "exampleSentence": "Det er et sterkt fellesskap blant de ansatte.",
+      "exampleTranslation": "There is a strong sense of community among the employees."
+    },
+    {
+      "id": "flyreise",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fly",
+          "homeLang": "fly, airplane"
+        },
+        {
+          "targetLang": "reise",
+          "homeLang": "journey, trip"
+        }
+      ],
+      "translationShort": "flight, plane trip",
+      "translationLong": "a trip by airplane, flight journey",
+      "exampleSentence": "Flyreisen til Roma tok tre timer.",
+      "exampleTranslation": "The flight to Rome took three hours."
+    },
+    {
+      "id": "folkemengde",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "folk",
+          "homeLang": "people, folk"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "-",
+          "homeLangDetails": "A short vowel used to smooth the join between two parts of a compound word, with no strong independent meaning of its own. Think of it like a hyphen made of sound: \"høyesterett\" (supreme court), \"dagslys\" (daylight). It keeps compound words from piling up too many consonants and makes them easier to say."
+        },
+        {
+          "targetLang": "mengde",
+          "homeLang": "crowd, amount"
+        }
+      ],
+      "translationShort": "crowd",
+      "translationLong": "crowd, multitude of people",
+      "exampleSentence": "En stor folkemengde samlet seg på torget.",
+      "exampleTranslation": "A large crowd gathered in the square."
+    },
+    {
+      "id": "forsiktig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "for",
+          "homeLang": "(intensifier)",
+          "homeLangDetails": "Here for- doesn't mean 'away' or 'wrongly' — it works more like a strengthening prefix, turning 'siktig' (aimed, certain) into a fully formed adjective meaning carefully attentive. Think of it as 'thoroughly sure'."
+        },
+        {
+          "targetLang": "sikt",
+          "homeLang": "sight, aim"
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "having, full of",
+          "homeLangDetails": "Similar to -lig but often more directly means \"characterized by\" something, like English \"-y\" or \"-ous.\" Examples: \"lykkelig\" (happy), \"rolig\" (calm), \"billig\" (cheap). There's overlap with -lig and the two work similarly, so native intuition develops fast."
+        }
+      ],
+      "translationShort": "careful, cautious",
+      "translationLong": "careful, cautious, prudent",
+      "exampleSentence": "Vær forsiktig når du krysser veien.",
+      "exampleTranslation": "Be careful when you cross the road."
+    },
+    {
+      "id": "forståelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "for",
+          "homeLang": "(intensifier)",
+          "homeLangDetails": "Here for- acts as an intensifying or completing prefix, helping form the verb forstå (to understand) from stå (to stand). It's not about going astray or moving away — it's closer to 'standing fully through' something, i.e., grasping it."
+        },
+        {
+          "targetLang": "stå",
+          "homeLang": "stand"
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-able, -ible",
+          "homeLangDetails": "A combination of the suffix -lig (-ly, -like, -able) with a connecting vowel. Attached to the verb forstå, it creates an adjective meaning 'capable of being understood.' The -e- bridges the verb stem and the suffix smoothly."
+        }
+      ],
+      "translationShort": "understandable",
+      "translationLong": "understandable, comprehensible",
+      "exampleSentence": "Forklaringen hans var lett forståelig.",
+      "exampleTranslation": "His explanation was easy to understand."
+    },
+    {
+      "id": "fotgjenger",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "fot",
+          "homeLang": "foot"
+        },
+        {
+          "targetLang": "gjenger",
+          "homeLang": "goer, walker",
+          "homeLangDetails": "From the verb gå (to go, to walk) via gjenge/gange (to walk, to go). The -er suffix marks the agent — someone who does the walking. The same root appears in gangstig (footpath) and medgang (good fortune, literally 'going with')."
+        }
+      ],
+      "translationShort": "pedestrian",
+      "translationLong": "pedestrian, walker",
+      "exampleSentence": "Fotgjengeren ventet på grønt lys.",
+      "exampleTranslation": "The pedestrian waited for the green light."
+    },
+    {
+      "id": "fremtidsrettet",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fremtid",
+          "homeLang": "future",
+          "homeLangDetails": "Itself a compound of frem (forward, ahead) + tid (time). So 'forward-time' — the time that lies ahead."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "rettet",
+          "homeLang": "directed, oriented",
+          "homeLangDetails": "Past participle of rette (to direct, to aim, to align). Used here as an adjective meaning 'aimed at' or 'oriented toward.' The same root appears in rettning (direction) and korrekt."
+        }
+      ],
+      "translationShort": "forward-looking",
+      "translationLong": "forward-looking, future-oriented",
+      "exampleSentence": "Vi trenger en fremtidsrettet politikk for klimaet.",
+      "exampleTranslation": "We need a forward-looking policy for the climate."
+    },
+    {
+      "id": "frihetsfølelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "frihet",
+          "homeLang": "freedom, liberty",
+          "homeLangDetails": "Itself a compound: fri (free) + -het (-ness, -ity). So literally 'freeness.' The -het suffix is the same one you see in kjærlighet (love) and trygghet (security)."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "følelse",
+          "homeLang": "feeling, sense",
+          "homeLangDetails": "From føle (to feel) + -else, which forms abstract nouns from verbs. Related to English 'feel' — both trace back to a Proto-Germanic root meaning to touch or sense."
+        }
+      ],
+      "translationShort": "feeling of freedom",
+      "translationLong": "sense of freedom, feeling of liberty",
+      "exampleSentence": "Det ga meg en unik frihetsfølelse å sykle alene gjennom landet.",
+      "exampleTranslation": "Cycling alone through the countryside gave me a unique feeling of freedom."
+    },
+    {
+      "id": "gjennomføring",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "gjennom",
+          "homeLang": "through"
+        },
+        {
+          "targetLang": "før",
+          "homeLang": "lead, carry",
+          "homeLangDetails": "From the verb føre (to lead, to carry through, to conduct). The stem appears here as før- before the -ing suffix. It's related to the English word 'fare' and appears in words like fører (leader, driver) and overføre (to transfer)."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "implementation, execution",
+      "translationLong": "implementation, carrying out, execution of a plan",
+      "exampleSentence": "Gjennomføringen av prosjektet tok lengre tid enn planlagt.",
+      "exampleTranslation": "The implementation of the project took longer than planned."
+    },
+    {
+      "id": "gledestak",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "glede",
+          "homeLang": "joy, delight"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "tak",
+          "homeLang": "roof, ceiling",
+          "homeLangDetails": "Literally 'roof' or 'ceiling' — used here figuratively to describe the upper limit of joy, i.e., the peak of happiness one can feel. The same word appears in takke (to thank) — though that's a false friend; tak as 'roof' and takk as 'thanks' are separate words."
+        }
+      ],
+      "translationShort": "peak of joy",
+      "translationLong": "ceiling of happiness, upper limit of joy",
+      "exampleSentence": "Barna nådde gledestaket da de så julegavene.",
+      "exampleTranslation": "The children reached the peak of joy when they saw the Christmas presents."
+    },
+    {
+      "id": "grunnmur",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "grunn",
+          "homeLang": "ground, foundation"
+        },
+        {
+          "targetLang": "mur",
+          "homeLang": "wall",
+          "homeLangDetails": "A masonry wall, typically of stone or brick. Borrowed from Low German or Middle Low German mur, ultimately from Latin murus (wall). The same root gives English 'mural' and 'immure.'"
+        }
+      ],
+      "translationShort": "foundation wall",
+      "translationLong": "foundation, base wall of a building",
+      "exampleSentence": "Grunnmuren i det gamle huset var fortsatt solid.",
+      "exampleTranslation": "The foundation wall of the old house was still solid."
+    },
+    {
+      "id": "halvveis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "halv",
+          "homeLang": "half"
+        },
+        {
+          "targetLang": "veis",
+          "homeLang": "way, path",
+          "homeLangDetails": "From vei (way, road, path) with an adverbial -s ending, commonly added to form adverbs in Norwegian (like always in English, or underveis — 'on the way'). So halvveis is literally 'half-way,' used as an adverb."
+        }
+      ],
+      "translationShort": "halfway",
+      "translationLong": "halfway, midway",
+      "exampleSentence": "Vi er halvveis gjennom ferien.",
+      "exampleTranslation": "We are halfway through the vacation."
+    },
+    {
+      "id": "handlingsfrihet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "handling",
+          "homeLang": "action, act"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "frihet",
+          "homeLang": "freedom, liberty",
+          "homeLangDetails": "Itself a compound: fri (free) + -het (-ness, -ity). The same element appears in frihetsfølelse and ytringsfrihet (freedom of speech)."
+        }
+      ],
+      "translationShort": "freedom of action",
+      "translationLong": "freedom of action, latitude, room to act",
+      "exampleSentence": "Lederen hadde begrenset handlingsfrihet i forhandlingene.",
+      "exampleTranslation": "The leader had limited freedom of action in the negotiations."
+    },
+    {
+      "id": "helårsjobb",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "hel",
+          "homeLang": "whole, full"
+        },
+        {
+          "targetLang": "år",
+          "homeLang": "year"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "jobb",
+          "homeLang": "job"
+        }
+      ],
+      "translationShort": "year-round job",
+      "translationLong": "full-year job, year-round employment",
+      "exampleSentence": "Hun drømte om en helårsjobb i turistnæringen.",
+      "exampleTranslation": "She dreamed of a year-round job in the tourism industry.",
+      "flag": "4 parts — straightforward compound, no reduction needed"
+    },
+    {
+      "id": "hjemmekontor",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "hjemme",
+          "homeLang": "at home"
+        },
+        {
+          "targetLang": "kontor",
+          "homeLang": "office"
+        }
+      ],
+      "translationShort": "home office",
+      "translationLong": "home office, working from home",
+      "exampleSentence": "Han jobber på hjemmekontor tre dager i uken.",
+      "exampleTranslation": "He works from home three days a week."
+    },
+    {
+      "id": "hjemmelekse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "hjemme",
+          "homeLang": "at home"
+        },
+        {
+          "targetLang": "lekse",
+          "homeLang": "lesson, assignment",
+          "homeLangDetails": "From Danish/Norwegian lekse, borrowed from Latin lectio (a reading, a lesson), related to legere (to read). The same Latin root gives English 'lecture' and 'lesson.' A lekse is typically a school assignment or lesson to be completed."
+        }
+      ],
+      "translationShort": "homework",
+      "translationLong": "homework, home assignment",
+      "exampleSentence": "Har du gjort hjemmeleksen din?",
+      "exampleTranslation": "Have you done your homework?"
+    },
+    {
+      "id": "høysommer",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "høy",
+          "homeLang": "high, peak"
+        },
+        {
+          "targetLang": "sommer",
+          "homeLang": "summer"
+        }
+      ],
+      "translationShort": "midsummer, peak summer",
+      "translationLong": "the height of summer, high summer",
+      "exampleSentence": "I høysommer er det lange, lyse kvelder i Norge.",
+      "exampleTranslation": "In midsummer, there are long, bright evenings in Norway."
+    },
+    {
+      "id": "hverdagslig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hver",
+          "homeLang": "every"
+        },
+        {
+          "targetLang": "dag",
+          "homeLang": "day"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "A genitive linker connecting the two parts of the compound 'hverdag' (everyday). It carries no independent meaning."
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly, -like",
+          "homeLangDetails": "Attaches to nouns and adjectives to mean \"having the quality of,\" much like English \"-ly\" or \"-like.\" It's one of the most productive adjective suffixes in Norwegian: \"vennlig\" (friendly), \"farlig\" (dangerous), \"tydelig\" (clear/obvious). Once you know it, you'll be able to guess dozens of adjectives."
+        }
+      ],
+      "translationShort": "everyday, ordinary",
+      "translationLong": "everyday, mundane, ordinary, commonplace",
+      "exampleSentence": "Det er en hverdagslig oppgave å vaske opp.",
+      "exampleTranslation": "Washing the dishes is an everyday task."
+    },
+    {
+      "id": "innbygger",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "inn",
+          "homeLang": "in, into"
+        },
+        {
+          "targetLang": "bygg",
+          "homeLang": "build",
+          "homeLangDetails": "From 'bygge' (to build, to settle). Here it refers to settling or dwelling in a place, not construction. An 'innbygger' is someone who has built their life in a place — a resident or inhabitant."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "(person)",
+          "homeLangDetails": "Marks someone who does something, parallel to English \"-er\" in \"teacher\" or \"worker.\" It's also the plural ending for many nouns, so context matters: \"lærer\" (teacher), \"arbeider\" (worker), \"baker\" (baker). One of those suffixes you'll encounter on literally every page."
+        }
+      ],
+      "translationShort": "inhabitant, resident",
+      "translationLong": "inhabitant, resident, citizen",
+      "exampleSentence": "Oslo har over 700 000 innbyggere.",
+      "exampleTranslation": "Oslo has over 700,000 inhabitants."
+    },
+    {
+      "id": "innflytelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "inn",
+          "homeLang": "in, into"
+        },
+        {
+          "targetLang": "flyt",
+          "homeLang": "flow",
+          "homeLangDetails": "From 'flyte' (to flow). The core image is of something flowing in — influence as an inward current that shapes or moves things. Compare English 'influence' from Latin 'influere' (to flow in), which is exactly the same metaphor."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "influence",
+      "translationLong": "influence, impact, sway",
+      "exampleSentence": "Hun har stor innflytelse på sine kolleger.",
+      "exampleTranslation": "She has great influence on her colleagues."
+    },
+    {
+      "id": "innsats",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "inn",
+          "homeLang": "in, into"
+        },
+        {
+          "targetLang": "sats",
+          "homeLang": "stake, effort",
+          "homeLangDetails": "From 'sette' (to set, to put). 'Sats' is what you put in — your stake, your bet, or your effort. 'Innsats' is what you put into something, whether that's a game, a job, or a challenge."
+        }
+      ],
+      "translationShort": "effort, contribution",
+      "translationLong": "effort, contribution, stake, input",
+      "exampleSentence": "Laget la ned stor innsats for å vinne kampen.",
+      "exampleTranslation": "The team put in great effort to win the match."
+    },
+    {
+      "id": "jordoverflate",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "jord",
+          "homeLang": "earth, ground"
+        },
+        {
+          "targetLang": "over",
+          "homeLang": "over",
+          "homeLangDetails": "Maps almost perfectly onto English \"over-\" meaning above or in excess. Great one to know because it's highly predictable: \"overraske\" (to surprise), \"overnatte\" (to stay overnight), \"overta\" (to take over). If something is overdone or above something else, over- is probably there."
+        },
+        {
+          "targetLang": "flate",
+          "homeLang": "surface, flat area"
+        }
+      ],
+      "translationShort": "Earth's surface",
+      "translationLong": "the surface of the earth, ground surface",
+      "exampleSentence": "Havet dekker over halvparten av jordoverflaten.",
+      "exampleTranslation": "The ocean covers more than half of the Earth's surface."
+    },
+    {
+      "id": "kjøreplan",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "kjøre",
+          "homeLang": "drive, run",
+          "homeLangDetails": "From 'kjøre' (to drive, to travel by vehicle). In compound words it often refers to the operation or running of transport, as in a timetable for buses or trains."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "plan, schedule"
+        }
+      ],
+      "translationShort": "timetable, schedule",
+      "translationLong": "timetable, schedule, itinerary",
+      "exampleSentence": "Bussen gikk ikke etter kjøreplanen i dag.",
+      "exampleTranslation": "The bus did not run according to the timetable today."
+    },
+    {
+      "id": "klimabevisst",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "klima",
+          "homeLang": "climate"
+        },
+        {
+          "targetLang": "bevisst",
+          "homeLang": "conscious, aware"
+        }
+      ],
+      "translationShort": "climate-conscious",
+      "translationLong": "climate-conscious, environmentally aware",
+      "exampleSentence": "Flere unge er klimabevisste og velger å reise med tog.",
+      "exampleTranslation": "More young people are climate-conscious and choose to travel by train."
+    },
+    {
+      "id": "kraftstasjon",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "kraft",
+          "homeLang": "power, force"
+        },
+        {
+          "targetLang": "stasjon",
+          "homeLang": "station"
+        }
+      ],
+      "translationShort": "power station",
+      "translationLong": "power station, power plant",
+      "exampleSentence": "Den nye kraftstasjonen leverer strøm til hele regionen.",
+      "exampleTranslation": "The new power station supplies electricity to the entire region."
+    },
+    {
+      "id": "kunnskapsrik",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kunn",
+          "homeLang": "know",
+          "homeLangDetails": "The root shared with 'kunne' (to be able to, to know how). 'Kunnskap' as a whole means knowledge or expertise — what you know and can do."
+        },
+        {
+          "targetLang": "skaps",
+          "homeLang": "-ship, -hood",
+          "homeLangDetails": "Here '-skap' forms the abstract noun 'kunnskap' (knowledge), combined with a genitive linker '-s-' that connects it to the following element 'rik'. The 's' and '-skap' are presented together as their surface form in the compound."
+        },
+        {
+          "targetLang": "rik",
+          "homeLang": "rich, full of"
+        }
+      ],
+      "translationShort": "knowledgeable",
+      "translationLong": "knowledgeable, well-informed, erudite",
+      "exampleSentence": "Han er en kunnskapsrik person som alltid kan svare på spørsmål.",
+      "exampleTranslation": "He is a knowledgeable person who can always answer questions."
+    },
+    {
+      "id": "langvarig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lang",
+          "homeLang": "long"
+        },
+        {
+          "targetLang": "var",
+          "homeLang": "last, endure",
+          "homeLangDetails": "From 'vare' (to last, to endure). This is the same root as in 'varighet' (duration). It has nothing to do with 'vare' meaning 'goods' or 'ware'."
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "having, full of",
+          "homeLangDetails": "Similar to -lig but often more directly means \"characterized by\" something, like English \"-y\" or \"-ous.\" Examples: \"lykkelig\" (happy), \"rolig\" (calm), \"billig\" (cheap). There's overlap with -lig and the two work similarly, so native intuition develops fast."
+        }
+      ],
+      "translationShort": "long-lasting, prolonged",
+      "translationLong": "long-lasting, prolonged, lengthy, sustained",
+      "exampleSentence": "Konflikten var langvarig og krevende for alle parter.",
+      "exampleTranslation": "The conflict was prolonged and demanding for all parties."
+    },
+    {
+      "id": "leteaksjon",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "lete",
+          "homeLang": "search, look for"
+        },
+        {
+          "targetLang": "aksjon",
+          "homeLang": "action, operation"
+        }
+      ],
+      "translationShort": "search operation",
+      "translationLong": "search operation, search-and-rescue operation",
+      "exampleSentence": "Redningspersonell satte i gang en stor leteaksjon etter de savnede turistene.",
+      "exampleTranslation": "Rescue personnel launched a large search operation for the missing tourists."
+    },
+    {
+      "id": "livsglede",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "livs",
+          "homeLang": "life",
+          "homeLangDetails": "From 'liv' (life), with a genitive linker '-s-' connecting it to the next element. The 's' is absorbed into this part as its surface form in the compound."
+        },
+        {
+          "targetLang": "glede",
+          "homeLang": "joy, happiness"
+        }
+      ],
+      "translationShort": "joy of life",
+      "translationLong": "joy of life, zest for life, joie de vivre",
+      "exampleSentence": "Barna fylte rommet med livsglede og latter.",
+      "exampleTranslation": "The children filled the room with joy and laughter."
+    },
+    {
+      "id": "læringsevne",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "lærings",
+          "homeLang": "learning",
+          "homeLangDetails": "From 'læring' (learning), the action noun of 'lære' (to learn). The '-s-' is a genitive linker connecting it to 'evne'. The 's' is absorbed into this part as its surface form in the compound."
+        },
+        {
+          "targetLang": "evne",
+          "homeLang": "ability, capacity"
+        }
+      ],
+      "translationShort": "ability to learn",
+      "translationLong": "learning ability, capacity for learning, aptitude",
+      "exampleSentence": "Barn har en utrolig læringsevne i de første leveårene.",
+      "exampleTranslation": "Children have an incredible ability to learn in their first years of life."
+    },
+    {
+      "id": "matpakke",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mat",
+          "homeLang": "food"
+        },
+        {
+          "targetLang": "pakke",
+          "homeLang": "package, pack"
+        }
+      ],
+      "translationShort": "packed lunch",
+      "translationLong": "packed lunch, lunchbox",
+      "exampleSentence": "Jeg glemte matpakken min hjemme i dag.",
+      "exampleTranslation": "I forgot my packed lunch at home today."
+    },
+    {
+      "id": "medborgere",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "med",
+          "homeLang": "with, fellow"
+        },
+        {
+          "targetLang": "borger",
+          "homeLang": "citizen"
+        },
+        {
+          "targetLang": "e",
+          "homeLang": "(plural)",
+          "homeLangDetails": "A short vowel used to smooth the join between two parts of a compound word, with no strong independent meaning of its own. Think of it like a hyphen made of sound: \"høyesterett\" (supreme court), \"dagslys\" (daylight). It keeps compound words from piling up too many consonants and makes them easier to say."
+        }
+      ],
+      "translationShort": "fellow citizens",
+      "translationLong": "fellow citizens, compatriots",
+      "exampleSentence": "Hun oppfordret sine medborgere til å stemme.",
+      "exampleTranslation": "She urged her fellow citizens to vote."
+    },
+    {
+      "id": "menneskeverd",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "menneske",
+          "homeLang": "human, person"
+        },
+        {
+          "targetLang": "verd",
+          "homeLang": "worth, dignity"
+        }
+      ],
+      "translationShort": "human dignity",
+      "translationLong": "human dignity, the worth of a person",
+      "exampleSentence": "Menneskeverd er grunnlaget for alle menneskerettigheter.",
+      "exampleTranslation": "Human dignity is the foundation of all human rights."
+    },
+    {
+      "id": "mesteparten",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meste",
+          "homeLang": "most"
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "part"
+        },
+        {
+          "targetLang": "en",
+          "homeLang": "(definite)"
+        }
+      ],
+      "translationShort": "most of it, the majority",
+      "translationLong": "the greater part, the majority, most of it",
+      "exampleSentence": "Mesteparten av arbeidet er allerede gjort.",
+      "exampleTranslation": "Most of the work is already done."
+    },
+    {
+      "id": "midlertidig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "midler",
+          "homeLang": "means, middle",
+          "homeLangDetails": "From 'middel' (means, medium, middle). In this compound it carries the sense of 'in between' or 'temporary by nature' — something that serves as a stopgap rather than a final solution."
+        },
+        {
+          "targetLang": "tidig",
+          "homeLang": "timely, temporal",
+          "homeLangDetails": "Related to 'tid' (time). The -ig suffix adds an adjectival quality, so 'tidig' means something like 'of/relating to time.' Compare 'samtidig' (simultaneous) and 'tidlig' (early)."
+        }
+      ],
+      "translationShort": "temporary, provisional",
+      "translationLong": "temporary, provisional, interim",
+      "exampleSentence": "Dette er en midlertidig løsning.",
+      "exampleTranslation": "This is a temporary solution."
+    },
+    {
+      "id": "mislykkes",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "wrong, mis-",
+          "homeLangDetails": "A direct parallel to English \"mis-\" meaning done incorrectly or badly. Very recognizable for English speakers: \"misforstå\" (to misunderstand), \"mislykkes\" (to fail/go wrong), \"mistanke\" (suspicion). Safe to assume it signals something has gone sideways."
+        },
+        {
+          "targetLang": "lykkes",
+          "homeLang": "succeed",
+          "homeLangDetails": "From 'lykke' (luck, happiness, success). 'Lykkes' is the reflexive/passive form meaning 'to succeed' or 'to turn out well.' So 'mislykkes' is literally 'to turn out wrong.'"
+        }
+      ],
+      "translationShort": "to fail",
+      "translationLong": "to fail, to be unsuccessful",
+      "exampleSentence": "Prosjektet mislyktes på grunn av dårlig planlegging.",
+      "exampleTranslation": "The project failed due to poor planning."
+    },
+    {
+      "id": "misforståelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "wrong, mis-",
+          "homeLangDetails": "A direct parallel to English \"mis-\" meaning done incorrectly or badly. Very recognizable for English speakers: \"misforstå\" (to misunderstand), \"mislykkes\" (to fail/go wrong), \"mistanke\" (suspicion). Safe to assume it signals something has gone sideways."
+        },
+        {
+          "targetLang": "forstå",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "misunderstanding",
+      "translationLong": "misunderstanding, misconception",
+      "exampleSentence": "Det var bare en misforståelse mellom oss.",
+      "exampleTranslation": "It was just a misunderstanding between us."
+    },
+    {
+      "id": "mishandling",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "wrong, mis-",
+          "homeLangDetails": "A direct parallel to English \"mis-\" meaning done incorrectly or badly. Very recognizable for English speakers: \"misforstå\" (to misunderstand), \"mislykkes\" (to fail/go wrong), \"mistanke\" (suspicion). Safe to assume it signals something has gone sideways."
+        },
+        {
+          "targetLang": "handl",
+          "homeLang": "act, handle"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "abuse, mistreatment",
+      "translationLong": "abuse, mistreatment, maltreatment",
+      "exampleSentence": "Mishandling av dyr er ulovlig i Norge.",
+      "exampleTranslation": "Animal abuse is illegal in Norway."
+    },
+    {
+      "id": "naturskjønn",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "natur",
+          "homeLang": "nature"
+        },
+        {
+          "targetLang": "skjønn",
+          "homeLang": "beautiful, fair",
+          "homeLangDetails": "From 'skjønn' (beautiful, fair, lovely). It's the same root as the verb 'å skjønne' (to understand, to perceive), and both trace back to the idea of discerning or appreciating beauty. In compounds like this one, it purely means 'beautiful.'"
+        }
+      ],
+      "translationShort": "scenic, naturally beautiful",
+      "translationLong": "scenic, naturally beautiful, picturesque",
+      "exampleSentence": "De dro til et naturskjønt område i fjordene.",
+      "exampleTranslation": "They went to a scenic area in the fjords."
+    },
+    {
+      "id": "nattarbeid",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "natt",
+          "homeLang": "night"
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        }
+      ],
+      "translationShort": "night work, night shift",
+      "translationLong": "night work, working at night",
+      "exampleSentence": "Nattarbeid kan påvirke helsen negativt.",
+      "exampleTranslation": "Night work can negatively affect one's health."
+    },
+    {
+      "id": "netthandel",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "nett",
+          "homeLang": "net, online",
+          "homeLangDetails": "Short for 'internett' (internet). In compounds, 'nett-' consistently signals that something happens online, much like the English prefix 'e-' or 'online.' So 'netthandel' is simply commerce conducted on the net."
+        },
+        {
+          "targetLang": "handel",
+          "homeLang": "trade, commerce"
+        }
+      ],
+      "translationShort": "online shopping, e-commerce",
+      "translationLong": "online shopping, e-commerce, internet commerce",
+      "exampleSentence": "Netthandel har økt kraftig de siste årene.",
+      "exampleTranslation": "Online shopping has increased significantly in recent years."
+    },
+    {
+      "id": "nybegynner",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ny",
+          "homeLang": "new"
+        },
+        {
+          "targetLang": "begynn",
+          "homeLang": "begin"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "(agent / person)",
+          "homeLangDetails": "Marks someone who does something, parallel to English \"-er\" in \"teacher\" or \"worker.\" It's also the plural ending for many nouns, so context matters: \"lærer\" (teacher), \"arbeider\" (worker), \"baker\" (baker). One of those suffixes you'll encounter on literally every page."
+        }
+      ],
+      "translationShort": "beginner, novice",
+      "translationLong": "beginner, novice, newcomer",
+      "exampleSentence": "Kurset er perfekt for nybegynnere.",
+      "exampleTranslation": "The course is perfect for beginners."
+    },
+    {
+      "id": "nødvendighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "nød",
+          "homeLang": "need, necessity",
+          "homeLangDetails": "From 'nød' (need, distress, emergency). It carries a sense of urgency or dire necessity — something you cannot do without. The same root appears in 'nødutgang' (emergency exit) and 'nødhjelp' (emergency aid)."
+        },
+        {
+          "targetLang": "vendig",
+          "homeLang": "turning, directed",
+          "homeLangDetails": "Related to 'vende' (to turn). 'Nødvendig' literally means something like 'turning toward need' — that which necessity requires. The -ig suffix makes it adjectival."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "necessity, need",
+      "translationLong": "necessity, need, requirement",
+      "exampleSentence": "Det er en absolutt nødvendighet å ha rent vann.",
+      "exampleTranslation": "Having clean water is an absolute necessity."
+    },
+    {
+      "id": "offentlighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "offentlig",
+          "homeLang": "public, official",
+          "homeLangDetails": "From 'offent-' (related to 'open, public') plus the adjectival suffix -lig. The root traces back to the idea of something open and accessible to all. Think of it as the Norwegian equivalent of 'public' as an adjective."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "the public, publicity",
+      "translationLong": "the public, openness, public sphere, transparency",
+      "exampleSentence": "Saken ble kjent for offentligheten.",
+      "exampleTranslation": "The matter became known to the public."
+    },
+    {
+      "id": "oppdragelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "drag",
+          "homeLang": "pull, draw",
+          "homeLangDetails": "From 'dra' (to pull, to go, to draw). 'Oppdra' means 'to raise' a child — literally to 'pull up' or 'bring up,' the same metaphor as English 'upbringing.' The root appears in 'å dra' (to go/pull) and 'drag' (a pull or draw)."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "upbringing, child-rearing",
+      "translationLong": "upbringing, child-rearing, education (in the home)",
+      "exampleSentence": "God oppdragelse er viktig for barnets utvikling.",
+      "exampleTranslation": "Good upbringing is important for a child's development."
+    },
+    {
+      "id": "oppfinnsomhet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up"
+        },
+        {
+          "targetLang": "finn",
+          "homeLang": "find"
+        },
+        {
+          "targetLang": "som",
+          "homeLang": "-some, -ful",
+          "homeLangDetails": "The suffix '-som' is the Norwegian equivalent of English '-some' or '-ful,' turning a verb or noun into an adjective meaning 'inclined to' or 'characterized by.' So 'oppfinnsom' means 'inventive' or 'resourceful' — someone who is good at finding/inventing things."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "inventiveness, resourcefulness",
+      "translationLong": "inventiveness, ingenuity, resourcefulness",
+      "exampleSentence": "Oppfinnsomhet er en viktig egenskap for en gründer.",
+      "exampleTranslation": "Inventiveness is an important quality for an entrepreneur."
+    },
+    {
+      "id": "oppfølging",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up",
+          "homeLangDetails": "A directional prefix meaning 'up' or 'upward.' In compound verbs and nouns it often implies continuation or fulfillment — following something up to its conclusion."
+        },
+        {
+          "targetLang": "følg",
+          "homeLang": "follow"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "follow-up",
+      "translationLong": "follow-up, follow-through, monitoring",
+      "exampleSentence": "Det er viktig med god oppfølging av pasientene.",
+      "exampleTranslation": "Good follow-up of patients is important."
+    },
+    {
+      "id": "opphørsted",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "opp",
+          "homeLang": "up",
+          "homeLangDetails": "Here opp- combines with høre to form opphøre (to cease, to come to an end) — the idea of something coming up to its stopping point."
+        },
+        {
+          "targetLang": "hør",
+          "homeLang": "hear/belong",
+          "homeLangDetails": "From høre, which can mean both 'to hear' and 'to belong/pertain to.' In opphøre (to cease), the sense is closer to 'belonging coming to an end' — things no longer pertaining. The root is the same høre you know from 'to hear.'"
+        },
+        {
+          "targetLang": "sted",
+          "homeLang": "place",
+          "homeLangDetails": "Means \"place\" and is essentially the same word as English \"stead\" in \"instead\" or \"homestead.\" It combines freely with other words: \"hjemsted\" (hometown), \"arbeidssted\" (workplace), \"nettsted\" (website). Spotting it tells you immediately that a location or spot is being named."
+        }
+      ],
+      "translationShort": "final resting place",
+      "translationLong": "place of ceasing, final resting place, place where something ends",
+      "exampleSentence": "Kirkegården er det siste opphørstedet for mange.",
+      "exampleTranslation": "The cemetery is the final resting place for many."
+    },
+    {
+      "id": "overlevelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over, beyond",
+          "homeLangDetails": "Here over- conveys getting through or beyond something difficult, rather than excess. Think of it as 'making it over' an obstacle — the same sense as English 'survive' (sur- = over + vivere = live)."
+        },
+        {
+          "targetLang": "lev",
+          "homeLang": "live"
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "survival",
+      "translationLong": "survival, surviving",
+      "exampleSentence": "Overlevelse i villmarken krever kunnskap og ro.",
+      "exampleTranslation": "Survival in the wilderness requires knowledge and calm."
+    },
+    {
+      "id": "oversettelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over, across",
+          "homeLangDetails": "Here over- means 'across' rather than excess — the idea of carrying meaning across from one language to another. The same spatial metaphor underlies the Latin roots of 'translate' (trans- = across + latum = carried)."
+        },
+        {
+          "targetLang": "sett",
+          "homeLang": "set, put",
+          "homeLangDetails": "From sette (to set, to put). Oversette literally means 'to put across' — to transfer something from one language into another."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "Creates abstract nouns from verbs, often referring to a state or process. It's a bit like English \"-ance\" or \"-ence\" but more broadly used: \"følelse\" (feeling), \"forståelse\" (understanding), \"betydelse\" (meaning/significance). Slightly more formal-sounding than -ing nouns."
+        }
+      ],
+      "translationShort": "translation",
+      "translationLong": "translation, rendering",
+      "exampleSentence": "Oversettelsen av romanen tok mange år.",
+      "exampleTranslation": "The translation of the novel took many years."
+    },
+    {
+      "id": "overvåkning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "over",
+          "homeLangDetails": "Here over- conveys watching from above or having oversight — the same sense as in 'oversee' or 'supervise' (super = over + videre = watch)."
+        },
+        {
+          "targetLang": "våkn",
+          "homeLang": "watch, wake",
+          "homeLangDetails": "From våke (to watch, to be awake/vigilant). Related to the English word 'wake' and the idea of staying alert and attentive."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "surveillance, monitoring",
+      "translationLong": "surveillance, monitoring, supervision",
+      "exampleSentence": "Myndighetene økte overvåkingen av netttrafikk.",
+      "exampleTranslation": "The authorities increased the monitoring of internet traffic."
+    },
+    {
+      "id": "pensjonist",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "pensjon",
+          "homeLang": "pension",
+          "homeLangDetails": "Borrowed from French/Latin pensio (payment, rent). A pension is the regular payment one receives after retiring."
+        },
+        {
+          "targetLang": "ist",
+          "homeLang": "(person/agent)"
+        }
+      ],
+      "translationShort": "pensioner, retiree",
+      "translationLong": "pensioner, retiree, retired person",
+      "exampleSentence": "Som pensjonist har han endelig tid til å reise.",
+      "exampleTranslation": "As a retiree, he finally has time to travel."
+    },
+    {
+      "id": "planlegging",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "plan",
+          "homeLang": "plan"
+        },
+        {
+          "targetLang": "legg",
+          "homeLang": "lay, put",
+          "homeLangDetails": "From legge (to lay, to put). Planlegge literally means 'to lay plans' — the same metaphor as in English 'to lay out a plan.'"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "planning",
+      "translationLong": "planning, organization",
+      "exampleSentence": "God planlegging er nøkkelen til suksess.",
+      "exampleTranslation": "Good planning is the key to success."
+    },
+    {
+      "id": "rettigheter",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "rett",
+          "homeLang": "right, just",
+          "homeLangDetails": "From rett, meaning 'right' in the sense of correct, straight, or just — the same root as English 'right' (as in rights). Rettighet means a right or entitlement."
+        },
+        {
+          "targetLang": "ighet",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "A combined suffix: -ig (having, full of) + -het (-ness, -ity), fused here as -ighet. Together they turn the adjective rett into a noun meaning 'the quality of being right' — an entitlement."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "(plural)",
+          "homeLangDetails": "Marks someone who does something, parallel to English \"-er\" in \"teacher\" or \"worker.\" It's also the plural ending for many nouns, so context matters: \"lærer\" (teacher), \"arbeider\" (worker), \"baker\" (baker). One of those suffixes you'll encounter on literally every page."
+        }
+      ],
+      "translationShort": "rights",
+      "translationLong": "rights, entitlements",
+      "exampleSentence": "Alle mennesker har grunnleggende rettigheter.",
+      "exampleTranslation": "All people have fundamental rights."
+    },
+    {
+      "id": "samforstand",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sam",
+          "homeLang": "together, co-",
+          "homeLangDetails": "Think English \"co-\" or \"together.\" It signals collaboration or combination: \"sammen\" (together), \"samfunn\" (society, literally \"community\"), \"samarbeide\" (to cooperate). It's the glue that joins things, and you'll find it all over social and civic vocabulary."
+        },
+        {
+          "targetLang": "forstand",
+          "homeLang": "understanding, reason",
+          "homeLangDetails": "From forstå (to understand), itself built from for- (intensifier) + stå (to stand). Forstand means understanding, intellect, or reason — the capacity to 'stand firm' on something mentally."
+        }
+      ],
+      "translationShort": "mutual understanding",
+      "translationLong": "mutual understanding, agreement, accord",
+      "exampleSentence": "Det er viktig med samforstand mellom naboer.",
+      "exampleTranslation": "Mutual understanding between neighbors is important."
+    },
+    {
+      "id": "samlingssted",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "samling",
+          "homeLang": "gathering, collection",
+          "homeLangDetails": "From samle (to gather, to collect), itself from sam- (together) + the verb root. Samling means both a gathering of people and a collection of objects."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "(genitive linker)",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "sted",
+          "homeLang": "place",
+          "homeLangDetails": "Means \"place\" and is essentially the same word as English \"stead\" in \"instead\" or \"homestead.\" It combines freely with other words: \"hjemsted\" (hometown), \"arbeidssted\" (workplace), \"nettsted\" (website). Spotting it tells you immediately that a location or spot is being named."
+        }
+      ],
+      "translationShort": "meeting place, gathering spot",
+      "translationLong": "meeting place, gathering spot, assembly point",
+      "exampleSentence": "Torget er byens viktigste samlingssted.",
+      "exampleTranslation": "The square is the city's most important gathering place."
+    },
+    {
+      "id": "sammenheng",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sammen",
+          "homeLang": "together",
+          "homeLangDetails": "From sam- (together) + -men, an adverbial ending. Sammen means 'together,' and is the form sam- takes when used as a standalone adverb."
+        },
+        {
+          "targetLang": "heng",
+          "homeLang": "hang, connect",
+          "homeLangDetails": "From henge (to hang, to be connected). Sammenheng literally means 'hanging together' — things that are linked or cohere. Think of 'coherence' (Latin co- + haerere = to stick together)."
+        }
+      ],
+      "translationShort": "context, connection",
+      "translationLong": "context, connection, coherence, relation",
+      "exampleSentence": "Du må se på ordene i riktig sammenheng.",
+      "exampleTranslation": "You need to look at the words in the right context."
+    },
+    {
+      "id": "selvstendighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "selv",
+          "homeLang": "self"
+        },
+        {
+          "targetLang": "stendig",
+          "homeLang": "standing, steady",
+          "homeLangDetails": "From stending or stende, related to stå (to stand). The core idea is standing on one's own feet — being self-standing. Compare English 'independent' (not hanging from others)."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "independence",
+      "translationLong": "independence, self-sufficiency, autonomy",
+      "exampleSentence": "Norge feiret sin selvstendighet i 1814.",
+      "exampleTranslation": "Norway celebrated its independence in 1814."
+    },
+    {
+      "id": "sinnsstemning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sinn",
+          "homeLang": "mind, soul",
+          "homeLangDetails": "An old Germanic word for the inner mind or soul — the seat of feelings and thoughts. Related to the German Sinn (sense, mind). It covers both intellect and emotion."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "(genitive linker)",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "stemning",
+          "homeLang": "mood, atmosphere",
+          "homeLangDetails": "From stemme (to tune, to voice, to be in accord). Stemning means the mood or atmosphere of a place or person — the emotional 'tuning' of the moment."
+        }
+      ],
+      "translationShort": "mood, state of mind",
+      "translationLong": "mood, state of mind, frame of mind",
+      "exampleSentence": "Musikken skapte en rolig sinnsstemning.",
+      "exampleTranslation": "The music created a calm state of mind."
+    },
+    {
+      "id": "skolearbeid",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "skole",
+          "homeLang": "school"
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        }
+      ],
+      "translationShort": "schoolwork, homework",
+      "translationLong": "schoolwork, homework, school assignments",
+      "exampleSentence": "Hun bruker mye tid på skolearbeid om kvelden.",
+      "exampleTranslation": "She spends a lot of time on schoolwork in the evening."
+    },
+    {
+      "id": "skolefritid",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "skole",
+          "homeLang": "school"
+        },
+        {
+          "targetLang": "fri",
+          "homeLang": "free",
+          "homeLangDetails": "From fri (free, off). Fritid literally means 'free time' — time when you are free from obligations. Compare German Freizeit (free time)."
+        },
+        {
+          "targetLang": "tid",
+          "homeLang": "time"
+        }
+      ],
+      "translationShort": "after-school time",
+      "translationLong": "after-school free time, school leisure time",
+      "exampleSentence": "Barna leker ute i skolefritiden.",
+      "exampleTranslation": "The children play outside during their after-school free time."
+    },
+    {
+      "id": "skriftlig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "skrift",
+          "homeLang": "writing, script"
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly, -like",
+          "homeLangDetails": "Attaches to nouns and adjectives to mean \"having the quality of,\" much like English \"-ly\" or \"-like.\" It's one of the most productive adjective suffixes in Norwegian: \"vennlig\" (friendly), \"farlig\" (dangerous), \"tydelig\" (clear/obvious). Once you know it, you'll be able to guess dozens of adjectives."
+        }
+      ],
+      "translationShort": "written, in writing",
+      "translationLong": "written, in writing, literary",
+      "exampleSentence": "Du må levere en skriftlig rapport innen fredag.",
+      "exampleTranslation": "You must submit a written report by Friday."
+    },
+    {
+      "id": "sluttstrek",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "slutt",
+          "homeLang": "end, finish"
+        },
+        {
+          "targetLang": "strek",
+          "homeLang": "line, stroke"
+        }
+      ],
+      "translationShort": "final line, full stop",
+      "translationLong": "a line drawn under something to signal it is finished; a definitive end",
+      "exampleSentence": "Det er på tide å sette en sluttstrek for denne diskusjonen.",
+      "exampleTranslation": "It is time to draw a final line under this discussion."
+    },
+    {
+      "id": "smidighetstrening",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "smidig",
+          "homeLang": "supple, agile"
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "(genitive linker)",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "trening",
+          "homeLang": "training"
+        }
+      ],
+      "translationShort": "flexibility training",
+      "translationLong": "flexibility training, agility training",
+      "exampleSentence": "Yogaklassen er en fin form for smidighetstrening.",
+      "exampleTranslation": "The yoga class is a great form of flexibility training."
+    },
+    {
+      "id": "sorgfulhet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "sorg",
+          "homeLang": "sorrow, grief"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "full of",
+          "homeLangDetails": "The Norwegian suffix -ful works much like English '-ful': it means 'full of' or 'characterized by'. Here it turns 'sorg' (sorrow) into an adjective meaning 'sorrowful'."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "sorrowfulness, grief",
+      "translationLong": "sorrowfulness, sadness, state of grief",
+      "exampleSentence": "Han uttrykte sin sorgfulhet gjennom diktet.",
+      "exampleTranslation": "He expressed his sorrowfulness through the poem."
+    },
+    {
+      "id": "sosialarbeid",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sosial",
+          "homeLang": "social"
+        },
+        {
+          "targetLang": "arbeid",
+          "homeLang": "work",
+          "homeLangDetails": "The core root for work in Norwegian, directly related to English \"labor\" via Germanic roots. It appears in some of the most essential everyday words: \"arbeid\" (work), \"arbeider\" (worker), \"arbeidsplassen\" (the workplace). Once you know this root, the whole family of work-related words opens up."
+        }
+      ],
+      "translationShort": "social work",
+      "translationLong": "social work, welfare work",
+      "exampleSentence": "Hun studerer sosialarbeid ved universitetet.",
+      "exampleTranslation": "She is studying social work at the university."
+    },
+    {
+      "id": "steingjerde",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "stein",
+          "homeLang": "stone"
+        },
+        {
+          "targetLang": "gjerde",
+          "homeLang": "fence"
+        }
+      ],
+      "translationShort": "stone wall, stone fence",
+      "translationLong": "a fence or wall built from stones",
+      "exampleSentence": "Det gamle steingjerde rundt gården er hundre år gammelt.",
+      "exampleTranslation": "The old stone fence around the farm is a hundred years old."
+    },
+    {
+      "id": "stortingsvalg",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "storting",
+          "homeLang": "parliament",
+          "homeLangDetails": "Norway's national parliament. The name itself is a compound: stor (great/grand) + ting (assembly, thing). 'Ting' is the old Norse word for a public assembly — the same root as in 'Althing' (Iceland's parliament). So Storting literally means 'the great assembly'."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "(genitive linker)",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "valg",
+          "homeLang": "election, choice"
+        }
+      ],
+      "translationShort": "parliamentary election",
+      "translationLong": "Norwegian parliamentary election",
+      "exampleSentence": "Stortingsvalget holdes hvert fjerde år.",
+      "exampleTranslation": "The parliamentary election is held every four years."
+    },
+    {
+      "id": "stridsevne",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "strid",
+          "homeLang": "combat, strife"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "(genitive linker)",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "evne",
+          "homeLang": "ability, capacity"
+        }
+      ],
+      "translationShort": "combat capability",
+      "translationLong": "combat capability, fighting ability, military capacity",
+      "exampleSentence": "Hæren arbeider for å styrke sin stridsevne.",
+      "exampleTranslation": "The army is working to strengthen its combat capability."
+    },
+    {
+      "id": "sykehusopphold",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sykehus",
+          "homeLang": "hospital",
+          "homeLangDetails": "Itself a compound: syke (sick) + hus (house). Literally 'the sick house' — a house for the ill. The same pattern appears in German Krankenhaus."
+        },
+        {
+          "targetLang": "opphold",
+          "homeLang": "stay, sojourn"
+        }
+      ],
+      "translationShort": "hospital stay",
+      "translationLong": "hospital stay, inpatient admission",
+      "exampleSentence": "Etter operasjonen hadde hun et sykehusopphold på tre dager.",
+      "exampleTranslation": "After the operation, she had a hospital stay of three days."
+    },
+    {
+      "id": "særpreg",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "sær",
+          "homeLang": "distinct, peculiar",
+          "homeLangDetails": "A prefix meaning 'separate, special, particular' — related to English 'sere' (separate) and cognate with German 'sonder-'. It marks something as standing apart from the ordinary."
+        },
+        {
+          "targetLang": "preg",
+          "homeLang": "stamp, character",
+          "homeLangDetails": "From the verb prege (to stamp, to impress). Preg refers to the impression or mark left on something — its distinctive character or stamp. Think of a coin being pressed with a die."
+        }
+      ],
+      "translationShort": "distinctive character",
+      "translationLong": "distinctive character, unique quality, hallmark",
+      "exampleSentence": "Bygningen har et sterkt særpreg som skiller den fra resten av gaten.",
+      "exampleTranslation": "The building has a strong distinctive character that sets it apart from the rest of the street."
+    },
+    {
+      "id": "søvnighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "søvn",
+          "homeLang": "sleep"
+        },
+        {
+          "targetLang": "ig",
+          "homeLang": "having, full of",
+          "homeLangDetails": "Similar to -lig but often more directly means \"characterized by\" something, like English \"-y\" or \"-ous.\" Examples: \"lykkelig\" (happy), \"rolig\" (calm), \"billig\" (cheap). There's overlap with -lig and the two work similarly, so native intuition develops fast."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "sleepiness, drowsiness",
+      "translationLong": "sleepiness, drowsiness, somnolence",
+      "exampleSentence": "Søvnighet på dagtid kan være et tegn på dårlig nattesøvn.",
+      "exampleTranslation": "Daytime sleepiness can be a sign of poor nighttime sleep."
+    },
+    {
+      "id": "tankegang",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "tanke",
+          "homeLang": "thought"
+        },
+        {
+          "targetLang": "gang",
+          "homeLang": "walk, course",
+          "homeLangDetails": "Gang literally means 'walk' or 'passage', but in compounds it often means 'way of going' or 'course'. So tankegang is the course or flow of one's thoughts — a train of thought. The same root appears in English 'gang' (as in a group going together) and 'gangway'."
+        }
+      ],
+      "translationShort": "train of thought, mindset",
+      "translationLong": "train of thought, way of thinking, reasoning, mindset",
+      "exampleSentence": "Jeg forstår ikke tanke gangen bak denne beslutningen.",
+      "exampleTranslation": "I don't understand the train of thought behind this decision."
+    },
+    {
+      "id": "tidsskrift",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "tids",
+          "homeLang": "time's, period",
+          "homeLangDetails": "The genitive form of tid (time). In compounds, tids- signals a connection to a period of time. The same root appears in tidlig (early), tidsalder (era/age), and English 'tide' (which originally meant 'time', as in 'Yuletide')."
+        },
+        {
+          "targetLang": "skrift",
+          "homeLang": "writing, script"
+        }
+      ],
+      "translationShort": "journal, periodical",
+      "translationLong": "journal, periodical, magazine, scholarly journal",
+      "exampleSentence": "Artikkelen ble publisert i et anerkjent vitenskapelig tidsskrift.",
+      "exampleTranslation": "The article was published in a reputable scientific journal."
+    },
+    {
+      "id": "tilnærming",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "til",
+          "homeLang": "to, toward"
+        },
+        {
+          "targetLang": "nærm",
+          "homeLang": "near, closer",
+          "homeLangDetails": "From nær (near), with the comparative stem nærm- (nearer, closer). The verb nærme seg means 'to approach' — to make oneself nearer. Cognate with English 'near' and German 'nah'."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "approach",
+      "translationLong": "approach, approximation, method",
+      "exampleSentence": "Vi trenger en ny tilnærming til dette problemet.",
+      "exampleTranslation": "We need a new approach to this problem."
+    },
+    {
+      "id": "tilrettelegging",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "til",
+          "homeLang": "to, toward"
+        },
+        {
+          "targetLang": "rette",
+          "homeLang": "right, correct",
+          "homeLangDetails": "From rett (right, straight, correct). The verb rette means 'to straighten' or 'to put right'. In this compound, tilrettelegging implies arranging or adjusting things so they are 'right' — properly set up for someone."
+        },
+        {
+          "targetLang": "legg",
+          "homeLang": "lay, place",
+          "homeLangDetails": "From legge (to lay, to place). Together with rette, tilrettelegge literally means 'to lay things right' — to lay out or arrange conditions properly. The English phrase 'to lay the groundwork' captures the same spirit."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "facilitation, accommodation",
+      "translationLong": "facilitation, accommodation, adaptation, making arrangements",
+      "exampleSentence": "Skolen tilbyr tilrettelegging for elever med dysleksi.",
+      "exampleTranslation": "The school offers accommodation for students with dyslexia."
+    },
+    {
+      "id": "treningssenter",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "trening",
+          "homeLang": "training",
+          "homeLangDetails": "From trene (to train/exercise). The -ing suffix forms an action noun, just as in English 'training.'"
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "senter",
+          "homeLang": "center"
+        }
+      ],
+      "translationShort": "gym, fitness center",
+      "translationLong": "gym, fitness center, sports center",
+      "exampleSentence": "Jeg går på treningssenter tre ganger i uken.",
+      "exampleTranslation": "I go to the gym three times a week."
+    },
+    {
+      "id": "trygghetsstedelse",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "trygghet",
+          "homeLang": "security, safety",
+          "homeLangDetails": "Itself a compound: trygg (safe, secure) + -het (-ness/-ity). So 'trygghet' means 'safety' or 'security' as a quality."
+        },
+        {
+          "targetLang": "s",
+          "homeLang": "-",
+          "homeLangDetails": "This little connector appears between the parts of compound words to show possession or connection, much like the English \"'s\" but built right into the word without an apostrophe. You see it in \"statsminister\" (prime minister, literally \"state's minister\"), \"barnebok\" (children's book), \"arbeidsdag\" (workday). It's a small sound with a big structural job in Norwegian compounding."
+        },
+        {
+          "targetLang": "sted",
+          "homeLang": "place",
+          "homeLangDetails": "Means \"place\" and is essentially the same word as English \"stead\" in \"instead\" or \"homestead.\" It combines freely with other words: \"hjemsted\" (hometown), \"arbeidssted\" (workplace), \"nettsted\" (website). Spotting it tells you immediately that a location or spot is being named."
+        },
+        {
+          "targetLang": "else",
+          "homeLang": "(abstract noun)",
+          "homeLangDetails": "The suffix -else forms abstract nouns from verbs or noun phrases. Here it turns the concept of 'a place of safety' into an abstract noun — the act or condition of providing such a place, i.e. a sense of secure belonging."
+        }
+      ],
+      "translationShort": "sense of security",
+      "translationLong": "sense of belonging and safety, feeling of secure placement",
+      "exampleSentence": "Barn trenger en sterk trygghetsstedelse for å utvikle seg godt.",
+      "exampleTranslation": "Children need a strong sense of security in order to develop well."
+    },
+    {
+      "id": "uforglemmelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "not, un-",
+          "homeLangDetails": "Works just like English \"un-\" to flip a word negative. You'll spot it constantly: \"uheldig\" (unlucky), \"umulig\" (impossible), \"uvanlig\" (unusual). If you know the positive form, slapping u- on the front almost always gives you the opposite."
+        },
+        {
+          "targetLang": "for",
+          "homeLang": "(intensifier / away)",
+          "homeLangDetails": "Here for- intensifies the root toward completion — 'forglemme' means 'to forget' (to lose from memory entirely). Compare German ver- in vergessen."
+        },
+        {
+          "targetLang": "glemm",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "elig",
+          "homeLang": "-able, -ible",
+          "homeLangDetails": "A combined form of -e- (compound linker) + -lig (-like, -able). Together they form the adjectival suffix meaning 'capable of being' or 'worthy of being.' Here: 'able to be forgotten' — negated by u- to mean 'unforgettable.'"
+        }
+      ],
+      "translationShort": "unforgettable",
+      "translationLong": "",
+      "exampleSentence": "Det var en uforglemmelig opplevelse.",
+      "exampleTranslation": "It was an unforgettable experience."
+    },
+    {
+      "id": "ulykksalig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "not, un-",
+          "homeLangDetails": "Works just like English \"un-\" to flip a word negative. You'll spot it constantly: \"uheldig\" (unlucky), \"umulig\" (impossible), \"uvanlig\" (unusual). If you know the positive form, slapping u- on the front almost always gives you the opposite."
+        },
+        {
+          "targetLang": "lykk",
+          "homeLang": "luck, happiness",
+          "homeLangDetails": "From lykke (luck, happiness, fortune). The same root appears in lykkelig (happy) and lykkes (to succeed). Dropping the final -e before the suffix is a normal Norwegian spelling pattern."
+        },
+        {
+          "targetLang": "salig",
+          "homeLang": "blessed, blissful",
+          "homeLangDetails": "From sæl/salig, meaning 'blessed' or 'blissful' — related to the English word 'silly,' which originally meant 'blessed' in Old English. Here it intensifies the idea of happiness. Combined with lykk-, the compound means 'deeply unhappy' or 'wretched.'"
+        }
+      ],
+      "translationShort": "wretched, miserable",
+      "translationLong": "wretched, deeply unhappy, unfortunate, miserable",
+      "exampleSentence": "Han følte seg ulykksalig etter at han mistet jobben.",
+      "exampleTranslation": "He felt wretched after losing his job."
+    },
+    {
+      "id": "undervisning",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under, below",
+          "homeLangDetails": "Here under- carries the sense of 'instruction from below' or 'showing the way to someone.' It parallels German unterrichten — literally 'directing from beneath,' implying guiding a student."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "show, guide",
+          "homeLangDetails": "From vise (to show, to point out, to guide). Related to English 'wise' and 'vision' in a broad sense of 'showing the way.' The same root appears in vise (to show) and bevis (proof, evidence)."
+        },
+        {
+          "targetLang": "ning",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "The suffix -ning forms action nouns from verbs, equivalent to English '-ing' or '-tion.' Undervisning = the act of instructing/teaching."
+        }
+      ],
+      "translationShort": "teaching, instruction",
+      "translationLong": "teaching, instruction, education, schooling",
+      "exampleSentence": "Undervisningen begynner klokken åtte.",
+      "exampleTranslation": "The teaching begins at eight o'clock."
+    },
+    {
+      "id": "urimelig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "not, un-",
+          "homeLangDetails": "Works just like English \"un-\" to flip a word negative. You'll spot it constantly: \"uheldig\" (unlucky), \"umulig\" (impossible), \"uvanlig\" (unusual). If you know the positive form, slapping u- on the front almost always gives you the opposite."
+        },
+        {
+          "targetLang": "rimelig",
+          "homeLang": "reasonable, fair",
+          "homeLangDetails": "From rim (rhyme, fitting proportion) + -elig (-able, -like). Rimelig means 'reasonable' or 'fair' — something that 'rhymes' with expectations, that fits. Also used to mean 'affordable.' So urimelig = not fitting, not fair, unreasonable."
+        }
+      ],
+      "translationShort": "unreasonable, unfair",
+      "translationLong": "unreasonable, unfair, excessive, outrageous",
+      "exampleSentence": "Det er urimelig å forvente det av ham.",
+      "exampleTranslation": "It is unreasonable to expect that of him.",
+      "flag": "only 2 parts — rimelig is best treated as a single opaque root in context"
+    },
+    {
+      "id": "utålmodig",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "u",
+          "homeLang": "not, un-",
+          "homeLangDetails": "Works just like English \"un-\" to flip a word negative. You'll spot it constantly: \"uheldig\" (unlucky), \"umulig\" (impossible), \"uvanlig\" (unusual). If you know the positive form, slapping u- on the front almost always gives you the opposite."
+        },
+        {
+          "targetLang": "tål",
+          "homeLang": "endure, bear",
+          "homeLangDetails": "From tåle (to tolerate, to endure, to bear). The same root appears in tålmodighet (patience) and tålsom (tolerant). It conveys the capacity to put up with something over time."
+        },
+        {
+          "targetLang": "modig",
+          "homeLang": "courageous, spirited",
+          "homeLangDetails": "From mot (courage, spirit, mood) + -ig (having, full of). Tålmodig literally means 'having the spirit to endure' — patience as a kind of inner fortitude. Utålmodig negates this: lacking that enduring spirit, hence impatient."
+        }
+      ],
+      "translationShort": "impatient",
+      "translationLong": "impatient, restless, eager",
+      "exampleSentence": "Hun ble utålmodig da bussen var forsinket.",
+      "exampleTranslation": "She became impatient when the bus was delayed."
+    },
+    {
+      "id": "utvikling",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "ut",
+          "homeLang": "out",
+          "homeLangDetails": "The Norwegian cousin of English \"out-\" in words like \"outrun\" or \"output.\" It signals movement outward or completion: \"utføre\" (to carry out), \"utvikle\" (to develop), \"utgang\" (exit). Pairs beautifully with verbs of motion and action."
+        },
+        {
+          "targetLang": "vikl",
+          "homeLang": "wind, unfold",
+          "homeLangDetails": "From vikle (to wind, to wrap, to coil). Utvikle means 'to unwind' or 'to unfold' — literally pulling something out from a coiled state, hence 'to develop.' The same root appears in avvikle (to wind down/dissolve) and innviklet (complicated, literally 'wound in')."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(action noun)",
+          "homeLangDetails": "Forms nouns from verbs, just like English \"-ing\" in \"running\" or \"building.\" It's extremely common and predictable: \"møte\" becomes \"møting\" isn't standard, but \"trening\" (training), \"mening\" (meaning/opinion), \"læring\" (learning). The verb root usually points you straight to the meaning."
+        }
+      ],
+      "translationShort": "development",
+      "translationLong": "development, evolution, progress",
+      "exampleSentence": "Den teknologiske utviklingen går veldig raskt.",
+      "exampleTranslation": "Technological development is moving very fast."
+    },
+    {
+      "id": "vennlighet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "venn",
+          "homeLang": "friend"
+        },
+        {
+          "targetLang": "lig",
+          "homeLang": "-ly, -like",
+          "homeLangDetails": "Attaches to nouns and adjectives to mean \"having the quality of,\" much like English \"-ly\" or \"-like.\" It's one of the most productive adjective suffixes in Norwegian: \"vennlig\" (friendly), \"farlig\" (dangerous), \"tydelig\" (clear/obvious). Once you know it, you'll be able to guess dozens of adjectives."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "kindness, friendliness",
+      "translationLong": "kindness, friendliness, goodwill",
+      "exampleSentence": "Hun behandlet alle med stor vennlighet.",
+      "exampleTranslation": "She treated everyone with great kindness."
+    },
+    {
+      "id": "virksomhet",
+      "article": "en",
+      "parts": [
+        {
+          "targetLang": "virk",
+          "homeLang": "work, act, operate",
+          "homeLangDetails": "From virke (to work, to function, to have effect). Related to verk (work, creation) and German wirken. It suggests active operation or effectual activity, not just physical labor."
+        },
+        {
+          "targetLang": "som",
+          "homeLang": "(having the quality of)",
+          "homeLangDetails": "The suffix -som forms adjectives meaning 'characterized by' a quality, similar to English '-some' (as in 'wholesome'). Virksom means 'active, operative, effective.' Together with -het it becomes an abstract noun."
+        },
+        {
+          "targetLang": "het",
+          "homeLang": "-ness, -ity",
+          "homeLangDetails": "Turns adjectives into abstract nouns, exactly like English \"-ness\" or \"-ity.\" It's wonderfully regular: \"frihet\" (freedom/liberty), \"sikkerhet\" (safety/security), \"mulighet\" (possibility). Spot an adjective, add -het, and you've got the noun for that quality."
+        }
+      ],
+      "translationShort": "business, enterprise",
+      "translationLong": "business, enterprise, activity, operation",
+      "exampleSentence": "Hun driver en liten virksomhet i sentrum.",
+      "exampleTranslation": "She runs a small business in the city center."
+    },
+    {
+      "id": "voksenliv",
+      "article": "et",
+      "parts": [
+        {
+          "targetLang": "voksen",
+          "homeLang": "adult, grown-up",
+          "homeLangDetails": "From vokse (to grow) — literally 'one who has grown.' The same root appears in oppvekst (upbringing, lit. growing up) and vekst (growth). In compound position the form stays voksen."
+        },
+        {
+          "targetLang": "liv",
+          "homeLang": "life"
+        }
+      ],
+      "translationShort": "adult life",
+      "translationLong": "adult life, life as a grown-up",
+      "exampleSentence": "Overgangen til voksenliv kan være utfordrende.",
+      "exampleTranslation": "The transition to adult life can be challenging."
+    }
+  ]
+}

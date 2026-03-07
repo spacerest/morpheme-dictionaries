@@ -1,0 +1,100 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows English and is learning Esperanto. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the Esperanto word exactly as given (all lowercase).
+2. **article**: Always "" — Esperanto has no grammatical articles.
+3. **displayPrefix**: Omit — not used for Esperanto.
+4. **parts**: Split the word at all morpheme boundaries. Esperanto is highly regular and almost every morpheme boundary is real and meaningful. Key patterns to always split:
+   - Grammatical endings are their own part: -o (noun), -a (adjective), -i (infinitive), -as (present), -is (past), -os (future), -u (imperative), -j (plural), -n (accusative)
+   - Derivational affixes are their own parts: mal-, re-, ek-, ge-, dis-, -eg-, -et-, -ul-, -ej-, -ist-, -in-, -ad-, -aĵ-, -ec-, -ebl-, -ig-, -iĝ-, etc.
+   - Compound words split at each recognizable root: lernejо = lern + ej + o, malsanulejo = mal + san + ul + ej + o
+   - Participle endings combine aspect + part of speech: -anta = -ant + a (present active + adjective marker)
+   - The accusative -n and plural -j attach directly to the final ending: hundojn = hund + o + j + n
+   Aim for 2–5 parts. If a word has 6 or more, include them all and add a flag.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning only — never slash-separate synonyms ("picture/image" is wrong; pick one and put alternatives in homeLangDetails). (b) Grammatical endings get brief labels: "(noun)", "(adj)", "(verb)", "(past)", "(pres)", "(fut)", "(pl)" — never spell out long forms; use "(acc)" not "(accusative)", "(imp)" not "(imperative)". (c) Derivational affixes: mal = "opposite", -ul = "person", -ej = "place", -ist = "pro", -ad = "(ongoing)", -ig = "(cause)", -iĝ = "(become)". (d) Roots get one core English word.
+6. **translationShort**: A natural, concise English translation (1–4 words).
+7. **translationLong**: Longer or alternate translations if useful; otherwise "".
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it only when (a) a morpheme behaves in a context-specific way in this word, or (b) the letters resemble a morpheme but are not functioning as one here. Write in a warm, conversational tone. Never use em-dashes.
+9. **exampleSentence**: A natural, grammatically correct Esperanto sentence using the word.
+10. **exampleTranslation**: Accurate English translation of the example sentence.
+
+If a word has only 1 morpheme part or 6+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "Esperanto Vocab",
+  "words": [
+    {
+      "id": "lernejo",
+      "article": "",
+      "parts": [
+        {"targetLang": "lern", "homeLang": "learn"},
+        {"targetLang": "ej", "homeLang": "place for"},
+        {"targetLang": "o", "homeLang": "(noun)"}
+      ],
+      "translationShort": "school",
+      "translationLong": "school, place of learning",
+      "exampleSentence": "La infanoj iras al la lernejo ĉiun matenon.",
+      "exampleTranslation": "The children go to school every morning."
+    },
+    {
+      "id": "malsanulejo",
+      "article": "",
+      "parts": [
+        {"targetLang": "mal", "homeLang": "opposite"},
+        {"targetLang": "san", "homeLang": "healthy"},
+        {"targetLang": "ul", "homeLang": "person"},
+        {"targetLang": "ej", "homeLang": "place for"},
+        {"targetLang": "o", "homeLang": "(noun)"}
+      ],
+      "translationShort": "hospital",
+      "translationLong": "hospital, place for sick people",
+      "exampleSentence": "Li estis transportita al la malsanulejo.",
+      "exampleTranslation": "He was taken to the hospital.",
+      "flag": "5 parts — showcase of Esperanto compounding"
+    },
+    {
+      "id": "instruisto",
+      "article": "",
+      "parts": [
+        {"targetLang": "instru", "homeLang": "teach"},
+        {"targetLang": "ist", "homeLang": "professional"},
+        {"targetLang": "o", "homeLang": "(noun)"}
+      ],
+      "translationShort": "teacher",
+      "translationLong": "teacher, instructor",
+      "exampleSentence": "Nia instruisto estas tre pacienma.",
+      "exampleTranslation": "Our teacher is very patient."
+    },
+    {
+      "id": "malvarma",
+      "article": "",
+      "parts": [
+        {"targetLang": "mal", "homeLang": "opposite"},
+        {"targetLang": "varm", "homeLang": "warm"},
+        {"targetLang": "a", "homeLang": "(adj)"}
+      ],
+      "translationShort": "cold",
+      "translationLong": "cold, not warm",
+      "exampleSentence": "La vintro estas malvarma kaj mallonga.",
+      "exampleTranslation": "The winter is cold and short."
+    },
+    {
+      "id": "legado",
+      "article": "",
+      "parts": [
+        {"targetLang": "leg", "homeLang": "read"},
+        {"targetLang": "ad", "homeLang": "(repeated action)"},
+        {"targetLang": "o", "homeLang": "(noun)"}
+      ],
+      "translationShort": "reading (ongoing)",
+      "translationLong": "reading, the continuous act of reading",
+      "exampleSentence": "Legado estas mia plej ŝatata hobio.",
+      "exampleTranslation": "Reading is my favorite hobby."
+    }
+  ]
+}

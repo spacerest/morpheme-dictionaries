@@ -1,0 +1,906 @@
+[
+  {
+    "word": "injection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '안으로/아님' is confusing and inaccurate. '아님' (meaning 'is not') does not belong here. The prefix 'in-' should simply mean '안으로' (into/inward).",
+    "suggestion": "Change to just '안으로' or '내부로'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '내일 날씨 예측은 비가 온다는 거예요' is awkward and unnatural. It mixes formal and informal speech levels and sounds stilted.",
+    "suggestion": "Change to '내일 날씨 예측은 비가 올 것 같습니다.' or '내일 날씨 예보는 비예요.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' is glossed as '말하다' (speak), but in 'jurisdiction' it comes from Latin 'dicere' (to say/speak). While the etymology is correct, the gloss should clarify it means 'to speak/pronounce' in the legal sense, not the general Korean verb. More importantly, the meaning in context is about pronouncing judgment, not simply speaking.",
+    "suggestion": "Consider '판단하다' or '선언하다' (to judge/declare) to better reflect the legal meaning, or add clarification that 'dict' means 'to speak as a judge/pronounce judgment'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation '사람을 국가에서 강제로 제거하는 행위' is imprecise. Deportation specifically means forcibly removing someone from a country (usually because they are not a citizen or have violated immigration laws), not just 'removing from a state.' The current phrasing could be misunderstood.",
+    "suggestion": "Change to '외국인을 국가에서 강제로 추방하는 법적 행위' or '누군가를 국가에서 강제로 내보내는 행위'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "construction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '새 다리의 건설은 2년이 걸릴 것이다' is grammatically correct but slightly awkward. The more natural phrasing in Korean would use '걸릴 것으로 예상된다' or '예상된다' for future prediction, or simply use future tense differently.",
+    "suggestion": "Consider '새 다리를 짓는 데 2년이 걸릴 것이다' or '새 다리 건설에는 2년이 소요될 것이다' for more natural flow",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as de + struct + ion, but 'de' is a prefix in English and should be recognized as such. The entry lists only 'de' in Korean without the proper morpheme label for the targetLang field.",
+    "suggestion": "The parts should be: [de (아래로/취소), struct (짓다), ion (-tion)] with targetLang properly labeled as 'de' for the first part",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "inspection",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "The 'in' prefix is marked as 'in' (안으로/아니), but in 'inspection' the 'in' is actually part of the Latin prefix 'in-' meaning 'into/upon' (related to looking into something). The gloss '안으로/아니' (into/not) is partially correct for 'into' but the entry doesn't clarify this is specifically the 'into' sense, not the negation sense.",
+    "suggestion": "Clarify homeLangDetails for 'in' to specify it means 'into/upon' in this context, distinguishing from the negation prefix",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The morpheme is listed as 'retro' but in the morphological analysis of English, 'retro-' should be recognized as a complete prefix unit, not as a separate Latin element. However, the more significant issue is that 'retro' is listed as targetLang when it should clarify whether this is the English prefix form.",
+    "suggestion": "Ensure targetLang field consistently represents the target language morpheme; clarify if 'retro' is being presented as an English prefix or Latin root",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "description",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'de' is glossed as '아래로/취소' (down/cancel), but in 'description' it means 'down' in the sense of 'describing' (literally 'writing down'). The gloss is misleading because it emphasizes the negation/reversal sense ('cancel') which is not the primary meaning in this word. The 'de' here is simply directional/completive.",
+    "suggestion": "Change homeLang to '아래로' (down) without the '취소' (cancel) component, or add homeLangDetails clarifying that in this context it means 'down' as in 'write down'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "expression",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "'press' glossed as '누르다' (press/push) is misleading. In 'expression', 'press' comes from Latin 'premere' meaning 'to press', but the actual semantic sense is 'to express' or 'to push out' (ex- + press = push out). The gloss should reflect the 'push out' sense rather than just 'press'.",
+    "suggestion": "Change homeLang to '밀어내다' (push out) or add homeLangDetails noting that 'press' here means 'push out' from Latin 'premere'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The prefix 'im' is not a standalone morpheme in 'impression'. The correct split should be 'in-' (which becomes 'im-' before 'p'), not 'im' as a separate unit. The morpheme is the prefix 'in-' that assimilates before certain consonants.",
+    "suggestion": "Change parts[0].targetLang to 'in-' or 'im-' and clarify this is an assimilated form of the prefix meaning 'into'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The prefix 'at' is not a standalone morpheme in 'attraction'. The correct prefix is 'ad-' (which becomes 'at-' before 't'), not 'at' as a separate unit.",
+    "suggestion": "Change parts[0].targetLang to 'ad-' or 'at-' and clarify this is an assimilated form of the prefix meaning 'to/toward'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "extraction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '끌다' (to pull/drag) is misleading for 'tract'. While 'tract' does relate to 'trahere' (to drag in Latin), in the context of 'extraction' it more accurately means 'to draw out' or refers to the action of pulling/drawing. The home language gloss should better reflect the meaning of drawing/pulling something out rather than just 'pull'.",
+    "suggestion": "Change parts[1].homeLang to '뽑다' or '끌어내다' (to draw out/pull out) to better reflect the extraction sense",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'miss' is not correct. The correct morpheme is 'mit' (from Latin mittere, to send), which appears as 'miss-' before '-ion'. The split should reflect 'mit/miss' not 'miss' alone.",
+    "suggestion": "Change parts[1].targetLang to 'mit-' or 'miss-' to accurately represent the Latin root 'mittere' (to send)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "transmission",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' is glossed as '보내다' (send), but in 'transmission' it doesn't directly mean 'send'. The Latin 'mittere' means 'send', but 'transmission' involves the prefix 'trans-' (across) + 'mission' (the act of sending/transmitting). The gloss is misleading about how this specific morpheme functions in this word.",
+    "suggestion": "Clarify that 'miss' comes from Latin 'mittere' (send) and in this context refers to the act of sending or conveying something across, not just 'send' in isolation.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "reception",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'웨딩 리셉션' uses the English loanword 'リセプション' rather than providing a natural Korean translation. The example translation should use natural Korean rather than transliterated English.",
+    "suggestion": "웨딩 리셉션은 지역의 한 호텔에서 열렸다. → 결혼 피로연은 지역의 한 호텔에서 열렸다. (or 결혼 축하 행사)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'기만' is a somewhat formal/literary term. While not incorrect, '속임' or '거짓' would be more natural and match the entry's own gloss of '속이거나 현혹하는 행위' better.",
+    "suggestion": "그 거짓/속임은 결국 들통났다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '뒤로' (backward/back) is historically accurate but misleading for modern English. In 'reference', 're-' doesn't mean 'backward' in the synchronic sense—the word doesn't mean 'carry backward.' The historical etymology obscures the actual modern meaning.",
+    "suggestion": "Consider glossing as '다시' (again) or providing clearer context that this is a historical etymology that doesn't reflect modern word formation, since learners will be confused by the 'backward' meaning in this context.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "conference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Glossing 'fer' as '나르다' (carry/bring) is etymologically correct but misleading. In 'conference', the word doesn't mean 'carry together'—it means 'speak together' or 'consult together.' The Latin 'ferre' (to carry) is obscured by the noun form and doesn't reflect the actual meaning.",
+    "suggestion": "Either gloss as '말하다/이야기하다' (speak/talk) to reflect the actual meaning, or add a note explaining that while 'fer' etymologically means 'carry,' in 'conference' it derives from a different sense. Consider whether this morpheme breakdown is pedagogically useful.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "interference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same issue as 'conference': glossing 'fer' as '나르다' (carry) is etymologically rooted but doesn't reflect the actual meaning of 'interference.' The word doesn't mean 'carry between'—it means 'strike between' or 'clash between.'",
+    "suggestion": "Revise to gloss as '충돌하다' (collide/clash) or add clarification that the etymology differs from the modern meaning. Consider whether this breakdown helps learners understand the word.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "conversion",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Glossing 'vert' as '돌리다' (turn/rotate) is accurate etymologically, but the actual meaning in 'conversion' is better understood as '바꾸다' (change/transform) since the word describes changing from one state to another, not literally rotating.",
+    "suggestion": "Gloss as '바꾸다' or '전환하다' to better reflect the modern meaning, while noting the etymological sense of 'turn.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "vert does not mean '돌리다' (turn/rotate). The Latin root 'vertere' means 'to turn', but in 'subversion' the meaning is 'to overturn' or 'to undermine', not simply 'turn'. The homeLang should reflect the actual semantic contribution in this word.",
+    "suggestion": "Consider '뒤집다' or '전복시키다' to better capture the sense of 'overturn/undermine' rather than generic 'turn'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "'-sion' should have a meaningful gloss. It is a suffix forming nouns from Latin verbs, typically meaning 'act of' or 'state of'. Simply labeling it '-sion' in homeLang is not helpful.",
+    "suggestion": "'~하는 행위' or '~의 상태' or '~함'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation of 'de-' as '아래로' (downward) is misleading. While etymologically 'de-' can mean 'down from', in 'dependence' the prefix carries the sense of 'from' or 'away', not a literal downward direction. The explanation focuses on the etymology but obscures the synchronic meaning.",
+    "suggestion": "Clarify that 'de-' here means '~에게 기대다' or simplify to explain that it expresses reliance/hanging upon, rather than emphasizing the archaic literal 'downward' sense",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'oc' glossed as '향해' (toward) is not accurate. 'oc' is an assimilated prefix of 'ob-' meaning 'toward' or 'against', but the decomposition 'oc-cur-rence' itself is questionable. The prefix 'oc-' (from 'ob-') does mean 'toward', but this entry should clarify the morpheme boundary.",
+    "suggestion": "Either correct to 'ob' (with homophonic assimilation to 'oc') or provide clearer explanation that 'oc-' is an assimilated form of 'ob-' meaning 'toward/against'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'oc-cur-rence' treats 'oc' as a distinct morpheme, but the more standard morphemic analysis is 'oc(currence)' or better 'occur + ence', where 'occur' is the base verb. Splitting 'oc' separately misrepresents the morphology.",
+    "suggestion": "Restructure to 'occur' + 'ence', where occur = ob + cur",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'cor' does not mean '함께/모두' (together/all). In 'corruption', 'cor-' is a prefix meaning 'together' or 'completely', but it comes from Latin 'com-'. The gloss '함께/모두' is misleading because it doesn't capture that this is the intensive/completive use of 'com-' that intensifies the sense of 'rupt' (break), not simply 'together'. The entry conflates the literal meaning with the actual function in this word.",
+    "suggestion": "Change homeLang to '완전히' (completely/thoroughly) or '함께/완전히' to better reflect the intensifying function of the prefix in this context, or provide homeLangDetails explaining the intensifying sense.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "corruption",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'rupt' is glossed only as '깨지다' (break), but the entry doesn't explain that 'rupt' comes from Latin 'rumpere' (to break). While the gloss is not wrong per se, the morpheme analysis is superficial for a language-learning context and could benefit from clarification.",
+    "suggestion": "Add homeLangDetails: '라틴어 rumpere(깨지다)에서 온 형태소로, rupture(파열), disrupt(방해하다) 등에 쓰입니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "biography",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'graph' is glossed only as '-graph-' without explaining its actual meaning. In a language-learning context, learners need to understand that 'graph' means '쓰다/기록하다' (write/record), which is crucial to understanding the word's structure.",
+    "suggestion": "Change homeLang to '쓰다/기록하다' and add homeLangDetails: '그리스어 graphia(쓰기)에서 온 형태소로, photograph(사진), autograph(서명) 등에 쓰입니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "photography",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Same as biography entry: The morpheme 'graph' is glossed only as '-graph-' without explaining its meaning. Learners won't understand that 'photo' + 'graph' literally means 'writing with light'.",
+    "suggestion": "Change homeLang to '쓰다/기록하다' and add homeLangDetails: '그리스어 graphia(쓰기)에서 온 형태소로, 빛으로 기록한다는 의미에서 사진이라는 뜻이 나옵니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "symphony",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'phon' is glossed only as '-phone' without explaining its actual meaning. In a language-learning context, learners need to understand that 'phon' means '소리/음성' (sound/voice) to grasp why 'sym' + 'phon' = '함께 울리는 소리' (sounds sounding together).",
+    "suggestion": "Change homeLang to '소리/음성' and add homeLangDetails: '그리스어 phone(소리)에서 온 형태소로, telephone(전화), microphone(마이크) 등에 쓰입니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is redundant and grammatically awkward. '전화로 당신에게 전화할 거예요' literally means 'I'll call you by phone with a call,' which is repetitive. The phrase should be simpler.",
+    "suggestion": "내일 전화로 연락할게요. or 내일 전화 드릴게요.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The description '작은 소리를 포착하고 증폭하는 기구' is inaccurate. A microphone captures sound (not just small sound) and converts it to electrical signals; it doesn't inherently amplify. The word 'micro' refers to the small size of the device or its fine sensitivity, not that it only captures small sounds.",
+    "suggestion": "소리를 포착하여 전기 신호로 변환하는 기구 or 음성을 증폭하기 위해 사용되는 기구",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "chronology",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation uses '다' ending which is too informal/colloquial for the relatively formal English sentence. It should use a more formal register.",
+    "suggestion": "그 사건들의 연대기는 이해하는 데 중요하다. → 그 사건들의 연대 순서를 이해하는 것이 중요합니다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation conflates 'syn-' with 'con-' and claims it's a variant, but then doesn't fully explain what 'syn-' means on its own. The detail about 'con-' is confusing since the prefix here is Greek 'syn-' (together), not Latin 'con-'. The etymology explanation is muddled.",
+    "suggestion": "Clarify: 그리스어 접두사 'syn-'은 '함께'를 뜻합니다. (같은 의미의 라틴어 접두사 con-과 유사합니다.)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation '어떤 것이 그 시대에 맞지 않아 '잘못된 시대로 돌아간' 상태' is misleading. 'Ana-' means 'back/against' but the concept of anachronism is about something being out of place in time (too early or too late), not about 'going back to the wrong era.' The explanation oversimplifies and distorts the actual meaning.",
+    "suggestion": "그리스어 접두사 'ana-'는 '뒤로, 거슬러'를 뜻합니다. Anachronism은 어떤 것이 그 시대에 맞지 않게 놓여 있는 상태를 나타냅니다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss for 'pathy' is given as '-패시' (a transliteration), but this is not a natural Korean word or gloss. It should use a meaningful Korean term.",
+    "suggestion": "Change '-패시' to a more natural Korean explanation, such as '감정' (emotion/feeling) or provide the actual Korean morpheme equivalent",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss for 'pathy' is given as '-패시' (a transliteration), but this is not a natural Korean word or gloss. It should use a meaningful Korean term.",
+    "suggestion": "Change '-패시' to a more natural Korean explanation, such as '감정' (emotion/feeling) or provide the actual Korean morpheme equivalent",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-ous' is listed without homeLangDetails, making it incomplete. The suffix converts adjectives and should be properly documented.",
+    "suggestion": "Add homeLangDetails for 'ous': '형용사를 만드는 접미사로, \"~한 성질의\" 또는 \"~로 가득 찬\"이라는 뜻입니다.' Similar to how other morphemes are documented.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'comfort' is listed as just '편안' (comfortable/comfortable), but 'comfort' as a standalone morpheme should translate to '편함' or '편안함' (comfort/ease as a noun).",
+    "suggestion": "Change to '편함' or '편안함' to accurately reflect the noun meaning of the morpheme.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'recognize' is given as '인식하다' (to recognize/perceive), but in the context of 'unrecognizable', the more natural Korean equivalent is '알아보다' or '식별하다' (to identify/recognize). The example translation uses '알아볼 수 없을' which aligns with '알아보다', not '인식하다'.",
+    "suggestion": "Change homeLang to '알아보다' or '식별하다' to match the example translation and context",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix is listed as 'ation' but it should be split as 'ation' coming from 'represent' + 'ation'. However, the actual morphological structure is 'mis' + 'represent' + 'ation', where 'ation' is the correct suffix. This is not incomplete; however, the homeLang '–tion' is misleading because the full suffix is actually '–ation'. While '–tion' is technically correct after the 'a' of 'represent', it's more precise to note the full form.",
+    "suggestion": "Consider noting that the suffix is more completely represented as '-ation' to be consistent with how it appears in the word",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation is awkward and doesn't fully match the English meaning. '어디든 바뀌어 쓸 수 있고 기계 작동에 문제가 없다' is overly specific about 'machine operation' when the example is about generic parts. It should be more natural.",
+    "suggestion": "이 두 부품은 호환 가능하며 어느 위치에든 사용할 수 있다. or 이 두 부품은 서로 바꿔 쓸 수 있다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "multicultural",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '우리 도시는 다양한 문화로 이루어진 인구로 알려져 있다' is slightly awkward. '다양한 문화로 이루어진 인구' is a literal but unnatural phrasing in Korean.",
+    "suggestion": "우리 도시는 다문화 인구로 알려져 있다. or 우리 도시는 다양한 문화를 가진 인구로 알려져 있다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "disorganize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 'dis' + 'organize', but 'organize' itself can be further analyzed as 'organ' + 'ize'. However, if keeping it as 'organize' as a single morpheme unit, this is acceptable for a learner dictionary. The current split is reasonable.",
+    "suggestion": "No change needed - the split is appropriate for the learning level.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "modernization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morphological breakdown is incomplete. The suffix sequence should be 'ize + tion' or '-ization' as a combined suffix, but the actual formation is 'modern + ize + ation' (three parts, not listed as such). The entry shows 'ize' and 'tion' as separate parts, but 'tion' is not the correct final morpheme here - it should be 'ation'.",
+    "suggestion": "Correct the third part from 'tion' (homeLang: '-화') to 'ation' (homeLang: '-화') or restructure as 'modern + ization' to be more accurate.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "Similar to modernization: the split shows 'industrial + ize + tion', but the final suffix should be 'ation' not separate 'ize' and 'tion'. The actual morphological structure is 'industry + ial + ize + ation' or more simply 'industrial + ization', not 'industrial + ize + tion'.",
+    "suggestion": "Change the third part from 'tion' to 'ation', or restructure the split to show the actual suffix sequence more accurately.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split into 'dis' + 'appoint' + 'ment', but 'appoint' itself is a compound that could be further analyzed as 'ap' (ad-) + 'point'. However, the current split is acceptable for a language-learning context. The real issue is that 'appoint' is presented as a standalone morpheme when it's actually a lexicalized form from Old French, and learners might not recognize how 'dis-' negates it.",
+    "suggestion": "Consider adding a note that 'appoint' comes from Old French and 'dis-' negates its meaning, making 'disappointment' literally mean 'the state of not being appointed/not having one's wishes fulfilled'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The entry correctly identifies 'outrage' as a frozen compound from Old French, but the morpheme breakdown for learners may still be confusing. The homeLang gloss of '폭력/과도함' (violence/excess) doesn't clearly convey to a learner that 'outrageous' means something has exceeded acceptable bounds, and the detailed explanation contradicts the simple two-part split being presented.",
+    "suggestion": "Either simplify the homeLang to just '과도함' (excess) or restructure the entry to acknowledge this is a lexicalized word where the modern morpheme split (out- + -rage + -ous) doesn't reflect the original etymology.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ous' is glossed as '-한' (Korean adjective-forming suffix), but this is only partially accurate. The '-ous' suffix in English is more precisely '-한' or '-로운' depending on the base word, but 'courageous' specifically uses '-ous' which typically carries connotations of 'full of' or 'characterized by'. The gloss is overly simplified.",
+    "suggestion": "Change homeLang to '-로운' or add homeLangDetails explaining that '-ous' means 'full of' or 'characterized by' the quality of the base noun.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '초과하는, 넘어서' (exceeding, going beyond) is too literal and doesn't capture the actual meaning of 'extra' in this context. In 'extraordinary', 'extra' means 'beyond the usual' or 'more than ordinary', not simply 'exceeding' in a quantitative sense.",
+    "suggestion": "Change to '평범함을 벗어난, 보통을 넘어선' or simply '초과의, 외의' to better reflect its function as a prefix meaning 'beyond' or 'outside of'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '언급하다, 눈에 띄다' is misleading. While 'remark' can mean 'to mention', in 'remarkable' it functions as the base meaning 'worthy of remark/notice'. The second definition '눈에 띄다' is closer to the actual meaning but the first creates confusion about the word's etymology and function.",
+    "suggestion": "Simplify to '주목할 만한, 언급할 만한' or just '언급하다' (comment/notice) to avoid implying the verb sense dominates",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation '그 선수는 부상에서 눈에 띄는 회복을 이루었다' is awkward. '눈에 띄는 회복' (noticeable recovery) sounds unnatural in Korean; better would be '놀라운 회복' or '주목할 만한 회복'.",
+    "suggestion": "Change to '그 선수는 부상으로부터 놀라운 회복을 이루어냈다.' or '그 선수의 부상 회복은 주목할 만했다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as compartment + al + ize, but 'compartment' itself is a compound (com + partment) that could be broken down further. More critically, the splitting misses that the actual morphological structure is: compartment + -alize (not compartment + -al + -ize). The suffix should be recognized as a single unit '-alize' rather than separated into '-al' and '-ize'.",
+    "suggestion": "Either split as: compartment + -alize (single suffix), or if breaking down further: compart + ment + al + ize. The current split obscures the actual morphological structure.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation '두 시스템 간의 양립 불가능으로 인해 통합이 어려웠다' is awkward. It uses the adjective form '양립 불가능' as a noun in an unnatural way. The phrase '양립 불가능으로 인해' is stilted.",
+    "suggestion": "Should be something like: '두 시스템 간의 비호환성으로 인해 통합이 어려웠다' or '두 시스템이 양립할 수 없어서 통합이 어려웠다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '도움이 되게' is awkward and unnatural. The adverb form should be more naturally expressed.",
+    "suggestion": "Change to '그녀는 지시사항을 친절하게/도움이 되도록 설명했다.' or similar more natural phrasing",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix is listed as \"-full\" but the actual English suffix in \"hopefully\" is \"-ful\" (not \"-full\"). The homeLang should reflect the actual morpheme.",
+    "suggestion": "Change homeLang from \"-full\" to \"-ful\"",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix is listed as \"-full\" but the actual English suffix in \"thankfully\" is \"-ful\" (not \"-full\"). The homeLang should reflect the actual morpheme.",
+    "suggestion": "Change homeLang from \"-full\" to \"-ful\"",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'beautifully' as beauty + ful + ly, but the actual morpheme sequence should be beautiful + ly. The homeLangDetails note even explains this correctly, but the parts array is misleading by listing 'beauty' as a separate morpheme when 'beautiful' is the true intermediate form.",
+    "suggestion": "Split as: beautiful (아름다운) + ly (-ly), or if showing the full derivation: beauty (아름다움) → beautiful (아름다운) → beautifully (아름답게). The current three-part split misrepresents the actual word structure.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "powerlessly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry is missing the '-ly' suffix. 'Powerlessness' ends in '-ness' (a noun-forming suffix), not an adverb. If the intended word is 'powerlessly' (the adverb), it should be power + less + ly, not just power + less + ness.",
+    "suggestion": "Clarify whether the entry is for 'powerlessness' (a noun: power + less + ness) or 'powerlessly' (an adverb: power + less + ly). The current entry ID says 'powerlessness' but the structure only shows 3 parts ending in -ness, which is correct for the noun but the ID suggests confusion.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word should be split as un + fortunate + ly, but 'fortunate' is listed as a single morpheme without the '-ly' suffix properly accounted for. The current split treats 'fortunate' as the root, but 'fortunate' itself is already an adjective form; the adverb is formed by adding '-ly' to it.",
+    "suggestion": "Split should clarify that the adverbial form is built from: un- (prefix) + fortunate (adjective root) + -ly (adverb suffix), or acknowledge that 'fortunate' here represents the combined adjective form.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'ed' is listed separately, but in this word, '-ed' is not a past participle suffix being used productively. Rather, 'expected' is the adjective form, and the split should reflect un- + expect + -ed (forming the adjective) + -ly (forming the adverb). The current presentation obscures this structure.",
+    "suggestion": "Clarify that the structure is un- + expected (adjective) + -ly, or combine 'expect' and 'ed' to show 'expected' as the adjective base before '-ly' is applied.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation '그의 요구는 지나쳤습니다' is awkward. It literally means 'His demands were excessive/went too far,' but the more natural Korean for 'unreasonable' in this context would use '비합리적이다' or '부당하다'.",
+    "suggestion": "Change exampleTranslation to '그의 요구는 불합리했습니다' or '그의 요구는 부당했습니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unacceptable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation '그 행동은 완전히 참을 수 없습니다' is awkward. While '참을 수 없는' is listed in translationLong, it's not the most natural primary translation. '받아들일 수 없다' or '부적절하다' would be more standard.",
+    "suggestion": "Change exampleTranslation to '그 행동은 완전히 받아들일 수 없습니다' or '그 행동은 완전히 부적절합니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as un + willing + ness, not un + will + ing + ness. 'Willing' is the adjective form (will + -ing as a suffix creating an adjective), and then -ness converts it to a noun. The current split treats 'will' as a standalone morpheme and 'ing' as a separate suffix, which misrepresents the morphological structure.",
+    "suggestion": "Split as: un (부정·not) | willing (기꺼이 하려는·willing) | ness (-ness, 명사 접미사)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation '그의 마지못한 도움은 실망스러웠습니다' doesn't accurately convey the original meaning. The sentence 'His unwillingness to help was disappointing' means his refusal/reluctance to help was disappointing, not that his grudging help was disappointing. The current translation suggests he did help (도움), when the original implies he didn't or was reluctant to.",
+    "suggestion": "Change to: '그가 도움을 주려 하지 않은 것은 실망스러웠습니다.' or '그의 도움을 주지 않으려는 태도는 실망스러웠습니다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "reintroduction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation '늑대를 복원하는 것은 생태계를 회복하는 데 도움이 되었다' is awkward. '복원하는' (restoring/recovering) is not the best verb for reintroduction of wolves. Should use a verb that better captures 'reintroduction' or 'bringing back'.",
+    "suggestion": "늑대의 재도입은 생태계를 회복하는 데 도움이 되었다. or 늑대를 다시 도입한 것은 생태계를 회복하는 데 도움이 되었다.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word 'recycling' should be split as 're' + 'cycle' + 'ing', but the morphological analysis treats 'cycle' as a simple root when it could also be analyzed as 'cy' + 'cle' (from Greek kyklos). However, more importantly, the homeLang translation for 'cycle' as just '순환' (circulation) is incomplete—it should note that in 'recycling' context, the full semantic unit is about processing/using again in a cycle.",
+    "suggestion": "Consider noting that 'cycle' in this context carries the sense of 'going through a process again' and the homeLang should reflect the complete meaning of the morpheme within recycling, not just abstract circulation.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "communication",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'com', 'mun', and 'ication', but 'mun' and 'ication' should be further analyzed. The correct split is 'com' + 'muni' (relating to common/community) + 'cation' (from -cate, to make/do). The 'mun' part is incomplete and the suffix should be '-ication' not separate '-tion'.",
+    "suggestion": "Split as: com (together) + muni (common/community) + cation (-ication, making/doing suffix)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is listed as 'vestig' but should include the full root. The correct breakdown is 'in' + 'vestigate' (from Latin 'vestigium' meaning footprint/trace) + '-ion'. The 'vestig' part is incomplete.",
+    "suggestion": "Adjust to 'investig' (from vestigium, footprint/to track) or clarify that 'vestig' represents the root 'vestigium'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "introduction",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "'intro' should be split further into 'in' (into) + 'tro' (variant of 'trō', to send/thrust). Currently listed as a single unit 'intro'.",
+    "suggestion": "Split 'intro' into its component parts: 'in' (into) and 'tro' (thrust/send), or keep 'intro' as a combined prefix but note it contains both elements",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'pronunciation' should be split as 'pro' + 'nun' + 'cia' + 'tion', not 'pro' + 'nunc' + 'iation'. The current split treats 'nunc' as a morpheme with the gloss '-phone', which is wrong—'nunc' is not a morpheme in 'pronunciation'.",
+    "suggestion": "Split as: pro (forward) + nun/nunci (speak/announce) + ation (-tion). Or provide the correct morphological breakdown of this Latin-derived word.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-phone' for 'nunc' is incorrect. '-phone' (as in telephone, microphone) means 'sound/voice', but 'nunc-' in pronunciation comes from Latin 'nuntiare' (to announce/speak), not from 'phonē'. This is a false cognate conflation.",
+    "suggestion": "Change to 'nunci-' or 'nunc-/말하다/발표하다' (speak/announce) to reflect the actual Latin root.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "explanation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'flat' for 'plan' is misleading. In 'explanation', 'plan-' comes from Latin 'planus' (flat/level), but this is a frozen compound—the modern sense of 'explanation' has nothing to do with 'flatness'. The morpheme is etymologically correct but the semantic connection is broken.",
+    "suggestion": "Either flag as frozen_compound, or clarify: 'plan-/평평한 (from Latin planus, but meaning is now opaque in modern English)'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "examination",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'weigh' for 'am' is incorrect. In 'examination', 'am-' comes from Latin 'examinare' (to weigh out, test), but 'am' is not a standalone morpheme meaning 'weigh'. The root is 'examin-' (from 'examen'), not split as 'ex' + 'am' + 'ination'.",
+    "suggestion": "Resplit as 'ex' + 'amin' + 'ation', with 'amin-' glossed as 'test/weigh' or acknowledge this is a frozen compound where the internal structure is opaque.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "imagination",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'image' for 'ag' is misleading. In 'imagination', 'ag-' comes from Latin 'agere' (to do/drive/move), not from 'imago' (image). While 'imag-' does relate to 'image', the split 'im' + 'ag' + 'ination' is incorrect; it should be 'im' + 'agin' + 'ation' or 'imag' + 'ination'.",
+    "suggestion": "Resplit as 'im' + 'agin' + 'ation' or 'imag' + 'ination', with 'agin-' or 'imag-' glossed to reflect the image/picture sense.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "population",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'people' for 'pop' is etymologically misleading. In 'population', 'pop-' comes from Latin 'populus' (people), but the suffix '-ulation' transforms it. The split 'pop' + 'ulation' obscures that 'popul-' is the true root morpheme. Also, '-ulation' is not simply '-tion'.",
+    "suggestion": "Resplit as 'popul' + 'ation', or if keeping 'pop', clarify that the full root is 'popul-' (people) and '-ulation' is the suffix.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '편한 분위기의 대화' (comfortable atmosphere conversation) is too specific and narrow. It emphasizes comfort/casualness, but 'conversation' simply means an exchange of words between people, not necessarily in a comfortable setting.",
+    "suggestion": "Change to '대화' (conversation) or '대화 나누기' (exchanging conversation)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '빛이 튀어나가는 것' (light bouncing back) is too narrow and physical. While this is one meaning, 'reflection' more commonly refers to the image you see in a mirror or the act of thinking deeply. The short translation should capture the primary meaning.",
+    "suggestion": "Change to '거울상' (mirror image) or '깊은 생각' (deep thought) depending on context, or use '반영' (reflection) as a more general term",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "invitation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'vit' is glossed as '부르다' (to call/invite), but this is misleading. The Latin root 'vit-' comes from 'vitare' (to avoid) or more accurately here from 'invitare' which has uncertain etymology. The modern English meaning 'invite' did develop from Latin, but reducing 'vit' to simply '부르다' obscures that this is a Latin root with its own history, not a transparent morpheme with a simple Korean equivalent.",
+    "suggestion": "Either provide more accurate etymology (e.g., '초대하다' or 'Latin vitare의 어원') or note that 'vit' is a Latin root rather than a simple morpheme with a single Korean gloss.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The split 'pre-par-ation' is incorrect. The correct split should be 'pre-pare-ation' or more accurately 'pre-par(e)-ation'. The root is 'parare' (to prepare), and 'par' alone is not a standard morpheme boundary in 'preparation'.",
+    "suggestion": "Change parts[1].targetLang from 'par' to 'pare' or 'par(e)' to reflect the actual Latin root.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "organization",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "'organ' itself is a compound or complex form derived from Greek 'organon' (tool/instrument). While technically not requiring further splitting in English morphology, the gloss '몸/도구' suggests the entry recognizes its dual meaning potential. The entry would benefit from clarification that 'organ' here is a Greek root, not a simple English morpheme.",
+    "suggestion": "Either simplify the homeLang gloss to a single primary meaning (e.g., '도구') or add homeLangDetails explaining that 'organ' is a Greek root with multiple senses.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'sat-is-faction' is incorrect. The correct morphological analysis should be 'sat(is)-faction' or more accurately 'satis-faction' where 'satis' (enough/sufficient in Latin) + 'facere' (to do/make). The current split incorrectly separates 'is' as its own morpheme when it's part of the Latin root 'satis'.",
+    "suggestion": "Revise to: parts[0].targetLang='satis', parts[0].homeLang='충분한', parts[1].targetLang='faction', parts[1].homeLang='-tion' (or combine into 'satis' + 'fact' + 'ion' with appropriate glosses).",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'e-' in 'evaluation' does not mean 'out/former'. It is a variant of 'ex-' but in 'evaluation' it is simply part of the Latin root 'valere' (to be strong/worth). The 'e' is not a separate morpheme with directional meaning here.",
+    "suggestion": "Remove this part or clarify that 'e-' here is not a productive prefix but part of the root. Consider splitting as 'eval' + 'uation' instead, or note that 'e-' in this context does not carry the 'out/former' meaning.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "understandable",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "'under-' in 'understand' does not mean 'under' in the spatial or deficiency sense. The word 'understand' comes from Old English where 'under-' intensified the meaning of 'stand', not negated it. The Korean gloss '아래 또는 부족함' is misleading for this word.",
+    "suggestion": "Clarify that 'under-' in 'understand' is etymologically different and does not carry the 'below/deficiency' meaning. The morpheme should be noted as archaic/fused rather than productively meaning 'under'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "understandable",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'understand' + 'able', not 'under' + 'stand' + 'able'. While 'under' and 'stand' are historically components, 'understand' is a frozen compound where the parts no longer productively compose. For a language learner, splitting it as three parts suggests productive morphology that does not apply.",
+    "suggestion": "Split as 'understand' + 'able' (two parts) or add a note that 'understand' is a lexicalized compound.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "incredible",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '믿다' (believe/trust) is misleading. While 'cred' etymologically relates to Latin 'credere' (believe), in 'incredible' the suffix '-ible' already carries the 'able to be' meaning. The morpheme should be glossed as the root relating to belief/credibility, not as a standalone action.",
+    "suggestion": "Change to '믿음/신뢰' (belief/credibility) or add clarification that 'cred' is a root meaning 'believe' that combines with '-ible' to mean 'believable'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '가능한' (possible) is the opposite of what 'poss' contributes to 'impossible'. This is confusing because 'poss' is part of 'possible/possibility' but students need to understand that 'im-' negates it.",
+    "suggestion": "Change to '가능' (possibility) or '가능하다' with a note that 'im-' negates this meaning, resulting in 'impossible'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '대응하다' (respond/correspond) is too narrow and misleading. 'Respons' in 'responsible' means 'to answer for' or carries the sense of accountability/duty, not just 'respond'.",
+    "suggestion": "Change to '답하다/책임지다' (answer for/be accountable) or '책임' (responsibility) to better capture the meaning in context",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'reverse' should be further split into 're' (again, back) and 'verse' (turn), as 're-' is a productive prefix meaning 'back/again' that should be separated from 'verse' (from Latin vertere, to turn).",
+    "suggestion": "Split 'reverse' into 're' (다시, 뒤로) and 'verse' (돌리다, 돌아가다)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'reverse' is listed as '돌이키다' but this doesn't fully capture the 'verse'/'vert' morpheme meaning. The root 'verse' relates to turning/turning back, not just '돌이키다'.",
+    "suggestion": "Consider '돌리다, 역행하다' or similar to better represent the 'turn/turn back' sense of the morpheme",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The example '편한(comfortable)' is incorrect for the '-ible' suffix. Comfortable does not derive from comfort + -ible in the way shown; this is a false example that doesn't illustrate the '-ible' suffix meaning '-할 수 있는'.",
+    "suggestion": "Replace '편한(comfortable)' with a correct example like '읽을 수 있는(readable)' or '파괴할 수 있는(destructible)'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'natur' is listed as '자연' but the morpheme is incomplete. In 'supernatural', the full morpheme is 'nature' not just 'natur', and the '-e' is part of the root.",
+    "suggestion": "Change 'natur' to 'nature' (자연) to match the actual morpheme in the word",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails for 'bio' is in English, not Korean. It should be consistent with the Korean explanations provided for other morphemes.",
+    "suggestion": "Provide Korean explanation: '생명을 의미해요. 생물학(biology), 자서전(biography), 생분해(biodegradable) 같은 단어들에서 만날 수 있어요.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'matic' is glossed as '움직임' (movement), but it actually derives from Greek 'automatos' meaning 'acting of itself' or relating to automatism. The suffix '-matic' relates to automatic functioning, not movement.",
+    "suggestion": "Change to '자동적인' or '자동으로 작동하는'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'respons' is glossed as '응답' (response/answer), but 'respons' actually comes from Latin 'respondere' meaning 'to answer back' or 'to be accountable.' While etymologically related to answering, the modern semantic connection in 'responsibility' is accountability/obligation, not simply 'response.' The gloss is misleading for understanding the word's actual meaning.",
+    "suggestion": "Change homeLang to '책임지다' or '대답하다' with a note that it means 'to answer for' or 'be accountable for', or clarify in homeLangDetails that this is about being answerable/accountable rather than just responding.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "electricity",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'electric' is glossed as '전기' (electricity), but 'electric' is the adjective form, not the noun. The gloss should reflect the adjective meaning '전기의' (electric/electrical) rather than the noun '전기' (electricity). This creates confusion since 'electricity' is the noun form derived from the adjective.",
+    "suggestion": "Change homeLang to '전기의' or '전기적인' to accurately reflect that 'electric' is an adjective, or add clarification in homeLangDetails about the relationship between the adjective and noun forms.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'create + iv + ity', but the actual morphological structure is 'creat(e) + iv + ity'. The root 'create' is not a standalone morpheme here; it's the verb stem 'creat-' that combines with '-ive' and '-ity'. The '-iv-' gloss is misleading because it suggests a Korean '-적인' suffix, but in English the suffix is '-ive' (which becomes '-ive' in 'creative'), not a separate '-iv' morpheme.",
+    "suggestion": "Split as 'creat + ive + ity' where 'creat' is the root, '-ive' means 'having the quality of' (not just '-적인'), and '-ity' nominalized it.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Same issue as 'creativity': the word is split as 'product + iv + ity', but it should be 'product + ive + ity'. The suffix is '-ive', not '-iv'.",
+    "suggestion": "Split as 'product + ive + ity'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The suffix '-ible' is glossed as '-할 수 있는' (able to), but the actual morpheme structure should be '-ible' from the root 'flex-'. However, the more significant issue is that 'flexible' itself should be recognized: 'flex + ible', and then 'flexible + ity' would be clearer. The current split 'flex + ible + ity' is technically correct but the '-ible' morpheme's gloss conflates multiple senses.",
+    "suggestion": "The split is acceptable, but the gloss for '-ible' should be clarified as 'capable of being' or 'able to be' (passive sense) rather than '-할 수 있는' which implies active ability.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as 'effect + iv + ly', but the actual structure is 'effect + ive + ly'. The suffix is '-ive', not '-iv'.",
+    "suggestion": "Split as 'effect + ive + ly'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "creatively",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'creatively' breaks down as create + -ive + -ly, not create + iv + ly. The suffix is '-ive' (not 'iv'), which forms adjectives from verbs.",
+    "suggestion": "Change parts[1].targetLang from 'iv' to '-ive' to accurately represent the adjectival suffix",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'productively' breaks down as product + -ive + -ly, not product + iv + ly. The suffix is '-ive' (not 'iv'), which forms adjectives.",
+    "suggestion": "Change parts[1].targetLang from 'iv' to '-ive' to accurately represent the adjectival suffix",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'attractively' breaks down as attract + -ive + -ly, not attract + iv + ly. The suffix is '-ive' (not 'iv'), which forms adjectives from verbs.",
+    "suggestion": "Change parts[1].targetLang from 'iv' to '-ive' to accurately represent the adjectival suffix",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The 're-' prefix in 'researcher' does not mean 'again' or 'repeat'. In this word, 're-' is part of 'research' (from Old French 'cerchier'), not functioning as a true prefix with the meaning of repetition. The breakdown should be 'research' + 'er', not 're' + 'search' + 'er'.",
+    "suggestion": "Remove the 're-' as a separate morpheme. The correct split is: research (탐색) + -er (-인)",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '의사소통자' is awkward and unnatural. The correct term for someone skilled at communication would be '뛰어난 커뮤니케이터' or more naturally '소통 능력이 뛰어난 사람' or '훌륭한 연사'.",
+    "suggestion": "Change to: '소통 능력이 뛰어난 그녀는 대중 연설에 탁월하다.' or '훌륭한 연사인 그녀는 대중 연설에 탁월하다.'",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The prefix 'in-' in 'investigate' should be analyzed as 'in-' (meaning 'into/toward'), not separated as shown. However, the homeLang explanation conflates two different uses of 'in-'. In 'investigate', the 'in-' means 'into' (directional), not 'not' (negation). The explanation lists both meanings but doesn't clarify which applies here.",
+    "suggestion": "Clarify that in 'investigate', 'in-' means 'into/toward' (directional sense), and optionally note that this is different from the negation sense in 'inactive' or 'impossible'.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "participate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'ticip' as '가지다' (to take/have) is misleading. While the etymological root capere does mean 'to take', the bound morpheme '-ticip-' as it appears in English is not independently glossable as a simple verb. The explanation correctly notes the historical meaning but the field presents it as if '-ticip-' is a standalone morpheme with that meaning in modern English, which is inaccurate.",
+    "suggestion": "Either regloss as 'capere root (take)' or revise homeLangDetails to emphasize this is an etymological reconstruction rather than a synchronic morpheme.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The suffix '-ulate' should likely be further split into '-ul-' (diminutive/frequentative) and '-ate' (verbalizer) to be consistent with the analysis of other words in this set, which separately identify '-ate' as the verbalizer.",
+    "suggestion": "Split as 'con' + 'grat' + 'u' (diminutive) + 'late' (-ate verbalizer), or alternatively keep '-ulate' together but be consistent with the approach used in 'communicate' and other entries.",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split into 4 parts (mis-inter-pret-et), but 'et' is not a separate morpheme in English. The correct split should be: mis-interpret, or further: mis-inter-pret. The '-et' ending is described as an 'archaic infinitive ending' but modern 'misinterpret' doesn't use this form.",
+    "suggestion": "Remove the 'et' part. Split as: mis + inter + pret, or more simply: mis + interpret",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "false_cognate",
+    "field": "parts[2].homeLang",
+    "issue": "'pret' is glossed as '설명하다' (to explain), but this is misleading. The root 'pret' comes from Latin 'praetere' or 'preter-', not from a verb meaning 'explain.' The morpheme relates to 'prae' (before) or represents an interpretation/reading sense, not literal explanation.",
+    "suggestion": "Revise to something like '해석하다/읽다' (interpret/read) or note that it relates to the Latin root meaning 'to explain/expound' more carefully",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Korean translation '내 말을 잘못 이해하지 마. 난 진심으로 한 말이야.' uses informal/casual speech ('마', '난') while the English example is formal. This creates a register mismatch.",
+    "suggestion": "Use more formal Korean: '제 말을 잘못 이해하지 마세요. 저는 진심으로 한 말입니다.' or adjust the English example to match the casual register",
+    "source_file": "en-ko.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The homeLangDetails for 'con' mentions that 'spelling changes depending on the following sound' (assimilation), but this is not explained in the entry. For learners, it would be helpful to note that 'con' can appear as 'com-' (before p, b, m) or 'cor-' (before r).",
+    "suggestion": "Add a note such as '(con, com, cor 등으로 바뀜)' to indicate assimilation, or expand homeLangDetails to explain when these variations occur",
+    "source_file": "en-ko.json"
+  }
+]

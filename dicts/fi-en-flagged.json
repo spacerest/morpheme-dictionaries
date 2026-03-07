@@ -1,0 +1,307 @@
+{
+  "words": [
+    {
+      "id": "kaupunki",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaupunki",
+          "homeLang": "city, town"
+        }
+      ],
+      "translationShort": "city, town",
+      "translationLong": "",
+      "exampleSentence": "Helsinki on Suomen suurin kaupunki.",
+      "exampleTranslation": "Helsinki is the largest city in Finland.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "lääkäri",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "lääkäri",
+          "homeLang": "doctor, physician"
+        }
+      ],
+      "translationShort": "doctor",
+      "translationLong": "doctor, physician",
+      "exampleSentence": "Lääkäri kirjoitti minulle reseptin.",
+      "exampleTranslation": "The doctor wrote me a prescription.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "ruoanlaitta",
+      "article": "",
+      "flag": "Possible misspelling — standard Finnish is 'ruoanlaittaja' (cook, noun) or 'ruoanlaitto' (cooking). Please verify the intended word.",
+      "parts": [
+        {
+          "targetLang": "ruoan",
+          "homeLang": "of food",
+          "homeLangDetails": "The genitive form of ruoka (food). In Finnish compounds, the first element often appears in the genitive to show that something relates to it."
+        },
+        {
+          "targetLang": "laitta",
+          "homeLang": "cook/prepare",
+          "homeLangDetails": "Appears to be a truncated or colloquial form related to laittaa (to prepare, to make). The full agent noun would be laittaja (one who makes/prepares). As written, this may be an informal shortening or a typo."
+        }
+      ],
+      "translationShort": "cook (person)?",
+      "translationLong": "Likely intended as 'cook' (person) — the standard form is ruoanlaittaja",
+      "exampleSentence": "Hän on taitava ruoanlaittaja.",
+      "exampleTranslation": "He is a skilled cook."
+    },
+    {
+      "id": "kaunis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kaunis",
+          "homeLang": "beautiful",
+          "homeLangDetails": "A single-root adjective with no transparent morpheme split in modern Finnish. The word is ancient and not productively decomposable into separate meaningful parts today."
+        }
+      ],
+      "translationShort": "beautiful, pretty",
+      "translationLong": "beautiful, pretty, handsome, lovely",
+      "exampleSentence": "Auringonlasku oli todella kaunis.",
+      "exampleTranslation": "The sunset was truly beautiful.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "ruma",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ruma",
+          "homeLang": "ugly",
+          "homeLangDetails": "A single-root adjective meaning ugly or unattractive. It is not transparently decomposable into smaller meaningful parts in modern Finnish."
+        }
+      ],
+      "translationShort": "ugly",
+      "translationLong": "ugly, unattractive, unsightly",
+      "exampleSentence": "Hän sanoi, että taulussa on ruma väri.",
+      "exampleTranslation": "She said the painting has an ugly color.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "heikko",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "heikko",
+          "homeLang": "weak/feeble",
+          "homeLangDetails": "A single-root adjective meaning weak, feeble, or frail. It is not transparently decomposable into smaller meaningful parts in modern Finnish."
+        }
+      ],
+      "translationShort": "weak, feeble",
+      "translationLong": "weak, feeble, frail, poor (in quality)",
+      "exampleSentence": "Signaali oli niin heikko, että puhelu katkesi.",
+      "exampleTranslation": "The signal was so weak that the call dropped.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "puhdas",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puhdas",
+          "homeLang": "clean/pure",
+          "homeLangDetails": "A single-root adjective meaning clean or pure. Related to the verb puhdistaa (to clean, to purify), but the adjective itself is not transparently decomposable in modern Finnish."
+        }
+      ],
+      "translationShort": "clean, pure",
+      "translationLong": "clean, pure, spotless, neat",
+      "exampleSentence": "Vesi oli kristallinkirkasta ja puhdasta.",
+      "exampleTranslation": "The water was crystal clear and pure.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "tärkeä",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tärkeä",
+          "homeLang": "important"
+        }
+      ],
+      "translationShort": "important",
+      "translationLong": "important, significant",
+      "exampleSentence": "On tärkeää syödä terveellisesti.",
+      "exampleTranslation": "It is important to eat healthily.",
+      "flag": "only 1 part"
+    },
+    {
+      "id": "unohttaminen",
+      "article": "",
+      "flag": "Possible typo: standard Finnish spelling is 'unohtaminen' (single t). Entry created as given but note the likely misspelling.",
+      "parts": [
+        {
+          "targetLang": "unoh",
+          "homeLang": "forget",
+          "homeLangDetails": "The root unoh- is the core of unohtaa (to forget). Related words include unohtunut (forgotten) and unohdus (forgetfulness, an instance of forgetting). The root may be distantly related to uni (sleep/dream), suggesting a sense of something 'slipping away'."
+        },
+        {
+          "targetLang": "tta",
+          "homeLang": "(causative)",
+          "homeLangDetails": "The -tta- is a causative suffix. In unohtaa it contributes to the transitive sense of actively forgetting something, as opposed to something slipping from memory passively."
+        },
+        {
+          "targetLang": "minen",
+          "homeLang": "(verbal noun)",
+          "homeLangDetails": "The -minen suffix turns unohtaa (to forget) into a noun: the act of forgetting."
+        }
+      ],
+      "translationShort": "forgetting",
+      "translationLong": "the act of forgetting",
+      "exampleSentence": "Tärkeiden asioiden unohtaminen voi olla stressaavaa.",
+      "exampleTranslation": "Forgetting important things can be stressful."
+    },
+    {
+      "id": "liikenneasema",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liikenne",
+          "homeLang": "traffic, transit"
+        },
+        {
+          "targetLang": "asema",
+          "homeLang": "station, position"
+        }
+      ],
+      "translationShort": "traffic station, bus station",
+      "translationLong": "transit station, bus/coach station, transport hub",
+      "exampleSentence": "Tapaamme liikenneasemalla kello kolme.",
+      "exampleTranslation": "We'll meet at the bus station at three o'clock.",
+      "flag": "only 2 parts — both are full independent words compounded directly"
+    },
+    {
+      "id": "liikelaitos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liike",
+          "homeLang": "business, movement"
+        },
+        {
+          "targetLang": "laitos",
+          "homeLang": "institution, establishment"
+        }
+      ],
+      "translationShort": "public enterprise",
+      "translationLong": "municipal enterprise, public business entity",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "liiketoiminta",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "liike",
+          "homeLang": "business, movement"
+        },
+        {
+          "targetLang": "toiminta",
+          "homeLang": "activity, operation",
+          "homeLangDetails": "From toimia (to act, to function) + -nta, a suffix forming action nouns. Toiminta means 'activity' or 'operation' on its own."
+        }
+      ],
+      "translationShort": "business activity",
+      "translationLong": "business, commerce, business operations",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "sähkölaitos",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sähkö",
+          "homeLang": "electricity"
+        },
+        {
+          "targetLang": "laitos",
+          "homeLang": "institution, establishment"
+        }
+      ],
+      "translationShort": "power plant, electric utility",
+      "translationLong": "electric utility, power station, electricity company",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "ilmaisukyky",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ilmaisu",
+          "homeLang": "expression",
+          "homeLangDetails": "From ilmaista (to express) + the action noun suffix -u. Ilmaisu means 'expression' or 'articulation' — the act of putting something into words or form."
+        },
+        {
+          "targetLang": "kyky",
+          "homeLang": "ability, capacity"
+        }
+      ],
+      "translationShort": "expressive ability",
+      "translationLong": "power of expression, expressive capacity, communicative ability",
+      "exampleSentence": "Kirjallisuus kehittää lapsen ilmaisukykyä.",
+      "exampleTranslation": "Literature develops a child's expressive ability.",
+      "flag": "only 2 parts — both are full independent words"
+    },
+    {
+      "id": "puutalollinen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "puu",
+          "homeLang": "wood, tree"
+        },
+        {
+          "targetLang": "talo",
+          "homeLang": "house",
+          "homeLangDetails": "Talo means house, and this root appears across a big family of words about buildings and home life. Taloyhtiö is a housing company, talous means household or economy, and talvi (winter) is a separate word but talo itself is everywhere. It is a great anchor word for domestic vocabulary."
+        },
+        {
+          "targetLang": "ll",
+          "homeLang": "(adjectival stem)",
+          "homeLangDetails": "A bridging element linking the compound noun puutalo to the -inen adjective suffix. Together with -inen it forms an adjective meaning 'having a wooden house' or 'pertaining to a wooden house.'"
+        },
+        {
+          "targetLang": "inen",
+          "homeLang": "having, relating to",
+          "homeLangDetails": "This is one of Finnish's most productive suffixes, roughly equivalent to English \"-en\", \"-ish\", or \"-al\". It turns nouns into adjectives. Puinen means wooden (from puu, tree), suomalainen means Finnish, and keltainen means yellow. You will meet this suffix constantly."
+        }
+      ],
+      "translationShort": "having a wooden house",
+      "translationLong": "relating to or owning a wooden house",
+      "exampleSentence": "Puutalollinen perhe remontoi talonsa kesällä.",
+      "exampleTranslation": "The family with a wooden house renovated it in the summer.",
+      "flag": "4 parts — full decomposition retained for clarity"
+    },
+    {
+      "id": "kielellistyminen",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "kiel",
+          "homeLang": "language",
+          "homeLangDetails": "The stem of 'kieli' (language, tongue). See also: kielellinen."
+        },
+        {
+          "targetLang": "ellist",
+          "homeLang": "(verbalizing stem)",
+          "homeLangDetails": "This element packages the adjective-forming suffix -ellinen together with a verbalizing -stua/-stya pattern into a single stem. The combined effect is 'become linguistic/language-like'. Finnish frequently builds multi-layer derivations like this before adding the verbal noun ending."
+        },
+        {
+          "targetLang": "yminen",
+          "homeLang": "becoming, process of",
+          "homeLangDetails": "A fusion of the reflexive/inchoative verbal suffix -uminenn/-yminen, forming a verbal noun meaning 'the process of becoming'. Here the full ending is -yminen, indicating an intransitive 'becoming' process."
+        }
+      ],
+      "translationShort": "linguistification, becoming linguistic",
+      "translationLong": "the process of becoming expressed in language, linguistification",
+      "exampleSentence": "Tunteiden kielellistyminen on tärkeä osa terapiaa.",
+      "exampleTranslation": "The linguistification of emotions is an important part of therapy.",
+      "flag": "complex layered derivation; 3 parts used but internal structure is deeply layered"
+    }
+  ]
+}

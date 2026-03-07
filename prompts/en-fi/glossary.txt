@@ -1,0 +1,98 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Prefixes -- Germanic/Old English
+un- | un-/not | The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable.
+re- | re-/again | Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with "doing again" or "going back."
+over- | over-/too much | Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for "above" in older compounds.
+under- | under-/too little | The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform).
+out- | out-/beyond | Points outward or signals surpassing something: outnumber, outstanding, outrun.
+mis- | mis-/wrongly | Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent.
+fore- | fore-/before | Before or in front. Forecast, foresee, forehead.
+
+# Prefixes -- Latin
+in-/im-/il-/ir- | in-/not or into | A chameleon prefix with two distinct meanings: "not" (inactive, impossible, illegal) and "into" (insert, import). The spelling shifts to match the following sound.
+ex-/e-/ef- | ex-/out of | Out of, former, or away. Exhale, export, eject, ex-president.
+con-/com-/co-/col-/cor- | con-/together | With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound.
+de- | de-/down/undo | Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word.
+dis- | dis-/not/apart | Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-.
+pre- | pre-/before | Before in time or position. Predict, prepare, prehistoric.
+pro- | pro-/forward/for | Forward, in favor of, or in place of. Progress, produce, pronoun.
+sub- | sub-/under | Under, below, or secondary. Subway, submarine, substitute.
+inter- | inter-/between | Between or among. International, interrupt, interact.
+trans- | trans-/across | Across, through, or changing from one state to another. Transport, transform, translate.
+super- | super-/above | Above, over, or exceptional. Superman, superior, supernatural.
+anti- | anti-/against | Against or opposing. Antiwar, antibiotic, anticipate.
+per- | per-/through | Through, thoroughly, or completely. Perform, permit, persist.
+ad-/a- | to/toward | Toward or in addition to. Adapt, admit, attract, arrive.
+
+# Prefixes -- Greek
+auto- | auto-/self | Self. Autobiography, automatic, automobile.
+micro- | micro-/tiny | Very small. Microphone, microscope, microwave.
+tele- | tele-/far | At a distance. Telephone, television, telescope.
+poly- | poly-/many | Many. Polygon, polyglot, polynomial.
+mono- | mono-/one | One or alone. Monopoly, monologue, monotone.
+semi- | semi-/half | Half or partly. Semicircle, semifinal, semiconscious.
+bio- | bio-/life | Life. Biology, biography, biodegradable.
+geo- | geo-/earth | Earth or land. Geography, geology, geometry.
+multi- | multi-/many | Many or multiple. Multicultural, multimedia, multiply.
+
+# Suffixes
+-tion/-sion | -tion | The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung.
+-ment | -ment | Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment.
+-ness | -ness | Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity.
+-ity/-ty | -ity | The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality.
+-er/-or | -er | Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer.
+-ist | -ist | A person who practices, specializes in, or believes in something. Artist, scientist, pianist.
+-ism | -ism | A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm.
+-ize/-ise | -ize | To make something have a quality, or to cause a process. Modernize, organize, realize.
+-ify | -ify | To make or cause to become. Simplify, clarify, intensify.
+-ful | -ful | Full of or characterized by. Beautiful, careful, powerful.
+-less | -less | Without. Careless, hopeless, speechless.
+-able/-ible | -able | Capable of being done. Readable, comfortable, possible.
+-ous/-ious | -ous | Having, full of, or characterized by. Famous, serious, courageous.
+-al/-ial | -al | Relating to or of the nature of. Musical, natural, industrial.
+-ic | -ic | Relating to or having the qualities of. Heroic, electric, historic.
+-ive | -ive | Tending to or having the nature of. Active, creative, descriptive.
+-ly | -ly | Forms adverbs from adjectives, meaning "in a [manner]." Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely.
+-ship | -ship | A state, condition, or relationship. Friendship, leadership, scholarship.
+-hood | -hood | A state, condition, or group. Childhood, neighborhood, brotherhood.
+-dom | -dom | A state, realm, or collective. Freedom, kingdom, wisdom.
+-ward/-wards | -ward | In the direction of. Forward, backward, upward.
+
+# Greek roots (appear as standalone morpheme parts in many words)
+-graph-/-graphy | -graph- | Writing or recording. Photography, biography, autograph.
+-logy | -logy | The study of. Biology, psychology, technology.
+-phon-/-phone | -phone | Sound or voice. Telephone, microphone, symphony.
+-chron- | -chron- | Time. Chronology, synchronize, anachronism.
+-path-/-pathy | -pathy | Feeling, suffering, or disease. Sympathy, empathy, antipathy.
+-morph- | -morph- | Form or shape. Metamorphosis, amorphous, morphology.
+-scope | -scope | An instrument for viewing. Telescope, microscope, stethoscope.
+-meter | -meter | A measuring instrument. Thermometer, speedometer, barometer.
+
+# Prefixes
+post- | jälkeen, myöhemmin | Post- tarkoittaa "jälkeen" tai "myöhemmin" -- aivan kuten suomen jälki- tai jälkeen-rakenteet. Se esiintyy esimerkiksi sanoissa postwar (sodan jälkeinen), postgraduate (jatko-opiskelija) ja postpone (lykätä). Kun näet post- sanan alussa, kyse on useimmiten ajallisesta tai paikallisesta "jälkeen"-suhteesta.
+mid- | keski-, puolivälissä | Mid- vastaa suomen keski-etuliitettä ja merkitsee jonkin keskikohtaa tai puoliväliä. Esimerkiksi midnight on keskiyö, midway tarkoittaa puolivälissä ja midterm viittaa lukukauden puoliväliin. Rakenne on helppo tunnistaa, koska se muistuttaa suoraan suomen keski-sanaa merkitykseltään.
+non- | ei-, epä- | Non- on kieltoliite, joka toimii hyvin samaan tapaan kuin suomen epä- tai ei-. Se tekee sanasta vastakohtansa: nonsense (järjettömyys), nonfiction (tietokirjallisuus) ja nonprofit (voittoa tavoittelematon). Erona un-etuliitteeseen non- on neutraalimpi eikä sisällä ajatusta "takaisin alkutilaan".
+over- on jo listalla, joten tämä on väärä -- siirrytään seuraavaan.
+hyper- | yli-, liiallinen | Hyper- merkitsee ylilyöntiä tai liiallista määrää, ja suomalaiset tuntevat sen lainasanoista kuten hyperaktiivinen. Englanniksi se esiintyy sanoissa hyperactive (yliaktiivinen), hypersensitive (yliherkkä) ja hyperlink (hyperlinkki). Kreikkalaisperäinen etuliite, joka on nykyisin erittäin elävä ja tuottava.
+# Suffixes
+-en | tehdä joksikin | Suffiksi -en muodostaa verbejä adjektiiveista tai substantiiveista ja tarkoittaa "tehdä joksikin" tai "tulla joksikin". Esimerkiksi brighten tarkoittaa kirkastaa, strengthen vahvistaa ja shorten lyhentää. Suomessa vastaava idea ilmaistaan useimmiten johdoksilla kuten lyhentää tai vahvistaa, mutta englannissa -en on siihen erittäin yleinen keino.
+-ling | pieni, nuori | Suffiksi -ling ilmaisee pienuutta, nuoruutta tai johonkin kuulumista. Tuttu esimerkki on duckling (ankanpoikanen), mutta myös sibling (sisarus) ja seedling (taimi) käyttävät sitä. Suomen diminutiivijohtimia muistuttava pääte, joka tekee isosta sanasta pienemmän tai nuoremman version.
+-age | toiminta, tulos, kokoelma | Suffiksi -age muodostaa substantiiveja ja viittaa toimintaan, sen tulokseen tai kokonaisuuteen. Sanoissa storage (varastointi), marriage (avioliitto) ja package (paketti) se on keskeinen osa. Pääte on ranskasta peritty, mutta se on täysin sulautunut arkipäiväiseen englantiin.
+-ary/-ory/-ery | liittyvä paikkaan tai toimintaan | Nämä kolme päätettä merkitsevät usein paikkaa tai johonkin liittyvää ominaisuutta. Bakery on leipomo, library kirjasto ja laboratory laboratorio. Suomalaiselle tuttu esimerkki on jo lainasanana tuttu laboratorio, joten yhteys on helppo muistaa.
+-ward/-wards on jo listalla -- korvataan seuraavalla.
+-ed | mennyt aika, ominaisuus | Suffiksi -ed on englannin menneen ajan tunnus säännöllisissä verbeissä, mutta se toimii myös adjektiivijohtimena. Walked on käveli, mutta tired tarkoittaa väsynyt ja talented lahjakas. Suomen vastaavuus on osittain partisiippirakenteet kuten väsynyt tai lahjakas, ja sama logiikka pätee kummassakin kielessä.
+# Roots and stems
+-spec-/-spect- | katsoa, tarkastella | Latinasta peräisin oleva juuri spec-/spect- merkitsee katsomista tai tarkastelua. Se esiintyy sanoissa inspect (tarkastaa), spectator (katsoja) ja respect (kunnioittaa, alkujaan "katsoa takaisin"). Kun törmäät tähän juureen, kyse on usein jonkinlaisesta havainnoinnista tai katseesta.
+-port- | kantaa, kuljettaa | Juuri port- tarkoittaa kantamista tai kuljettamista ja on erittäin yleinen englannissa. Esimerkiksi transport (kuljetus), import (tuonti) ja support (tukea, kirjaimellisesti "kantaa alta") sisältävät sen. Suomessa sana portti on kaukainen sukulainen, mutta merkitys on hieman erinyt alkuperäisestä.
+-vert-/-vers- | kääntää | Latinalainen juuri vert-/vers- merkitsee kääntymistä tai kääntämistä. Se löytyy sanoista convert (muuntaa), reverse (kääntää takaperin) ja divert (ohjata pois). Suomen kääntyä-verbin idea on täsmälleen sama, ja kun opit tämän juuren, avautuu kerralla iso joukko sanoja.
+-dict- | sanoa, lausua | Juuri dict- tulee latinan sanoa-verbistä ja esiintyy erittäin monessa arkisessa sanassa. Predict tarkoittaa ennustaa, dictionary sanakirja ja contradict väittää vastaan. Tämä on yksi hyödyllisimmistä englannin juurista, koska se kantaa aina selkeää "sanomisen" merkitystä.
+-fac-/-fact-/-fect-/-fic- | tehdä | Tämä monimuotoinen juuri tulee latinan facere-verbistä ja merkitsee tekemistä tai valmistamista. Manufacture on valmistaa, effect vaikutus ja sufficient riittävä. Suomessa ei ole suoraa vastinetta, mutta juuren tunnistaminen auttaa ymmärtämään valtavan määrän englannin sanoja.
+-ven-/-vent- | tulla | Juuri ven-/vent- merkitsee tulemista ja se on latinan venire-verbistä. Invent tarkoittaa keksiä (kirjaimellisesti "tulla päälle"), prevent estää ja event tapahtuma. Suomen tulla-verbin idea on sama, ja yhteys on helppo muistaa kun sen kerran oppii.
+-mit-/-miss- | lähettää, päästää | Juuri mit-/miss- merkitsee lähettämistä tai päästämistä ja on todella tuottava englannissa. Submit tarkoittaa lähettää tai alistua, permission lupa ja transmit välittää. Suomen lähettää muistuttaa toiminnallisesti, vaikka sanat eivät ole sukulaisia.
+# Linking elements
+-o- | yhdistysvokaali | Kirjain -o- toimii usein yhdistyskonsonanttina kreikkalaista alkuperää olevissa yhdyssanoissa. Se näkyy sanoissa biography, technology ja telephone sitomassa osia yhteen. Suomessa on vastaavasti yhdysvokaali monissa sanoissa, joten ajatus on tuttu, vaikka vokaali eri onkin.
+-i- | yhdistysvokaali (latinalainen) | Latinasta periytyvä yhdistysvokaali -i- liimaa sanavartalon seuraavaan elementtiin etenkin tieteellisissä ja teknisissä sanoissa. Se esiintyy esimerkiksi sanoissa artificial, beneficial ja omnivore. Tämä pieni vokaali on niin lyhyt, että se jää helposti huomaamatta, mutta se on tärkeä osa sanan rakennetta.

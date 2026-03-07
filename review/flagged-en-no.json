@@ -1,0 +1,977 @@
+[
+  {
+    "word": "contradiction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"selvmotsigelse\" (self-contradiction) is too narrow. The word \"contradiction\" refers to any logical inconsistency or conflicting statements, not necessarily self-contradiction.",
+    "suggestion": "Use \"motsetning\" or \"motsigelse\" as the primary translation, which is broader and more accurate for the general sense of contradiction.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "contradiction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"selvmotsigelse\" in the example translation is awkward. The sentence structure \"Det er en klar selvmotsigelse i hans to utsagn\" is unnatural because selvmotsigelse implies internal contradiction within a single statement, not between two statements.",
+    "suggestion": "Change to \"Det er en klar motsigelse/motsetning mellom hans to utsagn\" or \"Hans to utsagn motsier hverandre klart.\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'dict' does not mean 'si' (which appears to be incomplete or unclear). The Latin root 'dict' comes from 'dicere' meaning 'to say/speak', not 'si'.",
+    "suggestion": "Change homeLang to 'si' or clarify as 'tale/dom' (judgment/speaking), or simply 'tale' (speak)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'jurisdiksjon' which is just a transliteration/adaptation of the English word itself, not a translation into Norwegian. It should be the actual Norwegian translation.",
+    "suggestion": "Change to 'rettskompetanse' or 'domsomfattelse' or similar Norwegian equivalent",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The example 'minking' is not a standard English word and does not clearly illustrate the 'de-' prefix meaning. The list of examples is confusing.",
+    "suggestion": "Replace with clear examples like 'decrease, depart, deconstruct' or use 'reduksjon, avgang, nedbrytning' in Norwegian context",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "destruction",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'de' in 'destruction' does not come from German 'de-' meaning reversal. In English, 'de-' is a Latin prefix meaning 'down' or 'away from', not specifically the German prefix 'de-/ab-'. The homeLang gloss 'ned/omvendt' (down/reversed) conflates German morphology with English etymology.",
+    "suggestion": "Change homeLang to reflect Latin 'de-' meaning 'down, away from' rather than referencing German morphology. Consider: 'ned/bort' or 'fra' to match the Latin prefix.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "While 'perspektiv' is a valid Norwegian translation, it is not the most natural short form in Norwegian. The more common and idiomatic short translation would be 'synspunkt' or 'standpunkt', though 'perspektiv' is also used.",
+    "suggestion": "Consider 'synspunkt' as an alternative, or verify that 'perspektiv' is preferred for this language-learning context.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "prescription",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails for 'pre' includes 'Forutsi, forberede, forhistorisk' but 'pre' in 'prescription' means 'before' in the sense of 'in advance' or 'beforehand', not future prediction. The examples given conflate different meanings.",
+    "suggestion": "Simplify to clarify that 'pre' here means 'before' or 'in advance', as in writing instructions before/in advance of use.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails for 'de' states it 'Reverserer ofte betydningen av ordstammen helt' (often reverses the meaning completely), but in 'description', 'de' does not reverse the meaning of 'scribe' - rather it intensifies or completes the act of writing. The description is misleading.",
+    "suggestion": "The 'de' prefix in 'description' means 'down' or 'about/concerning', not a reversal. Revise to: 'ned/ned' or 'om' (about), used to indicate writing down or describing something.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'uttrykk av følelse eller betydning' is awkward Norwegian; the preposition should be 'uttrykk for' (expression of/for) rather than 'av'.",
+    "suggestion": "Change to 'uttrykk for følelse eller betydning'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "depression",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails for 'de' claims it 'Reverserer ofte betydningen av ordstammen helt', but in 'depression', 'de' means 'down' and describes pressing down or lowering mood/state, not reversing the meaning of 'press'. The explanation is inconsistent with the actual meaning.",
+    "suggestion": "Revise to clarify that 'de' means 'down' and works with 'press' to mean 'press down', not a meaning reversal.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "distraction",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation has a spacing/formatting error: 'distraksjonskildeunder' should have a space between 'kilder' and 'under'",
+    "suggestion": "\"Støyen var en stor distraksjonskilde under testen.\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is split as 'miss' but should be 'mit' (from Latin mittere, to send). 'miss' is not a standard morpheme boundary in 'permission'",
+    "suggestion": "Split as 'per' + 'mit' + 'ion', where 'mit' means 'send'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "commitment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "\"mitt\" is glossed as \"send\", but in \"commitment\" it comes from Latin \"mittere\" (to send). However, the morpheme should be glossed as the root meaning \"send/put\" rather than a bare \"send\", since \"commit\" means \"to put together\" or \"entrust\". The gloss is oversimplified.",
+    "suggestion": "Change homeLang to \"sette/legge\" or \"overgi\" to better reflect the actual sense in commitment (putting/entrusting together)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "commitment",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"et løfte eller en løfte\" is grammatically incorrect in Norwegian. \"Løfte\" is a noun and doesn't take the indefinite article \"en\" twice. The phrasing is awkward.",
+    "suggestion": "Change to \"et løfte eller en forpliktelse; dedikasjon\" or simply \"en forpliktelse; dedikasjon\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"evnen til å forstå eller blir klar over\" is grammatically incorrect. \"Blir\" should be \"å bli\" in the infinitive form to match the parallel structure.",
+    "suggestion": "Change to \"evnen til å forstå eller å bli klar over\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Norwegian translation 'Introduversionen hennes' is unnatural. The noun form in Norwegian should be 'Introduvertheten hennes' or more naturally 'Introduversheten hennes' or simply use 'Hun er introvert' to express the concept naturally.",
+    "suggestion": "Use a more natural phrasing such as 'Introduvertheten hennes gjorde at hun foretrakk stille kveld hjemme.' or restructure as 'Hun er introvert og foretrakk derfor stille kveld hjemme.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "'Omgjøringen' is awkward in this context. The more natural Norwegian term would be 'Ombyggingen' or 'Konverteringen' when discussing architectural/structural conversion.",
+    "suggestion": "Change to 'Konverteringen av lageret til leiligheter tok flere måneder.' or 'Ombyggingen av lageret til leiligheter tok flere måneder.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "reference",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty. In Norwegian, 'referanse' is a common noun that requires an article. It should be 'en' (indefinite) or 'referansen' (definite).",
+    "suggestion": "Set article to 'en' for the indefinite article form.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty. In Norwegian, 'konferanse' is a common noun that requires an article. It should be 'en' (indefinite) or 'konferansen' (definite).",
+    "suggestion": "Set article to 'en' for the indefinite article form.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty. In Norwegian, 'interferens' is a common noun that requires an article. It should be 'en' (indefinite) or 'interferensen' (definite).",
+    "suggestion": "Set article to 'en' for the indefinite article form.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty. In Norwegian, 'konvertering' is a common noun that requires an article. It should be 'en' (indefinite) or 'konverteringen' (definite).",
+    "suggestion": "Set article to 'en' for the indefinite article form.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty. In Norwegian, 'introversjon' is a common noun that requires an article. It should be 'en' (indefinite) or 'introversionen' (definite).",
+    "suggestion": "Set article to 'en' for the indefinite article form.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split 'oc-cur-rence' is incorrect. The correct split should be 'oc-cur-rence' where 'oc' should be 'oc-' (a prefix variant of 'ob-' meaning 'toward'), but more fundamentally, the word comes from Latin 'occurrere' (to run toward/meet). The split should better reflect 'occur' + '-ence' rather than splitting 'occur' into 'oc' + 'cur'.",
+    "suggestion": "Consider splitting as 'occur' + '-ence', where 'occur' itself comes from Latin 'ob-' (toward) + 'currere' (to run). If splitting into three parts, use 'ob/oc' (toward) + 'cur' (run) + '-ence', and update the gloss for 'oc' to 'toward' rather than 'mot' (which may be ambiguous).",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 're-cur-rence' is incorrect. The word should be split as 're-curr-ence' since 'curr' is the root (from Latin currere, to run), not 'cur'. The double 'r' is part of the root morpheme.",
+    "suggestion": "Split as: re + curr + ence, with 'curr' glossed as 'løpe'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'con-cur-ent' is incorrect. The word should be split as 'con-curr-ent' since the root is 'curr' (double r), not 'cur'. The double 'r' is part of the root morpheme from Latin currere.",
+    "suggestion": "Split as: con + curr + ent, with 'curr' glossed as 'løpe'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'beispillløs' is incorrect and uses a German word (beispiel = example). The correct Norwegian translation should be 'presedenløs' or 'uten fortilfelle'.",
+    "suggestion": "Change translationShort to 'presedenløs' or 'uten fortilfelle'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation uses 'bijvoorbeeld' which is Dutch/German, not Norwegian. It should be a proper Norwegian sentence.",
+    "suggestion": "Change to 'Pandemien forårsaket en presedenløs forstyrrelse av skoler verden over.' or similar natural Norwegian phrasing",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation 'rekkefølge' is somewhat misleading. While it can mean 'succession' in some contexts, the primary sense here (following in sequence, especially regarding inheritance or office) is better captured by 'arvegang', 'etterfølging', or keeping 'rekkefølge' but clarifying the sense more precisely.",
+    "suggestion": "Revise to emphasize the sense of following one after another in a line of authority or continuity, e.g., 'en serie med ting som følger etter hverandre i en bestemt orden; prosessen med at noe eller noen følger etter et annet i rekkefølge'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "transformation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The gloss 'på tvers av, gjennom' (across, through) is misleading. In 'transformation', 'trans-' means 'across/through' in a spatial sense, but the word's actual meaning is about change of form, not primarily about the 'across' aspect. The homeLangDetails should clarify that 'trans-' often indicates change or going beyond.",
+    "suggestion": "Revise to emphasize that 'trans-' indicates change, movement across boundaries, or going from one state to another, rather than just spatial crossing.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'en forstyrring eller problem som avbryter' has a typo: 'forstyrring' should be 'forstyrrelse'. Additionally, 'som avbryter' (which interrupts) is awkward phrasing. The definition should focus on disruption as a disturbance or interruption itself, not as 'a disturbance that interrupts'.",
+    "suggestion": "Change to 'en forstyrrelse eller avbrudd i normal drift' or 'et brudd i kontinuitet eller normal funksjon'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'cor-rupt-ion' is incorrect. 'Corruption' comes from Latin 'corruptio' and should be split as 'corrupt' (adjective/verb root) + '-ion' (suffix), not 'cor-rupt-ion'. The 'cor-' is not a separate morpheme in English.",
+    "suggestion": "Split as: corrupt + -ion (or corrup + -tion)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'sam-/sammen' (together) is misleading for 'cor-'. The prefix 'cor-' (from Latin 'com-') does mean 'together', but this is not the same as Norwegian 'sam-' in a meaningful pedagogical way, and the split itself is wrong.",
+    "suggestion": "Remove this part or correct the entire morpheme split first",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[0].homeLang",
+    "issue": "'photo' should be glossed or split further to show 'phot-' (light) + 'o' (combining vowel). The gloss 'lys' (light) is correct but 'photo' as a unit obscures the internal structure.",
+    "suggestion": "Either split as 'phot + o' or note that 'photo' = phot- (light) + combining vowel",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'La oss synkronisere klokken før vi drar' is awkward. 'Synkronisere klokken' (synchronize the clock) is incorrect phrasing in Norwegian. Should be 'synkronisere klokkene' (plural) or better yet 'stille klokken' (set the watch/clock).",
+    "suggestion": "La oss synkronisere klokkene våre før vi drar. OR La oss stille klokken før vi drar.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "psychology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The first morpheme is glossed as \"sinn\" (mind), but \"psych-\" comes from Greek \"psyche\" which means \"soul\" or \"spirit\", not \"sinn\" in the modern sense. While related conceptually, the gloss is not precise to the original morpheme meaning.",
+    "suggestion": "Change homeLang to \"sjel\" (soul) or provide a more accurate gloss that reflects the Greek origin, with a note that it has evolved to mean \"mind\" in modern usage",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "empathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "\"em-\" is glossed as \"i-/inn-\" (in/into), but the prefix in \"empathy\" actually comes from Greek \"em-\" (a variant of \"en-\"), which does mean \"in\". However, the prefix is not a standalone Greek preposition in the same way \"syn-\" is. The homeLangDetails explanation about \"going into\" emotional states is somewhat interpretive rather than reflecting the actual morphological composition.",
+    "suggestion": "Clarify that \"em-\" is a Greek prefix variant of \"en-\" meaning \"in\", and note that the emotional interpretation is etymological but not a strict morphological analysis",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation contains a typo: 'ubehageliq' should be 'ubehageliq' (which appears to be a typo for 'ubehageliq' or 'ubehagelig'). Also, 'ubekvem' is not a standard Norwegian word; the correct form is 'ubehagelig' or 'ukomfortabel'.",
+    "suggestion": "Change translationLong to 'som forårsaker eller gir ubehag; ubehagelig eller ukomfortabel'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The part 'ous' lacks proper homeLangDetails explaining its function or meaning. While '-ous' is an English suffix forming adjectives, the entry provides no explanation for it.",
+    "suggestion": "Add homeLangDetails for 'ous': something like '-ous: Et engelsk suffiks som danner adjektiver, ofte fra latinske og greske røtter. Det angir en kvalitet eller tilstand.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"misrepresentasjon\" is a direct loanword that sounds unnatural in Norwegian. The short translation should use the more natural Norwegian term.",
+    "suggestion": "Change translationShort to \"falsk fremstilling, forvrengning\" (which is already in translationLong, so keep consistency or use \"feilaktig fremstilling\")",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "\"Artikkelen inneholdt en misrepresentasjon av fakta\" uses the loanword \"misrepresentasjon\" which is awkward. A more natural Norwegian phrasing would avoid the direct loanword.",
+    "suggestion": "Change to \"Artikkelen inneholdt en feilaktig fremstilling av fakta\" or \"Artikkelen forvrengde fakta\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "translationShort says 'transoceansk' (transoceanic) which is incorrect. 'Transcontinental' means crossing a continent, not an ocean.",
+    "suggestion": "Should be 'transkontinental' or 'kontinentoverskridende'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "transcontinental",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Norwegian translation 'Jernbanen som krysset kontinentet forbandt øst- og vestkysten' is awkwardly phrased. 'som krysset kontinentet' interrupts the main clause.",
+    "suggestion": "Should be something like 'Transkontinentaljernbanen forbandt øst- og vestkysten' or 'Jernbanen som krysset kontinenten forbandt øst- og vestkysten.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "modernization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as 'modern' + 'ize' + 'tion', but 'modern' is itself an adjective that doesn't decompose further in this context. However, the real issue is that the morpheme boundaries are misleading: the word is actually 'modern' + '-ization' (not '-ize' + '-tion' as separate steps). The suffix '-ization' is a single productive suffix in English, not '-ize' followed by '-tion'.",
+    "suggestion": "Split as 'modern' + 'ization' (or 'modern' + '-ize' + '-ation' if showing the internal structure of -ization, but the current split suggests two separate affixes applied sequentially)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "Similar to modernization: 'industrial' is already a derived adjective (from 'industry' + '-al'). The split should reflect that the base is 'industry', not 'industrial'. The suffix '-ization' should be kept as a single unit rather than split into '-ize' and '-tion'.",
+    "suggestion": "Split as 'industry' + 'al' + 'ization', or at minimum 'industrial' + 'ization' rather than separating '-ize' and '-tion'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "disagreement",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'agree' is itself a compound/derived word (ad- + gree, from Old French agreer), but more importantly, in 'disagreement' the verb 'agree' should ideally show that it can further decompose. However, the more pressing issue is that 'agree' as listed is the infinitive/base form, which is correct, but the homeLang 'enig' is an adjective, not a verb.",
+    "suggestion": "The homeLang for 'agree' should be 'å være enig' or 'enes' (the verb form) rather than 'enig' (the adjective)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' (ad, to) + 'point' (punctum, point/tip), as these are distinct morphemes with separate etymologies and meanings.",
+    "suggestion": "Split 'appoint' into its component morphemes: 'ap-' and 'point'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ous' is translated as '-et' (which is the Norwegian adjective ending), but '-ous' is an adjective-forming suffix similar to Norwegian '-et/-ig', not a standalone translation. The homeLang should reflect that it forms adjectives.",
+    "suggestion": "Change to '-et/-ig' or add homeLangDetails explaining it forms adjectives from nouns",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The translation 'utskejelse' (outrage/insult as a noun) does not match the morpheme 'outrage' which functions as a noun meaning the act of outraging. 'Utskejelse' is awkward; a more natural translation would be 'forbrytelse' or simply 'raseri' or 'skjendelse'.",
+    "suggestion": "Change to a more natural Norwegian equivalent like 'forbrytelse' or 'krenkelse'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ous' is translated as '-et', but this is inconsistent with the same suffix in 'courageous' and 'advantageous' and imprecise. The '-ous' suffix forms adjectives; '-et' is a general adjective ending but doesn't capture the function.",
+    "suggestion": "Change to '-et/-ig' or provide homeLangDetails explaining the adjective-forming function",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "advantageous",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ous' is translated as '-et', inconsistent with proper linguistic representation. '-ous' is an adjective-forming suffix, not simply an adjective ending.",
+    "suggestion": "Change to '-et/-ig' or add homeLangDetails explaining it forms adjectives",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'atleten gjorde et bemerkelsesverdig oppgjør etter skaden' is incorrect. 'Oppgjør' means 'settlement' or 'confrontation', not 'recovery'. The correct word should be 'gjenoppretting' or 'comeback'.",
+    "suggestion": "Atleten gjorde en bemerkelsesverdig gjenoppretting etter skaden.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation includes \"tap av bevissthet\" (loss of consciousness), but the primary meaning of \"unconsciousness\" is the state of being unconscious, not the act of losing consciousness. The translation conflates two related but distinct concepts.",
+    "suggestion": "Change to \"bevisstløshet\" or \"bevisstløs tilstand\" as the primary translation, with \"tap av bevissthet\" as a secondary meaning if needed.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation lists \"unyttig\" (useless/pointless) as a meaning for \"incomprehensible,\" which is incorrect. Incomprehensible means impossible to understand, not useless.",
+    "suggestion": "Remove \"unyttig\" entirely. The correct translation is only \"uforståelig\" (impossible to understand).",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation repeats \"uforståelig\" twice, which appears to be a duplication error.",
+    "suggestion": "Change to \"uforståelig, umulig å forstå\" or similar, removing the repetition.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. The word breaks down as compartment + -alize (or -al + -ize), not compartment + -al + -ize. The entry treats \"-al\" as a separate morpheme when it's part of the suffix \"-alize.\"",
+    "suggestion": "Either split as [compartment] + [-alize], or if showing three parts, split as [compartment] + [-al] + [-ize] but adjust the homeLang explanations to clarify that -al and -ize combine to form the denominal verb suffix -alize.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "\"Han slappet koppen uten omsorg\" is unnatural. \"Slappet\" means \"released/let go\" but the intended meaning is \"dropped.\" Also \"uten omsorg\" is awkward here.",
+    "suggestion": "\"Han la fra seg koppen hensynsløst\" or \"Han slengte koppen hensynsløst\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "\"på en uaktsomhet eller ugrundig måte\" is grammatically awkward. \"Uaktsomhet\" is a noun, not an adjective/adverb modifier. \"Ugrundig\" is also unusual.",
+    "suggestion": "\"uten omsorg; på en uaktsomm eller uforsiktig måte\" or \"uten omsorg; på en våpløs måte\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "carelessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "\"Hensynsløsheten hennes resulterte i\" is awkward. The phrase should use \"førte til\" rather than \"resulterte i\" for a broken dish.",
+    "suggestion": "\"Hensynsløsheten hennes førte til en ødelagt tallerken\" or \"hennes mangel på oppmerksomhet ødela en tallerken\"",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "In modern English, 'hopefully' as a sentence adverb (meaning 'it is to be hoped that') does not derive from the morphological composition hope + full + ly in the way the entry suggests. The adverbial use is a pragmatic development, and the entry's gloss 'med håp eller optimisme' (with hope or optimism) represents only the older, narrower adjectival sense, not the now-standard sentence-adverbial meaning.",
+    "suggestion": "Clarify in translationLong that 'hopefully' as a sentence adverb means 'it is to be hoped that / one hopes that' (forhåpentligvis), which is the primary modern usage, rather than emphasizing 'with hope or optimism.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "Similar to 'hopefully,' 'thankfully' as a sentence adverb (meaning 'it is fortunate that / luckily') does not straightforwardly compose from thank + full + ly. The entry's meaning 'på en takknemlig måte' (in a grateful manner) represents only the older adjectival sense, not the now-standard sentence-adverbial meaning 'heldigvis' (fortunately/luckily).",
+    "suggestion": "Revise translationLong to clarify that the primary modern sense is 'it is fortunate/lucky that' (heldigvis), not 'in a grateful manner.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Hun vurderte spørsmålet omsorgsfullt før hun svarte' uses 'omsorgsfullt' (carefully/attentively) rather than 'tankefullt' or 'ettertenksomt' which better reflects the morphology of 'thoughtfully' (thought + ful + ly). While not technically wrong, it misses the 'thought' component in the translation.",
+    "suggestion": "Consider 'Hun vurderte spørsmålet ettertenksomt før hun svarte' or 'Hun tenkte nøye gjennom spørsmålet før hun svarte' to better reflect the 'thought' element.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Hennes mot inspirerte alle rundt henne' uses 'mot' (courage) which obscures the morphological composition. The example should reflect the actual morphemic structure: fear + less + ness. The current translation reads naturally but loses the connection to 'fearlessness' specifically.",
+    "suggestion": "Consider 'Hennes fryktløshet inspirerte alle rundt henne' to maintain the morphological clarity, even if it's slightly less idiomatic.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'beauty' is glossed as 'skjønnhet', but this entry is analyzing the word as beauty + ful + ly. However, 'beauty' as a standalone morpheme in this context should be glossed differently or the analysis needs clarification. The homeLangDetails notes that 'skjønnhet' already contains -het, suggesting the morpheme itself is not simply 'skjønnhet' but rather the root 'skjønn-' that receives -het. The gloss should reflect the actual morpheme being used.",
+    "suggestion": "Consider whether to split this differently or clarify that the morpheme is the root 'skjønn-' rather than the full noun 'skjønnhet', or provide a more accurate gloss",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Prosjektet ble vellykket ferdigstilt til tiden' is awkward. 'Vellykket' is an adjective and should not be used in this adverbial position. The correct translation should use the adverb form 'vellykket' or restructure the sentence.",
+    "suggestion": "Change to 'Prosjektet ble ferdigstilt vellykket til tiden' or 'Prosjektet ble ferdigstilt på en vellykket måte til tiden'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Taler ga et kraftig overbevisende argument' is grammatically incorrect and unnatural in Norwegian. 'Taler' is incomplete (should be 'Taleren'), and the sentence structure is awkward.",
+    "suggestion": "Change to 'Taleren ga et kraftfullt overbevisende argument' or 'Taleren argumenterte kraftfullt og overbevisende'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -ness is glossed as '-heit', but this is not a standard Norwegian suffix. The correct Norwegian equivalent would be '-het' (as noted in parts[2].homeLangDetails mentioning 'godhet' and 'bevissthet' which use -het, not -heit). '-heit' appears to be a historical or dialectal form, not the modern standard Norwegian suffix.",
+    "suggestion": "Change '-heit' to '-het'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "development",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The split 'de' + 'velop' is problematic. 'Develop' is the actual base verb, and the morpheme split should recognize 'de-' as a prefix and 'velop' as a root, but 'velop' does not occur as an independent morpheme in English. The entry should either present it as a single root or acknowledge this is an etymological analysis of a non-productive morpheme pattern.",
+    "suggestion": "Either split as 'de' + 'velop' with a note that 'velop' is not a productive modern morpheme, or present 'develop' as the unsplittable base before adding '-ment'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang and parts[2].targetLang",
+    "issue": "The split 'ad' + 'vert' + 'ise' + 'ment' is incorrect. The actual structure is 'ad' + 'vertise' + 'ment', where 'advertise' is the verb base. The '-ise' suffix is part of the verb 'advertise' (British spelling), not a separate suffix before '-ment'. The entry incorrectly segments 'vert' and 'ise' as separate morphemes.",
+    "suggestion": "Split as 'ad' + 'vertise' + 'ment', or if keeping current structure, clarify that 'ise' attaches to 'vert' to form the verb 'advertise', which then takes '-ment'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The Norwegian translation 'Hennes engasjement i frivillig arbeid' is awkward. 'Involvement in community service' should translate more naturally to 'hennes deltakelse i frivillig arbeid' or 'hennes innsats i frivillig arbeid', not 'engasjement' (which means enthusiasm/commitment rather than the act of being involved).",
+    "suggestion": "Change to 'Hennes deltakelse i frivillig arbeid ble bredt anerkjent' or 'Hennes innsats i frivillig arbeid ble bredt anerkjent'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "requirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'spør/søk' is misleading. While 'quir' does come from Latin 'quaerere' (to seek/ask), in 'require' the prefix 're-' + 'quir' means 'to demand/need' rather than 'to ask again/seek again'. The primary modern sense is obligation, not questioning.",
+    "suggestion": "Change homeLang to 'kreve/trenge' or 'etterspørre' and adjust homeLangDetails to clarify that in 'require' it means 'to demand as necessary' rather than emphasizing the 'ask' sense.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The claim that 'tired' comes from 'tir' meaning 'to pull' is etymologically incorrect and misleading. 'Tired' (meaning fatigued) has a different origin and is not synchronically analyzable as 're-tir'. This false etymology weakens the entry.",
+    "suggestion": "Remove the claim about 'tired' or revise to note that while 'tir' relates to 'tirer' (to pull), 'tired' as fatigue has a separate etymology and shouldn't be presented as evidence for the morpheme.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "department",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'part' itself contains the morpheme boundary. The entry should split 'de' + 'part' where 'part' comes from Latin 'partire' (to divide), not simply treated as the English word 'part' meaning 'piece'.",
+    "suggestion": "Revise parts[1].homeLang to clarify that 'part' derives from Latin 'partire' (to divide/share), showing the etymological depth rather than treating it as the simple modern word 'del'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "replacement",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "'place' is itself a compound or has morphological complexity. More importantly, in 'replace', the 're-' + 'place' structure masks that 'place' comes from Latin 'platea' (broad street), and 'replace' specifically means 'to put back in place' – the gloss 'plass' (space) is too simplistic.",
+    "suggestion": "Expand homeLangDetails for 'place' to note its Latin origin and that 're-place' means 'to put back in position' or 'to put in the position of', not merely 'put in space'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as un + expect + ed + ly, but 'ed' should not be a separate morpheme here. The correct analysis is un + expected + ly, where 'expected' is the past participle form of 'expect' used as an adjective. The 'ed' is already part of the adjective 'expected', not a separate suffix being added after.",
+    "suggestion": "Restructure as: un + expected + ly (three parts, not four)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'dessverre, beklageligvis' is correct, but 'beklageligvis' is somewhat archaic/formal in modern Norwegian. The primary translation should be 'dessverre'.",
+    "suggestion": "Change to 'dessverre' as the primary short translation, or use 'dessverre, uheldigvis' instead",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unavoidable",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The translation includes 'uvikelig' which is not a standard Norwegian word and doesn't convey the meaning of 'unavoidable'. The word should only include valid Norwegian terms.",
+    "suggestion": "Change translationLong to 'uunngåelig, uutkommen' or 'uunngåelig, som ikke kan unngås' (removing 'uvikelig')",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'willing' should be split further into 'will' + 'ing', but 'will' is already listed separately. The structure should be: un + willing + ness, not un + will + ing + ness. The 'ing' here is not a gerundium suffix but part of the adjective 'willing'.",
+    "suggestion": "Restructure parts to: 'un' (prefix) + 'willing' (adjective) + 'ness' (suffix), removing the separate 'will' and 'ing' entries",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "reconnect",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Etter mange år, gjenoppretter vi kontakt på samlingen' uses present tense 'gjenoppretter' (we re-establish) when the English sentence uses past tense 'reconnected'. The translation should use past tense 'gjenopprettet'.",
+    "suggestion": "Etter mange år gjenopprettet vi kontakt på samlingen.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "recycling",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'cycle' should be further split into 're' + 'cycle' where 'cycle' itself comes from 'cycl' (circle) + '-e'. However, more importantly, the homeLang 'syklus' is not ideal—'cycle' in the context of recycling means 'to go through a cycle again', not the standalone noun 'syklus'. The morpheme should reference 'syklus' but the gloss could be clearer.",
+    "suggestion": "Consider clarifying that 'cycle' here means 'to run through a cycle' (verb form) rather than the noun 'syklus', or adjust homeLang to reflect the verbal sense.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "recycling",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The translation 'Gjenbruk hjelper med å redusere miljøavfall' is grammatically acceptable but slightly awkward. A more natural Norwegian phrasing would be 'Gjenbruk bidrar til å redusere miljøavfall' or simply 'Gjenbruk reduserer miljøavfall'.",
+    "suggestion": "Gjenbruk bidrar til å redusere miljøavfall. OR Gjenbruk reduserer miljøavfall.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'mun' is not a standard morpheme in 'communication'. The correct split should be 'commun' (from Latin communis, meaning 'common/shared') + '-ication' (suffix). The entry incorrectly isolates 'mun' and glosses it as 'felles' (common), but this breaks the morphological structure.",
+    "suggestion": "Split as: com- (together) + mun/commun- (common, should be treated as part of the root 'commun-') + -ication (-sjon). Or acknowledge that 'communication' is complex: commun- (common) + -ication (suffix).",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'vestig' is not standard. The correct Latin root is 'vestig-' (footprint/track), but the splitting separates it awkwardly. The entry should clarify that 'vestig' comes from Latin vestigium (trace/footprint), not 'spor' as a direct translation. The morpheme should be 'vestig-' not 'vestig'.",
+    "suggestion": "Split as: in- (in) + vestig- (footprint/trace, from Latin vestigium) + -ation (-sjon). Update homeLang for 'vestig' to clarify it means 'footprint/trace' rather than the vague 'spor'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The morpheme 'intro' should be split as 'in-' + 'tro-' to show its actual Latin structure. 'Intro-' comes from 'intra' (within/inside), not from a single morpheme 'intro'. The current split obscures the morphological structure.",
+    "suggestion": "Split as: in- (in) + tro-/intro- (within/inward, from intra) + duc- (lead) + -tion (-sjon). Or keep as 'intro-' but clarify in homeLangDetails that it derives from 'intra-' (within).",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as pro-nunc-iation, but 'nunc' is not a meaningful morpheme. The correct split should be pro-nunci-ation, where 'nunci' relates to Latin 'nuntiare' (to announce/pronounce).",
+    "suggestion": "Split as: pro (forward) + nunci (announce/pronounce) + ation (-sjon)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Hennes fransk-uttale forbedret seg betydelig' is grammatically awkward. The structure is unnatural in Norwegian.",
+    "suggestion": "Use: 'Hennes fransk-utale forbedret seg betydelig' or better: 'Hun forbedret uttalen av fransk betydelig'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'plan' does not correspond to the actual morpheme in 'explanation'. The word breaks down as ex-pla(i)n-ation, where 'plain/plan' relates to Latin 'planus' (flat/clear), but this etymology is obscured in modern English. More critically, the split 'ex-plan-ation' is not standard morphological analysis.",
+    "suggestion": "Consider: ex (out) + plain (clear, from Latin planus) + ation (-sjon), or note this as a frozen compound where the etymology is not transparent in modern English",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'am' meaning 'vei' (way) does not accurately represent the morpheme in 'examination'. The correct root is 'examin-' which comes from Latin 'examinare' (to weigh/test). 'am' is not a standalone morpheme here.",
+    "suggestion": "Split as: ex (out) + amin (weigh/test, from Latin examinare) + ation (-sjon), or use 'exam' as the core unit",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "'ag' meaning 'bilde' (image) is incomplete. The morpheme should be 'imag-' (from Latin 'imago'), not just 'ag'.",
+    "suggestion": "Split as: im (in) + ag/imag (image) + ination (-sjon), or more clearly: im-image-ation",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'en uformell samtale' (an informal conversation) is too narrow. 'Conversation' is not inherently informal—it can be formal or informal.",
+    "suggestion": "Change to 'en samtale' (a conversation) or 'en dialog' (a dialogue)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'tilbakekasten av lys' (reflection of light) is too narrow and misses the primary meaning in English. While 'reflection' can mean the bouncing back of light, it more commonly means 'serious thought or consideration' or 'an image reflected in a mirror/surface'.",
+    "suggestion": "Change to 'gjenspeiling' or provide a more complete translation covering both the optical and contemplative meanings, such as 'gjenspeiling; alvorlig tanke'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The phrase 'skade eller skade' is redundant and awkward in Norwegian—it repeats 'skade' (damage/harm) twice.",
+    "suggestion": "Change to 'handlingen å holde noen eller noe trygt fra skade eller fare' or simply 'handlingen å holde noen eller noe trygt'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "invitation",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'vit' is glossed as 'kalle' (call), but 'vit' comes from Latin 'vitare' (to see/call upon). The gloss 'kalle' is misleading since the root sense is more about 'inviting/calling upon' rather than simply 'calling'. However, the more fundamental issue is that 'vit' itself should be understood as coming from 'invite' (Latin invitare), so the split may be incorrect.",
+    "suggestion": "Reconsider the morpheme split. 'Invitation' derives from Latin 'invitare' (to invite), so 'vit' relates to the Latin root meaning 'to invite/call upon', not simply 'kalle'. The gloss should reflect 'invitere' or clarify the Latin etymological connection.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'sat-is-faction' is problematic. The correct morphemic analysis should be 'satis-' (enough/sufficient) + '-faction' (making), not 'sat-is-faction'. The current split incorrectly isolates 'is' as a separate morpheme meaning 'gjøre' when 'is' is actually part of the suffix '-faction' which comes from Latin 'facere' (to make).",
+    "suggestion": "Correct the split to: 'satis' (enough, genug) + 'faction' (-making/-sjon). Or if keeping three parts: 'sat' should be glossed as part of 'satis' (enough/sufficient), not as standalone 'nok'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'gjøre' (make/do) for 'is' is misleading. The '-is-' in 'satisfaction' is not a standalone morpheme meaning 'make'; it's part of the suffix '-faction' which derives from Latin 'facere' (to make). Breaking it as 'is + faction' obscures the actual morphemic structure.",
+    "suggestion": "Revise the morpheme split entirely. The word should be analyzed as 'satis-' (enough) + '-faction' (making), with the '-is-' being an integral part of the '-faction' suffix, not a separate morpheme.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split 'e-val-uation' is incorrect. The word should be split as 'e-value-ation' where 'e-' is the prefix (ex-), 'valu' comes from Latin 'valere' (to be worth), and '-ation' is the suffix. The current split isolates only 'e' which doesn't reflect the actual morpheme boundary.",
+    "suggestion": "Restructure as: 'e' (eks-/ex-), 'valu' (verdi/valør), 'ation' (-sjon), or more accurately 're-value-ation' if accounting for the full word formation",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'eks-' (ex-) meaning 'out of, former' doesn't match how 'e-' functions in 'evaluation'. The 'e-' in 'evaluation' is not the productive prefix 'ex-' but part of the Latin root 'evaluare'. Glossing it as a standalone prefix with that meaning is misleading.",
+    "suggestion": "Either remove this as a separate morpheme or clarify it as part of the Latin root, not a separate productive prefix",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is split as 'cred' but the actual root is 'cred-' (from Latin credere 'to believe'). The suffix '-ible' is not a separate morpheme here; rather, 'cred' combines with '-ible' to form 'credible'. The split should recognize this is 'cred' + 'ible', not 'cred' + 'ible' as shown, but more importantly the gloss 'tro' (believe) for 'cred' is correct — the issue is that 'cred' should be glossed as relating to belief/credibility, which it does. However, 'ible' is glossed as '-bar' which is misleading since '-ible' is the English suffix, not a separate Norwegian morpheme equivalent.",
+    "suggestion": "Reconsider the morpheme boundary and gloss. The structure is 'in-' + 'credible', where 'credible' is itself a derived form. If splitting further, it should be 'in-' + 'cred-' + '-ible', with '-ible' recognized as an English suffix meaning 'able to be', not directly equivalent to Norwegian '-bar' in this context.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is split as 'vis' but the actual root is 'vis-' (from Latin videre 'to see'). Similar to 'incredible', the suffix '-ible' is being treated as a separate morpheme when the actual structure is 'in-' + 'visible', and 'visible' itself contains 'vis-' + '-ible'. The gloss of 'vis' as 'se' (see) is correct, but the segmentation conflates the suffix.",
+    "suggestion": "Either split as 'in-' + 'visible' (two parts), or if three parts, recognize that 'vis' is the root and 'ible' is the English suffix '-ible', not Norwegian '-bar'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is split as 'poss' but should be 'poss-' (from Latin posse 'to be able'). The actual structure is 'im-' + 'possible', and 'possible' is 'poss-' + '-ible'. The split conflates the root and suffix.",
+    "suggestion": "Either split as 'im-' + 'possible' (two parts), or if three parts, recognize that 'poss' is the root meaning 'mulig' and '-ible' is the English suffix.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme is split as 'respons' but should be 'respons-' (from Latin respondere 'to answer'). The actual structure is 'ir-' + 'responsible', and 'responsible' is 'respons-' + '-ible'. The split treats 'respons' as a complete unit when it is a root that combines with the suffix '-ible'.",
+    "suggestion": "Either split as 'ir-' + 'responsible' (two parts), or if three parts, recognize that 'respons' is the root and '-ible' is the English suffix, not Norwegian '-bar'.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word should be split as ir- + reverse + -ible, not ir + reverse + ible. The prefix 'ir-' is a single morpheme (the assimilated form of 'in-' before 'r'), and should not be split into 'i' and 'r'.",
+    "suggestion": "Combine parts[0] and parts[1] into a single prefix 'ir-', or restructure to show 'ir-' as the complete prefix with homeLang 'u-'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word 'historic' in parts[1] is itself a compound that should be split further into 'history' (or 'histor-') and the suffix '-ic'. The entry treats 'historic' as an unsplit morpheme.",
+    "suggestion": "Split parts[1] into 'history' (homeLang: 'historie') and 'ic' (homeLang: '-isk' or similar), or provide homeLangDetails explaining why 'historic' is kept as a single unit",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tic' is glossed as '-isk' (adjective forming suffix in Norwegian), but '-tic' in 'antibiotic' is an English adjective-forming suffix. The word 'antibiotic' functions as an adjective or noun; '-isk' is not the correct Norwegian equivalent for this English suffix.",
+    "suggestion": "Consider glossing as '-isk' only if explaining the adjective form, or clarify that this is the English adjectival ending corresponding to Latin '-ticus'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The adverb-forming suffix '-ally' is glossed as '-t', which is incorrect. The Norwegian adverbial ending is typically '-t' or '-isk', but '-t' alone is misleading. The suffix '-ally' forms adverbs in English; '-t' is not its proper Norwegian equivalent.",
+    "suggestion": "Gloss as '-isk' or clarify as an adverbial suffix, not just '-t'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "automatically",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "'matic' should be further analyzed as 'mat' + 'ic' (from Greek 'automatos'), or the morpheme boundary is unclear. 'Matic' on its own does not reliably mean 'bevegelse' (movement); the etymology involves Greek 'automatos' (self-moving).",
+    "suggestion": "Either split into 'auto' + 'mat' + 'ic' or revise the gloss for 'matic' to reflect its actual Greek root meaning",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'beskrivelse av jord' (description of earth) is too narrow and misleading. Geography is not merely a description but a systematic study/science of places and earth features.",
+    "suggestion": "Change to something like 'vitenskapen om jord og steder' (the science of earth and places) or 'studiet av jord og mennesker' (the study of earth and people)",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'svarende' (answering/responding) is misleading. 'Respons' in English comes from Latin 'respondere' (to answer), but in the context of 'responsibility' it means 'ability to respond' or 'accountability', not simply 'answering'. The homeLang gloss should reflect the actual meaning in this word.",
+    "suggestion": "Change to 'svar' or 'gjensvar' with a clarification that it relates to accountability, not just answering. Or add homeLangDetails explaining the Latin etymology.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'tilstand av å være likt' (state of being liked) is awkward and somewhat inaccurate. 'Popularity' means being well-liked or in favor with many people, not merely the state of being 'liked'.",
+    "suggestion": "Change to 'tilstand av å være populær/godt likt' or 'det å være likt av mange'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'create' is translated as 'skape' (to create/shape), but the entry is analyzing the noun 'creativity' which comes from the adjective 'creative'. The root should reference 'creative' or the verbal root that feeds into the adjective, not just the base verb.",
+    "suggestion": "Consider clarifying that this is the root 'create-' that becomes 'creative' before the -ity suffix is applied, or note the intermediate step.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'ible' is translated as '-bar', but '-ible' in English (from Latin) is not directly equivalent to Norwegian '-bar'. The entry conflates the English suffix with the Norwegian equivalent. '-ible/-able' means 'capable of being', while '-bar' is more specifically 'able to be' or 'worthy of being'.",
+    "suggestion": "Either keep the English '-ible' and explain it separately from the '-bar' suffix, or clarify the mapping more carefully. The homeLang should reflect what the actual Norwegian cognate suffix would be.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "creatively",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme should be 'creat' not 'create', since the '-ive' suffix is added to the root form",
+    "suggestion": "Change parts[0].targetLang to 'creat'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "productively",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme should be 'product' (the root), but when '-ive' is added, it's typically 'product' + 'ive'. However, the actual root is 'produc' and '-tion' is separately added to form 'production', then '-ive' is added. The split 'product' + 'ive' is non-standard; it should be 'produc' or acknowledge this is 'product' (noun) + '-ive' making an adjective",
+    "suggestion": "Clarify whether this is product + ive (noun base) or adjust to show the morphologically correct split",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The prefix 're-' in 'researcher' does not carry its typical meaning of 'again/back'. 'Research' is not 'search again' in modern English—it is a noun meaning systematic investigation. The 're-' prefix here is fossilized and doesn't convey the iterative meaning described",
+    "suggestion": "Revise homeLangDetails to note that 're-' in 'research' is etymologically related to searching again, but in modern usage 'research' is a distinct noun meaning systematic investigation, and the 're-' is not productively iterable",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "photographer",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Norwegian translation uses 'fanga' which is dialectal/archaic past tense. Standard Norwegian would use 'fanget' or 'tok'.",
+    "suggestion": "Change to: 'Fotografen tok vakre bilder på bryllupet.' or 'Fotografen fanget vakre bilder på bryllupet.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "homeLangDetails",
+    "issue": "The homeLangDetails for '-or' are identical to the '-er' suffix explanation and don't address the specific distinction mentioned in the entry description (Latin-influenced contexts). This is copy-pasted from another entry.",
+    "suggestion": "Update to reflect that '-or' is the more formal/Latin variant: 'En variant av -er-suffikset, brukt i mer formelle eller latinsk påvirkede sammenhenger. Betegner personen som utfører handlingen.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "investigate",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme 'vestig' should be further split into 'vestig' (root from Latin vestigium) and the suffix '-ate' is already separated, but the split point is awkward. The actual structure is: in- + vestig- + -ate, where 'vestig' is the root and '-ate' is the verbalizing suffix. Current split as 'in' + 'vestig' + 'ate' is correct, but 'vestig' itself could be flagged as incomplete since it's a bound root that doesn't stand alone in English. However, this is acceptable as presented.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ulate' is glossed as diminutive/frequentist, but in 'congratulate' it functions primarily as a verbalizing suffix with no meaningful diminutive or frequentative sense. The gloss overstates the morpheme's function here.",
+    "suggestion": "Change to '-ulate: et verbaliserings-suffiks (en variant av -ate som gir en mer mild eller hyppig handling)' or simply '-ulate: verbalizing suffix variant'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "participate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The split 'par' + 'ticip' with glosses 'del' + 'ta' is misleading. The actual etymological structure is par- (part, from Latin pars 'part') + -ticip- (from Latin capere 'to take'), but presenting them as separate morphemes with independent glosses obscures that 'participium' is a single Latin form combining both roots. The current breakdown invites a false reading.",
+    "suggestion": "Consider: parts[0] 'par' → 'del (fra latin pars)', parts[1] 'ticip' → 'ta (fra latin capere, kombinert med 'del' i participium)' or merge into a single etymological note clarifying the Latin participium origin.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as mis-inter-pret-et, but 'et' is not a morpheme in English. The correct split should be mis-interpret, where 'interpret' is the base word. The Latin etymology explanation is confused.",
+    "suggestion": "Split as: mis (prefix) + interpret (base verb). Remove the 'pret' and 'et' parts as separate morphemes.",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The Norwegian translation 'jeg mente dem kjærlig' is awkward. The phrase 'mente dem kjærlig' (meant them kindly) is unnatural in Norwegian.",
+    "suggestion": "Use: 'Ikke misforstå ordene mine; jeg mente dem vennlig' or 'Ikke misforstå ordene mine; jeg mente godt.'",
+    "source_file": "en-no.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme 'struct' should be accompanied by a final morpheme or noted as the root. More importantly, 'con' + 'struct' forms 'construct', so the split should reflect de-construct, not de-con-struct as separate stages.",
+    "suggestion": "Consider splitting as: de (prefix) + construct (base word), or if breaking down construct further, note that con + struct = construct, then de + construct = deconstruct.",
+    "source_file": "en-no.json"
+  }
+]

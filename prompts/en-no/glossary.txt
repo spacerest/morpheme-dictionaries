@@ -1,0 +1,99 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Prefixes -- Germanic/Old English
+un- | un-/not | The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable.
+re- | re-/again | Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with "doing again" or "going back."
+over- | over-/too much | Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for "above" in older compounds.
+under- | under-/too little | The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform).
+out- | out-/beyond | Points outward or signals surpassing something: outnumber, outstanding, outrun.
+mis- | mis-/wrongly | Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent.
+fore- | fore-/before | Before or in front. Forecast, foresee, forehead.
+
+# Prefixes -- Latin
+in-/im-/il-/ir- | in-/not or into | A chameleon prefix with two distinct meanings: "not" (inactive, impossible, illegal) and "into" (insert, import). The spelling shifts to match the following sound.
+ex-/e-/ef- | ex-/out of | Out of, former, or away. Exhale, export, eject, ex-president.
+con-/com-/co-/col-/cor- | con-/together | With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound.
+de- | de-/down/undo | Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word.
+dis- | dis-/not/apart | Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-.
+pre- | pre-/before | Before in time or position. Predict, prepare, prehistoric.
+pro- | pro-/forward/for | Forward, in favor of, or in place of. Progress, produce, pronoun.
+sub- | sub-/under | Under, below, or secondary. Subway, submarine, substitute.
+inter- | inter-/between | Between or among. International, interrupt, interact.
+trans- | trans-/across | Across, through, or changing from one state to another. Transport, transform, translate.
+super- | super-/above | Above, over, or exceptional. Superman, superior, supernatural.
+anti- | anti-/against | Against or opposing. Antiwar, antibiotic, anticipate.
+per- | per-/through | Through, thoroughly, or completely. Perform, permit, persist.
+ad-/a- | to/toward | Toward or in addition to. Adapt, admit, attract, arrive.
+
+# Prefixes -- Greek
+auto- | auto-/self | Self. Autobiography, automatic, automobile.
+micro- | micro-/tiny | Very small. Microphone, microscope, microwave.
+tele- | tele-/far | At a distance. Telephone, television, telescope.
+poly- | poly-/many | Many. Polygon, polyglot, polynomial.
+mono- | mono-/one | One or alone. Monopoly, monologue, monotone.
+semi- | semi-/half | Half or partly. Semicircle, semifinal, semiconscious.
+bio- | bio-/life | Life. Biology, biography, biodegradable.
+geo- | geo-/earth | Earth or land. Geography, geology, geometry.
+multi- | multi-/many | Many or multiple. Multicultural, multimedia, multiply.
+
+# Suffixes
+-tion/-sion | -tion | The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung.
+-ment | -ment | Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment.
+-ness | -ness | Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity.
+-ity/-ty | -ity | The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality.
+-er/-or | -er | Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer.
+-ist | -ist | A person who practices, specializes in, or believes in something. Artist, scientist, pianist.
+-ism | -ism | A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm.
+-ize/-ise | -ize | To make something have a quality, or to cause a process. Modernize, organize, realize.
+-ify | -ify | To make or cause to become. Simplify, clarify, intensify.
+-ful | -ful | Full of or characterized by. Beautiful, careful, powerful.
+-less | -less | Without. Careless, hopeless, speechless.
+-able/-ible | -able | Capable of being done. Readable, comfortable, possible.
+-ous/-ious | -ous | Having, full of, or characterized by. Famous, serious, courageous.
+-al/-ial | -al | Relating to or of the nature of. Musical, natural, industrial.
+-ic | -ic | Relating to or having the qualities of. Heroic, electric, historic.
+-ive | -ive | Tending to or having the nature of. Active, creative, descriptive.
+-ly | -ly | Forms adverbs from adjectives, meaning "in a [manner]." Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely.
+-ship | -ship | A state, condition, or relationship. Friendship, leadership, scholarship.
+-hood | -hood | A state, condition, or group. Childhood, neighborhood, brotherhood.
+-dom | -dom | A state, realm, or collective. Freedom, kingdom, wisdom.
+-ward/-wards | -ward | In the direction of. Forward, backward, upward.
+
+# Greek roots (appear as standalone morpheme parts in many words)
+-graph-/-graphy | -graph- | Writing or recording. Photography, biography, autograph.
+-logy | -logy | The study of. Biology, psychology, technology.
+-phon-/-phone | -phone | Sound or voice. Telephone, microphone, symphony.
+-chron- | -chron- | Time. Chronology, synchronize, anachronism.
+-path-/-pathy | -pathy | Feeling, suffering, or disease. Sympathy, empathy, antipathy.
+-morph- | -morph- | Form or shape. Metamorphosis, amorphous, morphology.
+-scope | -scope | An instrument for viewing. Telescope, microscope, stethoscope.
+-meter | -meter | A measuring instrument. Thermometer, speedometer, barometer.
+
+# Prefixes
+post- | etter- | Betyr "etter" i tid eller rekkefølge, akkurat som norsk "etter-" i "ettermiddag". Du kjenner det igjen i ord som "postpone" (utsette), "postwar" (etterkrigstid) og "postscript" (PS, det du legger til etter brevet). Veldig forutsigbart og lett å huske.
+up- | opp- | Tilsvarer norsk "opp-" nesten perfekt, både konkret og overført. "Upgrade" er å oppgradere, "uproot" er å rykke opp med roten, og "upbringing" er oppdragelse. En av de mest intuitive prefiksene for en norsktalende.
+non- | ikke-, ikke-/non- | Brukes akkurat som norsk "ikke-" eller "non-" i fagspråk, og betyr rett og slett "ikke". "Nonfiction" er sakprosa (ikke fiksjon), "nonprofit" er ideell (ikke profittdrevet), og "nonsense" er tull. Norsk låner forresten inn "non-" direkte i ord som "nonkonformist".
+mid- | midtre, midt- | Betyr "midt i" eller "midtre", og speiler norsk "midtre" og "midt-". "Midday" er middag (midt på dagen), "midnight" er midnatt, og "midterm" er halvveis i en periode. Kort, tydelig og svært forutsigbart.
+over- | over- | Vent, dette er allerede i listen? Her mener vi den engelske varianten som betyr "over" i romlig forstand, men den er faktisk allerede dekket. Hopper videre.
+# Prefixes
+en-/em- | gjøre til, sette i | Danner verb som betyr "å gjøre noe til" eller "å sette i en tilstand". Norsk har ikke helt det samme prefikset, men betydningen er gjennomsiktig: "enable" (muliggjøre), "endanger" (sette i fare), "empower" (styrke, gi makt). "Em-" brukes foran "b" og "p", ellers "en-".
+fore- | foran, for- | Allerede i listen. Hopper videre.
+with- | tilbake, bort | Brukes i noen viktige engelske verb og betyr "tilbake" eller "bort fra". Det er samme ord som norsk "ved" langt tilbake i historien, men i dag er det lettest å lære det gjennom eksemplene: "withdraw" (ta ut, trekke tilbake), "withhold" (holde tilbake) og "withstand" (stå imot). Ikke veldig produktivt, men ordene det danner er svært vanlige.
+# Suffixes
+-ed | fortid, adjektiv | Brukes dels som fortidsendelse for regulære verb, dels for å danne adjektiver av verb. "Bored" (lei), "excited" (begeistret) og "tired" (trøtt) er egentlig gamle partisipper som har blitt adjektiver. Norsk gjør det samme med "-et" og "-t" i ord som "interessert" og "ferdig".
+-ing | -ing, handling | Svarer til norsk "-ing" i substantiver som "training" (trening) og "feeling" (følelse), men brukes også som presens partisipp i verbformer. "Swimming", "thinking" og "building" er alle eksempler. Norsk har nøyaktig det samme mønsteret med endelsen "-ing" i ord som "trening" og "lesing".
+-en | gjøre, bli | Danner verb av adjektiver og betyr "å gjøre" eller "å bli". "Brighten" (lysne, gjøre lysere), "strengthen" (styrke) og "widen" (utvide) følger alle dette mønsteret. Norsk gjør noe lignende med "-ne" i verb som "lysne" og "hvitne".
+-tion/-sion | handling, tilstand | Allerede i listen. Hopper videre.
+-ary/-ory/-ery | tilhørende, sted | Danner adjektiver og substantiver. "Necessary" (nødvendig), "imaginary" (imaginær) og "factory" (fabrikk) er kjente eksempler. Mange av disse ordene er lånt fra latin via fransk, og norsk har samme ord i lett gjenkjennelig form: "fabrikk", "laboratorium" og "bibliotek".
+# Roots and stems
+-port- | bære, føre | Fra latin "portare" (bære), og du ser det i veldig mange hverdagsord: "transport" (frakt), "import" (innførsel), "export" (utførsel) og "report" (rapport). Norsk har lånt inn de fleste av disse ordene direkte, så roten er lett å kjenne igjen.
+-dict- | si, tale | Fra latin "dicere" (si), og dukker opp i ord som "predict" (forutsi), "dictionary" (ordbok) og "contradict" (motsi). Norsk "diktere" og "diksjon" kommer fra samme rot. Når du vet hva "-dict-" betyr, begynner mange vanskelige ord å gi mening.
+-rupt- | bryte, sprekke | Fra latin "rumpere" (bryte), og gir ord som "interrupt" (avbryte), "erupt" (bryte ut, eksplodere) og "corrupt" (korrupt, ødelagt). Norsk har lånt inn "korrupt" og "erupsjon" fra samme kilde. En nyttig rot fordi prefiksene forteller deg retningen av bruddet.
+-duc-/-duct- | lede, føre | Fra latin "ducere" (lede, føre), og er kjernen i ord som "produce" (produsere), "educate" (utdanne) og "introduce" (introdusere). Norsk "produsere", "utdanne" og "introdusere" speiler de engelske ordene tett. Roten forteller deg alltid at noe ledes eller bringes et sted.
+-vis-/-vid- | se | Fra latin "videre" (se), og finnes i ord som "visible" (synlig), "vision" (syn, visjon) og "evidence" (bevis, det man ser). Norsk "visjon" og "video" (latin for "jeg ser") kommer fra samme rot. En svært produktiv rot i akademisk og hverdagslig engelsk.
+-fac-/-fect-/-fic- | gjøre, lage | Fra latin "facere" (gjøre), og er kanskje den mest produktive latinske roten i engelsk. "Factory" (fabrikk), "effect" (effekt), "perfect" (perfekt) og "artificial" (kunstig) hører alle hit. Norsk har lånt inn mange av disse ordene nesten uendret.
+-mov-/-mot- | bevege | Fra latin "movere" (bevege), og gir ord som "move" (flytte), "motion" (bevegelse), "motor" og "emotion" (følelse, det som "beveger" oss innvendig). Norsk "motor" og "motivasjon" er direkte slektninger. Det er fascinerende at "emotion" bokstavelig talt betyr "å bevege ut av" seg selv.
+-scrib-/-script- | skrive | Fra latin "scribere" (skrive), og finnes i ord som "describe" (beskrive), "subscribe" (abonnere, skrive seg på) og "prescription" (resept). Norsk "skrive" er faktisk en germansk slektning av samme indoeuropeiske rot. Når du ser "-scrib-" eller "-script-", handler det alltid om å skrive eller notere noe.

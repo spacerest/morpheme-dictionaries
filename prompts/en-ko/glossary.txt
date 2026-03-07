@@ -1,0 +1,98 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# NOTE: The short_gloss column below is a placeholder in English.
+# For en-xx language pairs, translate these glosses into the home language before running
+# the generator. The morpheme keys and homeLangDetails can stay in English.
+
+# Prefixes -- Germanic/Old English
+un- | un-/not | The most common English negating prefix, inherited from Old English. Directly mirrors German un-, Dutch on-, and relatives across Germanic languages. Turns the meaning of the base word on its head: unhappy, unknown, unforgettable.
+re- | re-/again | Signals repetition or a return to a previous state. From Latin re-, it appears in thousands of English words: return, rebuild, reconsider. Often interchangeable with "doing again" or "going back."
+over- | over-/too much | Suggests excess or going beyond a limit. Overlook, overwhelm, overestimate. Also used spatially for "above" in older compounds.
+under- | under-/too little | The counterpart to over-. Can mean below (underground) or not enough (underestimate, underperform).
+out- | out-/beyond | Points outward or signals surpassing something: outnumber, outstanding, outrun.
+mis- | mis-/wrongly | Signals that something was done incorrectly or badly. Misunderstand, mistake, misrepresent.
+fore- | fore-/before | Before or in front. Forecast, foresee, forehead.
+
+# Prefixes -- Latin
+in-/im-/il-/ir- | in-/not or into | A chameleon prefix with two distinct meanings: "not" (inactive, impossible, illegal) and "into" (insert, import). The spelling shifts to match the following sound.
+ex-/e-/ef- | ex-/out of | Out of, former, or away. Exhale, export, eject, ex-president.
+con-/com-/co-/col-/cor- | con-/together | With or together. One of the most productive Latin prefixes. Connect, combine, cooperate, collect. The spelling varies to match the following sound.
+de- | de-/down/undo | Downward, away, or reversing an action. Decrease, depart, deconstruct. Often directly reverses the base word.
+dis- | dis-/not/apart | Not, or taking apart. Disagree, disconnect, disappear. Stronger sense of separation or reversal than un-.
+pre- | pre-/before | Before in time or position. Predict, prepare, prehistoric.
+pro- | pro-/forward/for | Forward, in favor of, or in place of. Progress, produce, pronoun.
+sub- | sub-/under | Under, below, or secondary. Subway, submarine, substitute.
+inter- | inter-/between | Between or among. International, interrupt, interact.
+trans- | trans-/across | Across, through, or changing from one state to another. Transport, transform, translate.
+super- | super-/above | Above, over, or exceptional. Superman, superior, supernatural.
+anti- | anti-/against | Against or opposing. Antiwar, antibiotic, anticipate.
+per- | per-/through | Through, thoroughly, or completely. Perform, permit, persist.
+ad-/a- | to/toward | Toward or in addition to. Adapt, admit, attract, arrive.
+
+# Prefixes -- Greek
+auto- | auto-/self | Self. Autobiography, automatic, automobile.
+micro- | micro-/tiny | Very small. Microphone, microscope, microwave.
+tele- | tele-/far | At a distance. Telephone, television, telescope.
+poly- | poly-/many | Many. Polygon, polyglot, polynomial.
+mono- | mono-/one | One or alone. Monopoly, monologue, monotone.
+semi- | semi-/half | Half or partly. Semicircle, semifinal, semiconscious.
+bio- | bio-/life | Life. Biology, biography, biodegradable.
+geo- | geo-/earth | Earth or land. Geography, geology, geometry.
+multi- | multi-/many | Many or multiple. Multicultural, multimedia, multiply.
+
+# Suffixes
+-tion/-sion | -tion | The most common English noun suffix from Latin. Turns verbs into nouns naming an action or its result. Construction, permission, explosion. Equivalent to German -ung.
+-ment | -ment | Forms nouns from verbs, referring to the action, its result, or its means. Government, movement, enjoyment.
+-ness | -ness | Turns adjectives into nouns meaning a state or quality. Happiness, darkness, awareness. The Germanic equivalent of Latin -ity.
+-ity/-ty | -ity | The Latin counterpart to -ness. Forms abstract nouns from adjectives. Equality, electricity, reality.
+-er/-or | -er | Forms agent nouns -- the person or thing performing the action. Teacher, actor, driver, computer.
+-ist | -ist | A person who practices, specializes in, or believes in something. Artist, scientist, pianist.
+-ism | -ism | A belief, practice, system, or characteristic quality. Realism, capitalism, enthusiasm.
+-ize/-ise | -ize | To make something have a quality, or to cause a process. Modernize, organize, realize.
+-ify | -ify | To make or cause to become. Simplify, clarify, intensify.
+-ful | -ful | Full of or characterized by. Beautiful, careful, powerful.
+-less | -less | Without. Careless, hopeless, speechless.
+-able/-ible | -able | Capable of being done. Readable, comfortable, possible.
+-ous/-ious | -ous | Having, full of, or characterized by. Famous, serious, courageous.
+-al/-ial | -al | Relating to or of the nature of. Musical, natural, industrial.
+-ic | -ic | Relating to or having the qualities of. Heroic, electric, historic.
+-ive | -ive | Tending to or having the nature of. Active, creative, descriptive.
+-ly | -ly | Forms adverbs from adjectives, meaning "in a [manner]." Quickly, happily, surprisingly. Also forms adjectives: friendly, lovely.
+-ship | -ship | A state, condition, or relationship. Friendship, leadership, scholarship.
+-hood | -hood | A state, condition, or group. Childhood, neighborhood, brotherhood.
+-dom | -dom | A state, realm, or collective. Freedom, kingdom, wisdom.
+-ward/-wards | -ward | In the direction of. Forward, backward, upward.
+
+# Greek roots (appear as standalone morpheme parts in many words)
+-graph-/-graphy | -graph- | Writing or recording. Photography, biography, autograph.
+-logy | -logy | The study of. Biology, psychology, technology.
+-phon-/-phone | -phone | Sound or voice. Telephone, microphone, symphony.
+-chron- | -chron- | Time. Chronology, synchronize, anachronism.
+-path-/-pathy | -pathy | Feeling, suffering, or disease. Sympathy, empathy, antipathy.
+-morph- | -morph- | Form or shape. Metamorphosis, amorphous, morphology.
+-scope | -scope | An instrument for viewing. Telescope, microscope, stethoscope.
+-meter | -meter | A measuring instrument. Thermometer, speedometer, barometer.
+
+# Prefixes
+post- | 이후, 나중에 | "post-"는 "~이후" 또는 "~뒤에"라는 뜻이에요. 한국어의 "사후(事後)"나 "전후(戰後)"에서 "후(後)"와 딱 맞아떨어지는 느낌이랍니다. postwar(전후), postgraduate(대학원의), postpone(연기하다) 같은 단어에서 볼 수 있어요.
+non- | 아님, 비(非)- | "non-"은 "~이 아닌"이라는 뜻으로, 한국어의 "비(非)-"나 "무(無)-"와 비슷해요. nonprofit(비영리), nonfiction(논픽션), nonsense(말도 안 됨) 같은 일상 단어에 자주 등장하니까 알아두면 정말 유용해요.
+up- | 위로, 향상 | "up-"은 "위로" 또는 "더 나은 상태로"라는 의미예요. 한국어로 치면 "업그레이드"에서 이미 익숙하게 쓰이죠. update(업데이트), upgrade(업그레이드), upstairs(위층) 같은 단어에서 방향이나 개선의 뉘앙스를 전달해요.
+# Suffixes
+-en | ~하게 만들다 | "-en"은 형용사나 명사에 붙어서 "~하게 만들다"라는 동사를 만들어요. 한국어의 "-화하다"와 비슷한 역할이에요. brighten(밝게 하다), strengthen(강하게 하다), soften(부드럽게 하다) 같은 단어가 대표적이에요.
+-age | 행위, 상태, 집합 | "-age"는 명사를 만드는 접미사로 행위나 그 결과, 또는 어떤 상태를 나타내요. 한국어의 "-함" 또는 "-량"과 비슷한 역할을 할 때도 있어요. storage(저장), passage(통로), shortage(부족) 같은 단어에서 찾아볼 수 있답니다.
+-ent/-ant | ~하는 사람, ~한 | "-ent/-ant"는 두 가지 역할을 해요. 형용사로는 "~하는 성질의", 명사로는 "~하는 사람"을 뜻해요. student(학생), assistant(조수), different(다른)처럼 영어에서 정말 자주 보이는 단어들에 들어 있어요.
+-ure/-ture | 행위의 결과, 상태 | "-ure/-ture"는 동사나 어근에 붙어서 그 행위의 결과나 상태를 나타내는 명사를 만들어요. culture(문화), failure(실패), structure(구조)처럼 한국어에도 외래어로 들어온 단어가 많아서 친숙하게 느껴질 거예요.
+-ary/-ory/-ery | 장소, 관련된 것 | "-ary/-ory/-ery"는 "~에 관련된" 또는 "~하는 장소"를 뜻해요. library(도서관), factory(공장), bakery(빵집)처럼 장소 이름에 특히 많이 나와요. 한국어로 치면 "-소(所)"나 "-실(室)"과 비슷한 느낌이에요.
+-ify/-fy | ~화하다 | 이미 목록에 있는 "-ify"와 같은 항목이므로 건너뜁니다.
+-ward/-wards | 방향 | 이미 목록에 있으므로 건너뜁니다.
+-tion/-sion | 명사화 | 이미 목록에 있으므로 건너뜁니다.
+# Roots and stems
+-dict- | 말하다 | "-dict-"는 라틴어로 "말하다"라는 뜻이에요. 한국어의 "발언하다"와 연결해서 생각하면 기억하기 쉬워요. predict(예측하다), dictionary(사전), contradict(반박하다) 같은 단어의 핵심 의미가 여기서 나온답니다.
+-port- | 나르다, 운반 | "-port-"는 "운반하다"라는 뜻의 라틴어 어근이에요. 한국어의 "이동"이나 "수송"과 비슷한 개념이에요. transport(수송), import(수입하다), export(수출하다)처럼 무역 관련 단어에 특히 많이 등장해요.
+-vis-/-vid- | 보다 | "-vis-/-vid-"는 "보다"라는 뜻이에요. 한국어에도 "비전(vision)"이나 "비디오(video)"로 이미 들어와 있어서 친숙하죠. visible(보이는), television(텔레비전), evident(명백한) 같은 단어에서 볼 수 있어요.
+-rupt- | 부수다, 끊다 | "-rupt-"는 "부수다" 또는 "갑자기 끊다"라는 뜻이에요. interrupt(방해하다), erupt(분출하다), bankrupt(파산한)처럼 뭔가 갑자기 일어나거나 끊기는 상황을 표현하는 단어에 많이 쓰여요.
+-scrib-/-script- | 쓰다 | "-scrib-/-script-"는 "쓰다"라는 뜻이에요. 한국어의 "필기하다"와 연결하면 기억하기 쉬워요. describe(묘사하다), prescription(처방전), subscribe(구독하다)처럼 일상에서 자주 만나는 단어에 들어 있어요.
+-vert-/-vers- | 돌리다, 바꾸다 | "-vert-/-vers-"는 "돌리다" 또는 "방향을 바꾸다"라는 뜻이에요. convert(전환하다), reverse(반대로 하다), advertise(광고하다)처럼 방향 전환이나 변화를 나타내는 단어의 핵심 어근이에요.
+-duc-/-duct- | 이끌다 | "-duc-/-duct-"는 "이끌다" 또는 "끌어내다"라는 뜻이에요. introduce(소개하다), produce(생산하다), educate(교육하다)처럼 무언가를 만들어내거나 이끄는 개념이 담긴 단어에 등장해요.
+-fac-/-fact-/-fect- | 만들다, 하다 | "-fac-/-fact-/-fect-"는 "만들다" 또는 "행하다"라는 뜻이에요. factory(공장), effect(효과), perfect(완벽한)처럼 결과나 제작과 관련된 아주 많은 단어에서 이 어근이 숨어 있답니다.
+-mit-/-miss- | 보내다 | "-mit-/-miss-"는 "보내다"라는 뜻이에요. submit(제출하다), admit(인정하다), mission(임무)처럼 무언가를 전달하거나 허용하는 뉘앙스가 담긴 단어에 자주 등장해요. 한국어의 "전송하다"와 비슷한 개념으로 생각하면 돼요.
+-spec-/-spect- | 보다, 살피다 | "-spec-/-spect-"는 "보다" 또는 "살펴보다"라는 뜻이에요. inspect(검사하다), respect(존중하다), expect(기대하다)처럼 관찰이나 기대와 관련된 단어에 폭넓게 쓰여요. "-vis-"와 함께 "보다"를 뜻하는 어근으로 짝지어 기억하면 좋아요.

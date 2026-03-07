@@ -1,0 +1,36 @@
+{
+  "words": [
+    {
+      "id": "prepararsi",
+      "article": "",
+      "displayPrefix": "si",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "before",
+          "homeLangDetails": "Identical in spelling and meaning to English \"pre-,\" making this one of the easiest prefixes to learn. You get *preparare* (to prepare), *prevedere* (to foresee), and *precedente* (previous). English borrowings from Latin give you a big head start here."
+        },
+        {
+          "targetLang": "parar",
+          "homeLang": "arrange, set",
+          "homeLangDetails": "From Latin parare, meaning to make ready or arrange. The same root appears in 'prepare' and 'apparatus' in English. Here it combines with pre- to mean 'to set things in order beforehand.'"
+        },
+        {
+          "targetLang": "si",
+          "homeLang": "(reflexive)",
+          "homeLangDetails": "The reflexive clitic si, attached to the infinitive here, turns the action back on the subject — so prepararsi means 'to prepare oneself.' It's equivalent to the English 'to get ready.'"
+        },
+        {
+          "targetLang": "i",
+          "homeLang": "(infinitive)",
+          "homeLangDetails": "The -i ending marks this as the reflexive infinitive form (the base -are shifts to -arsi, contracted here to -si + i)."
+        }
+      ],
+      "translationShort": "to prepare oneself",
+      "translationLong": "to prepare oneself, to get ready",
+      "exampleSentence": "Devo prepararmi per l'esame di domani.",
+      "exampleTranslation": "I need to prepare myself for tomorrow's exam.",
+      "flag": "5 parts — reflexive verb with prefix, root, reflexive clitic, and infinitive marker"
+    }
+  ]
+}

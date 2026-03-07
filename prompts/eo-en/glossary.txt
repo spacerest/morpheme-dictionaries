@@ -1,0 +1,663 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# Esperanto morpheme glossary
+
+# Prefixes
+ne- | not, un- | This is RA's go-to negation prefix, working much like English "un-" or "not." Slap it onto almost any adjective or verb and you flip the meaning. You'll see it in nevalid (invalid), nebela (ugly, literally "not beautiful"), and neklar (unclear). Once you know it, you'll spot it everywhere.
+re- | again, back | Borrowed into RA just as it exists in English and French, so this one should feel like home. It signals repetition or reversal: reskribi (rewrite), reveni (come back), relegi (reread). Whenever something is done over or undone, re- is almost certainly there.
+pre- | before | Straight cognate with English "pre-," meaning something comes earlier in time or position. Think prepar- (prepare), prelegi (lecture, literally "read before"), preskrib- (prescribe). If you already know English words like "preview" or "prepay," you already halfway know this one.
+eks- | out of, former | Does double duty in RA, meaning both "out of" (like English "ex-" in "export") and "former" when describing a role. Ekslandi (to land, exit land), ekspor- (export), and eks-prezidento (former president) all follow naturally. The hyphen version for "former" is especially handy in everyday conversation.
+mis- | wrongly, badly | Works almost identically to English "mis-," signaling that something was done incorrectly or poorly. Misuzi (misuse), miskompren- (misunderstand), and misskribi (misspell) are classic examples. English speakers can trust their instincts almost completely with this one.
+mal- | opposite of | This is one of the most powerful prefixes in RA and one that surprises English speakers at first. It doesn't mean "bad" the way Spanish "mal-" does; it flips a word to its antonym. Malgranda (small, opposite of granda/big), malvarma (cold, opposite of varma/warm), malfacila (difficult). Once you internalize this, vocabulary doubles instantly.
+ko- | together, with | The RA equivalent of English "co-" or "com-/con-," indicating joint action or togetherness. Kolabor- (collaborate), koautoro (co-author), kooperi (cooperate). It's productive with both nouns and verbs, and the English parallels make it very intuitive for learners.
+dis- | apart, scatter | Signals separation, distribution, or dispersal, much like English "dis-" in "disperse" or "distribute." Disdon- (distribute, give out), dissend- (send out to many), diskut- (discuss, scatter ideas). The sense of spreading something outward is the reliable core meaning to hold onto.
+ek- | either beginning or suddenness | prefix indicating either beginning or suddenness
+fuŝ- | blunder | prefix indicating blunder
+ge- | mixed company | prefix indicating mixed company
+
+# Suffixes
+-o | (noun marker) | In RA, every noun ends in -o, making nouns instantly recognizable. This is one of the first patterns learners notice and it never breaks. Domo (house), libro (book), amiko (friend). The -o isn't a separate meaning so much as a grammatical badge that says "I am a noun," and it makes parsing sentences surprisingly easy once it clicks.
+-a | (adjective marker) | Just as -o marks nouns, -a marks adjectives without exception. Bela (beautiful), granda (big), nova (new). This clean system means you always know what role a word is playing in a sentence just from its ending, which is a huge relief compared to the irregularities of most natural languages.
+-i | (verb infinitive) | The infinitive ending for all RA verbs, equivalent to English "to ___." Legi (to read), skribi (to write), iri (to go). Every verb in its dictionary form ends in -i, so if you see a word ending in -i that you don't recognize, there's a very good chance it's a verb you can look up by that form.
+-is | (past tense) | Attach -is to any verb stem and you have simple past tense, full stop. Mi legis (I read/I did read), li venis (he came), ni manĝis (we ate). There are no irregular past tenses in RA, which is one of the most liberating facts about the language for anyone who has wrestled with English or French irregular verbs.
+-os | (future tense) | The future tense marker, added to any verb stem just as -is adds past. Mi legos (I will read), vi iros (you will go), ili venos (they will come). Clean, regular, no exceptions. The -os ending is easy to remember because the "o" can feel like it's pointing forward, toward something coming.
+-as | (present tense) | Present tense for all verbs, completely regular. Mi legas (I read/I am reading), la hundo kuras (the dog runs/is running). Unlike English, RA doesn't distinguish "I read" from "I am reading" -- -as covers both, simplifying things nicely. Once you know -as, -is, and -os you have all three basic tenses locked down.
+-ej- | place for | This infix/suffix builds nouns that mean "a place designated for something." Lerneyo (school, place for learning), kuireyo (kitchen, place for cooking), dormeyo (bedroom, place for sleeping). It's incredibly productive and lets you coin new words on the fly just by knowing what activity happens in a place.
+-ul- | person characterized by | Creates a noun meaning "a person defined by this quality or thing." Junulo (a young person), bravulo (a brave person, a hero type), stranulo (a strange person, a weirdo). English has some rough parallels like "-er" or "-ist" but -ul- is more about inherent character than profession, which gives it a slightly warmer or more colorful feel.
+-ad- | continuous/repeated action | Marks an action as ongoing or habitually repeated, adding a sense of duration or recurrence to a verb. Paroladi (to keep talking, to go on talking), marŝadi (to march on and on), skribi vs. skribadi (to write vs. to write repeatedly). Think of it as the "-ing and -ing" suffix, the sense that something just keeps going.
+-aĉ | dirt/contempt | suffix indicating dirtyness or contemptuousness
+-aĵ | thing, manifestation | suffix indicating thing, manifestation
+-an | membership | suffix indicating membership
+-ant | present action or actor | suffix indicating present action or actor
+-ar | collection | suffix indicating collection
+-at | present passive | suffix indicating present passive
+-ebl | possibility | suffix indicating possibility
+-ec | abstract quality | suffix indicating abstract quality
+-eg | largeness | suffix indicating largeness
+-er | piece | suffix indicating piece
+-estr | leader | suffix indicating leader
+-et | smallness | suffix indicating smallness
+-ig | transitivity, causation | suffix indicating transitivity, causation
+-iĝ | becoming | suffix indicating becoming
+-il | tool | suffix indicating tool
+-in | female | suffix indicating female
+-ind | worthiness | suffix indicating worthiness
+-int | past action or actor | suffix indicating past action or actor
+-ist | professional or adherent | suffix indicating professional or adherent
+-it | past passive | suffix indicating past passive
+-on | number as denominator | suffix indicating number as denominator
+-ont | future action or actor | suffix indicating future action or actor
+-uj | container | suffix indicating container
+-um | suffix (no fixed meaning) | suffix (no fixed meaning)
+
+# Roots and stems
+-bon- | good | The core root for goodness and quality, related to French "bon" and Latin "bonus," so it carries a familiar ring. Bona (good), bonvolu (please, literally "be willing with goodness"), bonveno (welcome). It shows up in polite phrases constantly, so recognizing it makes everyday social language much warmer and more accessible.
+-vid- | see, sight | From the same Latin root that gives English "video," "vision," and "evidence." Vidi (to see), videbla (visible), vidpunkto (viewpoint, point of seeing). This root is deeply embedded in everyday RA vocabulary just as sight-related metaphors are deeply embedded in English, so knowing it unlocks a surprisingly wide cluster of words.
+-temp- | time | Directly related to English "temporary," "tempo," and "contemporary." Tempo (time), tempodaŭro (duration), samtempe (at the same time, simultaneously). It appears in time expressions that come up constantly in daily conversation, and the English and French cognates make it one of the easiest roots for Western European language learners to anchor in memory.
+absolut | absolute
+aĉet | buy | purchase, buy
+adres | address | address (location)
+afer | affair, matter
+afrik | Africa
+ag | action, act
+aĝ | age
+ajn | particle used with i- and ki- correlatives to create constructions such as whenever and anytime
+akcept | accept
+akv | water
+al | preposition to
+ali | other
+almenaŭ | at least
+alt | height, tall
+am | love
+amas | mass, throng, en masse
+amerik | the Americas
+amik | friend
+ampleks | extensive
+amuz | fun, amusement
+angl | England
+ankaŭ | also
+ankoraŭ | still
+anonc | announcement
+anstataŭ | in stead of
+antaŭ | before
+aparat | apparatus, machine
+apart | separate
+aper | appear
+aranĝ | arrange
+asoci | association (group)
+aspekt | have an appearance
+atend | wait
+atent | attention
+ating | attain
+aŭ | conjunction or
+aŭd | hear
+aŭskult | listen
+aŭtobus | bus
+aŭt(omobil) | car
+av | grandparent
+banan | banana
+batal | battle
+baz | base, basis
+bedaŭr | regret
+bel | beautiful
+bend | tape
+bezon | need
+bibliotek | library (edifice)
+bild | picture
+bilet | ticket
+bird | bird
+botel | bottle
+bulgar | Bulgaria
+cel | aim, goal
+cent | 100
+centr | center
+cert | certain
+ceter | remaining
+cigared | cigarette
+ĉambr | room
+ĉar | conjunction because
+ĉarm | charming, quaint
+ĉe | preposition at
+ĉef | boss, main
+ĉeval | horse
+ĉi | particle used with ti- correlatives to indicate nearness, like in here or this
+ĉiam | correlative always
+ĉin | China
+ĉio | correlative everything
+ĉirkaŭ | preposition around
+ĉiu | each
+ĉu | particle indicating yes or no question
+da | preposition quantity of
+dan | Denmark
+dank | thank
+daŭr | last (duration)
+de | preposition of
+debat | debate
+decid | decide
+deĵor | be on duty
+dek | 10
+dekstr | right
+delegaci | delegation
+demand | ask
+dev | be obligated
+dezir | desire
+diabl | devil
+difin | define
+dir | say, tell
+diskriminaci | discriminate
+diskut | discuss
+divers | diverse
+divid | divide, share
+do | particle for so
+dom | house
+don | give
+donac | gift
+dorm | sleep
+du | 2
+dum | preposition during
+eĉ | particle even
+edz | spouse
+ekskurs | excursion
+ekster | preposition outside
+ekzempl | example
+ekzempler | individual copy
+ekzist | exist
+el | prounoun from out of
+elekt | select
+en | preposition in
+entrepren | enterprise
+erinac | porcupine
+esenc | essence
+esper | hope
+est | be
+eŭrop | Europe
+eventual | eventual
+evolu | become evolved
+facil | easy
+fak | specialty
+fakt | fact
+fal | fall
+famili | family
+far | do, make
+fart | fare
+feliĉ | happy
+ferm | close
+festival | festival
+film | film
+fin | finish
+finn | Finnland
+firm | firm
+fiŝ | fish
+flank | side
+flav | yellow
+flor | flower
+flug | fly
+foj | time, occurrence
+for | particle for away
+forges | forget
+form | form
+fort | strong
+fot | photograph
+franc | France
+frank | franc
+frat | sibling
+fraŭl | unmarried adult
+fraz | sentence
+frenez | crazy
+fru | early
+funkci | function
+german | Germany
+giĉet | cashier station
+grad | grade
+grand | big
+gratul | congratulate
+grav | important
+grup | group
+gvid | guide
+ĝen | bother
+ĝeneral | in a general sense
+ĝi | pronoun it
+ĝis | preposition until
+ĝoj | joy
+ĝust | correct
+ha | interjection
+hav | have
+hebre | Hebrew
+hejm | home
+help | help
+hieraŭ | yesterday
+ho | interjection
+hodiaŭ | today
+hom | person
+hor | hour, time of day
+hotel | hotel
+ia | correlative some kind of
+iam | correlative sometime
+ide | idea
+ie | correlative somewhere
+iel | correlative in some way
+ili | pronoun them
+imag | image, imagine
+infan | child
+inform | inform, information
+instru | teach
+inteligent | intelligent
+inter | preposition between, among
+interes | interest
+interpret | interpret
+invit | invite
+io | correlative something
+iom | correlative some amount of
+ir | go
+iran | Iran
+ital | Italy
+iu | correlative someone
+ja | indeed
+jam | already
+japan | Japan
+jar | year
+je | preposition (no fixed meaning)
+jen | behold
+jes | yes
+jun | young
+ĵet | throw
+kaj | conjunction and
+kamp | field
+kant | sing
+kapabl | capable
+kapt | catch, capture
+kar | dear
+karot | carrot
+kart | card
+kaŝ | hide
+kaz | case
+ke | conjunction that
+kelk | several
+kia | correlative what kind of
+kial | correlative why
+kiam | correlative when
+kie | correlative where
+kiel | correlative how
+kilo | kilo-
+kio | correlative what thing
+kiom | correlative how much
+kiu | correlative who or which
+klar | clear
+klopod | take steps to achieve
+knab | young person
+kolor | color
+komenc | begin
+komision | commission
+komitat | committee
+kompetent | competent
+komplet | complete
+komplik | complicated
+kompren | understand
+kon | be familiar with
+koncept | concept
+koncern | in question
+kongres | congress, conference
+konkret | concrete
+konkurs | contest
+konsci | be conscious
+konsent | agree
+konserv | conserve
+konsil | advise
+konsili | council
+konsist | consist
+konstant | permanent
+kontakt | contact
+kontraŭ | preposition against
+kontrol | check, look into
+korb | basket
+korespond | correspondence
+kost | cost
+kovr | cover
+kred | believe
+kresk | grow up
+kri | shout
+krokodil1 | crocodile
+krokodil2 | use a national language where Esperanto would be appropriate
+krom | preposition besides
+kruel | cruel
+kuir | cook
+kuler | spoon
+kultur | culture
+kun | preposition with
+kunikl | rabbit
+kur | run
+kutim | usual, custom
+kvankam | conjunction although
+kvar | 4
+kvazaŭ | conjunction as if, quasi-
+kvin | 5
+la | article the
+labor | work
+lag | lake
+lanĉ | launch
+land | country
+las | let go
+last | last, most recent
+laŭ | preposition according to
+lav | wash
+leg | read
+lern | learn
+lert | skilled
+leter | letter of correspondence
+lev | raise something up
+li | pronoun he
+liber | free
+libr | book
+lig | link, bind
+lingv | language
+list | list
+lit | bed
+liter | alphabetic glyph
+literatur | literature
+loĝ | reside
+lok | location
+long | long
+lu | rent from
+lud | play a game
+man | hand
+manĝ | eat
+manier | manner
+mank | be lacking
+map | map
+mar | large body of salt water
+mark1 | mark
+mark2 | obsolete German currency
+marŝ | walk
+maŝin | machine
+maten | morning
+material | material
+mem | self
+membr | member
+memor | remember, memory
+met | put
+mez | middle, average
+mi | pronoun I, me
+miks | mix
+mil | 1000
+minimum | minimum
+minut | minute = 60 seconds
+mir | marvel
+moment | moment
+mon | money
+monat | month
+mond | world
+mont | mountain
+montr | show
+morgaŭ | tomorrow
+mov | move something
+mult | multiple, many
+naci | nation
+naĝ | swim
+nask | bear fruit
+naŭ | 9
+neces | necessary
+nederland | Netherlands
+neniam | correlative never
+nenio | correlative nothing
+neniu | correlative no one
+nepr | mandatory
+neŭtral | neutral
+ni | pronoun us, we
+nivel | level
+nokt | night
+nom | name
+normal | normal
+nov | new
+nu | interjection
+nud | naked
+numer | number
+nun | now
+nur | merely, only
+ofert | offer
+oficial | official
+oft | frequent
+ok | 8
+okaz | happen
+okcident | west
+okup | occupy
+ol | preposition than
+oni | pronoun one
+opini | opine
+ord | order (arrangement)
+ordinar | ordinary
+organiz | organize
+orient | east
+ov | egg
+pag | pay
+paĝ | page
+paper | paper
+pardon | pardon
+parol | speak
+part | part
+pas | pass
+paŝ | step
+patr | parent
+pend | hang
+pens | think
+per | preposition by means of
+perd | lose
+perfekt | perfect
+period | period of time
+persik | peach
+person | person
+pet | request
+pied | foot
+plaĉ | be pleasing
+plan | plan
+plank | floor
+plej | particle indicating superlative
+plen | full
+pli | particle indicating comparative
+plor | weep
+plu | further
+plur | plural
+pokal | trophy cup
+pom | apple
+pont | bridge
+popular | popular
+por | preposition in order to
+port | door
+post | preposition after
+postul | require
+pov | be able to
+prav | be morally right
+precip | principal
+preciz | precise
+prefer | prefer
+preleg | lecture
+premi | prize
+pren | take
+prepar | prepare
+preskaŭ | nearly
+pret | ready
+prez | price
+prezent | present
+prezid | preside
+pri | preposition about, concerning
+princip | principle
+pro | preposition on account of
+problem | problem
+produkt | product, produce
+profesi | professional
+profesor | professor
+program | program
+proksim | close
+propon | propose
+protest | protest
+protokol | minutes of a meeting
+prov | try
+publik | public
+punkt | dot
+pup | doll
+pur | clean
+rajt | right, entitlement
+rakont | story, tell a story
+rapid | fast, quick
+raport | report
+region | region
+regul | rule, regulation
+reklam | advertisement
+rekomend | recommend
+rekt | direct
+relativ | relative
+renkont | meet
+respond | answer
+rest | remain
+riĉ | rich
+ricev | receive
+rid | laugh
+rigard | look at
+rilat | relation
+rimark | notice
+river | river
+romp | break
+rus | Russia
+saĝ | wise
+sal | salt
+salon | sitting room
+salt | jump
+salut | greet
+sam | same
+sat | satiated
+saŭn | suana
+sci | know
+scienc | science
+se | conjunction if
+sed | conjunction but
+seg | saw
+seks | sex
+sekv | follow
+semajn | week
+sen | preposition without
+senc | sensible
+send | send
+sent | feel
+sep | 7
+serĉ | seek
+seri | series
+ses | 6
+si | pronoun reflexive to actor
+sid | sit
+signif | mean, signify
+simil | similar
+simpl | simple
+simul | feign, simulate
+sinjor | Mister
+siren | siren
+sistem | system
+situaci | situation
+skandinavi | Scandinavia
+skatol | box
+ski | ski
+skrib | write
+soci | society
+sol | alone
+solv | solution
+sorĉ | perform wizardry or witchcraft
+spec | type, species
+special | special
+specif | specific
+spert | experience
+spinac | spinach
+star | standing
+stat | state of being
+statut | code of law
+strat | street
+struktur | structure
+stult | stupid
+sub | preposition under
+sud | south
+sufiĉ | suffice
+suk | juice
+sukces | succeed, success, successful
+super | preposition above
+supoz | suppose
+supr | top
+sur | preposition on
+sved | Sweden
+svis | Switzerland
+ŝaf | sheep
+ŝajn | seem
+ŝanc | chance, luck
+ŝanĝ | change
+ŝat | like, appreciate
+ŝi | pronoun she
+ŝip | sea-going vessel
+ŝir | tear, rip
+ŝlos | lock
+ŝtel | steal
+tabl | table
+tabul | board
+tag | day
+tajp | typewrite
+tamen | nevertheless
+task | task
+te | tea
+teatr | the theatrical art form
+tekst | text
+teler | plate
+tem | theme, subject
+temperatur | temperature
+ten | hold
+teren | terrain, campus
+terur | terrible
+tia | correlative that kind of
+tial | correlative for that reason
+tiam | correlative then
+tie | correlative there
+tiel | correlative in that way
+tim | fear
+tio | correlative that
+tiom | correlative so much
+tiu | correlative that person
+tra | preposition through
+traduk | translate
+trajn | train
+trakt | handle, deal with
+tranĉ | cut
+trans | preposition across
+tre | very much
+tri | 3
+trink | drink
+tro | too much
+trov | find
+tuj | immediately
+tuk | napkin
+tuŝ | touch
+tut | entire, total
+universal | universal
+universitat | university
+unu | 1
+urb | municipality
+uson | United States of America
+util | useful
+uz | use
+valor | value
+varm | warm
+vast | vast
+ven | come
+vend | sell
+venk | win
+ver | true
+verk | compose
+vesper | evening
+vest | clothing
+veter | weather
+vetur | take a trip
+vi | pronoun you
+vin | wine
+vir | man
+viv | be alive
+vizit | visit
+voĉ | voice, vote
+voj | way, path
+vojaĝ | travel
+vol | want
+volv | wind up
+vort | word
+vulp | fox
+zorg | care for

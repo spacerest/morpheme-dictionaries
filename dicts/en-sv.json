@@ -1,0 +1,4837 @@
+{
+  "homeLang": "sv",
+  "targetLang": "en",
+  "words": [
+    {
+      "id": "injection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/inte eller in i"
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kasta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "injektion",
+      "translationLong": "handlingen att injicera; en vätska som pressas in i kroppen",
+      "exampleSentence": "The nurse gave me an injection to help with the pain.",
+      "exampleTranslation": "Sjuksköterskan gav mig en injektion för att lindra smärtan."
+    },
+    {
+      "id": "projection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "framåt/för",
+          "homeLangDetails": "Framåt, för eller i stället för något. Du hittar samma prefixform i ord som 'progress', 'produce' och 'pronoun' – det handlar ofta om rörelse framåt eller att något ges ut eller presenteras."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kasta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "projektion",
+      "translationLong": "något som sträcker sig utåt; en prognos eller uppskattning",
+      "exampleSentence": "The sales projection shows strong growth next quarter.",
+      "exampleTranslation": "Försäljningsprognosen visar stark tillväxt nästa kvartal."
+    },
+    {
+      "id": "objection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ob",
+          "homeLang": "emot",
+          "homeLangDetails": "Från latinska prefixet 'ob-', som betyder 'emot' eller 'mot'. I det här ordet handlar det om att 'kasta något emot' eller uttrycka motstånd mot något – lite som att göra invändningar."
+        },
+        {
+          "targetLang": "ject",
+          "homeLang": "kasta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "invändning",
+      "translationLong": "ett uttryck för oenighet eller missnöje",
+      "exampleSentence": "He raised an objection to the proposal during the meeting.",
+      "exampleTranslation": "Han framförde en invändning mot förslaget under mötet."
+    },
+    {
+      "id": "prediction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "före",
+          "homeLangDetails": "Före i tid eller position. Du ser samma prefixform i 'predict', 'prepare' och 'prehistoric' – det går alltid ut på något som kommer innan eller ligger framför oss."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "säga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "prognos",
+      "translationLong": "ett påstående om vad som kommer att hända i framtiden",
+      "exampleSentence": "The weather prediction for tomorrow is rain.",
+      "exampleTranslation": "Väderprognosen för imorgon säger regn."
+    },
+    {
+      "id": "contradiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "contra",
+          "homeLang": "emot",
+          "homeLangDetails": "Från latinska 'contra', som betyder 'emot'. Här kombineras det med roten 'dict' (säga) för att uttrycka 'säga emot' eller 'tala emot något' – tanken är att två saker går på tvärs med varandra."
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "säga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "motsägelse",
+      "translationLong": "ett påstående eller en situation som strider mot något annat",
+      "exampleSentence": "There is a clear contradiction in his two statements.",
+      "exampleTranslation": "Det finns en uppenbar motsägelse mellan hans två utsagor."
+    },
+    {
+      "id": "jurisdiction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "juris",
+          "homeLang": "lag"
+        },
+        {
+          "targetLang": "dict",
+          "homeLang": "säga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "jurisdiktion",
+      "translationLong": "den officiella befogenheten att fatta juridiska beslut och tillämpa lagar",
+      "exampleSentence": "This case falls under the jurisdiction of the federal court.",
+      "exampleTranslation": "Det här målet hör under den federala domstolens jurisdiktion."
+    },
+    {
+      "id": "transportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "över",
+          "homeLangDetails": "Över, genom eller från ett tillstånd till ett annat. Du ser samma prefixform i 'transport', 'transform' och 'translate' – det handlar om rörelse eller förändring från en plats eller ett tillstånd till ett annat."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "transport",
+      "translationLong": "förflyttningen av människor eller varor från en plats till en annan",
+      "exampleSentence": "Public transportation is cheaper than driving a car.",
+      "exampleTranslation": "Kollektivtrafiken är billigare än att köra egen bil."
+    },
+    {
+      "id": "deportation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/ångra",
+          "homeLangDetails": "Nedåt, bort eller för att vända en handling. Du ser samma prefixform i 'decrease', 'depart' och 'deconstruct' – ofta handlar det om att något reduceras eller upphävs, ungefär som att ångra något."
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "utvisning",
+      "translationLong": "tvingad bortförande av en person från ett land",
+      "exampleSentence": "The deportation proceedings lasted several months.",
+      "exampleTranslation": "Utvisningsförfarandet varade flera månader."
+    },
+    {
+      "id": "importation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/inte eller in i"
+        },
+        {
+          "targetLang": "port",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "importering",
+      "translationLong": "handlingen att föra in varor i ett land från utlandet",
+      "exampleSentence": "The importation of foreign goods has increased this year.",
+      "exampleTranslation": "Importen av utländska varor har ökat i år."
+    },
+    {
+      "id": "construction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "konstruktion",
+      "translationLong": "processen att bygga något; en struktur som håller på att byggas",
+      "exampleSentence": "The construction of the new bridge will take two years.",
+      "exampleTranslation": "Konstruktionen av den nya bron kommer att ta två år."
+    },
+    {
+      "id": "destruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/undo",
+          "homeLangDetails": "Nedåt, bort eller motsatt riktning av en handling. Minska, gå iväg, bryta ner. Ofta motsatsen till själva grunden."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "förstöring",
+      "translationLong": "handlingen att förstöra något; svår skada eller undergång",
+      "exampleSentence": "The hurricane caused widespread destruction.",
+      "exampleTranslation": "Orkanen orsakade omfattande förstöring."
+    },
+    {
+      "id": "reconstruction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "åter",
+          "homeLangDetails": "Signalerar upprepning eller att återvända till ett tidigare tillstånd. Från latin re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbar med \"göra igen\" eller \"gå tillbaka\"."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "bygga"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "återuppbyggnad",
+      "translationLong": "processen att återbygga något som var skadat eller förstört",
+      "exampleSentence": "The reconstruction of the city after the fire took many years.",
+      "exampleTranslation": "Återuppbyggnaden av staden efter branden tog många år."
+    },
+    {
+      "id": "inspection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/inte eller in"
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "titta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "inspektöring",
+      "translationLong": "en noggrann granskning eller översyn av något",
+      "exampleSentence": "The building passed the safety inspection.",
+      "exampleTranslation": "Byggnaden klarade säkerhetsinspektöringen."
+    },
+    {
+      "id": "perspective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "genom",
+          "homeLangDetails": "Genom, grundligt eller fullständigt. Perform, permit, persist. Ge en genomskinlig syn på saker."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "titta"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv",
+          "homeLangDetails": "Benägenheten att eller att ha karaktären av. Aktiv, kreativ, beskrivande."
+        }
+      ],
+      "translationShort": "perspektiv",
+      "translationLong": "ett särskilt sätt att se eller förstå något; synvinkel",
+      "exampleSentence": "From my perspective, the plan is too risky.",
+      "exampleTranslation": "Från mitt perspektiv är planen för riskabel."
+    },
+    {
+      "id": "retrospective",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "retro",
+          "homeLang": "bakåt",
+          "homeLangDetails": "Från latin retro, som betyder \"bakåt\" eller \"tillbaka\". Det kombineras med \"spect\" (titta) för att betyda \"blicka tillbaka\" på det förflutna."
+        },
+        {
+          "targetLang": "spect",
+          "homeLang": "titta"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv",
+          "homeLangDetails": "Benägenheten att eller att ha karaktären av. Aktiv, kreativ, beskrivande."
+        }
+      ],
+      "translationShort": "retrospektiv",
+      "translationLong": "en granskning eller översyn av tidigare händelser; relaterad till eller behandlande tidigare händelser",
+      "exampleSentence": "The museum held a retrospective exhibition of the artist's work.",
+      "exampleTranslation": "Museet höll en retrospektiv utställning av konstnärens verk."
+    },
+    {
+      "id": "prescription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "före",
+          "homeLangDetails": "Före i tid eller position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skriva"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ett medicinsk ordination",
+      "translationLong": "ett skriftligt läkarordination för läkemedel; en uppsättning instruktioner",
+      "exampleSentence": "The doctor gave me a prescription for antibiotics.",
+      "exampleTranslation": "Läkaren gav mig en ordinationen för antibiotika."
+    },
+    {
+      "id": "description",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/undo",
+          "homeLangDetails": "Nedåt, bort eller motsatt riktning av en handling. Minska, gå iväg, bryta ner. Ofta motsatsen till själva grunden."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skriva"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en redogörelse för något",
+      "translationLong": "en muntlig eller skriftlig redogörelse för något; en skildring",
+      "exampleSentence": "Her description of the event was very detailed.",
+      "exampleTranslation": "Hennes beskrivning av händelsen var mycket detaljerad."
+    },
+    {
+      "id": "subscription",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, nedan eller sekundär. Subway, submarine, substitute."
+        },
+        {
+          "targetLang": "scrip",
+          "homeLang": "skriva"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en regelbunden betalning för en tjänst",
+      "translationLong": "en regelbunden betalning för en tjänst eller publikation; en underskrift",
+      "exampleSentence": "I have a subscription to three magazines.",
+      "exampleTranslation": "Jag prenumererar på tre tidskrifter."
+    },
+    {
+      "id": "expression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ut ur"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "press"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "uttryckandet av känsla eller betydelse",
+      "translationLong": "uttryckandet av känsla eller betydelse; ett uttryck eller ord",
+      "exampleSentence": "Her expression showed she was upset.",
+      "exampleTranslation": "Hennes ansiktsuttryck visade att hon var upprörd."
+    },
+    {
+      "id": "depression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/undo",
+          "homeLangDetails": "Nedåt, bort eller motsatt riktning av en handling. Minska, gå iväg, bryta ner. Ofta motsatsen till själva grunden."
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "press"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en psykisk sjukdom; ett fördjupat område",
+      "translationLong": "en psykisk sjukdom präglad av sorg; ett fördjupat eller ihålligt område",
+      "exampleSentence": "She sought treatment for her depression.",
+      "exampleTranslation": "Hon sökte behandling för sin depression."
+    },
+    {
+      "id": "impression",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/mot eller in i"
+        },
+        {
+          "targetLang": "press",
+          "homeLang": "tryck"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en känsla eller uppfattning; ett avtryck gjort genom tryck",
+      "translationLong": "en känsla eller uppfattning om något; ett avtryck eller fördjupning gjord genom tryck",
+      "exampleSentence": "I got the impression that he wasn't happy.",
+      "exampleTranslation": "Jag fick intrycket att han inte var glad."
+    },
+    {
+      "id": "attraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "at",
+          "homeLang": "till/mot"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "dra"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en känsla av intresse eller dragningskraft",
+      "translationLong": "en känsla av intresse eller dragningskraft; något som drar in människor",
+      "exampleSentence": "The theme park is the main attraction for tourists.",
+      "exampleTranslation": "Nöjesparken är huvudattraktionen för turister."
+    },
+    {
+      "id": "extraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ut ur"
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "dra"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "handlingen att ta bort eller dra ut något",
+      "translationLong": "handlingen att ta bort eller dra ut något; tandutdragning",
+      "exampleSentence": "The dentist recommended tooth extraction.",
+      "exampleTranslation": "Tandläkaren rekommenderade tandutdragning."
+    },
+    {
+      "id": "distraction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "inte/isär",
+          "homeLangDetails": "Inte, eller att ta isär. Disagree, disconnect, disappear. Starkare känsla av separation eller omvändning än un-."
+        },
+        {
+          "targetLang": "tract",
+          "homeLang": "dra"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "något som drar uppmärksamheten bort",
+      "translationLong": "något som drar uppmärksamheten bort från en uppgift; tillståndet att vara distraherad",
+      "exampleSentence": "The noise was a major distraction during the test.",
+      "exampleTranslation": "Bullret var en stor störning under provet."
+    },
+    {
+      "id": "permission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "genom",
+          "homeLangDetails": "Genom, fullständigt eller helt och hållet. Perform, permit, persist."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "skicka"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "officiellt samtycke eller godkännande",
+      "translationLong": "officiellt samtycke eller godkännande att göra något",
+      "exampleSentence": "You need permission from the manager to leave early.",
+      "exampleTranslation": "Du behöver tillstånd från chefen för att gå tidigare."
+    },
+    {
+      "id": "transmission",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "över",
+          "homeLangDetails": "Över, genom eller förändring från ett tillstånd till ett annat. Transport, transform, translate."
+        },
+        {
+          "targetLang": "miss",
+          "homeLang": "skicka"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "sändning av något; en fordons växellåda",
+      "translationLong": "sändning av något från en plats till en annan; en växellåda i ett fordon",
+      "exampleSentence": "The transmission of data occurred without errors.",
+      "exampleTranslation": "Dataöverföringen skedde utan fel."
+    },
+    {
+      "id": "commitment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "mit",
+          "homeLang": "skicka"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och hänvisar till handlingen, dess resultat eller dess medel. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "ett löfte eller en försäkran; dedikation",
+      "translationLong": "ett löfte eller en försäkran att göra något; dedikation till en sak eller person",
+      "exampleSentence": "Her commitment to the project was unwavering.",
+      "exampleTranslation": "Hennes engagemang för projektet var obetingat."
+    },
+    {
+      "id": "reception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tillbaka",
+          "homeLangDetails": "I det här ordet bär re- sin äldre latinska betydelse av 'tillbaka' snarare än 'igen' – receive är att ta tillbaka (eller emot), recede är att gå tillbaka, och refer är att bära tillbaka till en källa."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "handlingen att ta emot; ett formellt möte",
+      "translationLong": "handlingen att ta emot; ett formellt möte eller tillställning; mottagningen av signal",
+      "exampleSentence": "The wedding reception was held at a local hotel.",
+      "exampleTranslation": "Bröllopsmottagningen hölls på ett lokalt hotell."
+    },
+    {
+      "id": "perception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "per",
+          "homeLang": "genom",
+          "homeLangDetails": "Genom, fullständigt eller helt och hållet. Perform, permit, persist."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "förmågan att förstå eller bli medveten om något",
+      "translationLong": "förmågan att förstå eller bli medveten om något genom sinnena; en medvetenhet",
+      "exampleSentence": "His perception of time changed after the accident.",
+      "exampleTranslation": "Hans uppfattning om tid förändrades efter olyckan."
+    },
+    {
+      "id": "deception",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ner/ångra",
+          "homeLangDetails": "Nedåt, bort eller omvändning av en handling. Decrease, depart, deconstruct. Vänder ofta direkt basorten."
+        },
+        {
+          "targetLang": "cept",
+          "homeLang": "ta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "handlingen att bedraga eller vilseleda",
+      "translationLong": "handlingen att bedraga eller vilseleda någon; ett trick eller en lögn",
+      "exampleSentence": "The deception was eventually uncovered.",
+      "exampleTranslation": "Bedrägeriet avslöjades så småningom."
+    },
+    {
+      "id": "reference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tillbaka",
+          "homeLangDetails": "Här har re- sin äldre latinska betydelse 'tillbaka' snarare än 'igen'. Receive betyder att ta emot (eller in), recede betyder att gå tillbaka, och refer betyder att föra något tillbaka till källan."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "referens",
+      "translationLong": "en källa man söker för information; en anspelning eller omnämnande",
+      "exampleSentence": "I used that book as a reference for my essay.",
+      "exampleTranslation": "Jag använde den boken som referens för min uppsats."
+    },
+    {
+      "id": "conference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "konferens",
+      "translationLong": "ett formellt möte eller en diskussion",
+      "exampleSentence": "The annual conference brings together scientists from around the world.",
+      "exampleTranslation": "Den årliga konferensen samlar vetenskapsmän från hela världen."
+    },
+    {
+      "id": "interference",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellan",
+          "homeLangDetails": "Mellan eller bland. International, interrupt, interact är andra ord med samma prefix."
+        },
+        {
+          "targetLang": "fer",
+          "homeLang": "bära"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "störning",
+      "translationLong": "handlingen att störa något; oönskade signaler som stör en överföring",
+      "exampleSentence": "Radio interference disrupted the broadcast.",
+      "exampleTranslation": "Radiostörning avbröt sändningen."
+    },
+    {
+      "id": "conversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vända"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "omvandling",
+      "translationLong": "processen att ändra från en form, tillstånd eller övertygelse till en annan",
+      "exampleSentence": "The conversion of the warehouse into apartments took several months.",
+      "exampleTranslation": "Omvandlingen av lagerhuset till lägenheter tog flera månader."
+    },
+    {
+      "id": "introversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "inåt"
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vända"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "introversion",
+      "translationLong": "en benägenhet att fokusera inåt på sina egna tankar och känslor",
+      "exampleSentence": "Her introversion made her prefer quiet evenings at home.",
+      "exampleTranslation": "Hennes introversion gjorde att hon föredrog lugna kvällar hemma."
+    },
+    {
+      "id": "subversion",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under, nedanför eller underordnad. Subway, submarine, substitute är andra exempel på samma prefix."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vända"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "undergräving",
+      "translationLong": "handlingen att undergräva eller kullkasta något etablerat",
+      "exampleSentence": "The government cracked down on any subversion of authority.",
+      "exampleTranslation": "Regeringen slogs hårt mot all undergräving av auktoriteten."
+    },
+    {
+      "id": "dependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "ned/från",
+          "homeLangDetails": "Här har de- sin riktningsbetydelse 'ned från'. Det latinska ordet dependere betyder 'hänga ned från'. Det vänder inte basordet; det beskriver ett förhållande där något är upphängt eller beror på något annat."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hänga"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "beroende",
+      "translationLong": "tillståndet att vara beroende av något eller någon annan",
+      "exampleSentence": "His dependence on caffeine was affecting his sleep.",
+      "exampleTranslation": "Hans beroende av kaffe påverkade hans sömn."
+    },
+    {
+      "id": "independence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "inte"
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "ned/från",
+          "homeLangDetails": "Här har de- sin riktningsbetydelse 'ned från'. Det latinska ordet dependere betyder 'hänga ned från'. Det vänder inte basordet; det beskriver ett förhållande där något är upphängt eller beror på något annat."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hänga"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "oberoende",
+      "translationLong": "tillståndet att vara självständig och fri från beroende",
+      "exampleSentence": "She finally achieved financial independence.",
+      "exampleTranslation": "Hon uppnådde äntligen ekonomisk oberoende."
+    },
+    {
+      "id": "interdependence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellan",
+          "homeLangDetails": "Mellan eller bland. International, interrupt, interact är andra ord med samma prefix."
+        },
+        {
+          "targetLang": "de",
+          "homeLang": "ned/från",
+          "homeLangDetails": "Här har de- sin riktningsbetydelse 'ned från'. Det latinska ordet dependere betyder 'hänga ned från'. Det vänder inte basordet; det beskriver ett förhållande där något är upphängt eller beror på något annat."
+        },
+        {
+          "targetLang": "pend",
+          "homeLang": "hänga"
+        },
+        {
+          "targetLang": "ence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "ömsesidigt beroende",
+      "translationLong": "ömsesidigt beroende mellan olika parter eller grupper",
+      "exampleSentence": "Global economies show increasing interdependence.",
+      "exampleTranslation": "Världens ekonomier visar ett växande ömsesidigt beroende."
+    },
+    {
+      "id": "occurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "oc",
+          "homeLang": "mot"
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "springa"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ence"
+        }
+      ],
+      "translationShort": "händelse",
+      "translationLong": "en förekomst eller händelse av att något inträffar",
+      "exampleSentence": "The occurrence of earthquakes in that region is common.",
+      "exampleTranslation": "Förekomsten av jordbävningar i den regionen är vanlig."
+    },
+    {
+      "id": "recurrence",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "igen",
+          "homeLangDetails": "Signalerar upprepning eller återkomst till ett tidigare tillstånd. Från latinets re-, dyker det upp i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka\"."
+        },
+        {
+          "targetLang": "cur",
+          "homeLang": "springa"
+        },
+        {
+          "targetLang": "rence",
+          "homeLang": "-ens"
+        }
+      ],
+      "translationShort": "återkomst",
+      "translationLong": "det faktum att något händer eller förekommer igen",
+      "exampleSentence": "The recurrence of migraines was becoming a serious problem.",
+      "exampleTranslation": "Återkomsten av migrän blev ett allvarligt problem."
+    },
+    {
+      "id": "concurrent",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "tillsammans"
+        },
+        {
+          "targetLang": "curr",
+          "homeLang": "springa"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        }
+      ],
+      "translationShort": "samtidig",
+      "translationLong": "något som inträffar eller existerar på samma gång",
+      "exampleSentence": "The two events were concurrent, happening at the same time.",
+      "exampleTranslation": "De två händelserna var samtidiga och inträffade på samma tid."
+    },
+    {
+      "id": "recession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "tillbaka",
+          "homeLangDetails": "I detta ord har re- sin äldre latinska betydelse \"tillbaka\" snarare än \"igen\" - receive betyder att ta emot (eller tillbaka), recede betyder att gå tillbaka, och refer betyder att hänvisa till en källa."
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "recession",
+      "translationLong": "en ekonomisk nedgång, en period av tillfällig minskning i aktivitet",
+      "exampleSentence": "The country experienced a severe recession in the early 2000s.",
+      "exampleTranslation": "Landet upplevde en allvarlig recession i början av 2000-talet."
+    },
+    {
+      "id": "succession",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "suc",
+          "homeLang": "under"
+        },
+        {
+          "targetLang": "cess",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "succession",
+      "translationLong": "en serie saker som följer i ordning, processen att följa i följd",
+      "exampleSentence": "The succession of kings lasted for three centuries.",
+      "exampleTranslation": "Kungarnas succession varade i tre århundraden."
+    },
+    {
+      "id": "unprecedented",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "inte",
+          "homeLangDetails": "Det vanligaste engelska negationsprefix, nedärvt från fornengelska. Speglar direkt tyskan un-, holländskan on- och släktingar över germanska språk. Vänder betydelsen av basordet på huvudet: unhappy, unknown, unforgettable."
+        },
+        {
+          "targetLang": "pre",
+          "homeLang": "före",
+          "homeLangDetails": "Före i tid eller position. Predict, prepare, prehistoric."
+        },
+        {
+          "targetLang": "ced",
+          "homeLang": "gå"
+        },
+        {
+          "targetLang": "ent",
+          "homeLang": "-ent"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(förfluten)"
+        }
+      ],
+      "translationShort": "aldrig tidigare skedd",
+      "translationLong": "aldrig gjord eller känd innan, utan föregångare",
+      "exampleSentence": "The pandemic caused unprecedented disruption to schools worldwide.",
+      "exampleTranslation": "Pandemin orsakade aldrig tidigare skedd störning i skolorna världen över.",
+      "flag": "5+ parts"
+    },
+    {
+      "id": "transformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "över",
+          "homeLangDetails": "Över, genom, eller förändring från ett tillstånd till ett annat. Transport, transform, translate."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "omvandling",
+      "translationLong": "handlingen eller processen att förändra form",
+      "exampleSentence": "The transformation from caterpillar to butterfly is remarkable.",
+      "exampleTranslation": "Omvandlingen från larv till fjäril är anmärkningsvärd."
+    },
+    {
+      "id": "reformation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "igen",
+          "homeLangDetails": "Signalerar upprepning eller återkomst till ett tidigare tillstånd. Från latinets re-, dyker det upp i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka\"."
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "reformation",
+      "translationLong": "handlingen att forma igen eller reformera",
+      "exampleSentence": "The Reformation was a major religious movement in 16th-century Europe.",
+      "exampleTranslation": "Reformationen var en stor religiös rörelse i 1500-talets Europa."
+    },
+    {
+      "id": "information",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "i"
+        },
+        {
+          "targetLang": "form",
+          "homeLang": "form"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "information",
+      "translationLong": "fakta eller detaljer som tillhandahålls eller lärs ut",
+      "exampleSentence": "I found useful information about the topic online.",
+      "exampleTranslation": "Jag hittade användbar information om ämnet online."
+    },
+    {
+      "id": "interruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellan",
+          "homeLangDetails": "Mellan eller bland. International, interrupt, interact."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "avbrott",
+      "translationLong": "ett avbrott i kontinuiteten eller en paus",
+      "exampleSentence": "There was a brief interruption during the meeting.",
+      "exampleTranslation": "Det var ett kort avbrott under mötet."
+    },
+    {
+      "id": "disruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "isär",
+          "homeLangDetails": "Inte, eller att ta isär. Disagree, disconnect, disappear. Starkare känsla av separation eller reversering än un-."
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-ion"
+        }
+      ],
+      "translationShort": "störning",
+      "translationLong": "en störning eller problem som avbryter",
+      "exampleSentence": "The storm caused a major disruption to transportation.",
+      "exampleTranslation": "Stormen orsakade en stor störning för transporterna."
+    },
+    {
+      "id": "corruption",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "cor",
+          "homeLang": "sam-/tillsammans"
+        },
+        {
+          "targetLang": "rupt",
+          "homeLang": "bryta"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "korruption",
+      "translationLong": "oärlig eller omoral beteende; tillståndet att vara korrumperad",
+      "exampleSentence": "The government cracked down on corruption.",
+      "exampleTranslation": "Regeringen slog hårt mot korruption."
+    },
+    {
+      "id": "autobiography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "själv",
+          "homeLangDetails": "Själv. Autobiografi, automatisk, automobil."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Liv. Biologi, biografi, biologiskt nedbrytbar."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantivsuffix)"
+        }
+      ],
+      "translationShort": "autobiografi",
+      "translationLong": "en persons egen skriftliga livshistoria",
+      "exampleSentence": "She wrote an autobiography about her early years.",
+      "exampleTranslation": "Hon skrev en autobiografi om sina ungdomsår."
+    },
+    {
+      "id": "biography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Liv. Biologi, biografi, biologiskt nedbrytbar."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantivsuffix)"
+        }
+      ],
+      "translationShort": "biografi",
+      "translationLong": "en skriftlig framställning av någons liv",
+      "exampleSentence": "I'm reading a biography of the famous scientist.",
+      "exampleTranslation": "Jag läser en biografi om den berömda vetenskapsmannen."
+    },
+    {
+      "id": "photography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "ljus"
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantivsuffix)"
+        }
+      ],
+      "translationShort": "fotografi",
+      "translationLong": "konsten eller praktiken att ta fotografier",
+      "exampleSentence": "She has a passion for photography.",
+      "exampleTranslation": "Hon brinner för fotografi."
+    },
+    {
+      "id": "symphony",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "sam-/tillsammans",
+          "homeLangDetails": "En variant av sam-förstavelsen från grekiska. Det betyder 'tillsammans' eller 'med' - i en symfoni spelar många instrument tillsammans i harmoni."
+        },
+        {
+          "targetLang": "phon",
+          "homeLang": "-fon"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(substantivsuffix)"
+        }
+      ],
+      "translationShort": "symfoni",
+      "translationLong": "en utökad orkesterkompositon",
+      "exampleSentence": "Beethoven's Ninth Symphony is one of his greatest works.",
+      "exampleTranslation": "Beethovens nionde symfoni är ett av hans största verk."
+    },
+    {
+      "id": "telephone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "långt bort",
+          "homeLangDetails": "På avstånd. Telefon, television, teleskop."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-fon"
+        }
+      ],
+      "translationShort": "telefon",
+      "translationLong": "en enhet för kommunikation över avstånd",
+      "exampleSentence": "I'll call you on the telephone tomorrow.",
+      "exampleTranslation": "Jag ringer dig på telefonen imorgon."
+    },
+    {
+      "id": "microphone",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "micro",
+          "homeLang": "mycket liten",
+          "homeLangDetails": "Väldigt liten. Mikrofon, mikroskop, mikrovågsugn."
+        },
+        {
+          "targetLang": "phone",
+          "homeLang": "-fon"
+        }
+      ],
+      "translationShort": "mikrofon",
+      "translationLong": "en enhet som fångar och förstärker små ljud",
+      "exampleSentence": "The singer spoke into the microphone.",
+      "exampleTranslation": "Sångerskan talade i mikrofonen."
+    },
+    {
+      "id": "chronology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "chron",
+          "homeLang": "-kron-",
+          "homeLangDetails": "Tid. Kronologi, synkronisera, anakronism."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Studiet av. Biologi, psykologi, teknik."
+        }
+      ],
+      "translationShort": "kronologi",
+      "translationLong": "ordningen av händelser i tidsföljd",
+      "exampleSentence": "The chronology of the events is important to understand.",
+      "exampleTranslation": "Kronologin av händelserna är viktig för att förstå."
+    },
+    {
+      "id": "synchronize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "syn",
+          "homeLang": "sam-/tillsammans",
+          "homeLangDetails": "En variant av sam-förstavelsen från grekiska. Det betyder 'tillsammans' - i synkronisera sker händelser eller handlingar på samma tid tillsammans."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-kron-",
+          "homeLangDetails": "Tid. Kronologi, synkronisera, anakronism."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-ize"
+        }
+      ],
+      "translationShort": "synkronisera",
+      "translationLong": "göra så att saker händer på samma tid",
+      "exampleSentence": "Let's synchronize our watches before we leave.",
+      "exampleTranslation": "Låt oss synkronisera våra klockor innan vi går."
+    },
+    {
+      "id": "anachronism",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ana",
+          "homeLang": "bak",
+          "homeLangDetails": "En grekisk förstavelse som betyder 'bak' eller 'igen' - i anakronism är något i fel tid, det går 'bak' till fel era."
+        },
+        {
+          "targetLang": "chron",
+          "homeLang": "-kron-",
+          "homeLangDetails": "Tid. Kronologi, synkronisera, anakronism."
+        },
+        {
+          "targetLang": "ism",
+          "homeLang": "-ism",
+          "homeLangDetails": "En tro, praxis, system eller karakteristisk kvalitet. Realism, kapitalism, entusiasm."
+        }
+      ],
+      "translationShort": "anakronism",
+      "translationLong": "något som är placerat i fel tidsperiod",
+      "exampleSentence": "Having a smartphone in a medieval film would be an anachronism.",
+      "exampleTranslation": "Att ha en smartphone i en medeltidsfilm skulle vara en anakronism."
+    },
+    {
+      "id": "psychology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "psych",
+          "homeLang": "sinne"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalförbindelse (tematisk vokal) som används i grekiska sammansatta ord för att länka morfemer smidigt. Den har ingen egen betydelse."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Läran om eller studiet av. Liksom i biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "läran om sinnet",
+      "translationLong": "den vetenskapliga studien av sinnet och beteende",
+      "exampleSentence": "She majored in psychology at university.",
+      "exampleTranslation": "Hon läste psykologi på universitetet."
+    },
+    {
+      "id": "anthropology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anthrop",
+          "homeLang": "människa"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalförbindelse (tematisk vokal) som används i grekiska sammansatta ord för att länka morfemer smidigt. Den har ingen egen betydelse."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Läran om eller studiet av. Liksom i biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "läran om människan",
+      "translationLong": "den vetenskapliga studien av människans samhällen och kulturer",
+      "exampleSentence": "Anthropology helps us understand different cultures.",
+      "exampleTranslation": "Antropologi hjälper oss att förstå olika kulturer."
+    },
+    {
+      "id": "dermatology",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dermat",
+          "homeLang": "hud"
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "En vokalförbindelse (tematisk vokal) som används i grekiska sammansatta ord för att länka morfemer smidigt. Den har ingen egen betydelse."
+        },
+        {
+          "targetLang": "logy",
+          "homeLang": "-logi",
+          "homeLangDetails": "Läran om eller studiet av. Liksom i biologi, psykologi, teknologi."
+        }
+      ],
+      "translationShort": "läran om huden",
+      "translationLong": "medicinstudien av huden och hudsjukdomar",
+      "exampleSentence": "I have an appointment with a dermatology specialist.",
+      "exampleTranslation": "Jag har en tid hos en dermatolog."
+    },
+    {
+      "id": "sympathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sym",
+          "homeLang": "tillsammans",
+          "homeLangDetails": "En variant av syn-, en grekisk förprefix som betyder 'tillsammans' eller 'med'. Här kombineras det med -pathy (känsla) för att betyda 'känsla tillsammans' - att förstå en annan persons känslor."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Känsla, lidande eller tillstånd. Från grekiskans pathos. Sympati, empati, antiapati, apati."
+        }
+      ],
+      "translationShort": "medkänsla, förståelse",
+      "translationLong": "förmågan att förstå och dela någon annans känslor",
+      "exampleSentence": "I felt sympathy for her difficult situation.",
+      "exampleTranslation": "Jag kände medkänsla för hennes svåra situation."
+    },
+    {
+      "id": "empathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "em",
+          "homeLang": "in-",
+          "homeLangDetails": "En variant av en-, en grekisk förprefix som betyder 'in' eller 'inuti'. Här föreslås det att tränga in i eller absorbera någon annans känslotillstånd - en djupare, mer inlevelsefull engagemang än sympati."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Känsla, lidande eller tillstånd. Från grekiskans pathos. Sympati, empati, antiapati, apati."
+        }
+      ],
+      "translationShort": "känslomässig förståelse",
+      "translationLong": "förmågan att förstå och känna någon annans känslor som om de vore dina egna",
+      "exampleSentence": "Empathy is important for being a good friend.",
+      "exampleTranslation": "Empati är viktigt för att vara en bra vän."
+    },
+    {
+      "id": "antipathy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "anti-",
+          "homeLangDetails": "Mot eller motsatt. Motsvarande ordet anti- på svenska som används i ord som antimilitär, antibiotika."
+        },
+        {
+          "targetLang": "pathy",
+          "homeLang": "-pathi",
+          "homeLangDetails": "Känsla, lidande eller tillstånd. Från grekiskans pathos. Sympati, empati, antiapati, apati."
+        }
+      ],
+      "translationShort": "motvilja, motstånd",
+      "translationLong": "en stark känsla av motvilja eller motstånd",
+      "exampleSentence": "He had an antipathy toward modern art.",
+      "exampleTranslation": "Han hade en stark motvilja mot modern konst."
+    },
+    {
+      "id": "metamorphosis",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "meta",
+          "homeLang": "förändring/bortom",
+          "homeLangDetails": "En grekisk förprefix som betyder 'förändring', 'bortom' eller 'över'. Här kombineras det med morph (form) för att beskriva en genomgripande formförändring - omvandlingen av en larv till en fjäril."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morf-",
+          "homeLangDetails": "Form eller gestalt. Metamorfos, amorft, morfologi."
+        },
+        {
+          "targetLang": "o",
+          "homeLang": "-",
+          "homeLangDetails": "A vowel connector (thematic vowel) used in Greek-derived compounds to link morphemes smoothly. It carries no independent meaning."
+        },
+        {
+          "targetLang": "sis",
+          "homeLang": "-sis",
+          "homeLangDetails": "En grekisk ändelse som anger ett tillstånd, en process eller ett förhållande. Här gör den ordet för själva processen att förändras från en form till en annan."
+        }
+      ],
+      "translationShort": "omvandling, förändring",
+      "translationLong": "en fullständig förändring av form eller struktur; en biologisk omvandling",
+      "exampleSentence": "The tadpole's metamorphosis into a frog takes several weeks.",
+      "exampleTranslation": "Tadpolen omvandlas till en groda på några veckor."
+    },
+    {
+      "id": "amorphous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "a",
+          "homeLang": "o-/inte",
+          "homeLangDetails": "En grekisk förprefix som betyder 'inte' eller 'utan'. Det är den grekiska motsvarigheten till det germaniska förprefix-et un-. Här förnekar det morphe (form) och skapar ett ord för något utan definierad gestalt."
+        },
+        {
+          "targetLang": "morph",
+          "homeLang": "-morf-",
+          "homeLangDetails": "Form eller gestalt. Metamorfos, amorft, morfologi."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ous"
+        }
+      ],
+      "translationShort": "formös, formlös",
+      "translationLong": "utan klar form eller gestalt; vag eller odefinierad",
+      "exampleSentence": "The amorphous blob of clay could become anything.",
+      "exampleTranslation": "Klumpen av lera kunde bli vad som helst."
+    },
+    {
+      "id": "uncomfortable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "o-/inte",
+          "homeLangDetails": "Det vanligaste engelska förnegelseförprefix-et, ärvet från fornengelskan. Det motsvarar helt och hållet svenska 'o-' som vi har i ord som otrygg, obekväm. Det vänder ordets betydelse upp och ner: unhappy (olycklig), unknown (okänd), unforgettable (oförglömlig)."
+        },
+        {
+          "targetLang": "comfort",
+          "homeLang": "bekväm"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "obekväm, obehaglig",
+      "translationLong": "som orsakar eller kännetecknas av obehag; opretentiös eller besvärlig",
+      "exampleSentence": "That chair is very uncomfortable.",
+      "exampleTranslation": "Den stolen är väldigt obekväm."
+    },
+    {
+      "id": "unbelievable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "o-/inte",
+          "homeLangDetails": "Det vanligaste engelska förnegelseförprefix-et, ärvet från fornengelskan. Det motsvarar helt och hållet svenska 'o-' som vi har i ord som otrygg, obekväm. Det vänder ordets betydelse upp och ner: unhappy (olycklig), unknown (okänd), unforgettable (oförglömlig)."
+        },
+        {
+          "targetLang": "believ",
+          "homeLang": "tro"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "otrolig, svår att tro",
+      "translationLong": "omöjlig att tro; otrolig eller häpnadsväckande",
+      "exampleSentence": "That story sounds unbelievable!",
+      "exampleTranslation": "Den historien låter otrolig!"
+    },
+    {
+      "id": "unforgettable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Det vanligaste engelska förnekandeprefikset, som kommer från fornengelskan. Det fungerar precis som svenska \"o-\" eller \"in-\", tyska \"un-\" och motsvarande prefix i andra germanska språk. Det vänder betydelsen på huvudordet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "forgett",
+          "homeLang": "forget"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "oförglömlig, omöjlig att glömma",
+      "translationLong": "som inte kan glömmas bort; minnesvärd och slående",
+      "exampleSentence": "That vacation was unforgettable.",
+      "exampleTranslation": "Den semestern var oförglömlig."
+    },
+    {
+      "id": "unrecognizable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Det vanligaste engelska förnekandeprefikset, som kommer från fornengelskan. Det fungerar precis som svenska \"o-\" eller \"in-\", tyska \"un-\" och motsvarande prefix i andra germanska språk. Det vänder betydelsen på huvudordet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "recogniz",
+          "homeLang": "recognize"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "okännlig, omöjlig att identifiera",
+      "translationLong": "som inte kan kännas igen eller identifieras",
+      "exampleSentence": "After the accident, the car was unrecognizable.",
+      "exampleTranslation": "Efter olyckan var bilen helt okännlig."
+    },
+    {
+      "id": "misunderstanding",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "miss-",
+          "homeLangDetails": "Signalerar att något gjordes felaktigt eller dåligt. Misunderstand betyder \"misstolka\", mistake betyder \"misstag\", misrepresent betyder \"framställa felaktigt\". Kan jämföras med svenska \"miss-\" som i \"missförstånd\" eller \"misstolka\"."
+        },
+        {
+          "targetLang": "understand",
+          "homeLang": "understand"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Ett suffix som bildar ett substantiv eller gerundium (verbalt substantiv). Här omvandlar det verbet \"misunderstand\" till ett substantiv som betecknar handlingen eller resultatet av att misstolka något."
+        }
+      ],
+      "translationShort": "missförstånd, förvirring",
+      "translationLong": "när något förstås felaktigt; förvirring eller oenighet",
+      "exampleSentence": "There was a misunderstanding about the meeting time.",
+      "exampleTranslation": "Det var ett missförstånd om mötestiden."
+    },
+    {
+      "id": "misrepresentation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "miss-",
+          "homeLangDetails": "Signalerar att något gjordes felaktigt eller dåligt. Misunderstand betyder \"misstolka\", mistake betyder \"misstag\", misrepresent betyder \"framställa felaktigt\". Kan jämföras med svenska \"miss-\" som i \"missförstånd\" eller \"misstolka\"."
+        },
+        {
+          "targetLang": "represent",
+          "homeLang": "represent"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "falsk framställning, snedvridning",
+      "translationLong": "en felaktig eller missvisande skildring av något; en förvrängning av fakta",
+      "exampleSentence": "The article contained a misrepresentation of the facts.",
+      "exampleTranslation": "Artikeln innehöll en falsk framställning av fakta."
+    },
+    {
+      "id": "overwhelming",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "över-/för mycket",
+          "homeLangDetails": "Antyder överskott eller att något går bortom en gräns. Overlook betyder \"förbise\", overwhelm betyder \"överväldiga\", overestimate betyder \"överskatta\". Kan också användas rumsligt för \"ovan\" i äldre sammansättningar, precis som svenska \"över-\"."
+        },
+        {
+          "targetLang": "whelm",
+          "homeLang": "whelm",
+          "homeLangDetails": "Ordet \"whelm\" betyder att omsluta eller sänka under vattenytan, men används mycket sällan utan prefixet \"over\". När det kombineras med \"over-\" uttrycker det känslan av att bli helt översvälld eller drunknad, både känslomässigt och fysiskt."
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing",
+          "homeLangDetails": "Ett suffix som bildar ett gerundium eller presens particip. Här skapar det ett adjektiv som beskriver något som överväldiger."
+        }
+      ],
+      "translationShort": "överväldigande, häpnadsväckande",
+      "translationLong": "extremt imponerande, kraftfullt eller känslomässigt intensivt; överväldigande",
+      "exampleSentence": "The support she received was overwhelming.",
+      "exampleTranslation": "Det stöd hon fick var överväldigande."
+    },
+    {
+      "id": "underestimate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-/för lite",
+          "homeLangDetails": "Motpolen till \"över-\". Kan betyda under något (underground betyder \"underjordisk\") eller för lite av något (underestimate betyder \"underskatta\", underperform betyder \"prestera under förväntan\")."
+        },
+        {
+          "targetLang": "estimate",
+          "homeLang": "estimate"
+        }
+      ],
+      "translationShort": "underskatta",
+      "translationLong": "undervärdera, bedöma något som mindre viktigt eller duktig än det förtjänar",
+      "exampleSentence": "Don't underestimate her ability to solve complex problems.",
+      "exampleTranslation": "Underskatta inte hennes förmåga att lösa komplexa problem."
+    },
+    {
+      "id": "overestimation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "over",
+          "homeLang": "över-/för mycket",
+          "homeLangDetails": "Antyder överskott eller att något går bortom en gräns. Overlook betyder \"förbise\", overwhelm betyder \"överväldiga\", overestimate betyder \"överskatta\". Kan också användas rumsligt för \"ovan\" i äldre sammansättningar, precis som svenska \"över-\"."
+        },
+        {
+          "targetLang": "estimat",
+          "homeLang": "estimate"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "överskattning",
+      "translationLong": "handlingen att bedöma något som större eller bättre än det faktiskt är",
+      "exampleSentence": "The overestimation of the project's budget led to financial problems.",
+      "exampleTranslation": "Överskattningen av projektbudgeten ledde till ekonomiska problem."
+    },
+    {
+      "id": "multicultural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "multi",
+          "homeLang": "multi-/många",
+          "homeLangDetails": "Många eller multipel. Multicultural betyder \"flerkulturell\", multimedia betyder \"multimedia\", multiply betyder \"multiplicera\"."
+        },
+        {
+          "targetLang": "cultural",
+          "homeLang": "cultural"
+        }
+      ],
+      "translationShort": "flerkulturell",
+      "translationLong": "som relaterar till eller består av många olika kulturer",
+      "exampleSentence": "Our city is known for its multicultural population.",
+      "exampleTranslation": "Vår stad är känd för sin flerkulturella befolkning."
+    },
+    {
+      "id": "transcontinental",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "trans",
+          "homeLang": "trans-/över",
+          "homeLangDetails": "Över, igenom eller förändring från ett tillstånd till ett annat. Transport betyder \"transport\", transform betyder \"omvandla\", translate betyder \"översätta\". Fungerar på samma sätt som svenska \"trans-\"."
+        },
+        {
+          "targetLang": "continental",
+          "homeLang": "continental"
+        }
+      ],
+      "translationShort": "transkontinental",
+      "translationLong": "som sträcker sig över eller korsar en kontinent eller flera kontinenter",
+      "exampleSentence": "The transcontinental railroad connected the East and West coasts.",
+      "exampleTranslation": "Järnvägen som korsar kontinenten förbinder öst och väst."
+    },
+    {
+      "id": "interchangeable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/mellan",
+          "homeLangDetails": "Mellan eller bland. International betyder \"internationell\", interrupt betyder \"avbryta\", interact betyder \"interagera\". Kan jämföras med svenska \"mellan-\" eller \"inter-\"."
+        },
+        {
+          "targetLang": "change",
+          "homeLang": "change"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able"
+        }
+      ],
+      "translationShort": "utbytbar",
+      "translationLong": "som kan utbytas med varandra utan att påverka hur något fungerar",
+      "exampleSentence": "These two parts are interchangeable and can be used in either position.",
+      "exampleTranslation": "Dessa två delar kan utbytas med varandra utan att påverka hur apparaten fungerar."
+    },
+    {
+      "id": "disorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/inte/isär",
+          "homeLangDetails": "Inte, eller att ta isär något. Disagree, disconnect, disappear. Det är en starkare känsla av separation eller vändning än vad un- ger."
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organisera"
+        }
+      ],
+      "translationShort": "att oorganisera",
+      "translationLong": "att kasta något i oordning, att störa organisationen av något",
+      "exampleSentence": "The sudden change will disorganize our carefully planned schedule.",
+      "exampleTranslation": "Den plötsliga förändringen kommer att kasta vår noggrant planerade schema i oordning."
+    },
+    {
+      "id": "modernization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "modern",
+          "homeLang": "modern"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-isera"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "modernisering",
+      "translationLong": "processen att göra något modernt eller uppdaterat",
+      "exampleSentence": "The modernization of the factory improved its efficiency.",
+      "exampleTranslation": "Fabrikens modernisering förbättrade dess effektivitet."
+    },
+    {
+      "id": "industrialization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "industrial",
+          "homeLang": "industriell"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-isera"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "industrialisering",
+      "translationLong": "processen att utveckla industrier i en region eller samhälle",
+      "exampleSentence": "The industrialization of the nation transformed its economy.",
+      "exampleTranslation": "Nationalens industrialisering omvandlade dess ekonomi."
+    },
+    {
+      "id": "encouragement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "encourage",
+          "homeLang": "uppmuntra"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ande",
+          "homeLangDetails": "Bildar substantiv från verb och syftar på handlingen, resultatet eller medlet. Regering, rörelse, njutning."
+        }
+      ],
+      "translationShort": "uppmuntran",
+      "translationLong": "handlingen att ge mod eller stöd till någon",
+      "exampleSentence": "Her encouragement helped me overcome my fears.",
+      "exampleTranslation": "Hennes uppmuntran hjälpte mig att övervinna mina rädslor."
+    },
+    {
+      "id": "disagreement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/inte/isär",
+          "homeLangDetails": "Inte, eller att ta isär något. Disagree, disconnect, disappear. Det är en starkare känsla av separation eller vändning än vad un- ger."
+        },
+        {
+          "targetLang": "agree",
+          "homeLang": "hålla med"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ande",
+          "homeLangDetails": "Bildar substantiv från verb och syftar på handlingen, resultatet eller medlet. Regering, rörelse, njutning."
+        }
+      ],
+      "translationShort": "oenighet",
+      "translationLong": "brist på överenskommelse, en skillnad i åsikter",
+      "exampleSentence": "Their disagreement about the budget lasted for weeks.",
+      "exampleTranslation": "Deras oenighet om budgeten varade i flera veckor."
+    },
+    {
+      "id": "disappointment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "dis",
+          "homeLang": "dis-/inte/isär",
+          "homeLangDetails": "Inte, eller att ta isär något. Disagree, disconnect, disappear. Det är en starkare känsla av separation eller vändning än vad un- ger."
+        },
+        {
+          "targetLang": "appoint",
+          "homeLang": "utse"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ande",
+          "homeLangDetails": "Bildar substantiv från verb och syftar på handlingen, resultatet eller medlet. Regering, rörelse, njutning."
+        }
+      ],
+      "translationShort": "besvikelse",
+      "translationLong": "känslan av sorg när något inte motsvarar förväntningarna",
+      "exampleSentence": "The cancellation of the concert was a huge disappointment.",
+      "exampleTranslation": "Inställningen av konserten orsakade stor besvikelse och misslyckade förväntningar."
+    },
+    {
+      "id": "acknowledgment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "acknowledg",
+          "homeLang": "erkänna"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ande",
+          "homeLangDetails": "Bildar substantiv från verb och syftar på handlingen, resultatet eller medlet. Regering, rörelse, njutning."
+        }
+      ],
+      "translationShort": "erkännande",
+      "translationLong": "igenkännande eller erkännande av något, vanligtvis något som någon har gjort eller sagt",
+      "exampleSentence": "The acknowledgment of his contributions was long overdue.",
+      "exampleTranslation": "Igenkännandet av hans bidrag var långt förekommande."
+    },
+    {
+      "id": "courageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "courage",
+          "homeLang": "mod"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ig"
+        }
+      ],
+      "translationShort": "modig",
+      "translationLong": "modig, visar mod",
+      "exampleSentence": "Her courageous actions saved lives during the crisis.",
+      "exampleTranslation": "Hennes modiga handlingar räddade liv under krisen."
+    },
+    {
+      "id": "outrageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "outrage",
+          "homeLang": "skrämmande",
+          "homeLangDetails": "Ett fruset sammansatt ord från gamla franska som betyder överdrift eller våld, inte det engelska prefixet out- plus rage. Out- här kommer från latin ultra (bortom), inte från germansk. Så skrämmande betyder snarare 'bortom gränser' än bokstavligen 'överstiger ilska'."
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ig"
+        }
+      ],
+      "translationShort": "chockande",
+      "translationLong": "chockerande dåligt eller stötande, extremt ovanligt eller överdriven",
+      "exampleSentence": "The outrageous price for such a small item made me laugh.",
+      "exampleTranslation": "Det chockerande höga priset för en så liten sak fick mig att skratta."
+    },
+    {
+      "id": "advantageous",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "advantage",
+          "homeLang": "fördel"
+        },
+        {
+          "targetLang": "ous",
+          "homeLang": "-ig"
+        }
+      ],
+      "translationShort": "fördelaktig",
+      "translationLong": "ger en fördel eller vinning, fördelaktig",
+      "exampleSentence": "Studying abroad can be advantageous for your career.",
+      "exampleTranslation": "Att studera utomlands kan vara fördelaktigt för din karriär."
+    },
+    {
+      "id": "extraordinary",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "extra",
+          "homeLang": "bortom"
+        },
+        {
+          "targetLang": "ordinary",
+          "homeLang": "vanlig"
+        }
+      ],
+      "translationShort": "extraordinär, exceptionell",
+      "translationLong": "extraordinär, exceptionell, anmärkningsvärd, ovanlig",
+      "exampleSentence": "She has an extraordinary talent for music.",
+      "exampleTranslation": "Hon har en extraordinär talang för musik."
+    },
+    {
+      "id": "remarkable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "remark",
+          "homeLang": "anmärka, lägga märke till"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Ett suffix som betyder 'värd att', ungefär som engelskans -able. Märkbar, drickbar, användbar. Det gör adjektiv av verb."
+        }
+      ],
+      "translationShort": "anmärkningsvärd, värd att notera",
+      "translationLong": "anmärkningsvärd, värd att notera, framträdande",
+      "exampleSentence": "The athlete made a remarkable recovery from injury.",
+      "exampleTranslation": "Atleten gjorde en anmärkningsvärd återhämtning från skadan."
+    },
+    {
+      "id": "predictable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "predict",
+          "homeLang": "förutsäga"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Suffix som betyder 'värd att' eller 'som kan'. Förutsägbar betyder alltså något som går att förutsäga eller är värt att förutsäga."
+        }
+      ],
+      "translationShort": "förutsägbar",
+      "translationLong": "förutsägbar, lätt att förutsäga",
+      "exampleSentence": "The ending of that movie was entirely predictable.",
+      "exampleTranslation": "Slutet på den där filmen var helt förutsägbar."
+    },
+    {
+      "id": "adjustable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "adjust",
+          "homeLang": "justera"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "justerbar",
+      "translationLong": "justerbar, som kan justeras",
+      "exampleSentence": "The chair has an adjustable height.",
+      "exampleTranslation": "Stolen har en justerbar höjd."
+    },
+    {
+      "id": "expandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "expand",
+          "homeLang": "expandera"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar"
+        }
+      ],
+      "translationShort": "expanderbar",
+      "translationLong": "expanderbar, som kan utvidgas",
+      "exampleSentence": "This storage box is expandable when you need more space.",
+      "exampleTranslation": "Den här förvaringsboxen är expanderbar när du behöver mer plats."
+    },
+    {
+      "id": "unconsciousness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "o-/inte",
+          "homeLangDetails": "Det vanligaste svenska prefixet för negation. Det fungerar precis som engelskans un- och motsvarar även tyska un-. Det vänder betydelsen på huvudordet: olycklig, okänd, oförglömlig. Mycket praktiskt att känna igen!"
+        },
+        {
+          "targetLang": "conscious",
+          "homeLang": "medveten"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör adjektiv till substantiv som beskriver ett tillstånd eller en kvalitet. Lycka, mörker, medvetenhet. Det svenska motsvarigheten till latinets -ity och engelskans -ness."
+        }
+      ],
+      "translationShort": "medvetslöshet, förlust av medvetande",
+      "translationLong": "medvetslöshet, förlust av medvetande, tillståndet att vara medvetslös",
+      "exampleSentence": "The blow to his head caused unconsciousness for several minutes.",
+      "exampleTranslation": "Slaget mot hans huvud orsakade medvetslöshet i flera minuter."
+    },
+    {
+      "id": "irresponsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "ir-/inte"
+        },
+        {
+          "targetLang": "responsibil",
+          "homeLang": "ansvarsfull"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet"
+        }
+      ],
+      "translationShort": "oansvarighet, brist på ansvar",
+      "translationLong": "oansvarighet, brist på ansvar, slarv",
+      "exampleSentence": "His irresponsibility cost the company thousands of dollars.",
+      "exampleTranslation": "Hans oansvarighet kostade företaget tusentals kronor."
+    },
+    {
+      "id": "incomprehensible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "o-/inte"
+        },
+        {
+          "targetLang": "comprehensible",
+          "homeLang": "begriplig"
+        }
+      ],
+      "translationShort": "obegriplig, oförståelig",
+      "translationLong": "obegriplig, oförståelig, omöjlig att förstå",
+      "exampleSentence": "The instructions were written in incomprehensible jargon.",
+      "exampleTranslation": "Instruktionerna var skrivna i obegriplig jargong."
+    },
+    {
+      "id": "compartmentalize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "compartment",
+          "homeLang": "fack"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Ett suffix som betyder 'som hör till' eller 'av karaktären av'. Musikalisk, naturlig, industriell. Det beskriver vad något relaterar till eller är som."
+        },
+        {
+          "targetLang": "ize",
+          "homeLang": "-isera",
+          "homeLangDetails": "Att göra något ha en viss kvalitet, eller att genomföra en process. Modernisera, organisera, realisera. Det omvandlar substantiv eller adjektiv till verb."
+        }
+      ],
+      "translationShort": "fackindela",
+      "translationLong": "fackindela, att dela in i separata sektioner eller kategorier",
+      "exampleSentence": "Some people compartmentalize their work and personal lives.",
+      "exampleTranslation": "Vissa människor fackindelar sitt arbets- och privatliv."
+    },
+    {
+      "id": "incompatibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "o-/inte"
+        },
+        {
+          "targetLang": "compatibil",
+          "homeLang": "kompatibel"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet"
+        }
+      ],
+      "translationShort": "inkompatibilitet",
+      "translationLong": "inkompatibilitet, tillståndet att vara inkompatibel",
+      "exampleSentence": "The incompatibility between the two systems made integration difficult.",
+      "exampleTranslation": "Inkompatibiliteten mellan de två systemen gjorde integrationen svår."
+    },
+    {
+      "id": "carefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder full av eller kännetecknad av något. Precis som på svenska där vi säger vacker, försiktig, kraftfull. Suffixet fungerar på samma sätt på båda språken."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "på ett försiktigt sätt",
+      "translationLong": "med omsorg; på ett försiktigt eller uppmärksamt sätt",
+      "exampleSentence": "She carefully placed the vase on the shelf.",
+      "exampleTranslation": "Hon placerade vasen på hyllan med försiktighet."
+    },
+    {
+      "id": "carelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "på ett slarvigt sätt",
+      "translationLong": "utan omsorg; på ett slarvigt eller oaktsamt sätt",
+      "exampleSentence": "He carelessly dropped the cup.",
+      "exampleTranslation": "Han tappade koppen utan omsorg."
+    },
+    {
+      "id": "carelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "care",
+          "homeLang": "omsorg"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör substantiv av adjektiv och uttrycker ett tillstånd eller en egenskap. Lycka, mörkhet, medvetenhet. Det här är den germanska motsvarigheten till det latinska suffixet -itet."
+        }
+      ],
+      "translationShort": "brist på omsorg",
+      "translationLong": "tillståndet eller egenskapen att vara slarvig; oaktsomhet",
+      "exampleSentence": "Her carelessness resulted in a broken dish.",
+      "exampleTranslation": "Hennes slarvighet resulterade i en bruten tallrik."
+    },
+    {
+      "id": "helpfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjälp"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder full av eller kännetecknad av något. Precis som på svenska där vi säger vacker, försiktig, kraftfull. Suffixet fungerar på samma sätt på båda språken."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "på ett hjälpsamt sätt",
+      "translationLong": "på ett sätt som erbjuder hjälp eller stöd",
+      "exampleSentence": "She helpfully explained the instructions.",
+      "exampleTranslation": "Hon förklarade instruktionerna på ett hjälpsamt sätt."
+    },
+    {
+      "id": "helplessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjälp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "på ett hjälplöst sätt",
+      "translationLong": "utan förmåga att hjälpa sig själv; maktlöst",
+      "exampleSentence": "He watched helplessly as the accident unfolded.",
+      "exampleTranslation": "Han tittade på utan möjlighet att ingripa när olyckan utvecklades."
+    },
+    {
+      "id": "helplessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "help",
+          "homeLang": "hjälp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör substantiv av adjektiv och uttrycker ett tillstånd eller en egenskap. Lycka, mörkhet, medvetenhet. Det här är den germanska motsvarigheten till det latinska suffixet -itet."
+        }
+      ],
+      "translationShort": "tillstånd av maktlöshet",
+      "translationLong": "tillståndet eller villkoret att vara hjälplös; maktlöshet",
+      "exampleSentence": "The helplessness in her voice was heartbreaking.",
+      "exampleTranslation": "Maktlösheten i hennes röst var hjärtekrossande."
+    },
+    {
+      "id": "hopefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hopp"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder full av eller kännetecknad av något. Precis som på svenska där vi säger vacker, försiktig, kraftfull. Suffixet fungerar på samma sätt på båda språken."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "förhoppningsvis; på ett hoppfullt sätt",
+      "translationLong": "med hopp eller optimism; uttrycker en önskan om att något ska hända",
+      "exampleSentence": "Hopefully, the weather will improve tomorrow.",
+      "exampleTranslation": "Förhoppningsvis blir vädret bättre imorgon."
+    },
+    {
+      "id": "hopelessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hopp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör substantiv av adjektiv och uttrycker ett tillstånd eller en egenskap. Lycka, mörkhet, medvetenhet. Det här är den germanska motsvarigheten till det latinska suffixet -itet."
+        }
+      ],
+      "translationShort": "tillstånd av förtvivlan",
+      "translationLong": "tillståndet eller känslan av att sakna hopp; förtvivlan",
+      "exampleSentence": "A sense of hopelessness settled over the team.",
+      "exampleTranslation": "En känsla av förtvivlan lade sig över laget."
+    },
+    {
+      "id": "hopelessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "hope",
+          "homeLang": "hopp"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Utan något. Liksom på svenska: slarvig, hopplös, tal-lös. Det här suffixet finns på båda språken och fungerar identiskt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "på ett hopplöst sätt",
+      "translationLong": "på ett sätt som visar ingen hopp; förtvivlat",
+      "exampleSentence": "The situation seemed hopelessly dire.",
+      "exampleTranslation": "Situationen verkade desperat hopplös."
+    },
+    {
+      "id": "thankfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "tacka"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder full av eller kännetecknad av något. Precis som på svenska där vi säger vacker, försiktig, kraftfull. Suffixet fungerar på samma sätt på båda språken."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-a",
+          "homeLangDetails": "Gör adverb av adjektiv, vilket betyder 'på ett visst sätt'. Snabbt, glatt, överraskande. Kan också göra adjektiv: vänlig, vacker."
+        }
+      ],
+      "translationShort": "lyckligtvis; på ett tacksamt sätt",
+      "translationLong": "lyckligtvis; med tacksamhet eller lättnad",
+      "exampleSentence": "Thankfully, no one was hurt in the accident.",
+      "exampleTranslation": "Lyckligtvis skadades ingen i olyckan."
+    },
+    {
+      "id": "thankfulness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thank",
+          "homeLang": "tacka"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder fullt av eller karakteriserat av något. Vacker, försiktig, kraftfull. Det svenska -full fungerar på exakt samma sätt."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör om adjektiv till substantiv för att uttrycka ett tillstånd eller en egenskap. Glädje, mörker, medvetenhet. Du använder -het på samma sätt i svenska."
+        }
+      ],
+      "translationShort": "tacksamhetens tillstånd",
+      "translationLong": "kvaliteten eller tillståndet av att vara tacksam",
+      "exampleSentence": "Her thankfulness was evident in her warm embrace.",
+      "exampleTranslation": "Hennes tacksamhet var tydlig i hennes varma omfamning."
+    },
+    {
+      "id": "thoughtfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "tanke"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder fullt av eller karakteriserat av något. Vacker, försiktig, kraftfull. Det svenska -full fungerar på exakt samma sätt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett eftertänksamt sätt",
+      "translationLong": "med omsorgsfull tanke; på ett grubblande eller omtänksamt sätt",
+      "exampleSentence": "She thoughtfully considered the question before answering.",
+      "exampleTranslation": "Hon övervägde noggrant frågan innan hon svarade."
+    },
+    {
+      "id": "thoughtlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "thought",
+          "homeLang": "tanke"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Betyder utan något. Vårdslös, hopplös, ordlös. Det svenska -lös är helt motsvarande det engelska -less."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör om adjektiv till substantiv för att uttrycka ett tillstånd eller en egenskap. Glädje, mörker, medvetenhet. Du använder -het på samma sätt i svenska."
+        }
+      ],
+      "translationShort": "brist på tankefulness",
+      "translationLong": "kvaliteten eller tillståndet av att vara tanklös eller sakna omsorg",
+      "exampleSentence": "His thoughtlessness hurt her feelings.",
+      "exampleTranslation": "Hans tanklöshet skadade hennes känslor."
+    },
+    {
+      "id": "fearlessly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "rädsla"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Betyder utan något. Vårdslös, hopplös, ordlös. Det svenska -lös är helt motsvarande det engelska -less."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett modig sätt",
+      "translationLong": "utan rädsla; modigt eller djärvt",
+      "exampleSentence": "The soldier marched fearlessly into battle.",
+      "exampleTranslation": "Soldaten marscherade modigt in i striden."
+    },
+    {
+      "id": "fearlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "fear",
+          "homeLang": "rädsla"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Betyder utan något. Vårdslös, hopplös, ordlös. Det svenska -lös är helt motsvarande det engelska -less."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör om adjektiv till substantiv för att uttrycka ett tillstånd eller en egenskap. Glädje, mörker, medvetenhet. Du använder -het på samma sätt i svenska."
+        }
+      ],
+      "translationShort": "frånvaron av rädsla",
+      "translationLong": "kvaliteten eller tillståndet av att vara modig; frånvaron av rädsla",
+      "exampleSentence": "Her fearlessness inspired everyone around her.",
+      "exampleTranslation": "Hennes mod inspirerade alla omkring henne."
+    },
+    {
+      "id": "peacefully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "peace",
+          "homeLang": "fred"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder fullt av eller karakteriserat av något. Vacker, försiktig, kraftfull. Det svenska -full fungerar på exakt samma sätt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett fredligt sätt",
+      "translationLong": "",
+      "exampleSentence": "The protesters marched peacefully through the city.",
+      "exampleTranslation": "Demonstranterna marscherade fredligt genom staden."
+    },
+    {
+      "id": "beautifully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "beauti",
+          "homeLang": "skönhet"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Här fäster -full sig till substantivet skönhet, men skönhet innehåller redan en slutelse. I vacker ligger skönheten gömd inuti, och vi lägger till -full för att göra det till ett adjektiv (fullt av skönhet). Sedan lägger vi på -t för att göra det till ett adverb."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett vackert sätt",
+      "translationLong": "",
+      "exampleSentence": "She sang beautifully at the concert.",
+      "exampleTranslation": "Hon sjöng vackert på konserten."
+    },
+    {
+      "id": "successfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "success",
+          "homeLang": "framgång"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder fullt av eller karakteriserat av något. Vacker, försiktig, kraftfull. Det svenska -full fungerar på exakt samma sätt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett framgångsrikt sätt",
+      "translationLong": "",
+      "exampleSentence": "The project was successfully completed on time.",
+      "exampleTranslation": "The project was successfully completed on time."
+    },
+    {
+      "id": "powerfully",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "kraft"
+        },
+        {
+          "targetLang": "ful",
+          "homeLang": "-full",
+          "homeLangDetails": "Betyder fullt av eller karakteriserat av något. Vacker, försiktig, kraftfull. Det svenska -full fungerar på exakt samma sätt."
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t/-ly",
+          "homeLangDetails": "Gör om adjektiv till adverb som betyder på ett visst sätt. Snabbt, glatt, överraskande. I svenska använder du ofta samma adjektivform eller ett ändringsmönster för att skapa adverb."
+        }
+      ],
+      "translationShort": "på ett kraftfullt sätt",
+      "translationLong": "",
+      "exampleSentence": "The speaker delivered a powerfully persuasive argument.",
+      "exampleTranslation": "Talaren presenterade ett kraftfullt övertygande argument."
+    },
+    {
+      "id": "powerlessness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "power",
+          "homeLang": "kraft"
+        },
+        {
+          "targetLang": "less",
+          "homeLang": "-lös",
+          "homeLangDetails": "Betyder utan något. Vårdslös, hopplös, ordlös. Det svenska -lös är helt motsvarande det engelska -less."
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-het",
+          "homeLangDetails": "Gör om adjektiv till substantiv för att uttrycka ett tillstånd eller en egenskap. Glädje, mörker, medvetenhet. Du använder -het på samma sätt i svenska."
+        }
+      ],
+      "translationShort": "brist på kraft",
+      "translationLong": "tillståndet av att vara utan makt eller påverkan",
+      "exampleSentence": "He felt a deep sense of powerlessness in the face of injustice.",
+      "exampleTranslation": "Han kände en djup känsla av maktlöshet inför orättvisan."
+    },
+    {
+      "id": "unemployment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Det vanligaste engelska prefixet för negation, ärft från fornengelska. Det motsvarar direkt det svenska prefixet 'o-' eller 'in-', och fungerar på samma sätt som tyska 'un-'. Det vänder betydelsen på huvudordet: unhappy blir olycklig, unknown blir okänd."
+        },
+        {
+          "targetLang": "employ",
+          "homeLang": "employ"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "tillståndet att vara utan arbete",
+      "translationLong": "tillståndet att vara utan sysselsättning; arbetslöshet",
+      "exampleSentence": "The unemployment rate rose significantly during the recession.",
+      "exampleTranslation": "Arbetslöshetssiffran steg kraftigt under recessionen."
+    },
+    {
+      "id": "development",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/undo",
+          "homeLangDetails": "Nedåt, bort eller för att upphäva en handling. Minska, avresa, dekonstruera. Ofta vänder det helt på huvudordets betydelse, ungefär som svenska 'av-' eller 'ur-'."
+        },
+        {
+          "targetLang": "velop",
+          "homeLang": "utveckla",
+          "homeLangDetails": "Kommer från fornfransk 'devoluper' (att packa upp, att veckla ut). Roten är relaterad till 'velop' (som i envelope), vilket betyder att linda eller täcka. Prefixet de- här betyder 'ut ur' eller 'bort från', så develop betyder bokstavligt 'att packa upp' eller 'att utvecklas gradvis'."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "processen att växa",
+      "translationLong": "processen för utveckling eller att bli utvecklad; tillväxt eller förbättring",
+      "exampleSentence": "Child development is the focus of this research program.",
+      "exampleTranslation": "Barnens utveckling är fokus för detta forskningsprogram."
+    },
+    {
+      "id": "involvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/in",
+          "homeLangDetails": "Ett flexibelt prefix med två olika betydelser: 'inte' (inactive, impossible, illegal) och 'in i' (insert, import). Stavningen ändras för att passa den följande ljudet. Liknar hur svenska prefixet 'in-' fungerar."
+        },
+        {
+          "targetLang": "volv",
+          "homeLang": "vrida/valta",
+          "homeLangDetails": "Från latin volvere (att vrida, att valta). Samma rot finns i revolve, evolution och convolution - alla som handlar om att vrida eller valta runt."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "handlingen att vara involverad",
+      "translationLong": "det faktum eller tillståndet att vara involverad; deltagande",
+      "exampleSentence": "Her involvement in community service was widely recognized.",
+      "exampleTranslation": "Hennes engagemang i samhällsservice erkändes allmänt."
+    },
+    {
+      "id": "improvement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "im-/in",
+          "homeLangDetails": "Ett flexibelt prefix med två olika betydelser: 'inte' (inactive, impossible, illegal) och 'in i' (insert, import). Stavningen ändras för att passa den följande ljudet. Liknar hur svenska prefixet 'in-' fungerar."
+        },
+        {
+          "targetLang": "prov",
+          "homeLang": "godkänna",
+          "homeLangDetails": "Från latin probare (att godkänna, att gillå). I improve kombineras prefixet im- (in i) med 'prove' för att ge betydelsen 'göra bättre' - att föra något in i ett bättre tillstånd. Samma rot finns i prove och approbation."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "handlingen att göra något bättre",
+      "translationLong": "handlingen eller processen att förbättra; en förändring som gör något bättre",
+      "exampleSentence": "The improvement in her grades was the result of hard work.",
+      "exampleTranslation": "Förbättringen i hennes betyg var resultatet av hårt arbete."
+    },
+    {
+      "id": "advertisement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ad",
+          "homeLang": "ad-/till",
+          "homeLangDetails": "Mot eller dessutom. Adapt, admit, attract, arrive. Motsvarar ungefär hur svenska prefixet 'till-' eller 'at-' fungerar."
+        },
+        {
+          "targetLang": "vert",
+          "homeLang": "vrida",
+          "homeLangDetails": "Från latin vertere (att vrida). I advertise kombineras prefixet ad- (till, mot) med 'vert' (vrida) för att ge betydelsen 'vrida uppmärksamheten mot' - att dra uppmärksamhet till något. Samma rot finns i convert, divert och avert."
+        },
+        {
+          "targetLang": "ise",
+          "homeLang": "-era",
+          "homeLangDetails": "Göra något så att det får en egenskap, eller att orsaka en process. Modernisera, organisera, realisera."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "en offentlig marknadsföring",
+      "translationLong": "ett meddelande eller kungörelse avsett att informera eller övertyga allmänheten",
+      "exampleSentence": "The advertisement for the new product appeared on television.",
+      "exampleTranslation": "Annonsen för den nya produkten visades på televisionen."
+    },
+    {
+      "id": "entertainment",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "enter",
+          "homeLang": "enter"
+        },
+        {
+          "targetLang": "tain",
+          "homeLang": "hålla",
+          "homeLangDetails": "Från fornfransk tenir, latin tenere (att hålla). Roten finns i retain, maintain, sustain och contain - alla som handlar om att hålla eller behålla. I entertain kombineras 'enter + tain' för att ge betydelsen att bjuda in någon och samtidigt hålla deras uppmärksamhet."
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "underhållning eller avkoppling",
+      "translationLong": "handlingen att tillhandahålla eller få underhållning eller nöje",
+      "exampleSentence": "The concert was a wonderful evening of entertainment.",
+      "exampleTranslation": "Konserten var en underbar kväll med underhållning."
+    },
+    {
+      "id": "requirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/åter",
+          "homeLangDetails": "Signalerar upprepning eller återgång till tidigare tillstånd. Från latin re-, det förekommer i tusentals engelska ord: return, rebuild, reconsider. Motsvarar ofta svenska 'åter-' eller 're-'. Kan ofta bytas ut med 'att göra igen' eller 'att gå tillbaka'."
+        },
+        {
+          "targetLang": "quir",
+          "homeLang": "fråga/söka",
+          "homeLangDetails": "Från latin quaerere (att fråga, att söka). I require kombineras 're-' (åter) med 'quir' för att ge betydelsen 'att kräva' eller 'att efterfråga' något som behövs. Samma rot finns i inquiry, inquisition och query."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "något som behövs",
+      "translationLong": "något som behövs; ett villkor eller något som krävs",
+      "exampleSentence": "A high school diploma is a requirement for most college programs.",
+      "exampleTranslation": "En gymnasieexamen är ett krav för de flesta högskoleprogrammen."
+    },
+    {
+      "id": "retirement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/åter",
+          "homeLangDetails": "Signalerar upprepning eller återgång till tidigare tillstånd. Från latin re-, det förekommer i tusentals engelska ord: return, rebuild, reconsider. Motsvarar ofta svenska 'åter-' eller 're-'. Kan ofta bytas ut med 'att göra igen' eller 'att gå tillbaka'."
+        },
+        {
+          "targetLang": "tir",
+          "homeLang": "dra sig tillbaka",
+          "homeLangDetails": "Från fornfransk tirer (att dra, att slita). I retire kombineras 're-' (åter, tillbaka) med 'tir' för att ge betydelsen 'att dra sig bort' eller 'att gå tillbaka' - särskilt från arbete. Samma rot finns i tired (trött från att bli dragen)."
+        },
+        {
+          "targetLang": "ement",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "handlingen att sluta arbeta",
+      "translationLong": "handlingen eller faktumet att lämna sitt jobb eller sin position permanent",
+      "exampleSentence": "She is planning her retirement for next year.",
+      "exampleTranslation": "Hon planerar sin pensionering för nästa år."
+    },
+    {
+      "id": "department",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/undo",
+          "homeLangDetails": "Nedåt, bort eller för att upphäva en handling. Minska, avresa, dekonstruera. Ofta vänder det helt på huvudordets betydelse, ungefär som svenska 'av-' eller 'ur-'."
+        },
+        {
+          "targetLang": "part",
+          "homeLang": "del"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "en avdelning eller sektion",
+      "translationLong": "en underavdelning eller sektion av en organisation, företag eller institution",
+      "exampleSentence": "She works in the marketing department.",
+      "exampleTranslation": "Hon arbetar på marknadsföringsavdelningen."
+    },
+    {
+      "id": "replacement",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/åter",
+          "homeLangDetails": "Signalerar upprepning eller återgång till tidigare tillstånd. Från latin re-, det förekommer i tusentals engelska ord: return, rebuild, reconsider. Motsvarar ofta svenska 'åter-' eller 're-'. Kan ofta bytas ut med 'att göra igen' eller 'att gå tillbaka'."
+        },
+        {
+          "targetLang": "place",
+          "homeLang": "plats"
+        },
+        {
+          "targetLang": "ment",
+          "homeLang": "-ment",
+          "homeLangDetails": "Bildar substantiv från verb och anger handlingen, resultatet eller medlen. Det motsvarar svenska ändelsenav -ment eller -skap. Government, movement, enjoyment."
+        }
+      ],
+      "translationShort": "något som ersätter något annat",
+      "translationLong": "en person eller sak som tar platsen för något annat",
+      "exampleSentence": "The replacement for the broken window arrived yesterday.",
+      "exampleTranslation": "Ersättningen för det brustna fönstret kom fram igår."
+    },
+    {
+      "id": "unfortunately",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "fortunate",
+          "homeLang": "lycklig"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Bildar adverb från adjektiv, med betydelsen \"på ett [sätt]\". Quickly blir \"snabbt\", happily blir \"lyckligt\", surprisingly blir \"överraskande\". Kan också bilda adjektiv: friendly blir \"vänlig\", lovely blir \"vacker\"."
+        }
+      ],
+      "translationShort": "tyvärr, dessvärre",
+      "translationLong": "tyvärr, dessvärr, olyckligtvis",
+      "exampleSentence": "Unfortunately, the concert was cancelled.",
+      "exampleTranslation": "Tyvärr ställdes konserten in."
+    },
+    {
+      "id": "unexpectedly",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "expect",
+          "homeLang": "förvänta"
+        },
+        {
+          "targetLang": "ed",
+          "homeLang": "(dåtid)"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-ly",
+          "homeLangDetails": "Bildar adverb från adjektiv, med betydelsen \"på ett [sätt]\". Quickly blir \"snabbt\", happily blir \"lyckligt\", surprisingly blir \"överraskande\". Kan också bilda adjektiv: friendly blir \"vänlig\", lovely blir \"vacker\"."
+        }
+      ],
+      "translationShort": "överraskande, utan förvarning",
+      "translationLong": "överraskande, utan förvarning, på ett oförväntat sätt",
+      "exampleSentence": "She arrived unexpectedly at the party.",
+      "exampleTranslation": "Hon dök upp överraskande på festen."
+    },
+    {
+      "id": "unhealthy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "health",
+          "homeLang": "hälsa"
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(adjektivbildning)"
+        }
+      ],
+      "translationShort": "ohälsosam, skadlig",
+      "translationLong": "ohälsosam, skadlig, dålig för hälsan",
+      "exampleSentence": "An unhealthy diet can lead to illness.",
+      "exampleTranslation": "En ohälsosam diet kan leda till sjukdom."
+    },
+    {
+      "id": "unreasonable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "reason",
+          "homeLang": "rimlig"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kapabel att göras eller genomföras. Readable blir \"läsbar\", comfortable blir \"bekväm\", possible blir \"möjlig\"."
+        }
+      ],
+      "translationShort": "orimlig, orättvis",
+      "translationLong": "orimlig, orättvis, överdriven",
+      "exampleSentence": "His demands were unreasonable.",
+      "exampleTranslation": "Hans krav var överdriven."
+    },
+    {
+      "id": "unacceptable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "accept",
+          "homeLang": "acceptera"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kapabel att göras eller genomföras. Readable blir \"läsbar\", comfortable blir \"bekväm\", possible blir \"möjlig\"."
+        }
+      ],
+      "translationShort": "oacceptabel",
+      "translationLong": "oacceptabel, otilltagen, outhärdlig",
+      "exampleSentence": "That behavior is completely unacceptable.",
+      "exampleTranslation": "Det beteendet är helt oacceptabel."
+    },
+    {
+      "id": "unavoidable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "avoid",
+          "homeLang": "undvika"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kapabel att göras eller genomföras. Readable blir \"läsbar\", comfortable blir \"bekväm\", possible blir \"möjlig\"."
+        }
+      ],
+      "translationShort": "oundviklig, ofrånkomlig",
+      "translationLong": "oundviklig, ofrånkomlig, måste inträffa",
+      "exampleSentence": "Death and taxes are unavoidable.",
+      "exampleTranslation": "Döden och skatter är oundvikliga."
+    },
+    {
+      "id": "unimportant",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "important",
+          "homeLang": "viktig"
+        }
+      ],
+      "translationShort": "obetydlig, trivial",
+      "translationLong": "obetydlig, trivial, utan större betydelse",
+      "exampleSentence": "That detail is unimportant.",
+      "exampleTranslation": "Den detaljen är trivial."
+    },
+    {
+      "id": "unwillingness",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "un",
+          "homeLang": "un-/inte",
+          "homeLangDetails": "Engelskans vanligaste negationsprefixet, som kommer från fornengelskan. Det motsvarar perfekt svenska \"un-\" och tyska \"un-\". Det vänder ordet på huvudet: unhappy blir \"olycklig\", unknown blir \"okänd\", unforgettable blir \"oförglömlig\"."
+        },
+        {
+          "targetLang": "will",
+          "homeLang": "vilja"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "(gerundium)"
+        },
+        {
+          "targetLang": "ness",
+          "homeLang": "-ness",
+          "homeLangDetails": "Bildar substantiv från adjektiv som betyder ett tillstånd eller en egenskap. Happiness blir \"lycka\", darkness blir \"mörker\", awareness blir \"medvetenhet\". Det germaniska motsvarigheten till latinska -ity."
+        }
+      ],
+      "translationShort": "motvilja, obenägenhet",
+      "translationLong": "motvilja, obenägenhet, brist på vilja",
+      "exampleSentence": "His unwillingness to help was disappointing.",
+      "exampleTranslation": "Hans motvilja att hjälpa var besvikande."
+    },
+    {
+      "id": "reconsider",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/åter",
+          "homeLangDetails": "Signalerar upprepning eller återgång till ett tidigare tillstånd. Från latin re-, förekommer det i tusentals engelska ord: return blir \"återvända\", rebuild blir \"bygga om\", reconsider blir \"återvaga\". Ofta utbytbar med \"göra igen\" eller \"gå tillbaka\"."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "överväga"
+        }
+      ],
+      "translationShort": "återvaga, tänka om",
+      "translationLong": "återvaga, tänka om, granska på nytt",
+      "exampleSentence": "I need to reconsider my decision.",
+      "exampleTranslation": "Jag behöver tänka om min beslut."
+    },
+    {
+      "id": "reconsideration",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/åter",
+          "homeLangDetails": "Signalerar upprepning eller återgång till ett tidigare tillstånd. Från latin re-, förekommer det i tusentals engelska ord: return blir \"återvända\", rebuild blir \"bygga om\", reconsider blir \"återvaga\". Ofta utbytbar med \"göra igen\" eller \"gå tillbaka\"."
+        },
+        {
+          "targetLang": "consider",
+          "homeLang": "överväga"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion",
+          "homeLangDetails": "Engelskans vanligaste substantivsuffix från latin. Bildar substantiv från verb och namnger en handling eller dess resultat. Construction blir \"konstruktion\", permission blir \"tillstånd\", explosion blir \"explosion\". Motsvarar tysk -ung."
+        }
+      ],
+      "translationShort": "omprövning, ny tanke",
+      "translationLong": "omprövning, ny tanke, handling att tänka igen",
+      "exampleSentence": "The board requested a reconsideration of the proposal.",
+      "exampleTranslation": "Styrelsen begärde en omprövning av förslaget."
+    },
+    {
+      "id": "reorganize",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerar upprepning eller återvändande till ett tidigare tillstånd. Från latinets re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka.\""
+        },
+        {
+          "targetLang": "organize",
+          "homeLang": "organisera"
+        }
+      ],
+      "translationShort": "organisera igen",
+      "translationLong": "organisera igen, omstrukturera, ordna om",
+      "exampleSentence": "The company decided to reorganize its departments.",
+      "exampleTranslation": "Företaget beslutade att omstrukturera sina avdelningar."
+    },
+    {
+      "id": "reorganization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerar upprepning eller återvändande till ett tidigare tillstånd. Från latinets re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka.\""
+        },
+        {
+          "targetLang": "organ",
+          "homeLang": "organisera"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "(-ize)"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "omstrukturering, omorganisering",
+      "translationLong": "omstrukturering, omorganisering, processen att omorganisera",
+      "exampleSentence": "The reorganization took three months to complete.",
+      "exampleTranslation": "Omstruktureringen tog tre månader att genomföra."
+    },
+    {
+      "id": "reintroduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerar upprepning eller återvändande till ett tidigare tillstånd. Från latinets re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka.\""
+        },
+        {
+          "targetLang": "introduc",
+          "homeLang": "införa"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det vanligaste engelska substantivsuffixet från latinets. Omvandlar verb till substantiv som benämner en handling eller dess resultat. Construction, permission, explosion. Motsvarar svenskans -ation eller -ing."
+        }
+      ],
+      "translationShort": "återintroduktion, återinförande",
+      "translationLong": "återintroduktion, återinförande, att införa något igen",
+      "exampleSentence": "The reintroduction of wolves helped restore the ecosystem.",
+      "exampleTranslation": "Återintroduktionen av vargar hjälpte till att återställa ekosystemet."
+    },
+    {
+      "id": "reconnect",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerar upprepning eller återvändande till ett tidigare tillstånd. Från latinets re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka.\""
+        },
+        {
+          "targetLang": "connect",
+          "homeLang": "ansluta"
+        }
+      ],
+      "translationShort": "ansluta igen",
+      "translationLong": "ansluta igen, återförenas, återupprätta kontakt",
+      "exampleSentence": "After years apart, we reconnected at the reunion.",
+      "exampleTranslation": "Efter många år var vi åter i kontakt vid klassträffen."
+    },
+    {
+      "id": "recycling",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/igen",
+          "homeLangDetails": "Signalerar upprepning eller återvändande till ett tidigare tillstånd. Från latinets re- förekommer det i tusentals engelska ord: return, rebuild, reconsider. Ofta utbytbart med \"göra igen\" eller \"gå tillbaka.\""
+        },
+        {
+          "targetLang": "cycl",
+          "homeLang": "cykel"
+        },
+        {
+          "targetLang": "ing",
+          "homeLang": "-ing"
+        }
+      ],
+      "translationShort": "återvinning, materialåterbruk",
+      "translationLong": "återvinning, materialåterbruk, processen att omvandla avfall till nya produkter",
+      "exampleSentence": "Recycling helps reduce environmental waste.",
+      "exampleTranslation": "Återvinning hjälper till att minska miljöavfallet."
+    },
+    {
+      "id": "communication",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "com-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinprefixen. Connect, combine, cooperate, collect. Stavningen varierar för att passa följande ljud."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "gemensam"
+        },
+        {
+          "targetLang": "ication",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "utbyte av information",
+      "translationLong": "utbyte av information eller meddelanden",
+      "exampleSentence": "Good communication is essential in any relationship.",
+      "exampleTranslation": "God kommunikation är väsentlig i alla relationer."
+    },
+    {
+      "id": "education",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-/ut",
+          "homeLangDetails": "Ut, tidigare, eller bort. Exhale, export, eject, ex-president. Utveckling genom undervisning är bokstavligt talat \"att leda ut\"."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leda"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "undervisning och lärande",
+      "translationLong": "processen att undervisa eller lära sig, särskilt i skolor",
+      "exampleSentence": "Education opens doors to many opportunities.",
+      "exampleTranslation": "Utbildning öppnar dörrar till många möjligheter."
+    },
+    {
+      "id": "investigation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/in i",
+          "homeLangDetails": "Ett prefixkameleon med två skilda betydelser: \"inte\" (inactive, impossible, illegal) och \"in i\" (insert, import). Stavningen skiftar för att passa följande ljud."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spår"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "grundlig granskning",
+      "translationLong": "en detaljerad granskning eller utredning av något",
+      "exampleSentence": "The police conducted an investigation into the theft.",
+      "exampleTranslation": "Polisen genomförde en utredning angående stölden."
+    },
+    {
+      "id": "introduction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "intro",
+          "homeLang": "intra-/inom"
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leda"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det vanligaste engelska substantivsuffixet från latinets. Omvandlar verb till substantiv som benämner en handling eller dess resultat. Construction, permission, explosion. Motsvarar svenskans -ation eller -ing."
+        }
+      ],
+      "translationShort": "en formell presentation",
+      "translationLong": "en formell presentation av en person för en annan; början av en bok eller ett tal",
+      "exampleSentence": "The introduction to the novel sets up the main conflict.",
+      "exampleTranslation": "Inledningen till romanen sätter upp huvudkonflikten."
+    },
+    {
+      "id": "production",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/framåt",
+          "homeLangDetails": "Framåt, för, eller i stället för. Progress, produce, pronoun."
+        },
+        {
+          "targetLang": "duc",
+          "homeLang": "leda"
+        },
+        {
+          "targetLang": "tion",
+          "homeLang": "-tion",
+          "homeLangDetails": "Det vanligaste engelska substantivsuffixet från latinets. Omvandlar verb till substantiv som benämner en handling eller dess resultat. Construction, permission, explosion. Motsvarar svenskans -ation eller -ing."
+        }
+      ],
+      "translationShort": "tillverkning av varor",
+      "translationLong": "tillverkning, framställning eller skapelse av något",
+      "exampleSentence": "The factory increased production to meet demand.",
+      "exampleTranslation": "Fabriken ökade produktionen för att möta efterfrågan."
+    },
+    {
+      "id": "pronunciation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/framåt",
+          "homeLangDetails": "Framåt, i favor av, eller i stället för. Tänk på ord som progression, produktion, pronomen."
+        },
+        {
+          "targetLang": "nunc",
+          "homeLang": "-lud"
+        },
+        {
+          "targetLang": "iation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "hur ett ord uttalas",
+      "translationLong": "hur ett ord eller ett språk uttalas eller sägs",
+      "exampleSentence": "Her pronunciation of French improved significantly.",
+      "exampleTranslation": "Hennes uttal av franska förbättrades betydligt."
+    },
+    {
+      "id": "explanation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ut",
+          "homeLangDetails": "Ut, tidigare, eller bort. Det motsvarar det svenska \"ut-\" i ord som utföra, exportera, utesluta, f.d. (tidigare)."
+        },
+        {
+          "targetLang": "plan",
+          "homeLang": "platt"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "ett uttalande som förtydligar",
+      "translationLong": "ett uttalande eller förklaring som klargör eller gör något förståeligt",
+      "exampleSentence": "The teacher gave a clear explanation of the mathematical concept.",
+      "exampleTranslation": "Läraren gav en tydlig förklaring av det matematiska begreppet."
+    },
+    {
+      "id": "examination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ex",
+          "homeLang": "ex-/ut",
+          "homeLangDetails": "Ut, tidigare, eller bort. Det motsvarar det svenska \"ut-\" i ord som utföra, exportera, utesluta, f.d. (tidigare)."
+        },
+        {
+          "targetLang": "am",
+          "homeLang": "väga"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en detaljerad granskning",
+      "translationLong": "en detaljerad granskning eller test; ett medicinskt eller akademiskt test",
+      "exampleSentence": "The examination revealed no signs of the disease.",
+      "exampleTranslation": "Granskningen visade inga tecken på sjukdomen."
+    },
+    {
+      "id": "imagination",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-/in",
+          "homeLangDetails": "Det här är ett mångsidigt prefix med två huvudsakliga betydelser: \"icke\" (inaktiv, omöjlig, olaglig) och \"in\" (infoga, importera). Stavningen ändras för att passa ljudet som följer."
+        },
+        {
+          "targetLang": "ag",
+          "homeLang": "bild"
+        },
+        {
+          "targetLang": "ination",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "förmågan att skapa mentala bilder",
+      "translationLong": "förmågan eller handlingen att bilda mentala bilder eller begrepp av det som inte är närvarande",
+      "exampleSentence": "Children's imagination knows no bounds.",
+      "exampleTranslation": "Barnens fantasi känner inga gränser."
+    },
+    {
+      "id": "population",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pop",
+          "homeLang": "folk"
+        },
+        {
+          "targetLang": "ulation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "alla människor i ett område",
+      "translationLong": "alla invånare på en plats; en grupp organismer av samma art",
+      "exampleSentence": "The population of the city has grown significantly.",
+      "exampleTranslation": "Stadens befolkning har vuxit betydligt."
+    },
+    {
+      "id": "conversation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Precis som det svenska \"sam-\" i ord som sammanfoga, samarbeta, samla. Stavningen varierar för att passa följande ljud."
+        },
+        {
+          "targetLang": "vers",
+          "homeLang": "vända"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en informell diskussion",
+      "translationLong": "ett informellt utbyte av idéer eller samtal mellan personer",
+      "exampleSentence": "We had an interesting conversation about travel.",
+      "exampleTranslation": "Vi hade ett intressant samtal om resor."
+    },
+    {
+      "id": "collection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "con-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Precis som det svenska \"sam-\" i ord som sammanfoga, samarbeta, samla. Stavningen varierar för att passa följande ljud."
+        },
+        {
+          "targetLang": "lect",
+          "homeLang": "samla"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en grupp insamlade föremål",
+      "translationLong": "en grupp saker eller personer samlade tillsammans; handlingen att samla",
+      "exampleSentence": "She has an impressive collection of vintage books.",
+      "exampleTranslation": "Hon har en imponerande samling av gamla böcker."
+    },
+    {
+      "id": "reflection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "re-/tillbaka",
+          "homeLangDetails": "I ordet \"spegelbild\" betyder re- \"tillbaka\" (från latinets reflectere, \"böja tillbaka\"), inte \"igen\". Ordet beskriver hur ljus kastas tillbaka eller hur tankarna vänds på sig själva."
+        },
+        {
+          "targetLang": "flect",
+          "homeLang": "böja"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "kastninge av ljus",
+      "translationLong": "återkastring av ljus eller värme; allvarligt tänkande eller övervägande",
+      "exampleSentence": "I saw my reflection in the mirror.",
+      "exampleTranslation": "Jag såg min spegelbild i spegeln."
+    },
+    {
+      "id": "connection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "con-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Precis som det svenska \"sam-\" i ord som sammanfoga, samarbeta, samla. Stavningen varierar för att passa följande ljud."
+        },
+        {
+          "targetLang": "nect",
+          "homeLang": "binda"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "en relation eller länk",
+      "translationLong": "en relation eller förening mellan saker; handlingen att koppla samman",
+      "exampleSentence": "There is a strong connection between exercise and good health.",
+      "exampleTranslation": "Det finns ett starkt samband mellan motion och god hälsa."
+    },
+    {
+      "id": "protection",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pro",
+          "homeLang": "pro-/framåt",
+          "homeLangDetails": "Framåt, i favor av, eller i stället för. Tänk på ord som progression, produktion, pronomen."
+        },
+        {
+          "targetLang": "tect",
+          "homeLang": "täcka"
+        },
+        {
+          "targetLang": "ion",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "skydd från skada",
+      "translationLong": "handlingen att hålla någon eller något säker från skada eller skador",
+      "exampleSentence": "We need better protection against cyber attacks.",
+      "exampleTranslation": "Vi behöver bättre skydd mot cyberattacker."
+    },
+    {
+      "id": "invitation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "En prefix med två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen förändras för att passa ljudet som följer efter."
+        },
+        {
+          "targetLang": "vit",
+          "homeLang": "kalla"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "inbjudan",
+      "translationLong": "en uppmaning att komma; en begäran eller kallelse att närvara",
+      "exampleSentence": "I received an invitation to the wedding.",
+      "exampleTranslation": "Jag fick en inbjudan till bröllopet."
+    },
+    {
+      "id": "preparation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "före",
+          "homeLangDetails": "Före i tid eller plats. Förutsäga, förbereda, förhistorisk."
+        },
+        {
+          "targetLang": "par",
+          "homeLang": "göra redo"
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "förberedelse",
+      "translationLong": "processen att göra något klart; planering i förväg",
+      "exampleSentence": "Good preparation is essential for success.",
+      "exampleTranslation": "God förberedelse är väsentlig för framgång."
+    },
+    {
+      "id": "organization",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "organ",
+          "homeLang": "organism/verktyg"
+        },
+        {
+          "targetLang": "iz",
+          "homeLang": "-ize",
+          "homeLangDetails": "Att ge något en egenskap, eller att orsaka en process. Modernisera, organisera, realisera."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "organisation",
+      "translationLong": "en grupp människor med ett gemensamt syfte; handlingen att arrangera något systematiskt",
+      "exampleSentence": "The organization works to help those in need.",
+      "exampleTranslation": "Organisationen arbetar för att hjälpa de behövande."
+    },
+    {
+      "id": "simplification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "simpl",
+          "homeLang": "enkel"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Att göra eller orsaka att något blir. Förenkla, klargöra, intensifiera."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "förenkling",
+      "translationLong": "handlingen att göra något enklare eller mindre komplicerat",
+      "exampleSentence": "The simplification of the rules made the game easier to play.",
+      "exampleTranslation": "Förenklingen av reglerna gjorde spelet lättare att spela."
+    },
+    {
+      "id": "satisfaction",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sat",
+          "homeLang": "tillräcklig"
+        },
+        {
+          "targetLang": "is",
+          "homeLang": "göra"
+        },
+        {
+          "targetLang": "faction",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "tillfredsställelse",
+      "translationLong": "tillståndet att vara nöjd eller belåten; uppfyllelse",
+      "exampleSentence": "Customer satisfaction is our top priority.",
+      "exampleTranslation": "Kundtillfredsställelse är vår högsta prioritet."
+    },
+    {
+      "id": "qualification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "qual",
+          "homeLang": "kvalitet/lämpa sig"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Att göra eller orsaka att något blir. Förenkla, klargöra, intensifiera."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "kvalifikation",
+      "translationLong": "en skicklighet, förmåga eller meritering som gör någon lämplig för något; handlingen att kvalificera sig",
+      "exampleSentence": "She has the right qualifications for the job.",
+      "exampleTranslation": "Hon har rätt kvalifikationer för jobbet."
+    },
+    {
+      "id": "identification",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ident",
+          "homeLang": "samma"
+        },
+        {
+          "targetLang": "ific",
+          "homeLang": "-ify",
+          "homeLangDetails": "Att göra eller orsaka att något blir. Förenkla, klargöra, intensifiera."
+        },
+        {
+          "targetLang": "ation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "identifikation",
+      "translationLong": "handlingen att känna igen eller bevisa vem eller vad något är; ett dokument som fastställer identitet",
+      "exampleSentence": "You will need a photo identification to enter.",
+      "exampleTranslation": "Du behöver ett fotolegitimation för att komma in."
+    },
+    {
+      "id": "evaluation",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "e",
+          "homeLang": "ex-",
+          "homeLangDetails": "Ut ur, tidigare, eller bort. Andas ut, exportera, avfyra, före detta president."
+        },
+        {
+          "targetLang": "val",
+          "homeLang": "kraft/värde"
+        },
+        {
+          "targetLang": "uation",
+          "homeLang": "-tion"
+        }
+      ],
+      "translationShort": "bedömning",
+      "translationLong": "processen att bedöma eller fastställa värdet eller kvaliteten på något",
+      "exampleSentence": "The teacher will conduct an evaluation of student progress.",
+      "exampleTranslation": "Läraren kommer att genomföra en bedömning av elevernas framsteg."
+    },
+    {
+      "id": "understandable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "under",
+          "homeLang": "under-",
+          "homeLangDetails": "Motsvarigheten till över-. Kan betyda under (underjordisk) eller inte tillräckligt (underskatta, underpresta)."
+        },
+        {
+          "targetLang": "stand",
+          "homeLang": "stå"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kapabel att göras. Läsbar, bekväm, möjlig."
+        }
+      ],
+      "translationShort": "begriplig",
+      "translationLong": "möjlig att förstå; förståelig",
+      "exampleSentence": "The instructions are clear and understandable.",
+      "exampleTranslation": "Instruktionerna är tydliga och begripliga."
+    },
+    {
+      "id": "affordable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "afford",
+          "homeLang": "kunna råd"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-able",
+          "homeLangDetails": "Kapabel att göras. Läsbar, bekväm, möjlig."
+        }
+      ],
+      "translationShort": "prisvärd",
+      "translationLong": "möjlig att kunna råd med; rimligt prissatt",
+      "exampleSentence": "We found an affordable apartment in the city.",
+      "exampleTranslation": "Vi hittade en prisvärd lägenhet i staden."
+    },
+    {
+      "id": "dependable",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "depend",
+          "homeLang": "bero"
+        },
+        {
+          "targetLang": "able",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "pålitlig",
+      "translationLong": "tillförlitlig; som man kan lita på",
+      "exampleSentence": "He is a dependable friend who always helps.",
+      "exampleTranslation": "Han är en pålitlig vän som alltid hjälper till."
+    },
+    {
+      "id": "incredible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "cred",
+          "homeLang": "tro"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "otrolig",
+      "translationLong": "häpnadsväckande; opålitlig; extraordinär",
+      "exampleSentence": "That was an incredible performance!",
+      "exampleTranslation": "Det var en otrolig framställning!"
+    },
+    {
+      "id": "invisible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "vis",
+          "homeLang": "se"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "osynlig",
+      "translationLong": "som inte kan ses; dold från blicken",
+      "exampleSentence": "The stain was invisible to the naked eye.",
+      "exampleTranslation": "Fläcken var osynlig för det blotta ögat."
+    },
+    {
+      "id": "impossible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "im",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "poss",
+          "homeLang": "möjlig"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "omöjlig",
+      "translationLong": "som inte kan göras eller hända; inte möjlig",
+      "exampleSentence": "It seemed impossible to solve the puzzle.",
+      "exampleTranslation": "Det verkade omöjligt att lösa pusslet."
+    },
+    {
+      "id": "irresponsible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "respons",
+          "homeLang": "svara"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "oansvarig",
+      "translationLong": "inte ansvarig; opålitlig eller oansvarsfull",
+      "exampleSentence": "It would be irresponsible to leave work early.",
+      "exampleTranslation": "Det skulle vara oansvarigt att lämna jobbet tidigare."
+    },
+    {
+      "id": "irreversible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "ir",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "revers",
+          "homeLang": "vända tillbaka"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "irreversibel",
+      "translationLong": "som inte kan återställas eller ångras",
+      "exampleSentence": "Climate change may cause irreversible damage to the environment.",
+      "exampleTranslation": "Klimatförändringen kan orsaka irreversibel skada på miljön."
+    },
+    {
+      "id": "indestructible",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-",
+          "homeLangDetails": "Ett prefix som är lite som en kameleont och har två helt olika betydelser: \"inte\" (inaktiv, omöjlig, olaglig) och \"in i\" (infoga, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "destruct",
+          "homeLang": "förstöra"
+        },
+        {
+          "targetLang": "ible",
+          "homeLang": "-bar",
+          "homeLangDetails": "Kan göras eller utföras. Läsbar, bekväm, möjlig. Det är ungefär som svenskans -bar suffix."
+        }
+      ],
+      "translationShort": "oförstörbar",
+      "translationLong": "som inte kan förstöras eller brytas",
+      "exampleSentence": "The monument was built to be indestructible.",
+      "exampleTranslation": "Monumentet byggdes för att vara oförstörbar."
+    },
+    {
+      "id": "international",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "inter",
+          "homeLang": "mellan",
+          "homeLangDetails": "Mellan eller bland. International, avbryta, interagera. Svenskan har på motsvarande sätt ordet mellanstatlig."
+        },
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relaterar till eller är av arten av något. Musikalisk, naturlig, industriell. I svenska har vi motsvarande -al eller -al suffix."
+        }
+      ],
+      "translationShort": "internationell",
+      "translationLong": "som rör eller involverar två eller flera nationer",
+      "exampleSentence": "She works for an international organization.",
+      "exampleTranslation": "Hon arbetar för en internationell organisation."
+    },
+    {
+      "id": "supernatural",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "super",
+          "homeLang": "över",
+          "homeLangDetails": "Ovan, över eller exceptionell. Superman, överordnad, övernaturlig. Precis som svenska ordet övernaturlig."
+        },
+        {
+          "targetLang": "natur",
+          "homeLang": "natur"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Relaterar till eller är av arten av något. Musikalisk, naturlig, industriell. I svenska har vi motsvarande -al eller -al suffix."
+        }
+      ],
+      "translationShort": "övernaturlig",
+      "translationLong": "bortom eller utanför naturens lagar",
+      "exampleSentence": "The movie features supernatural creatures and ghosts.",
+      "exampleTranslation": "Filmen innehåller övernaturliga varelser och spöken."
+    },
+    {
+      "id": "prehistoric",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "pre",
+          "homeLang": "före",
+          "homeLangDetails": "Före i tid eller position. Förutsäga, förbereda, förhistorisk. Precis som svenska ordet förhistorisk."
+        },
+        {
+          "targetLang": "historic",
+          "homeLang": "historisk"
+        }
+      ],
+      "translationShort": "förhistorisk",
+      "translationLong": "från tiden före skrivna historiska register",
+      "exampleSentence": "Dinosaurs roamed the earth during prehistoric times.",
+      "exampleTranslation": "Dinosaurier levde på jorden under förhistorisk tid."
+    },
+    {
+      "id": "antibiotic",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "anti",
+          "homeLang": "mot",
+          "homeLangDetails": "Mot eller emot. Antikrieg, antibiotikum, antecipera. Det här prefixet fungerar ungefär som svenska \"mot-\" eller \"anti-\"."
+        },
+        {
+          "targetLang": "bio",
+          "homeLang": "liv",
+          "homeLangDetails": "Life. Biology, biography, biodegradable."
+        },
+        {
+          "targetLang": "tic",
+          "homeLang": "-isk"
+        }
+      ],
+      "translationShort": "mot bakterier",
+      "translationLong": "ett läkemedel som dödar bakterier eller stoppar deras tillväxt",
+      "exampleSentence": "The doctor prescribed an antibiotic for the infection.",
+      "exampleTranslation": "Doktorn ordinerade ett antibiotikum för infektionen."
+    },
+    {
+      "id": "submarine",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "sub",
+          "homeLang": "under",
+          "homeLangDetails": "Under eller under ytan. Precis som i svenska \"under-\", det här prefixet visar något som är under något annat. Undergrund, undervatten, underordnad."
+        },
+        {
+          "targetLang": "marine",
+          "homeLang": "hav"
+        }
+      ],
+      "translationShort": "undervattensfartyg",
+      "translationLong": "ett fartyg som opererar under vattnet, särskilt ett militärt krigsfartyg",
+      "exampleSentence": "The submarine descended to great depths beneath the ocean.",
+      "exampleTranslation": "Ubåten sjönk till stora djup under havet."
+    },
+    {
+      "id": "automatically",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "auto",
+          "homeLang": "själv",
+          "homeLangDetails": "Själv eller på egen hand. Självbiografi, automatisk, automobil. Ungefär som svenska \"själv-\"."
+        },
+        {
+          "targetLang": "matic",
+          "homeLang": "rörlig"
+        },
+        {
+          "targetLang": "ally",
+          "homeLang": "-t"
+        }
+      ],
+      "translationShort": "av sig själv, utan manuell åtgärd",
+      "translationLong": "på ett sätt som händer eller fungerar av sig självt utan mänsklig inblandning",
+      "exampleSentence": "The door opens automatically when you approach it.",
+      "exampleTranslation": "Dörren öppnas automatiskt när du närmar dig den."
+    },
+    {
+      "id": "television",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "tele",
+          "homeLang": "långt bort",
+          "homeLangDetails": "På långt håll eller avstånd. Telefon, television, teleskop. Världen över använder vi ordet \"tele-\" för att visa fjärrkommunikation."
+        },
+        {
+          "targetLang": "vision",
+          "homeLang": "syn"
+        }
+      ],
+      "translationShort": "visning på långt håll",
+      "translationLong": "ett system för att sända och ta emot rörliga bilder och ljud över avstånd",
+      "exampleSentence": "She watches television every evening.",
+      "exampleTranslation": "Hon tittar på tv varje kväll."
+    },
+    {
+      "id": "democracy",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "demo",
+          "homeLang": "folk"
+        },
+        {
+          "targetLang": "cracy",
+          "homeLang": "styre"
+        }
+      ],
+      "translationShort": "folkens styre",
+      "translationLong": "ett styrelsesystem där makten vilar hos folket",
+      "exampleSentence": "Democracy requires active participation from all citizens.",
+      "exampleTranslation": "Demokrati kräver aktivt deltagande från alla medborgare."
+    },
+    {
+      "id": "geography",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "geo",
+          "homeLang": "jord",
+          "homeLangDetails": "Jorden eller land. Geografi, geologi, geometri. Svenska \"geo-\" fungerar på samma sätt som engelskan."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-grafi",
+          "homeLangDetails": "Skrivande eller registrering. Fotografi, biografi, autograf. Det här är detsamma som svenskt \"-grafi\"."
+        },
+        {
+          "targetLang": "y",
+          "homeLang": "(noun suffix)"
+        }
+      ],
+      "translationShort": "beskrivning av jorden",
+      "translationLong": "studiet av platser, folk och jordens fysiska egenskaper",
+      "exampleSentence": "Geography class teaches about different regions and cultures.",
+      "exampleTranslation": "Geografilektionen lär om olika regioner och kulturer."
+    },
+    {
+      "id": "responsibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "respons",
+          "homeLang": "ansvarig"
+        },
+        {
+          "targetLang": "ibility",
+          "homeLang": "-het"
+        }
+      ],
+      "translationShort": "plikt eller förpliktelse",
+      "translationLong": "tillståndet att vara ansvarig för sina handlingar eller beslut",
+      "exampleSentence": "With great power comes great responsibility.",
+      "exampleTranslation": "Med stor makt kommer stort ansvar."
+    },
+    {
+      "id": "personality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "person",
+          "homeLang": "person"
+        },
+        {
+          "targetLang": "ality",
+          "homeLang": "-het"
+        }
+      ],
+      "translationShort": "individuell karaktär",
+      "translationLong": "en individs särskilda egenskaper och kvalitéer",
+      "exampleSentence": "Her outgoing personality makes her popular with everyone.",
+      "exampleTranslation": "Hennes utåtriktade personlighet gör henne populär hos alla."
+    },
+    {
+      "id": "popularity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "popular",
+          "homeLang": "populär"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-het",
+          "homeLangDetails": "Latinets motsvarighet till svenska \"-het\". Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet."
+        }
+      ],
+      "translationShort": "tillståndet att vara omtyckt",
+      "translationLong": "kvaliteten eller tillståndet att vara omtyckt, beundrad eller uppskattad av många människor",
+      "exampleSentence": "The band's popularity has grown worldwide.",
+      "exampleTranslation": "Bandets popularitet har växt världen över."
+    },
+    {
+      "id": "electricity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "electric",
+          "homeLang": "elektrisk"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-het",
+          "homeLangDetails": "Latinets motsvarighet till svenska \"-het\". Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet."
+        }
+      ],
+      "translationShort": "elektrisk energi",
+      "translationLong": "en energiform som uppstår från elektronernas rörelse genom en ledare",
+      "exampleSentence": "Most modern homes depend on electricity for power.",
+      "exampleTranslation": "De flesta moderna hem är beroende av elektricitet för energi."
+    },
+    {
+      "id": "creativity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "skapa"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Motsvarar svenska -het eller -skap. Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet. Du ser det samma mönster i svenska ord som personlighet, flexibilitet och produktivitet."
+        }
+      ],
+      "translationShort": "förmågan att vara kreativ",
+      "translationLong": "egenskapen eller tillståndet att vara kreativ; förmågan att skapa eller föreställa sig nya saker",
+      "exampleSentence": "Her creativity in solving problems impressed everyone.",
+      "exampleTranslation": "Hennes kreativitet när hon löste problem imponerade på alla."
+    },
+    {
+      "id": "productivity",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "produkt"
+        },
+        {
+          "targetLang": "iv",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Motsvarar svenska -het eller -skap. Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet. Du ser det samma mönster i svenska ord som personlighet, flexibilitet och produktivitet."
+        }
+      ],
+      "translationShort": "förmågan att vara produktiv",
+      "translationLong": "egenskapen eller tillståndet att vara produktiv; hur effektivt arbetet blir mätt i mängden resultat",
+      "exampleSentence": "The team's productivity increased after the new software was installed.",
+      "exampleTranslation": "Teamets produktivitet ökade efter att den nya programvaran installerades."
+    },
+    {
+      "id": "flexibility",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "flex",
+          "homeLang": "flex"
+        },
+        {
+          "targetLang": "ibil",
+          "homeLang": "-ibel",
+          "homeLangDetails": "Kan göras eller är möjlig. Läsbar, bekväm, möjlig. I svenska ser du samma idé i ord som läsbar, hållbar och möjlig."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Motsvarar svenska -het eller -skap. Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet. Du ser det samma mönster i svenska ord som personlighet, flexibilitet och produktivitet."
+        }
+      ],
+      "translationShort": "förmågan att vara böjlig",
+      "translationLong": "egenskapen eller tillståndet att vara flexibel; förmågan att anpassa sig eller böja sig utan att brista",
+      "exampleSentence": "The flexibility of this material makes it ideal for manufacturing.",
+      "exampleTranslation": "Materialets flexibilitet gör det perfekt för tillverkning."
+    },
+    {
+      "id": "nationality",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "nation",
+          "homeLang": "nation"
+        },
+        {
+          "targetLang": "al",
+          "homeLang": "-al",
+          "homeLangDetails": "Avser eller är av arten. Musikalisk, naturlig, industriell. I svenska fungerar -al ungefär på samma sätt."
+        },
+        {
+          "targetLang": "ity",
+          "homeLang": "-itet",
+          "homeLangDetails": "Motsvarar svenska -het eller -skap. Bildar abstrakta substantiv från adjektiv. Likhet, elektricitet, verklighet. Du ser det samma mönster i svenska ord som personlighet, flexibilitet och produktivitet."
+        }
+      ],
+      "translationShort": "status att tillhöra en nation",
+      "translationLong": "status som medborgare i ett visst land; nationell ursprung eller identitet",
+      "exampleSentence": "She holds dual nationality, having been born in one country and naturalized in another.",
+      "exampleTranslation": "Hon har dubbelt medborgarskap, eftersom hon är född i ett land och naturaliserad i ett annat."
+    },
+    {
+      "id": "effectively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "effect",
+          "homeLang": "effekt"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Bildar adverb från adjektiv och betyder ungefär i en viss sorts sätt. Snabbt, glatt, överraskande. Kan också bilda adjektiv: vänlig, älskling."
+        }
+      ],
+      "translationShort": "på ett effektivt sätt",
+      "translationLong": "på ett sätt som ger det önskade eller avsedda resultatet; framgångsrikt",
+      "exampleSentence": "The new strategy worked effectively to reduce costs.",
+      "exampleTranslation": "Den nya strategin fungerade effektivt för att minska kostnaderna."
+    },
+    {
+      "id": "creatively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "creat",
+          "homeLang": "skapa"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Bildar adverb från adjektiv och betyder ungefär i en viss sorts sätt. Snabbt, glatt, överraskande. Kan också bilda adjektiv: vänlig, älskling."
+        }
+      ],
+      "translationShort": "på ett kreativt sätt",
+      "translationLong": "på ett sätt som involverar skapande eller fantasi; med originalitet och uppfinningsrikedom",
+      "exampleSentence": "She approached the project creatively, finding innovative solutions.",
+      "exampleTranslation": "Hon närmare sig projektet på ett kreativt sätt och fann innovativa lösningar."
+    },
+    {
+      "id": "productively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "product",
+          "homeLang": "produkt"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Bildar adverb från adjektiv och betyder ungefär i en viss sorts sätt. Snabbt, glatt, överraskande. Kan också bilda adjektiv: vänlig, älskling."
+        }
+      ],
+      "translationShort": "på ett produktivt sätt",
+      "translationLong": "på ett sätt som ger resultat eller är effektivt; med bra utfall eller prestation",
+      "exampleSentence": "We spent the afternoon productively, completing all our tasks.",
+      "exampleTranslation": "Vi tillbringade eftermiddagen produktivt och slutförde alla våra uppgifter."
+    },
+    {
+      "id": "attractively",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "attract",
+          "homeLang": "attrahera"
+        },
+        {
+          "targetLang": "ive",
+          "homeLang": "-iv"
+        },
+        {
+          "targetLang": "ly",
+          "homeLang": "-t",
+          "homeLangDetails": "Bildar adverb från adjektiv och betyder ungefär i en viss sorts sätt. Snabbt, glatt, överraskande. Kan också bilda adjektiv: vänlig, älskling."
+        }
+      ],
+      "translationShort": "på ett attraktivt sätt",
+      "translationLong": "på ett sätt som är tilltalande, lockande eller visuellt vackert; på ett engagerande sätt",
+      "exampleSentence": "The store window was attractively decorated with seasonal displays.",
+      "exampleTranslation": "Butiksfönstret var attraktivt dekorerat med säsongsmässiga display."
+    },
+    {
+      "id": "researcher",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "re",
+          "homeLang": "åter-",
+          "homeLangDetails": "Signalerar upprepning eller återgång till ett tidigare tillstånd. Från latin re- och förekommer i tusentals engelska ord: return, rebuild, reconsider. Fungerar ofta som göra igen eller gå tillbaka. Svenska har något motsvarande i för- eller åter-."
+        },
+        {
+          "targetLang": "search",
+          "homeLang": "sök"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-are",
+          "homeLangDetails": "Bildar substantiv för personer eller saker som utför en handling. Lärare, skådespelare, förare, dator. I svenska är -are en mycket vanlig ändelse med samma funktion."
+        }
+      ],
+      "translationShort": "en som forskar",
+      "translationLong": "en person som utför forskning; en vetenskapsman eller forskare som undersöker ett ämne",
+      "exampleSentence": "The researcher published her findings in a peer-reviewed journal.",
+      "exampleTranslation": "Forskaren publicerade sina fynd i en granskad tidskrift."
+    },
+    {
+      "id": "developer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "develop",
+          "homeLang": "utveckla"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-are",
+          "homeLangDetails": "Bildar substantiv för personer eller saker som utför en handling. Lärare, skådespelare, förare, dator. I svenska är -are en mycket vanlig ändelse med samma funktion."
+        }
+      ],
+      "translationShort": "en som utvecklar",
+      "translationLong": "en person som utvecklar något; brukar avse en mjukvaruutvecklare",
+      "exampleSentence": "The developer created a new feature for the application.",
+      "exampleTranslation": "Utvecklaren skapade en ny funktion för applikationen."
+    },
+    {
+      "id": "employer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "anställa"
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-are",
+          "homeLangDetails": "Bildar agentsubstantiv, alltså personen eller saken som utför handlingen. Lärar, skådespelere, körare, dator. Det är ungefär som engelskans -er suffix."
+        }
+      ],
+      "translationShort": "den som anställer",
+      "translationLong": "en person eller organisation som anställer arbetstagare; en företagare eller chef",
+      "exampleSentence": "The employer offered competitive benefits to attract top talent.",
+      "exampleTranslation": "Arbetsgivaren erbjöd konkurrenskraftiga förmåner för att attrahera topptalang."
+    },
+    {
+      "id": "employee",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "employ",
+          "homeLang": "anställa"
+        },
+        {
+          "targetLang": "ee",
+          "homeLang": "-ad",
+          "homeLangDetails": "Ett suffix (från franskans -é) som markerar personen som mottar eller är objekt för en handling. Jämför arbetsgivare (den som anställer) med arbetstagare (den som blir anställd). Samma suffix finns i intervjuad, praktikant och betalningsmottagare."
+        }
+      ],
+      "translationShort": "den som blir anställd",
+      "translationLong": "en person som arbetar för en arbetsgivare mot betalning",
+      "exampleSentence": "Each employee at the company receives health insurance.",
+      "exampleTranslation": "Varje anställd på företaget får sjukförsäkring."
+    },
+    {
+      "id": "photographer",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "photo",
+          "homeLang": "foto",
+          "homeLangDetails": "En kombinationsform från grekiskans phōtos (ljus). Förekommer i många ord relaterade till ljus och bilder: fotografi, fotosyntes, fotogen. Från foto (ljus) + graf (skriva/registrera) betyder det bokstavligen 'att skriva med ljus'."
+        },
+        {
+          "targetLang": "graph",
+          "homeLang": "-graf-",
+          "homeLangDetails": "Skrivning eller registrering. Fotografi, biografi, autograf."
+        },
+        {
+          "targetLang": "er",
+          "homeLang": "-are",
+          "homeLangDetails": "Bildar agentsubstantiv, alltså personen eller saken som utför handlingen. Lärar, skådespelere, körare."
+        }
+      ],
+      "translationShort": "den som fotograferar",
+      "translationLong": "en person som fotograferar som profession eller hobby",
+      "exampleSentence": "The photographer captured stunning images at the wedding.",
+      "exampleTranslation": "Fotografen fångade fantastiska bilder på bröllopet."
+    },
+    {
+      "id": "investigator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "invest",
+          "homeLang": "undersöka"
+        },
+        {
+          "targetLang": "igat",
+          "homeLang": "-"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "En variant av -are-suffixet, används i mer formella sammanhang eller ord med latinsk ursprung. Både -are och -or betyder 'den som gör något', men -or är vanligt i ord med latinsk rot som utredare, senatör, skådespelare och instruktör."
+        }
+      ],
+      "translationShort": "den som utreder",
+      "translationLong": "en person som granskar och utreds ett fall; ofta en professionell som samlar in bevis eller fakta",
+      "exampleSentence": "The investigator examined the crime scene for clues.",
+      "exampleTranslation": "Utredaren granskade brottsplatsen för ledtrådar."
+    },
+    {
+      "id": "communicator",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "communicat",
+          "homeLang": "kommunicera"
+        },
+        {
+          "targetLang": "or",
+          "homeLang": "-or",
+          "homeLangDetails": "Bildar agentsubstantiv, alltså personen eller saken som utför handlingen. Lärar, skådespelere, körare."
+        }
+      ],
+      "translationShort": "den som kommunicerar",
+      "translationLong": "en person som kommunicerar effektivt eller professionellt; någon som är skicklig på att förmedla information",
+      "exampleSentence": "As a skilled communicator, she excels at public speaking.",
+      "exampleTranslation": "Som en skicklig kommunikatör utmärks hon inom offentlig tal."
+    },
+    {
+      "id": "communicate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "com",
+          "homeLang": "kon-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Koppla, kombinera, samarbeta, samla. Stavningen varierar efter det följande ljudet."
+        },
+        {
+          "targetLang": "mun",
+          "homeLang": "gemensam"
+        },
+        {
+          "targetLang": "icate",
+          "homeLang": "-era",
+          "homeLangDetails": "Ett verbaliserande suffix (från latinska -atus). Det gör substantivet eller adjektivet 'kommunik-' till ett verb som betyder att utföra den handlingen eller tillståndet."
+        }
+      ],
+      "translationShort": "att dela information",
+      "translationLong": "att dela information, att förmedla mening, att utbyta tankar",
+      "exampleSentence": "We need to communicate our ideas clearly to the team.",
+      "exampleTranslation": "Vi behöver kommunicera våra idéer tydligt till teamet."
+    },
+    {
+      "id": "investigate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "in",
+          "homeLang": "in-/inte eller in i",
+          "homeLangDetails": "Ett mångsidigt prefix med två olika betydelser: 'inte' (inaktiv, omöjlig, olaglig) och 'in i' (sätta in, importera). Stavningen ändras för att passa det följande ljudet."
+        },
+        {
+          "targetLang": "vestig",
+          "homeLang": "spår",
+          "homeLangDetails": "Från latinska vestigium (fotspår, spår). Samma rot finns i vestige (ett återstående spår) och investigator (den som följer spåren)."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-era",
+          "homeLangDetails": "Ett verbaliserande suffix som gör roten till en handling: att följa eller granska spår eller ledtrådar."
+        }
+      ],
+      "translationShort": "att granska noggrant",
+      "translationLong": "att granska noggrant, att undersöka, att genomföra en utredning",
+      "exampleSentence": "The police will investigate the crime scene tomorrow.",
+      "exampleTranslation": "Polisen kommer att utreda brottsplatsen imorgon."
+    },
+    {
+      "id": "collaborate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "col",
+          "homeLang": "kon-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Koppla, kombinera, samarbeta, samla. Stavningen varierar efter det följande ljudet."
+        },
+        {
+          "targetLang": "labor",
+          "homeLang": "arbete"
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-era",
+          "homeLangDetails": "Ett verbaliserande suffix som gör 'arbete' till en handling: att arbeta tillsammans."
+        }
+      ],
+      "translationShort": "att arbeta tillsammans",
+      "translationLong": "att arbeta tillsammans, att samarbeta",
+      "exampleSentence": "We will collaborate on this project with colleagues from other departments.",
+      "exampleTranslation": "Vi kommer att samarbeta om detta projekt med kollegor från andra avdelningar."
+    },
+    {
+      "id": "participate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "par",
+          "homeLang": "del",
+          "homeLangDetails": "Från latinska pars (del). Tillsammans med det följande morfemen -icip- skapas betydelsen 'att ta del' eller 'att ha andel i något'."
+        },
+        {
+          "targetLang": "ticip",
+          "homeLang": "ta",
+          "homeLangDetails": "Från latinska capere (ta). Participium (latinskt begrepp för 'deltagare') kombinerar 'del' + 'ta' för att betyda att dela i något."
+        },
+        {
+          "targetLang": "ate",
+          "homeLang": "-era",
+          "homeLangDetails": "Ett verbaliserande suffix."
+        }
+      ],
+      "translationShort": "att ta del",
+      "translationLong": "att ta del, att delta, att vara med",
+      "exampleSentence": "All students must participate in the class discussion.",
+      "exampleTranslation": "Alla elever måste delta i klassdiskussionen."
+    },
+    {
+      "id": "congratulate",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "con",
+          "homeLang": "kon-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. Ett av de mest produktiva latinska prefixen. Koppla, kombinera, samarbeta, samla. Stavningen varierar efter det följande ljudet."
+        },
+        {
+          "targetLang": "grat",
+          "homeLang": "nåd",
+          "homeLangDetails": "Från latinska gratus (behaglig, tacksam). Samma rot finns i nåd, tacksam och tacksamhet, alla relaterade till behagsamhet och välvilja."
+        },
+        {
+          "targetLang": "ulate",
+          "homeLang": "-ulera",
+          "homeLangDetails": "Ett förminskande/iterativt verbaliserande suffix (från latinska -ulatus). Det mildrar eller upprepar handlingen, här med betydelsen att uttrycka glädje eller välvilja mot någon på ett varmt, återkommande sätt."
+        }
+      ],
+      "translationShort": "att gratulera för en prestations",
+      "translationLong": "att gratulera för en prestation, att uttrycka glädje eller välvilja",
+      "exampleSentence": "I want to congratulate you on your excellent performance!",
+      "exampleTranslation": "Jag vill gratulera dig till din utmärkta prestation!"
+    },
+    {
+      "id": "misinterpret",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "mis",
+          "homeLang": "mis-/felaktigt",
+          "homeLangDetails": "Signalerar att något gjordes felaktigt eller dåligt. Precis som på svenska kan vi säga 'missförstå' eller 'missrepresentera' för att visa att något gick snett."
+        },
+        {
+          "targetLang": "inter",
+          "homeLang": "inter-/mellan",
+          "homeLangDetails": "Mellan eller bland. Du känner ordet från international, interrupt, interact. Det fungerar ungefär som svenska 'mellan-' eller 'inter-'."
+        },
+        {
+          "targetLang": "pret",
+          "homeLang": "pret-/förklara",
+          "homeLangDetails": "Kommer från Latin praetere eller prae (före) plus ire (att gå). När inter- kombineras med pret- får man känslan av att förklara vad som ligger mellan orden, alltså att klargöra betydelsen. Mis- vänsternegerar sedan detta: att förklara något felaktigt."
+        }
+      ],
+      "translationShort": "att förstå fel",
+      "translationLong": "att förstå fel, att förklara eller tolka något felaktigt",
+      "exampleSentence": "Don't misinterpret my words; I meant them kindly.",
+      "exampleTranslation": "Missuppfatta inte mina ord; jag menade dem väl."
+    },
+    {
+      "id": "deconstruct",
+      "article": "",
+      "parts": [
+        {
+          "targetLang": "de",
+          "homeLang": "de-/ned/ångra",
+          "homeLangDetails": "Nedåt, bort eller något som omgör en handling. Decrease, depart, deconstruct. Ofta vänder det ordet det motsatta. På svenska är det lite som 'av-' eller 'ned-', fast engelskans de- är väldigt flexibel."
+        },
+        {
+          "targetLang": "con",
+          "homeLang": "con-/tillsammans",
+          "homeLangDetails": "Med eller tillsammans. En av de vanligaste latinprefixen. Connect, combine, cooperate, collect. Stavningen ändras ofta för att passa ljuden som följer."
+        },
+        {
+          "targetLang": "struct",
+          "homeLang": "struct-/bygga"
+        }
+      ],
+      "translationShort": "att demontera analytiskt",
+      "translationLong": "att ta isär, att demontera, att analysera genom att dela upp i beståndsdelar",
+      "exampleSentence": "In this seminar, we will deconstruct the main arguments in the text.",
+      "exampleTranslation": "I det här seminariet kommer vi att deconstruera huvudargumenten i texten."
+    }
+  ]
+}

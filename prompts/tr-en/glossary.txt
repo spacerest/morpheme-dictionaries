@@ -1,0 +1,29 @@
+# Glossary format: morpheme | short_gloss | homeLangDetails (auto-filled into dict entries)
+# Add morphemes for this target language with English (home language) glosses here.
+# See prompts/de-en/glossary.txt for a complete example.
+
+# Suffixes: Pluralization and Case
+-lar/-ler | (plural) | Turkish marks plural with -lar or -ler, and which one you use depends on vowel harmony -- the last vowel in the word decides. Think of it like the English -s but with two flavors. You'll see it everywhere: kitaplar (books), evler (houses), arabalar (cars).
+-ın/-in/-un/-ün | (genitive) | This is the "of" suffix, showing possession or belonging, like English "'s" or "of." It has four forms because of vowel harmony. You'll spot it in araban-ın (of the car), ev-in (of the house), and it stacks with other suffixes constantly.
+-a/-e | (dative) | The "to/toward" suffix, showing movement or direction toward something. English uses prepositions like "to" or "for" where Turkish just glues this onto the noun. Examples: eve (to the house), okula (to the school), sana (to you).
+-da/-de/-ta/-te | (locative) | Means "at, in, on" -- the suffix that tells you where something is located. The t-forms appear after voiceless consonants, following Turkish sound rules. You'll see it in evde (at home), okulda (at school), masada (on the table).
+-dan/-den/-tan/-ten | (ablative) | Signals movement away from something, meaning "from" or "out of." English needs a whole preposition where Turkish just adds this ending. Examples: evden (from the house), okuldan (from school), and it also expresses cause: korkudan (from fear).
+-ı/-i/-u/-ü | (accusative) | Marks a specific, definite direct object -- the difference between "I see a cat" and "I see the cat." English has no equivalent suffix; we rely on word order instead. You'll notice it in kitabı gördüm (I saw the book) versus just kitap (a book in general).
+# Suffixes: Possession and Person
+-ım/-im/-um/-üm | my | Attaches to nouns to mean "my," like a glued-on possessive pronoun. It's the first-person singular possessive, and it follows vowel harmony. You'll recognize it in evim (my house), arabam (my car), and adım (my name).
+-ın/-in/-un/-ün | your (singular) | The second-person singular possessive, meaning "your" when talking to one person informally. It looks identical to the genitive suffix in some forms, which can trip learners up -- context sorts it out. Examples: evin (your house), adın (your name), kitabın (your book).
+-ı/-i/-u/-ü | his/her/its | Third-person singular possessive, meaning "his," "her," or "its" -- Turkish doesn't distinguish gender, which is refreshingly simple. You'll see it fused into tons of common words: arabası (his/her car), adı (his/her name), evi (his/her house).
+# Suffixes: Verb Tenses and Mood
+-iyor/-ıyor/-uyor/-üyor | (present continuous) | The "-ing" tense of Turkish, showing something is happening right now or habitually. It's one of the most common verb endings you'll encounter. You'll hear it constantly: geliyor (is coming), gidiyor (is going), yiyor (is eating).
+-di/-dı/-du/-dü/-ti/-tı/-tu/-tü | (past tense) | The simple past tense for things you directly witnessed or experienced yourself. Turkish actually has two past tenses -- this one is for things you saw with your own eyes. Examples: geldim (I came), gitti (he/she went), yedik (we ate).
+-ecek/-acak | (future tense) | Marks future tense, meaning something will happen. It works a lot like English "will" but is simply glued onto the verb stem. You'll use it in gelecek (will come), gidecek (will go), yapacağım (I will do).
+-mek/-mak | (infinitive) | The infinitive ending, turning a verb stem into its dictionary form -- what you'd look up in a dictionary. Like English "to..." it's the base form of all verbs. Every verb you learn ends in -mek or -mak: gelmek (to come), gitmek (to go), yapmak (to do).
+-me/-ma | (negation/verbal noun) | Does double duty: as a verb suffix it means "not" (negation), and as a noun suffix it turns actions into nouns like English "-ing." So yapmamak means "to not do," while gelme means "the coming" or "don't come" depending on context. You'll see it in bilmiyorum (I don't know) and yemek (eating/food).
+# Suffixes: Derivational
+-lı/-li/-lu/-lü | having, with | Creates adjectives meaning "having" or "characterized by" something -- a lot like English "-ful" or "-ed" as in "talented." It's incredibly productive. Examples: sütlü (with milk), şekerli (with sugar), deneyimli (experienced/with experience).
+-sız/-siz/-suz/-süz | without, -less | The opposite of -lı, meaning "without" or "-less," just like English "hopeless" or "sugarless." It's a tidy, consistent suffix. You'll see it in susuz (waterless/thirsty), şekersiz (without sugar), işsiz (unemployed/without work).
+-lik/-lık/-luk/-lük | -ness, -hood, -ity | Turns adjectives and nouns into abstract nouns, very much like English "-ness," "-hood," or "-ity." It's one of the most productive suffixes in Turkish. Examples: güzellik (beauty), arkadaşlık (friendship), özgürlük (freedom/liberty).
+-ci/-cı/-cu/-cü/-çi/-çı/-çu/-çü | (agent/occupation) | Creates nouns for people who do or sell something, like English "-er," "-ist," or "-man." It's how Turkish builds job titles and enthusiast labels. You'll spot it in çiçekçi (florist), gazeteci (journalist), futbolcu (football player).
+# Roots and Stems
+-gel- | come | One of the most fundamental verb roots in Turkish, meaning "to come." You'll find it lurking in dozens of conjugated forms and derived words. Once you recognize it you'll spot geldi (came), geliyor (is coming), and gelecek (will come) instantly.
+-git-/-gid- | go | The root meaning "to go," paired with gel- as the core motion verbs every learner needs first. The d appears before vowel suffixes due to a consonant-softening rule. You'll see it as gidiyor (is going), gitti (went), gidecek (will go).

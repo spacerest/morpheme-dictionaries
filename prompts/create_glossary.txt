@@ -1,0 +1,25 @@
+You are building a morpheme glossary for a language-learning word puzzle game. The player speaks <HOMELANG> and is learning <TARGETLANG>.
+
+Generate <COUNT> morpheme entries covering common <TARGETLANG> prefixes, suffixes, and roots that appear in high-frequency everyday vocabulary. Prioritize morphemes that:
+- Appear in multiple common words (high coverage)
+- Carry a clear, consistent meaning a learner can recognize and reuse
+- Represent the most productive affixes and recognizable roots in <TARGETLANG>
+
+**Format** — one entry per line, pipe-separated:
+
+morpheme | short_gloss | homeLangDetails
+
+Where:
+- **morpheme**: Canonical form with hyphens showing position: `un-` (prefix), `-tion` (suffix), `-graph-` (root/infix). For morphemes with multiple surface forms, slash-separate them: `-tion/-sion`, `in-/im-/il-/ir-`. For language pairs where the script adds the homeLangDetails automatically, this key is what gets matched against `targetLang` values in the dictionary.
+- **short_gloss**: A concise 1–4 word gloss **in <HOMELANG>**. This is the label the learner sees in the game as a tooltip, so it must be in their language. Where a morpheme has a direct equivalent in <HOMELANG>, use that (e.g., for a German speaker, English `un-` → `un-/nicht`). Where it has only a functional meaning, use a parenthetical label (e.g., `(Genitiv)`, `(Futur)`).
+- **homeLangDetails**: A 2–4 sentence explanation **in <HOMELANG>**, written like a knowledgeable friend talking to a native <HOMELANG> speaker. Mention patterns, cognates or parallels in <HOMELANG> where relevant, and give 2–3 example words. Warm and conversational — not a dictionary definition. Never use em-dashes. If writing in a language that uses ASCII `"` as quotation marks (Chinese, Japanese, etc.), use `「」` instead or rephrase to avoid quoting.
+
+Use `#` comment lines to organize entries by category, for example:
+```
+# Prefixes
+# Suffixes
+# Roots and stems
+# Linking elements
+```
+
+<EXISTING_SECTION>Return only the glossary lines and comment headers — no explanation, no markdown code fences, no blank lines at the start.

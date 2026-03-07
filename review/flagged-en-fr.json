@@ -1,0 +1,1010 @@
+[
+  {
+    "word": "injection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'dans/non ou dedans' is unclear and partially incorrect. 'In-' as a prefix in 'injection' means 'into' or 'inward', not simply 'in/within'. The current gloss is confusing and doesn't accurately capture the directional sense.",
+    "suggestion": "Change to 'dans/en dedans' or better yet 'vers l'intérieur' to clearly indicate the 'into' or 'inward' sense of the prefix",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'vers l'avant/pour' is imprecise. 'Pro-' in 'projection' primarily means 'forward' or 'forth', not 'for/in favor of'. The secondary meaning listed doesn't fit this word's actual morphology.",
+    "suggestion": "Change to 'vers l'avant' or 'en avant' to focus on the forward/outward sense appropriate to projection",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The French translation 'La prédiction météorologique pour demain est de la pluie' is awkward. More natural would use 'La prévision météorologique' or 'La météo prévue' since 'prédiction' in French typically refers to prophecy or fortune-telling rather than weather forecasts.",
+    "suggestion": "Change to 'La prévision météorologique pour demain annonce de la pluie' or 'Le bulletin météorologique pour demain prévoit de la pluie'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'juridiction' but this is the French word itself, not a translation. It should be the English word 'jurisdiction' or clarified as the French equivalent.",
+    "suggestion": "Change translationShort to 'jurisdiction' or remove it if the entry is meant to teach English to French speakers",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'transportation' which is the English word itself. Given that all other fields are in French (homeLang, example translations), this should be the French translation 'transport' or 'transportation'.",
+    "suggestion": "Change translationShort to 'transport' or 'transportation' depending on the language direction",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The morpheme is listed as 'de' but shown as 'vers le bas/défaire' in homeLang. The actual prefix in 'destruction' is 'de-', not 'de' alone, and should be clearly marked as the prefix form.",
+    "suggestion": "Change targetLang to 'de-' to clearly indicate it is a prefix",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "destruction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry splits 'destruction' into de + struct + ion, but 'struct' is itself from Latin 'struere' (to build). While the split is technically correct, 'struct' should ideally be marked as a root rather than a standalone morpheme, or the parts could be organized differently to show de- + construct + -ion.",
+    "suggestion": "Consider clarifying that 'struct' is a Latin root meaning 'to build' or reorganize the parts to show the full construction more clearly",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "inspection",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'dans/non' for 'in' is misleading. While 'in' can mean 'non' as a negating prefix in some words, in 'inspection' the 'in-' prefix means 'in' or 'into' (looking into something), not negation. The dual gloss suggests both meanings equally, which is confusing for this specific word.",
+    "suggestion": "Change homeLang for 'in' to 'dans/en' or 'into' to reflect its actual meaning in 'inspection', and add homeLangDetails clarifying that here it means 'in/into' rather than negation",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "prescription",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The explanation states 'Predict, prepare, prehistoric sont des mots anglais qui illustrent ce préfixe' but these are English examples, not French. The homeLang should relate to French equivalents.",
+    "suggestion": "Provide French examples instead, such as 'prévoir, préparer, préhistorique' to match the French-learning context.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "description",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang 'vers le bas/défaire' does not accurately capture the meaning of the 'de' prefix in 'description'. In this word, 'de' does not mean 'downward' or 'undo'—the word means 'a written account of' not 'the opposite of writing'. The morphological analysis is misleading.",
+    "suggestion": "The 'de' here is not a productive prefix with this meaning. Consider noting that 'description' uses 'de' + 'scrib' where 'de' functions differently (from Latin describere), or simplify to acknowledge this is a Latin-derived word where the prefix meaning is not transparent in modern usage.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort 'la transmission d'un sentiment ou d'un sens' is awkwardly phrased. 'Transmission' suggests the act of sending/conveying, but 'expression' primarily means the manifestation or display of feeling, not the act of transmitting it.",
+    "suggestion": "Change to 'la manifestation d'un sentiment ou d'un sens' or 'la démonstration d'une émotion ou d'une idée'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' in 'impression' is a variant of 'in-' meaning 'in/into', not 'in-/dans' (which is the preposition). The gloss should clarify this is the prefix form.",
+    "suggestion": "Change to 'in- (dans/en)' or 'dans' to be clearer about the prefix function",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The French phrase should use the indefinite article 'une' (feminine) or be plural, not just the bare noun phrase. Current form is grammatically awkward.",
+    "suggestion": "Change to 'une permission; un consentement ou une approbation officiel(le)' or 'consentement ou approbation officielle pour faire quelque chose'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'miss' in Latin/English etymology means 'send' (from mittere), but the gloss 'envoyer' (to send) doesn't clearly convey how this relates to permission. The semantic connection via 'mittere' is indirect—'permission' originally meant 'sent through' implying allowance.",
+    "suggestion": "Consider adding context like 'envoyer (permettre = envoyer à travers)' or noting that the semantic evolution from 'send' to 'allow' is complex",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "transmission",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'miss' is glossed as 'envoyer' (to send), but in 'transmission' it comes from Latin 'mittere' (to send/put). While 'envoyer' is a reasonable translation, the entry should clarify this is the Latin root, not a modern French word.",
+    "suggestion": "Change homeLang to 'mettre/envoyer (Latin mittere)' or add homeLangDetails explaining the Latin origin",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "commitment",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'mitt' is glossed as 'envoyer', but this oversimplifies. In 'commitment', the root 'mitt' (from Latin 'mittere') semantically contributes 'to put/place' in the sense of 'putting oneself forward', not simply 'to send'. The gloss misses the nuance.",
+    "suggestion": "Change to 'mettre/placer (Latin mittere)' to better capture the sense of committing oneself",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reception",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss of 're-' as 'arrière' (back/rear) is partially correct but the homeLangDetails explanation is somewhat confusing. While 're-' can mean 'back' or 'again', the example 'renvoyer' actually means 'to send back' (not 'to carry back to source'), which muddies the explanation.",
+    "suggestion": "Simplify homeLang to 'retour/arrière' and clarify in homeLangDetails that 're-' primarily means 'back' or 'return', using clearer examples",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The example 'La tromperie a finalement été découverte' uses 'tromperie' instead of 'déception'. While both work in French, 'déception' more directly mirrors the English word and is the more literal translation.",
+    "suggestion": "Change exampleTranslation to 'La déception a finalement été découverte' or 'L'acte de tromper a finalement été découvert' to be more consistent with the morphemic breakdown",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'fer' is glossed as 'porter' (to carry), but in 'reference', 'fer' comes from Latin 'ferre' (to carry/bear). While 'porter' is a valid translation of 'ferre', the gloss should be consistent with how it functions in the morpheme. More importantly, in 'reference', the sense is 'to bring back' or 'to carry back' (from Latin 're-ferre'), not just 'to carry'. The French translation 'référence' and the English meaning don't align with a simple 'carry' interpretation without context.",
+    "suggestion": "Consider glossing 'fer' as 'carry/bear' with a note that in this compound it carries the sense of 'bringing/directing toward', or add homeLangDetails explaining the Latin 'ferre' root and its semantic shift in the compound.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'conversion' (English), but the entry is being taught to French speakers (all other translations are in French). The short translation should be in French, not English.",
+    "suggestion": "Change translationShort from 'conversion' to 'conversion' (which happens to be the same in French, but the field should consistently use the target language glosses provided in homeLang).",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "Like 'conversion', the translationShort is in English ('introversion') rather than French. It should match the French translations provided in the other fields.",
+    "suggestion": "Change translationShort to 'introversion' (the French equivalent), or verify that all short translations should be in the home language (French in this case).",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "In French, 'subversion' is not a standard word. The French equivalent is 'subversion' (borrowed from English) or more naturally 'renversement' or 'sabotage'. 'Subversion' itself is used in French academic/political contexts but 'dépendance' (from the dependence entry) is not the right gloss.",
+    "suggestion": "Use 'la subversion' or 'le sabotage' as the French term, or provide the actual French word used",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split 'oc' + 'cur' is incorrect. The prefix should be 'oc' (a variant of 'ob-', meaning 'toward/against'), but 'oc' alone is not a meaningful unit in French. The correct etymological split is 'ob-' (or its assimilated form 'oc-') + 'currere' (to run). The 'oc' part shown as glossing to 'vers' (toward) is misleading.",
+    "suggestion": "Split as 'oc' (ob-, toward/against) or provide fuller etymological explanation. The gloss 'vers' is too vague; should be 'vers/contre' (toward/against) or explain the Latin 'ob-' prefix more clearly",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "In French, 'occurrence' is not the standard word. The correct French term is 'occurrence' (same spelling, borrowed), but more naturally expressed as 'cas', 'instance', 'manifestation', or 'apparition'.",
+    "suggestion": "Use 'occurrence' (if used in French academic contexts) or provide a more natural French equivalent like 'cas' or 'manifestation'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as re-cur-rence, but 'cur' alone is not a standalone morpheme in English. The correct split should be re-curr-ence, where 'curr' is the root (from Latin currere, to run) and '-ence' is the suffix.",
+    "suggestion": "Split as: re + curr + ence",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Same issue as recurrence: 'cur' is not the correct morpheme boundary. It should be 'curr' (the root from Latin currere).",
+    "suggestion": "Split as: con + curr + ent",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split shows 'cess' but the correct root is 'cede' or 'ced' (from Latin cedere, to go/yield). 'Cess' appears to be a partial or incorrect representation of the root.",
+    "suggestion": "Split as: re + cede + ion (or re + ced + ion if using the bound form)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Same issue: 'cess' should be 'cede' or 'ced'. Also, 'suc' is not the standard representation; it should be 'suc-' (sub- assimilated before 'c'), but the root should still be 'cede/ced'.",
+    "suggestion": "Split as: suc (sub assimilated) + cede + ion (or suc + ced + ion)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split shows 'ced' as a separate morpheme from 'ent' and 'ed', but the correct structure is un + pre + ced + ed (with '-ed' being the past participle suffix, not listed separately). The structure provided has too many parts and unclear boundaries.",
+    "suggestion": "Split as: un + pre + cede + d (or un + pre + ced + ed where 'ed' is the past participle marker), removing the separate 'ent' entry as it is not part of this word",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "information",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' in 'information' does not mean 'dans' (in/into). Etymologically, 'information' comes from Latin 'informare' (to form, shape, instruct), where 'in-' is a formative prefix, not a locative one. The word does not decompose meaningfully as 'in + form' in modern English.",
+    "suggestion": "Either remove the 'in' morpheme split or clarify that 'in-' here is a formative/intensifying prefix from Latin that doesn't correspond to a spatial 'dans'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reformation",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "While 're-formation' can be parsed as 're + form + ation', the capitalized 'Reformation' refers to a specific historical event (the Protestant Reformation) where the morphemic decomposition no longer reflects the actual meaning. The example sentence uses it as a proper noun for a historical movement, not as a transparent compound meaning 'forming again'.",
+    "suggestion": "Consider noting that when capitalized, 'Reformation' is a frozen proper noun referring to a specific historical event, and the morphemic analysis applies primarily to the lowercase 'reformation'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "corruption",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The first part 'cor' is glossed as 'con-/ensemble', but in 'corruption' it comes from Latin 'corr-' (an assimilated form of 'com-'), which does mean 'together/with'. However, the breakdown obscures that 'corrupt' itself is the base form; the morpheme structure is better understood as 'corrupt' + '-ion' rather than splitting 'cor' + 'rupt' as if they are independent morphemes.",
+    "suggestion": "Consider restructuring as 'corrupt' (homeLang: 'gâter/pourrir') + '-ion' (homeLang: '-tion'), or clarify that 'cor-' + 'rupt' is an etymological rather than synchronic analysis.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'rupt' is glossed as 'casser' (to break), which is correct etymologically (from Latin 'rumpere'), but this is presented as a morpheme gloss for a language-learning game where learners expect productive modern morphemes. The gloss is accurate but potentially confusing without context.",
+    "suggestion": "Add homeLangDetails explaining this is the Latin root meaning 'break/rupture', or simplify to 'casser/rompre' to clarify the semantic connection.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "autobiography",
+    "category": "incomplete_split",
+    "field": "parts[3]",
+    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' with no actual translation or clarification of what it means or how it functions in French. Unlike the other entries, this lacks meaningful glossing.",
+    "suggestion": "Provide a meaningful gloss such as 'homeLang: \"(suffixe formant un nom)\"' or align with how other entries handle nominal suffixes.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "biography",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The 'graph' morpheme is glossed as '-graph-' without any actual translation to French. This is incomplete—it should clarify what '-graph-' means (write/writing).",
+    "suggestion": "Change homeLang to 'écrire/-graph-' or 'écriture' to provide a meaningful gloss.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "biography",
+    "category": "incomplete_split",
+    "field": "parts[3]",
+    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' with no actual translation, making it incomplete for a language-learning game.",
+    "suggestion": "Provide a meaningful gloss similar to other entries, or consistently apply the glossing approach across all entries.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The 'graph' morpheme is glossed as '-graph-' without translation, just like in 'biography'. This is incomplete.",
+    "suggestion": "Change homeLang to 'écrire/-graph-' or 'écriture'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "photography",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' without a meaningful translation.",
+    "suggestion": "Provide a French gloss or clarification of the suffix's function.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "symphony",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "'phon' is glossed as '-phone' without a French translation. In a language-learning game for French speakers, this should be translated to the home language.",
+    "suggestion": "Change homeLang to 'son/-phone' or 'phonique' to provide meaningful translation.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "symphony",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' without meaningful translation, inconsistent with proper glossing standards.",
+    "suggestion": "Provide a French gloss or clarification.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The definition 'appareil qui capture et amplifie les petits sons' (device that captures and amplifies small sounds) is misleading. A microphone converts sound waves into electrical signals; it doesn't amplify them (amplification is separate). The 'small' reference confuses the prefix meaning with the device function.",
+    "suggestion": "Change to 'appareil qui convertit les sons en signaux électriques' (device that converts sounds into electrical signals) or 'appareil de capture sonore' (sound capture device)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "anachronism",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'retour' (return) is inaccurate for the Greek prefix 'ana-'. While 'ana-' can mean 'back' or 'again' in some contexts, its primary meaning here is 'up' or 'back in time'. The explanation 'revenant à la mauvaise période' doesn't clearly convey this. The gloss should reflect the actual temporal meaning, not just 'return'.",
+    "suggestion": "Change homeLang to 'arrière/contre le temps' or provide a more precise definition reflecting 'against time' or 'backwards in time'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "psychology",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "\"psych\" is glossed as \"esprit\" (mind/spirit), but the Greek root \"psyche\" originally means \"soul\" or \"breath/life force\", not simply \"esprit\". While \"esprit\" is an acceptable translation in modern French, it's worth noting the term has deeper etymological roots in ancient Greek philosophy.",
+    "suggestion": "Consider \"âme\" or \"esprit\" with a note that the original Greek meaning was broader; alternatively keep as is if the goal is modern semantic meaning",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "dermatology",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses \"dermatologue\" (the person/specialist) rather than maintaining the parallel structure. The English says \"appointment with a dermatology specialist\" (the field/specialty), so the French should reflect the same noun.",
+    "suggestion": "\"J'ai un rendez-vous avec un spécialiste en dermatologie.\" or \"J'ai un rendez-vous chez un dermatologue.\"",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "empathy",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "\"em\" is glossed as \"en-\" (a Greek prefix meaning \"in/into\"), but etymologically, \"empathy\" comes from Greek \"em-\" (not a standard Greek prefix) combined with \"pathos\". The morphological analysis is somewhat misleading because \"em-\" is not standardly recognized as a Greek prefix meaning \"en-\"; rather, it's a Germanic prefix. The Greek root structure is less clear here.",
+    "suggestion": "Reconsider the analysis. \"Empathy\" is actually from German \"Einfühlung\" calqued into English, so the prefix analysis based on Greek is problematic. Either revise to note this is a modern coinage or correct the morphological breakdown",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "amorphous",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-ous' is split as a separate morpheme but lacks a homeLang gloss. The homeLangDetails field is empty, making it incomplete.",
+    "suggestion": "Add homeLangDetails for '-ous': something like 'Un suffixe signifiant « ayant la qualité de » ou « plein de ». Il transforme un adjectif ou un nom en adjectif descriptif.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-able' is listed as a morpheme but has no homeLangDetails explanation, making the entry incomplete.",
+    "suggestion": "Add homeLangDetails for '-able': something like 'Un suffixe signifiant « capable de » ou « digne de ». Il transforme un verbe en adjectif.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unbelievable",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The suffix '-able' is listed as a morpheme but has no homeLangDetails explanation, making the entry incomplete.",
+    "suggestion": "Add homeLangDetails for '-able': something like 'Un suffixe signifiant « capable de » ou « digne de ». Il transforme un verbe en adjectif.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'mémorable, impossible à oublier' is somewhat redundant and awkward. 'Mémorable' alone already implies 'unforgettable', making the second part repetitive.",
+    "suggestion": "Use simply 'inoubliable' or 'qu'on ne peut pas oublier' for clarity and conciseness",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "overwhelming",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The French translation 'Le soutien qu'elle a reçu était écrasant' is technically correct but sounds somewhat harsh or negative in French. 'Écrasant' in this context can imply something overwhelming in a crushing sense rather than the positive sense intended.",
+    "suggestion": "Use 'Le soutien qu'elle a reçu était impressionnant' or 'formidable' to better capture the positive connotation, or clarify context if the overwhelming sense is meant to be negative",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is in English instead of French. It should be the French equivalent.",
+    "suggestion": "Change 'interchangeable' to 'interchangeable' or better yet 'échangeable' (the actual French term used)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "interchangeable",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The French translation uses 'indifféremment' which means 'indifferently' and is awkward here. A more natural phrasing would use 'l'une à la place de l'autre' or 'dans n'importe quel ordre'.",
+    "suggestion": "Change to: 'Ces deux pièces sont interchangeables et peuvent être utilisées l'une à la place de l'autre.' or 'Ces deux pièces sont interchangeables et peuvent être utilisées dans n'importe quelle position.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "industrialization",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The part 'industrial' is itself a compound that should be split further into 'industry' + 'al' (adjective suffix)",
+    "suggestion": "Split into parts: 'industry', 'al', 'ize', 'tion' rather than treating 'industrial' as a single morpheme",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "disagreement",
+    "category": "incomplete_split",
+    "field": "parts[1].targetLang",
+    "issue": "The part 'agree' should be split into 'a' (to/toward) + 'gree' (will/please), or at minimum, 'agree' is itself derived from a prefix that should be noted",
+    "suggestion": "Consider whether 'agree' should be further analyzed, or note that it is a fossilized form where the prefix 'a-' is no longer productively separated",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "incomplete_split",
+    "field": "parts[1]",
+    "issue": "The morpheme 'appoint' should be further split into 'ap' + 'point'. The prefix 'ap-' (from Latin 'ad-') is a productive morpheme meaning 'to/toward', and 'point' comes from Latin 'punctum' (point/dot). The entry conflates these into a single unit.",
+    "suggestion": "Split into three parts: 'dis' + 'ap' + 'point' + 'ment', or at minimum recognize that 'appoint' itself is composed of a prefix and root.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "disappointment",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "Glossing 'appoint' as 'désigner' is imprecise. 'Appoint' means 'to assign/designate to an office', but the morphological components (ap- + point) literally mean 'to fix/establish at a point'. The modern sense has drifted; the gloss should reflect the etymological meaning more accurately or acknowledge the semantic shift.",
+    "suggestion": "Consider 'fixer/assigner' or add homeLangDetails explaining that 'appoint' etymologically means 'to fix/establish' (ad + punctum) but now means 'designate to office'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "acknowledgment",
+    "category": "incomplete_split",
+    "field": "parts[0]",
+    "issue": "'Acknowledge' itself is a compound that should be split further: 'ac' (ad-) + 'knowledge' (archaic 'knowlache'). The entry treats it as a single morpheme when it is composed of a prefix and a root.",
+    "suggestion": "Split 'acknowledge' into 'ac' + 'knowledge' to show the morphological structure more completely.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "While the homeLangDetails correctly note that 'outrage' is a frozen compound, the entry still lists it as a single split unit. The synchronic reader might assume 'out-' + 'rage' (the modern productive prefix + anger), which is misleading. The details explain this well, but the split itself may confuse learners if not handled carefully.",
+    "suggestion": "Either note explicitly in the split that 'outrage' is NOT 'out' + 'rage' despite appearances, or split it differently (e.g., 'outr' + 'age' with an explanation). The current format risks misleading learners about English morphology.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word should be split as 'extra-' (prefix) + 'ordinary', not 'extra' + 'ordinary'. 'Extra-' is a bound morpheme prefix meaning 'beyond/outside', not a standalone word.",
+    "suggestion": "Split as 'extra-' (prefix: au-delà de) + 'ordinary' (ordinaire)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "expandable",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "The French phrase 'pouvant être aggrandi' is incomplete and unnatural. 'Aggrandi' means 'enlarged/made larger' but the structure is awkward. Should use 'pouvant être étendu' or 'qui peut s'étendre'.",
+    "suggestion": "translationLong should be 'extensible, pouvant être étendu' or 'extensible, qui peut s'étendre'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as compartment + al + ize, but this misrepresents the actual morphology. The correct split should be compartment + alize, where 'alize' is a single suffix (not 'al' + 'ize'). The intermediate step 'compartmental' (adjective) is skipped.",
+    "suggestion": "Split as: compartment + alize (or compartment + al + ize if the entry explicitly wants to show the layered morphology, but then 'al' should be marked as creating an intermediate adjective form)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The explanation states 'Beautiful becomes beautiful, careful becomes soigneux' which is confusing and incorrect phrasing. It should clarify that 'careful' becomes 'soigneux' (careful/attentive).",
+    "suggestion": "Revise to: 'Careful devient soigneux, helpful devient utile, beautiful devient beau.' Remove the redundant 'Beautiful becomes beautiful'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "carelessly",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The French translation 'Il a laissé tomber la tasse sans soin' is awkward. 'Sans soin' is a literal translation but unnatural in French when describing an action. More natural phrasing would use 'négligemment' or 'par inadvertance'.",
+    "suggestion": "Change to: 'Il a laissé tomber la tasse négligemment.' or 'Il a maladroitement laissé tomber la tasse.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "carelessness",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The phrase 'la casse d'une assiette' is awkward French. The natural phrasing would be 'la casse d'une assiette' or more naturally 'l'assiette s'est cassée'. Better: 'la rupture d'une assiette' or simply 'la casse d'une assiette' with context.",
+    "suggestion": "Change to: 'Son manque de soin a causé la casse d'une assiette.' or 'Son inattention a entraîné la rupture d'une assiette.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "helpfully",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The French translation 'Elle a expliqué les instructions de façon utile' is somewhat awkward. More natural French would use the adverb 'utilement' or rephrase differently.",
+    "suggestion": "Change to: 'Elle a expliqué utilement les instructions.' or 'Elle a expliqué les instructions avec utilité.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "helplessly",
+    "category": "unnatural_example",
+    "field": "exampleTranslation",
+    "issue": "The word order in 'Il a regardé sans pouvoir agir l'accident se dérouler' is awkward. The adverbial phrase should come later or the sentence structure should be revised.",
+    "suggestion": "Change to: 'Il a regardé l'accident se dérouler sans pouvoir agir.' or 'Il a regardé impuissamment l'accident se dérouler.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The primary translation should reflect the standard adverbial meaning. While 'hopefully' can express a wish, the most common contemporary usage is the sentence adverb meaning 'it is hoped that' or 'let us hope that', which is better captured as 'espérons-le' or 'pourvu que'. The current translation 'heureusement' (fortunately) is misleading.",
+    "suggestion": "Change to 'espérons-le ; avec l'espoir que' or similar to reflect the actual usage, or note the prescriptivist controversy around this usage",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "Like 'hopefully', 'thankfully' as a sentence adverb means 'fortunately/it is fortunate that', not literally 'with thankfulness'. The translation 'heureusement' is correct for the standard modern usage, but the secondary gloss 'avec reconnaissance' (with gratitude) does not match how the word is actually used in English in the example sentence.",
+    "suggestion": "Change to 'heureusement' alone, or add a note that the 'avec reconnaissance' sense is archaic/rare",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLangDetails for '-ly' incorrectly states it 'Forme aussi des adjectifs : ami, joli' (also forms adjectives: friend, pretty). This is inaccurate. The '-ly' suffix primarily forms adverbs from adjectives; it does not form adjectives from nouns in standard English morphology.",
+    "suggestion": "Remove the clause about forming adjectives. Revise to: \"Forme des adverbes à partir des adjectifs, signifiant « de manière [adjectif] ». Rapidement, joyeusement, surprenamment. C'est un peu comme le français qui utilise souvent -ment pour former les adverbes.\"",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "incomplete_split",
+    "field": "parts[0].targetLang",
+    "issue": "The first part should be 'beautiful' (the adjective), not 'beauty' (the noun). The morphological chain is beauty → beautiful (+ -ful) → beautifully (+ -ly). Currently, the entry conflates the noun 'beauty' with what should be the adjective 'beautiful'.",
+    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beautiful', and adjust the homeLang/homeLangDetails to reflect that 'beautiful' is already the adjective form (beauty + -ful = beautiful)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
+    "suggestion": "Change exampleTranslation to 'Elle chantait magnifiquement au concert.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
+    "suggestion": "Change exampleTranslation to 'Le projet a été complété avec succès à temps.' or 'Le projet a été menée à bien à temps.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "powerfully",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
+    "suggestion": "Change exampleTranslation to 'L'orateur a présenté un argument puissamment convaincant.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "improvement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme is glossed as 'prouver' (prove), but in 'improve' the root 'prov' does not mean 'prove'. While both come from Latin probare, 'improve' means to make better, not to prove. The gloss conflates two different English words with different semantic histories.",
+    "suggestion": "Change homeLang to 'améliorer' or 'rendre meilleur' to accurately reflect the meaning in 'improve', or clarify that while the Latin root is shared with 'prove', the semantic connection is indirect and the primary sense here is 'make better'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "advertisement",
+    "category": "incomplete_split",
+    "field": "parts[2].targetLang",
+    "issue": "The morpheme 'ise' is incomplete. In British English, the word is 'advertisement' which comes from 'advertise' + suffix. The suffix should be 'ize/-ise' (the infinitive verb formant), but the split shows only 'ise' without accounting for the 'e' that gets added before the nominalizing '-ment'. More critically, 'advertisment' would be the intermediate form, but the entry jumps from 'ise' directly to 'ment' without clarifying that these combine as '-isement' in French-influenced nominalizations.",
+    "suggestion": "Consider whether the split should be: ad + vert + ise + ment, or whether it's clearer to present it as ad + vert + ise + ment where '-isement' is understood as a combined suffix. Alternatively, note that in American English 'advertisement' is pronounced with stress on 'ad', suggesting the morphology may be ad + vertisement.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "entertainment",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'enter' does not come from French 'entrer'. In 'entertain', 'enter-' is a prefix from Old French 'entre-' (between), not the verb 'entrer'. The analysis misleads by suggesting 'enter' = 'entrer'.",
+    "suggestion": "Change parts[0].homeLang to 'entre-' or 'entre' with homeLangDetails explaining it's a prefix meaning 'between' from Old French 'entre-', not the verb 'entrer'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "retirement",
+    "category": "false_cognate",
+    "field": "parts[1].homeLangDetails",
+    "issue": "The claim that 'tired' comes from 'tir' (to tire/pull) is etymologically false. 'Tired' (fatigued) is unrelated to 'tire' (to pull). This is a false cognate explanation that confuses two homonyms.",
+    "suggestion": "Remove the sentence 'La même racine apparaît dans tired (fatigué d'être tiré).' It is incorrect.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "department",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'part' lacks a homeLang gloss and homeLangDetails. 'Part' comes from Latin 'pars' and should have translation and etymology provided for consistency with other entries.",
+    "suggestion": "Add homeLangDetails: 'Du latin pars (partie, portion).' This ensures 'part' is fully documented.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "replacement",
+    "category": "incomplete_split",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'place' lacks homeLangDetails. For consistency with other entries, it should include etymology and meaning.",
+    "suggestion": "Add homeLangDetails explaining 'place' comes from Old French 'place' (an open space) from Latin 'platea'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme structure is incomplete. 'unexpected' should be split into 'un' + 'expect' + 'ed', but then the full word is 'unexpectedly', which requires the '-ly' suffix to form the adverb. The entry shows 4 parts but 'expect' + 'ed' should ideally be combined into 'unexpected' as an intermediate step before adding '-ly', or the morphological analysis should clarify that 'ed' here is part of the adjective formation rather than past tense.",
+    "suggestion": "Reconsider the split: either show 'un' + 'expected' + 'ly', or clarify that 'ed' is the adjectival suffix (not past participle) that converts 'expect' into the adjective 'expected', which then takes 'ly' to form the adverb.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_translation",
+    "field": "parts[1].homeLang",
+    "issue": "'expect' is glossed as 'attendre' (to wait/await), but 'expect' means 'to anticipate' or 'to expect', not simply 'to wait'. The French 'attendre' has a different primary meaning.",
+    "suggestion": "Change homeLang to 'attendre à' or 's'attendre à' (to expect), or use 'anticiper' to be more precise about the semantic meaning of English 'expect'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'tristement' (sadly/sadly) is not an accurate translation for 'unfortunately'. 'Unfortunately' means 'malheureusement' or 'hélas', expressing regret about a situation, whereas 'tristement' describes a manner of sadness. The primary meaning is regret, not sadness.",
+    "suggestion": "Change translationShort to 'malheureusement, hélas' and remove 'tristement', or keep only 'malheureusement'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "Same issue as translationShort: 'tristement' is inaccurate. It should focus on 'malheureusement' and 'hélas' as the primary translations.",
+    "suggestion": "Change translationLong to 'malheureusement, hélas, regrettablement' and remove 'tristement'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "unwillingness",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as un + will + ing + ness, but 'willing' is the actual adjective form. The morpheme 'willing' (adjective) should be kept together as the base before 'ness' is applied. The current split suggests 'willing' is decomposed into 'will + ing', which is technically correct but misleading because 'unwillingness' is formed from 'unwilling' (un + willing) + ness, not from 'un + will + ing + ness'.",
+    "suggestion": "Split as: un + willing + ness, where 'willing' is the adjective form derived from 'will'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reconsideration",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as re + consider + tion, but 'consideration' is itself a complete morphological unit (consider + tion). The split should reflect that reconsideration = re + consideration, not re + consider + tion, since 'consideration' is the noun form that 'reconsideration' builds upon.",
+    "suggestion": "Split as: re + consideration, or if you want to show all morphemes: re + consider + ation (using the Latin suffix -ation rather than -tion to match French -ation).",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"réarragement\" is a misspelling; the correct French word is \"réarrangement\" (with two 'r's).",
+    "suggestion": "Change \"réarragement\" to \"réarrangement\"",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_translation",
+    "field": "translationLong",
+    "issue": "\"réarragement\" is a misspelling; the correct French word is \"réarrangement\" (with two 'r's).",
+    "suggestion": "Change \"réarragement\" to \"réarrangement\"",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "recycling",
+    "category": "false_cognate",
+    "field": "parts[2]",
+    "issue": "The English suffix '-ing' (forming gerunds/present participles) is glossed as French '-age' (nominalizing suffix). While both create nouns from verbs, they are not equivalent morphemes. The '-ing' in 'recycling' functions differently than '-age' in 'recyclage'.",
+    "suggestion": "Clarify that '-ing' is an English gerundive suffix that corresponds to '-age' in French in meaning but not in morphological function, or note that 'recycling' is the present participle/gerund form.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'com-mun-ication' is incorrect. The word should be split as 'com-' (prefix) + 'munic-' (root meaning 'common/communicate') + '-ation' (suffix). The current split treats 'mun' as a standalone morpheme and 'ication' as the suffix, but 'munic' is the actual root and '-ation' is the suffix.",
+    "suggestion": "Split as: com- (prefix) / munic- (root: 'communicate/common') / -ation (suffix)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "education",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The prefix is listed as 'e' but the Latin prefix is 'ex-' (meaning 'out of'). The single letter 'e' is misleading as it suggests the entire prefix, when in fact 'ex-' becomes 'e-' only when assimilated before certain consonants. The entry should clarify this is the assimilated form of 'ex-'.",
+    "suggestion": "Change 'e' to 'ex-' or clarify in homeLangDetails that this is the assimilated form of 'ex-' before 'd'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The split shows 'intro' as a single morpheme, but this is incomplete. 'Intro' should be split further into 'in-' (prefix, 'into') + 'tro-' (root, from 'trahere' meaning 'to lead/carry'). The current entry treats 'intro' as a monolithic unit when it contains the prefix 'in-' and root elements.",
+    "suggestion": "Split as: in- (prefix: 'into') / tro- (root element from 'trahere') / duc- (root: 'to lead') / -tion (suffix), or at minimum clarify that 'intro-' contains the prefix 'in-' + 'tro-'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'pronunciation' should be split as 'pro-' + 'nunci' + '-ation', not 'pro' + 'nunc' + 'iation'. The root is 'nunci-' (from Latin 'nuntiare', to announce), not 'nunc'.",
+    "suggestion": "Correct the split to: pro- (forward) + nunci- (announce/speak) + -ation (noun suffix)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'explanation' should be split as 'ex-' + 'plic' + '-ation', not 'ex' + 'plan' + 'ation'. The root is 'plic-' (from Latin 'plicare', to fold/unfold), meaning 'to unfold' or 'make clear', not 'plat' (flat).",
+    "suggestion": "Correct the split to: ex- (out) + plic- (unfold/fold) + -ation (noun suffix)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'examination' should be split as 'ex-' + 'amin' + '-ation', not 'ex' + 'am' + 'ination'. The root is 'amin-' (from Latin 'examinare', to weigh/test), not 'am' (weigh).",
+    "suggestion": "Correct the split to: ex- (out) + amin- (weigh/test) + -ation (noun suffix). Also, 'am' alone is not the correct root morpheme.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'imagination' should be split as 'im-' + 'agin' + '-ation', not 'im' + 'ag' + 'ination'. The root is 'agin-' (from Latin 'imaginari', to form mental images), not 'ag' (image).",
+    "suggestion": "Correct the split to: im- (in/into) + agin- (image/picture) + -ation (noun suffix). 'ag' is too short and does not represent the actual root.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "population",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The second part 'ulation' should be split further into '-ul' and '-ation', or more accurately, the split should show '-ation' as the suffix. Currently 'ulation' obscures the structure.",
+    "suggestion": "Split as: pop- (people) + -ul (diminutive/agent) + -ation (noun suffix), or simply: pop- (people) + -ation (noun suffix)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"une discussion informelle\" is too narrow. A conversation can be formal or informal; the key is that it's an exchange of ideas between people.",
+    "suggestion": "un échange de paroles / une discussion entre des personnes",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "\"le renvoi de la lumière\" is incomplete and overly technical. Reflection has multiple meanings: it includes the act of reflecting light, but also the noun meaning 'contemplation' or 'thoughtful consideration', which are equally important.",
+    "suggestion": "un reflet / une pensée réfléchie / une méditation",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme 'vit' does not correspond to 'appeler' in English. The correct split should be 'invit' (from Latin invitare, to invite) + '-ation'. The 'v' belongs with the root, not separated as 'in-vit'.",
+    "suggestion": "Change parts[1].targetLang to 'vit' or better yet 'invit' to properly reflect the invite root, with homeLang as 'inviter' (to invite)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme split 'par' does not accurately represent the structure. The root is 'parare' (to prepare), so it should be 'par' (prepare root) but the homeLang translation 'préparer' is the full infinitive, not the root meaning.",
+    "suggestion": "Change parts[1].homeLang to something like 'apprêter' or 'préparer (root)' to clarify it's the root form of prepare",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The French translation 'L'organisation travaille pour aider ceux dans le besoin' is grammatically awkward. 'Ceux dans le besoin' should be 'ceux qui en ont besoin' or 'les nécessiteux'.",
+    "suggestion": "Change to 'L'organisation travaille pour aider ceux qui en ont besoin.' or 'L'organisation œuvre pour aider les personnes dans le besoin.'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "satisfaction",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The split 'sat-is-faction' is incorrect. 'Faction' is not a standalone morpheme meaning '-tion'; it's part of 'satisfy' (sat + is + fy) + ation. The morpheme boundaries are wrong.",
+    "suggestion": "Revise to: 'sat' (enough/enough), 'is' (to make), 'fy' (-fy suffix), 'ation' (-tion suffix), or simply 'satisfy' + 'ation'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The morpheme split is incorrect. 'e-val-uation' treats 'e' as a prefix and 'uation' as a suffix, but the correct structure is 'e-valu-ation'. The root is 'valu' (from Latin 'valere', meaning to be strong/worth), not just 'val'. The suffix '-uation' is not a standard morpheme; it should be '-ation' with the linking vowel 'u' from 'valu'.",
+    "suggestion": "Split as: e- (ex-), valu (valeur), -ation (-tion)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "affordable",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "'affordance' is a modern technical term from philosophy/UX design and does not accurately gloss the morpheme 'afford' in 'affordable'. The verb 'afford' means 'to have sufficient means for' or 'to be able to do something without detriment'. The homeLang gloss should reflect the verb's actual meaning, not a derived technical term.",
+    "suggestion": "Change homeLang to 'pouvoir se permettre' or 'avoir les moyens'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "impossible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as im + poss + ible, but 'poss' is not a morpheme. The correct split should be im + possible, where 'possible' is the base word being negated.",
+    "suggestion": "Split as: im (prefix) + possible (base word). The '-ible' suffix should not be separated as a distinct morpheme here since 'possible' is already a complete word.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "irresponsible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split as ir + respons + ible, but 'respons' is not a morpheme. The correct split should be ir + responsible, where 'responsible' is the base word being negated.",
+    "suggestion": "Split as: ir (prefix) + responsible (base word). The '-ible' suffix should not be separated as a distinct morpheme here since 'responsible' is already a complete word.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "irreversible",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The part 'reverse' should be further split into 're-' (prefix meaning 'again' or 'back') and 'verse' (from Latin vertere, to turn). This would better show the morphological structure and align with how the word is actually constructed.",
+    "suggestion": "Split 'reverse' into 're' (re-) and 'verse' (tourner/vers), making the full analysis: ir- + re- + verse + -ible",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "prehistoric",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The second part 'historic' should be further split into 'history/history' and the suffix '-ic' (or '-ique' in French). This would show the complete morphological structure.",
+    "suggestion": "Split 'historic' into 'history' (histoire) and '-ic/-ique' (adjectival suffix), making the full analysis: pre- + history + -ic",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-tic' is glossed as '-ique', but '-tic' in English typically relates to 'pertaining to' or 'of the nature of'. The connection to French '-ique' is reasonable but incomplete; the homeLang should clarify that '-tic' means 'relating to' or similar.",
+    "suggestion": "Change homeLang to 'relatif à' or 'pertaining to' to better reflect the suffix's actual function",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "automatically",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-matic' is glossed as 'mouvant' (moving), but this is misleading. '-matic' comes from Greek 'automatos' and means 'of or relating to a machine or automatic process', not simply 'moving'. The gloss 'mouvant' does not accurately represent the morpheme's actual meaning.",
+    "suggestion": "Change homeLang to 'automatique' or 'relatif à une machine' to accurately reflect the suffix's meaning",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "automatically",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'auto + matic + ally', but 'automatic' should logically be considered as a unit (auto + matic), with '-ally' as an adverbial suffix. The current split treats '-matic' in isolation, which obscures the structure 'automatic' + '-ally'.",
+    "suggestion": "Consider restructuring as: 'auto' (soi-même), 'matic' (with better gloss), 'ally' (-ment), or clarify that '-matic' is part of the adjective 'automatic' that is then adverbialized",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "The split 'respons' + 'ibility' is incorrect. The correct split should be 'respond' (or 'respons-') + '-ibility', as responsibility derives from respond, not from a root 'respons'.",
+    "suggestion": "Split as 'respond' + '-ibility' or adjust the targetLang to reflect the actual morpheme boundaries",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_translation",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'apprécié' (appreciated) is too narrow and not quite accurate. 'Popular' means 'liked, admired, or in favor with many people' — not specifically 'appreciated'. A better gloss would be 'populaire' or 'aimé du public'.",
+    "suggestion": "Change homeLang to 'populaire' or 'aimé du public'",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The first part is split as 'flex' with homeLang 'flexible', but 'flexible' is the complete adjective, not a morpheme. The actual morpheme should be 'flex' with homeLang 'flex' (the root), and then 'ible' should be '-ible' (the suffix that makes it an adjective).",
+    "suggestion": "Change parts[0].homeLang from 'flexible' to 'flex' (the root morpheme)",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "flexibility",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The entry shows flex + ible + ity, but 'ible' by itself is not a standalone morpheme in this context. The structure should acknowledge that '-ible' attaches to the root to form 'flexible', and then '-ity' attaches to that adjective. As presented, it suggests three independent parts that simply concatenate, which is misleading about how the word is actually built.",
+    "suggestion": "Clarify that 'ible' is the suffix '-ible' (parts[1].targetLang should be '-ible' or be marked as a suffix), making clear it's flex + -ible + -ity",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "researcher",
+    "category": "false_cognate",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The prefix 're-' in 'researcher' does not carry the meaning of repetition or 'doing again' that is described. 'Researcher' means someone who searches/researches, not someone who searches again. The 're-' here is etymologically from Old French 'resercher' but synchronically functions as part of the root 'research', not as a productive prefix meaning repetition.",
+    "suggestion": "Either remove the 're-' as a separate morpheme and treat 'research' as the base, or clarify that 're-' here is fossilized and does not carry productive meaning of repetition.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "researcher",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The morpheme split treats 'search' as an atomic unit, but 'search' itself could be analyzed further (from Old French 'cerchier'). However, more importantly, in modern English synchronic analysis, 'research' functions as a single morpheme/root, not 're+search' with productive prefix meaning.",
+    "suggestion": "Reconsider whether 're-' should be listed separately. The more accurate split would be 'research' (single root) + 'er', or provide clearer explanation that 're-' is not productive here.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "employee",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is listed as 'employer' but should be 'employé' or 'salarié'. The French cognate for the English root 'employ' is 'employer' (the verb), not the noun 'employer' (the person). This creates confusion with the employer entry.",
+    "suggestion": "Change homeLang from 'employer' to 'employé' to accurately reflect the French equivalent",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "communicator",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The French translation uses 'Excellente communicatrice' which changes the gender and doesn't match the English subject 'she' consistently with the example sentence structure. More naturally, it should follow the pattern of the example.",
+    "suggestion": "Change to 'En tant que communicatrice compétente, elle excelle dans les présentations en public.' or 'Communicatrice douée, elle brille dans les présentations en public.' for better consistency",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The morpheme should be split as 'vestig' + 'ate', but 'vestig' is not the complete morpheme. The actual Latin root is 'vestig-' and the suffix should be '-ate', which is correct, but the boundary description is misleading because 'vestig' alone doesn't represent a complete meaningful unit in the way the homeLang suggests.",
+    "suggestion": "Consider clarifying that 'vestig' is a bound root (always requires a suffix) rather than implying it stands alone as 'trace'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "participate",
+    "category": "false_cognate",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'ticip' is glossed as 'prendre' (take), but this conflates Latin 'capere' (to take) with the Latin participium form. The segment '-icip-' is not a standalone morpheme meaning 'take'; it's part of the Latin 'participium' construction where 'part-' (part) combines with '-cipere' (a form of capere). The gloss should reflect that '-icip-' is a bound form related to 'capere', not 'prendre' as a standalone concept.",
+    "suggestion": "Change homeLang to 'capere/prendre' or 'forme de capere' and clarify in homeLangDetails that this is a bound morpheme derived from Latin capere.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "congratulate",
+    "category": "incomplete_split",
+    "field": "parts",
+    "issue": "The word is split into 'con' + 'grat' + 'ulate', but 'ulate' itself should be further analyzed as '-ul-' (diminutive) + '-ate' (verbalizing suffix). The current split obscures the internal structure of the suffix.",
+    "suggestion": "Split as 'con' + 'grat' + 'ul' + 'ate' to show the diminutive/frequentative morpheme '-ul-' separately from the verbalizing '-ate'.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as mis-inter-pret-et, but 'pret' is not a standalone morpheme. The correct split is mis-interpret, where 'interpret' itself contains inter- + pret (from Latin praetere). The morpheme 'pret' should not be isolated; it should be 'interpret' as a single unit.",
+    "suggestion": "Restructure to: mis + interpret (or if further splitting is desired: mis + inter + pret, but acknowledge that 'pret' alone is not a synchronic English morpheme). Remove the '-et' as a separate part; it is not part of modern English morphology.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_translation",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'préter/expliquer' is misleading. 'Pret' derives from Latin praetere but 'préter' in French means 'to lend', not 'to explain'. The explanation conflates the Latin etymology with modern French meaning.",
+    "suggestion": "Use 'prêt (from Latin praetere, meaning to go before/forth)' or simply reference the Latin root without claiming modern French 'préter' is the equivalent.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "misinterpret",
+    "category": "unnatural_example",
+    "field": "parts[3]",
+    "issue": "The claim that '-et' is an 'infinitif archaïque ou poétique' in English is incorrect. English 'misinterpret' is a regular verb with no archaic or poetic '-et' ending. English uses '-et' in Old English but not in modern English verbs.",
+    "suggestion": "Remove this part entirely or clarify that it is a Latin etymological remnant not synchronically functional in English morphology.",
+    "source_file": "en-fr.json"
+  },
+  {
+    "word": "deconstruct",
+    "category": "incomplete_split",
+    "field": "parts[2]",
+    "issue": "The entry for 'struct' lacks homeLang and homeLangDetails. This part is incomplete compared to the other morphemes.",
+    "suggestion": "Complete the entry: homeLang should be 'struct/build' or 'struct/structure' (from Latin struere), and add homeLangDetails explaining the morpheme.",
+    "source_file": "en-fr.json"
+  }
+]

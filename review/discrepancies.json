@@ -1,0 +1,58 @@
+[
+  {
+    "word": "reception",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "re- in reception means 'back' (Latin recipere = take back), not 'again'. The glossary default for re- ('again') is wrong here.",
+    "correction": "homeLang should be 'back' with a homeLangDetails note that re- here means 'back' not 'again'",
+    "status": "confirmed"
+  },
+  {
+    "word": "recession",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "re- in recession means 'back' (Latin recedere = go back), not 'again'. The glossary default for re- ('again') is wrong here.",
+    "correction": "homeLang should be 'back' with a homeLangDetails note that re- here means 'back' not 'again'",
+    "status": "confirmed"
+  },
+  {
+    "word": "reference",
+    "category": "false_cognate",
+    "field": "parts[0].homeLang",
+    "issue": "re- in reference means 'back' (Latin referre = carry back), not 'again'. The glossary default for re- ('again') is wrong here.",
+    "correction": "homeLang should be 'back' with a homeLangDetails note that re- here means 'back' not 'again'",
+    "status": "confirmed"
+  },
+  {
+    "word": "dependence / independence / interdependence",
+    "category": "wrong_gloss",
+    "field": "parts[de].homeLangDetails",
+    "issue": "de- in depend- does not mean 'reversing an action'. Latin dependere means 'hang down from' — de- here is directional ('down/from'), not reversing.",
+    "correction": "Replace the generic 'reversing' homeLangDetails with a word-specific note that de- here means 'down from', describing a relationship of hanging or relying on something.",
+    "status": "confirmed"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_gloss",
+    "field": "parts[meta].homeLang",
+    "issue": "meta- homeLang was 'across', but in this context the primary meaning is 'change/transformation' (meta + morph = change of form).",
+    "correction": "homeLang should be 'change/beyond'; 'across' is a valid but less primary sense of meta-.",
+    "status": "confirmed"
+  },
+  {
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts[outrage]",
+    "issue": "'outrage' is not a transparent compound of English out- + rage. It is a frozen borrowing from Old French outrage/ultrage (excess), from Latin ultra (beyond). The morphology is historical, not productive.",
+    "correction": "Add homeLangDetails to the 'outrage' part explaining its etymology as a frozen compound to prevent misleading analysis.",
+    "status": "confirmed"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_split",
+    "field": "parts",
+    "issue": "The suffix was glossed as a single 'alize' morpheme mapped to -ize. It should be split into -al (adjectival) + -ize (verbalizing), as in compartment → compartmental → compartmentalize.",
+    "correction": "Split 'alize' into 'al' (-al suffix, 'relating to') and 'ize' (-ize suffix, 'to make').",
+    "status": "confirmed"
+  }
+]
