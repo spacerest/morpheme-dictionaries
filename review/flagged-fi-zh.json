@@ -1,0 +1,121 @@
+[
+  {
+    "word": "vaarallinen",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "词素切分有误:-llinen 是一个完整的形容词后缀,不应拆分为 ll + inen 两个独立部分。目前的切分使 ll 成为无意义的孤立片段,而 inen 的标注说明也因此只能描述它在 -llinen 中的从属角色。",
+    "suggestion": "应切分为 vaara（根）+ llinen（后缀,标注为「具有...性质」）,与 onnellinen、kunnallinen 等词保持一致。"
+  },
+  {
+    "word": "kehittyminen",
+    "category": "wrong_boundary",
+    "field": "parts[1].homeLangDetails",
+    "issue": "homeLangDetails 中举例的 kasvattua 并非标准芬兰语动词（应为 kasvaa 的反身形式 kasvua 或 kasvua 不适用）,疑似笔误,可能混淆了 kasvaa 与 kasvattua（使生长）。",
+    "suggestion": "将例词替换为标准的 -tua/-tyä 反身动词,如 muuttua（改变）或 herätä 等,以准确说明该后缀的用法。"
+  },
+  {
+    "word": "unohttaminen",
+    "category": "wrong_boundary",
+    "field": "id",
+    "issue": "词条 ID 拼写为 'unohttaminen'（双 t）,但标准芬兰语拼写为 'unohtaminen'（单 t）。这会影响语素切分:当前切分为 unoh + tta + minen,而正确形式应为 unoh + ta + minen。词条本身已标注此疑问,建议人工确认并更正 ID 及语素切分。",
+    "suggestion": "将 ID 更正为 'unohtaminen',并将第二个语素从 'tta' 改为 'ta'。"
+  },
+  {
+    "word": "epäselvästi",
+    "category": "wrong_boundary",
+    "field": "parts[1] / parts[2]",
+    "issue": "词根 selvä 的尾音 ä 被划入了第三部分 ästi,导致词根显示为 selv 而非 selvä,且后缀显示为 ästi 而非 -sti",
+    "suggestion": "将第二部分改为 selvä,第三部分改为 sti（或 -sti）,使词根和后缀边界清晰"
+  },
+  {
+    "word": "kirjallinen",
+    "category": "wrong_boundary",
+    "field": "parts[1] + parts[2]",
+    "issue": "将 -llinen 切分为 ll 加 inen 不准确:-llinen 是芬兰语中一个完整的形容词后缀,ll 并非独立的连接语素,而是后缀 -llinen 本身的组成部分。",
+    "suggestion": "将 parts[1] 和 parts[2] 合并为单一后缀 -llinen,homeLang 标注为 -llinen（形容词）。"
+  },
+  {
+    "word": "mielenkiintoinen",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang / parts[1].targetLang",
+    "issue": "词根被切分为 miele + n 两个部分。芬兰语词根是 mieli,属格后缀 -n 作为独立语素切出在教学上有一定价值,但 miele 并非独立形态,可能令学习者困惑。",
+    "suggestion": "考虑将词根保留为 mieli,并将属格 -n 合并进连接成分,或明确标注 miele 为连接形式（linking form）而非独立词根。"
+  },
+  {
+    "word": "liikenneturvallisuus",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The suffix part is cut as 'llisuus', but the underlying stem is turvallinen (turva + ll + inen), meaning the double-l belongs to the adjectival stem, not the suffix alone. The compound suffix -llisuus is split inconsistently: one 'l' is absorbed into 'turva', leaving 'llisuus'. The same issue exists in isänmaallisuus parts[3].",
+    "suggestion": "Consider a three-way split: turva + llinen (adjective suffix, as a separate tile) + uus (abstract noun suffix), or accept turva + llisuus as a fused compound suffix tile but clarify in homeLangDetails that the double-l is a phonological artifact of the fusion."
+  },
+  {
+    "word": "isänmaallisuus",
+    "category": "wrong_boundary",
+    "field": "parts[3].targetLang",
+    "issue": "Same issue as liikenneturvallisuus: 'llisuus' absorbs one 'l' that belongs to the adjectival stem of 'isänmaallinen' (maa + ll + inen). The cut is structurally inconsistent.",
+    "suggestion": "Consider splitting as maa + llinen + uus, or treating -llisuus as a fused suffix tile with a note explaining the double-l fusion in homeLangDetails."
+  },
+  {
+    "word": "puolueellinen",
+    "category": "wrong_boundary",
+    "field": "parts[1] / parts[2]",
+    "issue": "「ell」+「inen」の切り方が疑問。実際の接尾辞は -llinen（または -ellinen）であり、「ell」を linking 要素として切り離すのは恣意的。puolue + ellinen とする2分割が自然。",
+    "suggestion": "parts を [puolue, ellinen] の2パートに再構成し、ellinen を suffix として -llinen と同等に扱う"
+  },
+  {
+    "word": "puutalollinen",
+    "category": "wrong_boundary",
+    "field": "parts[2] and parts[3]",
+    "issue": "芬兰语中 -llinen 通常被视为一个整体后缀（来自 -lla/llä + -inen）,将 ll 单独切出作为连接词素在语言学上有争议。",
+    "suggestion": "考虑将 parts[2] 和 parts[3] 合并为单一后缀 -llinen,标注为 suffix,同样适用于 vastuullinen。"
+  },
+  {
+    "word": "vastuullinen",
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "与 puutalollinen 相同,-ll- 单独作为连接词素的切分有争议,-llinen 更自然地作为整体后缀处理。",
+    "suggestion": "考虑将 parts[1] 和 parts[2] 合并为单一后缀 -llinen。"
+  },
+  {
+    "word": "päivittäisyys",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "将 ttäi 作为一个词素单独切分,其中 -i- 实际上是 -inen 后缀在 -yys 名词化前的变体（inen → is）,更合理的切分应为 päivi + ttä + inen + syys,或将 inen 的变体形式 is 并入 syys 之前单独标注。",
+    "suggestion": "考虑切分为 päivi（root）+ ttä（suffix）+ inen（suffix,变为 is）+ syys（suffix）,或 päivi + ttäinen + syys,与 päivittäinen 的词素结构对齐。"
+  },
+  {
+    "word": "ruotsalaisuus",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "词根切分为 ruots + alainen,但与 suomalaisuus 的切分方式不一致（后者为 suomi + lainen + uus）。芬兰语后缀为 -lainen,词干 ruotsa- 来自 ruotsi 的词干变化,应切为 ruotsa + lainen + uus,或与 suomalaisuus 保持一致的方式处理。",
+    "suggestion": "考虑统一切分为 ruotsa + lainen + uus,或重新检视 suomalaisuus 的切分方式,保持两词条一致。"
+  },
+  {
+    "word": "kielellinen",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "将 -ell- 单独切出作为「词干扩展」连接成分,但在芬兰语中 -llinen 是一个完整的形容词后缀（-l- 为双写辅音的一部分）,与 -inen 并非同一后缀。正确分析应为 kiel + i + llinen,或视 -llinen 为单一后缀。",
+    "suggestion": "考虑切分为 kieli（词根）+ llinen（后缀,表示「具有…性质的」）,或保留三分切法但修正 ell 的类型与说明。"
+  },
+  {
+    "word": "osattomuus",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "将 -tt- 单独切分为一个语素是错误的。-tt- 是私夺后缀 -ton 在辅音级变后的形式,应与 -on 一起构成完整语素 -ton;而 omuus 并非真实后缀,-o- 是 -ton 词干的词干元音,-uus 才是抽象名词后缀。正确切分应为 osa + ttomuus(即 -ton + -uus 融合形式)或 osa + tt(on) + uus。",
+    "suggestion": "建议切分为:osa(部分) + ttomuus(-ton/-uus 融合后缀,无...性) — 或由人工决定是否进一步拆为 osa + tt[on] + uus 三部分。"
+  },
+  {
+    "word": "tunnollisuus",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "-oll- 并非独立的连接成分,而是后缀 -llinen 的一部分(-ll- 扩展 + -inen)。将其切为 tunn + oll + isuus 掩盖了真实的形态结构:tunnollinen = tunn + ollinen,tunnollisuus = tunnollinen 的名词化形式。",
+    "suggestion": "建议切分为:tunn(感受) + ollinen(-llinen 形容词后缀) + uus(-uus 抽象名词后缀),或 tunn + ollisuus(整体名词化后缀)。"
+  },
+  {
+    "word": "tunnollinen",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "-oll- 并非独立的连接成分,而是形容词后缀 -llinen 的组成部分。tunnollinen 的结构应为 tunn + ollinen,其中 -ollinen 是 -llinen 加上词干元音 -o- 的形式。",
+    "suggestion": "建议切分为:tunn(感受) + ollinen(-llinen 形容词后缀,具有...性质的)两部分。"
+  }
+]

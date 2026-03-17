@@ -1,0 +1,72 @@
+[
+  {
+    "word": "найти",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "йти ist keine eigenständige Stammform; der Wortstamm ist ид- (ити), das й entsteht lautlich nach dem Präfix на-. Eine sinnvollere Zerlegung wäre на- + ити (mit Hinweis auf den Stamm ид-).",
+    "suggestion": "parts: [{targetLang: 'на', homeLang: '(perf)'}, {targetLang: 'ити', homeLang: 'geh'}, {targetLang: 'ть', homeLang: '(Verb)'}] — oder auf Zerlegung verzichten, da die Lautform irreführend ist."
+  },
+  {
+    "word": "забыть",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "забыть ist etymologisch за- + быть, aber der Zusammenhang mit 'sein' ist im modernen Russisch nicht mehr transparent. Der Stamm быть trägt hier keine direkte semantische Last.",
+    "suggestion": "Prüfen ob der Eintrag als einfaches Verb ohne Zerlegung besser wäre, oder ob der etymologische Hinweis im homeLangDetails ausreicht."
+  },
+  {
+    "word": "подождать",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The root is ждать; the split под/ождать leaves an orphan initial о. подождать derives from по + ждать (delimitative по-, not под-), so the prefix is по- and the root is ждать.",
+    "suggestion": "Split as по (ein wenig) + ждать (warten), then split ждать into жд + ать"
+  },
+  {
+    "word": "надеяться",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "надеяться is fully lexicalized; the segmentation над + ея is not recoverable modern morphology and the prefix над- does not contribute its usual spatial meaning here.",
+    "suggestion": "Treat надея- as a single opaque root or flag the whole entry for redesign"
+  },
+  {
+    "word": "обещать",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "обещать leitet sich wahrscheinlich von вещать (verkünden, proklamieren) ab, sodass die Wurzel -вещ- lautet und об- ein Präfix ist. Die aktuelle Schreibweise ещ trennt die Wurzel falsch ab.",
+    "suggestion": "Aufteilen in об- + вещ + -ать, wobei вещ mit 'verkünden' glossiert wird."
+  },
+  {
+    "word": "обещать",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "обещать ist weitgehend lexikalisiert; die Verbindung zwischen об- und der Wurzel вещ- ist für moderne Sprecher nicht mehr transparent, und die Bedeutung 'versprechen' ergibt sich nicht direkt aus den Teilen.",
+    "suggestion": "Prüfen, ob der Eintrag als einheitliches Morphem behandelt oder mit einem erklärenden Hinweis versehen werden soll."
+  },
+  {
+    "word": "обедать",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "обедать (zu Mittag essen) ist von обед (Mittagessen) abgeleitet, nicht von об- + ед- als produktiver Präfixbildung. Das Präfix об- hat hier keine direktionale oder semantische Transparenz für moderne Sprecher.",
+    "suggestion": "Entweder als обед (Wurzel) + -ать (Verbsuffix) aufteilen oder als eingefrorene Form kennzeichnen."
+  },
+  {
+    "word": "провести",
+    "category": "frozen_compound",
+    "field": "translationShort",
+    "issue": "провести имеет mehrere stark lexikalisierte Bedeutungen (Zeit verbringen, durchführen, leiten), die kaum direkt aus про- + вести ableitbar sind.",
+    "suggestion": "Möglicherweise als zwei separate Einträge oder mit einem Hinweis auf die Polysemie behandeln."
+  },
+  {
+    "word": "провести",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "Die Übersetzung 'verbringen / durchführen' enthält einen Schrägstrich (zwei Alternativen). Eine kanonische Übersetzung auswählen.",
+    "suggestion": "verbringen oder durchführen — je nach Schwerpunkt des Eintrags"
+  },
+  {
+    "word": "встретить",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "встрет- ist ein lexikalisierter Stamm; в- ist nicht mehr als eigenständiges Richtungspräfix analysierbar — die Grenze в + стрет ist etymologisch, aber synchron kaum motiviert.",
+    "suggestion": "Erwägen, встрет- als einheitlichen Stamm zu behandeln und frozen_compound zu setzen, oder die aktuelle Aufteilung mit entsprechendem Hinweis beizubehalten."
+  }
+]

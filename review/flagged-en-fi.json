@@ -1,986 +1,1591 @@
 [
   {
-    "word": "injection",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation uses plural 'injektioita' (injections) when the English singular 'an injection' should be singular 'injektio'. The sentence structure also sounds awkward; 'antoi minulle injektioita' suggests multiple injections were given.",
-    "suggestion": "Change to: 'Sairaanhoitaja antoi minulle injektioita kivun lievittämiseksi.' should be 'Sairaanhoitaja antoi minulle injektion kivun lievittämiseksi.'",
-    "source_file": "en-fi.json"
-  },
-  {
     "word": "projection",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'ensi vuosineljänneksellä' (next quarter) is grammatically awkward and unnatural. The correct form should be 'seuraavalla vuosineljänneksellä' or more naturally 'ensi neljänneksellä'.",
-    "suggestion": "Change to: 'Myyntiennuste osoittaa vahvaa kasvua ensi neljänneksellä.' or 'Myyntiennuste osoittaa vahvaa kasvua seuraavalla vuosineljänneksellä.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'. It is a derivational morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "objection",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Hän esitti vastalauseen ehdotusta vastaan kokouksessa' is awkwardly constructed. The word order and case usage are unnatural. More natural would be 'Hän esitti vastalauseen ehdotusta vastaan kokouksessa' should be restructured.",
-    "suggestion": "Change to: 'Hän esitti vastalauseen ehdotusta vastaan kokouksessa.' or better: 'Hän teki vastalauseen ehdotusta vastaan kokouksessa.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix ob- should be type 'prefix', not 'root'. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root ject should be type 'root', but given it is the meaning-bearing element of the word, this is acceptable. However, -ion (parts[2]) should be 'suffix', not 'root'.",
+    "suggestion": "suffix for parts[2]"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix contra- should be type 'prefix', not 'root'. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'.",
+    "suggestion": "suffix"
   },
   {
     "word": "jurisdiction",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The morpheme 'dict' does not mean 'määrätä' (to decree/dictate). In 'jurisdiction', 'dict' comes from Latin 'dicere' (to say/speak), not from a root meaning 'to decree'. The '-dict-' in jurisdiction relates to 'diction' (speaking), combined with 'jur-' (law/right) to mean 'right to speak/judge', not 'right to dictate'.",
-    "suggestion": "Change homeLang to 'sanoa' (to say) or 'puhua' (to speak), or provide more accurate explanation of how 'dict' relates to judicial authority",
-    "source_file": "en-fi.json"
+    "issue": "The gloss 'määrätä' (to order/determine) is not the standard meaning of -dict-. According to the glossary, -dict- means 'sanoa' (to say/speak). In 'jurisdiction', the sense is 'to speak' or 'to say law', not 'to determine'.",
+    "suggestion": "sanoa"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root dict should remain 'root', but -ion (parts[2]) should be type 'suffix', not 'root'.",
+    "suggestion": "suffix for parts[2]"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is a derivational suffix, not a root. It converts verbs to nominalizations.",
+    "suggestion": "suffix"
   },
   {
     "word": "deportation",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation states 'Alaspäin, pois päältä tai toiminnan kumoaminen' but 'de-' in 'deportation' specifically means 'away from' or 'out of', not generally 'alas/down'. In deportation, the meaning is 'to carry away/out', not 'to negate' the base meaning.",
-    "suggestion": "Revise to clarify that 'de-' here means 'away from' or 'out of' specifically, as in 'carrying away from' rather than a negation prefix",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
   },
   {
-    "word": "retrospective",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "\"taantuva katsaus\" is inaccurate. \"Taantuva\" means \"regressive\" or \"declining,\" which misrepresents the word. The word means a retrospective view or survey of past events, not something regressive.",
-    "suggestion": "Change to \"retrospektiivinen katsaus\" or \"menneisyyteen katsaus\" or simply \"retrospektiivi\"",
-    "source_file": "en-fi.json"
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "'-ion' is a suffix forming nouns from verb roots, not a root itself",
+    "suggestion": "suffix"
   },
   {
     "word": "inspection",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang for \"in\" is given as \"sisään/ei\" but in \"inspection,\" the \"in-\" prefix means \"into\" or \"on,\" not \"not.\" The dual glossing is confusing and the \"ei\" (not) sense doesn't apply here.",
-    "suggestion": "Change to \"sisään\" or \"päälle\" (into/upon), or clarify that only the \"sisään\" sense applies in this context",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix forming nouns from verb roots, not a root itself",
+    "suggestion": "suffix"
   },
   {
-    "word": "description",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'de-' in 'description' does not mean 'alas/purkaminen' (down/dismantling). In 'description', 'de-' is simply part of the Latin prefix 'de-' which here means 'thoroughly' or 'completely', not reversal. The word means 'to write out/describe', not 'to dismantle writing'. The homeLang gloss is misleading.",
-    "suggestion": "Change homeLang to reflect the actual meaning: 'täydellisesti/läpi' (thoroughly/completely) or simply note that 'de-' here functions as an intensifier rather than a reversal prefix.",
-    "source_file": "en-fi.json"
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'retro' is a prefix (retro-, backward/back), not a root",
+    "suggestion": "prefix"
   },
   {
-    "word": "description",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'Hänen kuvansa tapahtumasta oli erittäin yksityiskohtainen' is grammatically awkward. 'Hänen kuvansa' (her picture/image) is not the correct term here; it should be 'Hänen kuvauksensa' (her description) to match 'description' in English.",
-    "suggestion": "Change to: 'Hänen kuvauksensa tapahtumasta oli erittäin yksityiskohtainen.'",
-    "source_file": "en-fi.json"
+    "word": "prescription",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'scrip' is a root from Latin scribere (to write), correct type is 'root' but verify the gloss 'kirjoittaa' (write) is appropriate here in the sense of 'prescribed writing'",
+    "suggestion": "root"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. The -ion element is a derivational suffix forming nouns from verbs, not an independent root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. The -ion element is a derivational suffix forming nouns from verbs, not an independent root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. The -ion element is a derivational suffix forming nouns from verbs, not an independent root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss for 'press' is 'painaa' (to press/push), but the glossary entry for 'press' is 'puristaa' (to press/squeeze). For consistency with other entries (expression, depression) using the same root, should use 'puristaa'.",
+    "suggestion": "puristaa"
   },
   {
     "word": "attraction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'pääasiallinen vetovoimaisuus matkailijoille' is awkward and unnatural. 'Vetovoimaisuus' is not a standard Finnish word. The noun form should be 'vetovoima' or the adjective 'vetävä'.",
-    "suggestion": "Should be: 'Teemapuisto on pääasiallinen vetovoimatekijä matkailijoille.' or 'Teemapuisto on suurin vetovoima matkailijoille.' or more naturally 'Teemapuisto on pääattraktion matkailijoille.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"at\" is a prefix (ad-/a- → to/toward in glossary), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (-tion/-sion → -tion in glossary), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (-tion/-sion → -tion in glossary), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (-tion/-sion → -tion in glossary), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "permission",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'miss' is glossed as 'lähettää' (send), but in 'permission' it derives from Latin 'mittere' (to send/let). While etymologically related, the gloss should reflect the 'allow/let' sense in the context of permission, not just the generic 'send'.",
-    "suggestion": "Should be: 'sallia/antaa lupa' or 'lähettää (antaa)' to capture both the etymological and functional meaning in this context",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (-tion/-sion → -tion in glossary), not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "commitment",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'mitt' is glossed as 'lähettää' (send), but in 'commitment' it comes from Latin 'mittere' (to send/put) via 'commit' which means 'to entrust' or 'to pledge'. The gloss 'lähettää' is misleading for understanding the actual meaning of commitment as a pledge or obligation, not sending.",
-    "suggestion": "Change homeLang to 'sitoa/antaa/uskoaa' (to bind/give/entrust) or add homeLangDetails explaining that 'mittere' in this context means 'to entrust/pledge' rather than the modern sense of 'send'",
-    "source_file": "en-fi.json"
+    "word": "transmission",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (-tion/-sion → -tion in glossary), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "reception",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation uses 'juhlat' (party/celebration) but earlier in translationShort/Long, 'reception' is glossed as 'vastaanottamisen toiminta' (act of receiving) and includes 'muodollinen tilaisuus' (formal occasion). The example should reflect the receiving aspect more clearly, not just the celebration aspect.",
-    "suggestion": "Consider 'Häiden vastaanottotilaisuus pidettiin paikallisessa hotellissa' or 'Häiden vastaanottoseremoniat pidettiin paikallisessa hotellissa' to better reflect the 'reception' meaning",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion should be marked as 'suffix', not 'root'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "reference",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 're' + 'fer' + 'ence', but 'ference' is itself a compound that could be further analyzed. More importantly, the suffix should be '-ence' (a noun-forming suffix), not treated as a separate morpheme in the same way as the prefix and root. The structure is: re- (prefix) + fer (root) + -ence (suffix).",
-    "suggestion": "Keep the split as is (re + fer + ence) since that's the most practical morphological division for a language learner, but clarify that '-ence' is a suffix, not a standalone morpheme with the gloss '-ence'.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence should be marked as 'suffix', not 'root'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "conference",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same issue as 'reference': '-ence' is glossed as '-ence' rather than being recognized as a noun-forming suffix. The morphological structure is con- (prefix) + fer (root) + -ence (suffix).",
-    "suggestion": "Clarify that '-ence' is a noun-forming suffix, not a morpheme with the gloss '-ence'.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is marked as 'root' but it is a suffix forming abstract nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "interference",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same issue: '-ence' is glossed as '-ence' rather than being properly identified as a noun-forming suffix.",
-    "suggestion": "Clarify that '-ence' is a noun-forming suffix.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is marked as 'root' but it is a suffix forming abstract nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "conversion",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'-sion' is glossed as '-tion', which is inconsistent. Also, '-sion' is a suffix (variant of '-tion'), not a standalone morpheme that should be glossed as '-tion'.",
-    "suggestion": "Either gloss the part as 'homeLang': '-sion' or 'homeLang': 'suffix that forms nouns'. The current gloss '-tion' is confusing since the actual suffix here is '-sion'.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'con' is marked as 'prefix' (correct), but 'ion' (-tion) should be 'suffix', not 'root'.",
+    "suggestion": "suffix for parts[2]"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a productive suffix forming abstract nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "introversion",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'-sion' is glossed as '-tion', which is inconsistent (same issue as 'conversion'). The suffix is '-sion', not '-tion'.",
-    "suggestion": "Either gloss the part as 'homeLang': '-sion' or 'homeLang': 'suffix that forms nouns'.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'intro' (intro-) is a prefix meaning 'inward', not a root. It should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a productive suffix forming abstract nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "subversion",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The homeLangDetails says 'Alla, alapuolella tai toissijainen' but 'sub' in 'subversion' means 'under' or 'secretly', not primarily 'secondary'. The meaning should emphasize the 'under/covert' sense rather than 'secondary'.",
-    "suggestion": "Change to emphasize 'under, beneath, secretly' as the core meaning, e.g., 'Alla, alle, tai salaa. Subway (rautatie alta), submarine (sukellusvene), substitute (korvaa)'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a productive suffix forming abstract nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'alas/pois' is misleading for a tile label. In modern English morphology, de- should be glossed as 'de-' or left as the prefix form, not translated to its Latin etymological meaning. The long homeLangDetails explanation belongs in reference material, not on a tile.",
+    "suggestion": "de-"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ence' is marked as 'root' but it is a derivational suffix that forms abstract nouns from verb roots. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'alas/pois' is misleading for a tile label. Same issue as dependence: de- should be glossed as 'de-', not its etymological translation.",
+    "suggestion": "de-"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ence' is marked as 'root' but it is a derivational suffix. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'alas/pois' is misleading for a tile label. de- should be glossed as 'de-', not its etymological translation.",
+    "suggestion": "de-"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ence' is marked as 'root' but it is a derivational suffix. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "occurrence",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 'oc-cur-rence' is incorrect. The correct morphological split is 'oc-curr-ence' or more accurately the root is 'cur' (to run) with prefix 'oc' (towards) and suffix '-ence'. However, 'oc' should be labeled more precisely as it combines with the root as 'occur'. The current split separates 'oc' and 'cur' but the actual root in 'occurrence' is 'curr' (the doubled consonant is part of the Latin stem occur-). A more accurate split would be 'oc-curr-ence'.",
-    "suggestion": "Change parts[1].targetLang from 'cur' to 'curr' to reflect the actual Latin root that appears in the English word",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'oc-' (variant of ob-) is marked as 'root' but it is a prefix. It should be 'prefix'.",
+    "suggestion": "prefix"
   },
   {
     "word": "occurrence",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'Maanjäristykset ovat yleisiä kyseisellä alueella' is awkward and doesn't parallel the English structure. It translates roughly to 'Earthquakes are common in that region' but uses 'yleisiä' (common/frequent) which doesn't capture 'occurrence' as well.",
-    "suggestion": "Change to 'Maanjäristysten esiintyminen on yleistä kyseisellä alueella' to better parallel the English and showcase 'esiintyminen'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'cur-' (from currere, to run) is correctly identified as root, but the suffix '-rence' in parts[2] is marked as 'root' when it should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-rence' is marked as 'root' but it is a derivational suffix forming abstract nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-rence' is marked as 'root' but it is a derivational suffix. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ent (forming adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (forming nouns from verbs) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "succession",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Kuninkailta peräkkäisyys kesti kolme vuosisataa' is grammatically awkward. 'Kuninkailta' (from kings, ablative) doesn't fit here; the noun should be in nominative case.",
-    "suggestion": "Should be: 'Kuninkaiden peräkkäisyys kesti kolme vuosisataa.' or more naturally 'Kuninkaiden sarja kesti kolme vuosisataa.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'suc' is a prefix (form of sub-), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'cess' (from Latin cedere, to go/yield) is a root but should verify against the actual structure. In succession, cess- is the root from which the suffix -ion is attached",
+    "suggestion": "root"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (forming nouns) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "unprecedented",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into 5 parts including separate 'ed' at the end, but the morphological structure is unclear. 'Precedent' should be analyzed as a unit (pre + ced + ent), and then 'ed' is added as a past participle/adjective suffix. The current split treats 'ent' and 'ed' separately in a confusing way.",
-    "suggestion": "Restructure as: un + precedent + ed, where precedent is further decomposed as pre + ced + ent, or simplify to: un + precedent + ed (3 parts) to avoid the redundant/confusing double suffix breakdown.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The morpheme -ent is a suffix (adjective-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "transformation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'poikki' (across/through) is not an accurate translation of Latin 'trans-'. While 'trans-' can mean 'across', the primary sense here is 'across/through to the other side' or 'change of state'. 'Poikki' alone suggests 'across' but misses the transformative sense.",
-    "suggestion": "Use 'yli' or 'läpi' (through/across) or better yet, acknowledge that 'trans-' in transformation means 'completely/through' in a way that implies change. Consider 'ylitse' or expand the homeLangDetails to clarify the transformative aspect.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (forming nouns from verbs) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "reformation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'Reformaatio' is an acceptable translation, but in the context of the historical Reformation, the Finnish term 'Uudistusliike' or simply 'Reformaatio' is used. However, the more natural and direct translation is 'uudistaminen' or 'reformi'. The given translation 'reformaatio' is acceptable but quite formal.",
-    "suggestion": "Keep 'reformaatio' as it is correct for the historical Reformation, but consider if a more general sense requires 'uudistaminen' instead.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "information",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'sisään' (into) for 'in-' in 'information' is misleading. In 'information', the prefix 'in-' does not mean 'into' in the sense of physical entry. Rather, 'information' comes from Latin 'informatio' where 'in-' means 'in' or 'towards', and 'form' gives the word its meaning: data shaped or formed. The morpheme boundary and meaning are not clearly explained.",
-    "suggestion": "Clarify that 'in-' in 'information' is etymological and means roughly 'forming within/into shape', not literally 'into'. Alternatively, note that 'information' is a frozen compound where the morphemic sense is obscured in modern English.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "interruption",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix is listed as 'ion' but it should be split as '-tion' to be consistent with the other entries (transformation, reformation, information, disruption). The '-tion' is a unit suffix forming nouns from verbs.",
-    "suggestion": "Change 'ion' to 'tion' and adjust homeLang from '-tion' to 'tion' to maintain consistency, or use '-tion' as a single suffix unit.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns (variant of -tion)",
+    "suggestion": "suffix"
   },
   {
     "word": "disruption",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix is listed as 'ion' but it should be split as '-tion' to be consistent with the other entries. The '-tion' is a unit suffix forming nouns from verbs.",
-    "suggestion": "Change 'ion' to 'tion' and adjust homeLang from '-tion' to maintain consistency with other similar words.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns (variant of -tion)",
+    "suggestion": "suffix"
   },
   {
     "word": "corruption",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'cor' is glossed as 'yhdessä/koossa' (together/in), but in 'corruption' it comes from Latin 'com-' (with/together). The gloss should reflect the Latin prefix meaning, not Finnish equivalents that may confuse the learner about the actual etymology.",
-    "suggestion": "Change 'yhdessä/koossa' to 'com-' (Latin prefix meaning 'with' or 'together'), or provide the Latin origin more clearly",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns (variant of -tion)",
+    "suggestion": "suffix"
   },
   {
     "word": "corruption",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The morpheme 'rupt' is glossed as 'rikkoa' (to break), but this is a Latin root 'ruptus' (broken). The Finnish gloss is a translation equivalent rather than an explanation of the morpheme's function or origin.",
-    "suggestion": "Clarify this is from Latin 'ruptus' (broken/ruptured), or keep 'rikkoa' but add context that it's the Latin root meaning",
-    "source_file": "en-fi.json"
+    "issue": "The homeLang gloss should match the canonical glossary which lists 'rupt' as 'katketa', not 'rikkoa'. Use the consistent canonical term",
+    "suggestion": "katketa"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang gloss should be '-tion' (per canonical glossary for -ion/-tion), not '-io'",
+    "suggestion": "-tion"
   },
   {
     "word": "autobiography",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLang",
-    "issue": "The morpheme 'graph' is glossed as '-graafi-', which is just the Finnish form of the same morpheme rather than a translation or explanation of its meaning. It should explain what 'graph' means (to write/writing).",
-    "suggestion": "Change to 'kirjoitus' or 'kirjoittaa' (writing/to write), or add 'Greek: graphia (writing)'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "bio- is a prefix in this word, not a root. The homeLang should follow the glossary convention for prefixes.",
+    "suggestion": "bio-"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '(substantiivin pääte)' is a long description, not a short label. Use the standard convention.",
+    "suggestion": "-y"
   },
   {
     "word": "biography",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'graph' is glossed as '-graafi-', which is just the Finnish form of the same morpheme rather than a translation or explanation of its meaning. It should explain what 'graph' means (to write/writing).",
-    "suggestion": "Change to 'kirjoitus' or 'kirjoittaa' (writing/to write), or add 'Greek: graphia (writing)'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "bio- is a prefix in this word, not a root. The homeLang should follow the glossary convention for prefixes.",
+    "suggestion": "bio-"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(substantiivin pääte)' is a long description, not a short label. Use the standard convention.",
+    "suggestion": "-y"
   },
   {
     "word": "photography",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'graph' is glossed as '-graafi-', which is just the Finnish form of the same morpheme rather than a translation or explanation of its meaning. It should explain what 'graph' means (to write/writing).",
-    "suggestion": "Change to 'kirjoitus' or 'kirjoittaa' (writing/to write), or add 'Greek: graphia (writing)'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo is a prefix/combining form in this word, not a root. It should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "graph is a root/combining form element in this word, but the correct type is 'root'. However, given that photo- is a combining form prefix, this should be marked as part of a combining root or linking element. The split is correct but the type for graph should reflect it's a combining root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(substantiivin pääte)' is a long description, not a short label. Use the standard convention.",
+    "suggestion": "-y"
   },
   {
     "word": "symphony",
-    "category": "wrong_translation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym- is a prefix (a combining form meaning 'together'), not a root. It should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(substantiivin pääte)' is a long description, not a short label. Use the standard convention.",
+    "suggestion": "-y"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The morpheme 'phon' is glossed as '-ääni', which is just the Finnish form of the same morpheme rather than a translation or explanation of its meaning. It should explain what 'phon' means (sound/voice).",
-    "suggestion": "Change to 'ääni' or 'äänen' (sound/voice), making clear this is the Greek root for sound",
-    "source_file": "en-fi.json"
+    "issue": "phone in this word is a combining root/suffix form, not a simple root. According to the glossary, phone should be glossed as '-phone' (a combining form suffix).",
+    "suggestion": "-phone"
   },
   {
     "word": "microphone",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Laulaja puhu mikrofoniin' is grammatically incorrect. The past tense form should be 'puhui' (3rd person singular), not 'puhu'.",
-    "suggestion": "Change to: 'Laulaja puhui mikrofoniin.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should be 'micro-' (prefix marker) to match glossary convention, not 'pieni' (the meaning). Tile labels should use the glossary form.",
+    "suggestion": "micro-"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "phone is a suffix/combining form in this compound, not a root. In 'microphone', 'phone' derives from Greek -phōnē and functions as a combining root element in the compound, but morphologically it's bound and acts more like a suffix position.",
+    "suggestion": "root (phone is a bound root in compounds; keep as is)"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' is a linking vowel (Greek thematic vowel), not a root. It has no independent meaning and exists solely to connect morphemes.",
+    "suggestion": "linking"
   },
   {
     "word": "synchronize",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish example 'Synkronoidaan kellomme ennen lähtöä' uses the 1st person plural form, but the English example uses imperative 'Let's synchronize'. While the meaning is similar, the tense/mood should match more closely for consistency. The imperative would be more natural: 'Synkronoidaan kellomme ennen lähtöä' is actually acceptable as hortative, but could be clearer as imperative.",
-    "suggestion": "Consider: 'Synkronoi kellosi ennen lähtöä.' for a direct imperative match, or keep current if hortative is preferred.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'syn' is a prefix meaning 'together', not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'chron' (time) is the semantic root of this word, but it should be marked as 'root'. However, in the context of 'synchronize', chron is bound. The entry is correct as root since it carries primary meaning.",
+    "suggestion": "root (unchanged)"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'ana' is a prefix meaning 'back/against', not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
   },
   {
     "word": "psychology",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'psych' is glossed as 'mieli' (mind), but the Greek root 'psyche' (ψυχή) refers more fundamentally to 'soul' or 'spirit' in classical Greek. While 'mieli' (mind) is a reasonable translation for the modern concept, it may be worth noting the historical distinction.",
-    "suggestion": "Consider glossing as 'sielu/mieli' or adding homeLangDetails to clarify that 'psyche' originally meant 'soul' but is used for 'mind' in modern psychology.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' is a linking vowel (Greek thematic vowel), not a root. It serves as a connector between morphemes with no independent meaning.",
+    "suggestion": "linking"
+  },
+  {
+    "word": "anthropology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' is a linking vowel (vowel harmony element), not a root. It has no independent meaning and only serves to connect morphemes smoothly.",
+    "suggestion": "Change morphemeType from 'root' to 'linking'"
+  },
+  {
+    "word": "dermatology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' is a linking vowel (vowel harmony element), not a root. It has no independent meaning and only serves to connect morphemes smoothly.",
+    "suggestion": "Change morphemeType from 'root' to 'linking'"
   },
   {
     "word": "sympathy",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'myötätunto, ymmärtämys' is somewhat awkward. 'Myötätunto' is correct, but 'ymmärtämys' (understanding) is not a natural gloss for sympathy in Finnish. The short translation should be more concise and natural.",
-    "suggestion": "Change translationShort to 'myötätunto' or 'myötäntunto' alone, which is the standard Finnish word for sympathy.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'sym' is a prefix meaning 'together/with', not a root. It is a bound morpheme that cannot stand alone.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-pathy' is a suffix (element combining meaning 'feeling/suffering'), not a root. It cannot stand alone and must follow a prefix or root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "empathy",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'empaattinen ymmärrys' translates literally as 'empathetic understanding' rather than 'empathy'. The short translation should be the noun itself, not an adjectival phrase.",
-    "suggestion": "Change translationShort to 'empatia' (the Finnish word for empathy).",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'em' is a prefix (variant of 'en-' meaning 'in/into'), not a root. It is a bound morpheme that cannot stand alone.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
-    "word": "antipathy",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Hänellä oli vastenmielisyys modernista taiteesta' uses the wrong case. After 'vastenmielisyys', the object should be in the elative case (modernista taiteesta is correct), but the phrasing is awkward. More natural would be 'Hänellä oli vastenmielisyys moderniin taiteeseen' or 'Hän tunsi vastenmielisyyttä modernista taiteesta.'",
-    "suggestion": "Change to: 'Hänellä oli vastenmielisyys moderniin taiteeseen.' or 'Hän tunsi vastenmielisyyttä modernista taiteesta.'",
-    "source_file": "en-fi.json"
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-pathy' is a suffix (element combining meaning 'feeling/suffering'), not a root. It cannot stand alone and must follow a prefix or root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "meta is a prefix (pre-), not a root. It's a bound morpheme that must attach to morph-.",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "morph is a root/combining form, but in this analysis it's paired with a linking vowel and suffix. The combining form morph- itself is the root.",
+    "suggestion": "Keep as 'root' (correct as-is)"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The 'o' linking vowel should be labeled 'linking', not 'root'. It has no semantic content and exists only to smooth Greek morpheme combination.",
+    "suggestion": "Change to 'linking'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "sis is a suffix forming abstract nouns from verbal roots (state/condition), not a root.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'muutos, yli' is too long for a tile label and mixes two senses. For this word's context, 'meta-' (beyond/across) is most appropriate, though 'muutos' also works. The label should be brief.",
+    "suggestion": "Shorten to 'meta-' or 'muutos' alone"
   },
   {
     "word": "amorphous",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-ous' is incomplete without homeLangDetails. While the other entries provide context, this one lacks explanation of what '-ous' means in Finnish context (e.g., '-inen' or '-mainen')",
-    "suggestion": "Add homeLangDetails for '-ous' explaining it means '-inen' or '-mainen' in Finnish, making adjectives from nouns",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "uncomfortable",
-    "category": "incomplete_split",
-    "field": "parts[1] and parts[2]",
-    "issue": "Missing homeLangDetails for 'comfort' and 'able'. Other entries provide detailed explanations; these are incomplete.",
-    "suggestion": "Add homeLangDetails explaining 'comfort' means 'mukavuus' and '-able' is an adjective-forming suffix meaning '-va' or '-va, -va' in Finnish",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "unbelievable",
-    "category": "incomplete_split",
-    "field": "parts[1] and parts[2]",
-    "issue": "Missing homeLangDetails for 'believe' and 'able'. Other entries provide detailed explanations; these are incomplete.",
-    "suggestion": "Add homeLangDetails explaining 'believe' means 'uskoa' and '-able' is an adjective-forming suffix meaning '-va' in Finnish",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang field for 'ous' is empty. According to the glossary, -ous should be glossed as '-ous'.",
+    "suggestion": "Add '-ous'"
   },
   {
     "word": "misunderstanding",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Kokouksesta oli väärinymmärrys ajan suhteen' is awkward. The preposition construction is unnatural.",
-    "suggestion": "Change to 'Kokouksen ajasta oli väärinymmärrys' or 'Kokousta koskenut väärinymmärrys koski aikaa'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is labeled as 'root' but it is a derivational suffix forming a gerund/noun from the verb 'misunderstand'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "misrepresentation",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Artikkeli sisälsi tosiasioiden väärää esittämistä' is awkward and unnatural. The structure doesn't flow well in Finnish.",
-    "suggestion": "Change to 'Artikkeli sisälsi tosiasioiden väärää esitystä' or 'Artikkeli esitti tosiasiat väärin'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ation suffix is labeled as 'root' but it is a derivational suffix forming a noun from the verb 'misrepresent'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "underestimate",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation is incomplete and grammatically incorrect. \"Älä aliarvio hänen kykyä\" is missing the verb form and has incorrect grammar.",
-    "suggestion": "Should be: \"Älä aliarvio hänen kykyään ratkaista monimutkaisia ongelmia.\" or \"Älä aliarvio hänen kykyä ratkaista monimutkaisia ongelmia.\"",
-    "source_file": "en-fi.json"
+    "word": "overwhelming",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is labeled as 'root' but it is a derivational suffix forming an adjective/gerund from the verb 'overwhelm'.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang value 'whelm' is a standalone root word, not a glossed morpheme. Should follow the convention of providing a short Finnish gloss or descriptive label appropriate for a tile.",
+    "suggestion": "Consider a brief gloss like 'upottaa' or leave the homeLangDetails as explanation while shortening the homeLang field itself to match other entries"
+  },
+  {
+    "word": "overestimation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' (which forms nouns from verbs) is marked as 'root', but it should be marked as 'suffix'",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "multicultural",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation has a grammatical error. \"monikulttuuri väestöstään\" should use genitive case properly.",
-    "suggestion": "Should be: \"Kaupunkimme tunnetaan sen monikulttuuri väestöstä.\" or better \"...monikulttuurisesta väestöstä.\"",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'cultural' is just 'cultural' (the English word), but it should be the Finnish gloss. 'Cultural' is a derived adjective from 'culture' with -al suffix, not a simple root. The gloss should reflect its meaning in Finnish or indicate its morphological structure.",
+    "suggestion": "kulttuuri + -inen (or similar Finnish-based gloss)"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'continental' is just 'continental' (the English word), but it should be the Finnish gloss. Similar to 'cultural', this is a derived adjective and needs a Finnish translation or structural indication.",
+    "suggestion": "manner + -inen (or similar Finnish-based gloss)"
   },
   {
     "word": "interchangeable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation is unclear and slightly awkward. It says the parts can be exchanged \"without affecting the device's operation\" but the original English sentence doesn't mention a device.",
-    "suggestion": "Should be: \"Nämä kaksi osaa ovat vaihdettavissa keskenään ja niitä voidaan käyttää kummassakaan asennossa.\" to match the original meaning more closely.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'change' is just 'change' (the English word), not a Finnish gloss. Should provide the actual Finnish meaning.",
+    "suggestion": "vaihtaa (or muutos)"
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'organize' is 'järjestää' (Finnish), which is correct, but according to the canonical glossary, 'organize' should be glossed as 'organisoida' to match the entry 'organ → organisoida' in the glossary.",
+    "suggestion": "organisoida"
   },
   {
     "word": "modernization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as modern + -ize + -tion, but 'modern' is an adjective and the suffix chain should reflect that -ize converts it to a verb (modernize) before -tion nominalizes it. The morpheme boundary is correct, but the homeLang for 'ize' is incomplete: it should clarify that -ize converts adjectives/nouns to verbs.",
-    "suggestion": "Add homeLangDetails to the 'ize' part explaining it converts adjectives to verbs (modernize = to make modern), similar to how it's explained in encouragement.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a derivational suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The first part is split as 'industrial' (adjective) but should be split as 'industri' + 'al' to show the morpheme structure more clearly, or the homeLang should reflect that 'industrial' is itself a compound/derived form.",
-    "suggestion": "Either split as 'industri' + 'al' + 'ize' + 'tion', or add homeLangDetails to clarify that 'industrial' is teollinen (the adjective form of industry).",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "disagreement",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'agree' is given as 'sopia', but in the context of disagreement, 'agree' means 'olla samaa mieltä' or 'sopia yhteen', not simply 'sopia' (which means to suit/fit or to make an agreement). The translation should better reflect the sense of 'being in agreement'.",
-    "suggestion": "Change homeLang for 'agree' to 'olla samaa mieltä' or 'sopia yhteen' to better capture the meaning in this context.",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'appoint' should be further split into 'ad' + 'point' to show the actual morphological structure. 'Appoint' is itself a compound morpheme.",
-    "suggestion": "Split into three morphemes: dis- + ap- + point, or at minimum acknowledge that 'appoint' contains 'ad' (to) + 'point' (from Old French pointe)",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "acknowledgment",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "The morpheme 'acknowledge' should be further split. 'Acknowledge' contains 'ac-' (to) + 'knowledge', and 'knowledge' itself can be analyzed as know + -ledge.",
-    "suggestion": "Split 'acknowledge' into ac- + knowledge, or provide more complete morphological breakdown",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "courageous",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "The morpheme 'courage' should potentially be split further. 'Courage' comes from Old French 'corage' and contains elements from Latin cor (heart), but the current breakdown treats it as a single morpheme without acknowledging this etymology.",
-    "suggestion": "Either keep 'courage' as unsplittable (reasonable since it's now fully lexicalized), or add etymological detail in homeLangDetails explaining the Latin cor origin",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "advantageous",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation 'edullinen' in Finnish primarily means 'cheap' or 'inexpensive' (price-related advantage), but 'advantageous' has a broader meaning of providing any kind of advantage or benefit, not just financial advantage.",
-    "suggestion": "Use 'eduksi' or 'hyödyllinen' or 'suotuisa' instead, or revise to 'jonka avulla saa etua tai hyötyä, edullinen' to capture the broader sense",
-    "source_file": "en-fi.json"
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "extraordinary",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'yli, ulkopuolella' (over, outside) is misleading. The prefix 'extra-' in 'extraordinary' comes from Latin 'extra' meaning 'outside/beyond', but in this context it means 'beyond the ordinary' rather than literally 'outside'. The modern English reading should reflect 'beyond' or 'exceeding' rather than spatial 'outside'.",
-    "suggestion": "Change to 'yli, poikkeuksellisesti, poikkeavasti' or simply 'ulko-, ulkopuolella' with a note that it means 'beyond ordinary'",
-    "source_file": "en-fi.json"
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split into two roots (extra + ordinary), but 'extra-' is a prefix here, not a standalone root. The correct split should be 'extra-' (prefix) + 'ordinary' (root).",
+    "suggestion": "Split as prefix 'extra-' and root 'ordinary'"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] 'extra' is marked as 'root' but should be 'prefix' since it is a bound morpheme that precedes and modifies the root 'ordinary'.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "remarkable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Urheilija palautui vammoista huomioarvoisella tavalla' is awkward. A more natural translation would avoid the awkward 'huomioarvoisella tavalla' construction.",
-    "suggestion": "Change to 'Urheilija toipui vammoista merkittävällä tavalla' or 'Urheilija palautui vammoista poikkeuksellisen nopeasti'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-va, -vaa' is too long for a tile label and uses nonstandard notation. Should follow the canonical glossary format.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "predictable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-va, -vaa' is too long for a tile label and uses nonstandard notation. Should follow the canonical glossary format.",
+    "suggestion": "-able"
   },
   {
     "word": "adjustable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Tuoli on säädettävän korkeuden omaava' is overly complex and unnatural. A simpler construction is more idiomatic.",
-    "suggestion": "Change to 'Tuolin korkeutta voi säätää' or 'Tuoli on säädettävä korkeudelleen'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-va, -vaa' is too long for a tile label and uses nonstandard notation. Should follow the canonical glossary format.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "expandable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-va, -vaa' is too long for a tile label and uses nonstandard notation. Should follow the canonical glossary format.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'ei-, -ton' mixes prefix and suffix forms and is inconsistent with the canonical glossary entry for 'un' which maps to 'un-/ei'.",
+    "suggestion": "un-"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ys' does not match the canonical glossary entry for '-ness' which is '-ness'. Tile labels should be concise and consistent with the glossary.",
+    "suggestion": "-ness"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'ir-' is a variant of 'in-' (meaning negation/not), not 'ei-, -ton'. The gloss conflates prefix and suffix forms.",
+    "suggestion": "ei-"
+  },
+  {
+    "word": "incomprehensibility",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' should be glossed as 'ei-' (negation), not 'ei-, -ton'. The '-ton' is a suffix form and doesn't belong in a prefix gloss.",
+    "suggestion": "ei-"
   },
   {
     "word": "compartmentalize",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as compartment + al + ize, but 'compartment' itself is a compound (com + partment) that could be further analyzed. More importantly, the intermediate step 'compartmental' (adjective) is skipped in the morphological analysis.",
-    "suggestion": "Consider whether to show the full derivation: compartment → compartmental (adjective) → compartmentalize (verb), or clarify that this entry focuses on the suffix layers rather than the root compound.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-al' forms adjectives meaning 'relating to' or 'of the nature of', not simply '-inen'. In this word, 'compartmental' means 'relating to compartments'. The gloss should reflect the adjectival meaning.",
+    "suggestion": "-al"
   },
   {
     "word": "compartmentalize",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The example 'ymmärtää' (to understand) is not a verb formed with -ida from an adjective; it's an independent verb. This contradicts the explanation that -ida forms verbs from adjectives.",
-    "suggestion": "Replace 'ymmärtää' with a correct example like 'modernisida' (from moderni) or 'organisida' (from organismi/organi).",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ize' is standardly glossed as '-ize' in English morphology, not '-ida'. While '-ida' may be a rough Finnish equivalent, the canonical glossary entry for 'ize' is '-ize'.",
+    "suggestion": "-ize"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' should be glossed as 'ei-' (negation), not 'ei-, -ton'. The '-ton' is a suffix form and doesn't belong in a prefix gloss.",
+    "suggestion": "ei-"
   },
   {
     "word": "carefully",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The Finnish translation 'huolimielisyys' is overly complex and not a standard morpheme translation. For the root 'care', a simpler gloss like 'huoli' (care/concern) would be more appropriate and clearer for learners.",
-    "suggestion": "Change 'huolimielisyys' to 'huoli' to represent the core meaning of the root morpheme 'care'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' meaning 'full of' or 'characterized by' should be glossed as '-ful' following the canonical glossary, not '-inen'. While the homeLangDetails explanation is reasonable, the tile label should match the glossary standard.",
+    "suggestion": "-ful"
   },
   {
     "word": "carelessly",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The Finnish translation 'huolimielisyys' is overly complex and not a standard morpheme translation. For the root 'care', a simpler gloss like 'huoli' (care/concern) would be more appropriate and clearer for learners.",
-    "suggestion": "Change 'huolimielisyys' to 'huoli' to represent the core meaning of the root morpheme 'care'",
-    "source_file": "en-fi.json"
+    "issue": "The gloss 'huolimielisyys' (carefulness) is the opposite of what 'care' means in this word context. In 'carelessly', 'care' means concern/attention, and the word means lack of concern. The gloss should reflect the root meaning, not its negation.",
+    "suggestion": "huoli or huolimielisyys should be simplified to reflect the base meaning in the word's actual sense; alternatively use '(care)' as a short label"
   },
   {
     "word": "carelessness",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The Finnish translation 'huolimielisyys' is overly complex and not a standard morpheme translation. For the root 'care', a simpler gloss like 'huoli' (care/concern) would be more appropriate and clearer for learners.",
-    "suggestion": "Change 'huolimielisyys' to 'huoli' to represent the core meaning of the root morpheme 'care'",
-    "source_file": "en-fi.json"
+    "issue": "Same issue as carelessly: 'huolimielisyys' (carefulness) contradicts the word's meaning. The root 'care' here means concern/attentiveness, not 'carefulness' as a positive trait.",
+    "suggestion": "huoli or a short label like '(care)'"
   },
   {
-    "word": "helplessly",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Hän katsoi avuttomasti kun onnettomuus tapahtui' uses the past tense 'tapahtui' which suggests the accident had already happened, making the grammar awkward. The English uses simple past for both verbs, but the Finnish creates a temporal mismatch.",
-    "suggestion": "Change to 'Hän katsoi avuttomasti kun onnettomuus tapahtui.' or better yet: 'Hän katsoi avuttomasti tapahtuvan onnettomuuden.' (watching an unfolding accident) or 'Hän katsoi avuttomasti kun onnettomuus oli tapahtumassa.'",
-    "source_file": "en-fi.json"
+    "word": "helpfully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-inen' is too vague and long for a tile label. The '-ful' suffix here creates an adjective meaning 'full of' or 'characterized by'. The glossary entry shows '-ful' should be kept as '-ful', not mapped to '-inen'.",
+    "suggestion": "-ful"
   },
   {
     "word": "helplessness",
     "category": "wrong_translation",
     "field": "translationLong",
-    "issue": "The word 'kunti' appears to be a typo or misspelling. It should be 'kunto' (condition) or the phrase should be rephrased.",
-    "suggestion": "Change 'kunti' to 'kunto' or rephrase as 'avuttoman olemisen tila; kyvyttömyys auttaa itseään'",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "hopelessly",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Tilanne näytti epätoivoisesti ankeilta' is ungrammatical. The word 'ankeilta' doesn't exist in Finnish; it should be 'ankeilta' is not a valid form. The phrase should use 'ankea' (dire/grave) in the correct form.",
-    "suggestion": "Change to 'Tilanne näytti epätoivoisesti ankealta' or 'Tilanne vaikutti epätoivoisesti ankeilta'",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "thankfully",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thank' is glossed as 'kiitos' (thanks/gratitude noun), but 'thank' is a verb. The correspondence is imperfect because 'thankfully' doesn't derive from a gratitude-expressing action in the same way the Finnish counterpart does.",
-    "suggestion": "Consider clarifying that 'thank' here relates to expressing gratitude, or note the semantic drift in formation between English and Finnish",
-    "source_file": "en-fi.json"
+    "issue": "The phrase 'kunti' appears to be a typo (possibly meant to be 'kunto' or 'kunna'), and the overall phrasing is awkward. It should be clearer and more grammatical.",
+    "suggestion": "avuttoman olemisen tila tai ominaisuus; kyvyttömyys auttaa itseään"
   },
   {
     "word": "thankfulness",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The homeLangDetails for '-ful' incorrectly maps it to '-inus/-ous' which are Latin suffixes. The '-ful' suffix in English means 'full of' and should be compared to '-inen' (meaning 'having the quality of'), but the examples given (kaunis, varovainen, voimakas) don't all follow the '-inen' pattern consistently or clearly demonstrate the parallel.",
-    "suggestion": "Clarify that '-ful' means 'full of' or 'characterized by' and maps to '-inen' (adjective-forming suffix). Example: 'kiitollinen' (thankful) = kiitos + -inen.",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "thankfulness",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The homeLang for '-ness' is listed as '-us/-ous' which are not Finnish suffixes. This appears to be a copy-paste error from an English-Latin comparison.",
-    "suggestion": "Should be '-nus' or simply describe that in Finnish the concept is expressed via the nominalization '-us' (e.g., kiitollisuus from kiitollinen).",
-    "source_file": "en-fi.json"
+    "issue": "The gloss '-us/-ous' is incorrect and confusing. The suffix -ness should consistently be glossed as '-us' (matching the glossary entry for -ness). The addition of '/-ous' is misleading and violates the tile label brevity convention.",
+    "suggestion": "-us"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLangDetails",
+    "issue": "The homeLangDetails contains unclear and grammatically awkward Finnish text that confuses the explanation. The description should be clearer and more direct about -ness forming abstract nouns denoting states/qualities.",
+    "suggestion": "Muuttaa adjektiivit nomineiksi, jotka merkitsevät tilaa tai ominaisuutta. Kiitollisuus, pimeys, tietoisuus."
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-inen' is misleading for -ful. While -ful can mean 'full of' or 'characterized by', the glossary entry for -ful is '-ful' itself, not '-inen'. The homeLang should use the glossary convention.",
+    "suggestion": "-ful"
   },
   {
     "word": "thoughtlessness",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The homeLang for '-ness' is listed as '-us' which is incomplete. While '-us' does appear in 'ajattelemattomuus', the suffix should be '-uus' (the nominalization/abstraction suffix in Finnish).",
-    "suggestion": "Should be '-uus' to accurately represent the Finnish nominalizing suffix that creates abstract nouns from adjectives.",
-    "source_file": "en-fi.json"
+    "issue": "The glossary entry for -ness is '-ness', not '-us'. While '-us' may describe the function, the canonical gloss should be used.",
+    "suggestion": "-ness"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The glossary entry for -less is '-less', not '-ton'. Although '-ton' describes the function in Finnish, the canonical gloss should be used.",
+    "suggestion": "-less"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The glossary entry for -less is '-less', not '-ton'. Although '-ton' describes the function in Finnish, the canonical gloss should be used.",
+    "suggestion": "-less"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The glossary entry for -ness is '-ness', not '-us'. While '-us' may describe the function, the canonical gloss should be used.",
+    "suggestion": "-ness"
+  },
+  {
+    "word": "peacefully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-inen' is misleading for -ful. The glossary entry for -ful is '-ful' itself, not '-inen'.",
+    "suggestion": "-ful"
   },
   {
     "word": "beautifully",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "The first part should be 'beautiful' (the adjective), not 'beauty' (the noun). The morphological structure is beauty → beautiful → beautifully, but the entry splits it as beauty + -ful + -ly, which conflates noun and adjective forms.",
-    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beautiful', or restructure to show: beautiful (beauty + -ful) + -ly",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "beauti should be glossed as 'kauneus' (noun root), but the glossary entry shows 'kauneus' which is correct. However, the morphemeType is marked as 'root' when 'beauti' is a bound root (cannot stand alone in English). This is actually acceptable since both free and bound roots are classified as 'root' per instructions.",
+    "suggestion": "kauneus"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "-ful should be glossed as '-ful' per the glossary, not '-inen'. The glossary lists 'ful → -inen' but this is misleading for the tile label; -ful is a productive English suffix and should keep its English form on the tile.",
+    "suggestion": "-ful"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "-ful should be glossed as '-ful' per the glossary convention, not '-inen'. The tile label must use the standard English morpheme form.",
+    "suggestion": "-ful"
   },
   {
     "word": "powerfully",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Puhuja esitti voimakkaasti vakuuttavan argumentin' is awkward. The word order and phrasing are unnatural; 'voimakkaasti' modifying 'esitti' in this way sounds forced in Finnish.",
-    "suggestion": "Consider: 'Puhuja esitti vakuuttavan argumentin voimakkaasti.' or 'Puhujan argumentti oli voimakkaasti vakuuttava.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "-ful should be glossed as '-ful' per the glossary convention, not '-inen'. The tile label must use the standard English morpheme form.",
+    "suggestion": "-ful"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The glossary entry for -ness is '-ness → -ness' (not shown in canonical glossary provided, but listed as '-ness → -ness' in the extended glossary). The homeLang value '-us' is incorrect; it should follow the convention and be '-ness' or the equivalent Finnish '-uus' would need clearer labeling. The current '-us' is a partial/abbreviated form that violates the label convention.",
+    "suggestion": "-ness or -uus"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "fortunate is a free root (adjective), not a bound root. The homeLang value 'onnellinen' is correct as a translation, but 'fortunate' should be marked more clearly as the adjective root rather than implying it needs further decomposition.",
+    "suggestion": "onnellinen"
   },
   {
     "word": "unexpectedly",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The morpheme \"ed\" is glossed as \"(mennyt osio)\" (past participle), but in \"unexpectedly\", the \"-ed\" is part of the adjective \"unexpected\" (un- + expect + -ed), not a separate verbal past tense marker. The structure should be: un + expect + ed (adjective) + ly (adverb), where \"-ed\" forms an adjective from the verb.",
-    "suggestion": "Clarify that \"-ed\" here converts the verb \"expect\" to the adjective \"expected\", with a gloss like \"-(t)u\" or \"participial adjective marker\" rather than \"(mennyt osio)\"",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Label should be concise. '(mennyt osio)' is not standard morpheme labeling convention and should use the short form.",
+    "suggestion": "(mennyt)"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The morpheme 'y' here is part of the -y suffix that forms adjectives from nouns. The label '(adjektiivipääte)' describes its function but should follow the convention of matching the glossary entry for '-y' or using a shorter parenthetical form.",
+    "suggestion": "-y"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType is null/missing but should be set to 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The glossary entry for '-able' is '-able', not '-inen'. While the homeLangDetails correctly explains the meaning in Finnish, the tile label should match the glossary standard form for consistency.",
+    "suggestion": "-able"
   },
   {
     "word": "unacceptable",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The gloss \"ei hyväksyttävä, kelpaamaton\" is awkward. \"Ei hyväksyttävä\" is a literal but unnatural construction. \"Kelpaamaton\" is better but not the most common translation.",
-    "suggestion": "Use \"hyväksymätön\" or \"sietämätön\" as the primary translation, which are more natural Finnish equivalents",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The glossary entry for '-able' is '-able', not '-inen'. While the homeLangDetails correctly explains the meaning in Finnish, the tile label should match the glossary standard form for consistency.",
+    "suggestion": "-able"
   },
   {
     "word": "unavoidable",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as un + avoid + able, but 'avoid' and 'able' are presented as separate morphemes without clarifying that 'avoidable' is itself a formed adjective. The decomposition is technically correct but the homeLang for 'avoid' should note it's a verb root that becomes an adjective via '-able'.",
-    "suggestion": "Consider adding clarification that 'avoid' (välttää) is the verb root, and '-able' transforms it into an adjective meaning 'capable of being avoided'.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The glossary entry for '-able' is '-able', not '-inen'. While the homeLangDetails correctly explains the meaning in Finnish, the tile label should match the glossary standard form for consistency.",
+    "suggestion": "-able"
   },
   {
     "word": "unwillingness",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme breakdown splits 'will' as a separate part with homeLang 'haluttomuus', but 'will' in 'unwillingness' is actually part of the compound 'willingness' (willingness = will + -ing + -ness). The splitting should be: un + willing + ness, not un + will + ing + ness. 'Will' as a noun/concept is not the direct morpheme here; 'willing' is the adjective form.",
-    "suggestion": "Revise to: un + willing + ness, where 'willing' is the adjective (homeLang: 'halukas') and '-ness' creates the noun. Remove the separate 'ing' entry as it's part of the adjective formation, not a standalone morpheme in this context.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ing' is labeled as '(gerundi)' but should use the standard label for the gerund/present participle suffix",
+    "suggestion": "-ing"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ing' is marked as 'root' but it is a suffix forming gerunds/nominalizations",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "'-ness' is glossed as '-tila' but should use the standard glossary label '-ness'",
+    "suggestion": "-ness"
   },
   {
     "word": "reconsideration",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'uusi pohdintas' contains a typo or malformation ('pohdintas' should be 'pohdinta'). Additionally, the form appears inconsistent with standard Finnish.",
-    "suggestion": "Change to 'uudelleenharkinta' (primary) or 'uudelleen harkitseminen' to match the translationLong's first option.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is marked as 'root' but it is a suffix forming nominalizations from verbs",
+    "suggestion": "suffix"
   },
   {
-    "word": "recycling",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'cycle' is glossed as 'kierto' (circulation/circuit), but in 'recycling' the 'cycle' refers to a process or circular system of reuse, not just a simple circular motion. The gloss is too narrow and doesn't capture the sense of 'cycle' as a recurring process.",
-    "suggestion": "Consider 'sykli' or 'prosessi' or keep 'kierto' but acknowledge in homeLangDetails that it refers to the cyclical process of reuse",
-    "source_file": "en-fi.json"
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'iz' is a suffix (-ize), not a root. It's a derivational suffix that converts nouns to verbs.",
+    "suggestion": "suffix"
   },
   {
-    "word": "recycling",
-    "category": "wrong_translation",
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The morpheme 'ation' is a suffix (-ation), not a root. It's a nominalizing suffix that converts verbs to nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The '-ing' suffix is glossed only as '(gerundi)' in parentheses with no actual Finnish equivalent provided. This is incomplete for a learner.",
-    "suggestion": "Provide the Finnish gerund equivalent, such as '-minen' or describe it as a present participle/gerund form that creates a noun from the verb",
-    "source_file": "en-fi.json"
+    "issue": "The gloss is '(-ize)' but should be '-ize' or '-ida' to follow the tile label convention and match the glossary (ize → -ida).",
+    "suggestion": "-ize"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ing' is a suffix (-ing), not a root. It's a derivational suffix forming gerunds/participles.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(gerundi)' is a long description and should be shortened to '-ing' to follow the tile label convention.",
+    "suggestion": "-ing"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ication' is a suffix (-ication), not a root. It's a combined nominalizing suffix (-ify + -ation).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'yhteinen' (common/mutual) is misleading in context. The morpheme 'mun' here is from Latin 'munus' (duty/function) and should reflect the root meaning. The glossary entry for 'mun' is 'yhteis' (common/joint), so 'yhteis-' or 'yhteinen' are both acceptable, but 'yhteinen' is technically an adjective form. The shorter 'yhteis' would be more appropriate for a tile label.",
+    "suggestion": "yhteis"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation should be marked as 'suffix', not 'root'. The -ation component is a bound derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation should be marked as 'suffix', not 'root'. The -ation component is a bound derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "introduction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation is grammatically incorrect and unnatural. 'Romaanin alkusanat asettavat pääkonfliktia' has awkward word order and 'asettavat' (they set) doesn't agree well with the singular 'pääkonfliktia'. The phrase should be more natural.",
-    "suggestion": "Romaanin johdanto asettaa pääkonfliktia. / Romaanin alku esittelee pääkonfliktia.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'intro' should be marked as 'prefix', not 'root'. It is a bound morpheme that precedes the root 'duc'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'duc' is marked as 'root', which is correct, but in this entry it is the primary meaning-bearing element after the prefix intro-.",
+    "suggestion": "morphemeType is correct as 'root'"
   },
   {
     "word": "production",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Tehdas lisäsi tuotantoa kysynnän pystyessä' is ungrammatical. 'Kysynnän pystyessä' is not correct Finnish; it should use a different construction to express 'to meet demand'.",
-    "suggestion": "Tehdas lisäsi tuotantoa kysynnän täyttämiseksi. / Tehdas lisäsi tuotantoa vastaamaan kysyntään.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'duc' should be confirmed as 'root', which it is correctly marked. However, in the structure pro-duc-tion, 'duc' is the core root after the prefix.",
+    "suggestion": "morphemeType is correct as 'root'"
   },
   {
     "word": "pronunciation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into three parts (pro, nunc, iation) but 'nunc' and 'iation' don't make morphological sense. The correct split should be: pro + nun + ci + ation (or pro + nunci + ation), where 'nunci' relates to 'nuncius' (messenger). The current split obscures the actual morpheme boundaries.",
-    "suggestion": "Reconsider the morpheme split. 'Pronunciation' should be analyzed as pro + nunci + ation, or alternatively pro + nounc + iation if keeping closer to English spelling.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -iation should be marked as 'suffix', not 'root'. The -iation component is a bound derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "pronunciation",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'-äänne' (voice/sound) is a questionable gloss for 'nunc' which relates to 'nuncius' (messenger/announcer in Latin). The connection between 'nunc' and 'sound' is misleading.",
-    "suggestion": "Change to something like '-ilmoittaa' (announce) or '-sanoa' (speak/say) to better reflect the etymological meaning of the 'nunci-' root.",
-    "source_file": "en-fi.json"
+    "issue": "The gloss '-äänne' is misleading. The morpheme 'nunc' comes from Latin 'nuntius' (messenger) or 'nunciare' (to announce/pronounce), not directly meaning 'äänne' (sound). The glossary entry shows 'nunc → -äänne' but this is oversimplified. In pronunciation, nunc refers to pronouncing/announcing, not the sound itself.",
+    "suggestion": "Change to 'lausua' or 'sanoa' to better reflect the Latin root meaning"
   },
   {
     "word": "explanation",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'-tasainen' (flat/even) is not an accurate gloss for 'plan'. In 'explanation', 'plan' comes from Latin 'planus' (flat/clear), but the modern semantic connection in English is to 'make clear/unfold', not literally 'flat'.",
-    "suggestion": "Change to '-selkeä' (clear) or '-avata' (unfold) to better reflect the actual meaning in the context of 'explanation'.",
-    "source_file": "en-fi.json"
+    "issue": "homeLang \"-tasainen\" does not match the actual meaning of 'plan' in 'explanation'. The root 'plan' comes from Latin planare (to flatten/make level), but in this word it functions as part of the verbal root meaning 'to flatten out' or 'to make plain/clear'. The gloss should reflect the meaning 'make plain/clear' or 'flatten', not just '-tasainen' (flat/level) as a static adjective.",
+    "suggestion": "selventää or selkeä"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix that forms nouns from verbs, not a root morpheme. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "examination",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'-punnita' (weigh/balance) is imprecise for 'am' (from Latin 'examinare'). The root 'examen' means 'balance/weighing' but in 'examination' the semantic focus is on 'testing/checking', not the literal weighing action.",
-    "suggestion": "Change to '-testata' (test) or '-tarkastaa' (examine/inspect) to better capture the modern meaning.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix (nominalization suffix combining -in- + -ation), not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "imagination",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'-kuva' (image/picture) is too literal for 'ag'. The root 'imago' means image, but 'im-ag-in-ation' etymology involves making images in the mind. The gloss '-kuva' doesn't clearly convey this active meaning.",
-    "suggestion": "Change to '-muodostaa kuvia' (form images) or '-kuvitella' (imagine) to better reflect the meaning.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "population",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The split 'pop + ulation' misses a morpheme boundary. 'Population' should be split as 'pop + ul + ation', where '-ul-' is a diminutive or agent suffix and '-ation' is the nominalization suffix.",
-    "suggestion": "Revise to three parts: pop (people/populus) + ul (diminutive/agent) + ation (-tio/nominalization).",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ulation' is a suffix, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "conversation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'epämuodollinen keskustelu' (informal conversation) is too narrow. 'Conversation' is not inherently informal; it can be formal or informal.",
-    "suggestion": "Change to 'keskustelu' (conversation) without the qualifier 'epämuodollinen'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (-tion) should be marked as \"suffix\", not \"root\". It is a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "reflection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'valon heijastuminen' (light reflection) is incomplete. 'Reflection' has multiple meanings including both physical reflection and abstract contemplation/thought.",
-    "suggestion": "Change to 'heijastuminen; pohdinta' or similar to capture both senses",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (-tion) should be marked as \"suffix\", not \"root\". It is a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (-tion) should be marked as \"suffix\", not \"root\". It is a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "protection",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Tarvitsemme parempaa suojaa kyberihyökkäyksiä vastaan' is awkward. While grammatically correct, a more natural phrasing would use 'suojelu' or 'suojaus' instead of 'suoja' in this context.",
-    "suggestion": "Change to 'Tarvitsemme parempaa suojelua kyberihyökkäyksiä vastaan' or 'Tarvitsemme paremman suojauksen kyberihyökkäyksiä vastaan'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (-tion) should be marked as \"suffix\", not \"root\". It is a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "invitation",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (-tion) should be marked as \"suffix\", not \"root\". It is a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-iz' is a suffix that forms verbs (like '-ize'), not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix that forms nouns, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ific' is a suffix (variant of '-fic'), not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix that forms nouns, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split is incorrect. 'satisfaction' should be 'satis' + 'faction' (from 'fact-', meaning 'to do/make'), not 'sat' + 'is' + 'faction'. The boundary between 'sat' and 'is' is wrong; 'satis' is the root combining form.",
+    "suggestion": "Split as: satis (root) + faction (suffix from -fac-/-fact-)"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The prefix 'in-' in 'invitation' means 'in' (toward the inside), not 'sisään-' as a separate concept. However, the homeLangDetails conflate two different uses of 'in-': the negative prefix (in-active) and the directional prefix (in-vite). In 'invitation', it's the directional 'in' (related to Latin 'invitare'), not the negative prefix. The explanation muddles this.",
-    "suggestion": "Clarify that 'in-' here specifically means the directional/inclusive sense ('in', 'into'), not the negative sense. The homeLangDetails should not conflate both meanings as if they apply equally to this word.",
-    "source_file": "en-fi.json"
+    "issue": "'riittävä' (sufficient) is misleading. 'satis' is from Latin 'satis' (enough), but in English 'satisfaction' it means 'content/fulfill', related to the root meaning 'to do/make' (from fact-).",
+    "suggestion": "tyydyttää/täyttää or keep glossary entry as is but note it's the Latin root"
   },
   {
-    "word": "invitation",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "'vit' is not a standard morpheme split. The root is 'vit-' (from Latin 'vitare'/'invitare'), but splitting it as 'vit' alone without acknowledging the suffix boundary is misleading. It should be 'vit-' or the entry should clarify this is a bound root.",
-    "suggestion": "Change 'vit' to 'vit-' or add homeLangDetails explaining that this is a bound root element from the Latin root.",
-    "source_file": "en-fi.json"
+    "word": "satisfaction",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'tehdä/toimia' is not the correct gloss for 'is' here; this morpheme is not present as a separate morpheme in 'satisfaction' if the split is corrected to 'satis' + 'faction'",
+    "suggestion": "Remove this part if boundary is corrected"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "If the word is split as 'sat' + 'is' + 'faction', 'is' should be a suffix, not a root. However, this split itself is wrong (see wrong_boundary flag).",
+    "suggestion": "suffix (if boundary kept) or remove if corrected"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-faction' (from '-fac-/-fact-') is a suffix that forms nouns, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ific' is a suffix (variant of '-fic'), not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix that forms nouns, not a root morpheme",
+    "suggestion": "suffix"
   },
   {
     "word": "preparation",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "'par' is not the correct morpheme boundary. The root is 'pare' (from Latin 'parare'), and the split should be 'pare' or 'par-', not just 'par'. More critically, 'preparation' is 'pre-par(e)-ation', but 'par' by itself is incomplete.",
-    "suggestion": "Change 'par' to 'pare' or 'par-' to reflect the actual root morpheme.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix that forms nouns from verb roots, not a root morpheme",
+    "suggestion": "suffix"
   },
   {
-    "word": "satisfaction",
-    "category": "wrong_boundary",
-    "field": "parts[1] and parts[2]",
-    "issue": "The split 'sat-is-faction' is incorrect. The word structure is 'satis-' (Latin: enough/sufficient) + '-faction' (from facere: to make/do). The split should be 'satis-' + 'faction', not 'sat-' + 'is-' + 'faction'. The current split fragments 'satis' incorrectly.",
-    "suggestion": "Change parts to: 'satis' (homeLang: 'riittävä') and 'faction' (homeLang: 'tehdä/tekeminen') or '-tion' suffix. Remove the separate 'is' part.",
-    "source_file": "en-fi.json"
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ific is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "satisfaction",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "'riittävä' means 'sufficient/adequate' but does not capture the meaning of 'satis' in 'satisfaction'. 'Satis' in Latin means 'enough' and in this context contributes to the sense of 'having had enough' or 'being filled'. The gloss is too narrow.",
-    "suggestion": "Change to 'tarpeeksi/riittävästi' or add homeLangDetails explaining that 'satis' means 'enough' in the sense of fulfillment or sufficiency.",
-    "source_file": "en-fi.json"
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The morpheme split isolates 'e' as a separate prefix, but 'ex-' is the complete prefix in 'evaluate'. The 'e' alone is not a morpheme; it should be 'ex' or the word should be resplit as 'eval' + 'uation'.",
-    "suggestion": "Change parts[0].targetLang from 'e' to 'ex', or resplit the word as 'eval' + 'uation' since 'evaluate' is the base (from Latin 'valere').",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -uation is a derivational suffix, not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "evaluation",
-    "category": "false_cognate",
+    "word": "understandable",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'ex-' (out/former) does not accurately describe the prefix in 'evaluate'. The 'ex-' in evaluate means 'thoroughly' or 'out', but here it's being treated as a separate morpheme when 'evaluate' is actually a single root from Latin 'valere' (to be strong/worth). The prefix sense is misleading for this word.",
-    "suggestion": "Reconsider the morpheme split. Either mark 'eval' as the root (from Latin 'valere'), or acknowledge that this word's internal structure is not transparently 'ex + val + uation'.",
-    "source_file": "en-fi.json"
+    "issue": "The gloss 'ali-' is not standard; the glossary entry for 'under-' is 'under-' itself",
+    "suggestion": "under-"
+  },
+  {
+    "word": "dependable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Inconsistent gloss format. The canonical glossary glosses '-able' as '-able' (not '-va' as used in other entries). All -able suffixes should use the same label",
+    "suggestion": "-able"
   },
   {
     "word": "impossible",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'poss' is itself a compound that should be split further. 'Possible' breaks down as 'poss' (from Latin 'posse', to be able) + 'ible' (suffix). The current split treats 'poss' as a single root, but 'poss' is not a meaningful English morpheme on its own—it should be recognized that 'possible' = 'pos' + 'sible' or kept as an atomic root 'possibl' + 'e', not split as 'poss' + 'ible'.",
-    "suggestion": "Either keep 'possible' as a single atomic morpheme, or clarify that 'poss' comes from Latin 'posse' (to be able) rather than treating it as a modern English morpheme. The entry structure suggests 'poss' is an independent root, which is misleading.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"mahdollinen\" (possible) is the wrong gloss for \"poss\" in this context. The root here means \"be able\" or \"can\", not \"possible\". The morpheme itself should be glossed based on its underlying meaning in the root form.",
+    "suggestion": "voi/kykene"
   },
   {
     "word": "irresponsible",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'respons' should be split further into 'respons' + 'ible', but the current entry treats 'respons' as a root. More importantly, 'respons' itself derives from 'respond', which is 'respond' + suffix. The current split is: ir + respons + ible, but 'respons' is a bound root that doesn't stand alone in modern English.",
-    "suggestion": "Keep the split as is (ir + respons + ible) but clarify in homeLangDetails for 'respons' that it comes from 'respond' (vastata), making it clear that 'respons' is a Latin root meaning 'to answer/be accountable' rather than a standalone modern English word.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"vastata\" (answer) is incomplete. The root \"respons\" in the glossary is listed as \"vastuussa\" (responsible/in charge). The gloss should reflect the actual meaning of the root, not a tangential one.",
+    "suggestion": "vastuu"
   },
   {
     "word": "indestructible",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "\"Kukistumaton\" is not a standard Finnish word. The correct translation should be \"tuhoamaton\" or \"rikkoutumaton\".",
-    "suggestion": "Change translationShort to \"tuhoamaton\"",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "indestructible",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "\"Kukistumaton\" in the example translation is also non-standard. The phrase should use \"tuhoamaton\" instead.",
-    "suggestion": "Change to: \"Monumentti rakennettiin niin, että se olisi tuhoamaton.\"",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "prehistoric",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The second part \"historic\" should be further split into \"history\" + \"ic\" (or \"history\" + \"-al\" in standard morphological terms), as \"historic\" itself is a derived form, not a root morpheme.",
-    "suggestion": "Split parts[1] into \"history\" (homeLang: \"historia\") and add a third part for the adjectival suffix",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should be a short label, not a long explanation. The value 'in-' is correct but homeLangDetails should not be in homeLang.",
+    "suggestion": "in- (homeLang should remain short; move details to homeLangDetails only)"
   },
   {
     "word": "antibiotic",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'bakteereja vastaan' (against bacteria) is incomplete and misleading. It should clarify that it's a medicine/substance, not just opposition to bacteria.",
-    "suggestion": "Change to 'bakteereita tappava lääke' or 'antibiootti' for accuracy",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-tic' is a suffix forming adjectives (like '-ic'), not a root. It should be marked as 'suffix', not 'root'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'bio' in 'antibiotic' is part of a combining form (bio- meaning life/living things), functioning as a root element in the compound, not a prefix. It should be 'root', not 'prefix'.",
+    "suggestion": "root"
   },
   {
     "word": "automatically",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'matic' is glossed as 'liikkuva' (moving), but 'matic' comes from Greek 'machanos' relating to machines/mechanism, not movement. The meaning is misleading.",
-    "suggestion": "Change homeLang to 'mekaaninen' or 'automaattinen' (relating to mechanism/automation)",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "matic is a suffix (-matic), not a root. It combines with 'auto' to form the adjective 'automatic'.",
+    "suggestion": "suffix"
   },
   {
-    "word": "television",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'etäkatselu' (remote viewing) is technically accurate but awkward and not how Finnish naturally refers to television. The standard term is 'televisio'.",
-    "suggestion": "Change to 'televisio' or 'kaukonäkö' for more natural Finnish",
-    "source_file": "en-fi.json"
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ally is a suffix (-ally, from -al + -ly), not a root. It converts the adjective 'automatic' to an adverb.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "geo is a combining form/prefix, not a root. It should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The morpheme 'y' has no gloss provided. In 'geography', the final '-y' is a suffix that converts '-graph' into a noun (similar to -logy). The gloss should match the glossary pattern for nominalizing suffixes.",
+    "suggestion": "-y (noun-forming suffix) or similar brief label"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The final 'y' is a suffix, not untyped. It nominalizes the combining form 'graph' into the noun 'geography'.",
+    "suggestion": "suffix"
   },
   {
     "word": "responsibility",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme split is incorrect. 'responsibility' should be split as 'respons' + 'ibility', but 'respons' is not a standalone morpheme in English. The correct split is 'respond' (or 'respons-' as a Latin root) + '-ibility' (the suffix forming nouns from adjectives).",
-    "suggestion": "Split as 'respond' + '-ibility' or 'respons-' + '-ibility', with clarification that 'respons-' is a Latin root, not an English word",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ibility is a derivational suffix (-ibility), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "personality",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme split is incorrect. 'personality' should be split as 'person' + '-ality', but '-ality' is the suffix, not 'ality'. The 'al' belongs to the suffix '-ality' (from Latin -alis + -itas), not to the root 'person'.",
-    "suggestion": "Split as 'person' + '-ality' and clarify in homeLangDetails that '-ality' is the suffix forming abstract nouns",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "person is the root, but ality is a derivational suffix, not a root",
+    "suggestion": "root for parts[0]; suffix for parts[1]"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "iv (-ive) is a derivational suffix that forms adjectives, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang shows -ius but should be -uus to match the glossary entry for -ity → -ity (and the homeLangDetails mentions -ys or -uus). The example translations use consistency with other -ity words in the batch.",
+    "suggestion": "-uus"
   },
   {
     "word": "productivity",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The morpheme 'iv' should not be glossed as '-va'. In 'productive', the 'iv' is part of the adjective-forming suffix '-ive' (not '-iv' as a separate morpheme). The '-va' gloss is misleading because it suggests a Finnish potential participle, but '-ive' functions differently in English morphology.",
-    "suggestion": "Split should be 'product' + 'ive' where '-ive' is glossed as 'adjective-forming suffix' or similar, not decomposed into 'iv' + separate parts",
-    "source_file": "en-fi.json"
+    "issue": "The suffix -ive should be glossed as '-va' (suffix type), not as a separate root. The morphemeType is also incorrectly set to 'root' when it should be 'suffix'.",
+    "suggestion": "-va"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ive is a derivational suffix, not a root morpheme",
+    "suggestion": "suffix"
   },
   {
     "word": "flexibility",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 'flex' + 'ible' + 'ity' is problematic. 'Flexible' should be treated as 'flex' + 'ible' first (forming an adjective), then 'flexible' + 'ity' (forming a noun from the adjective). The current split separates 'ible' from 'ity' incorrectly, implying they are independent morphemes being added to the root simultaneously.",
-    "suggestion": "Restructure to show: flex (root) + ible (adjective suffix) → flexible, then flexible + ity (nominalization suffix). Or use compound morpheme breakdown: flex + [ible + ity] to show the derivational hierarchy",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ible is a derivational suffix (capacity/ability suffix), not a root morpheme",
+    "suggestion": "suffix"
   },
   {
     "word": "nationality",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ius' is incorrect; it should be '-uus' (the Finnish abstract noun suffix that corresponds to English -ity when converting adjectives to nouns). The homeLangDetails conflates Latin with Finnish.",
+    "suggestion": "-uus"
+  },
+  {
+    "word": "employer",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ja' is misleading in this context. While -er is generally an agent suffix, 'employer' specifically means 'työnantaja' (employer/boss), not just 'one who employs'. The gloss should reflect the actual Finnish equivalent used.",
+    "suggestion": "-antaja or työnantaja"
+  },
+  {
+    "word": "employer",
     "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The Finnish translation 'asema jonka kansalainen on tietyn maan' is grammatically awkward and unclear. It should read more naturally.",
-    "suggestion": "Change to: 'sen maan kansalaisen asema jossa henkilö on syntyisin tai jossa hänellä on oikeus asua; kansallinen alkuperä tai identiteetti'",
-    "source_file": "en-fi.json"
+    "field": "translationShort",
+    "issue": "The translation 'se, joka työllistää' (one who employs) is awkward and unnatural in Finnish. The standard, natural Finnish term is 'työnantaja' (employer).",
+    "suggestion": "työnantaja"
   },
   {
-    "word": "nationality",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "'kaksoiskahlaisuus' is incorrect; the correct Finnish term is 'kaksoiskaansalaisuus' or 'kaksoiskansalaisuus'. Also 'kahlaisuus' does not exist in Finnish.",
-    "suggestion": "Change to: 'Hänellä on kaksoiskansalaisuus, sillä hän on syntynyt yhdessä maassa ja saanut kansalaisuuden toisessa.'",
-    "source_file": "en-fi.json"
+    "word": "employee",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ttävä' (passive participle meaning 'able to be done') is linguistically accurate but misleading as a tile label. The -ee suffix in English means 'one who receives/undergoes' the action, not the abstract ability. The homeLangDetails correctly explains this, but the tile label should reflect the agent noun function.",
+    "suggestion": "-ttävä (passive participle) or -ittävä (recipient) to match the details, or simplify to just '-ittävä'"
   },
   {
-    "word": "productively",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word should be split as 'product' + 'ive' + 'ly', not 'product' + 'iv' + 'ly'. The suffix 'ive' is a complete morpheme that forms adjectives; splitting it as 'iv' is incorrect.",
-    "suggestion": "Change parts[1].targetLang from 'iv' to 'ive'",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "attractively",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word should be split as 'attract' + 'ive' + 'ly', not 'attract' + 'iv' + 'ly'. The suffix 'ive' is a complete morpheme that forms adjectives; splitting it as 'iv' is incorrect.",
-    "suggestion": "Change parts[1].targetLang from 'iv' to 'ive'",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "attractively",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Kauppaikkunan oli koristeltu houkuttelevasti vuodenaikojen näyttelyllä' contains a grammatical error. It should be 'Kaupan ikkuna oli koristeltu' or 'Kaupan ikkuna oli koristeltu houkuttelevasti vuodenaikojen näytteillä'.",
-    "suggestion": "Change to: 'Kaupan ikkuna oli koristeltu houkuttelevasti vuodenaikojen näytteillä.' or 'Kaupan ikkunaa oli koristeltu houkuttelevasti vuodenaikojen näytteillä.'",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "researcher",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 're-' does not actually mean 'tutkia uudelleen' (research again) in 'researcher'. The 're-' prefix in 'research' comes from Old French 're-' meaning 'again', but 'researcher' is not derived from 're-search' (search again) in the synchronic sense; it's simply 'research' + '-er'. The 're-' here is part of the verb 'research' itself, not a separable prefix being applied.",
-    "suggestion": "Consider removing the 're-' as a separate morpheme and splitting only 'research' + 'er', or clarify in the entry that 're-' is etymologically present but not productively separable in modern English morphology.",
-    "source_file": "en-fi.json"
+    "word": "employee",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -ee suffix is a derivational suffix that forms agent/patient nouns, not a root. It cannot stand alone and exists only to derive new words.",
+    "suggestion": "suffix"
   },
   {
     "word": "investigator",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Tutkija tutki rikospaikalla löytyneitä jälkiä' is awkward and contains a grammatical issue. 'Rikospaikalla löytyneitä jälkiä' is unclear; it should be 'rikospaikasta' or 'rikospaikan' with proper case marking. The phrase would be more naturally rendered as 'Tutkija tutki rikospaikkaa todisteiden varalta' or 'Tutkija tarkasteli rikospaikalla olevia todisteita'.",
-    "suggestion": "Change to: 'Tutkija tutki rikospaikkaa todisteiden varalta.' or 'Tutkija tarkasteli rikospaikalla olevia todisteita.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme boundary is incorrect. 'investigator' splits as 'invest' + 'igate' + 'or', not 'invest' + 'igat' + 'or'. The infinitive verb form is 'investigate' (with full -igate), and 'igat' is not a real morpheme. The root is 'invest' and 'igate' is the suffix that converts it to a verbal form.",
+    "suggestion": "Correct split should be: invest (root) + igate (suffix meaning '-ia' or 'make/cause') + or (suffix meaning '-ja')"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-' (empty/dash) for 'igat' is not helpful. Even if retained as a morpheme (which is questionable given the boundary issue), it needs a real gloss. It should be glossed as a verb-forming suffix or linking element.",
+    "suggestion": "-ia (verb-forming suffix) or -oi (verb-forming suffix)"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'igat' part is marked as 'root', but if retained as a morpheme it is a suffix (verb-forming), not a root. However, the real issue is the boundary error noted above.",
+    "suggestion": "suffix (if retained) or reconsider boundary entirely"
   },
   {
     "word": "communicator",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'Taitavana viestijänä' uses the inessive case (-na) which implies a temporary state or role, but 'viestijä' (communicator) typically requires nominative case in this context. The sentence structure is also slightly off for natural Finnish.",
-    "suggestion": "Change to: 'Taitavana viestijänä hän menestyy hyvin julkisissa puheenvuoroissa.' or 'Hän on taitava viestijä ja menestyy julkisissa puheenvuoroissa.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ja' is correct per the glossary, but homeLangDetails says '-ja' but this should match the entry for 'or' in communicator (which should be '-tor' or '-ja/-tor' as agent noun). Consistency check: the glossary shows 'or → -ja/-tor', and the homeLang here says '-ja', which matches glossary for agent nouns. However, the investigator entry says '-ja/-tor' for the same morpheme 'or'. The communicator entry should probably also note the alternative '-tor' form for consistency.",
+    "suggestion": "-ja/-tor (to match investigator entry and be consistent with glossary)"
   },
   {
     "word": "communicate",
-    "category": "incomplete_split",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -icate suffix is marked as 'root', but it is clearly a suffix (verb-forming derivational suffix from Latin -icatus). It cannot stand alone and is not the primary meaning-bearing morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The word should be split as 'com' + 'mun' + 'icate', but 'mun' is presented as a separate morpheme with only 'yhteis' as translation, which is incomplete. The 'mun' part comes from Latin 'munis' (duty/service) and should be properly explained as a distinct morpheme contributing to the meaning.",
-    "suggestion": "Either combine 'com' + 'mun' into a single prefix unit with full explanation, or provide complete details for 'mun' including its Latin origin and full meaning contribution.",
-    "source_file": "en-fi.json"
+    "issue": "The split 'com' + 'mun' + 'icate' is problematic. The root is 'mun' (from Latin communis, meaning 'common'), and the verb-forming suffix is '-icate'. However, 'com' is not a separate prefix here—it is part of the root 'communis' itself. The structure should be analyzed as 'communicat' (root with Latin -icate suffix already fused) + verb-forming morphology, or the root should be 'commun' with '-icate' as suffix. The current split artificially separates 'com' as a prefix when it is etymologically part of 'common'.",
+    "suggestion": "Consider: commun (root) + icate (suffix), or communicat (root) without prefix separation. If com- is included as a prefix for pedagogical reasons, mun should be 'mun-' marking it as a bound root."
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'mun' part is marked as 'root', but if the analysis retains 'com' as a separate prefix, then 'mun' is a bound root (not free), not a full root in the independent sense. More accurately, if 'com' is separated, 'mun' is part of a bound Latin root 'munis/communis'.",
+    "suggestion": "bound root (if a morphemeType field must be assigned) or reconsider the boundary and mark communicat as the root"
   },
   {
     "word": "investigate",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Finnish translation 'Poliisi tutkii rikospaikkaa huomenna' uses present tense, but the English sentence uses future tense 'will investigate'. The tenses should match.",
-    "suggestion": "Change to 'Poliisi tutkii rikospaikkaa huomenna.' or use future construction 'Poliisi tulee tutkimaan rikospaikkaa huomenna.'",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ate is marked as 'root' but it is a verb-forming suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ate is marked as 'root' but it is a verb-forming suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'otta' is too vague and doesn't clearly convey that -icip- is a combining form derived from capere (to take). The glossary entry for 'ticip' shows 'otta' but this needs clarity in context.",
+    "suggestion": "Consider revising to make the connection to capere clearer, or keep brief as '(otta)' to match suffix convention"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ate is marked as 'root' but it is a verb-forming suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "congratulate",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The description of '-ulate' as a 'diminutive or iterative verb-forming suffix' is misleading in English. The suffix '-ulate' in 'congratulate' is not really diminutive or iterative in modern English; it's better described as simply a verb-forming suffix derived from Latin. The explanation about 'softening' or 'repeated action' doesn't accurately reflect how this suffix functions in English.",
-    "suggestion": "Simplify to describe '-ulate' as a verb-forming suffix (from Latin -ulatus), without the misleading diminutive/iterative characterization.",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as mis-inter-pret-et, but 'pret' should be further analyzed. The root is 'interpret' (inter + pret), and the morphological structure should be mis- + interpret, not mis- + inter- + pret- + et. The 'pret' part comes from Latin praetere/preter, but in modern English 'interpret' is the standard form and 'pret' isn't a productive morpheme in English.",
-    "suggestion": "Reconsider the split. Either split as mis- + interpret (treating 'interpret' as an already-formed word), or if breaking down further, acknowledge that 'pret' relates to Latin but isn't how modern English speakers analyze the morphology. The '-et' ending explanation is also problematic—modern English 'interpret' doesn't have an '-et' suffix; it's the bare infinitive.",
-    "source_file": "en-fi.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'ymmärtää väärin' is incomplete. While it captures the sense of 'misunderstand,' 'misinterpret' more specifically means to interpret or construe something incorrectly, which is slightly different from just misunderstanding. The longer translation is better.",
-    "suggestion": "Change translationShort to something like 'tulkita väärin' (interpret incorrectly) to be more precise and consistent with the longer translation.",
-    "source_file": "en-fi.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ulate is marked as 'root' but it is a verb-forming suffix (diminutive/iterative), not a root morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "deconstruct",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as de- + con- + struct, but 'construct' is already a known English word formed from con- + struct. The modern morphological analysis should recognize 'deconstruct' as de- + construct, not as a three-part split. Breaking it into con- and struct separately obscures the actual word formation and makes the morphology harder to follow.",
-    "suggestion": "Split as de- + construct, or if three parts are desired, make clear that con- + struct forms 'construct' first, then de- is prefixed to that unit. The current layout could mislead learners about how English actually forms this word.",
-    "source_file": "en-fi.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The entry shows 'con-/yhdessä' but within 'deconstruct', the 'con' is part of 'struct' (construct), not a second prefix. The word structure is de- + construct, not de- + con- + struct. The homeLang label should reflect 'con' as a prefix combining element here.",
+    "suggestion": "Verify the morpheme boundary; if this is genuinely de- + con + struct, the gloss is acceptable; if it should be de- + construct, restructure the entry"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'tulkita' (interpret) is incorrect. 'pret' is not a root meaning 'to interpret'; it's part of the Latin root 'praetere/praeire'. The morpheme should be glossed as part of the 'pret-' stem meaning to explain or set forth, but the homeLang label should reflect its actual function in this word as a bound root element, not the full verb 'tulkita'.",
+    "suggestion": "selittää or -sele- (to explain/set forth)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The 'et' is labeled 'root' but it is a suffix. In modern English, the infinitive suffix is typically null or the bare form, but 'et' here is a bound suffix element (archaic infinitive marker or verb conjugation suffix), not a root.",
+    "suggestion": "suffix"
   }
 ]

@@ -1,0 +1,688 @@
+[
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'नहीं' (no/not) is technically correct for the negation prefix 'in-', but the homeLangDetails explanation is overly long and detailed for a tile label. For a puzzle game, the tile should show only the short gloss, not a full explanation. The label itself is acceptable but the details field violates brevity convention.",
+    "suggestion": "Keep parts[0].homeLang as 'नहीं' but remove or drastically shorten homeLangDetails to a brief note, not a full explanation."
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty, but 'impossible' is an adjective in English and in standard usage does not take a definite article. However, consistency matters: other adjective-like entries (e.g., 'understanding' as a noun form) have 'the'. If this is meant to be used attributively or as a noun, an article may be needed. As written, empty is technically acceptable for an adjective, but the inconsistency is worth noting.",
+    "suggestion": "Either leave empty (correct for adjectives) or add 'the' if treating it as a noun form for consistency with the dataset pattern."
+  },
+  {
+    "word": "understanding",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'under-' in 'understanding' does not mean 'नीचे' (below/under) in the spatial sense. The word's meaning (comprehension) does not derive from literal 'standing under'. The 'under-' here is a historical prefix that no longer carries its original spatial meaning in this compound. This is a frozen/lexicalized meaning where the synchronic gloss 'नीचे' is misleading.",
+    "suggestion": "Gloss as '(अंतर्)' or simply omit the spatial meaning and use '(समझ-)' to reflect the actual semantic contribution in this word."
+  },
+  {
+    "word": "government",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(-संस्था)' (institution) is not a standard English morpheme gloss for the suffix '-ment'. The suffix '-ment' in 'government' forms an abstract noun meaning the act/result/domain of governing, not specifically an 'institution'. The gloss is misleading about what the suffix actually contributes.",
+    "suggestion": "Use '(-कार्य)' (act/domain) or '(-नीति)' (system) to better reflect that '-ment' creates an abstract noun from the verb, or use '(-ता)' (state/condition) to match the abstract noun-forming suffix convention."
+  },
+  {
+    "word": "knowledge",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(-भाव)' is overly long and uses plain text description. Tile labels must be brief (ideally ≤4 words).",
+    "suggestion": "(-state) or (-ness)"
+  },
+  {
+    "word": "progress",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'-pro' in 'progress' comes from Latin 'pro' meaning 'forward/onward', not simply 'आगे' (ahead). The gloss should reflect the prefix sense of forward motion.",
+    "suggestion": "(forward)"
+  },
+  {
+    "word": "progress",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'-gress' comes from Latin 'gradi' meaning 'to step/walk', not 'चलना' (to walk/move). The root sense is more specialized: stepping or going.",
+    "suggestion": "(step)"
+  },
+  {
+    "word": "freedom",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(-दशा)' is overly long and uses plain text. Tile labels must be brief.",
+    "suggestion": "(-state) or (-dom)"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'वचन देना' (to make a promise) is too long for a tile label and uses plain text. Shorten to a brief label.",
+    "suggestion": "(vow)"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(-योग्य)' is overly descriptive and uses plain text. Tile labels must be brief parenthetical shorthand.",
+    "suggestion": "(-able)"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split of 'responsibility' into 're-spons-ib-ility' is incorrect. The correct morpheme boundary should be 're-spons-ibil-ity' (where '-ibil' is part of the '-ibility' suffix forming abstract nouns from adjectives). The current split separates 'ib' and 'ility' incorrectly.",
+    "suggestion": "Resplit as: re- / spons- / -ibility"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(क्रिया)' means 'action/verb' in plain Hindi text. Tile labels must use brief parenthetical English shorthand.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(-क्रिया)' is too long and in Hindi script. It should follow the convention of short parenthetical English labels like '(vb)' or '(action)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '(क्रिया)' is in Hindi script and describes what '-ion' does generally, but the label should be brief English in parentheses. Since '-ion' nominalization creates action nouns, use '(action)'.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "happiness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(-ता)' is in Hindi script. It should follow the convention of brief English parenthetical labels. Since '-ness' creates abstract nouns denoting state/quality, use '(state)' or '(-ness)'.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "relationship",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label 'जोड़ना' (to connect/join) is too long. For tile labels, brevity matters. A single word or very short phrase is preferred.",
+    "suggestion": "जोड़"
+  },
+  {
+    "word": "relationship",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '(क्रिया)' is in Hindi script and imprecise. The suffix '-ion' here forms a noun from the verb 'relate', so use the standard nominalization label.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "relationship",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The homeLang label '(-भाव)' is in Hindi script. It should follow the English parenthetical convention. The suffix '-ship' forms abstract nouns denoting a condition or relationship.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "development",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'खोलना' (to open/unwrap) is too long for a tile label and imprecise. Use the standard parenthetical prefix notation.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "development",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label 'लपेटना' (to wrap) is too long. Tile labels must be brief, and this root's meaning should be simplified to a single short word or concept.",
+    "suggestion": "लपेट"
+  },
+  {
+    "word": "development",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '(-प्रक्रिया)' is in Hindi script and too verbose. It should follow the brief English parenthetical convention. Since '-ment' forms abstract nouns of process/result, use '(action)' or similar.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(-क्रिया)' is in Hindi script. It should follow the English parenthetical convention. The suffix '-icate' forms verbs, so use '(vb)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '(क्रिया)' is in Hindi script. It should follow the brief English parenthetical convention. The suffix '-ion' here forms a noun from the verb, so use '(action)'.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "व्यवस्था (order/arrangement) is a poor gloss for 'organ' in this context. 'Organ' here refers to a body part or functional unit, not arrangement.",
+    "suggestion": "अंग or संरचना"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'बनाना' (to make) is imprecise. The suffix '-iz' means 'to organize/make into', which should be glossed as a verb-forming suffix, not just the infinitive.",
+    "suggestion": "(बनाना)"
+  },
+  {
+    "word": "environment",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'चारों ओर' (four sides/all around) is too literal and cumbersome for a tile label. Should be concise.",
+    "suggestion": "चारों ओर or आसपास"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'नहीं' (no/not) is imprecise for the prefix 'dis-'. It means negation/reversal, but should follow the convention with parentheses.",
+    "suggestion": "(नहीं)"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'नहीं' (no/not) lacks proper convention formatting for a prefix.",
+    "suggestion": "(नहीं)"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty for an adjective. English adjectives typically don't take articles, but if an article should be present contextually or the field should explicitly indicate 'none', it should be clarified. The current blank is acceptable for adjectives, so no flag needed.",
+    "suggestion": null
+  },
+  {
+    "word": "disappointment",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'नहीं' (no/not) lacks proper convention formatting for a prefix.",
+    "suggestion": "(नहीं)"
+  },
+  {
+    "word": "disappointment",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'पूरा करना' (to complete/fulfill) is misleading. 'Appoint' means to assign to a position, not to fulfill. The morpheme here relates to 'pointing to' or 'assigning', which when negated with 'dis-' means to fail to meet expectations.",
+    "suggestion": "नियुक्त करना or निर्दिष्ट करना"
+  },
+  {
+    "word": "achievement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'हासिल करना' (to accomplish/achieve) is a verb phrase, but 'achiev' is a root morpheme that should be glossed as a noun or concept. The label is too long and doesn't follow the convention for tile labels.",
+    "suggestion": "उपलब्धि or just प्राप्त (achieve/accomplish)"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'नहीं' (not/no) is misleading. The prefix 'un-' in 'unfortunately' is indeed a negation prefix, but 'नहीं' doesn't capture that 'un-' here specifically negates the adjective 'fortunate'. A more accurate label should indicate the prefix function.",
+    "suggestion": "(un-) or अ-"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang '(विशेषण)' (adjective) is a grammatical descriptor that doesn't belong on a tile label. The morpheme should be glossed as a suffix that forms adjectives, using the convention (adj) or similar short form.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'आगे' (forward/ahead) is misleading in this context. The prefix 'pro-' in 'pronunciation' means 'forth/forward' in its historical sense, but 'आगे' alone doesn't convey the morphological function of the prefix clearly. A more accurate label would reflect the prefix function.",
+    "suggestion": "(pro-) or आगे की ओर"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang '(क्रिया-संज्ञा)' (verb-noun) is not following the short label convention. This should use the standard grammatical abbreviation for a nominalization suffix.",
+    "suggestion": "(action) or (noun)"
+  },
+  {
+    "word": "television",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'देखना' (to see/watch) is a verb phrase. The morpheme 'vis-' relates to vision/seeing, but the gloss should be shorter and more noun-like to reflect the root morpheme sense.",
+    "suggestion": "दृश्य or दिखना"
+  },
+  {
+    "word": "leadership",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang '(कर्ता)' (agent/doer) is not following the convention. According to the glossary convention, agent suffixes should be labeled '(doer)' in English conventions, or if this is a morpheme tile, it should indicate the -er suffix function.",
+    "suggestion": "(doer) or -(कर्ता)"
+  },
+  {
+    "word": "movement",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ment' is glossed as '(संज्ञा)' (noun), which is a grammatical description rather than a semantic gloss. It should indicate the function/meaning of the suffix in forming action nouns.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "celebration",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The root 'celebr' is glossed as 'उत्सव' (festival/celebration), but this confuses the root meaning (to celebrate) with the final noun form. The gloss should reflect the verb root 'celebrate', not the derived noun.",
+    "suggestion": "मनाना"
+  },
+  {
+    "word": "celebration",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ation' is glossed as '(क्रिया-संज्ञा)' (action-noun), which is a descriptive phrase rather than a concise label. Should follow the label convention.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "recognition",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 're-' is glossed as 'फिर' (again), which is a literal translation but misleading. In 'recognition', 're-' is part of the Latin root 're-cognoscere' and does not carry the productive 'again' meaning as it would in 'rewrite' or 'rebuild'. The gloss should indicate it as a prefix marker or acknowledge the Latin etymology.",
+    "suggestion": "(re-)"
+  },
+  {
+    "word": "recognition",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'cognit' is glossed as 'जानना' (to know), which is acceptable for the Latin cognoscere, but in the context of English morphology, this part is better understood as part of the bound root. The gloss is not incorrect but is imprecise for an English learner.",
+    "suggestion": "जानना"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'intro-' is glossed as 'अंदर' (inside), which is a literal translation of the Latin but misleading for English morphology. 'intro-' means 'into' or 'inward', not simply 'inside'. The label should be more precise.",
+    "suggestion": "(into)"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'duct' is glossed as 'ले जाना' (to take/carry), which is the literal meaning of the Latin 'ducere', but in English this is typically understood as 'lead'. More importantly, this part is a bound root and the gloss should reflect that understanding.",
+    "suggestion": "नेतृत्व"
+  },
+  {
+    "word": "comparison",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'com-' is glossed as 'साथ' (with/together), which is correct in meaning but should follow the label convention for prefixes with parentheses for clarity.",
+    "suggestion": "(with)"
+  },
+  {
+    "word": "comparison",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'par' is glossed as 'बराबर' (equal), which is etymologically related (from Latin 'par') but misleading. In 'comparison', the root relates to 'pair' or comes from 'parare' (to prepare/arrange). The gloss is not accurate for the actual morpheme function.",
+    "suggestion": "जोड़ी"
+  },
+  {
+    "word": "comparison",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ison' is glossed as '(क्रिया-संज्ञा)' (action-noun), which is a descriptive phrase rather than a concise label following the convention.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "partnership",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ship' is glossed as '(-पन/-ता)' which represents the abstract noun suffix, but the label is too long and uses slash notation. Should be a concise parenthetical gloss.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "discovery",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'dis-' is glossed as 'अलग' (separate/apart) which is overly literal and not the standard concise gloss for this prefix. The prefix 'dis-' here means negation or reversal.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "discovery",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-y' is glossed as '(संज्ञा)' (noun) which is too verbose. The standard convention for noun-forming suffixes should use a concise parenthetical.",
+    "suggestion": "(noun)"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ation' is glossed as '(क्रिया-संज्ञा)' which is too long and uses plain text description. Should use concise convention for action/nominalizing suffix.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' is glossed as 'में/अंदर' (in/inside) which is misleading. In 'improve', 'im-' is the causative prefix (variant of 'em-'), not a locative.",
+    "suggestion": "(on)"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ment' is glossed as '(क्रिया-संज्ञा)' which is too verbose. Should use concise parenthetical convention.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'en-' is glossed as 'बनाना' (to make/make into) which is somewhat accurate but not the standard concise gloss. Should use brief parenthetical.",
+    "suggestion": "(on)"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ment' is glossed as '(क्रिया-संज्ञा)' which is too verbose and uses plain text. Should use concise parenthetical.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'ad-' means 'to' or 'toward', not 'ओर/तरफ' (direction/side). The gloss should reflect the prefix function.",
+    "suggestion": "को/की ओर"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'vert' comes from Latin 'vertere' meaning 'turn', not simply 'मोड़ना' (to bend/fold). In this context it means 'to turn/direct'.",
+    "suggestion": "मुड़ना"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ise/-ize' is a verb-forming suffix, but the label '(क्रिया)' is too vague. Standard convention uses '(vb)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "entertainment",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'enter-' is a prefix meaning 'between/among', not 'बीच में' as a descriptive phrase. Should use compact prefix notation.",
+    "suggestion": "बीच"
+  },
+  {
+    "word": "entertainment",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'tain' comes from Latin 'tenere' meaning 'to hold/keep', not 'थामना/रखना' (which are too close to the root meaning). The gloss should be shorter and use standard convention.",
+    "suggestion": "(hold)"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' here is not 'अंदर/में' but rather a neutral prefix. The label is imprecise for a prefix tile.",
+    "suggestion": "(in)"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'vestig' comes from Latin 'vestigium' (footprint/trace), not 'खोज/निशान'. While related semantically, the gloss should be more precise.",
+    "suggestion": "निशान"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'ex-' means 'out/out of', but the label 'बाहर' is too vague. Should use compact prefix notation.",
+    "suggestion": "(out)"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'plan' comes from Latin 'planus' (flat/level), but 'सपाट/स्पष्ट' conflates two different meanings. Should focus on the root sense.",
+    "suggestion": "समतल"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'par' comes from Latin 'parare' meaning 'to prepare/make ready', not 'तैयार करना' which is the full verb. The morpheme gloss should be more atomic.",
+    "suggestion": "तैयार"
+  },
+  {
+    "word": "establishment",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'स्थापित करना' is too long for a tile label (should be ~4 words max). Also, the root 'establish' in this context means 'set up/found', not just the past participle 'established'.",
+    "suggestion": "स्थापित करना should be shortened to 'स्थापन' or 'स्थापित'"
+  },
+  {
+    "word": "conclusion",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'बंद करना' (to close/shut) is misleading. While 'clud/clus' relates to Latin 'claudere' (close), in 'conclusion' it functions as part of the verb 'conclude' meaning 'to end/finish a process', not just 'close'. The gloss should reflect the actual meaning in context.",
+    "suggestion": "समाप्त करना or सिद्ध करना"
+  },
+  {
+    "word": "population",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'लोग' (people) is incomplete. The root 'popul' is the Latin 'populus' (people/nation), but in context of 'population', it refers to the collective demographic meaning, not just 'people'. This is acceptable but could be more precise.",
+    "suggestion": "जनसंख्या (if clarifying the collective sense) or लोग (if keeping simple)"
+  },
+  {
+    "word": "neighborhood",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(-पन/समूह)' is inconsistent in formatting and too long. The '-hood' suffix here means 'a place/district of' or 'the community of', not just 'state/quality'. The label should be concise and consistent with the convention.",
+    "suggestion": "(-क्षेत्र) or (-समुदाय)"
+  },
+  {
+    "word": "darkness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article 'the' is set, but 'darkness' as an abstract noun does not require or typically use 'the' in English. Compare: 'fear of darkness' (no article) vs. 'fear of the darkness' (specific context only).",
+    "suggestion": "Remove or leave empty"
+  },
+  {
+    "word": "brightness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article 'the' is set, but 'brightness' as an abstract noun does not require 'the'. Similar to 'darkness', it is used without article in general statements.",
+    "suggestion": "Remove or leave empty"
+  },
+  {
+    "word": "sadness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article 'the' is set, but 'sadness' as an abstract noun does not require 'the' in standard English usage.",
+    "suggestion": "Remove or leave empty"
+  },
+  {
+    "word": "kindness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Abstract nouns like 'kindness' do not typically take the definite article 'the' in English; they are used without an article or with 'a' in specific contexts.",
+    "suggestion": null
+  },
+  {
+    "word": "freshness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Abstract nouns like 'freshness' do not typically take the definite article 'the' in English; they are used without an article or with 'a' in specific contexts.",
+    "suggestion": null
+  },
+  {
+    "word": "forgiveness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Abstract nouns like 'forgiveness' do not typically take the definite article 'the' in English; they are used without an article or with 'a' in specific contexts.",
+    "suggestion": null
+  },
+  {
+    "word": "recklessness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Abstract nouns like 'recklessness' do not typically take the definite article 'the' in English; they are used without an article or with 'a' in specific contexts.",
+    "suggestion": null
+  },
+  {
+    "word": "selfishness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Abstract nouns like 'selfishness' do not typically take the definite article 'the' in English; they are used without an article or with 'a' in specific contexts.",
+    "suggestion": null
+  },
+  {
+    "word": "forgiveness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'for-' in 'forgiveness' is a completive/intensive prefix meaning roughly 'completely' or 'away', but the gloss 'पूरी तरह' (completely) is too literal and long for a tile label. Use a short parenthetical label for prefixes.",
+    "suggestion": "(for-)"
+  },
+  {
+    "word": "recklessness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-less' in 'recklessness' means 'without' or 'lacking', but the gloss '(बिना)' is correct in meaning though typically '-less' should be glossed more concisely in English-Hindi contexts. However, this is acceptable; the real issue is that this is a suffix, not a standalone morpheme with independent meaning, so the label should reflect the suffix form.",
+    "suggestion": "(-less)"
+  },
+  {
+    "word": "thoughtfulness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(युक्त)' means 'equipped/endowed with' (adjectival suffix), but '-ful' in English is more directly equivalent to the suffix form. The label should reflect its function as an adjective-forming suffix, not a descriptive participle.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "worthlessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'नाकाबिल' primarily means 'incompetent/incapable of', not 'worthless'. The correct Hindi word should be 'बेकारपन' or 'निरर्थकता' to properly convey the sense of having no value or worth.",
+    "suggestion": "बेकारपन"
+  },
+  {
+    "word": "breathlessness",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "सांस फूलना is a verb phrase (to be breathless/out of breath), not a noun for the state of breathlessness. It should be a noun form like सांसफूलपन or दम घुटना की स्थिति",
+    "suggestion": "दमघुटन or सांसफूलपन (noun form matching -ness)"
+  },
+  {
+    "word": "meaningless",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should be the Hindi gloss label for the English morpheme 'meaning', not the full word. 'अर्थ' is correct but should follow the convention of being brief and clear for a tile label.",
+    "suggestion": "अर्थ (correct as is, but verify it fits the tile label length requirement)"
+  },
+  {
+    "word": "effortless",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'सरल' means 'simple' but 'effortless' carries the connotation of something done with ease or requiring no effort, not merely simple. The translationLong is more accurate.",
+    "suggestion": "सहज or निष्प्रयास"
+  },
+  {
+    "word": "wireless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(बिना)' means 'without' but is too long for a tile label. Should use standard abbreviation for the -less suffix.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "endless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(बिना)' means 'without' but is too long for a tile label. Should use standard abbreviation for the -less suffix.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "fearless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(बिना)' means 'without' but is too long for a tile label. Should use standard abbreviation for the -less suffix.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "useless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(बिना)' means 'without' but is too long for a tile label. Should use standard abbreviation for the -less suffix.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "hopeful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(युक्त)' means 'containing/full of' but is too long for a tile label. Should use standard abbreviation for the -ful suffix.",
+    "suggestion": "(full)"
+  },
+  {
+    "word": "peaceful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "शांति is the noun 'peace', but the tile label should be concise. 'शांति' is acceptable but consider if a shorter gloss like 'peace' (in Hindi script) would be clearer for a game tile.",
+    "suggestion": "शांति (already acceptable; no change needed)"
+  },
+  {
+    "word": "careful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'ध्यान' means 'attention/care' but in the context of 'careful', the root 'care' refers to caution or concern. 'ध्यान' is somewhat loose here; 'देख-भाल' or 'सावधानी' would be more precise for this specific word.",
+    "suggestion": "सावधानी"
+  },
+  {
+    "word": "thankful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'धन्यवाद' is the full phrase 'thank you', but the root morpheme 'thank' is the verb. The homeLang label should reflect just the concept of gratitude or the verb form, not the full courtesy phrase.",
+    "suggestion": "कृतज्ञता"
+  },
+  {
+    "word": "wonderful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "अचरज (achraj) means 'surprise' or 'astonishment', but 'wonder' in this context means the feeling of amazement/awe itself, or something that causes amazement. अचरज is too narrow and doesn't capture the full sense of 'wonder' as a noun.",
+    "suggestion": "आश्चर्य"
+  },
+  {
+    "word": "graceful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "सुंदरता literally means 'beauty' but in 'graceful', 'grace' refers to elegance of movement/manner, not beauty. The gloss should reflect the sense of 'elegance' or 'poise' rather than purely physical beauty.",
+    "suggestion": "शालीनता or एलीगेंस"
+  },
+  {
+    "word": "thoughtful",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The exampleTranslation uses 'सोचनीय' which is awkward and unnatural. The correct idiomatic Hindi phrase should be 'विचारशील' or 'सुविचारित' to convey 'thoughtful' in the context of showing care.",
+    "suggestion": "मेज़बान के लिए फूल लाना आपकी तरफ़ से बहुत विचारशील था।"
+  },
+  {
+    "word": "skillful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' means 'full of' or 'characterized by', not '(युक्त)' which is too literal and doesn't convey the adjective-forming function. The gloss should reflect that this is an adjective-forming suffix.",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "useful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' means 'full of' or 'characterized by', not '(युक्त)' which is too literal. The gloss should reflect the adjective-forming function consistently.",
+    "suggestion": "(full of)"
+  }
+]

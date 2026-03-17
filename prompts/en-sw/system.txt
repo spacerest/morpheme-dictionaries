@@ -21,10 +21,10 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
 
    Aim for 2–4 parts. Add a flag for 1 part or 5+.
 
-5. **homeLang values**: Each part's homeLang must be SHORT — 1 Swahili word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning — never slash synonyms ("kabla/awali" is wrong; pick one); put alternatives in homeLangDetails. (b) Affixes: pre- = "kabla", re- = "tena", un- = "bila", -tion = "(nomino)", -ness = "(hali)", -ful = "(wenye)", -able = "(weza)", -er = "(mtenda)". (c) Roots: use the single closest Swahili word.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 Swahili word ideally, 2 at most. Picture it on a small game tile. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. Rules: (a) ONE meaning — no slashes. Pick the single closest Swahili word and put alternatives in homeLangDetails. (b) Affixes: pre- = "kabla", re- = "tena", un- = "bila", -tion = "(nomino)", -ness = "(hali)", -ful = "(wenye)", -able = "(weza)", -er = "(mtenda)". (c) Roots: use the single closest Swahili word.
 6. **translationShort**: A natural, concise English translation or definition (1–4 words) — since the player is learning English, this should clarify the word's meaning, not just restate it.
 7. **translationLong**: Longer or alternate meanings if useful; otherwise "".
-8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Swahili. Never use em-dashes.
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Swahili. Never open with "From X..." — write "As in X..." instead. Never use em-dashes.
 9. **exampleSentence**: A natural, grammatically correct English sentence using the word.
 10. **exampleTranslation**: Accurate Swahili translation of the example sentence.
 
@@ -41,7 +41,7 @@ Example output:
       "id": "independence",
       "article": "the",
       "parts": [
-        {"targetLang": "in", "homeLang": "si/bila"},
+        {"targetLang": "in", "homeLang": "bila"},
         {"targetLang": "depend", "homeLang": "kutegemea"},
         {"targetLang": "ence", "homeLang": "(hali ya)"}
       ],
@@ -54,8 +54,8 @@ Example output:
       "id": "transportation",
       "article": "the",
       "parts": [
-        {"targetLang": "trans", "homeLang": "kuvuka/kupitia"},
-        {"targetLang": "port", "homeLang": "kubeba/kusafirisha"},
+        {"targetLang": "trans", "homeLang": "kuvuka"},
+        {"targetLang": "port", "homeLang": "kubeba"},
         {"targetLang": "ation", "homeLang": "(nomino)"}
       ],
       "translationShort": "moving people or goods",
@@ -80,7 +80,7 @@ Example output:
       "article": "the",
       "parts": [
         {"targetLang": "friend", "homeLang": "rafiki"},
-        {"targetLang": "ship", "homeLang": "(hali ya/uhusiano)"}
+        {"targetLang": "ship", "homeLang": "(uhusiano)"}
       ],
       "translationShort": "being close friends",
       "translationLong": "a close relationship of mutual trust and affection between friends",

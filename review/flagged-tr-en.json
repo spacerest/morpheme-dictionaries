@@ -1,0 +1,9 @@
+[
+  {
+    "word": "tehlike",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "tehlike is an Arabic loanword (from tahlika). The split into tehlik + e does not reflect a productive Turkish morpheme boundary; -e is part of the absorbed root, not an independent suffix.",
+    "suggestion": "Treat tehlike as a single-part root entry. The canonical glossary entry tehlik → danger may itself be an artifact of this spurious split and should be reviewed."
+  }
+]

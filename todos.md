@@ -1,10 +1,24 @@
+## ru-de post-verify cleanup
+- [] create ru-de glossary after verify pass — check for inconsistent labels across entries (e.g. -ность glossed as -heit in some, -keit in others) and canonicalize
+
 ## Issues to look up and fix in db
+- [] ru-en: audit for more verbs with incomplete splitting — prefix correctly split but infinitive ending not extracted as its own part (e.g. пере + водить instead of пере + вод + ить). Query: parts ending in -ть/-ти/-ить/-еть/-ать/-уть longer than ~4 chars that start with a known prefix.
+- [] some parts have incorrect part_role — the backfill heuristic (parentheses → grammatical, '-' → linking) will have mis-tagged some; audit and correct manually via SQL
 - [] one-part words ("intellektuell")
 - [] erzaehlen has wrong equivalent morpheme in english -- says "er" is "-er"
+- [] entries with phantom `0(-)` parts (target_lang_text='0', home_lang_text='-') — query all affected entries and delete those parts. Known cases: unternehmung, Geburtstagskuchen, Weihnachtsbaum.
 
 ## General fixes
 - [] morpheme/parts (?) table needs a column for a flag to mark morphemes translations that conflict with the common morpheme translation (i.e. ein is usually "in" in german, but sometimes "one" as in "einseitigkeit")
 - [] related to above, maybe we should have two "ein" in morpheme/parts (?) table. a primary, secondary one? or would we have "ein" (in) and "eins" (one)
+
+## Sanity check improvements (done)
+- [x] Added checks 8 and 9: translationShort in exampleTranslation and word_id in exampleSentence (fuzzy + substring)
+- [x] Per-language fuzzy thresholds (agglutinative 0.55, Slavic 0.58–0.60, Germanic 0.65, Romance 0.68, en 0.72, zh 0.80)
+- [x] Handles comma/semicolon/slash-separated alternatives (e.g. "freedom, liberty")
+- [x] Strips parenthetical qualifiers (e.g. "to call (by phone)") before matching
+- [x] Strips "to " infinitive prefix before matching English verbs
+- [x] Checks 8–9 insert flags into verification_flags DB table with dedup
 
 ## Verification pass (to_verify=1 entries)
 
@@ -21,6 +35,10 @@ human review. After fixing, mark entries review_status='passed' and import=1 to 
 in exports.
 
 ## General todos
+- [] before generating word lists for a new language, ask Claude to review and beef up the LANGUAGE_NOTES entry in generate_wordlists.py — add concrete good/bad examples, specific productive morphemes with meanings, and explicit AVOID instructions (see sl notes as a model)
+
+- [] in export_to_json, for each part look up all other distinct home_lang_text values for the same target_lang_text across the pair (import=1 only, exclude `-` and parenthetical labels), and if any differ from the current gloss, append "Other equivalents of X: a, b." to homeLangDetails. Suppress if only one unique gloss exists. Clarify: dash restoration in label, placement when homeLangDetails already has content, whether to scope to import=1.
+
 - [] add long translation to esperanto glossary
 - [] add swahili glossary
 - [] add possible age rating to words
@@ -31,10 +49,66 @@ in exports.
 - [] have a words list that keeps track of what languages we have that word available in
 - [] inconsistency in parts table. i.e. look up "ship" in home_lang_text of parts table -- multiple similar entries for the same room in target_lang_text
 - [] finish de-ru dict (ended around 60/116) and ru-de (ended around 160/541)
+- [] generate hi and zh cross pairs with all other non-English languages (hi-en and zh-en already in DB with 100 and 233 entries; just run generate_cross_pairs.py locally — hi/zh are auto-included)
 - [] figure out why export_to_json says no hi-en or en-hi or en-sw etc in db
-- [] decide on cross-pair generation strategy (de-ru, fr-es, etc.): Google Translate is fast and cheap but likely too lossy for morpheme glosses (short context-dependent labels like "opposite" or "(cause)" don't translate cleanly). Claude regloss is higher quality but costs more API calls. Consider: use Google Translate only for translation_short/long/exampleTranslation, and use Claude regloss (or manual glossaries) for the homeLang tile values which matter most for gameplay.
+- [x] decide on cross-pair generation strategy: two-step pipeline — Google Translate for translation_short (word_id) and example_translation; Claude (regloss_cross_pairs.py) for homeLang tile values and translation_long and home_lang_details
 - [x] undersplit detection -- ran find_undersplit.py and fix_undersplit.py on all pairs. 140 entries auto-fixed (de-en: 98, ar-en: 24, ru-en: 12, fi-en: 2, others: 1 each). en-XX pairs were already clean.
 - [] de-en: 3 Fugen-suffix undersplit cases need manual review -- geburtstagskuchen (geburtstags→geburtstag+s), sicherheitshalber (sicherheits→sicherheit+s), teilnehmerinn (→teilnehmerin+n). Fix by expanding the baked-in suffix into a separate linking part.
+- [x] update generate_cross_pairs.py to only do Google Translate for translation_short + example_translation (done)
+- [x] make prompt for anthropic calls related to generate_cross_pairs.py (done: prompts/regloss_cross.txt)
+- [] zu and other short grammatical morphemes need shorter equivs (maybe move this to morpheme-dictionary repo)
+- []  Relationship between Verkehr (traffic) and verkehrt (upside down)? (maybe move this to morpheme-dictionary)
+- [x] German nouns need to be capitalized -- fixed in DB: 1939 renamed, 2 lowercase duplicates (beschreibung, entscheidung) deleted
+- [] "disappointed" in hindi has first morpheme meaning "fully", which doens't make sense ("fully + hope" doesn't make disappointed). Google translate says first morpheme ni means prohibit
+- [x] russian translations still blank? thought we filled those in like multiple times
+- [] en-ru short_translations seem wordy. and they don't have gender indicated
+- [] en-hi has "the" as article for all nouns (should be indicating gender?)
+- [] more verbs in english word lists
+- [] double check that all fi-en have more than one part
+- [x] add dictionary for irish gaelic (ga-en, 99 entries, glossary created)
+- [] add dictionary for welsh
+- [] make a script that goes through home_lang looking for commas and slashes and chooses one and moves the other to an alternates column
+- [] en-zh has some english in home_lang_text
+- [] en-zh has some home_lang_text that says noun, adj in chinese but is marked semantic not grammatical
+
+## Cross-pair pipeline gaps (de-ru, ru-de and future xx-yy pairs)
+
+Three fields are currently missing from cross-pair entries and need to be fixed:
+
+1. **translation_short + example_translation** (empty for de-ru/ru-de): Were accidentally
+   cleared in a cleanup run. Need a `--fill-missing` flag in `generate_cross_pairs.py`
+   that UPDATEs entries with empty values (instead of INSERT OR IGNORE skipping them).
+   Run locally since it requires Google Translate API access.
+   ```
+   python generate_cross_pairs.py --langs de ru --fill-missing
+   ```
+
+2. **translation_long** (never generated): `regloss_cross_pairs.py` only fills
+   `parts[].home_lang_text`. Update the script and `prompts/regloss_cross.txt` to also
+   generate a `translationLong` per word (a fuller translation, like `translation_short`
+   but with alternates/context, in the home language).
+
+3. **home_lang_details on parts** (always NULL for cross pairs): The rich per-morpheme
+   explanations (with examples of the morpheme in other words) are only generated for
+   xx-en pairs by the main generation prompt. Update `prompts/regloss_cross.txt` and
+   `regloss_cross_pairs.py` to optionally generate these too — or accept they stay NULL
+   for cross pairs to save API cost.
+
+**Root cause of wrong-language translations**: `translate()` had `source="en"` hardcoded.
+For cross-pairs the source must be `target_lang` (the language the word/sentence is in).
+Fixed in generate_cross_pairs.py — translate() now takes a `source_lang` parameter.
+
+Fix order:
+1. Clear bad translation_short and example_translation for de-ru and ru-de (they may have
+   wrong-language values from the buggy run):
+   ```python
+   UPDATE entries SET translation_short='', example_translation='' WHERE target_lang='de' AND home_lang='ru';
+   UPDATE entries SET translation_short='', example_translation='' WHERE target_lang='ru' AND home_lang='de';
+   ```
+2. Locally (Google Translate, now with correct source lang):
+   `python generate_cross_pairs.py --langs de ru --fill-missing`
+3. Server (Claude): `python regloss_cross_pairs.py --target-lang de --home-lang ru`
+4. Server (Claude): `python regloss_cross_pairs.py --target-lang ru --home-lang de`
 
 ## Getting 100-word dicts ready to ship
 

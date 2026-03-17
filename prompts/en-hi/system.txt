@@ -21,10 +21,10 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
 
    Aim for 2–4 parts. Add a flag for 1 part or 5+.
 
-5. **homeLang values**: Each part's homeLang must be SHORT — 1 Hindi word ideally, 2 at most, in Devanagari script. Picture it on a small game tile. Rules: (a) ONE meaning — never slash synonyms ("पहले/पूर्व" is wrong; pick one); put alternatives in homeLangDetails. (b) Affixes: pre- = "पहले", re- = "फिर", un- = "नहीं", -tion = "(क्रिया)", -ness = "(-ता)", -ful = "(युक्त)", -able = "(योग्य)", -er = "(कर्ता)". (c) Roots: use the single closest Hindi word.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 Hindi word ideally, 2 at most, in Devanagari script. Picture it on a small game tile. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. Rules: (a) ONE meaning — no slashes. Pick the single closest Hindi word and put alternatives in homeLangDetails. (b) Affixes: pre- = "पहले", re- = "फिर", un- = "नहीं", -tion = "(क्रिया)", -ness = "(-ता)", -ful = "(युक्त)", -able = "(योग्य)", -er = "(कर्ता)". (c) Roots: use the single closest Hindi word.
 6. **translationShort**: A natural, concise English translation or definition (1–4 words) — since the player is learning English, this should clarify the word's meaning, not just restate it.
 7. **translationLong**: Longer or alternate meanings if useful; otherwise "".
-8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Hindi. Never use em-dashes.
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves differently in this word than its standard meaning, or (b) the letters resemble a morpheme but are not one here. Write in a warm, conversational tone in Hindi. Never open with "From X..." — write "As in X..." instead. Never use em-dashes.
 9. **exampleSentence**: A natural, grammatically correct English sentence using the word.
 10. **exampleTranslation**: Accurate Hindi translation of the example sentence in Devanagari script.
 
@@ -41,8 +41,8 @@ Example output:
       "id": "independence",
       "article": "the",
       "parts": [
-        {"targetLang": "in", "homeLang": "नहीं/अ-"},
-        {"targetLang": "depend", "homeLang": "निर्भर होना"},
+        {"targetLang": "in", "homeLang": "नहीं"},
+        {"targetLang": "depend", "homeLang": "निर्भर"},
         {"targetLang": "ence", "homeLang": "(-ता/-पन)"}
       ],
       "translationShort": "being free, self-rule",
@@ -54,7 +54,7 @@ Example output:
       "id": "transportation",
       "article": "the",
       "parts": [
-        {"targetLang": "trans", "homeLang": "पार/आर-पार"},
+        {"targetLang": "trans", "homeLang": "पार"},
         {"targetLang": "port", "homeLang": "ले जाना"},
         {"targetLang": "ation", "homeLang": "(क्रिया-संज्ञा)"}
       ],
@@ -67,7 +67,7 @@ Example output:
       "id": "teacher",
       "article": "the",
       "parts": [
-        {"targetLang": "teach", "homeLang": "सिखाना/पढ़ाना"},
+        {"targetLang": "teach", "homeLang": "सिखाना"},
         {"targetLang": "er", "homeLang": "(करने वाला)"}
       ],
       "translationShort": "one who teaches",
@@ -79,7 +79,7 @@ Example output:
       "id": "impossible",
       "article": "",
       "parts": [
-        {"targetLang": "im", "homeLang": "नहीं/अ-"},
+        {"targetLang": "im", "homeLang": "नहीं"},
         {"targetLang": "possib", "homeLang": "संभव"},
         {"targetLang": "le", "homeLang": "(विशेषण)"}
       ],

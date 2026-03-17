@@ -1,0 +1,16 @@
+sqlite3 morpheme_dicts.db "
+ATTACH '/tmp/morpheme_dicts_old.db' AS backup;
+UPDATE main.parts
+SET home_lang_text = COALESCE(
+    (SELECT backup.parts.home_lang_text FROM backup.parts
+     WHERE backup.parts.target_lang = main.parts.target_lang
+       AND backup.parts.home_lang = main.parts.home_lang
+       AND backup.parts.target_lang_text = main.parts.target_lang_text
+       AND backup.parts.part_index = main.parts.part_index
+     LIMIT 1),
+    main.parts.home_lang_text
+)
+WHERE morpheme_type = 'prefix'
+  AND NOT (target_lang = 'ru' AND home_lang = 'de');
+DETACH backup;
+SELECT changes() || ' rows restored';"

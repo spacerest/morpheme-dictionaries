@@ -1,0 +1,99 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows <HOMELANG> and is learning <TARGETLANG>. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the Japanese word exactly as given (kanji + kana as provided; do not convert to romaji or change the form).
+2. **article**: Always "" — Japanese has no grammatical articles or gendered nouns.
+3. **parts**: Split the word at all real morpheme boundaries. For Japanese this means:
+   - **Kanji compounds**: each kanji is typically its own morpheme (電話 → 電 + 話; 図書館 → 図書 + 館). Split at the level that is most instructive for the learner — if two kanji form an inseparable unit (図書 "library collection"), keep them together rather than forcing a split.
+   - **Verb and adjective stems + inflectional endings**: include the okurigana (trailing kana) as a separate part when it is a grammatical suffix (食べる → 食べ + る; 歩きます → 歩き + ます). The kanji + its attached okurigana that are part of the stem should stay together (食べ, not 食 + べ).
+   - **Prefixes and suffixes from the glossary**: 不-, 無-, 再-, -的, -化, -者, -語, etc. are each their own part.
+   - Aim for 2–4 parts. If full decomposition yields 5+, include them all and set "flag".
+4. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it stamped on a small game tile. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. Rules:
+   - ONE meaning only — no slashes. Pick the single best gloss and put alternatives in homeLangDetails.
+   - For kanji roots, give the most relevant English meaning in context (電 → "electric", 話 → "talk").
+   - Grammatical inflections get brief labels: る → "(vb)", ます → "(polite)", た → "(past)", て → "(conj)", ない → "(neg)", の → "(noun)", な → "(adj)".
+   - Suffixes/prefixes with direct English equivalents: -的 → "-like", -化 → "-ize", -者 → "person", -語 → "language".
+   - Never write out long grammatical descriptions in plain text.
+5. **translationShort**: A natural, concise English translation of the full word (1–4 words).
+6. **translationLong**: Longer or alternate translations if useful; otherwise "".
+7. **homeLangDetails**: Optional field on a part. Omit for morphemes covered in the glossary — those will be auto-filled. Include it when:
+   - A kanji's meaning in this specific compound differs from its usual standalone meaning (e.g., 気 normally means "spirit/feeling" but in 天気 the compound means "weather").
+   - The morpheme resembles a glossary entry but is NOT acting in that role here.
+   - The etymology or connection to related words would genuinely help the learner.
+   Write in a warm, conversational tone — like a knowledgeable friend, not a textbook. Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full form is built on it). Never use em-dashes.
+8. **exampleSentence**: A natural, grammatically correct sentence in Japanese using the word. Use kanji where natural; do not add furigana.
+9. **exampleTranslation**: Accurate English translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note (e.g., "flag": "only 1 part"). Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "Japanese Vocab",
+  "words": [
+    {
+      "id": "電話",
+      "article": "",
+      "parts": [
+        {"targetLang": "電", "homeLang": "electric"},
+        {"targetLang": "話", "homeLang": "talk"}
+      ],
+      "translationShort": "telephone",
+      "translationLong": "telephone, phone call",
+      "exampleSentence": "電話してもいいですか？",
+      "exampleTranslation": "May I call you?"
+    },
+    {
+      "id": "図書館",
+      "article": "",
+      "parts": [
+        {"targetLang": "図書", "homeLang": "books", "homeLangDetails": "図 means 'diagram/map' and 書 means 'writing/book', but together 図書 is a fixed compound meaning 'library collection' or simply 'books' in an institutional sense. Splitting further would obscure rather than illuminate the word."},
+        {"targetLang": "館", "homeLang": "hall"}
+      ],
+      "translationShort": "library",
+      "translationLong": "public library",
+      "exampleSentence": "週末に図書館で本を借りました。",
+      "exampleTranslation": "I borrowed a book from the library on the weekend."
+    },
+    {
+      "id": "国際化",
+      "article": "",
+      "parts": [
+        {"targetLang": "国", "homeLang": "country"},
+        {"targetLang": "際", "homeLang": "between"},
+        {"targetLang": "化", "homeLang": "-ize"}
+      ],
+      "translationShort": "internationalization",
+      "translationLong": "internationalization, going global",
+      "exampleSentence": "この会社は急速に国際化が進んでいる。",
+      "exampleTranslation": "This company is rapidly becoming international."
+    },
+    {
+      "id": "食べる",
+      "article": "",
+      "parts": [
+        {"targetLang": "食べ", "homeLang": "eat"},
+        {"targetLang": "る", "homeLang": "(vb)"}
+      ],
+      "translationShort": "to eat",
+      "translationLong": "",
+      "exampleSentence": "毎朝ご飯を食べます。",
+      "exampleTranslation": "I eat rice every morning."
+    },
+    {
+      "id": "不便",
+      "article": "",
+      "parts": [
+        {"targetLang": "不", "homeLang": "un-"},
+        {"targetLang": "便", "homeLang": "convenient"}
+      ],
+      "translationShort": "inconvenient",
+      "translationLong": "inconvenient, inconvenience",
+      "exampleSentence": "この町は交通が不便です。",
+      "exampleTranslation": "Transportation in this town is inconvenient."
+    }
+  ]
+}

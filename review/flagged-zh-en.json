@@ -1,0 +1,23 @@
+[
+  {
+    "word": "大小",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "大小 (big + small) is a lexicalized antonym compound whose meaning 'size' is not compositionally predictable from its parts — the player cannot derive 'size' from 'big' + 'small' without a leap.",
+    "suggestion": "Consider adding a note in homeLangDetails for both parts explaining the antonym-compound pattern (big + small = size, like 'how big or small'), or flag the entry as a semi-transparent idiom."
+  },
+  {
+    "word": "文化",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "文化 is a fully lexicalized word meaning 'culture/civilization' and does not transparently decompose into 文 + 化 in modern usage. The -化 suffix normally means 'to become/transform' (as in 现代化), but 文化 does not mean 'the process of becoming literary' to a modern speaker — it is simply the word for 'culture'.",
+    "suggestion": "Consider treating 文化 as a root entry rather than a morpheme-split compound, or add a clear note that this is a historical/etymological split not a productive modern one."
+  },
+  {
+    "word": "没意思",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "没意思 is canonically parsed as 没 + 意思, where 意思 is a fused disyllabic word meaning 'meaning/interest' — splitting it further into 意 and 思 as independent morphemes is a mis-cut that obscures the natural unit.",
+    "suggestion": "Split as parts: [没, 意思] with 意思 glossed as 'meaning, interest'."
+  }
+]

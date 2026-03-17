@@ -1,0 +1,529 @@
+
+  [de-en] self-referential: 104 candidates (0 already marked 'passed')
+
+  geburtstagskuchen
+    breakdown:   geburtstags(birthday) + kuchen(cake) + 0(-) + 0(-)
+    translation: 
+    !! part 'geburtstags' matches word 'geburtstag' (2 parts)
+
+  erfahrungsreich
+    breakdown:   erfahrung(experience) + s((linking element)) + reich(rich in/-ful)
+    translation: 
+    !! part 'erfahrung' matches word 'erfahrung' (4 parts)
+
+  erfahrungsarm
+    breakdown:   erfahrung(experience) + s((linking element)) + arm(poor in/-lacking)
+    translation: 
+    !! part 'erfahrung' matches word 'erfahrung' (4 parts)
+
+  zwischenlösung
+    breakdown:   zwischen(between/interim) + lösung(solution)
+    translation: 
+    !! part 'lösung' matches word 'lösung' (2 parts)
+
+  netzwerksicherheit
+    breakdown:   netz(net/network) + werk(work/structure) + sicherheit(security/safety)
+    translation: 
+    !! part 'sicherheit' matches word 'sicherheit' (4 parts)
+
+  gesundheitswesen
+    breakdown:   gesundheit(health) + s(-s- (linking)) + wesen(system/being)
+    translation: 
+    !! part 'gesundheit' matches word 'gesundheit' (4 parts)
+
+  unterstützungsbedürfnis
+    breakdown:   unter(under-/sub-) + stütz(support/prop) + ung(-tion) + s(-s- (linking)) + bedürfnis(need/necessity)
+    translation: 
+    !! part 'bedürfnis' matches word 'bedürfnis' (3 parts)
+
+  dementsprechend
+    breakdown:   dem(that/the (dat.)) + entsprechend(corresponding/accordingly)
+    translation: 
+    !! part 'entsprechend' matches word 'entsprechend' (3 parts)
+
+  sicherheitshalber
+    breakdown:   sicherheits(security/safety) + halber(for the sake of)
+    translation: 
+    !! part 'sicherheits' matches word 'sicherheit' (4 parts)
+
+  agrarministerium
+    breakdown:   agrar(agricultural) + ministerium(ministry)
+    translation: agriculture ministry
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  aktiengesellschaft
+    breakdown:   aktie(share/stock) + n(-) + gesellschaft(company/-ship)
+    translation: public limited company
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  aufsichtsratsvorsitzender
+    breakdown:   aufsichtsrat(supervisory board) + s(-) + vor(fore-/before) + sitz(seat/sit) + end((present participle)) + er((agent: one who does))
+    translation: chairman of the board
+    !! part 'aufsichtsrat' matches word 'aufsichtsrat' (4 parts)
+
+  authentischeres
+    breakdown:   authentisch(authentic) + er((comparative)) + es((adjective ending))
+    translation: more authentic
+    !! part 'authentisch' matches word 'authentisch' (2 parts)
+
+  baugenossenschaft
+    breakdown:   bau(building/construction) + genossenschaft(cooperative)
+    translation: building cooperative
+    !! part 'genossenschaft' matches word 'genossenschaft' (4 parts)
+
+  behandlungsanleitungen
+    breakdown:   behandlung(treatment) + s(-) + anleitungen(instructions (plural))
+    translation: treatment instructions
+    !! part 'behandlung' matches word 'behandlung' (3 parts)
+
+  beinfreiheit
+    breakdown:   bein(leg) + freiheit(freedom)
+    translation: legroom
+    !! part 'freiheit' matches word 'freiheit' (4 parts)
+
+  bergfriedhof
+    breakdown:   berg(mountain/hill) + friedhof(cemetery)
+    translation: hillside cemetery
+    !! part 'friedhof' matches word 'friedhof' (2 parts)
+
+  cybersicherheitsfirma
+    breakdown:   cyber(cyber) + sicherheit(security) + s(-) + firma(firm/company)
+    translation: cybersecurity firm
+    !! part 'sicherheit' matches word 'sicherheit' (4 parts)
+
+  dachgesellschaft
+    breakdown:   dach(roof) + gesellschaft(company/-hood)
+    translation: parent company
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  dorfgemeinschaft
+    breakdown:   dorf(village) + gemeinschaft(community)
+    translation: village community
+    !! part 'gemeinschaft' matches word 'gemeinschaft' (3 parts)
+
+  energiegenossenschaft
+    breakdown:   energie(energy) + genossenschaft(cooperative)
+    translation: energy cooperative
+    !! part 'genossenschaft' matches word 'genossenschaft' (4 parts)
+
+  energieinfrastruktur
+    breakdown:   energie(energy) + infrastruktur(infrastructure)
+    translation: energy infrastructure
+    !! part 'infrastruktur' matches word 'infrastruktur' (2 parts)
+
+  entscheidungsfreiheit
+    breakdown:   ent(away/un-) + scheid(separate/divide) + ung((noun: action or result)) + s(-) + freiheit(freedom)
+    translation: freedom of choice
+    !! part 'freiheit' matches word 'freiheit' (4 parts)
+
+  entscheidungshilfe
+    breakdown:   entscheidung(decision) + s(-) + hilfe(help/aid)
+    translation: decision aid
+    !! part 'entscheidung' matches word 'entscheidung' (3 parts)
+
+  ersatzfreiheitsstrafe
+    breakdown:   ersatz(substitute/replacement) + freiheit(freedom) + s(-) + strafe(penalty/punishment)
+    translation: default custodial sentence
+    !! part 'freiheit' matches word 'freiheit' (4 parts)
+
+  erzkonservativ
+    breakdown:   erz(arch-/ultra-) + konservativ(conservative)
+    translation: arch-conservative
+    !! part 'konservativ' matches word 'konservativ' (3 parts)
+
+  extraterritorial
+    breakdown:   extra(outside/beyond) + territorial(territorial)
+    translation: extraterritorial
+    !! part 'territorial' matches word 'territorial' (2 parts)
+
+  fahrraddemonstration
+    breakdown:   fahr(drive/travel) + rad(wheel) + demonstration(demonstration)
+    translation: cycling demonstration
+    !! part 'demonstration' matches word 'demonstration' (3 parts)
+
+  fussballtrain
+    breakdown:   fussball(football) + train(training)
+    translation: football training
+    !! part 'fussball' matches word 'fussball' (2 parts)
+
+  fussballverein
+    breakdown:   fussball(football) + ver(for-/away) + ein(one/united)
+    translation: football club
+    !! part 'fussball' matches word 'fussball' (2 parts)
+
+  geheimnisvoll
+    breakdown:   geheimnis(mystery/secret) + voll(full of)
+    translation: mysterious, enigmatic
+    !! part 'geheimnis' matches word 'geheimnis' (3 parts)
+
+  gesamtgesellschaftlich
+    breakdown:   gesamt(total/overall) + gesellschaft(society) + lich(-ly/-like (adjective))
+    translation: society-wide
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  gewerkschaftsbund
+    breakdown:   gewerkschaft(trade union) + s(-) + bund(federation/league)
+    translation: federation of unions
+    !! part 'gewerkschaft' matches word 'gewerkschaft' (3 parts)
+
+  gewerkschaftskongress
+    breakdown:   gewerkschaft(trade union) + s(-) + kongress(congress/conference)
+    translation: union congress
+    !! part 'gewerkschaft' matches word 'gewerkschaft' (3 parts)
+
+  grossdemonstration
+    breakdown:   gross(large/major) + demonstration(demonstration)
+    translation: large-scale demonstration
+    !! part 'demonstration' matches word 'demonstration' (3 parts)
+
+  heimatschutzministerium
+    breakdown:   heimat(homeland) + schutz(protection) + ministerium(ministry)
+    translation: Department of Homeland Security
+    !! part 'heimat' matches word 'heimat' (2 parts)
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  heimatzeitung
+    breakdown:   heimat(homeland) + zeit(time) + ung((noun: action or result))
+    translation: local newspaper
+    !! part 'heimat' matches word 'heimat' (2 parts)
+
+  industriellenvereinigung
+    breakdown:   industriell(industrial) + en(-) + ver(for-/away) + einig(united/agreed) + ung((noun: action or result))
+    translation: industrialists' association
+    !! part 'industriell' matches word 'industriell' (2 parts)
+
+  italienischunterricht
+    breakdown:   italienisch(Italian) + unterricht(instruction, class)
+    translation: Italian class
+    !! part 'italienisch' matches word 'italienisch' (2 parts)
+    !! part 'unterricht' matches word 'unterricht' (2 parts)
+
+  justizministerium
+    breakdown:   justiz(justice/law) + ministerium(ministry)
+    translation: Ministry of Justice
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  konsolidierungsbeitrag
+    breakdown:   konsolidierung(consolidation) + s(-) + beitrag(contribution)
+    translation: consolidation contribution
+    !! part 'konsolidierung' matches word 'konsolidierung' (4 parts)
+
+  kunstfreiheit
+    breakdown:   kunst(art) + freiheit(freedom)
+    translation: freedom of art
+    !! part 'freiheit' matches word 'freiheit' (4 parts)
+
+  ladeinfrastruktur
+    breakdown:   lade(charge/load) + infrastruktur(infrastructure)
+    translation: charging infrastructure
+    !! part 'infrastruktur' matches word 'infrastruktur' (2 parts)
+
+  landesministerium
+    breakdown:   landes(state/land) + ministerium(ministry)
+    translation: state ministry
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  lehrlingsausbildung
+    breakdown:   lehrling(apprentice) + s(-) + aus(out) + bild(form/shape) + ung((noun: action or result))
+    translation: apprentice training
+    !! part 'lehrling' matches word 'lehrling' (2 parts)
+
+  lokaljournalismus
+    breakdown:   lokal(local) + journalismus(journalism)
+    translation: local journalism
+    !! part 'journalismus' matches word 'journalismus' (2 parts)
+
+  luftfahrtentwicklung
+    breakdown:   luft(air) + fahrt(travel/journey) + entwicklung(development)
+    translation: aviation development
+    !! part 'entwicklung' matches word 'entwicklung' (4 parts)
+
+  luftsicherheitsgesetz
+    breakdown:   luft(air) + sicherheit(security/safety) + s(-) + gesetz(law/statute)
+    translation: aviation security law
+    !! part 'sicherheit' matches word 'sicherheit' (4 parts)
+
+  luftverteidigung
+    breakdown:   luft(air) + verteidigung(defense)
+    translation: air defense
+    !! part 'verteidigung' matches word 'verteidigung' (3 parts)
+
+  machtkonzentration
+    breakdown:   macht(power) + konzentration(concentration)
+    translation: concentration of power
+    !! part 'konzentration' matches word 'konzentration' (3 parts)
+
+  mannschaftverfolgung
+    breakdown:   mannschaft(team) + ver(for-/away) + folg(follow) + ung((noun: action or result))
+    translation: team pursuit
+    !! part 'mannschaft' matches word 'mannschaft' (2 parts)
+
+  marktinfrastruktur
+    breakdown:   markt(market) + infrastruktur(infrastructure)
+    translation: market infrastructure
+    !! part 'infrastruktur' matches word 'infrastruktur' (2 parts)
+
+  mitternachtssonne
+    breakdown:   mitternacht(midnight) + s(-) + sonne(sun)
+    translation: midnight sun
+    !! part 'mitternacht' matches word 'mitternacht' (3 parts)
+
+  nachhaltigkeitsstrategie
+    breakdown:   nachhaltigkeit(sustainability) + s(-) + strategie(strategy)
+    translation: sustainability strategy
+    !! part 'nachhaltigkeit' matches word 'nachhaltigkeit' (4 parts)
+
+  naturwissenschaftlich
+    breakdown:   natur(nature) + wissenschaft(science) + lich(-ly/-like (adjective))
+    translation: scientific
+    !! part 'wissenschaft' matches word 'wissenschaft' (2 parts)
+
+  offiziersgesellschaft
+    breakdown:   offizier(officer) + s(-) + gesellschaft(-ship/-hood)
+    translation: officers' mess
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  parteienlandschaft
+    breakdown:   parteien(parties (political)) + landschaft(landscape)
+    translation: political party landscape
+    !! part 'landschaft' matches word 'landschaft' (2 parts)
+
+  politikwissenschaftlerin
+    breakdown:   politik(politics) + wissenschaft(science/scholarship) + ler((agent)) + in((feminine))
+    translation: political scientist (f.)
+    !! part 'wissenschaft' matches word 'wissenschaft' (2 parts)
+
+  profimannschaft
+    breakdown:   profi(pro/professional) + mannschaft(team)
+    translation: professional team
+    !! part 'mannschaft' matches word 'mannschaft' (2 parts)
+
+  radinfrastruktur
+    breakdown:   rad(bicycle/wheel) + infrastruktur(infrastructure)
+    translation: cycling infrastructure
+    !! part 'infrastruktur' matches word 'infrastruktur' (2 parts)
+
+  rallyegemeinschaft
+    breakdown:   rallye(rally) + gemeinschaft(community)
+    translation: rally community
+    !! part 'gemeinschaft' matches word 'gemeinschaft' (3 parts)
+
+  sammelleidenschaft
+    breakdown:   sammel(collect/gather) + leidenschaft(passion)
+    translation: passion for collecting
+    !! part 'leidenschaft' matches word 'leidenschaft' (4 parts)
+
+  schuleingangsuntersuchung
+    breakdown:   schul(school) + eingang(entry/entrance) + s(-) + unter(under/below) + such(seek/examine) + ung((noun: action or result))
+    translation: school entry examination
+    !! part 'eingang' matches word 'eingang' (2 parts)
+
+  schulgemeinschaft
+    breakdown:   schul(school) + gemeinschaft(community)
+    translation: school community
+    !! part 'gemeinschaft' matches word 'gemeinschaft' (3 parts)
+
+  sprachunterricht
+    breakdown:   sprach(language/speech) + unterricht(instruction/lessons)
+    translation: language instruction
+    !! part 'unterricht' matches word 'unterricht' (2 parts)
+
+  stimmentwicklung
+    breakdown:   stimm(voice/vote) + en(-) + entwicklung(development)
+    translation: vote development
+    !! part 'entwicklung' matches word 'entwicklung' (4 parts)
+
+  teilnehmerinn
+    breakdown:   teilnehmerinn(misspelling of Teilnehmerin)
+    translation: misspelling
+    !! part 'teilnehmerinn' matches word 'teilnehmerin' (4 parts)
+
+  tellspielgesellschaft
+    breakdown:   tell(Tell) + spiel(play/game) + gesellschaft(society/company)
+    translation: Tell theatrical society
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  tiefbauunternehmen
+    breakdown:   tief(deep) + bau(construction) + unternehmen(company)
+    translation: civil engineering firm
+    !! part 'unternehmen' matches word 'unternehmen' (2 parts)
+
+  tourismusministerium
+    breakdown:   tourismus(tourism) + ministerium(ministry)
+    translation: ministry of tourism
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  traditionsunternehmen
+    breakdown:   tradition(tradition) + s(-) + unternehmen(company)
+    translation: long-established company
+    !! part 'unternehmen' matches word 'unternehmen' (2 parts)
+
+  ungleichbehandlung
+    breakdown:   un(un-/not) + gleich(equal/same) + behandlung(treatment)
+    translation: unequal treatment
+    !! part 'behandlung' matches word 'behandlung' (3 parts)
+
+  unterhaltungsprogramm
+    breakdown:   unterhaltung(entertainment) + s(-) + programm(program)
+    translation: entertainment program
+    !! part 'unterhaltung' matches word 'unterhaltung' (4 parts)
+
+  unternehmensanleihen
+    breakdown:   unternehmen(company/enterprise) + s(-) + anleihen(bonds/loans)
+    translation: corporate bonds
+    !! part 'unternehmen' matches word 'unternehmen' (2 parts)
+
+  unternehmensberatung
+    breakdown:   unternehmen(company/enterprise) + s(-) + beratung(consulting/advice)
+    translation: management consulting
+    !! part 'unternehmen' matches word 'unternehmen' (2 parts)
+
+  unternehmensvertreter
+    breakdown:   unternehmen(company/enterprise) + s(-) + vertreter(representative)
+    translation: company representative
+    !! part 'unternehmen' matches word 'unternehmen' (2 parts)
+
+  unterrichtsausfall
+    breakdown:   unterricht(instruction/lessons) + s(-) + aus(out) + fall(fall/failure)
+    translation: cancelled lessons
+    !! part 'unterricht' matches word 'unterricht' (2 parts)
+
+  untersuchungshaft
+    breakdown:   untersuchung(investigation) + s(-) + haft(custody/detention)
+    translation: pretrial detention
+    !! part 'untersuchung' matches word 'untersuchung' (3 parts)
+
+  untersuchungskommission
+    breakdown:   untersuchung(investigation) + s(-) + kommission(commission)
+    translation: investigation committee
+    !! part 'untersuchung' matches word 'untersuchung' (3 parts)
+
+  vaterlandsverteidigung
+    breakdown:   vater(father) + land(land/country) + s(-) + verteidigung(defense)
+    translation: defense of the fatherland
+    !! part 'verteidigung' matches word 'verteidigung' (3 parts)
+
+  verkehrsgesellschaft
+    breakdown:   verkehr(traffic/transport) + s(-) + gesellschaft(company/society)
+    translation: transport company
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  verlangsamen
+    breakdown:   ver(for-/away) + langsam(slow) + en((infinitive))
+    translation: to slow down
+    !! part 'langsam' matches word 'langsam' (2 parts)
+
+  verteidigungsindustrie
+    breakdown:   verteidigung(defense) + s(-) + industrie(industry)
+    translation: defense industry
+    !! part 'verteidigung' matches word 'verteidigung' (3 parts)
+
+  verteidigungsminister
+    breakdown:   verteidigung(defense) + s(-) + minister(minister)
+    translation: defense minister
+    !! part 'verteidigung' matches word 'verteidigung' (3 parts)
+
+  verteidigungsministerium
+    breakdown:   verteidigung(defense) + s(-) + ministerium(ministry)
+    translation: defense ministry
+    !! part 'verteidigung' matches word 'verteidigung' (3 parts)
+    !! part 'ministerium' matches word 'ministerium' (2 parts)
+
+  vorbereitungsturnier
+    breakdown:   vorbereitung(preparation) + s(-) + turnier(tournament)
+    translation: preparatory tournament
+    !! part 'vorbereitung' matches word 'vorbereitung' (4 parts)
+
+  vorbereitungswochen
+    breakdown:   vorbereitung(preparation) + s(-) + wochen(weeks)
+    translation: preparation weeks
+    !! part 'vorbereitung' matches word 'vorbereitung' (4 parts)
+
+  wahrheitsfindungsversuch
+    breakdown:   wahrheit(truth) + s(-) + find(find) + ung((noun: action or result)) + s(-) + versuch(attempt)
+    translation: attempt to find truth
+    !! part 'wahrheit' matches word 'wahrheit' (4 parts)
+
+  wahrheitsgehalt
+    breakdown:   wahrheit(truth) + s(-) + gehalt(content/substance)
+    translation: truth content
+    !! part 'wahrheit' matches word 'wahrheit' (4 parts)
+
+  wassergesellschaft
+    breakdown:   wasser(water) + gesellschaft(-ship/-hood (collective))
+    translation: water company
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  wettergeschehen
+    breakdown:   wetter(weather) + geschehen(events/happenings)
+    translation: weather events
+    !! part 'geschehen' matches word 'geschehen' (3 parts)
+
+  wirtschaftsfreundlich
+    breakdown:   wirtschaft(economy/business) + s(-) + freundlich(friendly)
+    translation: business-friendly
+    !! part 'freundlich' matches word 'freundlich' (2 parts)
+
+  wissenschaftler
+    breakdown:   wissenschaft(science/scholarship) + ler((agent: one who does))
+    translation: scientist, scholar
+    !! part 'wissenschaft' matches word 'wissenschaft' (2 parts)
+
+  wissenschaftspreis
+    breakdown:   wissenschaft(science/scholarship) + s(-) + preis(prize/price)
+    translation: science prize
+    !! part 'wissenschaft' matches word 'wissenschaft' (2 parts)
+
+  wohnungsbaugesellschaft
+    breakdown:   wohnung(apartment/dwelling) + s(-) + bau(build/construction) + gesellschaft(company/society)
+    translation: housing company
+    !! part 'gesellschaft' matches word 'gesellschaft' (4 parts)
+
+  zukunftsaktion
+    breakdown:   zukunft(future) + s(-) + aktion(action/campaign)
+    translation: future initiative
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftsgerichtet
+    breakdown:   zukunft(future) + s(-) + ge((past participle prefix)) + richt(direct/aim) + et((past participle))
+    translation: future-oriented
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftsinvestitionen
+    breakdown:   zukunft(future) + s(-) + investition(investment) + en((plural))
+    translation: future investments
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftsorientiert
+    breakdown:   zukunft(future) + s(-) + orientier(orient/align) + t((past participle/adjective))
+    translation: future-oriented
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftspaket
+    breakdown:   zukunft(future) + s(-) + paket(package)
+    translation: future package
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftssicheren
+    breakdown:   zukunft(future) + s(-) + sicher(secure/safe) + en((adjective ending))
+    translation: future-proof
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftsversprechen
+    breakdown:   zukunft(future) + s(-) + ver(for-/away) + sprech(speak) + en((noun: action or result))
+    translation: promise for the future
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zukunftsweisend
+    breakdown:   zukunft(future) + s(-) + weis(point/show) + end((present participle))
+    translation: pioneering, groundbreaking
+    !! part 'zukunft' matches word 'zukunft' (4 parts)
+
+  zusatzqualifikation
+    breakdown:   zusatz(additional/extra) + qualifikation(qualification)
+    translation: additional qualification
+    !! part 'qualifikation' matches word 'qualifikation' (2 parts)
+
+
+=== Summary ===
+Self-referential candidates: 104

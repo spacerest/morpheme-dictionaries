@@ -2,6 +2,31 @@
 
 JSON dictionaries for a language-learning word puzzle game. Each entry splits a target-language word into its morphemes, with glosses, a translation, and an example sentence.
 
+---
+
+## Using a dictionary in the game
+
+The game is [Water Sorting Word Roots](../water_sorting_word_roots). Each dictionary is a JSON file covering one language pair, e.g. German words with English glosses (`de-en.json`).
+
+### Getting a dictionary
+
+Pre-made dictionaries are in the `dicts/` folder. Available pairs include `de-en`, `ru-en`, `ja-en`, `zh-en`, `fi-en`, `tr-en`, `eo-en`, `ga-en`, `sl-en`, and cross-pairs like `de-zh`, `ja-sl`, `ru-de`.
+
+If you want a custom dictionary (different word list, different language pair, or different gloss language), see the **Step-by-step guide** below — or ask someone with API access to generate one for you.
+
+### Loading into the game
+
+1. Copy or download the `.json` file you want to your device.
+2. Open the game and tap the **menu button** to go to Settings.
+3. Tap **Load Custom Dictionary** and select the JSON file.
+4. The words are added to the existing dictionary. You can load multiple files.
+
+To use a dictionary as the default (replacing the built-in words), place it at `app/src/main/assets/` and rebuild the app.
+
+---
+
+## For developers
+
 All dictionary data lives in a single SQLite database (`morpheme_dicts.db`). JSON files in `dicts/` are exported from it — never edit them directly.
 
 ## Quick start
@@ -11,12 +36,12 @@ pip install anthropic
 export ANTHROPIC_API_KEY=sk-ant-...
 
 # Generate entries for a new word list (writes to DB):
-python generate_claude.py \
+python scripts/generate_claude.py \
   --input word-lists/de-en-words.txt \
   --home English --target German
 
 # Export to JSON for the app:
-python export_to_json.py --all
+python scripts/export_to_json.py --all
 ```
 
 ---
@@ -68,6 +93,7 @@ WHERE target_lang='en' AND home_lang='tr' AND status='open';
 | `verification_flags` | Flags from `verify_dict.py` (open/fixed/dismissed) |
 | `known_discrepancies` | Confirmed errors fed back into generation prompts |
 | `morphemes` | Glossary entries from `prompts/*/glossary.txt` |
+| `canonical_labels` | Canonical grammatical label forms per home language (drives prompt injection) |
 | `wordlist_words` | Word list tracking (pending/done/skipped) |
 
 #### entries columns of note
@@ -116,14 +142,14 @@ set_pair_meta(conn, 'ar', 'en', status='parked')
 
 ```bash
 # Import all existing JSON + review files into DB (safe to re-run)
-python import_to_db.py
+python scripts/import_to_db.py
 
 # Export DB → JSON (default: dicts/)
-python export_to_json.py --all
-python export_to_json.py --target-lang tr --home-lang en
+python scripts/export_to_json.py --all
+python scripts/export_to_json.py --target-lang tr --home-lang en
 
 # Export to app assets
-python export_to_json.py --all --app
+python scripts/export_to_json.py --all --app
 ```
 
 ---
@@ -144,16 +170,30 @@ export ANTHROPIC_API_KEY=sk-ant-...
 export MORPHEME_SORT_ANTHROPIC_API_KEY=sk-ant-...
 ```
 
+### 1b. Seed canonical labels (once per home language)
+
+Canonical grammatical labels (e.g. `(verb)` not `(inf)`, `(past participle)` not `(pp)`) are stored in the DB and injected into generation and verification prompts automatically. English is included. For a new home language, seed it before generating:
+
+```bash
+python scripts/seed_canonical_labels.py              # English (already done)
+python scripts/seed_canonical_labels.py --home-lang de
+
+# List current labels for a language:
+python scripts/seed_canonical_labels.py --home-lang en --list
+```
+
+For a home language not yet defined in `seed_canonical_labels.py`, ask claude to add a `LABELS["xx"]` entry (translate from the English list), then run the script.
+
 ### 2. Generate a word list
 
 ```bash
-python generate_wordlists.py --lang de   # generates word-lists/de-en-words.txt
+python scripts/generate_wordlists.py --lang de   # generates word-lists/de-en-words.txt
 ```
 
 Or write one manually — one word per line. Use `filter_words.py` to clean a raw corpus:
 
 ```bash
-python filter_words.py \
+python scripts/filter_words.py \
   --input word-lists/raw.txt \
   --output word-lists/filtered.txt \
   --min-len 6 --max-len 25
@@ -162,7 +202,7 @@ python filter_words.py \
 ### 3. Generate the dictionary
 
 ```bash
-python generate_claude.py \
+python scripts/generate_claude.py \
   --input word-lists/de-en-words.txt \
   --home English --target German
 ```
@@ -189,16 +229,16 @@ Generate once, translate cheaply for each additional home language using Haiku:
 
 ```bash
 # Generate the reference dict (English words, English glosses)
-python generate_claude.py \
+python scripts/generate_claude.py \
   --input word-lists/en-words.txt \
   --target English --home English
 
 # Re-gloss for each additional home language (reads/writes DB)
-python regloss_dict.py \
+python scripts/regloss_dict.py \
   --source-pair en-en --target-pair en-de \
   --source-home English --home German
 
-python regloss_dict.py \
+python scripts/regloss_dict.py \
   --source-pair en-en --target-pair en-fr \
   --source-home English --home French
 ```
@@ -222,20 +262,50 @@ Re-glossing translates `homeLang`, `homeLangDetails`, `translationShort`, `trans
 Catch structural problems before spending API calls on LLM verification:
 
 ```bash
-python sanity_check.py               # all pairs in DB
-python sanity_check.py --quiet       # only show pairs with issues
-python sanity_check.py --target-lang de --home-lang en   # single pair
+python scripts/sanity_check.py                                   # all pairs in DB
+python scripts/sanity_check.py --quiet                           # only show pairs with issues
+python scripts/sanity_check.py --target-lang de --home-lang en   # single pair
+python scripts/sanity_check.py --all                             # include import=0 entries
 ```
+
+Checks performed:
+1. `targetLang` parts concatenate back to the word ID
+2. Missing `homeLang` on non-trivial parts
+3. Circular `homeLang` (morpheme used as its own gloss)
+4. Empty required fields (`translationShort`, `exampleSentence`)
+5. Suspiciously few or many parts (0 or >5)
+6. Duplicate word IDs
+7. Parts with empty `targetLang`
+8. `translationShort` not found in `exampleTranslation` (fuzzy + substring, handles comma-separated alternatives and parenthetical qualifiers)
+9. `word_id` not found in `exampleSentence` (fuzzy + substring)
+
+Issues from checks 8–9 are also inserted into the `verification_flags` DB table for review.
 
 ### 5. Verify the output
 
 Run a second, cheaper pass to catch errors like false cognates, frozen compounds, and wrong morpheme boundaries:
 
 ```bash
-python verify_dict.py --target-lang de --home-lang en
+python scripts/verify_dict.py --target-lang de --home-lang en
 ```
 
 Flags are inserted into the `verification_flags` DB table and also written to `review/flagged-de-en.json` for human review.
+
+### 5b. Resolve slash/comma glosses
+
+After generation (and again after verification), some `homeLang` values may contain slash- or comma-separated alternatives (e.g. `"away/off"`, `"make, do"`). Run this to pick the best single gloss using Haiku and store the discarded options in `homeLangAlternates`:
+
+```bash
+python scripts/fix_slash_glosses.py --target-lang de --home-lang en
+
+# Preview without making changes:
+python scripts/fix_slash_glosses.py --target-lang de --home-lang en --dry-run
+
+# Limit to a specific word set:
+python scripts/fix_slash_glosses.py --target-lang de --home-lang en --word-set first_release_dictionary
+```
+
+Only parts with `part_role='semantic'` are processed — grammatical labels like `"(noun suffix)"` are skipped automatically.
 
 ### 6. Log confirmed issues
 
@@ -254,7 +324,7 @@ VALUES ('beispiel', 'frozen_compound', 'parts[1].homeLang',
 ### 7. Fix flagged entries
 
 ```bash
-python fix_dict.py --target-lang de --home-lang en
+python scripts/fix_dict.py --target-lang de --home-lang en
 ```
 
 Fixes are written back to the DB and flags are marked resolved.
@@ -268,17 +338,17 @@ For fine-grained review of individual entries, paste `prompts/cleanup-prompt.md`
 ## Full pipeline (XX-en dicts)
 
 ```bash
-bash pipeline_xxen.sh
+bash scripts/pipeline_xxen.sh
 ```
 
 Or step by step:
 
 ```bash
-bash generate_all_xxen.sh           # generate all XX-en dicts
-python sanity_check.py              # structural checks
-bash verify_all_xxen.sh             # LLM verification (parallel, 3 jobs)
+bash scripts/generate_all_xxen.sh           # generate all XX-en dicts
+python scripts/sanity_check.py              # structural checks
+bash scripts/verify_all_xxen.sh             # LLM verification (parallel, 3 jobs)
 # fix step runs automatically in pipeline_xxen.sh
-python export_to_json.py --all      # export to dicts/ when ready
+python scripts/export_to_json.py --all      # export to dicts/ when ready
 ```
 
 ---
@@ -358,21 +428,22 @@ If no `system.txt` exists in the pair directory, the script falls back to `promp
 
 ```
 morpheme_dicts.db           Single source of truth (SQLite)
-morpheme_db.py              DB helper module (schema + CRUD)
 
-generate_claude.py          Claude-based dictionary generator (→ DB)
-regloss_dict.py             Re-gloss a dict for a different home language (→ DB)
-verify_dict.py              Second-pass verification using Claude (flags → DB)
-fix_dict.py                 Fix flagged entries using Claude (→ DB)
-sanity_check.py             Fast structural checks (reads DB)
-import_to_db.py             One-time import from JSON files into DB
-export_to_json.py           Export DB → JSON files (for app deployment)
-generate_wordlists.py       Generate word lists via Claude
-filter_words.py             Filter and deduplicate a raw word list
-
-generate_all_xxen.sh        Generate all XX-en dicts
-verify_all_xxen.sh          Verify all XX-en dicts (parallel)
-pipeline_xxen.sh            Full pipeline: generate → check → verify → fix
+scripts/
+  morpheme_db.py            DB helper module (schema + CRUD)
+  generate_claude.py        Claude-based dictionary generator (→ DB)
+  regloss_dict.py           Re-gloss a dict for a different home language (→ DB)
+  verify_dict.py            Second-pass verification using Claude (flags → DB)
+  fix_dict.py               Fix flagged entries using Claude (→ DB)
+  fix_slash_glosses.py      Resolve slash/comma homeLang values using Haiku (→ DB)
+  sanity_check.py           Fast structural checks (reads DB)
+  import_to_db.py           One-time import from JSON files into DB
+  export_to_json.py         Export DB → JSON files (for app deployment)
+  generate_wordlists.py     Generate word lists via Claude
+  filter_words.py           Filter and deduplicate a raw word list
+  generate_all_xxen.sh      Generate all XX-en dicts
+  verify_all_xxen.sh        Verify all XX-en dicts (parallel)
+  pipeline_xxen.sh          Full pipeline: generate → check → verify → fix
 
 dicts/
   de-en.json                German-English (exported from DB)

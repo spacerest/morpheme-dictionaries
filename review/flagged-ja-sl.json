@@ -1,0 +1,44 @@
+[
+  {
+    "word": "外来人",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "外来人 je redka in nekoliko arhaična oblika; v sodobni japonščini se za 'tujca' skoraj vedno uporablja 外国人, medtem ko 外来人 ima zelo ozek in specifičen kontekst (npr. zunanji obiskovalec institucije). Pomen 'tujec' v glosariu morda ne ustreza dejanski rabi.",
+    "suggestion": "Preveriti, ali je translationShort 'tujec' res ustrezen, ali bi moral biti 'zunanji obiskovalec' ali podobno."
+  },
+  {
+    "word": "八百屋",
+    "category": "frozen_compound",
+    "field": "parts[0].targetLang",
+    "issue": "八百 kot 'mnogo' je etimološka razlaga, ne živa morfemska vrednost — sodobni govorci besede ne zaznavajo kot sestavljenko z 'osemsto' ali 'mnogo', temveč kot celoto.",
+    "suggestion": "Razmisli, ali je smiselno besedo prikazati kot nedeljivo leksikalizirano celoto namesto kot dve ločeni ploščici."
+  },
+  {
+    "word": "医療費",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "医療 je obravnavan kot enoten del, kar je upravičeno, a homeLangDetails že sam opozarja, da sta 医 in 療 ločeni morfemi z jasnimi pomeni. Razmisliti je treba, ali ju je smiselno razdeliti na dve ploščici (医 = 'zdravnik/medicina' in 療 = 'zdravljenje') za večjo izobraževalno vrednost.",
+    "suggestion": "Razmislite o razdelitvi 医療 na 医 (zdravnik) in 療 (zdravljenje) za natančnejšo morfemsko analizo."
+  },
+  {
+    "word": "有名人",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "有名 je obravnavan kot ena enota, čeprav ga sestavljata dve ločeni morfemi: 有 (imeti/obstajati) in 名 (ime/slava). Razdelitev na tri dele bi bila bolj dosledna z metodologijo igre.",
+    "suggestion": "Razdeli na 有 (imeti), 名 (ime/slava), 人 (oseba) — tridelna struktura."
+  },
+  {
+    "word": "高校生",
+    "category": "frozen_compound",
+    "field": "parts[0]",
+    "issue": "高校 je leksikalizirana spojina in jo homeLangDetails sama opisuje kot enoto, ki jo je 'najbolje učiti kot celoto'. Njena notranja zgradba (高 + 校) ni razdeljena na ploščice, kar je skladno, a velja omeniti.",
+    "suggestion": "Razmislite, ali razdeliti 高校 na 高 (visoko) + 校 (šola) za dodatno pedagoško vrednost, ali jo ohraniti kot nedeljeno ploščico."
+  },
+  {
+    "word": "見つめる",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Beseda je razdeljena na neprozoren koren 見つめ + る, kar zakrije, da je 見 (videti) ločen morfem od つめる (stiskati, fiksirati). Igra je bolj poučna, če so deli jasno ločeni.",
+    "suggestion": "Razmislite o delitvi na 見 (gledati) + つめ (stiskati/fiksirati) + る (verb), ali 見 + つめる (fiksirati pogled)."
+  }
+]

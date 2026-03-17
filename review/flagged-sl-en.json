@@ -1,0 +1,30 @@
+[
+  {
+    "word": "pripovedovati",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang / parts[2].targetLang",
+    "issue": "The split 'povedo' + 'vati' is likely a mis-cut. The root is 'poved' and the iterative suffix is '-ovati', meaning the 'o' belongs to the suffix, not the root.",
+    "suggestion": "Split as pri + poved + ovati, with 'poved' as root (homeLang: 'tell') and '-ovati' as suffix (homeLang: '(verb)')."
+  },
+  {
+    "word": "pomagati",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLang",
+    "issue": "po- in pomagati is not a productive perfective prefix here — there is no base verb *magati in modern Slovenian. The po- is lexically fused and does not carry independent perfective meaning the way it does in pogledati or pokusiti.",
+    "suggestion": "Consider glossing po- as a formative/lexical prefix rather than perfective, or flag the whole word as a frozen compound where morpheme boundaries are etymological rather than transparent."
+  },
+  {
+    "word": "toplota",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The suffix in Slovenian nominalizations of this type is -ota (as in lepota, dobrota), not -ta. The root should be topl- and the suffix -ota, not toplo + ta.",
+    "suggestion": "Split as topl- (root, 'warm') + -ota (suffix, '-ness/-th') to match the productive suffix pattern seen in lepota and dobrota."
+  },
+  {
+    "word": "gorzkost",
+    "category": "frozen_compound",
+    "field": "parts[0].targetLang",
+    "issue": "The root gorzk- is a rarer or archaic/regional spelling variant; the standard modern Slovenian form is grenk-. The puzzle tile may confuse learners who know only the standard form.",
+    "suggestion": "Consider whether the entry should use the standard root grenk- or add a note distinguishing gorzk- as a variant."
+  }
+]

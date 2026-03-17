@@ -24,10 +24,10 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
    The surface form of each part must concatenate exactly to the word's id.
    Aim for 2–4 parts for nouns; 3–5 for conjugated verbs. Add a flag for 6+.
 
-5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning only — never slash-separate synonyms; pick one and put alternatives in homeLangDetails. (b) Noun class prefixes use brief labels: m- = "(person)", wa- = "(people)", ki- = "(thing)", vi- = "(things)", u- = "(abstract)", ku- = "(inf)". (c) Subject markers use the pronoun: ni- = "I", u- = "you", a- = "he/she", tu- = "we". (d) Tense markers: -na- = "(pres)", -li- = "(past)", -me- = "(done)", -ta- = "(fut)". (e) Verb extensions: -ish- = "(cause)", -w- = "(passive)", -an- = "(together)". (f) Roots get one core English word.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. Rules: (a) ONE meaning only — no slashes. Pick the single best gloss and put alternatives in homeLangDetails. (b) Noun class prefixes use brief labels: m- = "(person)", wa- = "(people)", ki- = "(thing)", vi- = "(things)", u- = "(abstract)", ku- = "(verb)". (c) Subject markers use the pronoun: ni- = "I", u- = "you", a- = "he/she", tu- = "we". (d) Tense markers: -na- = "(pres)", -li- = "(past)", -me- = "(done)", -ta- = "(fut)". (e) Verb extensions: -ish- = "(cause)", -w- = "(passive)", -an- = "(together)". (f) Roots get one core English word.
 6. **translationShort**: A natural, concise English translation (1–4 words).
 7. **translationLong**: Longer or alternate translations if useful; otherwise "".
-8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves in a context-specific way in this word, or (b) the letters resemble a morpheme but are not functioning as one (e.g., the u- in a verb root is not the abstract noun class prefix). Write in a warm, conversational tone. Never use em-dashes.
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it when (a) a morpheme behaves in a context-specific way in this word, or (b) the letters resemble a morpheme but are not functioning as one (e.g., the u- in a verb root is not the abstract noun class prefix). Write in a warm, conversational tone. Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full form is built on it). Never use em-dashes.
 9. **exampleSentence**: A natural, grammatically correct Swahili sentence using the word.
 10. **exampleTranslation**: Accurate English translation of the example sentence.
 
@@ -56,8 +56,8 @@ Example output:
       "id": "kusoma",
       "article": "",
       "parts": [
-        {"targetLang": "ku", "homeLang": "(infinitive)"},
-        {"targetLang": "soma", "homeLang": "read/study"}
+        {"targetLang": "ku", "homeLang": "(verb)"},
+        {"targetLang": "soma", "homeLang": "read"}
       ],
       "translationShort": "to read",
       "translationLong": "to read, to study",
@@ -69,7 +69,7 @@ Example output:
       "article": "",
       "parts": [
         {"targetLang": "vi", "homeLang": "(things pl)"},
-        {"targetLang": "tabu", "homeLang": "book", "homeLangDetails": "From Arabic kitāb (book) — the ki- class prefix was absorbed into the loanword, so the root here is tabu, not kitabu. The vi- prefix is the plural of ki-."}
+        {"targetLang": "tabu", "homeLang": "book", "homeLangDetails": "As in Arabic kitāb (book) — the ki- class prefix was absorbed into the loanword, so the root here is tabu, not kitabu. The vi- prefix is the plural of ki-."}
       ],
       "translationShort": "books",
       "translationLong": "books",
@@ -82,8 +82,8 @@ Example output:
       "parts": [
         {"targetLang": "ni", "homeLang": "I"},
         {"targetLang": "li", "homeLang": "(past)"},
-        {"targetLang": "pend", "homeLang": "love/like"},
-        {"targetLang": "a", "homeLang": "(verb ending)"}
+        {"targetLang": "pend", "homeLang": "love"},
+        {"targetLang": "a", "homeLang": "(verb)"}
       ],
       "translationShort": "I loved",
       "translationLong": "I loved, I liked",
@@ -95,7 +95,7 @@ Example output:
       "article": "",
       "parts": [
         {"targetLang": "nyumba", "homeLang": "house"},
-        {"targetLang": "ni", "homeLang": "at/in (location)", "homeLangDetails": "The locative suffix -ni turns any noun into a location. Nyumba (house) becomes nyumbani (at home), shule (school) becomes shuleni (at school), bahari (sea) becomes baharini (at sea). It works on almost any noun and is one of the most useful patterns in Swahili."}
+        {"targetLang": "ni", "homeLang": "at", "homeLangDetails": "As in nyumbani (at home), shuleni (at school), baharini (at sea) — the locative suffix -ni turns any noun into a location. It works on almost any noun and is one of the most useful patterns in Swahili."}
       ],
       "translationShort": "at home",
       "translationLong": "at home, in the house",

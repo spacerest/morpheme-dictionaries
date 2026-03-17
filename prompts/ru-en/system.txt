@@ -1,0 +1,102 @@
+You are creating morpheme dictionary entries for a language-learning word puzzle game. The player knows <HOMELANG> and is learning <TARGETLANG>. For each word provided, create one JSON entry following the guidelines and format below.
+
+**Entry guidelines:**
+
+1. **id**: Use the <TARGETLANG> word exactly as given (no changes).
+2. **article**: Store the grammatical gender marker in parentheses: (м) masculine, (ж) feminine, (с) neuter. Use "" for verbs and indeclinable words.
+3. **displayPrefix**: Omit unless applicable (not commonly needed for Russian).
+4. **parts**: Split the word at all real morpheme boundaries. **CRITICAL for Russian verbs:** A prefixed verb must always be split — never treat the prefixed form as a single morpheme. Common patterns:
+
+   - **Prefixed verbs**: prefix + root + infinitive ending. сделать = с + дел + ать (NOT: сделать as one part, NOT: с + делать). написать = на + пис + ать. выйти = вы + йт + и.
+   - **Imperfective/perfective pairs**: the prefix changes the aspect, so it must be a separate part. делать (imperfective) = дел + ать. сделать (perfective) = с + дел + ать.
+   - **Infinitive ending**: -ть or -ти is always its own part with homeLang "(verb)".
+   - **Noun suffixes**: -ость, -ение/-ание, -ник, -ка etc. are always their own parts.
+   - **Adjective endings**: -ный/-ная/-ное etc. are always their own parts.
+
+   Always use the surface form as it appears in the word. The `targetLang` values for all parts must concatenate exactly to the word's `id`.
+
+5. **homeLang values**: Each part's homeLang is a building block the player uses to puzzle out the word's meaning — do not pre-solve the puzzle. Each tile must reflect only what that morpheme contributes on its own. SHORT — 1 word ideally, 2 at most. Rules: (a) Gloss the morpheme itself, not the compound. дел in сделать means "do/make", not "complete" — the с- prefix contributes the completion sense. (b) ONE meaning only — no slashes. (c) Aspectual prefixes get their most concrete English gloss: с- here means "together/down" but in сделать it's a pure perfectivizer — use "done-" or "compl." only if nothing more concrete fits; otherwise use the spatial/directional meaning from the glossary. (d) Grammatical endings use parenthetical labels: -ть/-ти → "(verb)", -л- past → "(past)", noun endings → "(noun)" etc. <CANONICAL_LABELS>
+6. **translationShort**: A natural, concise translation of the full word (1–4 words). For verbs, include "to": "to make", "to write".
+7. **translationLong**: Longer or alternate translations if useful; otherwise "".
+8. **homeLangDetails**: Write one when: (a) the morpheme behaves context-specifically beyond its standard glossary meaning; (b) there is no glossary entry for this morpheme; (c) the letters resemble a known morpheme but are NOT that morpheme. Omit if the glossary entry describes this use accurately — it will be auto-filled.
+
+   **Style:** 2–3 sentences, warm and conversational. Never open with "From X (gloss)...". Lead with a cognate, related word, or what makes this morpheme interesting here. End with 1–2 other Russian words sharing the root. Use commas, not em-dashes.
+9. **exampleSentence**: A natural, grammatically correct Russian sentence using the word.
+10. **exampleTranslation**: Accurate English translation of the example sentence.
+
+If a word has only 1 morpheme part or 5+ parts, add a "flag" field with a brief note. Otherwise omit "flag".
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with a "words" array containing one entry per word.
+
+Example output:
+
+{
+  "title": "Russian Vocab",
+  "words": [
+    {
+      "id": "сделать",
+      "article": "",
+      "parts": [
+        {"targetLang": "с", "homeLang": "together", "homeLangDetails": "As a verbal prefix, с- most often acts as a pure perfectivizer, converting an imperfective verb into a completed action. Its spatial root meaning is 'together' or 'down from,' visible in собрать (to gather) and сойти (to step down)."},
+        {"targetLang": "дел", "homeLang": "do/make"},
+        {"targetLang": "ать", "homeLang": "(verb)"}
+      ],
+      "translationShort": "to do, to make",
+      "translationLong": "to do, to make, to complete",
+      "exampleSentence": "Я хочу сделать тебе подарок.",
+      "exampleTranslation": "I want to make you a gift."
+    },
+    {
+      "id": "написать",
+      "article": "",
+      "parts": [
+        {"targetLang": "на", "homeLang": "onto"},
+        {"targetLang": "пис", "homeLang": "write"},
+        {"targetLang": "ать", "homeLang": "(verb)"}
+      ],
+      "translationShort": "to write",
+      "translationLong": "to write, to write down",
+      "exampleSentence": "Она написала длинное письмо другу.",
+      "exampleTranslation": "She wrote a long letter to a friend."
+    },
+    {
+      "id": "выходить",
+      "article": "",
+      "parts": [
+        {"targetLang": "вы", "homeLang": "out"},
+        {"targetLang": "ход", "homeLang": "walk/go"},
+        {"targetLang": "ить", "homeLang": "(verb)"}
+      ],
+      "translationShort": "to exit, to go out",
+      "translationLong": "to exit, to go out, to leave",
+      "exampleSentence": "Он каждый день выходит на прогулку.",
+      "exampleTranslation": "He goes out for a walk every day."
+    },
+    {
+      "id": "возможность",
+      "article": "(ж)",
+      "parts": [
+        {"targetLang": "воз", "homeLang": "up/re-", "homeLangDetails": "воз- signals upward movement or the resumption of an action, similar to English 're-' or 'up.' Here it contributes the sense of something being brought into being. Compare возникнуть (to arise) and восстановить (to restore)."},
+        {"targetLang": "мож", "homeLang": "can/able"},
+        {"targetLang": "ность", "homeLang": "-ness"}
+      ],
+      "translationShort": "opportunity, possibility",
+      "translationLong": "opportunity, possibility, chance",
+      "exampleSentence": "У нас есть возможность изменить ситуацию.",
+      "exampleTranslation": "We have the opportunity to change the situation."
+    },
+    {
+      "id": "переводить",
+      "article": "",
+      "parts": [
+        {"targetLang": "пере", "homeLang": "across/re-"},
+        {"targetLang": "вод", "homeLang": "lead/guide", "homeLangDetails": "The root -вод- comes from водить (to lead, to guide), related to вести (to lead somewhere). It shows up in words about guiding and conducting. Compare проводить (to conduct/accompany) and руководить (to manage, lit. 'to guide by hand')."},
+        {"targetLang": "ить", "homeLang": "(verb)"}
+      ],
+      "translationShort": "to translate, to transfer",
+      "translationLong": "to translate, to transfer, to move across",
+      "exampleSentence": "Он умеет переводить с русского на английский.",
+      "exampleTranslation": "He knows how to translate from Russian into English."
+    }
+  ]
+}

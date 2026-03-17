@@ -1,0 +1,716 @@
+[
+  {
+    "word": "friendship",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ship' is labeled as '(hali ya)' (state), but in the tile context it should have a clearer, shorter label. '(hali ya)' is a phrase, not a concise morpheme label.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "freedom",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-dom' is labeled as '(hali ya)' (state), but in the tile context it should have a clearer, shorter label. '(hali ya)' is a phrase, not a concise morpheme label.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "understanding",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'under' in 'understanding' is not a semantic prefix meaning 'chini' (under/below). The 'under-' in 'understand' is not compositional with modern meaning; the word is not 'stand under something'. The root 'understand' is the actual unit. This is a wrong boundary issue — the word should not be split this way.",
+    "suggestion": "Reconsider the split; 'understand' is the root, not 'under' + 'stand'."
+  },
+  {
+    "word": "understanding",
+    "category": "wrong_boundary",
+    "field": "parts structure",
+    "issue": "'understanding' should be split as 'understand' (root) + '-ing' (suffix), not 'under' + 'stand' + '-ing'. The morpheme boundary is incorrect.",
+    "suggestion": "Split as: understand | ing"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'de' is glossed as 'kutoka' (from/away), but this conflates the prefix 'de-' with the preposition. In 'independence', 'in-' and 'de-' together form the negation prefix 'in-' (meaning 'not'), not a decomposition into 'in' + 'de' + 'pend' + 'ence'. The analysis is incorrect.",
+    "suggestion": "This word should be re-analyzed; 'independence' is not 'in-de-pend-ence' but rather 'in-depend-ence' where 'in-' negates 'depend'."
+  },
+  {
+    "word": "independence",
+    "category": "wrong_boundary",
+    "field": "parts structure",
+    "issue": "The split into 'in' + 'de' + 'pend' + 'ence' is incorrect. 'independence' should be 'in-' (prefix) + 'depend' (root) + '-ence' (suffix). The 'de' in 'depend' is not a separate morpheme here.",
+    "suggestion": "Split as: in | depend | ence"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' is glossed as 'bila' (without), but the standard label for this negation prefix is '(un-)' or '(not)' to match English convention. Using Swahili 'bila' is semantically reasonable but should be the short parenthetical form.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "beautiful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The root 'beauti' glossed as 'uzuri' (beauty) is imprecise. In this word, 'beauti-' functions as the root meaning 'beautiful/beauty' before the -ful suffix is added. The gloss should reflect that it carries the core beauty meaning.",
+    "suggestion": "zuri or uzuri"
+  },
+  {
+    "word": "knowledge",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'(nomino)' is not a proper homeLang label. It describes a grammatical category (noun-forming suffix) in plain text rather than using the convention. The suffix '-ledge' should be glossed as '(state)' or similar, reflecting that it forms abstract nouns from verbs.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'re' glossed as 'nyuma' (back/behind) is misleading. The prefix 're-' in 'responsibility' is not productive here—'responsibility' is not synchronically analyzable as 're-' + 'sponsibility'. The word is lexicalized. However, if forced to parse it, 're-' should be glossed as '(again)' or '(back)', not as a direct semantic contributor to the noun form.",
+    "suggestion": "frozen compound or relabel as '(back)'"
+  },
+  {
+    "word": "responsibility",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "'Responsibility' is not productively composed of 're-' + 'spons-' + '-ibility' in modern English. The word is lexicalized and the morpheme boundaries do not reflect current semantic structure. The prefix 're-' does not mean 'nyuma' (back) in this context, and 'spons' is not a free morpheme.",
+    "suggestion": "Consider whether this word should be marked as a single frozen root rather than segmented."
+  },
+  {
+    "word": "leadership",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'(atendaye)' is overly long for a tile label and uses plain-text description. The suffix '-er' should be glossed as '(doer)' or similar, following the convention.",
+    "suggestion": "(doer)"
+  },
+  {
+    "word": "happiness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'furaha' is the translation of the root 'happi', but the tile label should be brief and concise. 'furaha' is acceptable but should match the translationShort convention.",
+    "suggestion": "furaha"
+  },
+  {
+    "word": "brightness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'angaza' is a verb (to shine/light up), but 'bright' in this context is an adjective. The noun form 'mwangaza' or an adjective gloss would be more accurate.",
+    "suggestion": "angavu"
+  },
+  {
+    "word": "helpfulness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(wenye)' means 'those who have' or 'possessors of', but '-ful' means 'full of' or 'characterized by'. The label should reflect the suffix's actual meaning.",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "fearless",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'Fearless' is an adjective and should have the article field empty or null, which it does, but as a standalone entry in a dictionary, adjectives in English are typically presented without an article. This is acceptable, but the article field should be explicitly empty/null.",
+    "suggestion": ""
+  },
+  {
+    "word": "truthful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '(wenye)' which means 'having/possessing', but the label is too long and not in the standard grammatical abbreviation format",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "joyful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '(wenye)' which means 'having/possessing', but the label is too long and not in the standard grammatical abbreviation format",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "thankful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' is glossed as '(wenye)' which means 'having/possessing', but the label is too long and not in the standard grammatical abbreviation format",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "kindness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'upole' means 'gentleness' or 'softness', but the part is 'kind' which should be glossed more directly as 'mwenyenyi' or similar. 'Upole' is a noun derivative, not a direct gloss of the adjective 'kind'.",
+    "suggestion": "mwenye or karib (to reflect 'kind' more directly as used in compounds)"
+  },
+  {
+    "word": "sickness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'mgonjwa' is a noun meaning 'patient/sick person', but the part is the adjective 'sick'. The gloss should reflect the adjectival/state meaning, not the agentive noun.",
+    "suggestion": "(mgonjwa) or kuwa mgonjwa"
+  },
+  {
+    "word": "forgiveness",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split into three parts with 'ness' appearing twice (parts[1] and parts[2]). This is a mis-split: 'forgiveness' should be split as 'forgive' + 'ness', not 'forgive' + 'ness' + 'ness'. There is only one '-ness' suffix in the word.",
+    "suggestion": "Remove the duplicate part[2]; keep only parts[0] (forgive) and parts[1] (ness)"
+  },
+  {
+    "word": "kindness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Article is set to 'the', but 'kindness' is an abstract uncountable noun in English and does not normally take 'the' when used generically. It should be empty or null.",
+    "suggestion": ""
+  },
+  {
+    "word": "weakness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Article is set to 'the', but 'weakness' as an abstract noun does not take 'the' when used generically. It should be empty or null.",
+    "suggestion": ""
+  },
+  {
+    "word": "sickness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Article is set to 'the', but 'sickness' as an abstract noun does not take 'the' when used generically. It should be empty or null.",
+    "suggestion": ""
+  },
+  {
+    "word": "forgiveness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Article is set to 'the', but 'forgiveness' as an abstract noun does not take 'the' when used generically. It should be empty or null.",
+    "suggestion": ""
+  },
+  {
+    "word": "blindness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kipofu' is a noun meaning 'blind person', but the root 'blind' here is an adjective. The gloss should reflect the adjective form.",
+    "suggestion": "-pofu (blind)"
+  },
+  {
+    "word": "loneliness",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as lone + li + ness + li, with duplicate and empty 'li' parts. The correct morphological split is lone + ly + ness (3 parts). The '-li-' is part of the '-ly' suffix formation, not a separate linking element.",
+    "suggestion": "Split as: lone (peke) | ly (-enye) | ness ((hali))"
+  },
+  {
+    "word": "loneliness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "parts[1] 'li' has an empty homeLang value. If this part is kept, it needs a gloss; if it's a linking element, it should be marked as such with proper documentation.",
+    "suggestion": "Either remove this part and restructure, or provide a meaningful gloss"
+  },
+  {
+    "word": "loneliness",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "parts[3] 'li' has an empty homeLang value and appears to be a duplicate/redundant part. The morphological structure should not include two separate 'li' entries.",
+    "suggestion": "Remove this duplicate part; the word should be split as lone + ly + ness"
+  },
+  {
+    "word": "caretaker",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'kuchukua' (take) does not match the morpheme 'tak' (from 'take'). The gloss should reflect the English morpheme meaning, not a Swahili translation of a different word.",
+    "suggestion": "chukua (or leave blank if using English root)"
+  },
+  {
+    "word": "caretaker",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kutunza' translates the English root 'care' but the convention is to gloss morpheme meanings, not provide full translations. For consistency with the -er suffix pattern, this should be shorter or indicate the root's semantic domain.",
+    "suggestion": "care (or tunza if using Swahili root directly)"
+  },
+  {
+    "word": "storyteller",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'kusema' (speak/say) is a broader meaning than 'tell'. The morpheme is 'tell' specifically, which in this context means to narrate.",
+    "suggestion": "sema (or simamia/kusimulia for story-telling)"
+  },
+  {
+    "word": "farmer",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'shamba' is a noun (farm/field) but the English morpheme 'farm' in 'farmer' is used as a verb root (one who farms). The gloss conflates the noun and verb meanings.",
+    "suggestion": "lima (to farm) or lima mazao"
+  },
+  {
+    "word": "worker",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'kufanya kazi' is too long for a tile label. Should use a shorter gloss like 'kazi' or 'fanya'.",
+    "suggestion": "kazi"
+  },
+  {
+    "word": "hunter",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'kuwinda' is a full infinitive form. For a tile label, use the shorter root/stem form.",
+    "suggestion": "winda"
+  },
+  {
+    "word": "fighter",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'kupigana' is a full infinitive form. For a tile label, use the shorter root/stem form.",
+    "suggestion": "pigana"
+  },
+  {
+    "word": "swimmer",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The part is labeled 'mer' but the suffix is '-er', not '-mer'. The 'm' is part of the phonological doubling/easing rule, not part of the suffix morpheme itself. The boundary should be 'swim' + 'er', not 'swi' + 'mer'.",
+    "suggestion": "Target should be 'er', not 'mer'"
+  },
+  {
+    "word": "runner",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The part is labeled 'ner' but the suffix is '-er', not '-ner'. The 'n' is part of the phonological doubling/easing rule, not part of the suffix morpheme itself. The boundary should be 'run' + 'er', not 'run' + 'ner'.",
+    "suggestion": "Target should be 'er', not 'ner'"
+  },
+  {
+    "word": "traveler",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'kusafiri' is a Swahili infinitive (to travel), but the tile label should be a short, concise English gloss, not the Swahili word itself. Tile labels must be brief and descriptive.",
+    "suggestion": "travel"
+  },
+  {
+    "word": "speaker",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'kusema' is a Swahili infinitive (to speak), but the tile label should be a short, concise English gloss, not the Swahili word itself.",
+    "suggestion": "speak"
+  },
+  {
+    "word": "listener",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'kusikiliza' is a Swahili infinitive (to listen), but the tile label should be a short, concise English gloss, not the Swahili word itself.",
+    "suggestion": "listen"
+  },
+  {
+    "word": "healer",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'kupona' is a Swahili infinitive (to heal), but the tile label should be a short, concise English gloss, not the Swahili word itself.",
+    "suggestion": "heal"
+  },
+  {
+    "word": "gardener",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'bustani' is the Swahili noun (garden), but the tile label should be a short, concise English gloss, not the Swahili word itself.",
+    "suggestion": "garden"
+  },
+  {
+    "word": "writer",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kuandika\" is the infinitive form; tile label should be shorter and match the root meaning without the infinitive marker",
+    "suggestion": "andika"
+  },
+  {
+    "word": "reader",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kusoma\" is the infinitive form; tile label should be shorter and match the root meaning without the infinitive marker",
+    "suggestion": "soma"
+  },
+  {
+    "word": "singer",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kuimba\" is the infinitive form; tile label should be shorter and match the root meaning without the infinitive marker",
+    "suggestion": "imba"
+  },
+  {
+    "word": "dancer",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kucheza\" is the infinitive form; tile label should be shorter and match the root meaning without the infinitive marker",
+    "suggestion": "cheza"
+  },
+  {
+    "word": "keeper",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kulinda\" is the infinitive form; tile label should be shorter and match the root meaning without the infinitive marker",
+    "suggestion": "linda"
+  },
+  {
+    "word": "playful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kucheza' is a verb (to play), but 'play' in this context is a noun/root that takes the suffix. The gloss should match the noun form or the base concept.",
+    "suggestion": "mchezo"
+  },
+  {
+    "word": "careful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'tahadhari' is a noun (caution/care), but in 'careful' it represents the verb root 'care' which should be glossed differently to reflect its verbal origin.",
+    "suggestion": "kuangalia"
+  },
+  {
+    "word": "harmful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kudhuru' is a verb form (to harm), but should be presented as a nominal/root form for consistency with how the suffix combines. The gloss should reflect the base concept without the infinitive marker.",
+    "suggestion": "dhura"
+  },
+  {
+    "word": "useful",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kutumia' is presented as an infinitive verb, but should be glossed as a nominal/root form for clarity in the tile label.",
+    "suggestion": "tumia"
+  },
+  {
+    "word": "restless",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'kupumzika' is a full infinitive verb form, not a short morpheme gloss. For a tile label, should be a noun or concise term.",
+    "suggestion": "pumziko"
+  },
+  {
+    "word": "faithful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang '(wenye)' means 'those who have/possess' but the suffix '-ful' means 'full of' or 'having the quality of'. The gloss should reflect the adjectival meaning, not a possessive noun.",
+    "suggestion": "(wenye)"
+  },
+  {
+    "word": "strengthen",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(fanya)' is too long for a tile label. Standard convention for the causative/verbalizing suffix -en is '(vb)' or '(make)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "weaken",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(fanya)' is too long for a tile label. Standard convention for the causative/verbalizing suffix -en is '(vb)' or '(make)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "darken",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(fanya)' is too long for a tile label. Standard convention for the causative/verbalizing suffix -en is '(vb)' or '(make)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "darken",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'weka giza' (put darkness) is not a natural Swahili expression for the verb 'to darken'. Should be 'giza' or 'kufa giza' or similar.",
+    "suggestion": "kufa giza or kugeuka nyeusi"
+  },
+  {
+    "word": "soften",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(fanya)' is too long for a tile label. Standard convention for the causative/verbalizing suffix -en is '(vb)' or '(make)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "brighten",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(fanya)' is too long for a tile label. Standard convention for the causative/verbalizing suffix -en is '(vb)' or '(make)'.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "brighten",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation 'angaza' is the Swahili for 'bright' (the adjective), not the verb 'brighten'. Should be 'kuangaza' or similar verb form.",
+    "suggestion": "kuangaza"
+  },
+  {
+    "word": "harden",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-en' is glossed as '(fanya)' (do/make), but the correct convention for a verb-forming causative/inchoative suffix should be '(vb)' or a short grammatical label, not a full verb translation.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "translationShort",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translationShort is 'gumu' (hard/hardness), but the verb 'harden' should translate to an action form like 'kugumu' or 'fanya kigumu', not just the adjective.",
+    "suggestion": "kugumu"
+  },
+  {
+    "word": "return",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 're-' is glossed as 'kurudi' (the full verb 'return'), but the gloss should be the morpheme meaning only: '(back)' or '(again)'. The homeLangDetails note correctly identifies that 'return' is a Latin compound, but the morpheme gloss should follow the short label convention.",
+    "suggestion": "(back)"
+  },
+  {
+    "word": "return",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'turn' is glossed as 'kugeuka' (to turn/rotate), but in 'return' it comes from Latin 'tornare' (to turn in a lathe, hence 'to direct/go'). The gloss 'kugeuka' is misleading in this synchronic context; it should reflect the etymological sense of motion or direction, or be left as the English root 'turn' since the etymology is opaque.",
+    "suggestion": "turn"
+  },
+  {
+    "word": "renew",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'tena' is too long for a tile label. It should use the standard grammatical abbreviation for the prefix re- meaning 'again'.",
+    "suggestion": "(again)"
+  },
+  {
+    "word": "refresh",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'tena' is too long for a tile label. It should use the standard grammatical abbreviation for the prefix re- meaning 'again'.",
+    "suggestion": "(again)"
+  },
+  {
+    "word": "refresh",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The Swahili gloss 'burudisho' is a noun meaning 'refreshment/cool thing', but 'fresh' in English is an adjective. The gloss should reflect the English adjective sense, not a derived noun form.",
+    "suggestion": "mpya"
+  },
+  {
+    "word": "retell",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'tena' is too long for a tile label. It should use the standard grammatical abbreviation for the prefix re- meaning 'again'.",
+    "suggestion": "(again)"
+  },
+  {
+    "word": "regrow",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'tena' is too long for a tile label. It should use the standard grammatical abbreviation for the prefix re- meaning 'again'.",
+    "suggestion": "(again)"
+  },
+  {
+    "word": "reborn",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'tena' is too long for a tile label. It should use the standard grammatical abbreviation for the prefix re- meaning 'again'.",
+    "suggestion": "(again)"
+  },
+  {
+    "word": "reborn",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The Swahili gloss 'kuzaliwa' is an infinitive verb meaning 'to be born', but 'born' is a past participle adjective. The gloss should reflect the English adjective/past participle sense.",
+    "suggestion": "zaliwa"
+  },
+  {
+    "word": "prehistoric",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"kabla\" means 'before' but the prefix 'pre-' in this context means 'before (in time)' or 'prior to'. The gloss should use the parenthetical convention for clarity.",
+    "suggestion": "(before)"
+  },
+  {
+    "word": "unclean",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"bila\" literally means 'without', but the prefix 'un-' is a negation marker. The gloss should use the parenthetical convention.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "unhappy",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"bila\" literally means 'without', but the prefix 'un-' is a negation marker. The gloss should use the parenthetical convention.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "unfair",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"bila\" literally means 'without', but the prefix 'un-' is a negation marker. The gloss should use the parenthetical convention.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "unkind",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"bila\" literally means 'without', but the prefix 'un-' is a negation marker. The gloss should use the parenthetical convention.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "unsafe",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but in English morphology it functions as a negation/privative prefix. The Swahili gloss should reflect the function of negation, not a loose semantic equivalent.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "unclear",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but should be glossed as a negation prefix to reflect its grammatical function.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "unwise",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but should be glossed as a negation prefix to reflect its grammatical function.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "untrue",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but should be glossed as a negation prefix to reflect its grammatical function.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "unknown",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but should be glossed as a negation prefix to reflect its grammatical function.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "unloved",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but the label should use the standard grammatical notation for negation prefixes. 'bila' is a standalone word meaning 'without', not a bound prefix gloss.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "untamed",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'un-' is glossed as 'bila' (without), but should use standard grammatical notation for negation prefixes.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "overflow",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'zaidi' means 'more/excess' as a standalone word, but here 'over-' functions as a directional prefix meaning movement upward/outward. The gloss should reflect the prefix function, not the Swahili word meaning.",
+    "suggestion": "(over)"
+  },
+  {
+    "word": "overlook",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'juu' means 'up/above' as a standalone word, but here 'over-' functions as a prefix in the sense of 'miss/fail to notice'. The gloss should reflect the idiomatic prefix meaning in this context, not the literal directional sense.",
+    "suggestion": "(over)"
+  },
+  {
+    "word": "overcome",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'zaidi' means 'more/excess' as a standalone word, but here 'over-' functions as a prefix meaning 'to master' or 'to defeat'. The gloss should reflect the prefix function in this context.",
+    "suggestion": "(over)"
+  },
+  {
+    "word": "overpower",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "In 'overpower', 'over-' means 'excessively' or 'to exceed', not 'zaidi' (more/additional). The prefix indicates excess or dominance, not comparative degree.",
+    "suggestion": "(excess)"
+  },
+  {
+    "word": "outcome",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'out' in 'outcome' does not mean 'nje' (outside/out). It is a prefix that forms a noun from a process, indicating 'result' or 'what comes out'. The gloss should reflect this derivational function.",
+    "suggestion": "(result)"
+  },
+  {
+    "word": "outgrow",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'out' in 'outgrow' does not mean 'zaidi' (more). The prefix means to surpass or go beyond in growth, indicating 'beyond' or 'surpass', not simple comparison.",
+    "suggestion": "(beyond)"
+  },
+  {
+    "word": "outnumber",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'out' in 'outnumber' does not mean 'zaidi' (more). The prefix indicates 'surpass' or 'exceed in number', not a simple comparative.",
+    "suggestion": "(surpass)"
+  },
+  {
+    "word": "outrun",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'out' in 'outrun' does not mean 'zaidi' (more). The prefix means 'surpass' or 'exceed in speed', not simple comparison.",
+    "suggestion": "(surpass)"
+  },
+  {
+    "word": "incoming",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' in 'incoming' means 'ndani' (into/inward) in English morphology, but the gloss should reflect that it's a prefix, not a standalone word. The label is too long and not in tile convention.",
+    "suggestion": "(ndani)"
+  },
+  {
+    "word": "incoming",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'com' does not correspond to 'kuja' (come). The morpheme in 'incoming' is 'come', not 'com' as a separate morpheme. The gloss 'kuja' is correct for the meaning but the targetLang split is misleading.",
+    "suggestion": "kuja"
+  },
+  {
+    "word": "incoming",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '(inayotokea)' is too long for a tile label and is a full phrase, not a brief gloss. Should be '(vb)' or similar short convention for the -ing suffix.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "outgoing",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'go' as a separate morpheme component should have a brief gloss, not 'kwenda' which is a full word. The label should follow tile convention.",
+    "suggestion": "kwenda"
+  },
+  {
+    "word": "outgoing",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '(inayotokea)' is too long for a tile label. Should use brief convention like '(vb)' for the -ing verbal suffix.",
+    "suggestion": "(vb)"
+  },
+  {
+    "word": "lifetime",
+    "category": "frozen_compound",
+    "field": "translationShort",
+    "issue": "While 'maisha yote' (all life) is a reasonable literal translation, 'lifetime' is a lexicalized compound where 'time' no longer contributes its modern meaning of 'muda' (duration). The synchronic reading may mislead players about how compounds work.",
+    "suggestion": "consider noting this as a fixed expression rather than a transparent compound"
+  },
+  {
+    "word": "stronghold",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"nguvu\" (force/power) does not accurately represent \"strong\" in the context of this word. The morpheme strong- in stronghold means \"strong\" (adjective), but nguvu is a noun meaning power/force. A better gloss would be the adjective form.",
+    "suggestion": "wenye nguvu or imara (strong)"
+  },
+  {
+    "word": "stronghold",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"kushikilia\" is a verb meaning \"to hold/grip/grasp\", but in stronghold, -hold is a noun meaning a place/position of control or a grip/fortress. The gloss should reflect the noun sense, not the infinitive verb form.",
+    "suggestion": "mahali (place) or mkakati (position)"
+  },
+  {
+    "word": "watershed",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"kumwaga\" means \"to pour/spill/shed (liquid)\", but in watershed, -shed refers to a structure that sheds/diverts water or an area that sheds water. The gloss conflates the verb with the noun sense required here.",
+    "suggestion": "ukingo (edge/ridge) or kumwaga (shed)"
+  }
+]

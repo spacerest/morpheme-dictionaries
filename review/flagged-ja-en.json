@@ -1,0 +1,44 @@
+[
+  {
+    "word": "外来人",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "外来 bundles two distinct morphemes, 外 (outside/foreign) and 来 (come/arrive), into a single part. The split 外 + 来 + 人 would give the player more building blocks.",
+    "suggestion": "Split into three parts: 外 (outside), 来 (come), 人 (person)"
+  },
+  {
+    "word": "思いやり",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "思いやり is a fully lexicalized noun whose meaning (compassion, consideration) is not straightforwardly compositional from 思い (feeling) + やり (doing/giving). The sum of parts points toward 'extending feelings outward,' which is suggestive but not sufficient to arrive at the modern sense without cultural knowledge.",
+    "suggestion": "Consider adding a note in translationLong or homeLangDetails that the compound is a fixed lexical item, so players are not misled into thinking the parts fully solve the meaning."
+  },
+  {
+    "word": "行員",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "行 alone does not mean 'bank' as a standalone morpheme — it is a truncation of 銀行. Some editors prefer to mark the full base as 銀行 with a note on ellipsis, rather than treating the clipped 行 as the morpheme. The current split is defensible but arguably misleading for learners who know 行 primarily as 'go'.",
+    "suggestion": "Consider whether the entry should note more explicitly that this 行 is an elliptical stand-in for 銀行, or restructure the parts to reflect that truncation more transparently."
+  },
+  {
+    "word": "話し合おう",
+    "category": "wrong_boundary",
+    "field": "parts[1] / parts[2]",
+    "issue": "The volitional morpheme is split as 合お + う, which is a non-standard cut. The suffix すぎる and similar suffixes attach to the conjunctive stem, but here 合お is not a meaningful standalone unit — the stem of 合う is 合い (conjunctive) or 合わ (negative), not 合お. The お belongs to the volitional inflection and should not be separated from う.",
+    "suggestion": "Consider splitting as 話し (talk) + 合い (mutually / together) + おう (volitional), or 話し + 合う + おう, depending on the morpheme model used. At minimum, 合お should not stand alone as a tile."
+  },
+  {
+    "word": "見つめる",
+    "category": "wrong_boundary",
+    "field": "parts[0].targetLang",
+    "issue": "見つめ is segmented as a single opaque root, but it transparently combines 見 (see) and つめ (from 詰める, press/pack). The current cut hides the compound structure that makes the word interesting for a puzzle.",
+    "suggestion": "Split into three parts: 見 (see), つめ (press), る (verb)"
+  },
+  {
+    "word": "話し言葉",
+    "category": "frozen_compound",
+    "field": "parts[1].targetLang",
+    "issue": "言葉 is itself a fully lexicalized compound (言 + 葉) that no longer transparently means 'say' + 'leaf' in modern usage. The tile label 'words' is a usable approximation, but the internal logic of 言葉 is opaque to learners.",
+    "suggestion": "Consider treating 言葉 as a single root tile glossed 'words/speech' with a note in homeLangDetails explaining its components, rather than splitting further."
+  }
+]

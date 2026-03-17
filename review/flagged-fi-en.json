@@ -1,0 +1,30 @@
+[
+  {
+    "word": "unohttaminen",
+    "category": "wrong_boundary",
+    "field": "id / parts",
+    "issue": "The entry ID and parts spell 'unohttaminen' with a double-t, but standard Finnish is 'unohtaminen'. The -tta- causative split may also be a mis-cut: in unohtaa the canonical root is 'unoh' and the suffix is '-taa' (or '-ta-' + infinitive marker), not '-tta-'. If the correct word is 'unohtaminen', the middle part should be 'ta' not 'tta', and the glossary canonical entry for 'tta' (distributive/iterative) does not match the causative role claimed here.",
+    "suggestion": "Confirm correct spelling: if 'unohtaminen', rename entry to 'unohtaminen' and resplit as unoh + ta + minen, updating the middle part's gloss accordingly."
+  },
+  {
+    "word": "uudistuminen",
+    "category": "wrong_boundary",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'stu' is typed as 'root' but functions as a derivational suffix (-stu/-sty) that creates a reflexive/intransitive verb from the root. It is not an independent root.",
+    "suggestion": "Change morphemeType of 'stu' to 'suffix'."
+  },
+  {
+    "word": "etuoikeutettu",
+    "category": "wrong_boundary",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'tettu' is typed as 'root' but is a past passive participle suffix (-ttu/-tty). It is not an independent root.",
+    "suggestion": "Change morphemeType of 'tettu' to 'suffix'."
+  },
+  {
+    "word": "osaavuus",
+    "category": "wrong_boundary",
+    "field": "parts[0]",
+    "issue": "The root 'osa' (part, share) is the noun root, but 'osaavuus' derives from the verb 'osata' (to know how). Splitting as osa + av + uus obscures the verbal stem 'osata', which is the true base. The participial stem -av- attaches to the verb stem 'osa(ta)', not the noun 'osa'.",
+    "suggestion": "Consider whether the root should be glossed as the verb stem from 'osata' rather than the noun 'osa', or whether a note clarifying the verbal base is sufficient. The current three-part split is defensible pedagogically but may mislead learners about the derivational base."
+  }
+]

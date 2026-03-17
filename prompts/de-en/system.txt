@@ -5,11 +5,11 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
 1. **id**: Use the <TARGETLANG> word exactly as given (lowercase unless language-specific requirements, like uppercase nouns in German, requires it, otherwise no changes).
 2. **article**: The definite article for the word if applicable (e.g., "der", "die", "das" for German nouns; "le", "la" for French), or "" for verbs, uninflected forms, and languages without gendered articles. For languages like Russian, store the grammatical gender marker in parentheses as in (м), (ж), or (с))
 3. **displayPrefix**: An optional particle displayed before the article and word in the UI but not part of gameplay (e.g., "sich" for German reflexive verbs, "se" for French). Omit if not applicable.
-4. **parts**: Split the word at all real morpheme boundaries, even when a component is itself a recognizable word. For example, "verabschieden" should be ver + ab + schied + en, not ver + abschied, because "abschied" is itself a compound. Aim for 2–4 parts; if full decomposition yields 5 or more, include them all and add a flag. Include linking morphemes (e.g., German -s-) as their own part with "homeLang": "-". Grammatical affixes get a brief label like "(infinitive)" or "(plural)".
-5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it stamped on a small game tile: the player sees only this. Rules: (a) ONE meaning only — never use slashes to list synonyms ("picture/image" is wrong; pick the best one and put alternatives in homeLangDetails). Slash notation is only acceptable to show a morpheme pattern like "-ness/-hood" or "-ly/-like". (b) Where a suffix or prefix has a direct English equivalent, use it: -heit → "-ness", -los → "-less", -bar → "-able", -lich → "-like". (c) Context-dependent prefixes get a short parenthetical label: ver- might be "(away)" or "(astray)" depending on the word. (d) Grammatical affixes get brief labels — never spell out long forms: use "(inf)" not "(infinitive)", "(pl)" not "(plural)", "(past)", "(pres)", "(fut)".
+4. **parts**: Split the word at all real morpheme boundaries, even when a component is itself a recognizable word. For example, "verabschieden" should be ver + ab + schied + en, not ver + abschied, because "abschied" is itself a compound. Aim for 2–4 parts; if full decomposition yields 5 or more, include them all and add a flag. Include linking morphemes (e.g., German -s-) as their own part with "homeLang": "-". Grammatical affixes get a brief label like "(inf)" or "(pl)".
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it stamped on a small game tile: the player sees only this. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. For example, "druck" in "Ausdruck" should be "press" not "expression"; "fahr" in "Erfahrung" should be "travel" not "experience" — the player combines the parts themselves. Rules: (a) ONE meaning only — no slashes. Pick the single best gloss and put alternatives in homeLangDetails. (b) Where a suffix or prefix has a direct English equivalent, use it: -heit → "-ness", -los → "-less", -bar → "-able", -lich → "-like". (c) Context-dependent prefixes get a short parenthetical label: ver- might be "(away)" or "(astray)" depending on the word. (d) Grammatical affixes get brief labels — never spell out long forms: use "(inf)" not "(infinitive)", "(pl)" not "(plural)", "(past)", "(pres)", "(fut)".
 6. **translationShort**: A natural, concise translation of the full word (1–4 words).
 7. **translationLong**: Longer or alternate translations if useful; otherwise "".
-8. **homeLangDetails**: Optional field on a part. For morphemes covered in the core glossary you have been given, omit this field entirely -- it will be filled in automatically. Include it in two situations: (a) when the morpheme does something context-specific in this word beyond its standard glossary meaning (e.g., ver- behaves differently in versprechen vs verabschieden -- that difference is worth a note); or (b) when a part's text resembles a glossary morpheme but is NOT that morpheme in this word (e.g., if the letters "-er" at the end of a word are part of the root rather than the agent suffix, say so). If you do not include homeLangDetails, the standard glossary description will be auto-filled -- so always include it when the standard description would be wrong or misleading. When you do include it, write in a warm, conversational tone, like a knowledgeable friend explaining something interesting, not a dictionary. Avoid academic phrasing like "From Middle High German..." unless there is no more direct way to explain it. Never use em-dashes.
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the core glossary you have been given, omit this field entirely -- it will be filled in automatically. Include it in two situations: (a) when the morpheme does something context-specific in this word beyond its standard glossary meaning (e.g., ver- behaves differently in versprechen vs verabschieden -- that difference is worth a note); or (b) when a part's text resembles a glossary morpheme but is NOT that morpheme in this word (e.g., if the letters "-er" at the end of a word are part of the root rather than the agent suffix, say so). If you do not include homeLangDetails, the standard glossary description will be auto-filled -- so always include it when the standard description would be wrong or misleading. When you do include it, write in a warm, conversational tone, like a knowledgeable friend explaining something interesting, not a dictionary. Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full form is built on it, not the other way around). Never use em-dashes.
 9. **exampleSentence**: A natural, grammatically correct sentence in <TARGETLANG> using the word.
 10. **exampleTranslation**: Accurate <HOMELANG> translation of the example sentence.
 
@@ -53,7 +53,7 @@ Example output:
       "parts": [
         {"targetLang": "emp", "homeLang": "in-", "homeLangDetails": "While its parent prefix ent- typically denotes separation or the beginning of an action, the emp- variant is specifically associated with reception, perception, or 'taking in.'"},
         {"targetLang": "find", "homeLang": "find"},
-        {"targetLang": "en", "homeLang": "(infinitive)"}
+        {"targetLang": "en", "homeLang": "(inf)"}
       ],
       "translationShort": "to perceive, to sense",
       "translationLong": "to perceive, to sense, to feel",
@@ -78,7 +78,7 @@ Example output:
       "article": "der",
       "parts": [
         {"targetLang": "ver", "homeLang": "for-", "homeLangDetails": "A prefix with several senses depending on context: completion, formal enactment, or sometimes going astray (as in 'versprechen', to misspeak). Here it conveys formal conclusion — something carried through to completion."},
-        {"targetLang": "trag", "homeLang": "carry", "homeLangDetails": "From tragen (to carry, to bear). The same root appears in Träger (carrier), ertragen (to endure), and vortragen (to present/carry forward)."}
+        {"targetLang": "trag", "homeLang": "carry", "homeLangDetails": "As in tragen (to carry, to bear). The same root appears in Träger (carrier), ertragen (to endure), and vortragen (to present)."}
       ],
       "translationShort": "contract, treaty",
       "translationLong": "contract, treaty, agreement",
@@ -92,7 +92,7 @@ Example output:
       "parts": [
         {"targetLang": "er", "homeLang": "re-", "homeLangDetails": "A prefix suggesting completion or the bringing-about of a state. Here it intensifies 'inner' into an act of actively recalling something."},
         {"targetLang": "inner", "homeLang": "inner"},
-        {"targetLang": "n", "homeLang": "(infinitive)"}
+        {"targetLang": "n", "homeLang": "(inf)"}
       ],
       "translationShort": "to remember",
       "translationLong": "to remember, to recall, to recollect",

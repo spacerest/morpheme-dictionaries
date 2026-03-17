@@ -1,0 +1,79 @@
+[
+  {
+    "word": "mpishi",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The underlying verb is -pika (to cook), not -pishi. The split m + pishi does not reflect the actual morphology — pishi is not a standard verb root, and the -shi is not the regular agent suffix -ji. This may be a frozen form where the agent suffix has merged with a sound-changed root.",
+    "suggestion": "Consider treating mpishi as a single root entry with a note that it derives historically from -pika, or flag as frozen_compound if the internal structure is no longer productive."
+  },
+  {
+    "word": "mjenzi",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The part 'jenzi' bundles the verb root -jenga- (with ng→nz mutation) and the agent suffix -i into a single tile. The morpheme boundary should fall between the mutated root 'jenz-' and the suffix '-i', but the root form is opaque without the mutation note.",
+    "suggestion": "Consider splitting into {targetLang: 'jenz', homeLang: 'build'} and {targetLang: 'i', homeLang: '(doer)'} with a homeLangDetails note on 'jenz' explaining the ng→nz mutation from -jenga."
+  },
+  {
+    "word": "wapishi",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The entry splits wa + pishi, treating pishi as a single root, but the homeLangDetails acknowledge that pishi derives from -pika with an agent-forming suffix. If that suffix is identifiable (possibly -shi or a morphological remnant), the split may be wa + pi + shi or wa + pik + i. Alternatively, if mpishi is fully lexicalized and pishi is best treated as an opaque stem, the current two-part split may be acceptable but the details should not describe an invisible suffix.",
+    "suggestion": "Review whether pishi should be split further (e.g. pik + i or similar) or treated as an unanalyzable stem. If unanalyzable, remove the reference to an agent-forming suffix in the details."
+  },
+  {
+    "word": "kukusanyika",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The root is split as 'kusany' but the initial 'ku' may itself be a second ku- prefix (intensive or reflexive reduplication) rather than part of the root. The base verb is kusanya, making the split ku + kusany + ik + a ambiguous — the inner ku- could be a separate morpheme.",
+    "suggestion": "Consider splitting as ku (infinitive) + ku (reflexive/intensive) + sany (root) + ik (stative) + a (FV), or confirming that 'kusany' is the indivisible root here."
+  },
+  {
+    "word": "ulimaji",
+    "category": "wrong_boundary",
+    "field": "parts[2] / parts[3]",
+    "issue": "The suffix -aji is a single nominalizing morpheme and should not be split into -aj- and -i. Splitting it produces a spurious final segment that has been incorrectly labeled as an applicative ending, misleading the player.",
+    "suggestion": "Merge parts[2] and parts[3] into a single part {targetLang: 'aji', homeLang: '(action)'} with details explaining the full -aji nominalizing suffix."
+  },
+  {
+    "word": "uchezaji",
+    "category": "wrong_boundary",
+    "field": "parts[2] / parts[3]",
+    "issue": "The suffix -aji is a single nominalizing morpheme and should not be split into -aj- and -i. Splitting it produces a spurious final segment that has been incorrectly labeled as an applicative ending, misleading the player.",
+    "suggestion": "Merge parts[2] and parts[3] into a single part {targetLang: 'aji', homeLang: '(action)'} with details explaining the full -aji nominalizing suffix."
+  },
+  {
+    "word": "uimaji",
+    "category": "wrong_boundary",
+    "field": "parts[2] / parts[3]",
+    "issue": "The suffix -aji is a single nominalizing morpheme and should not be split into -aj- and -i. Splitting it produces a spurious final segment that has been incorrectly labeled as an applicative ending, misleading the player.",
+    "suggestion": "Merge parts[2] and parts[3] into a single part {targetLang: 'aji', homeLang: '(action)'} with details explaining the full -aji nominalizing suffix."
+  },
+  {
+    "word": "mjini",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as m + ji + ni, treating m and ji as separate morphemes. But mji is a single indivisible noun stem (city/town) with its M-class prefix fused to the stem. Splitting m and ji separately misrepresents how the noun works and gives ji the gloss 'city' when ji alone does not mean city.",
+    "suggestion": "Split as mji (city/town) + ni (locative suffix), two parts only."
+  },
+  {
+    "word": "choo",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The root oo has no independent meaning or usage in Swahili. The entry itself notes that choo is treated as a single unit. Splitting off ch- gives the player a morpheme with no useful standalone sense.",
+    "suggestion": "Consider treating choo as a single unanalyzed root part."
+  },
+  {
+    "word": "chombo",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The element ombo has no independent meaning in Swahili and does not help a learner puzzle out the word's meaning. The ki-/vi- class prefix identification is valid, but the remainder is not a productive root.",
+    "suggestion": "Consider treating chombo as a single unanalyzed root, or retaining only the ch- prefix tile if the class-marking pedagogical point is valuable."
+  },
+  {
+    "word": "mahali",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Mahali is an Arabic loanword (from maḥall, meaning place or location), borrowed as an indivisible unit. Splitting it as ma- + hali imposes a Bantu morphological analysis that does not reflect the word's actual structure or etymology. The hali meaning 'condition' is a coincidental phonetic overlap, not a genuine shared root.",
+    "suggestion": "Treat mahali as a single root part with no internal split."
+  }
+]

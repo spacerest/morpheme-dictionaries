@@ -1,1010 +1,2158 @@
 [
   {
     "word": "injection",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'w-/nie lub do' is unclear and does not accurately represent the prefix 'in-'. In 'injection', 'in-' means 'into' or 'inward', not 'w-/nie lub do'.",
-    "suggestion": "Change to 'w/do' (into/inward) or 'do wewnątrz' (into the interior)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'in' is a prefix, not a root. It is a bound morpheme that precedes the root 'ject'.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
     "word": "injection",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Pielęgniarka dała mi zastrzyk, aby złagodzić ból' is grammatically awkward. The infinitive 'złagodzić' should be preceded by 'by' (a conditional particle), not 'aby' in this context, or the sentence should use a different construction.",
-    "suggestion": "Change to 'Pielęgniarka dała mi zastrzyk w celu złagodzenia bólu' or 'Pielęgniarka dała mi zastrzyk, żeby złagodzić ból'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'ject' is a root (the primary meaning-bearing morpheme from Latin -icere), but it is also bound and cannot stand alone in English. In the context of English morphology, this is the root of the word.",
+    "suggestion": "Keep as 'root' (correct as-is)"
   },
   {
-    "word": "prediction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Prognoza pogody na jutro zapowiada deszcz' is awkward. 'Zapowiada' (announces/heralds) is not the natural verb choice here. It should use 'przewiduje' or simply state the forecast differently.",
-    "suggestion": "Change to 'Prognoza pogody na jutro mówi o deszczu' or 'Prognoza pogody na jutro przewiduje deszcz'",
-    "source_file": "en-pl.json"
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'pro' is marked as 'root', but it is a prefix. It is a bound morpheme that precedes the root 'ject'.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
-    "word": "jurisdiction",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "dict (Latin dictio) means 'speaking/saying', not 'mówić' in the sense of general speech. In jurisdiction, -dict- comes from Latin 'dicere' (to say/speak) referring to pronouncing judgment, not generic 'mówić'.",
-    "suggestion": "parts[1].homeLang should be 'orzekać' or 'wydawać wyrok' to better capture the legal sense of pronouncing judgment",
-    "source_file": "en-pl.json"
+    "word": "projection",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is 'naprzód/dla', but according to the canonical glossary, 'pro' means 'pro-/naprzód'. The gloss should follow the convention and be concise for a tile label.",
+    "suggestion": "Change to 'naprzód' or use the glossary form 'pro-/naprzód' more consistently"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'ob' is marked as 'root', but it is a prefix. It is a bound morpheme that precedes the root 'ject'.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'contra' is marked as 'root', but it is a prefix. It is a bound morpheme that precedes the root 'dict'.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans is a prefix, not a root",
+    "suggestion": "Set morphemeType to 'prefix'"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "port is a root, but ation should be a suffix, not a root",
+    "suggestion": "Set parts[2].morphemeType to 'suffix'"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and descriptive for a tile. Should be brief and consistent with glossary convention.",
+    "suggestion": "poprzez"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLangDetails",
+    "issue": "homeLangDetails field should not be used; detailed explanations belong in translationLong or exampleSentence only",
+    "suggestion": "Remove or migrate to exampleSentence context"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix, not a root",
+    "suggestion": "Set morphemeType to 'prefix'"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Set morphemeType to 'suffix'"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long for a tile. Should be brief.",
+    "suggestion": "w dół"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLangDetails",
+    "issue": "homeLangDetails field should not be used; belongs in translationLong or example context only",
+    "suggestion": "Remove or migrate"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "im is a prefix, not a root",
+    "suggestion": "Set morphemeType to 'prefix'"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Set morphemeType to 'suffix'"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Glossary convention uses parentheticals for context-dependent prefixes. This should be brief.",
+    "suggestion": "(do)"
   },
   {
     "word": "construction",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The Polish translationShort is 'konstrucja' but this primarily means 'structure/design', not the act of construction. The word for the act/process is 'budowa' or 'konstruowanie'.",
-    "suggestion": "translationShort should be 'budowa' or 'konstruowanie' to match the process meaning in translationLong",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix, not a root",
+    "suggestion": "Set morphemeType to 'prefix'"
   },
   {
     "word": "construction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Konstrucja nowego mostu będzie trwać dwa lata' uses konstrucja (structure/design) when the example sentence is about the building process. The tense is also awkward.",
-    "suggestion": "exampleTranslation should be 'Budowa nowego mostu będzie trwać dwa lata.' or 'Budowanie nowego mostu będzie trwać dwa lata.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Glossary convention uses parentheticals for context-dependent prefixes.",
+    "suggestion": "(razem)"
   },
   {
     "word": "destruction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'rozległy zniszczenia' is grammatically incorrect. The adjective 'rozległy' (widespread) should agree with the noun in accusative case as 'rozległe zniszczenia' (feminine plural accusative), but more naturally it should be 'rozległe zniszczenie' (neuter singular) or restructured as 'spowodował rozległe zniszczenia'.",
-    "suggestion": "Change to: 'Huragan spowodował rozległe zniszczenia.' or 'Huragan spowodował ogromne zniszczenie.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'rozbicia/odwrócenia' is too long and misleading for a tile label. 'de-' is a prefix, not a root, and should be glossed simply as its function (like 'un-' in English). The homeLangDetails explanation belongs in documentation, not the tile label.",
+    "suggestion": "w dół / od"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'de-' is a prefix, not a root. It's a bound morpheme that precedes 'struct'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'con-' is a prefix (from 'com'), not a root. It appears before 'struct' and modifies its meaning.",
+    "suggestion": "prefix"
   },
   {
     "word": "inspection",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'spect' is glossed as 'patrzenie' (looking/viewing), but in 'inspection' the Latin root 'specere' means 'to look' and 'spect-' specifically refers to the action of observing or examining. The gloss is oversimplified and doesn't capture that 'in-spect' literally means 'to look into/upon'.",
-    "suggestion": "Change to 'spect' → 'patrzenie/obserwacja' with a note that in context it means examining or observing something closely",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'in-' is a prefix, not a root. It precedes 'spect' and modifies its meaning (in- means 'in/into').",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'wewnątrz/nie lub do' is too verbose and confusing for a tile label. In 'inspection', 'in-' means 'into/in', not 'not'. Should be a short, contextual label.",
+    "suggestion": "wewnątrz / do"
   },
   {
     "word": "perspective",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'plan jest zbyt ryzykowny' is missing the article/possessive agreement. In Polish, after 'Z mojej perspektywy' the sentence structure is awkward. The more natural phrasing would include 'moim zdaniem' or restructure the sentence.",
-    "suggestion": "Change to: 'Z mojej perspektywy plan jest zbyt ryzykowny.' or 'Moim zdaniem plan jest zbyt ryzykowny.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'per-' is a prefix, not a root. It precedes 'spect'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ive' is a suffix (adjective-forming), not a root. It follows 'spect' and transforms the meaning into an adjective.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'retro-' is a prefix, not a root. It precedes 'spect'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ive' is a suffix (adjective-forming), not a root. It follows 'spect' and transforms the meaning into an adjective.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "prescription",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'przed' is correct for the prefix pre-, but the morphemeType should be 'prefix', not 'root'. The entry itself marks it correctly as prefix, so this is consistent. However, the homeLang label should match the convention: it should be short and parenthetical for prefixes.",
+    "suggestion": "(przed)"
   },
   {
     "word": "description",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'de' is a prefix meaning 'down/away', not a root. It cannot stand alone and is a bound morpheme preceding the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "description",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The prefix 'de-' is glossed as 'w dół, dokładnie' (down, precisely), but in 'description' it doesn't mean 'down' or carry a reversal sense. The 'de-' here is simply part of the Latin root 'describere' (to write down/depict) and doesn't function as a productive prefix with the meaning suggested. The gloss misleads by implying 'de-' reverses or negates the base meaning.",
-    "suggestion": "Revise the gloss to reflect that 'de-' in this word is part of the Latin root meaning 'write/depict' rather than a productive prefix meaning 'down' or 'reversal'. Consider: 'de (z łac. 'de-' część pierwotnego rdzenia łacińskiego)'.",
-    "source_file": "en-pl.json"
+    "issue": "The gloss 'w dół, dokładnie' is awkward and verbose for a tile label. Should be concise and parenthetical for a prefix.",
+    "suggestion": "(w dół)"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'sub' is a prefix meaning 'under/below', not a root. It is a bound morpheme that cannot stand alone.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'pod' is correct but should be parenthetical and concise for a prefix tile label.",
+    "suggestion": "(pod)"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'ex' is a prefix meaning 'out/away', not a root. It is a bound morpheme preceding the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'na zewnątrz' is correct but should be parenthetical and concise for a prefix tile label.",
+    "suggestion": "(na zewnątrz)"
   },
   {
     "word": "depression",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'de' is a prefix meaning 'down/away', not a root. It is a bound morpheme preceding the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'rozbicia/odwrócenia' (breaking/reversal) is misleading. In 'depression', the 'de-' prefix does carry a downward sense (press down), but the gloss provided doesn't accurately reflect this. The word comes from Latin 'deprimere' (to press down), so 'de-' should mean 'down' not 'breaking/reversal'.",
-    "suggestion": "Change homeLang to 'w dół' (down) to accurately reflect the prefix meaning in this word, since 'depression' literally means 'pressing down'.",
-    "source_file": "en-pl.json"
+    "issue": "The gloss 'rozbicia/odwrócenia' is incorrect and overly complex. 'de' means 'down/away', not 'breaking/reversing'. Should be concise and parenthetical.",
+    "suggestion": "(w dół)"
   },
   {
     "word": "reference",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix '-ence' should be split into '-ence' (nominalizing suffix) but the entry treats it as a separate morpheme without explaining that it nomininalizes the verb 'fer'. The structure should clarify that -ence derives a noun from the root.",
-    "suggestion": "Consider adding homeLangDetails to the '-ence' part explaining it as a nominalizing suffix that creates nouns from verbs, similar to English '-ness' or '-ity'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'z powrotem' (back) is overly specific and archaic. The standard modern gloss for re- prefix should be 're-/ponownie' per the canonical glossary, which covers both the original Latin sense and modern English usage.",
+    "suggestion": "re-/ponownie"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con- is a prefix (bound morpheme that precedes the root), not a root. It should be marked as 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter- is a prefix (bound morpheme that precedes the root), not a root. It should be marked as 'prefix'.",
+    "suggestion": "prefix"
   },
   {
     "word": "conversion",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'vert' is 'obracać' (to turn/rotate), but in 'conversion' the sense is closer to 'change' or 'transform'. While etymologically related to turning, the gloss may be misleading without context that 'vert' in Latin means 'to turn' which metaphorically extends to 'change'.",
-    "suggestion": "Either keep 'obracać' but add homeLangDetails clarifying the semantic extension to 'change/transform', or use a more direct gloss like 'zmieniać/zamieniać' (to change).",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con- is a prefix (bound morpheme that precedes the root), not a root. It should be marked as 'prefix'.",
+    "suggestion": "prefix"
   },
   {
     "word": "introversion",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "'intro' is glossed as 'do wewnątrz' (to/inward), but 'intro' in 'introversion' is actually the prefix 'intro-' meaning 'inward/within'. The gloss 'do wewnątrz' describes direction but doesn't capture that 'intro' is a prefix operating on 'vert'. The structure conflates a prefix with a preposition.",
-    "suggestion": "Gloss 'intro' as 'do wewnątrz (prefiks)' or 'w stronę wnętrza' to clarify it's a prefix, or restructure to show intro- as a single prefix unit rather than treating it as a separate morpheme equivalent to a free morpheme.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro- is a prefix (bound morpheme that precedes the root), not a root. It should be marked as 'prefix'.",
+    "suggestion": "prefix"
   },
   {
     "word": "subversion",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
+    "field": "parts[0].morphemeType",
+    "issue": "sub- is a prefix, not a root. It's a bound morpheme that precedes the root 'vers'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_gloss",
+    "field": "parts[1].morphemeType",
+    "issue": "vers is a root morpheme (from Latin vertere/versare), not independently labeled as root here, but the morphemeType assignment is correct as it is the core meaning-bearing element.",
+    "suggestion": "Morpheme type is correct; no change needed"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_gloss",
     "field": "translationShort",
-    "issue": "\"podwminanie\" appears to be a typo or nonsense word. The correct Polish word should be \"podważanie\" (undermining/subversion).",
-    "suggestion": "Change translationShort to \"podważanie\"",
-    "source_file": "en-pl.json"
+    "issue": "'podwminanie' is not a real Polish word. Should be 'podważanie' or similar, but the closest standard term is 'podważanie' (undermining) or 'obalanie' (subversion/overthrowing).",
+    "suggestion": "podważanie or obalanie"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de- is a prefix, not a root. It's a bound morpheme preceding the root 'pend'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in- is a prefix (negation), not a root. It's a bound morpheme preceding 'de'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "de- is a prefix, not a root. It's a bound morpheme preceding the root 'pend'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter- is a prefix, not a root. It's a bound morpheme preceding 'de'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "de- is a prefix, not a root. It's a bound morpheme preceding the root 'pend'.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "occurrence",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split \"oc + cur + rence\" is incorrect. The correct morpheme split should be \"oc + cur + rence\" where \"oc\" should be \"ob\" (Latin prefix meaning \"toward\") and the root is \"currere\" (to run). The actual split should be \"ob + cur + rence\" or the prefix should be corrected.",
-    "suggestion": "Change the first part from \"oc\" to \"ob\" with homeLang meaning \"ku/wobec/w kierunku\" or clarify that \"oc\" is a variant form of \"ob\"",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "oc- (from Latin ob-) is a prefix, not a root. It's a bound morpheme preceding 'cur'.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "occurrence",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "\"przykład lub wznowienie się czegoś\" (example or resumption of something) is inaccurate. Occurrence means an instance or event when something happens, not an example or resumption.",
-    "suggestion": "Change translationLong to \"przykład lub przypadek gdy coś się zdarza\" or \"fakt lub momen kiedy coś się pojawia lub zdarza\"",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-rence is a suffix (the -ence/-ence nominalizing suffix), not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "recurrence",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 're-cur-rence' is incorrect. 'Cur' is not a standalone morpheme in 'recurrence'; it should be 're-curr-ence' where 'curr' relates to Latin 'currere' (to run). The current split breaks the root morpheme incorrectly.",
-    "suggestion": "Split as: re- (again) + curr- (run) + -ence (noun suffix)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence (forming abstract nouns from adjectives/verbs) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "concurrent",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 'con-cur-ent' is incorrect. Should be 'con-curr-ent' where 'curr' relates to Latin 'currere' (to run). The current split breaks the root incorrectly.",
-    "suggestion": "Split as: con- (together) + curr- (run) + -ent (adjective suffix)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix con- (together/with) should be marked as 'prefix', not 'root'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root curr- (run/race) should be marked as 'root', which is correct, but con- is a prefix, not a root",
+    "suggestion": "root"
   },
   {
     "word": "recession",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 're-cess-ion' is incorrect. Should be 're-ced-ent' or reconsidered: 'cess' in this word comes from Latin 'cedere' (to go/yield). The split 're-cess-ion' fragments the root incorrectly.",
-    "suggestion": "Split as: re- (back) + ced- (go/yield) + -ion (noun suffix)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix re- should be marked as 'prefix', not 'root'",
+    "suggestion": "prefix"
   },
   {
     "word": "succession",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 'suc-cess-ion' is incorrect. 'Suc' should be 'sub' (under/after), and the root should be 'ced' from Latin 'cedere' (to go). Should be 'sub-ced-ion' or 'suc-ced-ion'.",
-    "suggestion": "Split as: sub/suc- (under/after) + ced- (go) + -ion (noun suffix)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix suc- (from sub-, meaning under/beneath) should be marked as 'prefix', not 'root'",
+    "suggestion": "prefix"
   },
   {
     "word": "unprecedented",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry splits into 5 parts including a separate 'ed' morpheme, but 'ed' is not a separate suffix here. The word structure is un-precedent-ed where 'precedent' is the base adjective and '-ed' is applied to create the past participle/adjective form. The final '-ed' should be combined with or clarified as part of the adjective formation.",
-    "suggestion": "Consider splitting as: un- (not) + prec- (before) + ed- (go) + -ent (adjective) + -ed (past/adjective marker), or better yet: un- + precedent + -ed, treating 'precedent' as a compound requiring further analysis",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "concurrent",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation uses 'события' (Russian word for 'events'), not Polish. It should be 'wydarzenia' or 'zdarzenia'.",
-    "suggestion": "Change to: 'Oba zdarzenia były jednoczesne, zaszły w tym samym czasie.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[4].morphemeType",
+    "issue": "The suffix -ed (past tense marker) should be marked as 'suffix', not 'root'. However, in 'unprecedented', -ed is part of the adjectival form 'precedented' and functions as a suffix creating an adjective",
+    "suggestion": "suffix"
   },
   {
     "word": "transformation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'poprzez' (through/via) does not accurately represent the Latin prefix 'trans-'. While 'poprzez' can mean 'through', the prefix 'trans-' more accurately means 'across' or 'beyond', and the homeLangDetails conflates multiple meanings.",
-    "suggestion": "Change homeLang to 'przez/poprzez' or better yet 'na drugą stronę' (across), and clarify that trans- means 'across' or 'beyond', not just 'through' in the sense of 'via'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans- is a prefix, not a root. It precedes the root 'form'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "form is a root, but in this context it is the root of the word, not a standalone root morpheme after a prefix.",
+    "suggestion": "Correct type is 'root' (already correct, but verify context)"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It converts verbs to abstract nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "reformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It converts verbs to abstract nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in- is a prefix, not a root. It precedes the root 'form'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It converts verbs to abstract nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "interruption",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'krótkich przerwania' is grammatically incorrect in Polish. The accusative form should be 'krótkie przerwanie' (singular) or 'krótkie przerwy' (plural).",
-    "suggestion": "Change to: 'Podczas spotkania doszło do krótkiego przerwania.' or 'Podczas spotkania były krótkie przerwy.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter- is a prefix, not a root. It precedes the root 'rupt'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "interruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "rupt is a root (from -rupt-, meaning to break/interrupt), not a standalone root after a prefix in standard morpheme analysis.",
+    "suggestion": "Verify: rupt should be 'root' (it is correct)"
   },
   {
     "word": "disruption",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'na części' (into pieces) is too literal and misleading. The prefix 'dis-' in 'disruption' means 'apart' or 'asunder', but more abstractly indicates reversal or negation, not necessarily 'breaking into pieces'.",
-    "suggestion": "Change homeLang to 'rozdzielenie' or 'rozbicie' with clarification that dis- indicates disruption/breaking apart, rather than the more general negation sense shown in the homeLangDetails examples.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis- is a prefix, not a root. It precedes the root 'rupt'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "rupt is a root (from -rupt-, meaning to break/interrupt), correct as root.",
+    "suggestion": "Verify: rupt should be 'root' (it is correct)"
   },
   {
     "word": "corruption",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The split 'cor' + 'rupt' + 'ion' is incorrect. The actual morpheme boundary is 'corrupt' (from Latin corruptus) + '-ion' (suffix). 'Cor-' is not a standalone morpheme in English; 'corrupt' is the root.",
-    "suggestion": "Split as: corrupt + -ion",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "cor- (con-/com-) is a prefix meaning 'together', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-rupt is a bound root (Latin -ruptus), not typically labeled as root in isolation; however, in this compound it functions as the semantic core after the prefix, so 'root' is acceptable. But the glossing of the prefix as if it's part of the root is confusing.",
+    "suggestion": "parts[0] should be glossed as '(together)' or 'kon-' to clarify it's a prefix, not part of the root"
   },
   {
     "word": "autobiography",
-    "category": "incomplete_split",
-    "field": "parts[3].targetLang",
-    "issue": "The suffix '-y' is too vague and incomplete. The full suffix structure should be '-graphy' (from Greek -graphia, meaning 'writing/description'). The 'graph' part should include the '-y' or be restructured.",
-    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "auto- is a prefix, not a root",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "bio- is a prefix or combining form (bound morpheme), not a root in the independent sense",
+    "suggestion": "change morphemeType to 'prefix' or 'root' if treating it as a combining root; currently ambiguous. Best practice: 'root' if it's the semantic core of the remaining part"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "graph- is a bound root or combining form, not an independent root; -graphy compounds have graph as the core morpheme",
+    "suggestion": "keep as 'root' since it's the meaning-bearing core of the suffix complex, but the label is acceptable"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "morphemeType is missing for the -y suffix",
+    "suggestion": "add morphemeType 'suffix'"
   },
   {
     "word": "biography",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang",
-    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-graphy' (from Greek -graphia). The 'graph' part should include the '-y' or be restructured.",
-    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "morphemeType is missing for the -y suffix",
+    "suggestion": "add morphemeType 'suffix'"
   },
   {
     "word": "photography",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang",
-    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-graphy' (from Greek -graphia). The 'graph' part should include the '-y' or be restructured.",
-    "suggestion": "Combine as 'graphy' meaning '-grafia' (writing/description), or explicitly note that '-graphy' is the complete suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo- is a prefix or combining form, not a root",
+    "suggestion": "change morphemeType to 'root' (treating it as combining root) or clarify the morpheme structure"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "morphemeType is missing for the -y suffix",
+    "suggestion": "add morphemeType 'suffix'"
   },
   {
     "word": "symphony",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang",
-    "issue": "The suffix '-y' is too vague and incomplete. The full suffix should be '-phony' (from Greek -phonia, meaning 'sound'). The 'phon' part should include the '-y' or be restructured.",
-    "suggestion": "Combine as 'phony' meaning '-fonia' (sound), or explicitly note that '-phony' is the complete suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym- is a prefix (meaning 'together'), not a root",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "morphemeType is missing for the -y suffix",
+    "suggestion": "add morphemeType 'suffix'"
   },
   {
     "word": "telephone",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'phone' is given as '-fon' which is not a Polish word and doesn't clarify meaning. Should indicate the Greek origin 'phōnē' (sound/voice) or provide Polish equivalent like 'głos' or 'dźwięk'.",
-    "suggestion": "Change homeLang to 'głos' or 'dźwięk' with homeLangDetails explaining the Greek etymon phōnē",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "tele- is a prefix meaning 'distant/far', not a root morpheme. It combines with phone to create a new word.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "phone is a root morpheme (from Greek 'phone' meaning sound/voice), not marked correctly as root when it is actually the semantic root here",
+    "suggestion": "Keep as 'root' (already correct, but note: tele- is the prefix modifier)"
   },
   {
     "word": "microphone",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "micro- is a prefix meaning 'very small', not a root morpheme",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'phone' is given as '-fon' which is not a Polish word and doesn't clarify meaning. Should indicate the Greek origin 'phōnē' (sound/voice) or provide Polish equivalent.",
-    "suggestion": "Change homeLang to 'głos' or 'dźwięk' with homeLangDetails explaining the Greek etymon phōnē",
-    "source_file": "en-pl.json"
+    "issue": "The linking element 'o' should be marked as such but has only '-' as gloss. This is a vowel connector with no semantic content.",
+    "suggestion": "Change homeLang to something like '(link)' or similar marker"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' is a linking vowel (Fugen element), not a root",
+    "suggestion": "Change morphemeType to 'linking'"
   },
   {
     "word": "synchronize",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang and parts[2].homeLang",
-    "issue": "The suffix '-ize' should be split from the root. The full word structure is syn-chron-ize, but '-ize' is presented as a separate morpheme when it should be '-ize' (verb-forming suffix). The homeLang '-ować' is correct but this is a productive English suffix, not typically analyzed this way for English morphology. This entry conflates English and Polish morphological analysis.",
-    "suggestion": "Either remove the '-ize' morpheme entirely (keeping only syn+chron as the meaningful parts) or clarify that '-ize' is an English verb-forming suffix equivalent to Polish '-ować'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "syn- is a prefix (variant of sym-/syn- meaning 'together'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ize is a suffix forming verbs, not a root morpheme",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ana- is a prefix (Greek prefix meaning 'back/again'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ism is a suffix forming nouns (belief, practice, state), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "misunderstanding",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The phrase 'dezagodę' appears to be a typo or error. The intended word is likely 'dezagodę' which doesn't exist in Polish, or possibly 'niezgodę' (disagreement). The sentence is grammatically awkward.",
-    "suggestion": "Change to: 'niepoprawne zrozumienie czegoś; nieporozumienie lub niezgoda' or 'niepoprawne zrozumienie czegoś; błędna interpretacja'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is marked as 'root' but it is a suffix that forms gerunds/nominalizations from verbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -tion suffix is marked as 'root' but it is a suffix that forms abstract nouns from verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "overwhelming",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'whelm' should be noted as existing primarily in the compound 'overwhelm'. While technically correct to list it separately, the homeLangDetails could be clearer that this is not a productive independent morpheme in modern English and 'whelm' alone is archaic/literary.",
-    "suggestion": "Add to homeLangDetails: 'Uwaga: 'whelm' rzadko pojawia się bez prefiksu; jest to morfem związany, a jego samodzielne użycie jest archaiczne.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is marked as 'root' but it is a suffix that forms adjectives or gerunds from verbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "multicultural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "multi is a prefix, not a root. It's a bound morpheme that precedes the root 'cultural'.",
+    "suggestion": "prefix"
   },
   {
     "word": "transcontinental",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation is grammatically incorrect. 'Kolej przechodzące' has a gender mismatch (kolej is feminine, but przechodzące is in the wrong form). The sentence structure is also awkward.",
-    "suggestion": "Use: 'Kolej transkontynentalna połączyła wschodnie i zachodnie wybrzeża.' or 'Kolej przebiegająca przez cały kontynent połączyła wschodnie i zachodnie wybrzeża.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans is a prefix, not a root. It's a bound morpheme that precedes the root 'continental'.",
+    "suggestion": "prefix"
   },
   {
     "word": "interchangeable",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation is unnecessarily complex and doesn't match the simpler English original. The phrase 'mogą być wymieniane między sobą bez wpływu na działanie urządzenia' (can be exchanged between each other without effect on device operation) is awkward and adds information not in the original.",
-    "suggestion": "Use: 'Te dwie części są wymienne i mogą być użyte w jednej lub drugiej pozycji.' or simply 'Te części są wymienne.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter is a prefix, not a root. It's a bound morpheme that precedes the root 'change'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "overestimation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "over is a prefix, not a root. It's a bound morpheme that precedes the root 'estimat'.",
+    "suggestion": "prefix"
   },
   {
     "word": "disorganize",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The phrase 'rozstrzygnąć porządek' is unclear and potentially incorrect. 'Rozstrzygnąć' means 'to settle/decide' and doesn't fit the meaning of disorganize.",
-    "suggestion": "Should be something like 'wprowadzić chaos, zniszczyć porządek' or 'zaburzać organizację'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis- is a prefix, not a root. It should be marked as a prefix.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "organize is a root (or can be analyzed as organ-ize), not a standalone root without recognizing the suffix. However, in this context it functions as the main word root after the prefix. The issue is that 'dis-' should be prefix, making organize the root.",
+    "suggestion": "root"
   },
   {
     "word": "modernization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'ize' and 'tion' are split separately, but in English morphology, 'modernization' is better analyzed as modern + -ization (where -ization is a single suffix combining -ize and -tion), not as three separate parts.",
-    "suggestion": "Consider splitting as: modern + -ization, or if keeping three parts, clarify that -ize and -tion are a fused suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "modern is an adjective root, not a root in the sense of a bound morpheme that needs suffixation. However, the greater issue is that parts[1] and parts[2] are both marked as 'root' when they are clearly suffixes.",
+    "suggestion": "root"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-iz is a derivational suffix (-ize), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a nominalizing suffix, not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'ize' and 'tion' are split separately, but 'industrialization' is better analyzed as industrial + -ization (where -ization is a single suffix), not as three separate parts.",
-    "suggestion": "Consider splitting as: industrial + -ization, or if keeping three parts, clarify that -ize and -tion are a fused suffix",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "industrial is an adjective root, but the larger issue is that parts[1] and parts[2] are marked as 'root' when they are suffixes.",
+    "suggestion": "root"
   },
   {
-    "word": "encouragement",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'Encourage' itself contains the morphemes en + courage. The entry splits only at the top level without showing this internal structure.",
-    "suggestion": "Consider whether to split as: en + courage + -ment, or at least acknowledge the en- prefix in the analysis",
-    "source_file": "en-pl.json"
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-iz is a derivational suffix (-ize), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a nominalizing suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis- is a prefix, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "agree is a root verb, correctly marked as root. This is correct.",
+    "suggestion": "root"
   },
   {
     "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'appoint' should be further split into 'ap' (ad-) + 'point', where 'point' comes from Latin 'punctum' (point/dot). The entry treats 'appoint' as a single morpheme when it is itself a compound.",
-    "suggestion": "Split into: ap/ad (do/ku) + point (punkt/wskaźnik). Or keep 'appoint' as a single unit if treating it as a lexicalized base, but note this in the homeLangDetails.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"dis\" is a prefix, not a root. It's a bound morpheme that precedes the root \"appoint\".",
+    "suggestion": "Change morphemeType to \"prefix\""
   },
   {
     "word": "disappointment",
-    "category": "frozen_compound",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation describes 'dis-' as a productive prefix with meanings like 'separation' or 'reversal,' but in 'disappointment,' the word is lexicalized from Old French 'desappointer' and the modern morphological analysis (dis- + appoint) does not reflect the historical formation. The synchronic reading may be misleading.",
-    "suggestion": "Add a note that 'disappointment' is a lexicalized compound where the 'dis-' prefix sense may not align with the original Old French etymology.",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "outrageous",
-    "category": "frozen_compound",
-    "field": "parts[0]",
-    "issue": "The homeLangDetails already correctly identifies this as a frozen compound from Old French 'outrage' (not a productive out- + rage formation). However, including this lengthy etymology in a morpheme-learning game may confuse learners into thinking they can productively split it. The morphological analysis is misleading for practical language learning.",
-    "suggestion": "Either mark this entry as a frozen compound that should not be split for learning purposes, or simplify the explanation to note that 'outrage' functions as a single lexical unit in modern English, with the etymological note secondary.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "\"appoint\" is a root (free or bound), not a root that should be labeled separately here—it's the main semantic unit before the suffix. However, the morphemeType \"root\" is correct for this part.",
+    "suggestion": "No change needed; \"root\" is correct"
   },
   {
     "word": "courageous",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The suffix '-ous' is glossed as '-ny' (Polish adjectival suffix), but '-ous' does not have a perfect one-to-one correspondence. The suffix '-ny' creates adjectives but has a different semantic range and frequency than English '-ous'. More accurate would be '-owy' or a note that '-ous' → '-ny/-owy/-owy-ny'.",
-    "suggestion": "Change to '-owy' or add homeLangDetails noting that English '-ous' typically maps to Polish '-owy', '-ny', or '-ny-owy' depending on the root.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix \"-ous\" is a derivational suffix that forms adjectives, not a root. It should be \"suffix\", not \"root\".",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "outrageous",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix \"-ous\" is a derivational suffix that forms adjectives, not a root. It should be \"suffix\", not \"root\".",
+    "suggestion": "Change morphemeType to \"suffix\""
   },
   {
     "word": "advantageous",
-    "category": "wrong_translation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix \"-ous\" is a derivational suffix that forms adjectives, not a root. It should be \"suffix\", not \"root\".",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "Same issue as 'courageous': the suffix '-ous' is glossed as '-ny', but '-owy' or '-owy-ny' would be more accurate for '-ous' in Polish.",
-    "suggestion": "Change to '-owy' or add homeLangDetails noting that English '-ous' typically maps to Polish '-owy', '-ny', or '-owy-ny'.",
-    "source_file": "en-pl.json"
+    "issue": "The second part 'ordinary' is a complete root word, not a morpheme. Its gloss should reflect it as a standalone adjective root meaning 'zwykły', but in this context it needs to be clear it's a bound root within the compound. However, the real issue is that 'extra-' functions as a prefix here (meaning 'beyond/exceeding'), not a root. The morphemeType assignments are backwards.",
+    "suggestion": "parts[0].morphemeType should be 'prefix', parts[1].morphemeType should be 'root'"
   },
   {
     "word": "remarkable",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'zauważyć, spostrzec' (to notice, to observe) is incomplete. 'Remark' as a verb means to say something or comment, and as a noun means a comment or observation. The current gloss misses the sense of 'saying' or 'commenting'.",
-    "suggestion": "Change to 'powiedzieć, skomentować' or 'zauważyć, uwaga' to better capture both the verbal and nominal senses",
-    "source_file": "en-pl.json"
+    "issue": "The gloss 'zauważyć, spostrzec' (to notice, to observe) is a verb infinitive. For a tile label, this should be shorter and more noun-like to match the root form. The entry in the glossary shows 'remark → zauważyć, spostrzec' as a verb, but in the word 'remarkable', 'remark' is the verbal root from which the adjective is derived. The gloss is technically not wrong but could be more concise for a tile.",
+    "suggestion": "Consider shortening to 'zauważenie' or keeping as is if brevity is acceptable"
   },
   {
     "word": "remarkable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The translation 'osiągnął godną uwagi recuperację' is awkward. 'Recuperację' (recuperation) is a formal medical term, and 'osiągnął' (achieved) is an odd verb choice here. The phrase sounds unnatural in Polish.",
-    "suggestion": "Change to 'Sportowiec dokonał godnego uwagi powrotu do zdrowia po urazie' or 'Sportowiec miał godny uwagi powrót do pełnej sprawności po urazie'",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "compartmentalize",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 'compartment' + 'alize', not 'compartment' + 'al' + 'ize'. The suffix '-al' is not a separate morpheme here; '-alize' is the complete suffix.",
-    "suggestion": "Split into two parts: 'compartment' (przedział) and 'alize' (-ować, meaning to make or cause to be)",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "compartmentalize",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'dzielą na części swoje życie zawodowe i prywatne' is awkward. The phrase 'dzielą na części' (divide into parts) doesn't naturally convey the English meaning of compartmentalize. A more natural translation would be 'odseparowują' or 'rozdzielają'.",
-    "suggestion": "Change to: 'Niektóre osoby odseparowują swoje życie zawodowe i prywatne.' or 'Niektóre osoby rozdzielają swoje życie zawodowe i prywatne.'",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "carefully",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The suffix '-ful' is glossed as '-ny/-na', but these do not correspond functionally. Polish '-ny/-na' is a general adjectival suffix, while English '-ful' specifically means 'full of' or 'characterized by'. The Polish equivalent would be closer to 'pełen' (full of) or a descriptive affix, not the generic '-ny'.",
-    "suggestion": "Either clarify that '-ful' means 'pełen czegoś' (full of something) or use a more specific Polish functional equivalent rather than the generic '-ny/-na'.",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "carefully",
     "category": "wrong_translation",
     "field": "exampleTranslation",
-    "issue": "The example translation 'Ostrożnie postawiła wazon na półce' uses 'ostrożnie' (cautiously), but the English example 'She carefully placed the vase on the shelf' suggests deliberate, attentive placement rather than caution. A more natural translation would be 'Uważnie postawiła wazon na półce' or 'Starannie postawiła wazon na półce'.",
-    "suggestion": "Change exampleTranslation to 'Uważnie postawiła wazon na półce' or 'Starannie postawiła wazon na półce' to better match the sense of careful/attentive action.",
-    "source_file": "en-pl.json"
+    "issue": "The phrase 'osiągnął godną uwagi recuperację' is awkward and unnatural in Polish. 'Recuperacja' is not a common Polish word; 'powrót do zdrowia' or 'rekonwalescencja' would be more natural. Also 'osiągnął' (achieved) doesn't fit well here.",
+    "suggestion": "Sportowiec dokonał godnego uwagi powrotu do zdrowia po urazie."
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ir is a prefix, not a root. It's the negating prefix variant of 'in-' before certain consonants.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "responsibil is a root (from Latin 'respondere'), but the entry treats it as root. However, the actual issue is that 'responsibil' itself is a combining form/stem that should be marked as root, which is correct. The real problem is parts[2].",
+    "suggestion": "Keep as root"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ity is a suffix (like -ness), not a root. It's the noun-forming suffix that converts adjectives to abstract nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix (the negating prefix variant of 'un-' before certain consonants), not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-al is a suffix (adjective-forming suffix), not a root. It converts nouns to adjectives.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ize is a suffix (verb-forming suffix), not a root. It creates verbs from nouns and adjectives.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix (the negating prefix variant of 'un-'), not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ity is a suffix (noun-forming), not a root. It converts adjectives to abstract nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ny/-na' is misleading. The suffix '-ful' means 'full of' or 'characterized by', which in Polish is better captured as 'pełen' or a short label like '(pełen)'. The suffix '-ny' is a general Polish adjective-forming suffix, but '-ful' has a more specific sense of abundance or abundance-related quality.",
+    "suggestion": "(pełen)"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is incorrect. In Polish, '-ly' converts adjectives to adverbs and the standard short gloss should be '(adv)' per the label convention, not '-ie' which is too vague and non-standard for a tile label.",
+    "suggestion": "(adv)"
   },
   {
     "word": "carelessly",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Nieostrożnie upuścił filiżankę' emphasizes caution, but 'carelessly' in 'He carelessly dropped the cup' emphasizes lack of attention/negligence. While not entirely wrong, 'Beztrosko/lekkomyślnie upuścił filiżankę' or 'Niedbalnie upuścił filiżankę' better captures the sense of carelessness as inattention.",
-    "suggestion": "Change exampleTranslation to 'Niedbalnie upuścił filiżankę' or 'Lekkomyślnie upuścił filiżankę' to better reflect carelessness as lack of attention.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is incorrect. The suffix '-ly' creates adverbs from adjectives; the standard short gloss should be '(adv)' per the label convention.",
+    "suggestion": "(adv)"
   },
   {
     "word": "helpfully",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Pomocnie wyjaśniła instrukcje' is grammatically awkward. 'Pomocnie' is not a standard Polish adverb. The natural form would be 'pomocniczo' or more idiomatically 'W pomocny sposób' or 'Z pomocą'.",
-    "suggestion": "Change exampleTranslation to 'Życzliwie wyjaśniła instrukcje' or 'Wyjaśniła instrukcje w pomocny sposób' for a more natural Polish expression.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ny/-na' is misleading. The suffix '-ful' means 'full of' or 'characterized by', which is better captured as '(pełen)'. The suffix '-ny' is a general Polish adjective-forming suffix but does not capture the specific sense of '-ful'.",
+    "suggestion": "(pełen)"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is incorrect. The suffix '-ly' creates adverbs from adjectives; the standard short gloss should be '(adv)' per the label convention.",
+    "suggestion": "(adv)"
+  },
+  {
+    "word": "helplessly",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is incorrect. The suffix '-ly' creates adverbs from adjectives; the standard short gloss should be '(adv)' per the label convention.",
+    "suggestion": "(adv)"
   },
   {
     "word": "hopefully",
-    "category": "false_cognate",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The homeLangDetails for 'ly' claims it 'Czasem tworzy też przymiotniki: przyjacielski, piękny' but those are not formed from -ie suffix. This is misleading and factually incorrect.",
-    "suggestion": "Remove the second sentence about creating adjectives, as -ie creates adverbs, not adjectives. Polish adjectives like 'przyjacielski' come from different morphological processes.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ny/-na' is misleading for the tile. While '-ful' does create adjectives meaning 'full of', the conventional short label for this suffix should match the glossary standard: 'pełen czegoś' or '-ful' in the tile label convention. The current '-ny/-na' conflates it with a generic Polish adjective-forming suffix and obscures the English meaning.",
+    "suggestion": "-full"
   },
   {
-    "word": "hopelessly",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Sytuacja wydawała się rozpaczliwie trudna' is awkward. The adverb 'rozpaczliwie' (desperately/hopelessly) paired with 'trudna' (difficult) creates an odd construction. The example sentence 'dire' means something stronger.",
-    "suggestion": "Consider 'Sytuacja wydawała się beznadziejna/bez nadziei' or 'Sytuacja wydawała się rozpaczliwa' for a more natural Polish rendering.",
-    "source_file": "en-pl.json"
+    "word": "hopefully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is inaccurate. The homeLangDetails correctly describes the function (forming adverbs from adjectives), but '-ie' is not a standard Polish morpheme marker for adverbs. The canonical glossary lists '-ly' as '(przysłówek)' (adverb). The tile label should be concise and match the function.",
+    "suggestion": "(przysłówek)"
   },
   {
     "word": "thankfully",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation conflates two different meanings of 'thankfully'. The adverbial usage in the example sentence means 'fortunately/luckily' (fortunately no one was hurt), not 'with gratitude'. The translationLong should clarify this distinction.",
-    "suggestion": "Revise to 'na szczęście, z wdzięcznością' is incomplete—clarify that in the example context it means 'fortunately' (na szczęście), while 'with gratitude' is a different semantic use.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ny/-na' is misleading for the tile. While '-ful' does create adjectives, the conventional short label should match the glossary standard. The current label obscures the meaning and does not match the homeLang convention.",
+    "suggestion": "-full"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ie' is inaccurate. Should follow canonical glossary convention for the adverb-forming suffix.",
+    "suggestion": "(przysłówek)"
   },
   {
     "word": "thoughtfully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Ostrożnie rozważyła pytanie' means 'carefully/cautiously considered', but 'thoughtfully' implies considering with thought/care, not caution. The Polish word 'ostrożnie' emphasizes caution rather than the contemplative aspect of 'thoughtfully'.",
-    "suggestion": "Use 'Zastanawiając się, rozważyła pytanie' or 'Przemyślnie rozważyła pytanie' to better capture the reflective/contemplative meaning of 'thoughtfully'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'ful' should be '-ful' (the suffix label), but the homeLangDetails incorrectly compares it to Polish '-ny' or '-ity'. In English, '-ful' means 'full of' or 'characterized by', and should be labeled simply as '-ful' to match the glossary and keep tile labels brief.",
+    "suggestion": "-ful"
   },
   {
     "word": "fearlessly",
     "category": "wrong_translation",
     "field": "exampleTranslation",
-    "issue": "The word 'bezbojowo' is not a standard Polish word and appears to be a mistranslation or neologism. The correct adverbial form of 'fearless' in Polish should use 'bez strachu' or 'odważnie'.",
-    "suggestion": "Use 'Żołnierz bez strachu maszerował do bitwy' or 'Żołnierz odważnie maszerował do bitwy' instead.",
-    "source_file": "en-pl.json"
+    "issue": "The example translation 'Żołnierz bezbojowo maszerował do bitwy' contains an unnatural or incorrect Polish word. 'Bezbojowo' is not standard Polish. A better translation would be something like 'Żołnierz bezbojowo maszerował do bitwy' → 'Żołnierz bezbojnie maszerował do bitwy' or 'Żołnierz odważnie maszerował do bitwy'.",
+    "suggestion": "Żołnierz odważnie maszerował do bitwy."
+  },
+  {
+    "word": "peacefully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ful' is too long for a tile label. Should use the brief form from glossary convention.",
+    "suggestion": "pełen"
+  },
+  {
+    "word": "peacefully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ly' is technically correct but the glossary convention uses '(przysłówek)' for adverb-forming suffix. Should match convention: short, parenthetical.",
+    "suggestion": "(przysłówek)"
   },
   {
     "word": "beautifully",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The entry splits 'beautifully' as beauty + ful + ly, but 'beauty' is itself derived from French 'beaute'. The morphological analysis should recognize that the base is the adjective 'beautiful' (beauty + -ful), not the noun 'beauty'. The structure should be: beautiful (beauty + -ful) + -ly, but since we're analyzing the final word, splitting it as 'beautiful' + 'ly' would be more accurate than 'beauty' + 'ful' + 'ly'.",
-    "suggestion": "Reconsider the split. Either: (1) split as 'beautiful' + 'ly' (two parts), or (2) keep the three-part analysis but clarify in homeLangDetails that 'beauty' here represents the adjective 'beautiful' not the noun, since -ful has already been applied.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "beauti is a bound root (from French beauté), not a free root meaning 'piękno'. The gloss 'piękno' is misleading; it should indicate the bound form.",
+    "suggestion": "piękn-"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ful' is too long for a tile label and should match glossary convention.",
+    "suggestion": "pełen"
+  },
+  {
+    "word": "beautifully",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '-ly' should match glossary convention with parenthetical form.",
+    "suggestion": "(przysłówek)"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ful' is too long for a tile label and should match glossary convention.",
+    "suggestion": "pełen"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '-ly' should match glossary convention with parenthetical form.",
+    "suggestion": "(przysłówek)"
   },
   {
     "word": "powerfully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Mówca wygłosił potężnie przekonujący argument' uses 'potężnie' (powerfully/mightily) but the English 'powerfully persuasive' means the argument itself was persuasive with force/impact, not necessarily 'mighty'. The translation should be more natural.",
-    "suggestion": "Change to: 'Mówca wygłosił mocno przekonujący argument' or 'Mówca przedstawił argument o dużej sile perswazji' to better capture the sense of 'powerfully persuasive'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ful' is too long for a tile label and should match glossary convention.",
+    "suggestion": "pełen"
   },
   {
-    "word": "unemployment",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'employ' is given as 'zatrudnienie' (noun: employment/job), but 'employ' is a verb. The correct translation should be 'zatrudniać' (to employ/hire).",
-    "suggestion": "Change 'zatrudnienie' to 'zatrudniać'",
-    "source_file": "en-pl.json"
+    "word": "powerfully",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '-ly' should match glossary convention with parenthetical form.",
+    "suggestion": "(przysłówek)"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-less' is too long and should match glossary convention.",
+    "suggestion": "bez"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '-ness' is too long for a tile label and should match glossary convention.",
+    "suggestion": "-ość"
   },
   {
     "word": "development",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The explanation conflates the etymology ('devoluper' from Old French meaning 'to unfold/unwrap') with the synchronic Polish morpheme 'wijać/otulać' (to wrap). The Polish glosses don't accurately represent what 'velop' means in the context of the English morpheme 'develop'.",
-    "suggestion": "Clarify that 'velop' comes from Latin 'volvere' (to roll/turn), which is the actual etymological source, not the Polish 'wijać' analogy.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (de) is marked as 'root' but should be 'prefix'. It is a bound prefix meaning 'from/away', not a free root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "development",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (velop) is marked as 'root' but should be part of the root 'develop' with the prefix 'de-'. The structure is de- + velop (root), so velop is the root portion after the prefix.",
+    "suggestion": "Change morphemeType to 'root' (this is correct as-is, but the previous part being 'root' is wrong)"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (in) is marked as 'root' but should be 'prefix'. It is a bound prefix meaning 'in/into', not a free root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ement) is marked as 'root' but should be 'suffix'. It is a bound suffix (-ment) that forms abstract nouns from verbs, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "improvement",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Poprawa w jej ocenach' is awkward. The more natural Polish phrasing would be 'Poprawa jej ocen' or 'Polepszenie się jej ocen'.",
-    "suggestion": "Change to 'Poprawa jej ocen była wynikiem ciężkiej pracy.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (im) is marked as 'root' but should be 'prefix'. It is a bound prefix (variant of 'in-'), not a free root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (prov) is marked as 'root' but should be 'root' only in the sense that it is the root component after prefixation. However, the entry treats it as root when it forms the core of the word. This is acceptable, but the overall structure is im- (prefix) + prov (root) + -ement (suffix).",
+    "suggestion": "Confirm as 'root' — no change needed"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ement) is marked as 'root' but should be 'suffix'. It is a bound suffix (-ment) that forms abstract nouns from verbs, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "advertisement",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'ad-vert-ise-ment', but the standard morphological split should be 'advertise' (the verb base) + '-ment' (the suffix). 'Advertise' itself is 'ad-vert-ise', but breaking it into 'ad-vert-ise-ment' treats '-ise' as a separate morpheme when it's part of the verb stem. The entry shows four parts when there should be two main parts: 'advertise' + 'ment'.",
-    "suggestion": "Reorganize the parts to show: (1) ad-vert-ise (as the full verb stem, or break down as ad + vert + ise if you want full morphological decomposition, but don't separate -ise as an independent suffix before -ment)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (ad) is marked as 'root' but should be 'prefix'. It is a bound prefix meaning 'to/toward', not a free root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "advertisement",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Ogłoszenie nowego produktu pojawiło się w telewizji' is slightly awkward. More natural would be 'Reklama nowego produktu pojawiła się w telewizji' or 'Ogłoszenie/reklama dotycząca nowego produktu pojawiła się w telewizji'.",
-    "suggestion": "Change to 'Reklama nowego produktu pojawiła się w telewizji.' (using 'reklama' which is the standard term for advertisement in Polish)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (vert) is marked as 'root' but the morpheme here is the root component of 'advertise'. It should be 'root'.",
+    "suggestion": "Confirm as 'root' — no change needed"
   },
   {
-    "word": "entertainment",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss 'trzymać' (to hold) is misleading. While etymologically 'tain' comes from Latin 'tenere' (to hold), in 'entertain' it means 'to amuse/divert', not literally 'to hold'. The Polish explanation tries to force a metaphorical connection ('holding attention') that doesn't reflect the actual modern meaning.",
-    "suggestion": "Change homeLang to 'zabawiać/bawiać' or 'dostarczać rozrywki' to reflect the actual meaning of the word in English",
-    "source_file": "en-pl.json"
+    "word": "advertisement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ise) is marked as 'root' but should be 'suffix'. It is a bound suffix (-ise/-ize) that converts roots into verbs, not a root itself.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "replacement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'place' in 'replacement' doesn't come from the noun 'place' (location). It comes from the verb 'place' (to put/to position), which is related to the noun but represents a different morphological history. The gloss should reflect the verb form.",
-    "suggestion": "Change homeLang to 'umieszczać/kłaść' to reflect that this is derived from the verb, not the noun",
-    "source_file": "en-pl.json"
+    "word": "advertisement",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ować' is the Polish equivalent of the English suffix, but the entry shows 'ise' as a standalone part when the full verb is 'advertise'. The label should follow the convention for suffix glosses.",
+    "suggestion": "Change homeLang to '-ować' or use a shorter form like '(-ować)' to match convention"
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ement' is a suffix, not a root. It derives nouns from verbs.",
+    "suggestion": "change morphemeType to 'suffix'"
   },
   {
     "word": "retirement",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ement' is a suffix, not a root. It derives nouns from verbs.",
+    "suggestion": "change morphemeType to 'suffix'"
+  },
+  {
+    "word": "department",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'de-' is a prefix meaning 'away/down', not a root.",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "department",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'part' (piece, part) is a root, but 'depart' is the verb from which the noun is derived; however 'part' itself is a root element here.",
+    "suggestion": "morphemeType is correct as 'root'"
+  },
+  {
+    "word": "replacement",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'wycofać' (to withdraw) is too specific. The 'tir-' in retirement comes from 'tire' (to draw/pull), and while 'wycofać' can work semantically, it's not the most direct translation. More importantly, the explanation conflates 'tired' (zmęczony) with retirement, which is incorrect - 'tired' comes from a different etymological path.",
-    "suggestion": "Change homeLang to 'ciągnąć/pociągać' and remove or correct the reference to 'zmęczony' in homeLangDetails",
-    "source_file": "en-pl.json"
+    "issue": "'place' means 'to put' or 'to position', not just 'place' (location). In 'replace', it means 'put back in place' or 'substitute'.",
+    "suggestion": "change homeLang to 'położyć/umieścić' or 'miejsce'"
+  },
+  {
+    "word": "replacement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "In 'replacement', 'place' is part of the bound root 'place' (from Latin 'placere'), not a free root. It functions as a root element here, which is correct, but the morpheme is bound within the derived form.",
+    "suggestion": "morphemeType 'root' is acceptable"
   },
   {
     "word": "unfortunately",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'niestety, niestety' is repetitive and incorrect. 'Unfortunately' means 'niestety' (unfortunately/sadly), not 'niestety, niestety' (unfortunately, unfortunately). The word does not mean 'in misfortune' or relate to failure.",
-    "suggestion": "translationShort should be 'niestety' or 'niestety, nieszczęśliwie'",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "unfortunately",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The phrase 'w niepowodzeniu' (in failure/unsuccessfully) is not an accurate translation of 'unfortunately'. The word means 'sadly/regrettably', not 'in failure'.",
-    "suggestion": "translationLong should be 'niestety, z żalem, nieszczęśliwie' or similar",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "unfortunately",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'fortunate' should be further split into 'fortun' + 'ate' to show the full morphological structure and that '-ate' is an adjective-forming suffix.",
-    "suggestion": "Split 'fortunate' into 'fortun' (szczęścia/fortuny) and 'ate' (suffix forming adjectives)",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang should be a short tile label, not a full definition. 'szczęśliwy' is correct but the label convention requires brevity.",
+    "suggestion": "szczęśliwy"
   },
   {
     "word": "unexpectedly",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'expect' should be further analyzed or 'ed' should be labeled more clearly. The structure is actually 'un + expect + ed + ly', but the current split shows 'ed' separately without indicating it modifies 'expect'. The '-ed' here creates an adjective (unexpected), not a past tense verb.",
-    "suggestion": "Clarify that 'ed' here creates an adjective (unexpected) from the verb 'expect', or restructure to show 'un + expected + ly'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ed here is a suffix forming the past participle adjective 'expected', not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "unhealthy",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix 'y' should be more thoroughly labeled. While it is glossed as '(przymiotnikowy)' (adjectival), it should explicitly state that it forms adjectives from nouns (health → healthy), similar to how the '-ly' suffix is described in other entries.",
-    "suggestion": "Add homeLangDetails for 'y' explaining it forms adjectives from nouns, e.g., 'Tworzy przymiotniki z rzeczowników: health to healthy, luck to lucky'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-y is a suffix forming adjectives from nouns (health → healthy), not an unmarked part. morphemeType is missing; should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
-    "word": "unreasonable",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'Rozsądek' (common sense/reasonableness) is only partially accurate. The morpheme 'reason' in 'unreasonable' means 'powód' (reason/cause) or 'rozsądek' (sense), but the primary meaning here relates to 'powód/uzasadnienie' (justification/grounds). The translation should reflect the broader sense.",
-    "suggestion": "Change homeLang to 'powód/rozsądek' or provide more nuanced homeLangDetails explaining both senses",
-    "source_file": "en-pl.json"
+    "word": "unhealthy",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label should follow the convention: use (adj) for adjectival suffixes, not a full description.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "unavoidable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-alny' is too abbreviated and doesn't match the canonical glossary value for '-able'. The glossary specifies 'możliwy do zrobienia' (able to be done), which better captures the productive suffix meaning.",
+    "suggestion": "możliwy do"
   },
   {
     "word": "unwillingness",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'ing' is listed separately as a gerundium marker, but it's actually part of the participial form 'willing' (will + ing). The structure should be: un- + will + ing + -ness, where 'willing' is the adjective derived from the verb 'will'. The current split treats 'ing' as an independent morpheme rather than recognizing it as part of the 'willing' base form.",
-    "suggestion": "Restructure parts to: (1) un-, (2) willing (or split as will + ing combined), (3) -ness. Alternatively, keep it as un- + willing + -ness without separating the -ing component.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ing' in this context is a gerundive/nominalizing suffix converting the root 'will' into a verbal noun form 'willing', not a root morpheme. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(gerundium)' is a long grammatical description in plain text. For a tile label, use the abbreviated convention like '(ing)' or a short functional description.",
+    "suggestion": "(ing)"
   },
   {
     "word": "reconsideration",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme split skips the intermediate -ation suffix. The word structure is re- + consider + -ation, but 'tion' alone is listed. In English morphology, -ation is the complete suffix (not just -tion), and -tion is more accurately part of -ation as a single morpheme. The split should reflect the actual morpheme boundary.",
-    "suggestion": "Change the third part from 'tion' to '-ation' with the homeLang 'acja' and appropriate explanation. Or explicitly list: (1) re-, (2) consider, (3) -ation.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix that nominalize verbs, not a root. It should be marked as 'suffix', not 'root'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reconsideration",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-acja' matches the glossary but is incomplete for a tile label. The canonical glossary entry for '-tion/-sion' is '(rzeczownik)' (noun), which is the standard abbreviated form used in this language pair.",
+    "suggestion": "(rzeczownik)"
   },
   {
     "word": "reorganization",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation \"reorganizacja, zmiana układ\" has a grammatical error. \"układ\" should be in the genitive case \"układu\" after the preposition implied by the noun.",
-    "suggestion": "reorganizacja, zmiana układu",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'iz' is a suffix (-ize), not a root. It derives verbs from nouns/adjectives.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The morpheme 'ation' is a suffix (-tion), not a root. It nominates verbs into abstract nouns.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'organ' should be 'organize' (the verb root), but this is actually the bound root 'organ-' from the verb 'organize'. The gloss should reflect that this is the core of the verb, not the full verb form. For a tile label, a shorter gloss like 'organ' or 'zorganizuj' would be more appropriate than the full verb 'organize'.",
+    "suggestion": "Use 'organ' or shorten to match the morpheme, not the full verb"
   },
   {
     "word": "recycling",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The morpheme '-ing' is labeled as '(forma gerundium)' but lacks a proper Polish translation/equivalent. The Polish homeLang field should specify what '-ing' means in Polish (e.g., '-owanie' or gerund form).",
-    "suggestion": "Add homeLang value like '-owanie' or 'forma gerundium/-owanie' to clarify the Polish equivalent",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ing' is a suffix (gerund/present participle -ing), not a root. It converts verbs into gerunds or participles.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang for '-ing' should use the standard label convention. '(forma gerundium)' is a long descriptive phrase; it should be abbreviated as '(-ing)' or '(gerund)' to fit the tile label convention.",
+    "suggestion": "Use '(-ing)' or '(gerund)'"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "com is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "mun is a root element in this word, but the morphemeType is marked as 'root' when it should be clarified. However, the actual issue is that this part should be labeled as a root (which it is), but the homeLang 'common' is incorrect for the morpheme.",
+    "suggestion": "homeLang should be 'wspólny' or 'wspólnie' to match the -mun- root meaning from the glossary"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang shows 'common' (English word) instead of Polish gloss. Should be a Polish translation reflecting the meaning of mun.",
+    "suggestion": "wspólny"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ication is a suffix, not a root. It is a bound derivational suffix that follows the root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "e- is a prefix (ex- variant before vowels), not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang shows English 'lead' instead of Polish. Should be Polish gloss reflecting the ex- prefix meaning.",
+    "suggestion": "ex-/z"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "duc is a root element, but according to the glossary duc/duct means 'prowadzić/przewodzić'. This part is correctly marked as root.",
+    "suggestion": "Keep as 'root' but homeLang should be Polish"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang shows English 'lead' instead of Polish. Should be Polish gloss for the -duc- root.",
+    "suggestion": "prowadzić"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It is a bound derivational suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in- is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang shows English 'track' instead of Polish. The glossary shows vestig → ślad. Should be Polish.",
+    "suggestion": "ślad"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It is a bound derivational suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "introduction",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'wprowadzenie, prezenentacja' contains a typo ('prezenentacja' instead of 'prezentacja') and is somewhat misleading. 'Introduction' primarily means 'wprowadzenie' or 'wstęp', not 'prezentacja'.",
-    "suggestion": "Change to 'wprowadzenie, wstęp' or simply 'wprowadzenie'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro- is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang shows English 'lead' instead of Polish. Should be Polish gloss for -duc-.",
+    "suggestion": "prowadzić"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "duc is a root element, correctly marked as root.",
+    "suggestion": "Keep as 'root'"
   },
   {
     "word": "production",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Fabryka zwiększyła produkcję, aby sprostać popyto.' is grammatically incorrect. 'Popyto' is not a valid Polish word; it should be 'popytowi' (dative case) or 'popytom' (dative plural).",
-    "suggestion": "Change to 'Fabryka zwiększyła produkcję, aby sprostać popytowi.' or 'Fabryka zwiększyła produkcję, aby sprostać wzrastającemu popytowi.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro- is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "production",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang label is too long. Should follow convention of short parenthetical like (forward) or use the glossary form.",
+    "suggestion": "pro-/naprzód"
+  },
+  {
+    "word": "production",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang shows English 'lead' instead of Polish. Should be Polish gloss for -duc-.",
+    "suggestion": "prowadzić"
   },
   {
     "word": "pronunciation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'pro-nunc-iation' but should be split as 'pro-nun-ci-ation'. The 'nunc' part is not a real morpheme; 'nun' comes from Latin 'nuntiare' (to announce), and '-ci-' is a connecting vowel before '-ation'.",
-    "suggestion": "Correct the split to: pro- (forward) + nun- (announce) + -ci- (connecting) + -ation (act/result)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "nunc- is a root morpheme meaning 'sound/voice', not a root in the morphemeType sense here — but given the context, this part should be labeled as root since it carries core meaning",
+    "suggestion": "root"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-iation is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "explanation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'ex-plan-ation' but 'plan' is not the correct morpheme boundary. It should be 'ex-plain' (from Latin 'planare' meaning to flatten/make clear) + '-ation'. The current split treats 'plan' as if it relates to Polish 'płaski' (flat), which is etymologically tenuous.",
-    "suggestion": "Correct to: ex- (out) + plain (from Latin planare, to make clear/flatten) + -ation",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ex- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "plan- in 'explanation' derives from Latin 'planus' (flat/plain), but the gloss '-płaski' (flat) is misleading in this context. The root 'plan-' here means 'to make flat/to explain' (to make plain/clear). The gloss should reflect the verb sense.",
+    "suggestion": "wyjaśniać"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "plan- is a root, not a root labeled as root — this is correct, but needs verification that it's indeed the core morpheme",
+    "suggestion": "root"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "examination",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'am' is incorrectly identified. The correct root is 'exam-' which comes from Latin 'examinare'. The split should be 'ex-amin-ation', not 'ex-am-ination'. The gloss '-ważyć' (to weigh) is also misleading; 'amin' relates to 'examine/test', not weighing.",
-    "suggestion": "Correct to: ex- (out) + amin- (examine/test) + -ation, or keep the full 'exam-' as a single morpheme",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ex- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "am- in 'examination' comes from Latin 'examinare' where am- relates to 'amare' (weigh/test), not '-ważyć' (weigh as a verb). The gloss should be 'badać' (to examine/test) or 'ważyć' (to weigh/assess).",
+    "suggestion": "badać"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "am- (or exam-) is a root, but the split here treats it as a separate morpheme. This is acceptable, but morphemeType should reflect it as root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ination is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "imagination",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'ag' is incorrect. The correct root is 'imag-' from Latin 'imaginari'. The split should be 'im-agin-ation', not 'im-ag-ination'. The gloss '-obraz' (image) is closer in meaning but applied to the wrong morpheme boundary.",
-    "suggestion": "Correct to: im- (into/not) + agin- (image) + -ation",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "im- is a prefix, not a root",
+    "suggestion": "prefix"
   },
   {
     "word": "imagination",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Wyobraźnia dzieci zna granice' is grammatically awkward and semantically backwards. It literally means 'Children's imagination knows limits' when it should express that imagination has NO limits or is boundless.",
-    "suggestion": "Change to: 'Wyobraźnia dzieci nie zna granic.' (Children's imagination knows no limits.)",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "ag- in 'imagination' comes from Latin 'imago' (image), not 'ag-' (to drive). The correct gloss should reference 'image/obraz', not '-obraz' as a suffix. It should be 'obraz' (image).",
+    "suggestion": "obraz"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ag- (or imag-) is a root, not a root labeled separately. This should be root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ination is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "population",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'pop-ulation' but 'pop' does not directly mean 'ludzie' (people). The correct root is 'popul-' from Latin 'populus' (people/nation). The split should be 'popul-ation', not 'pop-ulation'.",
-    "suggestion": "Correct to: popul- (people) + -ation",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pop- (from Latin 'populus', people) is a root, which is correct",
+    "suggestion": "root"
   },
   {
-    "word": "reflection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The primary meaning of 'reflection' is not limited to light reflection. The short translation should capture the broader sense of the word, which includes mental reflection/contemplation.",
-    "suggestion": "Change translationShort to something like 'odbicie lub namysł' or 'myślowe rozważanie' to better represent the full semantic range",
-    "source_file": "en-pl.json"
+    "word": "population",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ulation is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con- is a prefix, not a root. It is a bound morpheme that precedes the root 'vers'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vers is the root of this word; it should be marked as 'root', not unlabeled, but the main issue is that parts[0] is wrongly typed as root.",
+    "suggestion": "Confirm this is 'root'"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "col- is a prefix, not a root. It is a bound morpheme that precedes the root 'lect'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "lect is the root of this word; it should be marked as 'root', not something else.",
+    "suggestion": "Confirm this is 'root'"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con- is a prefix, not a root. It is a bound morpheme that precedes the root 'nect'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "nect is the root of this word; it should be marked as 'root', not something else.",
+    "suggestion": "Confirm this is 'root'"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro- is a prefix, not a root. It is a bound morpheme that precedes the root 'tect'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "tect is the root of this word; it should be marked as 'root', not something else.",
+    "suggestion": "Confirm this is 'root'"
   },
   {
     "word": "invitation",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme split is incorrect. 'vit' is not a standalone morpheme; the correct split should be 'invit' (from Latin invitare, to invite) + '-ation'. The 'in-' prefix combines with 'vit' to form 'invit'.",
-    "suggestion": "Change parts[1].targetLang from 'vit' to 'vit' and reconsider: actually, the split should be 'in' + 'vit' + 'ation', but 'vit' alone is not standard. Better approach: 'invite' + 'ation' or 'in' + 'vite' + 'ation'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'in-' is marked as 'root' but should be 'prefix'. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
   },
   {
-    "word": "preparation",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "'par' is not the correct morpheme boundary. The word 'preparation' comes from Latin 'praeparare' (prae + parare). The correct split should recognize 'prepare' as the base, not isolate 'par'.",
-    "suggestion": "Change to 'pre' + 'pare' + 'ation' with parts[1].targetLang as 'pare' (to prepare) and parts[1].homeLang as 'przygotowywać/przygotowywać się'.",
-    "source_file": "en-pl.json"
+    "word": "invitation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'vit' (to call) is marked as 'root', which is correct, but the following part 'ation' is marked as 'root' when it should be 'suffix'. '-ation' is a derivational suffix that forms abstract nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but should be 'suffix'. It is a bound morpheme that follows the root to form abstract nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The derivational suffix '-iz-' (making something into a verb) is marked as 'root' but should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but should be 'suffix'. It is a bound morpheme that follows the root to form abstract nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "simplification",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The suffix '-ify' should be split into '-fy' or kept as '-ify', but the morphological structure is 'simple' + '-fy' + '-ation', not 'simple' + '-ify' + '-ation'. The '-ation' suffix already accounts for the nominalization.",
-    "suggestion": "The split could be 'simpl' + 'ify' + 'ation' or more accurately 'simple' + '-fication' as a unit, since '-fication' is a common English suffix (not '-ify' + '-ation' as separate steps).",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The derivational suffix '-ific' (making something into a verb meaning 'to make X') is marked as 'root' but should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "simplification",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'sprawiło, że gra jest łatwiejsza w grę' is grammatically awkward. The phrase 'w grę' (in/into the game) is incorrect here.",
-    "suggestion": "Change to 'Uproszczenie reguł sprawiło, że gra jest łatwiejsza do gry.' or 'Uproszczenie reguł sprawiło, że grę łatwiej się gra.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but should be 'suffix'. It is a bound morpheme that follows the root to form abstract nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "satisfaction",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The split 'sat' + 'is' + 'faction' is misleading. The correct etymology is Latin 'satisfacere' (satis + facere). The modern English morpheme breakdown should be 'satisfy' + '-action' or 'satis' + 'fy' + '-action', not 'sat' + 'is' + 'faction'.",
-    "suggestion": "Revise to 'satisfy' (satis + facere, meaning to do enough/fully) + '-tion', or 'satis' + 'fy' + '-tion'. The current split obscures the actual Latin roots.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix '-is-' (Latin verb-forming element) is marked as 'root' but should be 'suffix' or 'linking'. In 'satisfaction', it functions as part of the derivational chain.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-faction' (or better analyzed as '-tion' following '-fac-') is marked as 'root' but should be 'suffix'. The '-tion' is a bound morpheme that forms abstract nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "\"ific\" is a derivational suffix (-ify → -ify forming verbs), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ation\" is a nominalizing suffix (-tion forming nouns), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "\"ific\" is a derivational suffix (-ify → -ify forming verbs), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ation\" is a nominalizing suffix (-tion forming nouns), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme split is incorrect. 'evaluation' is not 'e-val-uation' but rather 'e-valu-ation'. The 'e' prefix is not a separate morpheme here; 'evaluate' is the root verb, and 'e-val' comes from Latin 'ex-valere' (to be strong/worth), making the correct split 'evalu(ate) + -ation'.",
-    "suggestion": "Reconsider the split. The prefix 'e-' in 'evaluate' is not productive in English and misleads learners. Better approach: 'evalu' (from Latin valere, to be worth) + '-ation', or treat 'evaluate' as the base + '-ation'.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"e\" here is not the prefix \"eks-\" (ex-). In \"evaluation\" the word is e-val-u-ation; \"e\" is just the initial vowel of the root or not a separate morpheme. The prefix in evaluate is implicit; this entry conflates morpheme boundaries.",
+    "suggestion": "Consider whether this should be split as \"e\" + \"val\" + \"uation\" at all, or if it should be \"eval\" + \"uation\". If \"e\" is morpheme, gloss should reflect its actual role here, not \"eks-\"."
   },
   {
     "word": "evaluation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The gloss 'eks-' (ex-) with the meaning 'na zewnątrz, były, albo daleko' does not accurately apply to the 'e-' in 'evaluation'. While 'ex-' can mean 'outside' or 'former', in 'evaluate' it comes from Latin 'ex-valere' (to determine worth) and does not carry those meanings. The homeLang explanation is misleading.",
-    "suggestion": "Either remove this entry's morpheme analysis or reframe it to show 'evaluate' as the base root (Latin 'valere' = to be strong/worth) + '-ation', without claiming an 'ex-' prefix with the meanings listed.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"e\" is marked as null but if present should be classified. If it is part of the root, it should not be a separate morpheme. Needs clarification.",
+    "suggestion": "Either remove \"e\" as a separate part, or classify it appropriately (likely part of root \"eval\")"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"uation\" is a nominalizing suffix (variant of -tion/-ation), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "understandable",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'understand' does not decompose as 'under' + 'stand' in the synchronic sense. 'Understand' comes from Old English 'understandan', where 'under-' originally meant 'between/among', not 'below' as modern English suggests. The modern morphemic reading is misleading because 'stand' has no direct semantic connection to comprehension.",
-    "suggestion": "Flag this as a frozen compound. While historically 'under' + 'stand' exists, modern English speakers do not productively interpret it this way. Either omit the morphemic breakdown or note that it is etymologically analyzable but not synchronically transparent.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Glossed as \"-ny\" but the canonical glossary entry for \"able\" is \"możliwy do zrobienia\" (capable of being done), not just \"-ny\". The label should match the glossary convention for tile brevity.",
+    "suggestion": "możliwy do"
   },
   {
     "word": "incredible",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'To była niesamowita występ!' is grammatically incorrect. 'Występ' is masculine, so the adjective should be 'niesamowity' not 'niesamowita'. Also, 'wykonanie' (performance/execution) would be more natural than 'występ' in this context.",
-    "suggestion": "To była niesamowita wykonanie! or To był niesamowity występ!",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "Prefix 'in-' is labeled as 'root' but it is a bound prefix that cannot stand alone",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "Root morpheme 'cred' is correctly identified but in this word context it should be recognized as part of a bound root element within a derivational structure",
+    "suggestion": "Keep as 'root' (bound root is still root)"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "Prefix 'in-' is labeled as 'root' but it is a bound prefix that cannot stand alone",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "impossible",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'poss' should be split further into 'poss' + 'ible'. However, the actual issue is that 'impossible' is structured as 'im-' + 'possible', where 'possible' is itself the root. The entry incorrectly splits 'possible' into 'poss' + 'ible' when 'possible' should be treated as a single unit.",
-    "suggestion": "Consider splitting as: 'im-' (not-) + 'possible' (possible), rather than 'im-' + 'poss' + 'ible'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "Prefix 'im-' is labeled as 'root' but it is a bound prefix (assimilated form of 'in-') that cannot stand alone",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "impossible",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The phrase 'nie można tego zrobić lub się stanie' is awkwardly constructed and unclear. Also 'niepossible' at the end is English mixed with Polish and is unnatural.",
-    "suggestion": "nie można tego zrobić; coś, czego się nie da zrobić",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'poss' is labeled as 'root' but it is a bound element from 'possible', not an independent root",
+    "suggestion": "Should be part of root analysis; reconsider split or label as bound root component"
   },
   {
     "word": "irresponsible",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation 'niech odpowiedzialny' appears to be corrupted or incomplete. It should start differently. The phrase 'niewiarygodny lub niewykonalny' doesn't properly convey the meaning of 'irresponsible'.",
-    "suggestion": "nie odpowiedzialny; niech odpowiedzialny za swoje działania; nieniezawodny",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "Prefix 'ir-' is labeled as 'root' but it is a bound prefix (assimilated form of 'in-') that cannot stand alone",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "irresponsible",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Byłoby nieodpowiedzialne opuszczanie pracy wcześnie' is awkwardly constructed with the gerund 'opuszczanie'. More natural would use an infinitive or different structure.",
-    "suggestion": "Byłoby nieodpowiedzialne wcześnie opuszczać pracę. or Opuszczenie pracy wcześnie byłoby nieodpowiedzialne.",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "translationLong",
+    "issue": "Text 'niech odpowiedzialny' appears to be a typo or grammatical error; should be 'nie odpowiedzialny' or 'brak odpowiedzialności'",
+    "suggestion": "Change to 'nie odpowiedzialny; brak odpowiedzialności'"
   },
   {
     "word": "irreversible",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The description conflates two unrelated functions of 'ir-'. The prefix 'ir-' is simply the negation prefix (not reversible), not a prefix meaning 'w' or 'do' (in/into). The homeLangDetails incorrectly suggests 'ir-' has the dual meaning of negation AND direction (like 'import'), but in 'irreversible' it only negates.",
-    "suggestion": "Simplify to: \"Przedrostek negacji: 'nie-' (nieaktywny, niemożliwy, nielegalny). To działa podobnie jak polski przedrostek 'nie-' lub 'bez-'.\"",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"ir\" (which is a variant of \"in-\") is marked as \"root\" but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The bound morpheme \"revers\" (from Latin revertere) is marked as \"root\" but it is a root element that is always bound in English derivatives. However, since it is the primary meaning-bearing element in this context, \"root\" is acceptable for a bound root. No change needed.",
+    "suggestion": null
   },
   {
     "word": "indestructible",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "Same issue as 'irreversible': the description conflates negation with direction/location meaning. The prefix 'in-' here is purely negation (not destructible), not a prefix meaning 'w' or 'do'.",
-    "suggestion": "Simplify to: \"Przedrostek negacji: 'nie-' (nieaktywny, niemożliwy, nielegalny). To działa podobnie jak polski przedrostek 'nie-' lub 'bez-'.\"",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"in\" is marked as \"root\" but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to \"prefix\""
   },
   {
-    "word": "prehistoric",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The second part 'historic' should be further split into 'history' (historia) + '-ic' (-iczny), since the entry is meant to teach morpheme decomposition.",
-    "suggestion": "Split as: pre + historic + -ic, or alternatively: pre + history + -ic",
-    "source_file": "en-pl.json"
+    "word": "indestructible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The bound morpheme \"destruct\" is marked as \"root\" but it is a bound root element. This is acceptable as a bound root.",
+    "suggestion": null
+  },
+  {
+    "word": "international",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"inter\" is marked as \"root\" but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "international",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix \"-al\" is marked as \"root\" but it is a derivational suffix that attaches to nouns to form adjectives.",
+    "suggestion": "Change to \"suffix\""
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"super\" is marked as \"root\" but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix \"-al\" is marked as \"root\" but it is a derivational suffix that attaches to nouns to form adjectives.",
+    "suggestion": "Change to \"suffix\""
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "anti is a prefix, not a root. It's a bound morpheme that always precedes other elements.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "bio is a combining form/root element, not a standalone root in this context. In antibiotic, it functions as part of a compound but is bound to -tic.",
+    "suggestion": "root"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-tic is a suffix (adjective-forming), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "submarine",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation uses incorrect verb conjugation and gender agreement. 'Zanurzył się' (masculine singular past) doesn't agree with 'Łódź podwodna' (feminine singular). Should be 'zanurzyla się' or better 'zanurzyła się'.",
-    "suggestion": "Łódź podwodna zanurzyła się na wielkie głębokości pod oceanem.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sub is a prefix, not a root. It is a bound morpheme that precedes other elements.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "submarine",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "marine is functioning as a root/stem here, but should be marked as root for clarity. However, if morphemeType was already set, this indicates it should be root, not something else.",
+    "suggestion": "root"
   },
   {
     "word": "automatically",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The phrase 'sam z siebie' is awkward and unnatural in Polish. It literally means 'by itself from itself' which is redundant. The phrase should better reflect the adverbial form.",
-    "suggestion": "Something like 'automatycznie, bez udziału człowieka' or simply 'samoistnie, bez ingerencji' would be more natural.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "auto is a prefix, not a root. It's a bound morpheme that precedes other elements.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-matic is a suffix (adjective-forming), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ally is a suffix (adverb-forming), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "television",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "tele is a prefix/combining form, not a root. It's a bound morpheme that precedes other elements.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "television",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vision is a root/free morpheme that can stand alone, but in this compound context it functions as the root element of the compound.",
+    "suggestion": "root"
+  },
+  {
+    "word": "democracy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-cracy is a suffix (noun-forming, indicating a system of rule), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "geography",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'ziemia' (earth/land) is misleading. 'Geo-' comes from Greek 'gē' (earth), not Polish 'ziemia'. While the meaning happens to overlap, the etymological connection is not through Polish.",
-    "suggestion": "Consider noting that 'geo-' is Greek for earth/land, or provide the Greek etymology rather than Polish translation",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "geography",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'graph' means 'to write/writing', but the gloss '-grafem' is not a standard Polish word. The correct Polish term would be '-grafia' or 'pisanie'.",
-    "suggestion": "Change '-grafem' to '-grafia' (from Greek graphia) or use 'pisanie' (writing)",
-    "source_file": "en-pl.json"
+    "issue": "The gloss '-grafem' is incorrect and unnatural in Polish. The canonical glossary specifies 'graph' → '-graf-' (writing/recording). The suffix should be glossed as '-graf-' or similar, not '-grafem'.",
+    "suggestion": "-graf-"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'graph' is a bound root element (combining form) used in compound words, not a free root. It should be 'root' but the label is misleading; however, the morphemeType is technically acceptable since bound roots are counted as 'root' type.",
+    "suggestion": "root (no change needed)"
   },
   {
     "word": "responsibility",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "'respons' is not the correct morpheme boundary. The word should be split as 'respond' (from Latin respondere - to answer/reply) + '-ibility' (ability/capacity). 'Respons' alone is not a morpheme.",
-    "suggestion": "Change parts[0].targetLang to 'respond' and adjust homeLang to reflect 'odpowiadać' (to answer/respond)",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ibility' is a derivational suffix, not a root. It is a bound morpheme that follows the root to form abstract nouns from adjectives.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "personality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ality' is a derivational suffix (forming abstract nouns from adjectives), not a root. It is a bound morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ity' is a derivational suffix (forming abstract nouns from adjectives), not a root. It is a bound morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "electricity",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'zależy od prądu elektrycznego do zasilania' is awkward. 'Prąd' means current, not electricity generally. More natural would be 'elektryczność' or 'energię elektryczną'.",
-    "suggestion": "Change to: 'Większość nowoczesnych domów zależy od energii elektrycznej.' or 'Większość nowoczesnych domów potrzebuje elektryczności do zasilania.'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ity' is a derivational suffix, not a root. It is a bound morpheme that forms abstract nouns from adjectives.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ywny' (iv) is a suffix that forms adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ość' (ity) is a suffix that forms abstract nouns from adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ywny' (iv) is a suffix that forms adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ość' (ity) is a suffix that forms abstract nouns from adjectives, not a root morpheme",
+    "suggestion": "suffix"
   },
   {
     "word": "flexibility",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The first morpheme should be 'flex' (the root), but 'flex' alone is not a standalone morpheme with the meaning 'giętkość' (flexibility). The word structure is flex+ible+ity, not flex as a complete unit meaning flexibility.",
-    "suggestion": "Change parts[0].homeLang from 'giętkość' to a more accurate gloss like 'zginać się' or 'elastyczny' that reflects the Latin root 'flectere' (to bend), not the full word flexibility",
-    "source_file": "en-pl.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'giętkość' is a noun meaning 'flexibility'; the root 'flex' means 'bend/flexible' and should be glossed accordingly",
+    "suggestion": "gięty/bend"
   },
   {
     "word": "flexibility",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The suffix 'ible' is glossed as '-alny' (capable), but this is imprecise. The suffix '-ible' is a variant of '-able' meaning 'capable of being' or 'worthy of being'. The Polish '-alny' doesn't perfectly capture this function.",
-    "suggestion": "Change to '-owy' or add clarification that it's '-able/-ible' meaning 'capable of being/worthy of being': perhaps '-zdolny' or keep '-alny' but refine the homeLangDetails",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-alny' (ibil) is a suffix forming adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "flexibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ość' (ity) is a suffix that forms abstract nouns from adjectives, not a root morpheme",
+    "suggestion": "suffix"
   },
   {
     "word": "nationality",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The example 'naturalny' (natural) is given to illustrate the suffix '-al', but 'naturalny' is not formed from '-al' in the same productive way; it's a separate word. The suffix '-al' does appear in words like 'narodowy' (national), but 'naturalny' is misleading as an example.",
-    "suggestion": "Replace 'naturalny' with a better example like 'narodowy' (national) or 'przemysłowy' (industrial) that clearly shows the '-al' suffix at work",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ny' (al) is a suffix forming adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "nationality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ość' (ity) is a suffix that forms abstract nouns from adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ywny' (ive) is a suffix forming adjectives, not a root morpheme",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-nie' should be '-ie' to match the gloss convention for adverb-forming suffix -ly; see glossary entry 'ly → -ie'",
+    "suggestion": "-ie"
   },
   {
     "word": "creatively",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme split is incomplete. 'create' should be further split into 'creat' (root) + 'e' (infinitive marker), as the suffix '-ive' attaches to 'creat', not 'create'.",
-    "suggestion": "Split as: creat + e (infinitive) + iv (suffix) + ly, or alternatively adjust the parts to reflect that 'create' is the base form and '-ive' converts it to an adjective.",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ive is marked as 'root' but it is a derivational suffix that forms adjectives from verbs (create → creative)",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ive is marked as 'root' but it is a derivational suffix that forms adjectives from verbs (produce → productive)",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "attractively",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation contains a Russian word 'привлекающий' (Cyrillic text) which should not appear in a Polish translation. The meaning is also somewhat awkward with 'lub' (or).",
-    "suggestion": "Should read: 'w sposób, który jest przyjemny, pociągający lub wizualnie atrakcyjny; w angażujący sposób' or simply 'w sposób, który jest atrakcyjny, pociągający lub wizualnie przyjemny'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ive is marked as 'root' but it is a derivational suffix that forms adjectives from verbs (attract → attractive)",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "researcher",
-    "category": "false_cognate",
-    "field": "parts[0]",
-    "issue": "The prefix 're-' in 'researcher' does not carry the meaning of 'repetition' or 'return'. In 'researcher', 're-' is part of the French loanword 'recherche' (meaning 'search/inquiry'), not a productive English prefix meaning 'again'. The homeLangDetails explanation is misleading as applied to this word.",
-    "suggestion": "Either mark this as a frozen compound where 're-' is not a separable morpheme with its typical meaning, or reconsider the splitting entirely. The word could be split as just 'research' + 'er' without the 're-' prefix as a separate meaningful unit.",
-    "source_file": "en-pl.json"
+    "word": "employee",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix '-ee' is marked as 'root', but it is a bound suffix that cannot stand alone. It creates the passive recipient meaning and should be classified as 'suffix'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "developer",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'develop' should be further split into 'develop' (root from French 'développer') or at minimum 'de' + 'velop'. However, since this is a simple base form, the split 'develop + er' is acceptable, but the structure is incomplete compared to the morphological depth shown in other entries.",
-    "suggestion": "Either keep as is (develop + er) if treating 'develop' as an atomic base, or split into 'de' + 'velop' + 'er' to maintain consistency with the depth of morphological analysis in other entries.",
-    "source_file": "en-pl.json"
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The element 'graph' (from Latin/Greek graphia, meaning 'write/record') is marked as 'root', but in this context it functions as a bound root element that combines with 'photo'. While it has semantic content, it is bound and better classified as a root element that is part of a compound or derived word structure. However, 'root' is technically acceptable here as it is meaning-bearing, though 'suffix' might better reflect its function in the compound.",
+    "suggestion": "Consider that 'graph' here is a bound element; if treating as bound, reconsider classification. Current 'root' is acceptable if considering meaning-bearing bound elements."
   },
   {
-    "word": "communicator",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation uses \"komunikatorka\" which is not a standard Polish word. The correct term would be \"komunikantka\" or more naturally \"osoba o wysokich umiejętnościach komunikacyjnych\" or simply \"świetna mówczyni publiczna\".",
-    "suggestion": "Change to: \"Jako osoba o wysokich umiejętnościach komunikacyjnych, doskonale radzi sobie w wystąpieniach publicznych.\" or \"Jako świetna mówczyni publiczna, doskonale radzi sobie w wystąpieniach publicznych.\"",
-    "source_file": "en-pl.json"
+    "word": "investigator",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The split between 'invest' and 'igat' is incorrect. The correct morphological structure is 'investig-' (root) + '-ate' (verbalizing suffix) + '-or' (agentive suffix). The element 'igat' does not correspond to a real morpheme boundary in English. The word should be split as: investig + ate + or (or invest-ig-ate-or if preserving the internal structure).",
+    "suggestion": "Correct the split to: investig (root) + ate (suffix) + or (suffix), or at minimum investigate (root) + or (suffix)"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The element 'igat' is marked as 'root' but it is not a real standalone morpheme. If the split is corrected, this part should be reclassified as a suffix or combined with the root.",
+    "suggestion": "Reclassify after correcting the word boundary issue"
   },
   {
     "word": "communicate",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'mun' is glossed as 'wspólny' (common/shared), but in 'communicate' it derives from Latin 'munis' (duty/service), not 'communis' (common). The morpheme here means something closer to 'shared burden' or 'service,' not simply 'common.'",
-    "suggestion": "Change homeLang to 'wspólna służba' or 'wspólny obowiązek' to better reflect the etymological sense",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "com is a prefix (connector/preposition), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "mun is a root (Latin mun- meaning common/shared), not labeled as such but should remain root",
+    "suggestion": "root"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-icate/-ate is a suffix (verb-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "investigate",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'vestig' should be further analyzed as 'vestig-ium' where the Latin suffix '-ium' (noun-forming) is part of the root. However, more critically, the split conflates the root with its suffix form. In the verb form 'investigate,' the actual morpheme is 'vestig-' (the root), not 'vestig' in isolation.",
-    "suggestion": "Consider whether to represent this as 'vestig-' to clarify it's a root, or provide more precise etymological detail about how Latin noun 'vestigium' relates to the verbal root",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vestig is a root (Latin vestigium), but labeled as root which is correct",
+    "suggestion": "root"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verb-forming), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "col is a prefix (variant of com), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verb-forming), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "par is a root (Latin pars, part), correctly labeled but entry shows it could be clarified",
+    "suggestion": "root"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ticip is part of a root complex (participium), but -ticip is bound morpheme deriving from capere",
+    "suggestion": "root"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verb-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "congratulate",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Polish translation 'Chciałbym Cię pogratulować doskonałego wykonania!' is slightly awkward. The preposition and case are not standard in Polish. Standard Polish would use 'Chciałbym Ci pogratulować doskonałego wykonania!' (dative 'Ci' instead of accusative 'Cię') or 'Chciałbym pogratulować Ci/Tobie doskonałego wykonania!'",
-    "suggestion": "Change to 'Chciałbym Ci pogratulować doskonałego wykonania!' or 'Chciałbym pogratulować Tobie doskonałego wykonania!'",
-    "source_file": "en-pl.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix, not a root",
+    "suggestion": "prefix"
   },
   {
-    "word": "misinterpret",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split into 4 parts (mis, inter, pret, et) but 'et' is not a separate morpheme—it's part of the Latin root. The correct split should be: mis + interpret (or mis + inter + pret). The '-et' is not a productive English morpheme and including it creates a false analysis.",
-    "suggestion": "Remove the 'et' part or restructure to: parts = [mis, interpret] or [mis, inter, pret] without the '-et'",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "false_cognate",
-    "field": "parts[2].homeLang",
-    "issue": "The gloss 'wyjaśniać' (explain) is misleading. 'Pret' comes from Latin 'praetere' or from 'interpretari', not from a meaning 'to explain'. The morpheme should be glossed as relating to 'interpretation' or 'meaning', not as a standalone prefix meaning 'explain'.",
-    "suggestion": "Change homeLang to something like 'interpretacja/znaczenie' or provide the correct etymological root without overstating the 'explain' meaning",
-    "source_file": "en-pl.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'Inter' should not be a separate part here. 'Misinterpret' is mis- + interpret, not mis- + inter- + pret-. The 'inter-' prefix is already baked into the word 'interpret' and splitting it out creates a false analysis of the word's structure.",
-    "suggestion": "Restructure to: [mis, interpret] or at minimum clarify that 'inter' is part of the root, not an independent prefix in this word",
-    "source_file": "en-pl.json"
+    "word": "congratulate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ulate is a suffix (verb-forming diminutive), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "deconstruct",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de- is a prefix, not a root. It is a bound morpheme that precedes the root 'con'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "con- is a prefix, not a root. It is a bound morpheme that precedes the root 'struct'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'Con' is glossed as 'kon-/razem' (together) but in 'deconstruct', the 'con-' is part of 'construct' (con- = together + struct = build). It's not functioning as an independent prefix here; it's baked into the root word 'construct'.",
-    "suggestion": "Restructure the split to [de, construct] to avoid misleading the learner, or clarify that 'con' is part of the root 'construct' rather than a separate prefix",
-    "source_file": "en-pl.json"
+    "issue": "homeLang label is too long. Should be a brief parenthetical prefix gloss, not 'kon-/razem' with full explanation. Use convention like '(together)' or short Polish equivalent.",
+    "suggestion": "(razem)"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang label is too long and mixes multiple meanings. Should be a brief prefix gloss following convention. 'de-/w dół/cofnąć' is not a proper tile label.",
+    "suggestion": "(w dół)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "inter- is a prefix, not a root. It is a bound morpheme that precedes the root 'pret'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "pret- (from preter-/praetere, meaning 'to go through' or 'explain') is a root or bound root morpheme in this context, but more accurately it should be treated as part of the stem 'preter-'. However, as split here with 'pret', it functions as a bound root. Current label 'root' is acceptable, but 'et' should not be labeled 'root'.",
+    "suggestion": "Keep as 'root' (acceptable for bound roots)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "-et is an infinitive suffix/ending, not a root. In Modern English 'interpret', -et is archaic; the morphemeType should reflect that this is a suffix or derivational ending.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang label is too long. Should be a brief prefix gloss, not 'między-/wśród'. According to glossary convention, use a short parenthetical.",
+    "suggestion": "(między)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang label 'wyjaśniać' is inaccurate. The root pret-/preter- means 'to go/pass through', not 'to explain'. The sense of 'interpret' comes from the combination with inter-, not from pret- alone.",
+    "suggestion": "(przechodzić)"
   }
 ]

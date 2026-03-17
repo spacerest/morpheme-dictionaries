@@ -1,1010 +1,3488 @@
 [
   {
     "word": "injection",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'dans/non ou dedans' is unclear and partially incorrect. 'In-' as a prefix in 'injection' means 'into' or 'inward', not simply 'in/within'. The current gloss is confusing and doesn't accurately capture the directional sense.",
-    "suggestion": "Change to 'dans/en dedans' or better yet 'vers l'intérieur' to clearly indicate the 'into' or 'inward' sense of the prefix",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (in) is marked as 'root' but should be 'prefix' — 'in-' is a bound prefix meaning 'in/into', not a root morpheme",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "injection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (ject) is marked as 'root' but should be 'root' — this is correct as the primary meaning-bearing morpheme. However, parts[2] is the real issue.",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "injection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but should be 'suffix' — '-tion' is a derivational suffix that forms nouns from verb roots, not a root itself",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "projection",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'vers l'avant/pour' is imprecise. 'Pro-' in 'projection' primarily means 'forward' or 'forth', not 'for/in favor of'. The secondary meaning listed doesn't fit this word's actual morphology.",
-    "suggestion": "Change to 'vers l'avant' or 'en avant' to focus on the forward/outward sense appropriate to projection",
-    "source_file": "en-fr.json"
+    "issue": "Gloss is 'vers l'avant/pour' but the homeLangDetails are verbose and violate the label convention. Tile labels must be brief (under ~4 words). Keep it concise.",
+    "suggestion": "Change to 'avant' or 'en avant'"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (pro) is marked as 'root' but should be 'prefix' — 'pro-' is a bound prefix, not a root morpheme",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (ject) is marked as 'root' — this is correct",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but should be 'suffix' — '-tion' is a derivational suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss is 'contre' but homeLangDetails are verbose and violate label convention. Tile labels must be brief.",
+    "suggestion": "Change to 'contre'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (ob) is marked as 'root' but should be 'prefix' — 'ob-' is a bound prefix, not a root morpheme",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (ject) is marked as 'root' — this is correct",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but should be 'suffix' — '-tion' is a derivational suffix, not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "prediction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The French translation 'La prédiction météorologique pour demain est de la pluie' is awkward. More natural would use 'La prévision météorologique' or 'La météo prévue' since 'prédiction' in French typically refers to prophecy or fortune-telling rather than weather forecasts.",
-    "suggestion": "Change to 'La prévision météorologique pour demain annonce de la pluie' or 'Le bulletin météorologique pour demain prévoit de la pluie'",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss is 'avant' but homeLangDetails are verbose and violate label convention. Tile labels must be brief.",
+    "suggestion": "Keep as 'avant' (already brief)"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (pre) is marked as 'root' but should be 'prefix' — 'pre-' is a bound prefix, not a root morpheme",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (dict) is marked as 'root' — this is correct",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "prediction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but should be 'suffix' — '-tion' is a derivational suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss is 'contre' but homeLangDetails are verbose and violate label convention. Tile labels must be brief.",
+    "suggestion": "Change to 'contre'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (contra) is marked as 'root' but should be 'prefix' — 'contra-' is a bound prefix, not a root morpheme",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (dict) is marked as 'root' — this is correct",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but should be 'suffix' — '-tion' is a derivational suffix, not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "jurisdiction",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is 'juridiction' but this is the French word itself, not a translation. It should be the English word 'jurisdiction' or clarified as the French equivalent.",
-    "suggestion": "Change translationShort to 'jurisdiction' or remove it if the entry is meant to teach English to French speakers",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "dict is a root morpheme in Latin origin, but in this English word it functions as a bound root that requires affixation. However, the real issue is that morphemeType should be 'root' for all three parts since they are all bound roots from Latin. The current assignment is technically acceptable since 'dict' cannot stand alone, but the classification is inconsistent with parts[0] and parts[2].",
+    "suggestion": "root (or flag as acceptable if consistency across all three parts as roots is intended)"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (-tion) that forms nouns from verb roots, not a root morpheme itself. It should be marked as suffix.",
+    "suggestion": "suffix"
   },
   {
     "word": "transportation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is 'transportation' which is the English word itself. Given that all other fields are in French (homeLang, example translations), this should be the French translation 'transport' or 'transportation'.",
-    "suggestion": "Change translationShort to 'transport' or 'transportation' depending on the language direction",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans is a prefix meaning 'across/through', not a root. It should be marked as prefix.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "port is a bound root (from Latin portare), not a free root. However, marking it as root is acceptable for bound roots. The issue is parts[2] being marked root when it is a suffix.",
+    "suggestion": "root (acceptable as-is)"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion) forming nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix (de-) meaning away/down/reversing action, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion) forming nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "im is a prefix (in-/im-) meaning into/in, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion) forming nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix (con-/com-) meaning together/with, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (-tion) forming nouns, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "destruction",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme is listed as 'de' but shown as 'vers le bas/défaire' in homeLang. The actual prefix in 'destruction' is 'de-', not 'de' alone, and should be clearly marked as the prefix form.",
-    "suggestion": "Change targetLang to 'de-' to clearly indicate it is a prefix",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (de) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
   },
   {
     "word": "destruction",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry splits 'destruction' into de + struct + ion, but 'struct' is itself from Latin 'struere' (to build). While the split is technically correct, 'struct' should ideally be marked as a root rather than a standalone morpheme, or the parts could be organized differently to show de- + construct + -ion.",
-    "suggestion": "Consider clarifying that 'struct' is a Latin root meaning 'to build' or reorganize the parts to show the full construction more clearly",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (struct) is a root, not a root (correct type but check context)",
+    "suggestion": "Keep as \"root\""
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is a suffix forming nominals, not a root",
+    "suggestion": "Change to \"suffix\""
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (re) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (con) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (struct) is a root, not a root (correct type but check context)",
+    "suggestion": "Keep as \"root\""
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "parts[3] (ion) is a suffix forming nominals, not a root",
+    "suggestion": "Change to \"suffix\""
   },
   {
     "word": "inspection",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'dans/non' for 'in' is misleading. While 'in' can mean 'non' as a negating prefix in some words, in 'inspection' the 'in-' prefix means 'in' or 'into' (looking into something), not negation. The dual gloss suggests both meanings equally, which is confusing for this specific word.",
-    "suggestion": "Change homeLang for 'in' to 'dans/en' or 'into' to reflect its actual meaning in 'inspection', and add homeLangDetails clarifying that here it means 'in/into' rather than negation",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (in) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (spect) is a root, not a root (correct type but check context)",
+    "suggestion": "Keep as \"root\""
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is a suffix forming nominals, not a root",
+    "suggestion": "Change to \"suffix\""
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (per) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (spect) is a root, not a root (correct type but check context)",
+    "suggestion": "Keep as \"root\""
+  },
+  {
+    "word": "perspective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ive) is a suffix forming adjectives, not a root",
+    "suggestion": "Change to \"suffix\""
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (retro) is a prefix, not a root",
+    "suggestion": "Change to \"prefix\""
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "parts[1] (spect) is a root, not a root (correct type but check context)",
+    "suggestion": "Keep as \"root\""
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ive) is a suffix forming adjectives, not a root",
+    "suggestion": "Change to \"suffix\""
   },
   {
     "word": "prescription",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation states 'Predict, prepare, prehistoric sont des mots anglais qui illustrent ce préfixe' but these are English examples, not French. The homeLang should relate to French equivalents.",
-    "suggestion": "Provide French examples instead, such as 'prévoir, préparer, préhistorique' to match the French-learning context.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pre is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "prescription",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "scrip is a bound root element, not an independent root; in this context it is part of the Latin root for 'write'",
+    "suggestion": "Change morphemeType to 'root' is acceptable, but note scrip is bound"
   },
   {
     "word": "description",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang 'vers le bas/défaire' does not accurately capture the meaning of the 'de' prefix in 'description'. In this word, 'de' does not mean 'downward' or 'undo'—the word means 'a written account of' not 'the opposite of writing'. The morphological analysis is misleading.",
-    "suggestion": "The 'de' here is not a productive prefix with this meaning. Consider noting that 'description' uses 'de' + 'scrib' where 'de' functions differently (from Latin describere), or simplify to acknowledge this is a Latin-derived word where the prefix meaning is not transparent in modern usage.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "description",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "scrip is a bound root element within a Latin-derived word, not an independent root",
+    "suggestion": "Change morphemeType to 'root' is acceptable, but note scrip is bound"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sub is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "scrip is a bound root element, not an independent root",
+    "suggestion": "Change morphemeType to 'root' is acceptable, but note scrip is bound"
   },
   {
     "word": "expression",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort 'la transmission d'un sentiment ou d'un sens' is awkwardly phrased. 'Transmission' suggests the act of sending/conveying, but 'expression' primarily means the manifestation or display of feeling, not the act of transmitting it.",
-    "suggestion": "Change to 'la manifestation d'un sentiment ou d'un sens' or 'la démonstration d'une émotion ou d'une idée'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ex is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "press is a bound root element, not an independent root",
+    "suggestion": "Change morphemeType to 'root' is acceptable, but note press is bound"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix forming action nouns (-tion/-sion), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "press is a bound root element, not an independent root",
+    "suggestion": "Change morphemeType to 'root' is acceptable, but note press is bound"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix forming action nouns (-tion/-sion), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "impression",
-    "category": "wrong_translation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'im' is marked as 'root' but it is a bound prefix (variant of 'in-'). It cannot stand alone.",
+    "suggestion": "Set to 'prefix'"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'press' (presser) is marked as 'root' which is correct, but when combined with the prefix 'im-', the morphemeType should reflect that 'press' is indeed the root of this combination.",
+    "suggestion": "Confirm as 'root' (it is correct, but part[0] should be 'prefix')"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns. It cannot stand alone as a root morpheme.",
+    "suggestion": "Set to 'suffix'"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'at' (variant of 'ad-') is marked as 'root' but it is a bound prefix. It cannot stand alone.",
+    "suggestion": "Set to 'prefix'"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns. It cannot stand alone as a root morpheme.",
+    "suggestion": "Set to 'suffix'"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'ex-' is marked as 'root' but it is a bound prefix. It cannot stand alone.",
+    "suggestion": "Set to 'prefix'"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns. It cannot stand alone as a root morpheme.",
+    "suggestion": "Set to 'suffix'"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'dis-' is marked as 'root' but it is a bound prefix. It cannot stand alone.",
+    "suggestion": "Set to 'prefix'"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The prefix 'im-' in 'impression' is a variant of 'in-' meaning 'in/into', not 'in-/dans' (which is the preposition). The gloss should clarify this is the prefix form.",
-    "suggestion": "Change to 'in- (dans/en)' or 'dans' to be clearer about the prefix function",
-    "source_file": "en-fr.json"
+    "issue": "The gloss 'non/écarter' is too verbose and the homeLangDetails field should not be used for tile labels. The label should be concise, following the convention of short parentheticals for context-dependent prefixes.",
+    "suggestion": "(dés-) or (away)"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns. It cannot stand alone as a root morpheme.",
+    "suggestion": "Set to 'suffix'"
   },
   {
     "word": "permission",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The French phrase should use the indefinite article 'une' (feminine) or be plural, not just the bare noun phrase. Current form is grammatically awkward.",
-    "suggestion": "Change to 'une permission; un consentement ou une approbation officiel(le)' or 'consentement ou approbation officielle pour faire quelque chose'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'per-' is marked as 'root' but it is a bound prefix. It cannot stand alone.",
+    "suggestion": "Set to 'prefix'"
   },
   {
     "word": "permission",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'miss' in Latin/English etymology means 'send' (from mittere), but the gloss 'envoyer' (to send) doesn't clearly convey how this relates to permission. The semantic connection via 'mittere' is indirect—'permission' originally meant 'sent through' implying allowance.",
-    "suggestion": "Consider adding context like 'envoyer (permettre = envoyer à travers)' or noting that the semantic evolution from 'send' to 'allow' is complex",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'à travers' is correct but the homeLangDetails field should not be included for tile labels. The homeLang field should contain only the short label, not explanatory details.",
+    "suggestion": "Remove homeLangDetails; homeLang should be '(à travers)' or similar"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns. It cannot stand alone as a root morpheme.",
+    "suggestion": "Set to 'suffix'"
   },
   {
     "word": "transmission",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'miss' is glossed as 'envoyer' (to send), but in 'transmission' it comes from Latin 'mittere' (to send/put). While 'envoyer' is a reasonable translation, the entry should clarify this is the Latin root, not a modern French word.",
-    "suggestion": "Change homeLang to 'mettre/envoyer (Latin mittere)' or add homeLangDetails explaining the Latin origin",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "transmission",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "miss is a root morpheme (from Latin mittere), not labeled as root here but should be confirmed—actually correct as root",
+    "suggestion": "root is correct"
+  },
+  {
+    "word": "transmission",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix forming nouns from verbs, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "commitment",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'mitt' is glossed as 'envoyer', but this oversimplifies. In 'commitment', the root 'mitt' (from Latin 'mittere') semantically contributes 'to put/place' in the sense of 'putting oneself forward', not simply 'to send'. The gloss misses the nuance.",
-    "suggestion": "Change to 'mettre/placer (Latin mittere)' to better capture the sense of committing oneself",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "com is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "commitment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "mit is a root morpheme but should be verified; it functions as the root here so 'root' is acceptable",
+    "suggestion": "root is correct"
+  },
+  {
+    "word": "commitment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ment is a derivational suffix forming nouns (abstract nouns from verbs), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "reception",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss of 're-' as 'arrière' (back/rear) is partially correct but the homeLangDetails explanation is somewhat confusing. While 're-' can mean 'back' or 'again', the example 'renvoyer' actually means 'to send back' (not 'to carry back to source'), which muddies the explanation.",
-    "suggestion": "Simplify homeLang to 'retour/arrière' and clarify in homeLangDetails that 're-' primarily means 'back' or 'return', using clearer examples",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "reception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix forming nouns from verbs, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "per is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix forming nouns from verbs, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "deception",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The example 'La tromperie a finalement été découverte' uses 'tromperie' instead of 'déception'. While both work in French, 'déception' more directly mirrors the English word and is the more literal translation.",
-    "suggestion": "Change exampleTranslation to 'La déception a finalement été découverte' or 'L'acte de tromper a finalement été découvert' to be more consistent with the morphemic breakdown",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix forming nouns from verbs, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "reference",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'fer' is glossed as 'porter' (to carry), but in 'reference', 'fer' comes from Latin 'ferre' (to carry/bear). While 'porter' is a valid translation of 'ferre', the gloss should be consistent with how it functions in the morpheme. More importantly, in 'reference', the sense is 'to bring back' or 'to carry back' (from Latin 're-ferre'), not just 'to carry'. The French translation 'référence' and the English meaning don't align with a simple 'carry' interpretation without context.",
-    "suggestion": "Consider glossing 'fer' as 'carry/bear' with a note that in this compound it carries the sense of 'bringing/directing toward', or add homeLangDetails explaining the Latin 'ferre' root and its semantic shift in the compound.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "reference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "fer is a root element (Latin -fer-, to carry), not a standalone root in modern English morphology",
+    "suggestion": "Change morphemeType to 'root' (correct, but the issue is that 're' should be prefix, not root)"
+  },
+  {
+    "word": "reference",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'en arrière' is historically interesting but misleading for the tile label in a puzzle context. The canonical glossary lists re as 'ré-/de nouveau', and in 'reference' the modern sense is closer to 'back/toward' in the sense of 'carry back'. The lengthy homeLangDetails should not override the tile label; keep it concise.",
+    "suggestion": "ré-"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix (con-, com-, meaning 'together/with'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "fer is a root element (from Latin ferre, to carry/bear), should remain 'root'",
+    "suggestion": "root (already correct, no change needed)"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter is a prefix (inter-, meaning 'between/among'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLangDetails are excessive for a tile label; the label itself 'entre' is appropriate but should not include the lengthy explanation.",
+    "suggestion": "entre (keep the label short; homeLangDetails should be removed or marked as editorial only)"
   },
   {
     "word": "conversion",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is 'conversion' (English), but the entry is being taught to French speakers (all other translations are in French). The short translation should be in French, not English.",
-    "suggestion": "Change translationShort from 'conversion' to 'conversion' (which happens to be the same in French, but the field should consistently use the target language glosses provided in homeLang).",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (from Latin -tion, -sion), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "introversion",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "Like 'conversion', the translationShort is in English ('introversion') rather than French. It should match the French translations provided in the other fields.",
-    "suggestion": "Change translationShort to 'introversion' (the French equivalent), or verify that all short translations should be in the home language (French in this case).",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro is a prefix (intro-, meaning 'inward/within'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (from Latin -tion, -sion), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "subversion",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "In French, 'subversion' is not a standard word. The French equivalent is 'subversion' (borrowed from English) or more naturally 'renversement' or 'sabotage'. 'Subversion' itself is used in French academic/political contexts but 'dépendance' (from the dependence entry) is not the right gloss.",
-    "suggestion": "Use 'la subversion' or 'le sabotage' as the French term, or provide the actual French word used",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sub- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vers- is a root/bound root, not a root in isolation here; better as root but the entry treats all three as roots equally",
+    "suggestion": "root"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in- is a prefix (negation/reversal), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "de- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "pend is a root/bound root in this context",
+    "suggestion": "root"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "de- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "pend is a root/bound root",
+    "suggestion": "root"
   },
   {
     "word": "occurrence",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The split 'oc' + 'cur' is incorrect. The prefix should be 'oc' (a variant of 'ob-', meaning 'toward/against'), but 'oc' alone is not a meaningful unit in French. The correct etymological split is 'ob-' (or its assimilated form 'oc-') + 'currere' (to run). The 'oc' part shown as glossing to 'vers' (toward) is misleading.",
-    "suggestion": "Split as 'oc' (ob-, toward/against) or provide fuller etymological explanation. The gloss 'vers' is too vague; should be 'vers/contre' (toward/against) or explain the Latin 'ob-' prefix more clearly",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "oc- is a prefix (variant of ob-/oc- meaning 'toward'), not a root",
+    "suggestion": "prefix"
   },
   {
     "word": "occurrence",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "In French, 'occurrence' is not the standard word. The correct French term is 'occurrence' (same spelling, borrowed), but more naturally expressed as 'cas', 'instance', 'manifestation', or 'apparition'.",
-    "suggestion": "Use 'occurrence' (if used in French academic contexts) or provide a more natural French equivalent like 'cas' or 'manifestation'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-rence is a suffix (variant of -ence), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "recurrence",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as re-cur-rence, but 'cur' alone is not a standalone morpheme in English. The correct split should be re-curr-ence, where 'curr' is the root (from Latin currere, to run) and '-ence' is the suffix.",
-    "suggestion": "Split as: re + curr + ence",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "cur is a root morpheme, not a root marked as such in isolation — this is correct, but part[2] is wrong",
+    "suggestion": "part[1] is correct as root"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ence is a suffix (état, qualité per glossary), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "concurrent",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "Same issue as recurrence: 'cur' is not the correct morpheme boundary. It should be 'curr' (the root from Latin currere).",
-    "suggestion": "Split as: con + curr + ent",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con- is a prefix (ensemble), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "curr is a root, but this is correct — the suffix marking is correct at parts[2]",
+    "suggestion": "parts[0] should be 'prefix', not 'root'"
   },
   {
     "word": "recession",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split shows 'cess' but the correct root is 'cede' or 'ced' (from Latin cedere, to go/yield). 'Cess' appears to be a partial or incorrect representation of the root.",
-    "suggestion": "Split as: re + cede + ion (or re + ced + ion if using the bound form)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix (déjà listé, action/état), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "succession",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "Same issue: 'cess' should be 'cede' or 'ced'. Also, 'suc' is not the standard representation; it should be 'suc-' (sub- assimilated before 'c'), but the root should still be 'cede/ced'.",
-    "suggestion": "Split as: suc (sub assimilated) + cede + ion (or suc + ced + ion)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "suc- is a prefix (sub variant), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix (action/état), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "unprecedented",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split shows 'ced' as a separate morpheme from 'ent' and 'ed', but the correct structure is un + pre + ced + ed (with '-ed' being the past participle suffix, not listed separately). The structure provided has too many parts and unclear boundaries.",
-    "suggestion": "Split as: un + pre + cede + d (or un + pre + ced + ed where 'ed' is the past participle marker), removing the separate 'ent' entry as it is not part of this word",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix (négation), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
-    "word": "information",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'in-' in 'information' does not mean 'dans' (in/into). Etymologically, 'information' comes from Latin 'informare' (to form, shape, instruct), where 'in-' is a formative prefix, not a locative one. The word does not decompose meaningfully as 'in + form' in modern English.",
-    "suggestion": "Either remove the 'in' morpheme split or clarify that 'in-' here is a formative/intensifying prefix from Latin that doesn't correspond to a spatial 'dans'.",
-    "source_file": "en-fr.json"
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "pre- is a prefix (avant), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[4].morphemeType",
+    "issue": "-ed is a suffix (passé/participial), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "trans is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "form is a root, but it should be labeled as such only if it's the primary semantic element; here it is, but the morphemeType assignment is inconsistent with the structure",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "reformation",
-    "category": "frozen_compound",
-    "field": "parts",
-    "issue": "While 're-formation' can be parsed as 're + form + ation', the capitalized 'Reformation' refers to a specific historical event (the Protestant Reformation) where the morphemic decomposition no longer reflects the actual meaning. The example sentence uses it as a proper noun for a historical movement, not as a transparent compound meaning 'forming again'.",
-    "suggestion": "Consider noting that when capitalized, 'Reformation' is a frozen proper noun referring to a specific historical event, and the morphemic analysis applies primarily to the lowercase 'reformation'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "reformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "interruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "inter is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "interruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "corruption",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The first part 'cor' is glossed as 'con-/ensemble', but in 'corruption' it comes from Latin 'corr-' (an assimilated form of 'com-'), which does mean 'together/with'. However, the breakdown obscures that 'corrupt' itself is the base form; the morpheme structure is better understood as 'corrupt' + '-ion' rather than splitting 'cor' + 'rupt' as if they are independent morphemes.",
-    "suggestion": "Consider restructuring as 'corrupt' (homeLang: 'gâter/pourrir') + '-ion' (homeLang: '-tion'), or clarify that 'cor-' + 'rupt' is an etymological rather than synchronic analysis.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "cor is a prefix (con- variant), not a root",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "corruption",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'rupt' is glossed as 'casser' (to break), which is correct etymologically (from Latin 'rumpere'), but this is presented as a morpheme gloss for a language-learning game where learners expect productive modern morphemes. The gloss is accurate but potentially confusing without context.",
-    "suggestion": "Add homeLangDetails explaining this is the Latin root meaning 'break/rupture', or simplify to 'casser/rompre' to clarify the semantic connection.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "rupt is a root morpheme, but the entry is correct; however parts[2] is also marked root when it should be suffix",
+    "suggestion": "parts[1] should be 'root' (keep as is)"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a derivational suffix (-tion), not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "autobiography",
-    "category": "incomplete_split",
-    "field": "parts[3]",
-    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' with no actual translation or clarification of what it means or how it functions in French. Unlike the other entries, this lacks meaningful glossing.",
-    "suggestion": "Provide a meaningful gloss such as 'homeLang: \"(suffixe formant un nom)\"' or align with how other entries handle nominal suffixes.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "auto is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "bio is a prefix/combining form, not a root in this context",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "graph is a root morpheme (meaning 'write'), not a root by itself here—it's part of a combining form",
+    "suggestion": "Change to 'root'"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "Label is French ('suffixe nominal') instead of short English convention; should be marked as -y nominal suffix",
+    "suggestion": "(nom.) or -y"
   },
   {
     "word": "biography",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The 'graph' morpheme is glossed as '-graph-' without any actual translation to French. This is incomplete—it should clarify what '-graph-' means (write/writing).",
-    "suggestion": "Change homeLang to 'écrire/-graph-' or 'écriture' to provide a meaningful gloss.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "bio is a prefix, not a root",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "biography",
-    "category": "incomplete_split",
-    "field": "parts[3]",
-    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' with no actual translation, making it incomplete for a language-learning game.",
-    "suggestion": "Provide a meaningful gloss similar to other entries, or consistently apply the glossing approach across all entries.",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Label is French ('suffixe nominal') instead of short English convention",
+    "suggestion": "(nom.) or -y"
   },
   {
     "word": "photography",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The 'graph' morpheme is glossed as '-graph-' without translation, just like in 'biography'. This is incomplete.",
-    "suggestion": "Change homeLang to 'écrire/-graph-' or 'écriture'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "photo glossed as 'lumière' (light) but should be 'photo' or 'lumière' in glossary; glossary entry is 'photo' not 'lumière'",
+    "suggestion": "photo"
   },
   {
     "word": "photography",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' without a meaningful translation.",
-    "suggestion": "Provide a French gloss or clarification of the suffix's function.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo is a combining form/prefix, not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Label is French ('suffixe nominal') instead of short English convention",
+    "suggestion": "(nom.) or -y"
   },
   {
     "word": "symphony",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "'phon' is glossed as '-phone' without a French translation. In a language-learning game for French speakers, this should be translated to the home language.",
-    "suggestion": "Change homeLang to 'son/-phone' or 'phonique' to provide meaningful translation.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym is a prefix (variant of con-/syn-), not a root",
+    "suggestion": "Change to 'prefix'"
   },
   {
     "word": "symphony",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix 'y' is glossed only as '(suffixe nominal)' without meaningful translation, inconsistent with proper glossing standards.",
-    "suggestion": "Provide a French gloss or clarification.",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "phon glossed as '-phone' but should match glossary convention; glossary shows 'phone → -phone' or 'phon → -phone'",
+    "suggestion": "son"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Label is French ('suffixe nominal') instead of short English convention",
+    "suggestion": "(nom.) or -y"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "tele is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "phone is a root or combining form (bound root), not a free root. It is the primary meaning-bearing element.",
+    "suggestion": "root"
   },
   {
     "word": "microphone",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The definition 'appareil qui capture et amplifie les petits sons' (device that captures and amplifies small sounds) is misleading. A microphone converts sound waves into electrical signals; it doesn't amplify them (amplification is separate). The 'small' reference confuses the prefix meaning with the device function.",
-    "suggestion": "Change to 'appareil qui convertit les sons en signaux électriques' (device that converts sounds into electrical signals) or 'appareil de capture sonore' (sound capture device)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "micro is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "phone is a root or combining form (bound root), not a free root. It is the primary meaning-bearing element.",
+    "suggestion": "root"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "chron is a bound root or combining form, not a free root. It is a meaning-bearing element that cannot stand alone.",
+    "suggestion": "root"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "logy is a suffix, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "syn is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "chron is a bound root or combining form, not a free root. It is a meaning-bearing element that cannot stand alone.",
+    "suggestion": "root"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ize is a suffix, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "suffix"
   },
   {
     "word": "anachronism",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang gloss 'retour' (return) is inaccurate for the Greek prefix 'ana-'. While 'ana-' can mean 'back' or 'again' in some contexts, its primary meaning here is 'up' or 'back in time'. The explanation 'revenant à la mauvaise période' doesn't clearly convey this. The gloss should reflect the actual temporal meaning, not just 'return'.",
-    "suggestion": "Change homeLang to 'arrière/contre le temps' or provide a more precise definition reflecting 'against time' or 'backwards in time'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ana is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "chron is a bound root or combining form, not a free root. It is a meaning-bearing element that cannot stand alone.",
+    "suggestion": "root"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ism is a suffix, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "suffix"
   },
   {
     "word": "psychology",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "\"psych\" is glossed as \"esprit\" (mind/spirit), but the Greek root \"psyche\" originally means \"soul\" or \"breath/life force\", not simply \"esprit\". While \"esprit\" is an acceptable translation in modern French, it's worth noting the term has deeper etymological roots in ancient Greek philosophy.",
-    "suggestion": "Consider \"âme\" or \"esprit\" with a note that the original Greek meaning was broader; alternatively keep as is if the goal is modern semantic meaning",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-logy is a suffix meaning 'study of', not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "anthropology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-logy is a suffix meaning 'study of', not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "dermatology",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation uses \"dermatologue\" (the person/specialist) rather than maintaining the parallel structure. The English says \"appointment with a dermatology specialist\" (the field/specialty), so the French should reflect the same noun.",
-    "suggestion": "\"J'ai un rendez-vous avec un spécialiste en dermatologie.\" or \"J'ai un rendez-vous chez un dermatologue.\"",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-logy is a suffix meaning 'study of', not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym- is a prefix (variant of syn-), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-pathy is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "empathy",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "\"em\" is glossed as \"en-\" (a Greek prefix meaning \"in/into\"), but etymologically, \"empathy\" comes from Greek \"em-\" (not a standard Greek prefix) combined with \"pathos\". The morphological analysis is somewhat misleading because \"em-\" is not standardly recognized as a Greek prefix meaning \"en-\"; rather, it's a Germanic prefix. The Greek root structure is less clear here.",
-    "suggestion": "Reconsider the analysis. \"Empathy\" is actually from German \"Einfühlung\" calqued into English, so the prefix analysis based on Greek is problematic. Either revise to note this is a modern coinage or correct the morphological breakdown",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "em- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-pathy is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "antipathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "anti is a prefix meaning 'against/opposite', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "antipathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "pathy is a suffix forming nouns from Greek roots (as in sympathy, empathy), not a root",
+    "suggestion": "change morphemeType to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "meta is a prefix meaning 'beyond/change', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "morph is a combining form/root but in morphosis context it functions as the core semantic element; however, marked as root which is acceptable",
+    "suggestion": "root is correct, no change needed"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The 'o' has no morphemeType assigned but it is a linking vowel (Greek thematic vowel), not a root",
+    "suggestion": "assign morphemeType 'linking'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "sis is a suffix forming abstract nouns from Greek (as in analysis, genesis), not a root",
+    "suggestion": "change morphemeType to 'suffix'"
   },
   {
     "word": "amorphous",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-ous' is split as a separate morpheme but lacks a homeLang gloss. The homeLangDetails field is empty, making it incomplete.",
-    "suggestion": "Add homeLangDetails for '-ous': something like 'Un suffixe signifiant « ayant la qualité de » ou « plein de ». Il transforme un adjectif ou un nom en adjectif descriptif.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "a (privative prefix from Greek) should be marked as prefix, not root",
+    "suggestion": "assign morphemeType 'prefix'"
+  },
+  {
+    "word": "amorphous",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ous is an adjectival suffix (-ous forming adjectives), not a root",
+    "suggestion": "change morphemeType to 'suffix'"
   },
   {
     "word": "uncomfortable",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-able' is listed as a morpheme but has no homeLangDetails explanation, making the entry incomplete.",
-    "suggestion": "Add homeLangDetails for '-able': something like 'Un suffixe signifiant « capable de » ou « digne de ». Il transforme un verbe en adjectif.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un is a prefix meaning 'not/non', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "comfort is a root (or noun stem that can take morphological modifications), but when combined with -able it becomes part of an adjective. Root is acceptable here as comfort is the semantic core.",
+    "suggestion": "root is correct, no change needed"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "able is a derivational suffix forming adjectives, not a root",
+    "suggestion": "change morphemeType to 'suffix'"
   },
   {
     "word": "unbelievable",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-able' is listed as a morpheme but has no homeLangDetails explanation, making the entry incomplete.",
-    "suggestion": "Add homeLangDetails for '-able': something like 'Un suffixe signifiant « capable de » ou « digne de ». Il transforme un verbe en adjectif.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un is a prefix meaning 'not/non', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unbelievable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "able is a derivational suffix forming adjectives, not a root",
+    "suggestion": "change morphemeType to 'suffix'"
   },
   {
     "word": "unforgettable",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'mémorable, impossible à oublier' is somewhat redundant and awkward. 'Mémorable' alone already implies 'unforgettable', making the second part repetitive.",
-    "suggestion": "Use simply 'inoubliable' or 'qu'on ne peut pas oublier' for clarity and conciseness",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "forgett is a root, but in this context it is the verbal root. The morphemeType is correct as root, but the issue is that all three parts are marked as root when they should be prefix, root, suffix",
+    "suggestion": "root (but see part[2])"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-able is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-able is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "mis- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ing is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "mis- is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-tion is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "overwhelming",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The French translation 'Le soutien qu'elle a reçu était écrasant' is technically correct but sounds somewhat harsh or negative in French. 'Écrasant' in this context can imply something overwhelming in a crushing sense rather than the positive sense intended.",
-    "suggestion": "Use 'Le soutien qu'elle a reçu était impressionnant' or 'formidable' to better capture the positive connotation, or clarify context if the overwhelming sense is meant to be negative",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ing is a suffix (gerund/participle suffix), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "underestimate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"under\" is a prefix, not a root. It is a bound morpheme that modifies the meaning of \"estimate\".",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "overestimation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"ion\" is a suffix (derivational), not a root. It forms nouns from verb stems.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "multicultural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"multi\" is a prefix, not a root. It is a bound morpheme that modifies \"cultural\".",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "multicultural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "\"cultural\" is an adjective derived from \"culture\" + \"-al\" suffix. In this context it functions as a compound element, but the morphemeType should reflect that it is itself a derived form (root + suffix), not simply a root. However, if treating it as a single unit in the decomposition, it should be marked as \"root\" for the purposes of this analysis since it is the semantic head.",
+    "suggestion": "Keep as \"root\" if treating as atomic unit in this word's decomposition"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"trans\" is a prefix, not a root. It is a bound morpheme that modifies \"continental\".",
+    "suggestion": "Change morphemeType to \"prefix\""
   },
   {
     "word": "interchangeable",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is in English instead of French. It should be the French equivalent.",
-    "suggestion": "Change 'interchangeable' to 'interchangeable' or better yet 'échangeable' (the actual French term used)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"inter\" is a prefix, not a root. It is a bound morpheme that modifies \"change\".",
+    "suggestion": "Change morphemeType to \"prefix\""
   },
   {
     "word": "interchangeable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The French translation uses 'indifféremment' which means 'indifferently' and is awkward here. A more natural phrasing would use 'l'une à la place de l'autre' or 'dans n'importe quel ordre'.",
-    "suggestion": "Change to: 'Ces deux pièces sont interchangeables et peuvent être utilisées l'une à la place de l'autre.' or 'Ces deux pièces sont interchangeables et peuvent être utilisées dans n'importe quelle position.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "\"able\" is a suffix (derivational), not a root. It forms adjectives from verb stems.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis- is a prefix, not a root. It is a bound morpheme that precedes the root 'organize'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "organize is a root (free morpheme with core meaning), not a root that should be paired with a root prefix. The morphemeType is technically correct as 'root', but the structure shows dis- + organize where organize is the true root.",
+    "suggestion": "Confirm parts[1] is 'root' (it is correct)"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ize/-iz is a suffix (derivational), not a root. It converts adjectives/nouns to verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix (nominalizing), not a root. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The part 'industrial' is itself a compound that should be split further into 'industry' + 'al' (adjective suffix)",
-    "suggestion": "Split into parts: 'industry', 'al', 'ize', 'tion' rather than treating 'industrial' as a single morpheme",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ize/-iz is a suffix (derivational), not a root. It converts adjectives/nouns to verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix (nominalizing), not a root. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "encourage is a root (free morpheme with core meaning), not marked as 'root' — but it should be. However, it appears the intent was to mark 'encourage' as the root/verb stem, which is correct.",
+    "suggestion": "Confirm parts[0] is 'root' (it is correct)"
+  },
+  {
+    "word": "encouragement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ment is a suffix (nominalizing), not a root. It converts verbs to nouns denoting action, result, or means.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "disagreement",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The part 'agree' should be split into 'a' (to/toward) + 'gree' (will/please), or at minimum, 'agree' is itself derived from a prefix that should be noted",
-    "suggestion": "Consider whether 'agree' should be further analyzed, or note that it is a fossilized form where the prefix 'a-' is no longer productively separated",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis- is a prefix, not a root. It is a bound morpheme that precedes the root 'agree'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "agree is a root (free morpheme with core meaning), and morphemeType 'root' is correct.",
+    "suggestion": "Confirm parts[1] is 'root' (it is correct)"
+  },
+  {
+    "word": "disagreement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ment is a suffix (nominalizing), not a root. It converts verbs to nouns denoting action, result, or means.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'appoint' should be further split into 'ap' + 'point'. The prefix 'ap-' (from Latin 'ad-') is a productive morpheme meaning 'to/toward', and 'point' comes from Latin 'punctum' (point/dot). The entry conflates these into a single unit.",
-    "suggestion": "Split into three parts: 'dis' + 'ap' + 'point' + 'ment', or at minimum recognize that 'appoint' itself is composed of a prefix and root.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "dis is a prefix, not a root",
+    "suggestion": "change to 'prefix'"
   },
   {
     "word": "disappointment",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "Glossing 'appoint' as 'désigner' is imprecise. 'Appoint' means 'to assign/designate to an office', but the morphological components (ap- + point) literally mean 'to fix/establish at a point'. The modern sense has drifted; the gloss should reflect the etymological meaning more accurately or acknowledge the semantic shift.",
-    "suggestion": "Consider 'fixer/assigner' or add homeLangDetails explaining that 'appoint' etymologically means 'to fix/establish' (ad + punctum) but now means 'designate to office'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "appoint is a root or bound root, not classified correctly as standalone root when it's the verb base",
+    "suggestion": "should be 'root' (already correct, but verify context)"
+  },
+  {
+    "word": "disappointment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ment is a suffix forming nouns from verbs, not a root",
+    "suggestion": "change to 'suffix'"
   },
   {
     "word": "acknowledgment",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "'Acknowledge' itself is a compound that should be split further: 'ac' (ad-) + 'knowledge' (archaic 'knowlache'). The entry treats it as a single morpheme when it is composed of a prefix and a root.",
-    "suggestion": "Split 'acknowledge' into 'ac' + 'knowledge' to show the morphological structure more completely.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ment is a suffix forming nouns from verbs, not a root",
+    "suggestion": "change to 'suffix'"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "courage is a root noun, correct, but in this context it's the root of the word",
+    "suggestion": "should be 'root' (already correct)"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ous is a suffix forming adjectives, not a root",
+    "suggestion": "change to 'suffix'"
   },
   {
     "word": "outrageous",
-    "category": "frozen_compound",
-    "field": "parts[0]",
-    "issue": "While the homeLangDetails correctly note that 'outrage' is a frozen compound, the entry still lists it as a single split unit. The synchronic reader might assume 'out-' + 'rage' (the modern productive prefix + anger), which is misleading. The details explain this well, but the split itself may confuse learners if not handled carefully.",
-    "suggestion": "Either note explicitly in the split that 'outrage' is NOT 'out' + 'rage' despite appearances, or split it differently (e.g., 'outr' + 'age' with an explanation). The current format risks misleading learners about English morphology.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ous is a suffix forming adjectives, not a root",
+    "suggestion": "change to 'suffix'"
+  },
+  {
+    "word": "advantageous",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ous is a suffix forming adjectives, not a root",
+    "suggestion": "change to 'suffix'"
   },
   {
     "word": "extraordinary",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word should be split as 'extra-' (prefix) + 'ordinary', not 'extra' + 'ordinary'. 'Extra-' is a bound morpheme prefix meaning 'beyond/outside', not a standalone word.",
-    "suggestion": "Split as 'extra-' (prefix: au-delà de) + 'ordinary' (ordinaire)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "extra is a prefix, not a root. It's a bound morpheme that modifies 'ordinary'",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ordinary is a root (or complete word), but in this context it functions as the base to which the prefix 'extra-' attaches",
+    "suggestion": "Change to 'root'"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-able is a suffix (derivational, forming adjectives meaning 'capable of' or 'worthy of'), not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "predictable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-able is a suffix (derivational, forming adjectives meaning 'capable of' or 'worthy of'), not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "adjustable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-able is a suffix (derivational, forming adjectives meaning 'capable of' or 'worthy of'), not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "expandable",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The French phrase 'pouvant être aggrandi' is incomplete and unnatural. 'Aggrandi' means 'enlarged/made larger' but the structure is awkward. Should use 'pouvant être étendu' or 'qui peut s'étendre'.",
-    "suggestion": "translationLong should be 'extensible, pouvant être étendu' or 'extensible, qui peut s'étendre'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-able is a suffix (derivational, forming adjectives meaning 'capable of' or 'worthy of'), not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un is a prefix, not a root. It is a bound morpheme that precedes the root and has no independent meaning.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "unconsciousness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ness is a suffix, not a root. It is a bound morpheme that follows the root and transforms adjectives into nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ir is a prefix (negation variant before 'r'), not a root. It is a bound morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "irresponsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ity is a suffix that forms nouns from adjectives, not a root. It is a bound morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "incomprehensible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix (negation), not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
     "word": "compartmentalize",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as compartment + al + ize, but this misrepresents the actual morphology. The correct split should be compartment + alize, where 'alize' is a single suffix (not 'al' + 'ize'). The intermediate step 'compartmental' (adjective) is skipped.",
-    "suggestion": "Split as: compartment + alize (or compartment + al + ize if the entry explicitly wants to show the layered morphology, but then 'al' should be marked as creating an intermediate adjective form)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "al is a suffix that forms adjectives, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ize is a suffix that verbalizes nouns/adjectives, not a root. It is a bound morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix (negation), not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "incompatibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ity is a suffix that forms nouns from adjectives, not a root. It is a bound morpheme.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "carefully",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The explanation states 'Beautiful becomes beautiful, careful becomes soigneux' which is confusing and incorrect phrasing. It should clarify that 'careful' becomes 'soigneux' (careful/attentive).",
-    "suggestion": "Revise to: 'Careful devient soigneux, helpful devient utile, beautiful devient beau.' Remove the redundant 'Beautiful becomes beautiful'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ful is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "carefully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "carelessly",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The French translation 'Il a laissé tomber la tasse sans soin' is awkward. 'Sans soin' is a literal translation but unnatural in French when describing an action. More natural phrasing would use 'négligemment' or 'par inadvertance'.",
-    "suggestion": "Change to: 'Il a laissé tomber la tasse négligemment.' or 'Il a maladroitement laissé tomber la tasse.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "carelessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "carelessness",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'la casse d'une assiette' is awkward French. The natural phrasing would be 'la casse d'une assiette' or more naturally 'l'assiette s'est cassée'. Better: 'la rupture d'une assiette' or simply 'la casse d'une assiette' with context.",
-    "suggestion": "Change to: 'Son manque de soin a causé la casse d'une assiette.' or 'Son inattention a entraîné la rupture d'une assiette.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "carelessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ness is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "helpfully",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The French translation 'Elle a expliqué les instructions de façon utile' is somewhat awkward. More natural French would use the adverb 'utilement' or rephrase differently.",
-    "suggestion": "Change to: 'Elle a expliqué utilement les instructions.' or 'Elle a expliqué les instructions avec utilité.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ful is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "helplessly",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The word order in 'Il a regardé sans pouvoir agir l'accident se dérouler' is awkward. The adverbial phrase should come later or the sentence structure should be revised.",
-    "suggestion": "Change to: 'Il a regardé l'accident se dérouler sans pouvoir agir.' or 'Il a regardé impuissamment l'accident se dérouler.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "helplessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "helplessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-less is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "helplessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ness is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
   },
   {
     "word": "hopefully",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The primary translation should reflect the standard adverbial meaning. While 'hopefully' can express a wish, the most common contemporary usage is the sentence adverb meaning 'it is hoped that' or 'let us hope that', which is better captured as 'espérons-le' or 'pourvu que'. The current translation 'heureusement' (fortunately) is misleading.",
-    "suggestion": "Change to 'espérons-le ; avec l'espoir que' or similar to reflect the actual usage, or note the prescriptivist controversy around this usage",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "hopelessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-less is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "hopelessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ness is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "hopelessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-less is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "hopelessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
   },
   {
     "word": "thankfully",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "Like 'hopefully', 'thankfully' as a sentence adverb means 'fortunately/it is fortunate that', not literally 'with thankfulness'. The translation 'heureusement' is correct for the standard modern usage, but the secondary gloss 'avec reconnaissance' (with gratitude) does not match how the word is actually used in English in the example sentence.",
-    "suggestion": "Change to 'heureusement' alone, or add a note that the 'avec reconnaissance' sense is archaic/rare",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thankfully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound derivational morpheme that follows the root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ful is a suffix, not a root. It's a bound morpheme that attaches to roots to form adjectives.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ness is a suffix, not a root. It's a bound morpheme that attaches to adjectives to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "thoughtfully",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The homeLangDetails for '-ly' incorrectly states it 'Forme aussi des adjectifs : ami, joli' (also forms adjectives: friend, pretty). This is inaccurate. The '-ly' suffix primarily forms adverbs from adjectives; it does not form adjectives from nouns in standard English morphology.",
-    "suggestion": "Remove the clause about forming adjectives. Revise to: \"Forme des adverbes à partir des adjectifs, signifiant « de manière [adjectif] ». Rapidement, joyeusement, surprenamment. C'est un peu comme le français qui utilise souvent -ment pour former les adverbes.\"",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ful is a suffix, not a root. It's a bound morpheme that attaches to roots to form adjectives.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thoughtfully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root. It's a bound morpheme that attaches to adjectives to form adverbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thoughtlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root. It's a bound morpheme that attaches to nouns or roots to form adjectives meaning 'without'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "thoughtlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ness is a suffix, not a root. It's a bound morpheme that attaches to adjectives to form nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root. It's a bound morpheme that attaches to nouns or roots to form adjectives meaning 'without'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ly is a suffix, not a root. It's a bound morpheme that attaches to adjectives to form adverbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "less is a suffix, not a root. It's a bound morpheme that attaches to nouns or roots to form adjectives meaning 'without'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "fearlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ness is a suffix, not a root. It's a bound morpheme that attaches to adjectives to form nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "peacefully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound morpheme that derives adjectives from nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "peacefully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound morpheme that derives adverbs (and adjectives) from other words.",
+    "suggestion": "suffix"
   },
   {
     "word": "beautifully",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The first part should be 'beautiful' (the adjective), not 'beauty' (the noun). The morphological chain is beauty → beautiful (+ -ful) → beautifully (+ -ly). Currently, the entry conflates the noun 'beauty' with what should be the adjective 'beautiful'.",
-    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beautiful', and adjust the homeLang/homeLangDetails to reflect that 'beautiful' is already the adjective form (beauty + -ful = beautiful)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound morpheme that derives adjectives from nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "beautifully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
-    "suggestion": "Change exampleTranslation to 'Elle chantait magnifiquement au concert.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound morpheme that derives adverbs (and adjectives) from other words.",
+    "suggestion": "suffix"
   },
   {
     "word": "successfully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
-    "suggestion": "Change exampleTranslation to 'Le projet a été complété avec succès à temps.' or 'Le projet a été menée à bien à temps.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound morpheme that derives adjectives from nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "successfully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound morpheme that derives adverbs (and adjectives) from other words.",
+    "suggestion": "suffix"
   },
   {
     "word": "powerfully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation is in English, not French. It should be translated to French to match the pattern of other entries.",
-    "suggestion": "Change exampleTranslation to 'L'orateur a présenté un argument puissamment convaincant.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ful is a suffix, not a root. It is a bound morpheme that derives adjectives from nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "powerfully",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix, not a root. It is a bound morpheme that derives adverbs (and adjectives) from other words.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-less is a suffix, not a root. It is a bound morpheme that derives adjectives from nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ness is a suffix, not a root. It is a bound morpheme that derives nouns from adjectives.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'un-' is marked as 'root' but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'employ' is marked as 'root' but should be 'root'. However, in context this is correct only if we recognize 'employ' as the root. The issue is that parts[2] '-ment' is also marked 'root' when it should be 'suffix'.",
+    "suggestion": "Change parts[2].morphemeType to 'suffix'"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ment' is marked as 'root' but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "development",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'de-' is marked as 'root' but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "development",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ment' is marked as 'root' but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'in-' is marked as 'root' but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ement' is marked as 'root' but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "improvement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme is glossed as 'prouver' (prove), but in 'improve' the root 'prov' does not mean 'prove'. While both come from Latin probare, 'improve' means to make better, not to prove. The gloss conflates two different English words with different semantic histories.",
-    "suggestion": "Change homeLang to 'améliorer' or 'rendre meilleur' to accurately reflect the meaning in 'improve', or clarify that while the Latin root is shared with 'prove', the semantic connection is indirect and the primary sense here is 'make better'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'im-' is marked as 'root' but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ement' is marked as 'root' but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "advertisement",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang",
-    "issue": "The morpheme 'ise' is incomplete. In British English, the word is 'advertisement' which comes from 'advertise' + suffix. The suffix should be 'ize/-ise' (the infinitive verb formant), but the split shows only 'ise' without accounting for the 'e' that gets added before the nominalizing '-ment'. More critically, 'advertisment' would be the intermediate form, but the entry jumps from 'ise' directly to 'ment' without clarifying that these combine as '-isement' in French-influenced nominalizations.",
-    "suggestion": "Consider whether the split should be: ad + vert + ise + ment, or whether it's clearer to present it as ad + vert + ise + ment where '-isement' is understood as a combined suffix. Alternatively, note that in American English 'advertisement' is pronounced with stress on 'ad', suggesting the morphology may be ad + vertisement.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'ad-' is marked as 'root' but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ise' is marked as 'root' but it is a derivational suffix that converts words into verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ment' is marked as 'root' but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "entertainment",
-    "category": "frozen_compound",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ment is labeled as \"root\" but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "entertainment",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss \"tenir\" (to hold) is too vague for a tile label. In the context of \"entertain\", the morpheme should be glossed more specifically as the sense of \"holding attention\" or simply use the glossary convention \"(tenir)\" with parentheses to indicate it's a bound root.",
+    "suggestion": "Change to \"tenir\" or \"(tenir)\" to match glossary convention"
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"re\" is labeled as \"root\" but it is a prefix (bound morpheme that precedes the root).",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ment is labeled as \"root\" but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'enter' does not come from French 'entrer'. In 'entertain', 'enter-' is a prefix from Old French 'entre-' (between), not the verb 'entrer'. The analysis misleads by suggesting 'enter' = 'entrer'.",
-    "suggestion": "Change parts[0].homeLang to 'entre-' or 'entre' with homeLangDetails explaining it's a prefix meaning 'between' from Old French 'entre-', not the verb 'entrer'.",
-    "source_file": "en-fr.json"
+    "issue": "The gloss \"ré-/encore\" violates the homeLang label convention. Prefixes should use parentheses and be concise. The glossary shows \"re\" maps to \"ré-/de nouveau\" but the tile label is too long.",
+    "suggestion": "Change to \"(re)\" or \"(ré-)\" for brevity"
   },
   {
     "word": "retirement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The claim that 'tired' comes from 'tir' (to tire/pull) is etymologically false. 'Tired' (fatigued) is unrelated to 'tire' (to pull). This is a false cognate explanation that confuses two homonyms.",
-    "suggestion": "Remove the sentence 'La même racine apparaît dans tired (fatigué d'être tiré).' It is incorrect.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"re\" is labeled as \"root\" but it is a prefix (bound morpheme that precedes the root).",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "retirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ment is labeled as \"root\" but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "retirement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss \"ré-/encore\" violates the homeLang label convention. Prefixes should use parentheses and be concise. The glossary shows \"re\" maps to \"ré-/de nouveau\" but the tile label is too long.",
+    "suggestion": "Change to \"(re)\" or \"(ré-)\" for brevity"
   },
   {
     "word": "department",
-    "category": "incomplete_split",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'part' lacks a homeLang gloss and homeLangDetails. 'Part' comes from Latin 'pars' and should have translation and etymology provided for consistency with other entries.",
-    "suggestion": "Add homeLangDetails: 'Du latin pars (partie, portion).' This ensures 'part' is fully documented.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"de\" is labeled as \"root\" but it is a prefix (bound morpheme that precedes the root).",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "department",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ment is labeled as \"root\" but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to \"suffix\""
+  },
+  {
+    "word": "department",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss \"dé-/loin\" violates the homeLang label convention. Prefixes should use parentheses and be concise. The glossary shows \"de\" maps to \"vers le bas/défaire\" but the tile label is too long and imprecise.",
+    "suggestion": "Change to \"(de)\" or \"(away)\" for brevity"
   },
   {
     "word": "replacement",
-    "category": "incomplete_split",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'place' lacks homeLangDetails. For consistency with other entries, it should include etymology and meaning.",
-    "suggestion": "Add homeLangDetails explaining 'place' comes from Old French 'place' (an open space) from Latin 'platea'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix \"re\" is labeled as \"root\" but it is a prefix (bound morpheme that precedes the root).",
+    "suggestion": "Change morphemeType to \"prefix\""
   },
   {
-    "word": "unexpectedly",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme structure is incomplete. 'unexpected' should be split into 'un' + 'expect' + 'ed', but then the full word is 'unexpectedly', which requires the '-ly' suffix to form the adverb. The entry shows 4 parts but 'expect' + 'ed' should ideally be combined into 'unexpected' as an intermediate step before adding '-ly', or the morphological analysis should clarify that 'ed' here is part of the adjective formation rather than past tense.",
-    "suggestion": "Reconsider the split: either show 'un' + 'expected' + 'ly', or clarify that 'ed' is the adjectival suffix (not past participle) that converts 'expect' into the adjective 'expected', which then takes 'ly' to form the adverb.",
-    "source_file": "en-fr.json"
+    "word": "replacement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ment is labeled as \"root\" but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to \"suffix\""
   },
   {
-    "word": "unexpectedly",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'expect' is glossed as 'attendre' (to wait/await), but 'expect' means 'to anticipate' or 'to expect', not simply 'to wait'. The French 'attendre' has a different primary meaning.",
-    "suggestion": "Change homeLang to 'attendre à' or 's'attendre à' (to expect), or use 'anticiper' to be more precise about the semantic meaning of English 'expect'.",
-    "source_file": "en-fr.json"
+    "word": "replacement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss \"ré-/encore\" violates the homeLang label convention. Prefixes should use parentheses and be concise. The glossary shows \"re\" maps to \"ré-/de nouveau\" but the tile label is too long.",
+    "suggestion": "Change to \"(re)\" or \"(ré-)\" for brevity"
   },
   {
     "word": "unfortunately",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'tristement' (sadly/sadly) is not an accurate translation for 'unfortunately'. 'Unfortunately' means 'malheureusement' or 'hélas', expressing regret about a situation, whereas 'tristement' describes a manner of sadness. The primary meaning is regret, not sadness.",
-    "suggestion": "Change translationShort to 'malheureusement, hélas' and remove 'tristement', or keep only 'malheureusement'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root. It is a bound morpheme that precedes the root to negate or reverse meaning.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "unfortunately",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "Same issue as translationShort: 'tristement' is inaccurate. It should focus on 'malheureusement' and 'hélas' as the primary translations.",
-    "suggestion": "Change translationLong to 'malheureusement, hélas, regrettablement' and remove 'tristement'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "fortunate is a root/base word, but -ly is being treated as if it is also a root. The second part should be marked as root, but it actually is.",
+    "suggestion": "No change needed — fortunate is correctly marked as root"
+  },
+  {
+    "word": "unfortunately",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ly is a suffix that forms adverbs from adjectives, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ed is a suffix forming the past participle/adjective form, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "-ly is a suffix forming adverbs, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] has no morphemeType set. -y is a suffix forming adjectives.",
+    "suggestion": "Set morphemeType to 'suffix'"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unreasonable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-able is a suffix forming adjectives meaning 'capable of being', not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unacceptable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "un- is a prefix, not a root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unacceptable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-able is a suffix forming adjectives, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unavoidable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'un' is marked as 'root' but it is a bound prefix that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unavoidable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'avoid' is correctly marked as 'root', but 'able' which follows should be a suffix, not a root.",
+    "suggestion": "Change parts[2].morphemeType to 'suffix'"
+  },
+  {
+    "word": "unavoidable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-able' is marked as 'root' but it is a bound suffix that follows the root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unimportant",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'un' is marked as 'root' but it is a bound prefix that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unimportant",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'important' is too long for a tile label. It should be shortened or marked with a grammatical indicator.",
+    "suggestion": "Use '(adj)' or shorten to 'important'"
   },
   {
     "word": "unwillingness",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as un + will + ing + ness, but 'willing' is the actual adjective form. The morpheme 'willing' (adjective) should be kept together as the base before 'ness' is applied. The current split suggests 'willing' is decomposed into 'will + ing', which is technically correct but misleading because 'unwillingness' is formed from 'unwilling' (un + willing) + ness, not from 'un + will + ing + ness'.",
-    "suggestion": "Split as: un + willing + ness, where 'willing' is the adjective form derived from 'will'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'un' is marked as 'root' but it is a bound prefix that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(gérondif)' is misleading. The '-ing' here is part of the noun form 'willing', forming the gerund 'willingness'. The label should indicate this is a verbal noun or gerund suffix, not just a grammatical marker.",
+    "suggestion": "Use '-ing' or '(gérondif)' is acceptable but context matters; however, in 'unwillingness', the morpheme is actually part of 'willingness' where '-ing' creates a noun from 'will'. Consider '-ing' alone."
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ing' in this context is a suffix forming a noun from the verb/adjective root, not a root itself.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ness' is marked as 'root' but it is a bound suffix that follows the root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "reconsider",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 're' is marked as 'root' but it is a bound prefix that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "reconsideration",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as re + consider + tion, but 'consideration' is itself a complete morphological unit (consider + tion). The split should reflect that reconsideration = re + consideration, not re + consider + tion, since 'consideration' is the noun form that 'reconsideration' builds upon.",
-    "suggestion": "Split as: re + consideration, or if you want to show all morphemes: re + consider + ation (using the Latin suffix -ation rather than -tion to match French -ation).",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 're' is marked as 'root' but it is a bound prefix that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "reconsideration",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a bound suffix that follows the root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "reorganize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
     "word": "reorganization",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "\"réarragement\" is a misspelling; the correct French word is \"réarrangement\" (with two 'r's).",
-    "suggestion": "Change \"réarragement\" to \"réarrangement\"",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
     "word": "reorganization",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "\"réarragement\" is a misspelling; the correct French word is \"réarrangement\" (with two 'r's).",
-    "suggestion": "Change \"réarragement\" to \"réarrangement\"",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "organ- is a root, but the entry also includes -ize and -ation as separate parts. The morphemeType for organ should remain root, but parts[2] and parts[3] are incorrectly marked as roots when they are suffixes.",
+    "suggestion": "Change parts[2] morphemeType from 'root' to 'suffix' and parts[3] morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-iz/-ize is a suffix forming verbs, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "-tion is a nominalization suffix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss should isolate the root 'organ' (organiser in French), not repeat the full verb form. The homeLang is too verbose for a tile label.",
+    "suggestion": "Change to 'organiser' or simply 'organ'"
+  },
+  {
+    "word": "reintroduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "reintroduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "introduc- is a root, but it should be marked as such only if it is the lexical root. In this analysis, it is correct as root. However, part[2] -tion is incorrectly marked as suffix when the current morphemeType is suffix — this is actually correct, so no flag needed here.",
+    "suggestion": ""
+  },
+  {
+    "word": "reconnect",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
     "word": "recycling",
-    "category": "false_cognate",
-    "field": "parts[2]",
-    "issue": "The English suffix '-ing' (forming gerunds/present participles) is glossed as French '-age' (nominalizing suffix). While both create nouns from verbs, they are not equivalent morphemes. The '-ing' in 'recycling' functions differently than '-age' in 'recyclage'.",
-    "suggestion": "Clarify that '-ing' is an English gerundive suffix that corresponds to '-age' in French in meaning but not in morphological function, or note that 'recycling' is the present participle/gerund form.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "-ing is not -age. The glossary lists 'ing → -ing', not '-age'. This is a wrong gloss.",
+    "suggestion": "Change from '-age' to '-ing'"
+  },
+  {
+    "word": "recycling",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ing is a suffix, not a root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "communication",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The split 'com-mun-ication' is incorrect. The word should be split as 'com-' (prefix) + 'munic-' (root meaning 'common/communicate') + '-ation' (suffix). The current split treats 'mun' as a standalone morpheme and 'ication' as the suffix, but 'munic' is the actual root and '-ation' is the suffix.",
-    "suggestion": "Split as: com- (prefix) / munic- (root: 'communicate/common') / -ation (suffix)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "com is a prefix, not a root. It's a productive combining form meaning 'together/with'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "mun is a root meaning 'common/shared', not a standalone root—it combines with prefix com to form the verbal base.",
+    "suggestion": "root"
+  },
+  {
+    "word": "communication",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ication is a suffix (a variant of -tion used after certain roots), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "education",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The prefix is listed as 'e' but the Latin prefix is 'ex-' (meaning 'out of'). The single letter 'e' is misleading as it suggests the entire prefix, when in fact 'ex-' becomes 'e-' only when assimilated before certain consonants. The entry should clarify this is the assimilated form of 'ex-'.",
-    "suggestion": "Change 'e' to 'ex-' or clarify in homeLangDetails that this is the assimilated form of 'ex-' before 'd'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "Missing morphemeType; 'e' here is the prefix ex- (meaning 'out of'), should be marked as prefix.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss 'é-/hors de' is inconsistent with glossary and contains an accent mark that is unclear. Should follow canonical glossary form.",
+    "suggestion": "ex"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix (action/process noun former), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in is a prefix (meaning 'in/into' in this context), not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a suffix (action/result noun former), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "introduction",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The split shows 'intro' as a single morpheme, but this is incomplete. 'Intro' should be split further into 'in-' (prefix, 'into') + 'tro-' (root, from 'trahere' meaning 'to lead/carry'). The current entry treats 'intro' as a monolithic unit when it contains the prefix 'in-' and root elements.",
-    "suggestion": "Split as: in- (prefix: 'into') / tro- (root element from 'trahere') / duc- (root: 'to lead') / -tion (suffix), or at minimum clarify that 'intro-' contains the prefix 'in-' + 'tro-'",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss 'intra-/dans' is inaccurate. The prefix is 'intro' (meaning 'towards the inside/inward'), not 'intra' (which means 'within').",
+    "suggestion": "vers l'intérieur"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro is a prefix, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "duc is a root (from Latin ducere, 'to lead/conduct'), correctly identified as root—no issue here, but confirming.",
+    "suggestion": "root"
+  },
+  {
+    "word": "production",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro is a prefix, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro is a prefix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "nunc is a root element, but the whole entry should be split differently; nunc/phon are typically combined as a root. Current split treats nunc as standalone root, which is incorrect.",
+    "suggestion": "parts[1] should be 'root' (phon-, not nunc-); this is a wrong_boundary issue"
   },
   {
     "word": "pronunciation",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The morpheme split is incorrect. 'pronunciation' should be split as 'pro-' + 'nunci' + '-ation', not 'pro' + 'nunc' + 'iation'. The root is 'nunci-' (from Latin 'nuntiare', to announce), not 'nunc'.",
-    "suggestion": "Correct the split to: pro- (forward) + nunci- (announce/speak) + -ation (noun suffix)",
-    "source_file": "en-fr.json"
+    "issue": "The split pro-nunc-iation is incorrect. The word is pro-nun-ci-ation; 'nunc' is not a morpheme. Should be: pro- (prefix) + nounce/nounc (root from Latin nuntiare) + -iation (suffix).",
+    "suggestion": "Correct split: pro + nounc + iation, or pro + nounce + ation"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "iation is a suffix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ex is a prefix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "plan is a root, but the split is incorrect. The morpheme is 'plane' or 'plain' (from Latin planare), not 'plan'.",
+    "suggestion": "Should be 'root' but the part itself should be plane/plain, not plan"
   },
   {
     "word": "explanation",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The morpheme split is incorrect. 'explanation' should be split as 'ex-' + 'plic' + '-ation', not 'ex' + 'plan' + 'ation'. The root is 'plic-' (from Latin 'plicare', to fold/unfold), meaning 'to unfold' or 'make clear', not 'plat' (flat).",
-    "suggestion": "Correct the split to: ex- (out) + plic- (unfold/fold) + -ation (noun suffix)",
-    "source_file": "en-fr.json"
+    "issue": "Split ex-plan-ation is problematic. The correct split is ex- (prefix) + plain (root) + -ation (suffix). 'plan' alone is not the correct morpheme boundary.",
+    "suggestion": "Correct split: ex + plain + ation (or ex + plane + ation)"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ex is a prefix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "am is glossed as 'peser' (to weigh), but in 'examination' the root is from Latin examinare (to weigh, test, examine). The gloss 'peser' is the etymological sense but misleads about its modern semantic contribution. Better gloss: 'tester' or just 'exam'.",
+    "suggestion": "Change to 'tester' or align with the canonical glossary's intent"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "am is a root, but in this context it is part of the root examine. Current split treats it as standalone root which is technically correct for this morphology, but the morpheme boundary may be questioned.",
+    "suggestion": "Keep as 'root' (acceptable), but consider if examin- should be the root"
   },
   {
     "word": "examination",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The morpheme split is incorrect. 'examination' should be split as 'ex-' + 'amin' + '-ation', not 'ex' + 'am' + 'ination'. The root is 'amin-' (from Latin 'examinare', to weigh/test), not 'am' (weigh).",
-    "suggestion": "Correct the split to: ex- (out) + amin- (weigh/test) + -ation (noun suffix). Also, 'am' alone is not the correct root morpheme.",
-    "source_file": "en-fr.json"
+    "issue": "Split ex-am-ination is debatable. The standard modern morphological split is ex- (prefix) + amin/amin (root from examine) + -ation (suffix), or more naturally: ex- + min + -ation. Current split 'am' may be too narrow.",
+    "suggestion": "Consider: ex + amin + ation or ex + min + ation"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ination is a suffix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "im is a prefix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "ag is glossed as 'image', but the root here is 'imag-' (from Latin imago, image). 'ag' alone is not the correct morpheme; it should be 'imag' or 'image'.",
+    "suggestion": "Change to 'image' (as the full root component, not just 'ag')"
   },
   {
     "word": "imagination",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The morpheme split is incorrect. 'imagination' should be split as 'im-' + 'agin' + '-ation', not 'im' + 'ag' + 'ination'. The root is 'agin-' (from Latin 'imaginari', to form mental images), not 'ag' (image).",
-    "suggestion": "Correct the split to: im- (in/into) + agin- (image/picture) + -ation (noun suffix). 'ag' is too short and does not represent the actual root.",
-    "source_file": "en-fr.json"
+    "issue": "Split im-ag-ination is incorrect. The correct split is im- (prefix) + ag-in (root from imagine) + -ation (suffix), or more naturally: im- + agin + -ation. 'ag' alone is too narrow.",
+    "suggestion": "Correct split: im + agin + ation"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ag is labeled root, but should be part of a larger root or root+linking. In standard analysis, 'ag' is too narrow.",
+    "suggestion": "If kept as 'ag': reconsider if it truly is a root; if the split is 'im + agin + ation', then 'agin' is the root"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ination is a suffix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "population",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The second part 'ulation' should be split further into '-ul' and '-ation', or more accurately, the split should show '-ation' as the suffix. Currently 'ulation' obscures the structure.",
-    "suggestion": "Split as: pop- (people) + -ul (diminutive/agent) + -ation (noun suffix), or simply: pop- (people) + -ation (noun suffix)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ulation is a suffix, not a root",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "conversation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "\"une discussion informelle\" is too narrow. A conversation can be formal or informal; the key is that it's an exchange of ideas between people.",
-    "suggestion": "un échange de paroles / une discussion entre des personnes",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vers is a root (the primary meaning-bearing morpheme), which is correct, but part[2] should be suffix not root",
+    "suggestion": "parts[1] morphemeType is correct as 'root'"
+  },
+  {
+    "word": "conversation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ation is a derivational suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "col is a prefix (variant of con- preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "reflection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "\"le renvoi de la lumière\" is incomplete and overly technical. Reflection has multiple meanings: it includes the act of reflecting light, but also the noun meaning 'contemplation' or 'thoughtful consideration', which are equally important.",
-    "suggestion": "un reflet / une pensée réfléchie / une méditation",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "re- is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and over-explanatory for a tile. Should use the standard prefix notation.",
+    "suggestion": "Change to 're-/arrière' or just '(back)'"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "pro- is a prefix (bound morpheme preceding the root), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a derivational suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "invitation",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'vit' does not correspond to 'appeler' in English. The correct split should be 'invit' (from Latin invitare, to invite) + '-ation'. The 'v' belongs with the root, not separated as 'in-vit'.",
-    "suggestion": "Change parts[1].targetLang to 'vit' or better yet 'invit' to properly reflect the invite root, with homeLang as 'inviter' (to invite)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'in-' is marked as 'root' but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'vit' (meaning 'call') is marked as 'root' but should reflect that it is the root component.",
+    "suggestion": "Keep as 'root' — this is correct, no flag needed"
+  },
+  {
+    "word": "invitation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a bound suffix forming nouns from verbs.",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "preparation",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme split 'par' does not accurately represent the structure. The root is 'parare' (to prepare), so it should be 'par' (prepare root) but the homeLang translation 'préparer' is the full infinitive, not the root meaning.",
-    "suggestion": "Change parts[1].homeLang to something like 'apprêter' or 'préparer (root)' to clarify it's the root form of prepare",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'pre-' is marked as 'root' but it is a bound prefix, not a root morpheme.",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'par' is marked as 'root' which is correct, but in context of 'prepare', it functions as the root.",
+    "suggestion": "Keep as 'root' — this is correct, no flag needed"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a bound suffix forming nouns.",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "organization",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The French translation 'L'organisation travaille pour aider ceux dans le besoin' is grammatically awkward. 'Ceux dans le besoin' should be 'ceux qui en ont besoin' or 'les nécessiteux'.",
-    "suggestion": "Change to 'L'organisation travaille pour aider ceux qui en ont besoin.' or 'L'organisation œuvre pour aider les personnes dans le besoin.'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The root 'organ' is marked as 'root' which is correct.",
+    "suggestion": "Keep as 'root' — this is correct, no flag needed"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The derivational suffix '-ize' is marked as 'root' but it is a bound suffix that forms verbs.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a bound suffix forming nouns.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The root 'simpl' is marked as 'root' which is correct.",
+    "suggestion": "Keep as 'root' — this is correct, no flag needed"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix '-ific' (as in '-ify') is marked as 'root' but it is a bound suffix forming verbs.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a bound suffix forming nouns.",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "satisfaction",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The split 'sat-is-faction' is incorrect. 'Faction' is not a standalone morpheme meaning '-tion'; it's part of 'satisfy' (sat + is + fy) + ation. The morpheme boundaries are wrong.",
-    "suggestion": "Revise to: 'sat' (enough/enough), 'is' (to make), 'fy' (-fy suffix), 'ation' (-tion suffix), or simply 'satisfy' + 'ation'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The root 'sat' is marked as 'root' which is correct.",
+    "suggestion": "Keep as 'root' — this is correct, no flag needed"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The bound morpheme 'is' (meaning 'make/do') is marked as 'root' but should be recognized as a root component within the word structure.",
+    "suggestion": "Keep as 'root' — this is correct as it is a bound root, no flag needed"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-tion' is marked as 'root' but it is a bound suffix forming nouns.",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ific is a suffix (-ifier), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ific is a suffix (-ifier), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The morpheme split is incorrect. 'e-val-uation' treats 'e' as a prefix and 'uation' as a suffix, but the correct structure is 'e-valu-ation'. The root is 'valu' (from Latin 'valere', meaning to be strong/worth), not just 'val'. The suffix '-uation' is not a standard morpheme; it should be '-ation' with the linking vowel 'u' from 'valu'.",
-    "suggestion": "Split as: e- (ex-), valu (valeur), -ation (-tion)",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "In evaluation, 'e' is part of the prefix 'ex-' but homeLang shows only 'ex-' without clarifying it is a prefix here; more importantly, the split is awkward. The morpheme should be labeled as the prefix form.",
+    "suggestion": "ex-"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "e/ex is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "val is a root, but it is part of the compound; in this word context it functions as the meaning-bearing element within a bound structure",
+    "suggestion": "root"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "uation is a suffix (-tion), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "understandable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "under is a prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "understandable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "able is a suffix (-able), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "affordable",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "'affordance' is a modern technical term from philosophy/UX design and does not accurately gloss the morpheme 'afford' in 'affordable'. The verb 'afford' means 'to have sufficient means for' or 'to be able to do something without detriment'. The homeLang gloss should reflect the verb's actual meaning, not a derived technical term.",
-    "suggestion": "Change homeLang to 'pouvoir se permettre' or 'avoir les moyens'",
-    "source_file": "en-fr.json"
+    "issue": "afford should be glossed as its meaning 'pouvoir payer/se permettre', not as the technical term 'affordance'",
+    "suggestion": "pouvoir payer"
+  },
+  {
+    "word": "affordable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "able is a suffix (-able), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "dependable",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix '-able' is marked as 'root', but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'in-' is marked as 'root', but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'cred' is correct as 'root', but parts[2] is mislabeled.",
+    "suggestion": "parts[2] should be 'suffix' not 'root'"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ible' is marked as 'root', but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'in-' is marked as 'root', but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ible' is marked as 'root', but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "impossible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as im + poss + ible, but 'poss' is not a morpheme. The correct split should be im + possible, where 'possible' is the base word being negated.",
-    "suggestion": "Split as: im (prefix) + possible (base word). The '-ible' suffix should not be separated as a distinct morpheme here since 'possible' is already a complete word.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'im-' is marked as 'root', but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ible' is marked as 'root', but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "irresponsible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as ir + respons + ible, but 'respons' is not a morpheme. The correct split should be ir + responsible, where 'responsible' is the base word being negated.",
-    "suggestion": "Split as: ir (prefix) + responsible (base word). The '-ible' suffix should not be separated as a distinct morpheme here since 'responsible' is already a complete word.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'ir-' is marked as 'root', but it is a prefix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ible' is marked as 'root', but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "irreversible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The part 'reverse' should be further split into 're-' (prefix meaning 'again' or 'back') and 'verse' (from Latin vertere, to turn). This would better show the morphological structure and align with how the word is actually constructed.",
-    "suggestion": "Split 'reverse' into 're' (re-) and 'verse' (tourner/vers), making the full analysis: ir- + re- + verse + -ible",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "prefix 'ir-' is marked as 'root' but should be 'prefix'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "root 'revers' is marked as 'root' but should be 'root' — correct as is",
+    "suggestion": "root"
+  },
+  {
+    "word": "irreversible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "suffix '-ible' is marked as 'root' but should be 'suffix'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "prefix 'in-' is marked as 'root' but should be 'prefix'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "root 'destruct' is marked as 'root' but should be 'root' — correct as is",
+    "suggestion": "root"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "suffix '-ible' is marked as 'root' but should be 'suffix'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "international",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "prefix 'inter-' is marked as 'root' but should be 'prefix'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "international",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "root 'nation' is marked as 'root' — correct as is",
+    "suggestion": "root"
+  },
+  {
+    "word": "international",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "suffix '-al' is marked as 'root' but should be 'suffix'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "prefix 'super-' is marked as 'root' but should be 'prefix'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "root 'natur' is marked as 'root' — correct as is",
+    "suggestion": "root"
+  },
+  {
+    "word": "supernatural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "suffix '-al' is marked as 'root' but should be 'suffix'",
+    "suggestion": "suffix"
   },
   {
     "word": "prehistoric",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The second part 'historic' should be further split into 'history/history' and the suffix '-ic' (or '-ique' in French). This would show the complete morphological structure.",
-    "suggestion": "Split 'historic' into 'history' (histoire) and '-ic/-ique' (adjectival suffix), making the full analysis: pre- + history + -ic",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "prefix 'pre-' is marked as 'root' but should be 'prefix'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "prehistoric",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "root 'historic' is marked as 'root' — correct as is",
+    "suggestion": "root"
   },
   {
     "word": "antibiotic",
-    "category": "wrong_translation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "anti is a prefix, not a root. It's a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "bio is a root (bound root), but it's not the primary element here; however, it is root-like. The issue is that tic is a suffix -tic/-ique, not a root.",
+    "suggestion": "parts[1] is correct as root; flag parts[2] instead"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "tic is a derivational suffix (-tic → -ique), not a root. It converts the root into an adjective.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "submarine",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sub is a prefix, not a root. It's a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "auto is a prefix, not a root. It's a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "matic is a suffix/combining form that derives an adjective, not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ally is a suffix (-ally → -ment adverbial marker), not a root.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "television",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "tele is a prefix, not a root. It's a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "geo is a prefix meaning 'earth', not a root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "graph is a combining form/root element, not a root in the traditional sense, but more importantly -y is the actual suffix here that forms the noun",
+    "suggestion": "Change to 'root'"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The suffix '-tic' is glossed as '-ique', but '-tic' in English typically relates to 'pertaining to' or 'of the nature of'. The connection to French '-ique' is reasonable but incomplete; the homeLang should clarify that '-tic' means 'relating to' or similar.",
-    "suggestion": "Change homeLang to 'relatif à' or 'pertaining to' to better reflect the suffix's actual function",
-    "source_file": "en-fr.json"
-  },
-  {
-    "word": "automatically",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The suffix '-matic' is glossed as 'mouvant' (moving), but this is misleading. '-matic' comes from Greek 'automatos' and means 'of or relating to a machine or automatic process', not simply 'moving'. The gloss 'mouvant' does not accurately represent the morpheme's actual meaning.",
-    "suggestion": "Change homeLang to 'automatique' or 'relatif à une machine' to accurately reflect the suffix's meaning",
-    "source_file": "en-fr.json"
-  },
-  {
-    "word": "automatically",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into 'auto + matic + ally', but 'automatic' should logically be considered as a unit (auto + matic), with '-ally' as an adverbial suffix. The current split treats '-matic' in isolation, which obscures the structure 'automatic' + '-ally'.",
-    "suggestion": "Consider restructuring as: 'auto' (soi-même), 'matic' (with better gloss), 'ally' (-ment), or clarify that '-matic' is part of the adjective 'automatic' that is then adverbialized",
-    "source_file": "en-fr.json"
+    "issue": "The gloss '(noun)' is too vague. -y here is a nominalization suffix forming abstract nouns",
+    "suggestion": "-ie"
   },
   {
     "word": "responsibility",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The split 'respons' + 'ibility' is incorrect. The correct split should be 'respond' (or 'respons-') + '-ibility', as responsibility derives from respond, not from a root 'respons'.",
-    "suggestion": "Split as 'respond' + '-ibility' or adjust the targetLang to reflect the actual morpheme boundaries",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ibility is a suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "personality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ality is a suffix forming abstract nouns, not a root",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "popularity",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang gloss 'apprécié' (appreciated) is too narrow and not quite accurate. 'Popular' means 'liked, admired, or in favor with many people' — not specifically 'appreciated'. A better gloss would be 'populaire' or 'aimé du public'.",
-    "suggestion": "Change homeLang to 'populaire' or 'aimé du public'",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "popular is an adjective root, but in this context it is the base to which the suffix -ity is added; however, the morphemeType field should reflect its function as the root of the word",
+    "suggestion": "Keep as 'root' (this is actually correct)"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ity is a nominalization suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "electric is an adjective root, but serves as the base here; however, the field is set incorrectly as root when it should reflect the structural role",
+    "suggestion": "Keep as 'root' (this is actually correct)"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "-ity is a nominalization suffix, not a root",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -iv (forming adjectives like 'creative') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creativity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ity (forming nouns from adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -iv (forming adjectives like 'productive') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ity (forming nouns from adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "flexibility",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The first part is split as 'flex' with homeLang 'flexible', but 'flexible' is the complete adjective, not a morpheme. The actual morpheme should be 'flex' with homeLang 'flex' (the root), and then 'ible' should be '-ible' (the suffix that makes it an adjective).",
-    "suggestion": "Change parts[0].homeLang from 'flexible' to 'flex' (the root morpheme)",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ibil (forming adjectives like 'flexible' from 'flexib-') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "flexibility",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry shows flex + ible + ity, but 'ible' by itself is not a standalone morpheme in this context. The structure should acknowledge that '-ible' attaches to the root to form 'flexible', and then '-ity' attaches to that adjective. As presented, it suggests three independent parts that simply concatenate, which is misleading about how the word is actually built.",
-    "suggestion": "Clarify that 'ible' is the suffix '-ible' (parts[1].targetLang should be '-ible' or be marked as a suffix), making clear it's flex + -ible + -ity",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ity (forming nouns from adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "nationality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -al (forming adjectives like 'national') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "nationality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ity (forming nouns from adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ive (forming adjectives like 'effective') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "effectively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ly (forming adverbs from adjectives) should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creatively",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'-ive' is a suffix forming adjectives, not a root. The homeLang should reflect its function as a derivational suffix, not use the notation '-if/-ive' which suggests it's a standalone morpheme.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "creatively",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ly' is a suffix forming adverbs from adjectives, not '-ment'. While homeLangDetails correctly explains the function, the tile label should be brief and accurate. '-ment' is French; '-ly' should be glossed as '(adv)' or similar.",
+    "suggestion": "(adv)"
+  },
+  {
+    "word": "creatively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ive' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "creatively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ly' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'product' should be glossed as 'produit' (noun) or 'produire' (verb root). The current gloss 'produit' is ambiguous for a tile label in context of word formation.",
+    "suggestion": "produire"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'product' is a root (from Latin 'producere'), but the entry does not split it properly—'product' already includes the suffix '-ive' conceptually. However, as presented, 'product' is the root morpheme here.",
+    "suggestion": "root"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ive' is a suffix forming adjectives, not a root. The homeLang should reflect its function.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "'-ly' is a suffix forming adverbs, not '-ment'. The tile label should be brief and accurate.",
+    "suggestion": "(adv)"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ive' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "'-ly' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ive' is a suffix forming adjectives, not a root.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "'-ly' is a suffix forming adverbs, not '-ment'.",
+    "suggestion": "(adv)"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ive' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "attractively",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "'-ly' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "researcher",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The prefix 're-' in 'researcher' does not carry the meaning of repetition or 'doing again' that is described. 'Researcher' means someone who searches/researches, not someone who searches again. The 're-' here is etymologically from Old French 'resercher' but synchronically functions as part of the root 'research', not as a productive prefix meaning repetition.",
-    "suggestion": "Either remove the 're-' as a separate morpheme and treat 'research' as the base, or clarify that 're-' here is fossilized and does not carry productive meaning of repetition.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'re-' is a prefix, not a root.",
+    "suggestion": "prefix"
   },
   {
     "word": "researcher",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme split treats 'search' as an atomic unit, but 'search' itself could be analyzed further (from Old French 'cerchier'). However, more importantly, in modern English synchronic analysis, 'research' functions as a single morpheme/root, not 're+search' with productive prefix meaning.",
-    "suggestion": "Reconsider whether 're-' should be listed separately. The more accurate split would be 'research' (single root) + 'er', or provide clearer explanation that 're-' is not productive here.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-er' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "developer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-er' is a derivational suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "employer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -er suffix is marked as 'root' but it is a derivational suffix that forms agent nouns",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "employee",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang is listed as 'employer' but should be 'employé' or 'salarié'. The French cognate for the English root 'employ' is 'employer' (the verb), not the noun 'employer' (the person). This creates confusion with the employer entry.",
-    "suggestion": "Change homeLang from 'employer' to 'employé' to accurately reflect the French equivalent",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -ee suffix is marked as 'root' but it is a derivational suffix that marks the recipient of an action",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo is marked as 'root' but it is a bound combining form (prefix/element) derived from Greek; it cannot stand alone as an English root",
+    "suggestion": "Change to 'prefix' or a specialized 'combining form' type if available; otherwise 'prefix'"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -graph element is marked as 'root' but it is a bound combining form or suffix; it cannot stand alone",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -er suffix is marked as 'root' but it is a derivational suffix forming agent nouns",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'igat' is glossed as '-' (empty), which is uninformative. In 'investigator', this is part of the root 'investig-' (from Latin 'investigare'); the boundary is poorly chosen. The part should either be glossed with its actual meaning or the word boundary should be reconsidered.",
+    "suggestion": "Consider whether the split should be 'invest' + 'igat' + 'or', or if 'igat' should have a meaningful gloss reflecting 'investigate/search'"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'igat' part is marked as 'root' but it is a bound morpheme (part of a Latin-derived root or suffix) and cannot stand alone",
+    "suggestion": "Change to 'suffix' or consider merging with 'invest' as a single root"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -or suffix is marked as 'root' but it is a derivational suffix forming agent nouns",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "communicator",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The French translation uses 'Excellente communicatrice' which changes the gender and doesn't match the English subject 'she' consistently with the example sentence structure. More naturally, it should follow the pattern of the example.",
-    "suggestion": "Change to 'En tant que communicatrice compétente, elle excelle dans les présentations en public.' or 'Communicatrice douée, elle brille dans les présentations en public.' for better consistency",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -or suffix is marked as 'root' but it is a derivational suffix forming agent nouns",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "com is a prefix (con-/ensemble), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "mun is a root morpheme, but the overall entry treats all three parts as roots. mun should be 'root', but parts[0] should be 'prefix' and parts[2] should be 'suffix'",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verbalizing suffix from -atus), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "investigate",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme should be split as 'vestig' + 'ate', but 'vestig' is not the complete morpheme. The actual Latin root is 'vestig-' and the suffix should be '-ate', which is correct, but the boundary description is misleading because 'vestig' alone doesn't represent a complete meaningful unit in the way the homeLang suggests.",
-    "suggestion": "Consider clarifying that 'vestig' is a bound root (always requires a suffix) rather than implying it stands alone as 'trace'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "in- is a prefix, not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "vestig is a root morpheme, correct",
+    "suggestion": "Keep as 'root'"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verbalizing suffix), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "col is a prefix (con-/ensemble), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verbalizing suffix), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "participate",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'ticip' is glossed as 'prendre' (take), but this conflates Latin 'capere' (to take) with the Latin participium form. The segment '-icip-' is not a standalone morpheme meaning 'take'; it's part of the Latin 'participium' construction where 'part-' (part) combines with '-cipere' (a form of capere). The gloss should reflect that '-icip-' is a bound form related to 'capere', not 'prendre' as a standalone concept.",
-    "suggestion": "Change homeLang to 'capere/prendre' or 'forme de capere' and clarify in homeLangDetails that this is a bound morpheme derived from Latin capere.",
-    "source_file": "en-fr.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "par should be glossed as 'par' (the prefix) or more precisely aligned with the Latin pars meaning 'part', but the canonical entry shows 'par → préparer' in the glossary; however contextually here it means 'part' as shown in homeLangDetails. The gloss 'part' is correct in context",
+    "suggestion": "Keep as 'part' (correct per homeLangDetails logic, though glossary shows 'par → préparer')"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "par/part in participate is part of the root complex, not a standalone prefix. However, analyzing Latin participium: par- (from pars, 'part') functions as a prefix here",
+    "suggestion": "Change morphemeType to 'prefix' (par- is a prefix element)"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a suffix (verbalizing suffix), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "congratulate",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into 'con' + 'grat' + 'ulate', but 'ulate' itself should be further analyzed as '-ul-' (diminutive) + '-ate' (verbalizing suffix). The current split obscures the internal structure of the suffix.",
-    "suggestion": "Split as 'con' + 'grat' + 'ul' + 'ate' to show the diminutive/frequentative morpheme '-ul-' separately from the verbalizing '-ate'.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "con is a prefix (con-/ensemble), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
-    "word": "misinterpret",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as mis-inter-pret-et, but 'pret' is not a standalone morpheme. The correct split is mis-interpret, where 'interpret' itself contains inter- + pret (from Latin praetere). The morpheme 'pret' should not be isolated; it should be 'interpret' as a single unit.",
-    "suggestion": "Restructure to: mis + interpret (or if further splitting is desired: mis + inter + pret, but acknowledge that 'pret' alone is not a synchronic English morpheme). Remove the '-et' as a separate part; it is not part of modern English morphology.",
-    "source_file": "en-fr.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLang",
-    "issue": "The gloss 'préter/expliquer' is misleading. 'Pret' derives from Latin praetere but 'préter' in French means 'to lend', not 'to explain'. The explanation conflates the Latin etymology with modern French meaning.",
-    "suggestion": "Use 'prêt (from Latin praetere, meaning to go before/forth)' or simply reference the Latin root without claiming modern French 'préter' is the equivalent.",
-    "source_file": "en-fr.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "unnatural_example",
-    "field": "parts[3]",
-    "issue": "The claim that '-et' is an 'infinitif archaïque ou poétique' in English is incorrect. English 'misinterpret' is a regular verb with no archaic or poetic '-et' ending. English uses '-et' in Old English but not in modern English verbs.",
-    "suggestion": "Remove this part entirely or clarify that it is a Latin etymological remnant not synchronically functional in English morphology.",
-    "source_file": "en-fr.json"
+    "word": "congratulate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ulate is a suffix (verbalizing suffix), not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "deconstruct",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The entry for 'struct' lacks homeLang and homeLangDetails. This part is incomplete compared to the other morphemes.",
-    "suggestion": "Complete the entry: homeLang should be 'struct/build' or 'struct/structure' (from Latin struere), and add homeLangDetails explaining the morpheme.",
-    "source_file": "en-fr.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "de is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "con is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'dé-/down/undo' is too long for a tile label. Should use short parenthetical form matching the glossary convention.",
+    "suggestion": "(dé-) or (away) — keep to ~4 words maximum"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'con-/together' is acceptable but the homeLang field contains explanatory detail. Tile label should be concise.",
+    "suggestion": "(ensemble) or (con-) — per glossary convention"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "mis is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "inter is a prefix, not a root. It is a bound morpheme that precedes the root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "-et is a suffix/ending, not a root. It is a bound morpheme that follows the root.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'mal-/wrongly' is longer than conventional tile labels. Should use short parenthetical form.",
+    "suggestion": "(mal-) or (wrongly) — keep to ~4 words"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'inter-/between' is acceptable but contains explanatory detail. Tile label should match glossary convention.",
+    "suggestion": "(entre) or (inter-)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '(infinitif)' is correct but the morphemeType is wrong — et is a suffix, not a root. Also, the homeLangDetails are speculative; '-et' is not a standard English infinitive marker in modern English.",
+    "suggestion": "Keep homeLang as '(inf)' but correct morphemeType to 'suffix'"
   }
 ]

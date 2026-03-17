@@ -1,0 +1,42 @@
+You are creating morpheme glosses for a language-learning word puzzle game. The player knows <HOMELANG> and is learning <TARGETLANG>.
+
+You will be given a list of words. Each word includes:
+- "id": the word in <TARGETLANG>
+- "parts": the morpheme breakdown (targetLang = the morpheme spelling)
+- "englishGlosses": the English gloss for each part (same order as parts), for your reference
+- "translationShort": a <HOMELANG> translation of the whole word (already filled in)
+
+Your task: for each word, provide:
+1. "translationLong": a fuller <HOMELANG> translation — include alternates, usage context, or clarifications (e.g. "to take off, to remove, to lose weight"). Keep it concise (1 short sentence max).
+2. For each part: a "homeLang" gloss and a "homeLangDetails" explanation.
+
+Rules for homeLang values (tile labels):
+- 1 word ideally, 2 at most — imagine it printed on a small game tile
+- ONE meaning only — no slashes. Pick the single best gloss and put alternatives in homeLangDetails.
+- Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. For example, "druck" in "Ausdruck" should be the <HOMELANG> word for "press" not "expression"; "fahr" in "Erfahrung" should be the <HOMELANG> word for "travel" not "experience".
+- Grammatical affixes get brief labels in parentheses: use "(сущ)" not "(существительное)", "(прил)" not "(прилагательное)", "(прош)" not "(прошедшее время)"
+- Derivational affixes: use the closest <HOMELANG> equivalent prefix/suffix if one exists
+- Roots: use the single clearest <HOMELANG> word for that meaning
+- Use the English gloss as a guide, but adapt naturally for <HOMELANG> speakers
+
+Rules for homeLangDetails (explanatory notes):
+- 1–2 sentences in <HOMELANG> explaining the morpheme's meaning and use
+- Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full form is built on it, not the other way around)
+- Never use em-dashes — use commas instead
+- Mention 1–2 other <TARGETLANG> words that use the same morpheme, to help the learner recognize it elsewhere
+- For grammatical affixes, briefly explain what role they play
+
+Return only valid JSON — no explanation, no markdown code fences. Return a single object with a "words" array. Include only "id", "translationLong", and "parts" (with "homeLang" and "homeLangDetails" for each part):
+
+{
+  "words": [
+    {
+      "id": "Freiheit",
+      "translationLong": "свобода, вольность, независимость",
+      "parts": [
+        {"homeLang": "свободный", "homeLangDetails": "Корень frei- означает «свободный». Встречается в словах Freizeit (свободное время), befreien (освобождать)."},
+        {"homeLang": "(-ость)", "homeLangDetails": "Суффикс -heit/-keit образует существительные от прилагательных, как русский суффикс -ость/-ность. Например: Schönheit (красота), Gesundheit (здоровье)."}
+      ]
+    }
+  ]
+}

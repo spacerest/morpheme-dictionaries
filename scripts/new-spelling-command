@@ -1,0 +1,7 @@
+INSERT INTO "main"."entries"
+("target_lang", "home_lang", "word_id", "import")
+VALUES ('SPELLING', 'SPELLING', 'OPA', 1);
+
+INSERT INTO "main"."parts"
+("target_lang", "home_lang", "word_id", "part_index", "target_lang_text", "home_lang_text", "home_lang_details")
+VALUES ('SPELLING', 'SPELLING', 'OMI', 0, 'O', 'NULL', 'NULL');

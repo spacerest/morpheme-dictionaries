@@ -1,0 +1,72 @@
+[
+  {
+    "word": "fællesskab",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The homeLangDetails for fælles currently cites fællesskab itself as an example word, which is the entry being defined. The details note should use a different compound.",
+    "suggestion": "Replace the self-referential example with fællesrum or fællesvej, as shown in the corrected homeLangDetails fix above."
+  },
+  {
+    "word": "fornyelse",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLang",
+    "issue": "The for- prefix in fornyelse does not straightforwardly mean 'away/amiss' or even 'intensive' in the standard Danish sense — it functions more like a re- prefix (renew), which is why the original editor wrote a long caveat. This may be a lexicalized form where the prefix no longer has transparent compositional meaning.",
+    "suggestion": "Consider flagging this word as a frozen compound, or accept the gloss 'away/intensive' with the existing homeLangDetails caveat to guide the player."
+  },
+  {
+    "word": "udslettelse",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The -t is not a standard separable participial morpheme in Danish nominal derivation. The suffix -else attaches directly to the verb stem slette, with the -t being part of the stem allomorph or a spelling artifact, not a meaningful participial suffix tile.",
+    "suggestion": "Consider merging the -t into the root (slett-) or into the -else suffix (telse), rather than treating it as a standalone past-participle marker."
+  },
+  {
+    "word": "tidlig",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The connection between 'tid' (time) and 'tidlig' (early) is not transparent to modern speakers — 'early' is not a compositional or predictable meaning from 'time' + '-lig'.",
+    "suggestion": "Consider marking this as a frozen or semi-opaque compound, or adding a note that the semantic link is historical rather than compositional."
+  },
+  {
+    "word": "undervejs",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "'undervejs' is a fully lexicalized adverb meaning 'on the way / in progress'. The under- prefix does not straightforwardly mean 'under/below' or even 'during' in a compositional way recognizable to a learner, and vejs is a fossilized genitive. The tiles may mislead more than illuminate.",
+    "suggestion": "Consider treating as a single opaque root tile, or add a prominent note that this is a fixed expression whose parts are not compositionally transparent."
+  },
+  {
+    "word": "forståelig",
+    "category": "frozen_compound",
+    "field": "parts[0] + parts[1]",
+    "issue": "The entry's own homeLangDetails acknowledge that 'forstå' is a frozen compound where 'for-' + 'stå' no longer transparently yields 'understand'. Splitting it into three tiles (for + stå + elig) may pre-solve or mislead rather than help.",
+    "suggestion": "Consider treating 'forstå' as a single root tile glossed 'understand' + suffix '-elig' (-able), or add a clear caveat in homeLangDetails that the for+stå meaning is historical/non-compositional."
+  },
+  {
+    "word": "misforhold",
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "'for' and 'hold' are split as two roots, but 'for-' in 'forhold' is a lexicalized prefix, not a freestanding root with its glossary meaning. The word is structured as mis- + forhold, where 'forhold' is itself a compound/lexicalized noun.",
+    "suggestion": "Consider treating 'forhold' as a single root part glossed 'relation/condition', with a details note that it derives from for- + holde. This avoids misleading the player into thinking 'for-' here carries its independent away/intensive meaning."
+  },
+  {
+    "word": "selvforståelse",
+    "category": "frozen_compound",
+    "field": "parts[1] + parts[2]",
+    "issue": "'for-' + 'stå' form the frozen verb 'forstå' (to understand), where the prefix no longer transparently intensifies 'stand'. The morpheme boundary is structurally correct but the semantic link is opaque to learners.",
+    "suggestion": "Consider whether 'forstå' should be treated as a single root tile rather than split into 'for-' and 'stå', to avoid pre-solving 'selvforståelse' through a misleading literal reading."
+  },
+  {
+    "word": "stedfæste",
+    "category": "frozen_compound",
+    "field": "parts[0] + parts[1]",
+    "issue": "'stedfæste' is a compound verb where 'sted' + 'fæste' still has a reasonably transparent meaning (fix to a place), but the combination is a lexicalized technical/formal term. The split is defensible but the compositionality is partial.",
+    "suggestion": "Review whether the tile split adequately signals that this is a fixed, formal compound rather than a freely productive construction."
+  },
+  {
+    "word": "tidsbestemt",
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "The prefix 'be-' and the root 'stem' are split into separate parts, but their ordering in the entry places the morpheme type labels incorrectly: 'be' is labeled 'linking' and 'stem' is labeled 'prefix', which is backwards. More fundamentally, consider whether 'be-' and 'stem' should be presented as two tiles at all, or whether 'bestem' should be treated as a single root tile since 'be-' is not productively separable here without creating confusion.",
+    "suggestion": "Either correct the morpheme types so 'be' is 'prefix' and 'stem' is 'root', or merge them into a single root tile 'bestem' glossed as 'define/determine' for clarity."
+  }
+]

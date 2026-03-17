@@ -11,10 +11,10 @@ You are creating morpheme dictionary entries for a language-learning word puzzle
    - Compound nouns split at each recognizable root: विद्यालय = विद्या + आलय (knowledge + abode).
    - The surface form of each part must be exactly as it appears in the word — Devanagari conjunct consonants stay intact within a part.
    Aim for 2–4 parts. If a word genuinely has only 1 morpheme, include it and add a flag.
-5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Rules: (a) ONE meaning only — never slash-separate synonyms; pick the best single English word and put alternatives in homeLangDetails. (b) Prefixes: अ = "not", बे = "without", प्र = "forth", सु = "well", स्व = "self", बद = "ill", ना = "un-". (c) Suffixes use short English equivalents: -ता = "-ness", -दार = "holder", -वाला = "person", -हीन = "-less", -कार = "doer". (d) Roots get one clear English word.
+5. **homeLang values**: Each part's homeLang must be SHORT — 1 word ideally, 2 at most. Picture it on a small game tile. Each homeLang is a building block for the player to puzzle out the word — do not pre-solve it. Gloss only what the morpheme itself contributes, not the combined meaning of the compound. Rules: (a) ONE meaning only — no slashes. Pick the single best gloss and put alternatives in homeLangDetails. (b) Prefixes: अ = "not", बे = "without", प्र = "forth", सु = "well", स्व = "self", बद = "ill", ना = "un-". (c) Suffixes use short English equivalents: -ता = "-ness", -दार = "holder", -वाला = "person", -हीन = "-less", -कार = "doer". (d) Roots get one clear English word.
 6. **translationShort**: A natural, concise English translation (1–4 words).
 7. **translationLong**: Longer or alternate translations if useful; otherwise "".
-8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it only when (a) a morpheme works differently in this specific word than its standard meaning, or (b) the letters resemble a morpheme but are not functioning as one here. Write in a warm, conversational tone. Never use em-dashes.
+8. **homeLangDetails**: Optional field on a part. For morphemes covered in the glossary you have been given, omit this field — it will be auto-filled. Include it only when (a) a morpheme works differently in this specific word than its standard meaning, or (b) the letters resemble a morpheme but are not functioning as one here. Write in a warm, conversational tone. Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full form is built on it). Never use em-dashes.
 9. **exampleSentence**: A natural, grammatically correct Hindi sentence in Devanagari script using the word.
 10. **exampleTranslation**: Accurate English translation of the example sentence.
 
@@ -31,8 +31,8 @@ Example output:
       "id": "स्वतंत्रता",
       "article": "(f)",
       "parts": [
-        {"targetLang": "स्व", "homeLang": "self/own"},
-        {"targetLang": "तंत्र", "homeLang": "rule/system"},
+        {"targetLang": "स्व", "homeLang": "self"},
+        {"targetLang": "तंत्र", "homeLang": "rule"},
         {"targetLang": "ता", "homeLang": "-ness"}
       ],
       "translationShort": "independence",
@@ -57,7 +57,7 @@ Example output:
       "article": "(m)",
       "parts": [
         {"targetLang": "दुकान", "homeLang": "shop"},
-        {"targetLang": "दार", "homeLang": "holder/possessor"}
+        {"targetLang": "दार", "homeLang": "holder"}
       ],
       "translationShort": "shopkeeper",
       "translationLong": "shopkeeper, storekeeper",
@@ -68,7 +68,7 @@ Example output:
       "id": "अज्ञान",
       "article": "(m)",
       "parts": [
-        {"targetLang": "अ", "homeLang": "not/without"},
+        {"targetLang": "अ", "homeLang": "not"},
         {"targetLang": "ज्ञान", "homeLang": "knowledge"}
       ],
       "translationShort": "ignorance",
@@ -80,7 +80,7 @@ Example output:
       "id": "पढ़ाई",
       "article": "(f)",
       "parts": [
-        {"targetLang": "पढ़", "homeLang": "read/study"},
+        {"targetLang": "पढ़", "homeLang": "read"},
         {"targetLang": "आई", "homeLang": "process/quality"}
       ],
       "translationShort": "studying",

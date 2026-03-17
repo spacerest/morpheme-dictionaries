@@ -1,0 +1,527 @@
+[
+  {
+    "word": "understanding",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ing' forms gerunds/nominals in English. In Esperanto, this corresponds to the nominalizing suffix '-o' or the gerund/present participle sense. '(nomo)' (noun) is too vague; should specify the nominalizing function.",
+    "suggestion": "(nomiĝo)"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'im-' is a negation prefix specific to English (allomorph of 'in-' before /p/). The gloss 'ne-/mal-' suggests both Esperanto negation prefixes, but 'im-' is specifically the negating prefix. Should be clearer.",
+    "suggestion": "(ne-)"
+  },
+  {
+    "word": "impossible",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-le' does not form adjectives; it is a final element in '-ible/-able'. The gloss '(adj)' describes the result, not the morpheme's function. Should glossed as the suffix that forms adjectives from verbs.",
+    "suggestion": "(eba)"
+  },
+  {
+    "word": "uncomfortable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-able' forms adjectives from verbs/nouns. The gloss '(ebla)' is Esperanto for 'possible', not a functional label. Should be labeled as an adjective-forming suffix.",
+    "suggestion": "(eba)"
+  },
+  {
+    "word": "overlook",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'super-/super' is unclear and not in conventional homeLang format. Should use parenthetical notation for the prefix form.",
+    "suggestion": "(super)"
+  },
+  {
+    "word": "breakthrough",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'tra-/tra' is unclear and not in conventional homeLang format. Should use parenthetical notation for the prefix form.",
+    "suggestion": "(tra)"
+  },
+  {
+    "word": "remarkable",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'denove' (again) is a misleading gloss in this context. The 're-' prefix in 'remarkable' does not mean 'again' — it is part of the Latin-derived root 'remark'. The morpheme should be glossed as part of the root or clearly marked as not productive here.",
+    "suggestion": "re- is not a productive prefix here; consider marking as root"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split into 4 parts (in + de + pend + ence), but 'in-' and 'de-' are not separate morphemes in 'independence'. The correct split is 'in-' (negative prefix) + 'depend' (root) + '-ence' (noun-forming suffix), which is 3 parts. The 'de' is part of the root 'depend', not a separate prefix.",
+    "suggestion": "Resplit as: in + depend + ence (3 parts)"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "If the split is corrected, 'de-/de' should not appear as a separate part. The 'de' is integral to the root 'depend'.",
+    "suggestion": "Remove this part or resplit the entry"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "If the split is corrected, the homeLang should reflect 'depend' as a root, not just 'pendi'.",
+    "suggestion": "depend (or retain 'pendi' if using strict Esperanto etymology)"
+  },
+  {
+    "word": "overcoming",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'com' in 'overcome' is not the Latin prefix 'kun-' (with). It is part of the root word 'come' (veni in Esperanto). The morpheme split is treating 'come' as 'com' + a suffix, but 'come' is a single root that should not be decomposed this way. The homeLang label is incorrect for this context.",
+    "suggestion": "This entry needs review: either treat 'overcome' as 'over' + 'come' (two roots/stems), or do not split 'come' further. If split as 'over'+'come', relabel 'com' as 'veni' (come), not 'kun-'."
+  },
+  {
+    "word": "overcoming",
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The word 'overcome' is being split as 'over' + 'com' + 'ing', but 'come' is a single morpheme and should not be split into 'com' + nothing. The boundary between 'come' and the gerund suffix '-ing' is correct, but 'come' should not be truncated to 'com'.",
+    "suggestion": "Split as 'over' + 'come' + 'ing', with parts[1].targetLang = 'come' and homeLang = 'veni'"
+  },
+  {
+    "word": "helpfulness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(eco)' is unclear and non-standard. In Esperanto, '-ness' forming abstract nouns from adjectives corresponds to '-eco' (quality/condition), but the label should be clearer.",
+    "suggestion": "(eco)"
+  },
+  {
+    "word": "unexpected",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ed' here is not functioning as an adjective marker in isolation — it's part of the past participle used adjectivally. The gloss '(adj)' is misleading; it should indicate the past participle form '-ed' which in Esperanto context relates to '-ita'.",
+    "suggestion": "(ita)"
+  },
+  {
+    "word": "childhood",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation 'Ŝi pasigis sian infanecon' uses 'infanecon' (accusative), but the original English 'spent her childhood' should translate to nominative or better to 'sin infanaĝon'. More naturally: 'Ŝi pasigis sian infanaĝon en...'",
+    "suggestion": "Ŝi pasigis sian infanaĝon en malgranda vilaĝo apud la montoj."
+  },
+  {
+    "word": "outweigh",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The translation 'La avantaĝoj de la plano superas la riskojn' uses 'superas' (surpass/exceed), but the original word 'outweigh' emphasizes weight/gravitational importance. The translation should reflect the literal sense of weighing more. 'Superas' works for importance but misses the 'weight' aspect of the morpheme.",
+    "suggestion": "La avantaĝoj de la plano pesas pli ol la riskoj."
+  },
+  {
+    "word": "discourage",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'dis-' is glossed as 'mal-' (Esperanto negation prefix), but 'dis-' in 'discourage' means 'away' or 'reversal', not general negation. The tile label should reflect the prefix function, not a full word.",
+    "suggestion": "(away) or (reverse)"
+  },
+  {
+    "word": "meaningful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ing' is glossed as 'senco' (meaning/sense in English). In 'meaningful', '-ing' is part of the gerundial noun 'meaning' and should be labeled as a suffix forming a noun from the verb 'mean'. The gloss should reflect its grammatical function.",
+    "suggestion": "(n) or (gerund)"
+  },
+  {
+    "word": "happiness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The word 'happiness' is an abstract noun (state/quality) and does not take the definite article 'the' in standard English. The article field should be empty.",
+    "suggestion": ""
+  },
+  {
+    "word": "thoughtless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-less' is glossed as '(sen-)' which is the Esperanto prefix form. The gloss should be the English function label '(less)' or '(without)' to match the tile label convention.",
+    "suggestion": "(less) or (without)"
+  },
+  {
+    "word": "partnership",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ship' in English creates abstract nouns denoting states, relationships, or conditions (like 'friendship', 'leadership'). The gloss '(eco/stato)' is unclear and doesn't follow the convention. In Esperanto, '-ship' corresponds to '-eco' (a state/quality suffix), making the gloss ambiguous.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "restless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-less' (meaning 'without') should be glossed as a standard negation/privative suffix. The gloss '(sen-)' mixes target and home language notation inconsistently. In Esperanto, '-less' corresponds to '-a' after 'sen-' prefix pattern, but the gloss should follow English convention.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "footprint",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'preso/śpuro' contains a non-standard character 'ś' which appears to be a typo. Additionally, 'preso' means 'press' but 'print' in this context means 'mark/impression', so 'spuro' (trace/mark) is the more accurate Esperanto equivalent. The gloss should be singular and consistent.",
+    "suggestion": "spuro"
+  },
+  {
+    "word": "countless",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'kalkuli' (to count) is too long for a tile label and should be shortened to a brief form.",
+    "suggestion": "nombri"
+  },
+  {
+    "word": "disappoint",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'mal-' is correct but the homeLangDetails explanation is unnecessarily verbose for a tile label context. The label itself is acceptable.",
+    "suggestion": "mal-"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'sendi' (to send) is correct etymologically but misleading for the synchronic meaning of the morpheme 'miss' in 'permission', which in modern English functions as 'let/allow' rather than 'send'. The homeLangDetails explanation is also overly long.",
+    "suggestion": "lasi"
+  },
+  {
+    "word": "permission",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article is set to 'the' but 'permission' is a common noun that does not require a definite article by default in English morpheme learning contexts. The article should be empty.",
+    "suggestion": ""
+  },
+  {
+    "word": "brightness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(eco)' is unclear and non-standard. The Esperanto suffix -eco forms abstract nouns/states (like -ness in English), and should be glossed as '(state)' to match the homeLang convention.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "widespread",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang 'disvastiĝi' is a full verb form meaning 'to spread/disseminate', but in 'widespread' the second morpheme is 'spread' as a past participle/adjective. The gloss should reflect the adjectival form used here, not the infinitive verb.",
+    "suggestion": "disvastiĝinta"
+  },
+  {
+    "word": "powerless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '(manko)' is too long for a tile label and not in the standard grammatical gloss format. The suffix -less (forming adjectives meaning 'without') should be glossed as '(without)' or similar short parenthetical.",
+    "suggestion": "(without)"
+  },
+  {
+    "word": "rainfall",
+    "category": "frozen_compound",
+    "field": "parts[1].homeLang",
+    "issue": "'Rainfall' is a lexicalized compound where 'fall' no longer means 'to fall' synchronically—it refers to the amount or quantity of rain that falls. The gloss 'fali' suggests the dynamic verb, but the word refers to a measured amount, making this potentially misleading in context.",
+    "suggestion": "Consider adding a note that this is a lexicalized compound, or gloss as 'kvanto' (quantity) to reflect modern usage"
+  },
+  {
+    "word": "discovery",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'mal-' is misleading. In 'discovery', the prefix 'dis-' means 'apart' or 'not', not the Esperanto 'mal-' (which inverts/undoes). The homeLangDetails explanation is overly complex and conflates meanings.",
+    "suggestion": "For tile display, use a shorter label: '(sen)' or 'for-' would better represent the sense of 'uncovering' without the false equivalence to mal-"
+  },
+  {
+    "word": "backbone",
+    "category": "wrong_translation",
+    "field": "exampleTranslation",
+    "issue": "The example translation uses 'spinosto' which is not a standard Esperanto word. The correct term should be 'spino' (already used in translationShort).",
+    "suggestion": "Change to: 'Malgrandaj entreprenoj estas la spino de la loka ekonomio.'"
+  },
+  {
+    "word": "government",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(nomo)' is too long for a tile label and doesn't follow convention. The suffix -ment forms nouns from verbs (action/state noun); should use standard grammatical label.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "daydream",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'revo' means 'dream' (the nocturnal phenomenon), but 'daydream' is 'revado' (the act of daydreaming while awake). The translationShort should reflect the specific meaning: conscious fantasy/reverie during waking hours, not sleep dreams.",
+    "suggestion": "revado"
+  },
+  {
+    "word": "knowledge",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(eco/stato)' is too long and presents two options instead of one clear label. For a tile label, pick the single most appropriate grammatical category. Since '-ledge' indicates a state/condition of knowing, use the standard convention.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "heartfelt",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "The article field is empty, but 'heartfelt' is an adjective and should not take an article in English (adjectives don't take articles). However, if the convention is to omit articles for adjectives, this is correct. But given the pattern in other entries, it should explicitly be marked as not applicable or 'none'.",
+    "suggestion": "Leave empty (correct for adjectives) OR clarify convention"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix '-ing' should be glossed as '(vb)' or '(adj)' depending on context, but '(adj)' alone is incomplete here. In 'overwhelming', '-ing' forms an adjective from a verb, so '(adj)' is acceptable but could be more precise as a participle marker. However, the core issue is that this should indicate the participle/adjective-forming function more clearly.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "disapproval",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(nomo)' is unclear and non-standard. The suffix '-al' in 'disapproval' is a noun-forming suffix (converting the verb phrase to a noun), not simply a 'nomo' (name). The standard gloss should indicate the action noun or state noun it creates.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "sidewalk",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The Esperanto 'trotuaro' is correct, but the translationLong contains redundant/circular phrasing: 'trotuaro aŭ trotuaro' (sidewalk or sidewalk) which appears to be an error. The long translation should clarify British vs American terms more clearly.",
+    "suggestion": "Fix translationLong to avoid the repetition, e.g., 'pavimita pado apud vojo por piedirantoj'"
+  },
+  {
+    "word": "straightforward",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'Simpla' (simple) is a partial translation but misses the core meaning of 'straightforward' as 'honest, direct, frank'. The word encompasses both simplicity and directness/honesty. A more complete single gloss would be better.",
+    "suggestion": "rekta aŭ malkaŝa"
+  },
+  {
+    "word": "shortcut",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'tranĉi' (to cut) is overly literal for a tile label. The homeLangDetails correctly explain the metaphorical sense, but the tile should reflect the actual meaning in this word: 'preteriri' or 'vojo' or similar.",
+    "suggestion": "preteriri"
+  },
+  {
+    "word": "recollect",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'kun-' is a prefix notation, but 'col' is not a standalone morpheme in Esperanto — it's part of the English root 'collect'. The homeLangDetails explain this correctly, but the tile label should reflect what 'col' actually means in context: part of 'kolekti'.",
+    "suggestion": "kolekti (parto)"
+  },
+  {
+    "word": "willingness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(adj)' is a grammatical tag, not a meaning. While the homeLangDetails correctly note that '-ing' forms an adjective here, the tile should show what 'willing' means: 'preta' or 'volanta'.",
+    "suggestion": "preta"
+  },
+  {
+    "word": "unfaithful",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(plena)' is grammatically correct but overly abstract for a tile label. It should reflect the actual meaning of '-ful' in this context: 'full of' or 'plena de'.",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "doorstep",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'Sojlo' typically means 'threshold', which is the inner edge of a door. 'Doorstep' is the step or stone outside the door, which would be 'ŝtupo antaŭ pordo' or 'pordoŝtupo'. The translation is imprecise.",
+    "suggestion": "pordoŝtupo"
+  },
+  {
+    "word": "breathtaking",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'tak' is not 'preni' (take); it's the past participle of 'take' in this context. The morpheme represents the action of taking/seizing, and 'preni' alone is misleading as a gloss for a past participle form.",
+    "suggestion": "prena"
+  },
+  {
+    "word": "breathtaking",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "'impresa' means 'enterprise' or 'endeavor' in Esperanto, not the state of being breathtaking. The correct Esperanto term should relate to the meaning 'taking one's breath away'.",
+    "suggestion": "spirprena"
+  },
+  {
+    "word": "trustworthy",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'worth' in 'trustworthy' is not a standalone morpheme meaning 'inda' (worthy); it's a suffix element. The 'worthy' suffix (-worthy) functions as a unit meaning 'worthy of' or 'deserving of', not 'inda' alone.",
+    "suggestion": "(worthy)"
+  },
+  {
+    "word": "trustworthy",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The '-y' suffix is glossed as '(adj)' but this is a morpheme that converts nouns to adjectives; the gloss should reflect its function as an adjective-forming suffix, not just indicate it's adjectival.",
+    "suggestion": "(adj-forming)"
+  },
+  {
+    "word": "breakdown",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'down' in 'breakdown' is not literally 'malsupren' (downward in space); it functions as a particle indicating completion/cessation or analysis/separation. The spatial gloss is misleading for this context.",
+    "suggestion": "(down)"
+  },
+  {
+    "word": "staircase",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'ĉambro' (room) is inaccurate; 'case' in 'staircase' means the enclosing structure/shaft, better glossed as 'ĉapo' (casing/enclosure) or similar",
+    "suggestion": "ĉapo"
+  },
+  {
+    "word": "staircase",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'the' is a definite article in English, but Esperanto does not use articles; the article field should be empty or null",
+    "suggestion": ""
+  },
+  {
+    "word": "lifetime",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'the' is a definite article in English, but Esperanto does not use articles; the article field should be empty or null",
+    "suggestion": ""
+  },
+  {
+    "word": "outreach",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang 'el-/ekster-' is misleading; 'out' in 'outreach' means extension/effort toward (away), better as '(away)' or '(al)' to reflect the directional/effort sense",
+    "suggestion": "(away)"
+  },
+  {
+    "word": "outreach",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'the' is a definite article in English, but Esperanto does not use articles; the article field should be empty or null",
+    "suggestion": ""
+  },
+  {
+    "word": "carefulness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "article field is empty but the pattern suggests inconsistency; Esperanto has no articles so leaving empty is correct, but for consistency with other entries this should remain empty",
+    "suggestion": ""
+  },
+  {
+    "word": "leadership",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'the' is a definite article in English, but Esperanto does not use articles; the article field should be empty or null",
+    "suggestion": ""
+  },
+  {
+    "word": "foreground",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'antaŭ-' is a prefix form, but the label should be brief and match the short-tile convention. 'antaŭ' (before/front) is correct, but the hyphen makes it look like a bound prefix when 'fore' here is a combining form or prefix in English.",
+    "suggestion": "antaŭ"
+  },
+  {
+    "word": "foreground",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "'the' is incorrect; 'foreground' is typically used as an uncountable noun or in contexts where no article is standard ('in the foreground' is correct, but the word itself is not typically 'the foreground' as a heading).",
+    "suggestion": ""
+  },
+  {
+    "word": "hopeless",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'sen-' is glossed as a prefix, but 'less' here is a suffix attached to the root 'hope', not a separate prefix. The morpheme is the English suffix '-less', not an Esperanto prefix 'sen-'. The Esperanto equivalent of '-less' is indeed 'sen-' (without), but the tile label should reflect that this is a suffix in English morphology.",
+    "suggestion": "-sen"
+  },
+  {
+    "word": "achievement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'atingi' is an infinitive (to achieve), but in Esperanto the noun form relating to the action would be 'atingo' (achievement) or the root 'ating-'. The label should be concise and match the meaning.",
+    "suggestion": "ating-"
+  },
+  {
+    "word": "warmth",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'(eco)' is too generic; '-th' in 'warmth' is a nominalizing suffix that forms abstract nouns denoting a state or quality. In Esperanto, this corresponds to '-eco' or '-eto'. The label '(eco)' is correct in principle but should be more concise.",
+    "suggestion": "(state)"
+  },
+  {
+    "word": "overarching",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "'super-/ĉefe' mixes two different morphemes (the prefix 'super-' and the word 'ĉefe' meaning 'mainly'). In 'overarching', 'over-' is a prefix meaning 'above' or 'comprehensive'. The gloss should be singular and concise.",
+    "suggestion": "super-"
+  },
+  {
+    "word": "overarching",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "'arko' (arch/bow) is misleading. In 'overarching', 'arch' is not the noun 'arch' but a combining form in the verb 'arch'. The Esperanto equivalent would be 'arki-' or a related verbal root, not the simple noun 'arko'.",
+    "suggestion": "arki-"
+  },
+  {
+    "word": "watchful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix '-ful' means 'full of' or 'characterized by', not 'full' (plena). In this context it forms an adjective meaning 'full of watchfulness/attention'.",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "printout",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The label 'el-/eksteren' is too long and imprecise for a tile label. The morpheme 'out' here is part of the particle verb 'print out' and should be glossed more concisely as a directional/completive particle.",
+    "suggestion": "(out)"
+  },
+  {
+    "word": "peaceful",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix -ful means 'full of' or 'abounding in', not just '(plena)' — the gloss should reflect its adjectival function",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "thoughtfulness",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Same as above: -ful should be glossed as '(full of)' not '(plena)'",
+    "suggestion": "(full of)"
+  },
+  {
+    "word": "overnight",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "In 'overnight', 'over' means 'during/throughout' the night, but listing both 'dum/tra' is verbose for a tile label. The primary sense here is 'during' or the word functions as a prefix meaning 'throughout'",
+    "suggestion": "(during)"
+  },
+  {
+    "word": "firsthand",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"unua\" (first/primary) is misleading in this compound. \"Firsthand\" means direct/immediate experience, not ordinal 'first'. The gloss should reflect the meaning in context.",
+    "suggestion": "rekta"
+  },
+  {
+    "word": "matchless",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"egalo\" (equal/match as a noun) is imprecise. In \"matchless\", 'match' means 'equal' or 'peer', and the suffix negates it. The gloss should be clearer for the tile.",
+    "suggestion": "egala"
+  },
+  {
+    "word": "ownership",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"(aganto)\" is grammatically correct (agent suffix) but the parenthetical format is unconventional. Standard convention uses short labels like (doer) or just the suffix meaning. However, this is minor; check against house style.",
+    "suggestion": "(doer)"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The 't' is labeled '(duobligo)' which is a long descriptive phrase, not a brief tile label. The convention requires short, parenthetical labels.",
+    "suggestion": "(doubled) or simply omit the label if it's a non-morphemic orthographic doubling"
+  },
+  {
+    "word": "mindfulness",
+    "category": "wrong_article",
+    "field": "article",
+    "issue": "Mindfulness is an uncountable noun in English and does not take the article 'the' in its standard form. The article should be empty or null.",
+    "suggestion": ""
+  }
+]

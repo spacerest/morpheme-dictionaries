@@ -1,890 +1,1542 @@
 [
   {
+    "word": "injection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix ob- is marked as 'root' but it is a prefix that precedes the root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
     "word": "prediction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'На завтра прогнозируется дождь' (It is forecasted rain for tomorrow) is awkward and unnatural. It should use a more natural construction with a subject.",
-    "suggestion": "На завтра прогнозируют дождь. / Прогноз на завтра — дождь.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix contra- is marked as 'root' but it is a prefix that precedes the root",
+    "suggestion": "Change to 'prefix'"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "jurisdiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "transportation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is «транспортировка» (the act of transporting), but the example sentence uses «транспорт» (transport/transportation system), which are related but distinct concepts. The translationShort should match the example usage.",
-    "suggestion": "Change translationShort to «транспорт» or adjust the example sentence to use «транспортировка»",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is marked as 'root' but it is a derivational suffix that forms nouns",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is marked as 'root' but it is a derivational suffix that forms nouns",
+    "suggestion": "suffix"
   },
   {
     "word": "importation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translationShort is «импорт», but the word is «importation» (the act/process of importing). «Импорт» is the noun for the goods imported, while «импортация» or «импортирование» would be the process. The translationLong correctly uses «ввоз» which captures the process better.",
-    "suggestion": "Change translationShort to «импортация» or «ввоз» to better match the English word formation",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is marked as 'root' but it is a derivational suffix that forms nouns",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -tion should be glossed as '(action)' or '-tion', not as '-ция' alone. The gloss should match the morpheme type (suffix, not root) and follow the convention for noun-forming suffixes.",
+    "suggestion": "(action)"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion/-tion is a derivational suffix that forms nouns from verbs, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "-ion/-tion is a derivational suffix that forms nouns from verbs, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "inspection",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'in-' in 'inspection' means 'in' (looking into something), not 'в/не' (in/not). The homeLang gloss conflates two unrelated meanings. The 'не' (not) sense is misleading here.",
-    "suggestion": "Change homeLang to just 'в' (in) or 'внутрь' (into), clarifying that it means 'looking into/examining'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion/-tion is a derivational suffix that forms nouns from verbs, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
-    "word": "perspective",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'На мой взгляд, план слишком рискованный' is more accurately translated as 'In my view/opinion' rather than 'перспектива' (perspective). The sentence uses a different Russian concept (взгляд = view/opinion) that doesn't showcase the morpheme meaning well.",
-    "suggestion": "Use an example that better demonstrates 'перспектива' as a noun, e.g., 'We need a new perspective on this problem' → 'Нам нужна новая перспектива на эту проблему'",
-    "source_file": "en-ru.json"
+    "word": "inspection",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'in-' in 'inspection' means 'in/into' (to look into), not 'in/not'. The homeLang should specify the correct meaning for this context.",
+    "suggestion": "в/внутрь"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'retro' is a bound morpheme used as a prefix in compounds, not a free root. It should be classified as a prefix or bound root depending on whether it precedes the main root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "prescription",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is a long descriptive phrase (homeLangDetails belongs in homeLangDetails, not homeLang). The tile label should be concise.",
+    "suggestion": "pre-"
   },
   {
     "word": "description",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation says 'устное или письменное описание' (oral or written description) which is redundant since description already means that. Also 'изображение' (image/picture) is not an accurate secondary meaning for description in English.",
-    "suggestion": "Change to something like 'письменное или устное представление чего-либо; изложение' or simply 'представление информации о чём-либо словами или текстом'",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'вниз' (down) is misleading for this word. In 'description', de- does not mean 'down' but is part of the Latin 'describere' (to write out/describe). The tile label should reflect the modern English meaning, not a Latin etymology that doesn't fit the synchronic sense.",
+    "suggestion": "de-"
+  },
+  {
+    "word": "description",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails is excessively long and verbose for a tile game. It should be concise background, not a full etymological essay.",
+    "suggestion": "Shorten or remove; keep tile label short"
   },
   {
     "word": "subscription",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation includes 'подпись' (signature/autograph) as a meaning of subscription, which is misleading. While subscription historically relates to signing, the modern meaning does not include signature as a primary definition.",
-    "suggestion": "Change to 'регулярный платёж за услугу или доступ к изданию' or 'соглашение о регулярных платежах за доступ'",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is a long descriptive phrase (homeLangDetails belongs in homeLangDetails). The tile label should be concise.",
+    "suggestion": "sub-"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root' but it is a derivational suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "impression",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The prefix 'im' should be 'in' before 'press'. The word structure is 'in-press-ion', not 'im-press-ion'. The 'm' is part of the assimilation of 'in' before the 'p' sound, not a separate morpheme.",
-    "suggestion": "Change parts[0].targetLang to 'in' with homeLang 'в/вн', and note that it assimilates to 'im' before labial consonants",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "attraction",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The prefix 'at' should be 'ad' before 'tract'. The 'd' is part of the assimilation of 'ad' before the 't' sound, not a separate morpheme.",
-    "suggestion": "Change parts[0].targetLang to 'ad' with homeLang 'к', and note that it assimilates to 'at' before dental consonants",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'at' (ad-) should be type 'prefix', not 'root'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "distraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "permission",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'miss' should be 'mit' (from Latin mittere, to send). The word is 'per-mit-ion', not 'per-miss-ion'. While 'permission' has the noun form, the verbal root is 'mit'.",
-    "suggestion": "Change parts[1].targetLang to 'mit' with homeLang 'слать/посылать' to reflect the actual Latin root",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be type 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "reception",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The primary meaning of 'reception' is 'приём' (receiving/reception), but the second meaning 'торжественное мероприятие' (ceremonial event) is more specific than the general sense. A better short translation would emphasize the receiving/accepting sense first.",
-    "suggestion": "translationShort should be 'приём; получение' or 'приём (получение); торжество' to better reflect the core meaning",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'обратно-' (back/again) is misleading for 're' in 'reception'. Here 're-' means 'back' in the sense of receiving/taking back, but the long homeLangDetails explanation contradicts the tile label convention. The tile label should be concise, not explanatory.",
+    "suggestion": "(back)"
+  },
+  {
+    "word": "reception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a derivational suffix (noun-forming), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "perception",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'способность понимать или осознавать' (ability to understand or become aware) is incomplete. Perception specifically refers to sensory awareness and interpretation, not just general understanding or consciousness.",
-    "suggestion": "translationShort should be 'восприятие; ощущение' or 'восприятие через органы чувств' to capture the sensory component",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "reference",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'назад' (backward) is misleading for the prefix 're-'. While 're-' can mean 'back' in some contexts (return, recall), in 'reference' it means 'again' or 'thoroughly', not a literal return. The explanation conflates the prefix meaning with the word's semantic field.",
-    "suggestion": "Change homeLang to 'снова, вновь' (again) or 'заново' (afresh), or clarify that 're-' here means 'again/thoroughly' rather than 'back to source'.",
-    "source_file": "en-ru.json"
+    "issue": "The gloss 'сквозь-' is technically correct but the long homeLangDetails explanation violates the tile label convention. The label should be brief.",
+    "suggestion": "(through)"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a derivational suffix (noun-forming), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a derivational suffix (noun-forming), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "reference",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "'справка' (reference document/certificate) is too narrow for this context. The sentence means using a book as a source or reference material for research, not as an administrative reference document.",
-    "suggestion": "Change to 'Я использовал эту книгу как источник для своего эссе' or 'Я ссылался на эту книгу в своём эссе'.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang value is too long (it's a full explanation rather than a concise tile label). For a prefix tile, it should be a short gloss like 're-' or 'again' or 'back', not a multi-sentence explanation.",
+    "suggestion": "re-"
+  },
+  {
+    "word": "reference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ence is a suffix (nominalizing suffix forming abstract nouns from roots), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ence is a suffix (nominalizing suffix forming abstract nouns from roots), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ence is a suffix (nominalizing suffix forming abstract nouns from roots), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "conversion",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "'полностью' (completely) is not the correct meaning of 'con-' here. The prefix 'con-' in 'conversion' means 'together' or 'thoroughly', but 'полностью' suggests 'completely/entirely' which is misleading about the morphological function.",
-    "suggestion": "Change to 'вместе, полностью' or 'совершенно' to better reflect the intensive/thorough sense of the prefix.",
-    "source_file": "en-ru.json"
+    "issue": "The gloss 'полностью' (fully/completely) is incorrect. The prefix 'con-' here means 'together/with', not 'completely'. See glossary: con → вместе.",
+    "suggestion": "вместе"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix (nominalizing suffix -tion), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro- is a prefix (bound morpheme that precedes the root), not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix (nominalizing suffix -tion), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "subversion",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'подрыв, подвергание опасности' is inaccurate. 'Подвергание опасности' (putting in danger) is not a standard meaning of subversion. The primary meaning is 'подрыв' (undermining/subversion), but the second part is misleading.",
-    "suggestion": "Change to 'подрыв, свержение' or simply 'подрыв' to reflect the actual meaning of attempting to overthrow or undermine something.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (from -tion) is labeled as 'root' but it is a derivational suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is labeled as 'root' but it is a derivational suffix that forms nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ence is labeled as 'root' but it is a derivational suffix that forms nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "interdependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ence is labeled as 'root' but it is a derivational suffix that forms nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "occurrence",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'oc' is split incorrectly. It should be recognized as 'oc' + 'cur' + 'rence', but the morpheme boundary is awkward. The prefix is 'oc-' (from Latin ob-), but this should be clearer. More importantly, '-rence' is not a standard suffix; the structure should be 'occur' + '-ence' or 'oc-' + 'curr' + '-ence'.",
-    "suggestion": "Resplit as: 'oc' (к, навстречу) + 'curr' (бежать, with doubled r for phonetic reasons) + 'ence' (-ence). Or alternatively: 'occur' (happen) + 'ence' (state/condition).",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix oc- (assimilated form of ob-) is labeled as 'root' but it is a prefix. It should be 'prefix'.",
+    "suggestion": "prefix"
   },
   {
-    "word": "unprecedented",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into 5 parts (un, pre, ced, ent, ed) but the morphological structure is unclear. The base word is 'precedent' (pre + ced + ent), and 'ed' is not a separate morpheme here—it's part of the adjective form. The suffix should be '-ed' as an adjective marker, not split separately from '-ent'.",
-    "suggestion": "Split as: un (не) + prec (перед + идти) + edent (-adjective ending) OR more clearly: un (не) + precedent (прецедент). The current 5-part split obscures that '-ent' and '-ed' are conflated.",
-    "source_file": "en-ru.json"
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme cur- (root meaning 'to run') is labeled as 'root', which is correct, but it is part of a bound root within a larger word formation. However, the label is not wrong in itself.",
+    "suggestion": "root"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -rence (from -ence) is labeled as 'root' but it is a derivational suffix that forms nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence (forming nouns from roots/adjectives) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ent (forming adjectives) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion (forming nouns from verbs) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "succession",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The prefix is split as 'suc' (под), but the actual Latin prefix is 'sub-' (under/beneath), which assimilates to 'suc-' before 'c'. Splitting 'suc' alone without acknowledging this is the assimilated form of 'sub' is misleading.",
-    "suggestion": "Either label as 'sub' (под) with a note that it assimilates to 'suc-' before 'c', or keep 'suc' but clarify in homeLangDetails that this is an assimilated form of the prefix meaning 'under'.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix suc- (Latin sub- variant meaning 'under') should be labeled as 'prefix', not 'root'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root cess- (meaning 'go') should be labeled as 'root', which is correct, but the preceding element suc- is a prefix, not a root",
+    "suggestion": "root"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion (forming nouns from verbs) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ent (forming adjectives) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[4].morphemeType",
+    "issue": "The suffix -ed (forming past participles/adjectives) should be labeled as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (from -tion) is marked as 'root' but should be 'suffix'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "transformation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-tion' is correct but should follow the canonical glossary format exactly: '-tion' not as a standalone morpheme name but as the suffix designation.",
+    "suggestion": "Use canonical format: '-tion' (already correct, no change needed)"
   },
   {
     "word": "reformation",
-    "category": "frozen_compound",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The entry treats 'reformation' as a straightforward composition of re- + form + -ation, but 'Reformation' (capitalized) refers to a specific historical event (the 16th-century Protestant Reformation) that is not semantically transparent from its morphemes. While the morphological analysis is technically correct, the homeLangDetails should acknowledge this frozen/proper noun usage.",
-    "suggestion": "Add a note that while morphologically decomposable, 'Reformation' as a historical term is a fixed lexical entry. Consider: 'Когда Reformation используется с заглавной буквы, это историческое событие XVI века, которое полностью лексикализовалось как собственное имя.'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (from -tion) is marked as 'root' but should be 'suffix'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "information",
-    "category": "frozen_compound",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The entry itself acknowledges that information is frozen/lexicalized ('слово information полностью лексикализовалось'), yet it remains in the dictionary as a morpheme-split entry without flagging this as a potential issue for learners. The homeLangDetails explanation is good but creates ambiguity about whether this should be presented as a decomposable morpheme at all.",
-    "suggestion": "Either remove this entry from a morpheme dictionary (since it explicitly acknowledges learners don't parse it as separate morphemes), or add a clear warning label that this is frozen and the morpheme breakdown is historical/etymological only, not synchronically productive.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (from -tion) is marked as 'root' but should be 'suffix'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'в' (in/into) is correct etymologically per the glossary, but for tile purposes should be more concise. Consider using 'in-' to match the canonical format.",
+    "suggestion": "Use 'in-' to match the canonical glossary convention for prefix tiles"
   },
   {
     "word": "interruption",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'rupt' is glossed as 'ломать' (to break), but in interruption the relevant root is actually from Latin 'ruptus' (broken, past participle of rumpere). The entry splits it as 'inter-rupt-ion' but should clarify that 'rupt' derives from this Latin past participle form, not the infinitive. This is a minor issue but worth noting for accuracy.",
-    "suggestion": "Optionally add a note in homeLangDetails: 'От латинского rumpere (ломать), в форме ruptus (сломанный).'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (from -tion) is marked as 'root' but should be 'suffix'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "disruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (from -tion) is marked as 'root' but should be 'suffix'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "corruption",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The translation 'ломать' (to break) is incomplete. The root 'rupt' in corruption comes from Latin 'rumpere' which means to break/burst, but in the context of corruption it carries the sense of breaking moral/social order, not just physical breaking. The homeLang should reflect this more nuanced meaning or acknowledge the semantic extension.",
-    "suggestion": "Consider 'рвать/ломать' or add context that this means 'break/rupture' in a moral or structural sense, not just physical breaking",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "corruption",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'Правительство боролось с коррупцией' uses the perfective aspect 'боролось' (fought/struggled - completed action), but the original English sentence uses present perfect 'cracked down', which suggests an ongoing or recent action with present relevance. The Russian should better match the temporal aspect of the English.",
-    "suggestion": "'Правительство пресекло коррупцию' or 'Правительство принимает меры против коррупции' would be more natural depending on intended meaning",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "microphone",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss \"слабый, малый\" is misleading. While \"micro\" does mean \"small,\" in \"microphone\" it refers to the small/microscopic vibrations being converted to electrical signals, not to capturing weak sounds. The homeLangDetails explanation is inaccurate about what 'micro' signifies in this compound.",
-    "suggestion": "Revise homeLang to \"малый\" or \"маленький\" and correct homeLangDetails to explain that 'micro' refers to tiny vibrations or signals being captured and amplified, not weak auditory input.",
-    "source_file": "en-ru.json"
+    "issue": "The homeLang value is too long (a short label is needed for tile display). The explanation belongs in homeLangDetails, not the tile label. For a tile, use a brief notation.",
+    "suggestion": "con-"
+  },
+  {
+    "word": "corruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root', but it is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "bio- is marked as 'prefix', but it is a combining form (root element). In compound words like autobiography, bio- is a root, not a prefix that attaches to a complete word.",
+    "suggestion": "root"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The homeLang label is too long and should use the glossary shorthand. Per glossary, -y in this context is part of -graphy, which means 'writing/description'. The gloss should reflect its role as a nominalizing suffix forming nouns from -graph-.",
+    "suggestion": "-logy"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The final -y is not assigned a morphemeType. It is a suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "bio- is marked as 'prefix', but it is a combining form (root element) in compound words. In biography, bio- is a root, not a prefix.",
+    "suggestion": "root"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label is too long. Per glossary, -y in this context is part of -graphy/-logy pattern. The gloss should be brief and reflect its role as a nominalizing suffix.",
+    "suggestion": "-logy"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The final -y is not assigned a morphemeType. It is a suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo- is marked as 'root', but it is a prefix (combining form) that precedes the root graph-.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label is too long. Per glossary, -y in this context forms -graphy/-logy nouns. The gloss should be brief.",
+    "suggestion": "-logy"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The final -y is not assigned a morphemeType. It is a suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym- is marked as 'root', but it is a prefix (combining form) meaning 'together'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label is too long. Per glossary, -y in this context forms -phony nouns. The gloss should be brief.",
+    "suggestion": "-phony"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The final -y is not assigned a morphemeType. It is a suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "syn is a prefix (con-/com-/co-/col-/cor-/syn-), not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
   },
   {
     "word": "anachronism",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLang",
-    "issue": "The suffix \"-ism\" in \"anachronism\" does not mean \"убеждение, система\" (belief, system). In this word, \"-ism\" is a noun-forming suffix meaning \"the state or quality of,\" not an ideological system or belief.",
-    "suggestion": "Change homeLang to \"состояние, качество\" or \"явление\" (state, quality, or phenomenon) to accurately reflect its meaning in anachronism.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ana is a prefix meaning 'back', not a root morpheme",
+    "suggestion": "change morphemeType to 'prefix'"
   },
   {
     "word": "psychology",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'изучение ума, психологии' is circular and awkward. It translates psychology as 'study of mind, psychology' which doesn't clarify the meaning for a learner.",
-    "suggestion": "Use 'наука о психике и поведении' or 'наука об уме и поведении' for a clearer definition",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label for the linking vowel 'o' should be simplified to a single symbol or very short marker for a tile label. The current value '-' is acceptable, but the homeLangDetails is excessive for a tile and shouldn't be there.",
+    "suggestion": "Keep homeLang as '-' (or use a conventional marker like 'ο' if needed); remove or drastically shorten homeLangDetails"
+  },
+  {
+    "word": "anthropology",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Same as psychology: the linking vowel homeLang should be minimal for tile display.",
+    "suggestion": "Keep homeLang as '-'; shorten or remove homeLangDetails"
   },
   {
     "word": "dermatology",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'У меня приём у специалиста-дерматолога' uses 'дерматолога' (dermatologist/doctor) rather than 'дерматология' (dermatology/the field). The English sentence refers to a 'dermatology specialist' which should translate to 'специалист по дерматологии' or similar to maintain the field reference.",
-    "suggestion": "Change to 'У меня приём у специалиста по дерматологии.' or 'У меня приём к дерматологу.'",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Same as psychology and anthropology: excessive detail for a tile label.",
+    "suggestion": "Keep homeLang as '-'; shorten or remove homeLangDetails"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'sym' (вместе/together) is marked as 'root', but it is a prefix in this word, not a root. It modifies the root pathy.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix 'pathy' (-патия) is marked as 'root', but it functions as a suffix forming nouns of feeling/condition. In the glossary, -pathy is listed as a suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "empathy",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'в' (in/into) for 'em' is misleading. While 'em-' does come from Greek 'en-' meaning 'in', the homeLangDetails itself notes this is an artificial modern construction. The 'em' prefix in 'empathy' is better understood in its relationship to the constructed meaning 'feeling into' rather than glossed simply as 'в'. The current gloss oversimplifies and may confuse learners about how this prefix actually functions in English.",
-    "suggestion": "Revise homeLang to 'в (в контексте сложного слова)' or expand homeLangDetails to clarify that 'em-' creates the meaning 'чувствовать внутри' or 'вчувствование'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'em' (в/in) is marked as 'root', but it is a prefix. It should be 'prefix'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix 'pathy' (-патия) is marked as 'root', but it functions as a suffix. In the glossary, -pathy is listed as a suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "metamorphosis",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix -sis is split as 'o' + 'sis', but this obscures the actual morphological structure. In Greek compound words, the combining vowel 'o' is typically considered part of the first element (meta + morph + o), not separated as its own morpheme. The actual suffix is -osis (not just -sis), which should be one unit.",
-    "suggestion": "Restructure as: meta, morph (with combining vowel o included), and -osis as the final suffix. Or alternatively: meta + morpho + -sis, but splitting 'o' as a standalone morpheme is misleading.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "meta is a prefix, not a root. It's a combining form meaning 'change/beyond' that precedes the root morph-.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
-    "word": "unbelievable",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'believe' is listed simply as 'верить' without any homeLangDetails explanation. For consistency with other entries and clarity, this should include at least a brief homeLangDetails field explaining the word's origin or usage.",
-    "suggestion": "Add homeLangDetails for 'believe', e.g.: 'Верить, полагать, думать. От древнеанглийского belyfan.'",
-    "source_file": "en-ru.json"
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "sis is a suffix (-osis), not a root. It's a derivational suffix forming nouns of process or state.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
-    "word": "overwhelming",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split into 'over' + 'whelm' + 'ing', but 'whelm' itself is not a productive morpheme in modern English. More accurately, this should be analyzed as 'over' + 'whelm' where 'whelm' is a bound root (not a free morpheme). The current split is technically correct but the homeLangDetails for 'whelm' is misleading because 'whelm' does NOT mean 'затоплять, подавлять' as an independent morpheme—it only exists in combination with 'over-'. The meaning comes entirely from the 'over-' prefix + the bound root.",
-    "suggestion": "Either mark 'whelm' as a bound root with a note that it only appears with the 'over-' prefix, or clarify in homeLangDetails that 'whelm' is a bound morpheme whose meaning is inextricable from 'over-'.",
-    "source_file": "en-ru.json"
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The 'o' linking element has no morphemeType assigned. It should be labeled as 'linking'.",
+    "suggestion": "Assign morphemeType 'linking' to the connecting vowel"
+  },
+  {
+    "word": "unforgettable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '-able/-ный' is too long and uses a hyphen convention that is not standard for tile labels. Should follow the canonical glossary format.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '-able/-ный' is too long and uses a hyphen convention that is not standard for tile labels. Should follow the canonical glossary format.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ing' suffix is labeled as 'root' but it is a suffix that forms gerunds/nominalizations. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '-ине/-ание' contains a typo and is overly verbose. Should use canonical suffix label.",
+    "suggestion": "-ing"
   },
   {
     "word": "misrepresentation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix '-ation' should be split further into '-ate' (verb-forming suffix from 'represent' → 'representation') and '-ion' (nominalization), or at minimum '-ation' should be treated as the complete nominalizing suffix. The current split 'represent' + 'ation' is acceptable, but it's worth noting that more granular analysis would separate 'represent' + 'ation' correctly already. However, the entry is technically correct as-is.",
-    "suggestion": "No change needed; the split is acceptable. However, if pursuing maximum granularity, note that 'represent' is itself 're-' + 'present', but this is likely beyond the scope for this game.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ation' suffix is labeled as 'root' but it is a derivational suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '-ция/-ение' does not match the canonical glossary format. The canonical entry for '-tion/-sion' should be used.",
+    "suggestion": "-tion"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ing' suffix is labeled as 'root' but it is a suffix that forms adjectives/participles. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '-ущий/-ающий' is in Russian and describes Russian participles, not English -ing. Should use English canonical label.",
+    "suggestion": "-ing"
   },
   {
     "word": "overestimation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split into 'over' + 'estimate' + 'ion', but 'estimate' and 'ion' are presented as separate morphemes when 'estimate' is the root and '-ion' is a nominalizing suffix. However, the current split is actually acceptable since all three components are identified. A minor issue: 'tion' should more precisely be '-tion' to indicate it's a suffix, not a standalone morpheme.",
-    "suggestion": "Consider marking the suffix as '-tion' (with hyphen) to clarify it's a bound morpheme, not a free morpheme",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is labeled as 'root', but it is a noun-forming suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "interchangeable",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 'inter' + 'change' + 'able', but 'change' itself should potentially be examined. More importantly, 'able' should be marked as '-able' (with hyphen) to indicate it's a suffix, not a standalone morpheme, consistent with how bound morphemes should be marked.",
-    "suggestion": "Mark the suffix as '-able' (with hyphen) to clarify it's a bound morpheme",
-    "source_file": "en-ru.json"
+    "word": "multicultural",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'cultural' is glossed as a single root, but it is already a derived adjective (culture + -al suffix). For tile accuracy, the gloss should reflect this more clearly or the boundary should be reconsidered. The current gloss 'культурный' is acceptable as the inflected form, but does not show the morphological structure.",
+    "suggestion": "Keep as-is if treating 'cultural' as a fixed root; otherwise consider 'культур-' + '-ный' split"
   },
   {
     "word": "modernization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme split is incorrect. The word should be split as 'modern' + 'ize' + 'tion', but the -ize and -tion are being treated as separate morphemes when -ize + -tion together form the suffix -ization. The current split suggests both are independent, which is misleading.",
-    "suggestion": "Split as: modern + ization (or modern + ize + tion if you want to show the sub-parts, but clarify that -ization is the complete suffix)",
-    "source_file": "en-ru.json"
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "The split is incorrect. The word structure is 'modern' + 'ize' + 'ation', not 'modern' + 'iz' + 'ation'. The suffix '-ize' is a complete morpheme; '-iz' is not a standard English morpheme boundary.",
+    "suggestion": "Split should be: modern | ize | ation"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a suffix (derivational suffix forming verbs), not a root.",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix (derivational suffix forming nouns from verbs), not a root.",
+    "suggestion": "morphemeType should be 'suffix'"
   },
   {
     "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same as modernization: the -ize and -tion should not be split separately. The first part should be 'industri' or 'industrial' should be further split as 'industry' + 'al', then + '-ization'.",
-    "suggestion": "Split as: industry + al + ization, or industri + alization",
-    "source_file": "en-ru.json"
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "The split is incorrect. The word structure is 'industrial' + 'ize' + 'ation', not 'industrial' + 'iz' + 'ation'. The suffix '-ize' is a complete morpheme.",
+    "suggestion": "Split should be: industrial | ize | ation"
   },
   {
-    "word": "encouragement",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The Russian 'поощрение' (encouragement/reward) is the correct translation for the noun, but the verb 'поощрять' was given for 'encourage'. While related, using the noun form 'поощрение' for the short translation of the noun 'encouragement' is appropriate and correct, so this entry is actually fine.",
-    "suggestion": "No change needed - entry is correct",
-    "source_file": "en-ru.json"
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a suffix, not a root.",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix, not a root.",
+    "suggestion": "morphemeType should be 'suffix'"
   },
   {
     "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 'dis' + 'appoint' + 'ment', but 'appoint' itself is a compound from 'a' (to, from Old French 'a') + 'point' (from Latin 'punctum'). However, for a learner-focused dictionary, the current split is acceptable. A more significant issue: 'appoint' is not transparently 'ap' + 'point' in modern English morphology—it's a lexicalized Romance borrowing. The entry treats it as a simple root, which is appropriate for this level.",
-    "suggestion": "The entry is acceptable as-is; no change needed.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'appoint' should be a short label, not a full translation. 'назначить' (to appoint) is too long for a tile label and doesn't convey the meaning-bearing root clearly for learners. The glossary entry for 'appoint' is 'appoint → назначить', but for a tile, a shorter, more abstract label describing the core morpheme is better.",
+    "suggestion": "appoint (root gloss should be concise; consider 'assign' or keep 'appoint' as the English label, or use a brief Russian equivalent like 'назнач')"
+  },
+  {
+    "word": "disappointment",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '-ение' is too specific to one Russian suffix form. The canonical glossary entry for -ment is '-ment → -ment', showing it should be labeled as '-ment' not '-ение'. For consistency with the glossary and brevity for tile labels, the label should match the glossary convention.",
+    "suggestion": "-ment"
+  },
+  {
+    "word": "acknowledgment",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '-ение' is too specific and does not match the canonical glossary entry for -ment, which lists '-ment → -ment'. Tile labels should be consistent with glossary conventions and kept brief.",
+    "suggestion": "-ment"
+  },
+  {
+    "word": "courageous",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '-ый' does not match the canonical glossary entry for -ous, which is '-ous → -ый'. The tile label should use the English morpheme form for consistency with glossary convention.",
+    "suggestion": "-ous"
   },
   {
     "word": "outrageous",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The homeLangDetails correctly identifies this as a frozen compound and notes the etymological deception. However, the entry then glosses 'outrage' as 'возмущение' (indignation/outrage as a feeling), which is correct for modern English. The detailed explanation is accurate and helpful, so no flag is warranted for accuracy.",
-    "suggestion": "No change needed; the entry correctly flags the frozen-compound issue and provides appropriate context.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '-ый' does not match the canonical glossary entry for -ous, which is '-ous → -ый'. The tile label should use the English morpheme form for consistency with glossary convention.",
+    "suggestion": "-ous"
+  },
+  {
+    "word": "advantageous",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang label '-ый' does not match the canonical glossary entry for -ous, which is '-ous → -ый'. The tile label should use the English morpheme form for consistency with glossary convention.",
+    "suggestion": "-ous"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "\"extra\" is a prefix meaning \"beyond/extra\", not a root morpheme",
+    "suggestion": "Change morphemeType to \"prefix\""
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "\"ordinary\" is itself a complete word/root, but in this compound it functions as the modified root following the prefix \"extra-\". However, the split treats it as a bare root when it should be recognized as the primary semantic base",
+    "suggestion": "Change morphemeType to \"root\" (already correct, but confirm the semantic analysis)"
   },
   {
     "word": "remarkable",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Russian translation 'совершил замечательное восстановление' is awkward. The verb 'совершил' (accomplished/performed) is unnatural with 'восстановление' (recovery). Should use 'сделал' or better yet structure it differently.",
-    "suggestion": "Спортсмен совершил замечательное возвращение в спорт после травмы. или У спортсмена было замечательное восстановление после травмы.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss \"замечать, обращать внимание\" is a verb gloss, but \"remark\" in \"remarkable\" is a noun root meaning \"observation/comment\", not the verb \"to remark\". The -able suffix attaches to the noun to mean \"worthy of remark\"",
+    "suggestion": "Change to \"замечание, наблюдение\" or \"заслуживающий внимания\""
   },
   {
-    "word": "expandable",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Russian translation 'может быть расширена' is somewhat awkward. 'Раздвижной' or 'расширяемый' would be more natural descriptors used directly.",
-    "suggestion": "Эта коробка для хранения раздвижная и позволяет увеличить пространство при необходимости. or Эту коробку для хранения можно расширить, когда нужно больше места.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "incomprehensible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split into three morphemes: in + comprehend + ible, not just in + comprehensible. The suffix -ible is a productive morpheme that should be separated.",
-    "suggestion": "Split into: in (не-), comprehend (понимать), ible (-ный/-ый). Or at minimum acknowledge that 'comprehensible' itself contains the suffix -ible.",
-    "source_file": "en-ru.json"
+    "word": "predictable",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "\"predict\" is a verb, but the gloss should reflect what it means in the context of forming an adjective with -able. The suffix -able attaches to verbs to mean \"can be X-ed\", so \"predict\" here means the action of predicting. The gloss \"предсказывать\" is correct for the verb root",
+    "suggestion": "Gloss is acceptable as-is; no change needed"
   },
   {
     "word": "compartmentalize",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as: compartment + al + ize, but 'compartment' itself is a compound (com + part + ment) that could be further decomposed. More importantly, the current split is incomplete—it should show compartment (which contains 'ment' as a separate morpheme).",
-    "suggestion": "Either split as compartment + al + ize (acceptable) or acknowledge that compartment contains 'ment'. The current analysis is acceptable but borderline for completeness.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ный/-ый' is the standard form-building suffix, but here 'al' is functioning as part of the root 'compartmental' (adjective), not as a standalone derivational suffix. The label should reflect what the morpheme does in this specific word context, not just a generic adjectival suffix.",
+    "suggestion": "-al"
   },
   {
-    "word": "compartmentalize",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'разделять по отделениям' (divide into compartments) does not match the actual English meaning. 'Compartmentalize' means to separate mentally or psychologically into distinct, isolated categories—it's not about physical division but about mental/emotional separation.",
-    "suggestion": "Change to 'отделять, разграничивать (психологически)' or 'мысленно разделять' to reflect the psychological/mental separation aspect of the word.",
-    "source_file": "en-ru.json"
+    "word": "helpfully",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ful' is correct in the canonical glossary, but the Russian gloss 'помощь' (help) is incorrect for this context. The suffix -ful means 'full of' or 'characterized by', not simply the root meaning. It should be glossed as '-ful' to match the glossary convention for tile labels.",
+    "suggestion": "-ful"
   },
   {
     "word": "helpfully",
     "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Russian translation 'Она полезно объяснила инструкции' is unnatural. The adverb полезно doesn't work well here in Russian.",
-    "suggestion": "Use 'Она любезно объяснила инструкции' or 'Она помогла объяснить инструкции' instead.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "hopefully",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'hope' is glossed as 'надежда' (noun), but in 'hopefully' it functions as a verb root. The gloss should reflect the verbal sense.",
-    "suggestion": "Change to 'надеяться' or note that it's the noun form used as a base for affixation",
-    "source_file": "en-ru.json"
+    "field": "translationShort",
+    "issue": "The example sentence 'She helpfully explained the instructions' translates awkwardly to Russian as 'Она полезно объяснила инструкции'. The more natural Russian rendering would be 'Она любезно/услужливо объяснила инструкции' or 'Она помогла, объяснив инструкции'. 'Полезно' is more about being useful than about the manner of action.",
+    "suggestion": "услужливо, любезно"
   },
   {
     "word": "thankfully",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thank' is glossed as 'спасибо' (an interjection/fixed phrase), but 'thank' is a verb. The gloss should be the verb form.",
-    "suggestion": "Change to 'благодарить' or 'спасибо (от глагола благодарить)'",
-    "source_file": "en-ru.json"
+    "issue": "The gloss 'спасибо' (thank you) is misleading for this morpheme in context. In 'thankfully', 'thank' is a root meaning gratitude/appreciation, but the adverb 'thankfully' primarily means 'fortunately' (expressing relief), not 'gratefully'. The homeLang label should reflect the core root meaning more neutrally.",
+    "suggestion": "благодарность"
+  },
+  {
+    "word": "thankfulness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'благодарить' (to thank/be grateful) is too long for a tile label. Should be a short, concise equivalent.",
+    "suggestion": "спасибо"
   },
   {
     "word": "thoughtfully",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thought' is glossed as 'думать' (infinitive: to think), but in this context it represents the noun 'thought' (мысль/мышление), not the verb. The part should reflect the noun form.",
-    "suggestion": "Change homeLang to 'мысль' or 'мышление' to accurately represent the noun 'thought' used in word formation",
-    "source_file": "en-ru.json"
+    "issue": "The homeLang gloss 'думать' (to think) is too long for a tile label and doesn't capture the meaning of 'thought' as a past participle/adjective root in this context.",
+    "suggestion": "мысль"
   },
   {
     "word": "thoughtlessness",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thought' is glossed as 'думать' (infinitive: to think), but in this context it represents the noun 'thought' (мысль/мышление), not the verb. The part should reflect the noun form.",
-    "suggestion": "Change homeLang to 'мысль' or 'мышление' to accurately represent the noun 'thought' used in word formation",
-    "source_file": "en-ru.json"
+    "issue": "The homeLang gloss 'думать' (to think) is too long for a tile label and doesn't capture the meaning of 'thought' as a past participle/adjective root in this context.",
+    "suggestion": "мысль"
+  },
+  {
+    "word": "fearlessly",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang gloss 'страх' (fear) is correct semantically, but for tile labels it should be more concise.",
+    "suggestion": "страх"
   },
   {
     "word": "beautifully",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The first morpheme is split as 'beauty' but the actual morpheme in 'beautifully' is the bound stem 'beauti-', not the full word 'beauty'. The entry's own homeLangDetails acknowledges this distinction but the parts list shows it incorrectly.",
-    "suggestion": "Change parts[0].targetLang from 'beauty' to 'beauti-' to accurately reflect the bound morpheme",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should be a short tile label, not a full Russian word. Current value 'красота' is correct semantically but violates the ~4-word label convention. Should be abbreviated or use glossary form.",
+    "suggestion": "beauty"
   },
   {
     "word": "powerfully",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Russian translation 'Оратор выступил с мощным и убедительным аргументом' is not a natural translation of 'The speaker delivered a powerfully persuasive argument.' The English 'powerfully persuasive' modifies the manner of delivery, but the Russian shifts to describing the argument itself as 'powerful and persuasive'. A more natural translation would be 'Оратор произнёс убедительный аргумент с большой силой' or similar.",
-    "suggestion": "Revise exampleTranslation to better capture the adverbial sense of 'powerfully' modifying how the argument was delivered",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang contains two Russian words separated by comma ('сила, мощь'), exceeding the brief tile label convention of ~4 words max.",
+    "suggestion": "power"
+  },
+  {
+    "word": "powerlessness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang contains two Russian words separated by comma ('сила, мощь'), exceeding the brief tile label convention of ~4 words max.",
+    "suggestion": "power"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'ement' is labeled as 'root' but it is a suffix (-ment) forming nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "improvement",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang gloss 'одобрять' (approve) is misleading. While 'prove' etymologically relates to Latin 'probare', in the context of 'improve' the relevant meaning is 'make better/advance', not 'approve'. The explanation acknowledges this but the gloss itself is confusing.",
-    "suggestion": "Change homeLang to 'улучшение/совершенствование' or 'делание лучше' to better reflect the actual meaning in the compound",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'ement' is labeled as 'root' but it is a suffix (-ment) forming nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "advertisement",
-    "category": "incomplete_split",
-    "field": "parts[2].targetLang",
-    "issue": "The suffix is split as 'ise' but British English spelling (used in most dictionaries) is 'advertisement' with '-ment' directly after 'vert'. The morphological sequence should be advertis(e) + ment, where 'ise' is the verbal suffix and 'ment' converts the verb to a noun. Splitting 'ise' separately obscures the standard morphological structure.",
-    "suggestion": "Reconsider the split: either show it as 'ad + vert + ise + ment' with clear explanation that 'ise' is a verbal suffix, or merge 'ise + ment' as the nominalizing complex, depending on pedagogical goals",
-    "source_file": "en-ru.json"
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ement is a suffix, not a root. It's a nominalizing suffix that creates nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "retirement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The etymology connecting 'tired' to 'tir' (pull/draw) is misleading. 'Tired' comes from Old French 'tirer' meaning to draw/pull, but the semantic connection to being 'worn out' is not straightforward from pulling. The homeLangDetails suggests 'tired' means 'worn out from being pulled,' which is a folk etymology rather than accurate linguistic explanation.",
-    "suggestion": "Remove or clarify the 'tired' example. Focus on the accurate meaning: 'tir' from Old French 'tirer' (to draw, pull) → in 'retire' it means 'to withdraw' or 'step back.' Do not conflate this with the modern adjective 'tired.'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ement is a suffix, not a root. It's a nominalizing suffix that creates nouns from verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "department",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme 'de' is marked as a single unit, but the entry's own homeLangDetails correctly notes that 'department' is a frozen compound from Old French 'departir' (to divide/separate). The split 'de-part-ment' misleadingly suggests these are productive morphemes, when in fact 'de-' and 'part' do not function as separable morphemes in this word. The word should either be treated as a single unsplit unit or the analysis should acknowledge it as a frozen compound.",
-    "suggestion": "Either: (1) Remove the split and treat 'department' as a single lexicalized unit, or (2) Keep the split but revise parts[0] to clarify that 'de' is NOT a productive prefix here—it is fused with 'part' in the Old French form 'departir.'",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "replacement",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The Russian translation 'человек или вещь, которые занимают место чего-то другого' is awkwardly constructed. It uses plural constructions ('которые') with singular nouns, which is unnatural in Russian.",
-    "suggestion": "Change to: 'человек или вещь, которые занимают место чего-то другого' → 'человек или вещь, занимающие место чего-то другого' or more naturally: 'человек или вещь, предназначенные заменить что-то другое'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "part is a root, but the entry labels it as 'root' when it should be clarified. However, the real issue is that 'part' here is not a free root in the modern English analysis — it's part of a lexicalized compound. More importantly, the morphemeType is correct as 'root', so no flag needed here. Checking other parts: de is labeled prefix (correct), ment is labeled suffix (correct).",
+    "suggestion": ""
   },
   {
     "word": "unexpectedly",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'expect' should be further split into 'ex' (prefix meaning 'out') and 'pect' (from Latin spectare, to look/watch). The current splitting treats 'expect' as an atomic unit when it contains a productive prefix.",
-    "suggestion": "Split 'expect' into 'ex' and 'pect', or at minimum acknowledge in homeLangDetails that 'expect' itself is a prefixed form.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ed' suffix is labeled as 'root', but it is a derivational suffix that forms adjectives from verbs (expected, past participle form used as adjective). It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-y' suffix is missing a morphemeType. It should be 'suffix' since it is a derivational suffix forming adjectives from nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "unexpectedly",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'expect' is just 'expect' (untranslated). It should provide a Russian translation or gloss.",
-    "suggestion": "Change to 'ожидать' or 'ожидание' with appropriate details.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "unexpectedly",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLang",
-    "issue": "The homeLang for '-ed' is just '-ed (прилагательное)' which is incomplete. It should clarify that '-ed' here functions as an adjective suffix meaning 'having the quality of' or similar.",
-    "suggestion": "Expand to something like '-ed (прилагательное, причастие прошедшего времени)' with explanation of how it transforms verbs to adjectives.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "unreasonable",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss 'разум' (mind/intellect) is technically correct but 'reason' in 'unreasonable' carries a broader sense of 'rationality/justification/grounds' rather than just 'mind'. The translation 'неразумный' (irrational) is narrow and doesn't capture the full sense of 'unreasonable' (unjustifiable, excessive).",
-    "suggestion": "Expand homeLang to 'разум/основание' or adjust homeLangDetails to clarify that 'reason' here means 'rational justification' or 'grounds', not just abstract mind.",
-    "source_file": "en-ru.json"
+    "issue": "The homeLang for 'expect' is just 'expect' in English, which is not a translation. It should be translated into Russian following the glossary convention.",
+    "suggestion": "ожидать"
   },
   {
     "word": "unwillingness",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The word is split incorrectly. It contains 'un-' + 'willing' + '-ness', but the entry splits it as 'un' + 'will' + 'ing' + 'ness', treating 'willing' as 'will' + 'ing'. While 'willing' does contain these morphemes, the entry then duplicates the suffix by listing both 'ing' (marked as '-ness') and 'ness' separately, which is confusing and incorrect.",
-    "suggestion": "Split as: un + willing + ness (three parts). 'Willing' should not be further decomposed in this entry since it's a standard adjective form.",
-    "source_file": "en-ru.json"
+    "issue": "The word is incorrectly split into 4 parts. 'willing' is the adjective root (from 'will' + '-ing' used adjectivally), and '-ness' is the nominalizing suffix. The current split treats 'ing' and 'ness' as separate morphemes, but 'ing' here is part of the adjective 'willing', not a standalone morpheme.",
+    "suggestion": "Split should be: un- | willing | -ness (3 parts, not 4)"
   },
   {
     "word": "unwillingness",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The morpheme 'ing' is glossed as '-ness' in homeLang, which is incorrect. The '-ing' suffix here is part of 'willing' (an adjective derived from 'will'), not a standalone morpheme being labeled as '-ness'.",
-    "suggestion": "Remove parts[2] entirely, or if keeping the decomposition of 'willing', correctly label 'ing' as '-ing' (present participle/verbal adjective suffix), not '-ness'.",
-    "source_file": "en-ru.json"
+    "issue": "Part 2 (targetLang: 'ing') is glossed as '-ness', which is incorrect. This 'ing' is the adjectival suffix that forms 'willing' from 'will', not a standalone morpheme with the meaning of '-ness'.",
+    "suggestion": "-ing (or remove this part entirely if the split is corrected)"
   },
   {
     "word": "reconsideration",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word 'reconsideration' is split as 're' + 'consider' + 'tion', but 'consider' itself could be further analyzed. More importantly, 'tion' should be '-ation' (the full suffix), not just 'tion'.",
-    "suggestion": "Either keep 'consider' as the root and use '-ation' as the suffix (re + consider + -ation), or note that the split is acceptable if 'consider' is treated as an indivisible root morpheme.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "Part 2 (targetLang: 'ation') is marked as 'root', but it is a suffix that derives nouns from verbs. '-ation' is a nominalizing suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "reorganization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as re + organize + tion, but 'organize' itself contains the morpheme 'organ' which could be noted. More importantly, the morpheme boundary between 'organize' and 'tion' is correct, but the analysis misses that 'organize' is already a complete morpheme unit. However, the real issue is that parts[1] lists 'organize' as a homeLang translation of 'организовать' when it should reflect that this is the base verb form, not a full translation equivalent in isolation.",
-    "suggestion": "Either keep the current structure or clarify that 'organize' is the verb stem that 'tion' nominalizes. The current approach is acceptable but could be more precise about the semantic relationship.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang should gloss the root 'organ' but says 'организовать' (the verb form). The root 'organ' means структура/устройство, not the full verb.",
+    "suggestion": "структура"
   },
   {
-    "word": "reintroduction",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word 'introduce' itself is a compound morpheme (intro + duce) but is treated as a single unit. For consistency with morphological depth, 'introduce' should ideally be further decomposed or at least noted as already containing meaningful sub-parts.",
-    "suggestion": "Either split 'introduce' into 'intro' + 'duce' or add a note that 'introduce' is itself a prefixed form (intro- meaning 'inward' + duce meaning 'lead').",
-    "source_file": "en-ru.json"
+    "word": "reorganization",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang for 'iz' should be '(-ize)' per glossary, not a duplicate '-ция/-ция'",
+    "suggestion": "(-ize)"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] 'iz' is a suffix (-ize), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "parts[3] 'ation' is a suffix (-tion), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "recycling",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The homeLang translation 'цикл/циклить' is somewhat misleading. While 'cycle' does relate to 'цикл' (cycle/round), the verbal sense in 'recycle' is better captured as 'перерабатывать' or 'переиспользовать', not literally 'циклить' which is not standard Russian.",
-    "suggestion": "Change homeLang to 'цикл (повторный цикл)' or note that the meaning is closer to 'пропустить через цикл заново'. The homeLangDetails explanation is good but the homeLang field itself should more clearly reflect the actual Russian equivalent.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] 'ing' is a suffix (-ing), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "communication",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'общение, коммуникация' is redundant and the second part is just a transliteration. A single, natural Russian term would be better.",
-    "suggestion": "Use 'общение' or 'коммуникация' alone, or provide two genuinely distinct translations",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ication is a suffix, not a root. It consists of -icate (to make/do) + -tion (nominalization).",
+    "suggestion": "suffix"
   },
   {
     "word": "education",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'Процесс обучения' (process of learning) is overly narrow and doesn't capture the full meaning of 'education'. The word refers more broadly to the institution and system, not just the process.",
-    "suggestion": "Use 'образование' or 'образование, обучение' to better reflect the full scope",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "introduction",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "'intro' should be further split into 'in' (in, into) + 'tro' (related to turn/movement), not presented as a single monolithic unit. The entry treats 'intro-' as atomic when it is itself composed of elements.",
-    "suggestion": "Split 'intro' into its component parts: 'in' + 'tro' with separate homeLang entries, or acknowledge that 'intro-' is a compound form of 'in-' + turn/movement element",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "intro is a prefix (intro-), not a root. It means 'into/inward' and is bound to the root that follows.",
+    "suggestion": "prefix"
   },
   {
-    "word": "imagination",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme is split as 'ag' but should be 'agin' to properly represent the Latin root 'imag-' (image). The split 'im + ag + ination' doesn't align with the actual morphological structure 'im + agin + ation'.",
-    "suggestion": "Change parts[1].targetLang from 'ag' to 'agin' and adjust parts[2].targetLang from 'ination' to 'ation' for proper morpheme boundaries.",
-    "source_file": "en-ru.json"
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-iation' is a suffix (combines -ate + -ion to form nominals), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix (forms nominals from verbs), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "examination",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang and parts[2].targetLang",
-    "issue": "The split 'ex + am + ination' is incorrect. The actual morpheme structure should be 'ex + amin + ation' (examine → examination). The current split 'am + ination' doesn't properly isolate the root morpheme.",
-    "suggestion": "Change parts[1].targetLang from 'am' to 'amin' and parts[2].targetLang from 'ination' to 'ation' to correctly represent the morphological structure.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix (forms nominals), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix (forms nominals), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "population",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The split 'pop + ulation' is imprecise. The morpheme structure should be 'popul + ation' (populate → population). The suffix should be separated from the root 'popul-' rather than leaving 'ulation' as one unit.",
-    "suggestion": "Change parts[0].targetLang from 'pop' to 'popul' and parts[1].targetLang from 'ulation' to 'ation', or keep as is only if the intent is to show 'popul-' as the combined morpheme base.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ulation' is a suffix combining -ul-, -ate, and -ion (forms nominals from verbs), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "conversation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'неформальное обсуждение' (informal discussion) is too restrictive. A conversation can be formal or informal.",
-    "suggestion": "Use 'беседа' or 'разговор' without the qualifier 'неформальное', or expand to 'беседа; разговор'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-tion' is a suffix forming abstract nouns from verbs, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix forming abstract nouns from verbs, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reflection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix forming abstract nouns from verbs, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix forming abstract nouns from verbs, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "protection",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'про-/вперед' is misleading for the 'pro-' in 'protection'. In this word, 'pro-' means 'before/in front of' (protective shielding), not 'forward'. The Russian analogy to Russian 'про-' is also imprecise here.",
-    "suggestion": "Revise to 'про-/перед' (before/in front of) or clarify that in 'protection' it means 'in front of' (providing cover), distinct from the 'forward' sense",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix forming abstract nouns from verbs, not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "invitation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'vit' is incomplete. The root should be 'vite' (to call/invite), and the split should account for the full morpheme boundary.",
-    "suggestion": "Split as 'in' + 'vite' + 'ation' rather than 'in' + 'vit' + 'ation'",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a derivational suffix that converts verbs to nouns",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "preparation",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'par' does not accurately represent the root. The correct root is 'pare' (to prepare/make ready), not 'par'. The boundary is placed incorrectly.",
-    "suggestion": "Split as 'pre' + 'pare' + 'ation' rather than 'pre' + 'par' + 'ation'",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The root 'par' is glossed as 'снаряжать/готовить' (prepare), but the glossary entry for 'par' is 'часть' (part). The actual root here should reflect the Latin 'parare' (to prepare), which doesn't match the glossary. However, the gloss given is functionally correct for this word's meaning.",
+    "suggestion": "Verify against glossary or use 'готовить' as more accurate for this specific word"
   },
   {
     "word": "preparation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The example 'доисторический' (prehistoric) does not contain the prefix 'пред-' but rather 'до-' (before/pre-). This is a misleading example.",
-    "suggestion": "Use clear examples like 'предсказание' (prediction) or 'предварительный' (preliminary) instead",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a derivational suffix that converts verbs to nouns",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "organization",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The split 'organ' + 'ize' + 'ation' is incomplete. 'Organ' is itself a full morpheme from Latin 'organum', but the morpheme boundary should reflect 'organ' + 'iz' + 'ation' (where 'iz' is the suffix forming verbs).",
-    "suggestion": "Consider splitting as 'organ' + 'iz' + 'ation' to better show the verbal suffix",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'iz' is marked as 'root' but it is a derivational suffix (-ize) that converts nouns/adjectives to verbs",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a derivational suffix that converts verbs to nouns",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'орудие/структура' is lengthy for a tile label; should be more concise",
+    "suggestion": "Simplify to something like 'орудие' or 'структура'"
   },
   {
     "word": "simplification",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The split 'simple' + 'ify' + 'ation' misses an internal morpheme boundary. The correct split should be 'simpli' + 'fy' + 'ation' or 'simple' + 'f' + 'ication', as 'fy' is the suffix that creates verbs from adjectives, not 'ify'.",
-    "suggestion": "Split as 'simple' + 'fy' + 'ation' (where 'ify' = '-ify' is the causative suffix)",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'simpl' is marked as 'root' but the word structure shows simpl-ific-ation. 'Simpl' is the root, but checking the morphemeType field: it should be 'root'. This is actually correct.",
+    "suggestion": "No change needed - 'simpl' is correctly marked as root"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ific' is marked as 'root' but it is a derivational suffix (-ific/-ify) that forms verbs",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ation' is marked as 'root' but it is a derivational suffix that converts verbs to nouns",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The morpheme 'sat' is marked as 'root' but in satisfaction it is part of the Latin root 'satis' (enough); however, 'sat' here functions as a bound root element within the word structure",
+    "suggestion": "Keep as 'root' - this is correct for a bound root"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'is' is marked as 'root' but it is a linking/combining element (from Latin '-facere' meaning 'to make'). It should be treated as a suffix or linking element, not a root",
+    "suggestion": "Change morphemeType to 'suffix' or 'linking'"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-faction' is marked as 'root' but '-tion' is a derivational suffix; the parsing appears to include '-faction' as a combined unit. If 'faction' is meant to represent the nominal suffix '-tion', it should be marked as 'suffix'",
+    "suggestion": "Change morphemeType to 'suffix' and reconsider the morpheme boundary"
   },
   {
     "word": "satisfaction",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The split 'sat' + 'is' + 'faction' is incorrect. The correct morpheme boundary is 'satis' (enough/sufficient) + 'fy' (make) + 'ation', not 'sat' + 'is' + 'faction'. The current split does not reflect the actual morpheme structure.",
-    "suggestion": "Split as 'satis' + 'fy' + 'ation' rather than 'sat' + 'is' + 'faction'",
-    "source_file": "en-ru.json"
+    "issue": "The word should be parsed as 'sat-is-fac-tion' or more accurately 'sat-is-fac-tion', but the split 'sat/is/faction' treats '-faction' as a single unit. The correct split should separate '-tion' as the nominalizing suffix and '-fac-' as the 'making' element",
+    "suggestion": "Reconsider the morpheme boundary: 'sat' + 'is' + 'fac' + 'tion' or group as 'sat' + 'is' + 'faction' where 'faction' = 'fac' + 'tion'"
   },
   {
-    "word": "satisfaction",
-    "category": "false_cognate",
-    "field": "parts[2].homeLang",
-    "issue": "The gloss 'faction' as '-ция/-ание' is incorrect. 'Faction' is not a suffix in English; it should be '-ation' or more accurately the combined result of '-fy' + '-ation'.",
-    "suggestion": "Change 'faction' to 'ation' with homeLang '-ция/-ание', or restructure the split entirely",
-    "source_file": "en-ru.json"
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'ific' is a suffix, not a root. It is a derivational suffix that converts nouns/adjectives to verbs (like -ify).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ation' is a suffix, not a root. It is a derivational suffix that converts verbs to nouns (nominalizing suffix).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'ific' is a suffix, not a root. It is a derivational suffix that converts nouns/adjectives to verbs (like -ify).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ation' is a suffix, not a root. It is a derivational suffix that converts verbs to nouns (nominalizing suffix).",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "The prefix 'e' should be 'ex' or 'eval' should not be split as 'e-val'. The actual morpheme boundary is 'e(x)-' as a prefix, but 'e' alone is incomplete and misleading.",
-    "suggestion": "Split as 'ex' (prefix meaning 'out') + 'val' (value) + 'uation', or reconsider the split to make it clearer that 'e-' here is part of 'ex-' prefix",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "evaluation",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-uation' should be further split as '-u-' (connecting vowel) + '-ation' (noun-forming suffix) for morphological clarity, or kept as '-ation' with the '-u-' as a connecting element.",
-    "suggestion": "Either split as '-u' + '-ation', or consolidate the gloss to reflect that '-uation' functions as a single nominalizing suffix",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'uation' is a suffix, not a root. It is a derivational suffix that converts verbs to nouns (nominalizing suffix, equivalent to -tion).",
+    "suggestion": "suffix"
   },
   {
     "word": "understandable",
     "category": "frozen_compound",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation correctly identifies 'understand' as a frozen compound where 'under' no longer means 'under' in the modern synchronic reading, but the morpheme split itself presents 'under' as a separable prefix with the historical meaning 'under', which could mislead learners into thinking the morpheme boundary is transparent.",
-    "suggestion": "Add a note in the entry or parts section flagging this as a frozen/lexicalized compound where the morpheme split reflects historical etymology rather than modern morphological productivity",
-    "source_file": "en-ru.json"
+    "field": "parts[0].homeLang",
+    "issue": "In 'understand', 'under' is not semantically active in the modern word. The homeLangDetails correctly explain this is a frozen compound where 'understand' no longer means 'stand under' but simply 'comprehend'. The gloss '(under)' or 'под-' is misleading for a puzzle tile because it obscures the actual meaning. The tile should indicate the frozen/compositional nature or use a more accurate single-word label.",
+    "suggestion": "(part of 'understand')"
   },
   {
-    "word": "affordable",
-    "category": "incomplete_split",
-    "field": "parts[0]",
-    "issue": "'afford' is itself a complex word (possibly 'af-' + 'ford' or with Old French roots) but is presented as a simple root without acknowledging this complexity.",
-    "suggestion": "Either verify that 'afford' should be presented as an atomic root for this level of morpheme analysis, or flag that deeper analysis is possible but beyond the current scope",
-    "source_file": "en-ru.json"
+    "word": "dependable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The suffix -able/-ible should be glossed as '-able' per the canonical glossary, not '-ный'. While the homeLangDetails explanation is accurate, the tile label must match the glossary convention.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "incredible",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -ible should be glossed as '-able' per the canonical glossary, not '-ный'.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -ible should be glossed as '-able' per the canonical glossary, not '-ный'.",
+    "suggestion": "-able"
   },
   {
     "word": "impossible",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'poss' is glossed as 'мощь, сила' (power, strength), but it actually comes from Latin 'posse' meaning 'to be able' or 'power/possibility'. The gloss should reflect 'ability/possibility' not just 'power/strength'.",
-    "suggestion": "Change homeLang to 'возможность, способность' (possibility, ability)",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -ible should be glossed as '-able' per the canonical glossary, not '-ный'.",
+    "suggestion": "-able"
   },
   {
     "word": "irresponsible",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'respons' is glossed as 'отвечать, откликаться' (answer, respond), but the actual root is from Latin 'respondere' which means 'to answer back' or more abstractly 'to be accountable/responsible'. The gloss oversimplifies and doesn't capture the 'accountability' sense.",
-    "suggestion": "Change homeLang to 'отвечать за, быть ответственным' (be answerable for, be responsible)",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The suffix -ible should be glossed as '-able' per the canonical glossary, not '-ный'.",
+    "suggestion": "-able"
   },
   {
     "word": "irreversible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The part 'reverse' should be further split into 're' (приставка повтора/возврата) and 'verse' (корень, от латинского vertere — поворачивать). The morphological structure is: ir- + re- + verse + -ible, not ir- + reverse + -ible.",
-    "suggestion": "Split 'reverse' into 're' (приставка возврата) and 'verse' (поворачивать/поворот), or clarify that 'reverse' is a sub-compound being treated as a single unit.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang should be a short label like other roots (e.g., 'turn/change'), not a full verb form 'развернуть'. The canonical glossary shows 'vers' → 'поворачивать', not 'revers' → 'развернуть'. Also, 'revers' means 'turn back' or 'reverse', so the gloss should reflect that reversal/turning sense.",
+    "suggestion": "поворот/вспять"
   },
   {
     "word": "indestructible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The part 'destruct' should be further analyzed. It comes from Latin 'destruere' (de- + struere). The entry treats 'destruct' as a single root, but 'de-' is a prefix meaning 'down/away from' and 'struct' means 'to build'. This creates ambiguity about the morpheme boundaries.",
-    "suggestion": "Either split into 'de' + 'struct' or clarify that 'destruct' is being treated as a learned Latinate root for pedagogical simplicity.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang is too verbose and not in the compact label style. Should match the glossary entry style: 'destruct' → 'разрушить' is in the glossary (as 'destroy'), so use a shorter equivalent.",
+    "suggestion": "разрушить"
   },
   {
-    "word": "supernatural",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The part 'natur' is incomplete; it should be 'nature' (the full root). Splitting as 'natur-' suggests an incomplete stem form when the English root is 'nature'.",
-    "suggestion": "Change 'natur' to 'nature' (природа/природный) for consistency and clarity.",
-    "source_file": "en-ru.json"
+    "word": "international",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'нация' is a noun, but the tile label should be short and match glossary convention. Check: glossary has 'nation' → 'нация', which is correct, but homeLang should be brief like other roots.",
+    "suggestion": "нация"
   },
   {
     "word": "prehistoric",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The part 'historic' should be further split into 'histo' (история) + 'ric' (-ный), or at minimum the entry should clarify that 'historic' is being treated as a pre-formed adjective stem rather than split into its components.",
-    "suggestion": "Either split 'historic' into 'histo' + 'ric' or note that 'historic' is a complete adjective being used as a sub-unit (similar to how 'reverse' is used in 'irreversible').",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang 'историческое время' is a long descriptive phrase, not a proper tile label. The glossary shows 'historic' → 'историческое время', but for a tile label this should be much shorter. The root sense is about 'history' or 'historical'.",
+    "suggestion": "история"
   },
   {
     "word": "antibiotic",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'против бактерий' (against bacteria) is too literal and incomplete. It doesn't capture that an antibiotic is a substance/medicine, not just something directed against bacteria.",
-    "suggestion": "Change to 'антибиотик' or 'вещество против бактерий' to better reflect that it's a medicinal substance",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'прилаг.' (adjective) is a grammatical abbreviation, not a tile label. The morpheme -tic should be glossed with its actual meaning in Russian.",
+    "suggestion": "-ic (forming adjectives)"
   },
   {
     "word": "automatically",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 'auto' + 'matic' + 'ally', but 'matic' is itself part of the root 'automatic' which comes from Greek 'automatos'. The morphological analysis treats 'matic' as a single morpheme meaning 'механический', but it's more accurately part of the adjective stem that then takes the '-ly' adverb suffix.",
-    "suggestion": "Consider splitting as 'automatic' (one unit) + 'ally' (adverb suffix), or clarify that 'matic' is not a productive morpheme but part of the root",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'matic' is labeled as 'root', but it is a suffix (or bound morpheme forming adjectives), not a standalone root. It comes from Greek 'machina' but functions here as part of the derivational suffix sequence.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'ally' (a suffix deriving adverbs from adjectives) is labeled as 'root'. It is a bound suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The morpheme 'geo' should be glossed as 'geo-' (prefix notation) to match the glossary convention, not just 'земля'. The glossary entry shows 'geo-' with the dash.",
+    "suggestion": "geo-"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The morpheme 'graph' should be glossed as '-graph-' (root notation with dashes) to match the glossary. The glossary shows '-graph-/-graphy' as the canonical entry.",
+    "suggestion": "-graph-"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'geo' is a bound root element used in compounds, not a prefix in the traditional sense. It does not precede a free root; 'graph' is also a bound element. The entry in the glossary is listed as 'geo-' with hyphen, indicating it is a combining form/bound root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'graph' is a bound root element, not a root in the sense of a free morpheme. It is a combining form that appears in compounds like 'photography' and 'autograph'.",
+    "suggestion": "root"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ibility' is a derivational suffix, not a root. It is a bound morpheme that derives abstract nouns from adjectives, matching the glossary entry '-ibility → -ность'.",
+    "suggestion": "suffix"
   },
   {
     "word": "personality",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry acknowledges in homeLangDetails that 'personality' is not simply 'person' + 'ality' but rather a separate Latin borrowing with root 'persona'. However, the morpheme split still presents it as if it were a regular composition, which is misleading for learners. The split should either be removed or restructured to reflect that this is a frozen/lexicalized form.",
-    "suggestion": "Either remove the morpheme split entirely and treat 'personality' as an unanalyzable unit, or restructure to show 'persona' (not 'person') as the root, acknowledging it as a Latin borrowing rather than a productive English morpheme combination.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ality' is a derivational suffix, not a root. It is a bound morpheme that derives abstract nouns from adjectives, matching the glossary pattern ('-ity/-ty → -ity').",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "electricity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'electric' is a complete adjective (free morpheme), not a root in the bound sense. It functions as the base to which the suffix '-ity' is attached.",
+    "suggestion": "root"
   },
   {
     "word": "creativity",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation changes the meaning. The original sentence emphasizes 'creativity in solving problems', but the translation shifts to 'творческий подход' (creative approach), which is broader and loses the specific focus on creativity as a quality.",
-    "suggestion": "«Её креативность в решении проблем произвела на всех впечатление.» or «Её творческие способности при решении проблем произвели на всех впечатление.»",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'iv' (-ивный) is labeled as 'root', but it is a derivational suffix that forms adjectives from verbs or nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "productivity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'iv' (-ивный) is labeled as 'root', but it is a derivational suffix that forms adjectives. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "flexibility",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation only covers the physical meaning (bending without breaking) but the word is commonly used in abstract contexts (adaptability, versatility). The definition should reflect both meanings.",
-    "suggestion": "«качество или состояние гибкого предмета; способность приспосабливаться, адаптироваться или изменяться без потери функциональности»",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'ibil' (-ибельный, способный) is labeled as 'root', but it is a derivational suffix forming adjectives meaning 'capable of being'. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "effectively",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'чтобы снизить расходы' (in order to reduce costs) is not natural in this context. The original sentence doesn't indicate purpose/intention. The translation should be more straightforward.",
-    "suggestion": "«Новая стратегия эффективно привела к снижению расходов.» or «Новая стратегия действенно сработала для снижения расходов.»",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "creatively",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as create + -ive + -ly, not create + iv + ly. The suffix '-ive' is a complete morpheme that forms adjectives, and '-ly' is applied to the resulting adjective. The current split suggests 'iv' is a standalone morpheme, which is misleading.",
-    "suggestion": "Split as: create (-ive, adjective-forming suffix) + -ly (adverb-forming suffix). Alternatively, if teaching synchronically, use 'creative' as the base: creative + -ly.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "productively",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same issue as 'creatively': the word should be split as product + -ive + -ly, or better yet, productive + -ly. The current split with 'iv' as a separate morpheme is misleading.",
-    "suggestion": "Split as: product (-ive, adjective-forming suffix) + -ly (adverb-forming suffix). Or use 'productive' as the base: productive + -ly.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "attractively",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same issue: the word should be split as attract + -ive + -ly, or attractiv(e) + -ly. The current split with 'iv' obscures the structure.",
-    "suggestion": "Split as: attract (-ive, adjective-forming suffix) + -ly (adverb-forming suffix). Or use 'attractive' as the base: attractive + -ly.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang for 'ive' is labeled as '-ивный', but in the context of 'effectively', the 'ive' morpheme functions as part of the adjective 'effective', not as a standalone Russian suffix. The gloss should reflect the suffix's role in creating adjectives from roots (e.g., '-ive' or '(adj)' would be more appropriate for a tile label).",
+    "suggestion": "-ive"
   },
   {
     "word": "researcher",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation uses \"опубликовал\" (masculine past tense), but the example sentence refers to \"her\" (feminine). The translation should use \"опубликовала\" (feminine past tense).",
-    "suggestion": "Change to: \"Исследовательница опубликовала свои выводы в рецензируемом журнале.\" or \"Исследователь опубликовала свои выводы в рецензируемом журнале.\"",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'ре-' is correct per the glossary, but the homeLangDetails field contains a lengthy explanation (spanning multiple sentences) that violates the tile label convention. Tile labels must be brief; detailed etymological notes belong in homeLangDetails, but the homeLang field itself should remain short.",
+    "suggestion": "Keep homeLang as 're-' (already correct); the detailed explanation in homeLangDetails is acceptable as context but the tile label must stay concise"
+  },
+  {
+    "word": "researcher",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '-ник' is acceptable but generic. For the suffix -er in 'researcher', the canonical glossary maps -er/-or → '-er', not '-ник'. While '-ник' is a valid Russian equivalent, the tile label should match the glossary entry for consistency.",
+    "suggestion": "-er"
   },
   {
     "word": "employee",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The gloss '-ный/-емый' suggests passive adjective suffixes in Russian, but these are not equivalent to the English '-ee' suffix. The '-ee' suffix creates a noun for someone who receives/undergoes an action, whereas '-ный/-емый' are adjective-forming suffixes.",
-    "suggestion": "Use a more accurate description like 'объект действия' (object of action) or simply note that Russian doesn't have a direct morphological equivalent and uses separate words instead, as the homeLangDetails already explains.",
-    "source_file": "en-ru.json"
+    "issue": "The gloss '-ный/-емый' describes adjective endings, not the agent suffix -ee. The homeLangDetails correctly explains that -ee marks the object of action, but the tile label should reflect this, not adjective morphology.",
+    "suggestion": "-ный (страдательный)"
+  },
+  {
+    "word": "employee",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -ee suffix is marked as 'root', but it is a bound morpheme suffix that derives agent nouns. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo- is a combining form/prefix, not a root. It is a bound morpheme that precedes the root 'graph'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "graph is a combining root element in this word, but in English morphology it functions as part of a compound with photo-. The morphemeType should be 'root' (it is the semantic core), but the current assignment is already 'root', so this is acceptable. No flag needed — retracted.",
+    "suggestion": null
   },
   {
     "word": "investigator",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme split shows 'investigate' as a single unit, but 'investigate' itself is a compound of 'in-' (into) + 'vestigate' (from Latin vestigium, track/footprint). The entry treats the whole verb as an unanalyzable root, which is incomplete.",
-    "suggestion": "Either keep 'investigate' as the base morpheme (acceptable for English learners since 'vestigate' is not productively used), or note that it's already a compound word and provide that analysis in the homeLangDetails.",
-    "source_file": "en-ru.json"
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'invest' + 'igat' + 'or' is incorrect. The correct morpheme boundary is 'invest' (or 'investig-') + '-ate' (suffix) + '-or' (suffix). The part 'igat' is not a meaningful morpheme; 'gate' is part of the verb stem 'investigate', and -ate is a verb-forming suffix. This split artificially isolates a non-morpheme.",
+    "suggestion": "Split should be: investigate (root/stem) + or (suffix), or investig (root) + ate (suffix) + or (suffix)"
   },
   {
-    "word": "communicator",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "'Communicate' is itself decomposable as 'com-' (together) + 'municate' (from Latin munus, duty/office), similar to the 'investigate' issue. The entry presents the whole verb as an atomic unit.",
-    "suggestion": "Either accept 'communicate' as the base morpheme for practical English teaching purposes, or provide fuller analysis in homeLangDetails noting the Latin origins.",
-    "source_file": "en-ru.json"
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'igat' is marked as 'root', but it is not a valid morpheme. If the intended split is 'investig' + 'ate' + 'or', then 'igat' should not exist as a separate entry.",
+    "suggestion": "Remove or correct the boundary"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ировать' is too long for a tile label. Also, '-icate' is a suffix, not a root, and should be glossed as a verbal suffix formation, not as a standalone action verb.",
+    "suggestion": "-ify or -ate (suffix)"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-icate' is a derivational suffix, not a root. It is a bound morpheme that follows the root 'mun' to form the verb.",
+    "suggestion": "suffix"
   },
   {
     "word": "investigate",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'in-' in 'investigate' is glossed as 'в-/не-' (in/not), but the explanation conflates two distinct uses of 'in-'. The gloss should clarify that here it means 'в' (into) specifically, not the negative 'не-'. The current phrasing 'в-/не-' suggests both meanings apply, which is misleading.",
-    "suggestion": "Change homeLang to just 'в-' or 'внутрь' (into/inward) and remove the '/ не-' component, since the negative prefix is not relevant here.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ate' is a verbal suffix, not a root. It is a bound morpheme that converts the root into a verb.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ate' is a verbal suffix, not a root. It is a bound morpheme that follows the root 'labor' to form the verb.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '(лат. capere — брать)' is too long and unclear for a tile label. It should be a concise glossing label, not a parenthetical etymology note.",
+    "suggestion": "брать (take)"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ate' is a verbal suffix, not a root. It is a bound morpheme that converts the root complex into a verb.",
+    "suggestion": "suffix"
   },
   {
     "word": "congratulate",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'поздравить с достижением' (congratulate on an achievement) is too narrow. 'Congratulate' can apply to any occasion, not just achievements (e.g., 'congratulate on your birthday', 'congratulate on getting married'). The translation artificially restricts the meaning.",
-    "suggestion": "Change translationShort to 'поздравить' (congratulate) without the 'с достижением' qualifier, or use a broader phrasing like 'поздравлять с чем-либо' (congratulate on something).",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split into 4 parts (mis-inter-pret-et), but 'pret' and 'et' should not be separate morphemes. The root is 'interpret' (from Latin interpretāri), and '-et' is not a morpheme in English. The correct split should be: mis + interpret.",
-    "suggestion": "Split as: mis (не-/неправильно) + interpret (толковать, объяснять). Remove the separate 'pret' and 'et' parts.",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The claim that 'pret' comes from Latin 'praetere' meaning 'разъяснять' is historically inaccurate. The root 'interpret' comes from Latin 'interpretāri', not 'praetere'.",
-    "suggestion": "Correct the etymology to reference 'interpretāri' (Latin: to explain, translate, interpret).",
-    "source_file": "en-ru.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "false_cognate",
-    "field": "parts[3]",
-    "issue": "The '-et' is not an English morpheme or infinitive marker. Modern English infinitives use 'to + verb' (to interpret), not an '-et' suffix. This appears to be a false identification of a Latin ending as an English morpheme.",
-    "suggestion": "Remove the 'et' part entirely. The word structure in English is simply: mis + interpret.",
-    "source_file": "en-ru.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ulate' is a derivational suffix (variant of '-ate'), not a root. It is a bound morpheme that follows the root 'grat' to form the verb.",
+    "suggestion": "suffix"
   },
   {
     "word": "deconstruct",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The root 'struct' is incomplete and should include the full Latin root 'structura' or at least show that '-ure' or '-tion' forms the complete nominal/verbal element. However, as presented for a verb 'deconstruct', the morpheme breakdown is acceptable, but 'struct' alone is not a standalone English morpheme—it needs the verbal form 'construct' to make sense.",
-    "suggestion": "Either keep 'struct' with a note that it combines with 'con' to form the root 'construct' (to build), or clarify that 'struct' is the Latin root meaning 'to build/structure'.",
-    "source_file": "en-ru.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'де-/вниз/отмена' is verbose and mixes multiple interpretations. The homeLang label should match the glossary convention: 'de-' is listed as 'de-/down/undo' in brief form.",
+    "suggestion": "de-"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'кон-/вместе' does not match glossary. The glossary entry for 'con' is 'con-/together', not 'кон-/вместе'. For Russian home language, should use Russian equivalents matching the style of the glossary.",
+    "suggestion": "con-/вместе"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is split as mis-inter-pret-et, but the final 'et' is not a separate morpheme in modern English. The word is mis-inter-pret, where -pret is the root/combining form and the verbal infinitive is unmarked. The 'et' analysis is historically inaccurate for modern English morphology.",
+    "suggestion": "Split as: mis (prefix), inter (prefix), pret (root). The -et is not a separate morpheme; it is part of the Latin root used in English combining forms."
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The 'et' is labeled as 'root', but if it were treated as a separate morpheme, it would be a suffix (the verbal ending), not a root. However, the entry is fundamentally mis-split; 'et' should not be a separate part in modern English analysis.",
+    "suggestion": "Remove this part entirely; 'et' is not a productive morpheme in English."
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '(инфинитив)' describes a grammatical category rather than a morpheme meaning. Even if 'et' were kept as a morpheme, this label is not appropriate. The morpheme does not have independent meaning.",
+    "suggestion": "Remove this part and re-split the word."
   }
 ]

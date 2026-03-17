@@ -1,31 +1,103 @@
-You are reviewing morpheme dictionary entries for a language-learning game. For each entry, check for the following issues:
+You are reviewing and editing morpheme dictionary entries for a language-learning word puzzle game. The player sees each morpheme as a small tile with a short gloss label and uses those tiles as building blocks to puzzle out the word's meaning. Do not pre-solve the puzzle: each tile must reflect only what that morpheme contributes on its own, not the combined meaning of the compound it appears in.
 
-1. **frozen_compound**: The word is lexicalized and its parts no longer reflect the original meaning. Example: "beispiel" looks like bei + spiel (play) but the -spiel comes from archaic "spel" (narrative/story), unrelated to the modern verb spielen. Flag when the synchronic (modern) reading misleads.
+You will be told the target language (the language being learned) and the home language (the player's language) at the start of each batch. You will also receive the canonical glossary for the language pair if one exists — use it as ground truth for common morphemes.
 
-2. **false_cognate**: A morpheme is glossed based on superficial similarity to another word rather than its actual meaning or function.
+**All homeLang tile labels must be in the home language — including grammatical markers in parentheses.** The examples in this prompt use English for illustration, but if the home language is German, Russian, French, etc., all labels must be in that language. This applies to grammatical labels too: `(verb)` is only correct when English is the home language; for German use `(Verb)` or `(глаг.)` for Russian, etc. Apply the same reasoning with home-language equivalents.
 
-3. **incomplete_split**: A part is itself a compound that should be split further (e.g., "abschied" split as one unit when it should be ab + schied).
+**In a single pass: fix everything you can, flag only what needs a human structural decision.**
 
-4. **wrong_boundary**: The morpheme split is at the wrong point entirely.
+---
 
-5. **wrong_article**: The grammatical article is incorrect for the word.
+**FIX these — output corrected values in the `fixes` array:**
 
-6. **wrong_translation**: translationShort or translationLong is inaccurate or unnatural in the home language.
+1. **wrong_gloss**: A part's homeLang tile label is wrong or misleading. Fix it.
+   - A morpheme glossed with the meaning of the whole compound instead of the morpheme itself. Examples (all using English as home language for illustration): `druck` in `Ausdruck` should be `press` not `expression`; `fahr` in `Erfahrung` should be `travel` not `experience`. Apply the same logic in any home language.
+   - Wrong context: `ein-` meaning "one" glossed as "in", `er-` as "(doer)" when it's the completion prefix
+   - Notation violations (apply in the home language):
+     - Slashes listing alternatives → pick one best label; put others in homeLangDetails. This applies to labels you generate too — never emit "up/on", always emit "up". When the discarded alternative is genuinely a different meaning (e.g. auf- can mean "up" in aufstehen but "open" in aufmachen), weave it into the homeLangDetails note: "Also translates as 'open' in some compounds (aufmachen, aufschlagen)." If it's just a near-synonym with no useful distinction, skip mentioning it.
+     - Parentheses around semantic content → plain word instead (a prefix meaning "away" should say `away`, not `(away)`; a resultative prefix should say `compl` or `out-`, not `(to completion)` or `(resultative)`)
+     - Labels longer than 2 words
+     - Inconsistent or abbreviated grammatical labels → <CANONICAL_LABELS>
+     - Affix-in-parentheses notation like `(-heit)` or `(-schaft)` → use plain dash notation: `-heit`, `-schaft`
+   - Grammatical inflections: use dash notation when there's a home-language equivalent (e.g. plural suffix → `-s` in English or `-s` / `-en` equivalent in German), or a parenthetical label when there isn't (infinitive ending → `(verb)`)
+   - Inconsistent labels for the same morpheme across parts (e.g. `(refl)`, `(reflexiv)`, `(Reflexiv)` all appearing — pick one and apply it)
 
-7. **unnatural_example**: The example sentence sounds odd or ungrammatical in the target language.
+2. **wrong_article**: The grammatical article is incorrect or missing.
+   - For Russian nouns: gender must be present as (м), (ж), or (с). An empty article on a Russian noun is always wrong. Verbs, adjectives, and adverbs correctly have no article.
+   - For Russian perfectivizing prefixes (с-, по-, вы-, за-, etc.) used purely to mark aspect with no independent semantic contribution: gloss as `(perf)` in the home language (or the home-language equivalent). If the prefix also carries clear directional or semantic meaning beyond aspect, use a semantic label instead.
 
-Only flag genuine issues. If an entry looks correct, do not include it. Lean toward flagging rather than missing real problems -- the human reviewer will make the final call.
+3. **wrong_translation**: translationShort is genuinely wrong, unnatural, or the wrong part of speech. Fix it.
+   - Common issues in German translations: a full sentence with a period instead of a word or phrase; a noun translation where a verb is expected (e.g. "Mitnahme" for a verb entry); awkward capitalization mid-phrase
 
-Return only valid JSON -- no explanation, no markdown code fences. Output a single object with a "flags" array. If no issues are found across all entries, return {"flags": []}.
+4. **wrong_language**: translationLong or exampleTranslation is in the wrong language. If the home language is not English and either field is in English, translate it into the home language. Use field `translationLong` or `exampleTranslation`.
+
+4. **missing_pos**: The entry has no `pos` value. Set it. Values: `noun`, `verb`, `adjective`, `adverb`, `phrase`. Use field `pos`.
+
+5. **missing_register**: Only set `register` if the entry is clearly non-neutral. Values: `formal`, `informal`, `technical`, `literary`, `colloquial`. Leave blank (do not emit a fix) if the register is neutral or unclear. Use field `register`.
+
+6. **split_part**: A part contains a Russian (or other language) verb infinitive ending (-ить, -ать, -еть, -уть, -ять, -оть) or other separable grammatical suffix that should be its own part. Split it. Use field `parts[N]` and set `value` to an array of replacement parts: `[{"targetLang": "ход", "homeLang": "geh"}, {"targetLang": "ить", "homeLang": "(verb)"}]`.
+
+7. **missing_details**: A non-trivial morpheme (a root, or a prefix/suffix behaving context-specifically) has no homeLangDetails. Generate one.
+   - Skip: linking elements (`-`), pure grammatical suffixes with a simple label (`-s`, `-ed`, `(verb)`, `(perf)`), morphemes whose standard glossary entry already fully describes their role here
+   - Write 2-3 sentences in the home language. Never open with "From X..." — write "As in X..." instead (the morpheme is the root; the full verb/noun form is built on it). The "As in X" example must be a **different word** from the entry being defined — never cite the entry itself or a trivially modified form of it. Lead with a cognate, a related word, or what makes this morpheme interesting here. End with 1-2 other words in the target language that share the root. Use commas not em-dashes. No meta-commentary. Do NOT explain what the full compound means — that would pre-solve the puzzle for the player.
+
+---
+
+**FLAG these for human review — output in `flags` array, no fix needed:**
+
+5. **wrong_boundary**: The morpheme split is at the wrong point entirely (a mis-cut, not a missed cut).
+
+6. **frozen_compound**: The word is fully lexicalized and its parts no longer reflect the modern meaning in any useful way.
+
+---
+
+**TYPES — fill the `types` array for every entry:**
+
+For every entry, emit the morpheme type for each part. Values: `prefix`, `suffix`, `infix`, `linking`, `root`.
+- If morphemeType is already set and correct, repeat it unchanged.
+- If morphemeType is set but wrong, emit the corrected value and set `"overwrite": true` on that specific part.
+- If morphemeType is null/missing, assign the correct type.
+- Single-part words: always `root`. Linking elements (Fugenlaut, buffer vowels): always `linking`.
+- In German, an `-er` part between an adjective root and a suffix (e.g. neu + **er** + bar, warm + **er** + bar) is the verb-forming suffix `-ern`, not a Fugenlaut — type is `suffix`, not `linking`.
+
+---
+
+**What NOT to check** (handled by automated sanity checks):
+- Whether parts concatenate back to the word ID
+- Empty fields other than article and homeLangDetails
+- Whether translationShort appears in exampleTranslation
+- Incomplete splits where a part could be split further — only flag wrong_boundary if the split point itself is a mis-cut
+
+---
+
+Return only valid JSON — no explanation, no markdown code fences. Output a single object with `fixes`, `flags`, and `types` arrays. Use standard ASCII punctuation for all JSON structure (commas, colons, quotes, brackets) — never fullwidth or locale variants (，：""「」 etc.), even when the content language uses them. IMPORTANT: never use ASCII double quotes (") inside Chinese or Japanese string values — use 「」for quotation instead (e.g. 表示「进入」not 表示"进入").
 
 {
+  "fixes": [
+    {
+      "word": "the entry id",
+      "category": "wrong_gloss | wrong_article | wrong_translation | wrong_language | missing_pos | missing_register | split_part | missing_details",
+      "field": "parts[1].homeLang | parts[1].homeLangDetails | parts[1] | article | translationShort | translationLong | exampleTranslation | pos | register",
+      "value": "string for most fields; array of {targetLang, homeLang} objects for split_part"
+    }
+  ],
   "flags": [
     {
       "word": "the entry id",
-      "category": "one of the categories above",
-      "field": "which field or part has the issue (e.g. parts[1].homeLang, article, translationShort)",
+      "category": "wrong_boundary | frozen_compound",
+      "field": "which field has the issue",
       "issue": "clear description of what is wrong",
-      "suggestion": "what it should say or how to fix it"
+      "suggestion": "what it should say"
+    }
+  ],
+  "types": [
+    {
+      "word": "the entry id",
+      "parts": [
+        {"index": 0, "type": "prefix"},
+        {"index": 1, "type": "root", "overwrite": true},
+        {"index": 2, "type": "suffix"}
+      ]
     }
   ]
 }

@@ -1,1010 +1,1661 @@
 [
   {
     "word": "injection",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The homeLang for 'in' is listed as '中に/～ない', but '～ない' (the negative suffix) is not a meaning of the prefix 'in-'. The prefix 'in-' in 'injection' means 'into/in', not negation.",
-    "suggestion": "Change to just '中に' or '～の中へ' to reflect the meaning of 'in' as a locative prefix.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '中に/～ない' mixes two unrelated meanings. 'in-' as a prefix means 'into/in' (the 中に part), not 'not' (～ない). The '～ない' negation sense is a different morpheme and doesn't apply here.",
+    "suggestion": "中へ"
+  },
+  {
+    "word": "injection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a nominalization suffix (derivational), not a root. It transforms the verb 'ject' into a noun 'jection'.",
+    "suggestion": "suffix"
   },
   {
     "word": "projection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'予想' (yosoku, prediction/forecast) is incomplete for 'projection'. While projection can mean prediction in some contexts, it also means 'a thing that projects or protrudes' and in technical/spatial contexts means an image or map displayed on a surface. A more complete translation would be '投影' or '投影画像' for the display sense, or '予想・予測' to acknowledge the predictive sense.",
-    "suggestion": "Change translationShort to '投影/予想' or provide context-specific translations.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a nominalization suffix (derivational), not a root. It transforms the verb 'ject' into a noun 'jection'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'ob-' is a prefix meaning 'against/toward', not a root. It is a bound morpheme that precedes the root 'ject'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a nominalization suffix (derivational), not a root. It transforms the verb 'ject' into a noun 'jection'.",
+    "suggestion": "suffix"
   },
   {
     "word": "prediction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The translation '明日の天気予測は雨です' uses 予測 (yosoku, forecast/prediction) which is correct, but the sentence structure is slightly awkward. More natural would be '明日の天気予報は雨です' (using 予報, the standard term for weather forecasts) or '明日の天気は雨という予測です'.",
-    "suggestion": "Change exampleTranslation to '明日の天気予報は雨です。' or '明日の天気は雨になると予測されています。'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a nominalization suffix (derivational), not a root. It transforms the verb 'dict' into a noun 'diction'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'contra-' is a prefix meaning 'against', not a root. It is a bound morpheme that precedes the root 'dict'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a nominalization suffix (derivational), not a root. It transforms the verb 'dict' into a noun 'diction'.",
+    "suggestion": "suffix"
   },
   {
     "word": "jurisdiction",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'dict' comes from Latin 'dicere' (to say/speak), not 'to say' in the sense of 言う. While 言う can work as a gloss, the context of 'jurisdiction' involves 'dictus' (past participle of dicere) meaning 'said/declared.' The homeLang should clarify the legal/authoritative sense of 'speaking/declaring' rather than casual 言う.",
-    "suggestion": "Change homeLang to '宣言する' or '判断を下す' to better reflect the legal authority implied in 'jurisdiction'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a nominalizing suffix, not a root morpheme. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "transportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is a nominalizing suffix, not a root morpheme. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is a nominalizing suffix, not a root morpheme. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "importation",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'im' as '中へ/～ない' is misleading. In 'importation,' 'im-' is a variant of 'in-' meaning 'into/inward,' not a negation. The '～ない' (negation) sense is incorrect here.",
-    "suggestion": "Change homeLang to '中へ/内へ' or simply '内へ' to reflect the directional meaning",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is a nominalizing suffix, not a root morpheme. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "construction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a nominalizing suffix, not a root morpheme. It converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "destruction",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'de-' is glossed as '下/取り消す' (down/cancel), but this is misleading. In 'destruction', 'de-' functions as an intensifier or reversative prefix meaning 'thoroughly' or 'to undo', not simply 'down'. The gloss conflates the prefix with a spatial direction rather than its actual function in this word.",
-    "suggestion": "Change homeLang to something like '完全に/逆にする' (thoroughly/to reverse) or provide a more accurate functional description that reflects how 'de-' works in Latin-derived words.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '下/取り消す' is too long and combines two separate concepts. Tile labels must be brief. The homeLangDetails explanation is helpful for learning but the tile itself should be concise.",
+    "suggestion": "(down)"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root', but it is a nominalizing suffix (from the glossary: -tion/-sion → (名詞化)). It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root', but it is a nominalizing suffix. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'con-' is a prefix (from the glossary: con-/com-/co-/col-/cor- → con-/together). However, in 'reconstruction', 'con' is part of the root 'construct' (not a separate prefix here). The morpheme boundary appears to treat 'con' + 'struct' as if they are separate units, but 'construct' is itself a bound root. Re-checking: 'reconstruction' = re- + construct + -ion. The split should not separate 'con' from 'struct'. This is a wrong_boundary issue.",
+    "suggestion": "The word should be split as: 're' (prefix) + 'construct' (root) + '-ion' (suffix), not re + con + struct + ion"
   },
   {
     "word": "inspection",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'in-' is glossed as '中へ/ない' (into/not), but in 'inspection' the 'in-' prefix means 'in' or 'into' (as in looking into something), not 'not'. The second gloss option '無い' (not) is inappropriate here and misleading.",
-    "suggestion": "Change homeLang to '中へ' (into) or '～の中で' (within/in), removing the 'ない' (not) option.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ion' is marked as 'root', but it is a nominalizing suffix. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "retrospective",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "'retro' is presented as a single morpheme, but it can be further analyzed as 're-' (back) + 'tro' (from Latin 'trogus'). While 'retro' is commonly treated as a single prefix in English, for a morpheme dictionary this level of analysis may be incomplete. However, 'retro' as a standalone prefix is acceptable in most modern English dictionaries.",
-    "suggestion": "Either keep 'retro' as-is if treating it as a single lexicalized prefix, or consider whether your dictionary's splitting standard would require further decomposition. This is a borderline case—flag for human review.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'retro-' is a prefix (from the glossary: retro → 後ろへ). It should be 'prefix', not 'root'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "retrospective",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "In 'retrospective', 'spect' is the root meaning 'to see'. It should be marked as 'root', which is correct, but verify the split: retro- (prefix) + spect (root) + -ive (suffix) is the standard analysis.",
+    "suggestion": "root (this is correct, no change needed)"
   },
   {
     "word": "prescription",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss '前に' (before/in front of) does not accurately represent the Latin prefix 'pre-' in 'prescription'. While 'pre-' can mean 'before' temporally, in 'prescription' it means 'written instructions in advance' - the prefix functions more as 'beforehand/in advance' rather than the spatial 'in front of'. The homeLangDetails examples (predict, prepare, prehistoric) are helpful but the core gloss is misleading for this specific word.",
-    "suggestion": "Consider revising homeLang to '前もって' (in advance/beforehand) or '事前に' (in advance) to better capture the sense of 'pre-' in prescription, or add clarification that 'pre-' here means 'in advance' rather than spatial 'before'.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '前に' is correct for the prefix pre-, but should use the standardized short label format for tile display",
+    "suggestion": "pre-"
   },
   {
     "word": "description",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss '下/取り消す' (down/cancel) is misleading for 'de-' in 'description'. The prefix 'de-' in 'description' does not mean 'down' or 'reverse'; it is part of the Latin root 'describere' (to write down/depict). The prefix does not carry the reversal meaning that the homeLangDetails suggests.",
-    "suggestion": "The morphological split itself may be problematic. 'Description' may be better analyzed as a frozen Latin compound where 'de-' is integral to 'scribere' rather than a separable prefix. If keeping the split, clarify that 'de-' here means 'down' (as in writing something down) rather than reversal or cancellation.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '下/取り消す' is lengthy for a tile label and mixes two meanings. The homeLangDetails field handles explanation; the tile should use the standard short form",
+    "suggestion": "de-"
+  },
+  {
+    "word": "subscription",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '下に' is correct semantically but should use the standardized short label format for tile display",
+    "suggestion": "sub-"
   },
   {
     "word": "expression",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation conflates two meanings of 'expression'. The example sentence 'Her expression showed she was upset' refers to facial expression (顔の表情), but the translation '彼女の表情は彼女が動揺していることを示していた' is awkward and slightly unnatural in Japanese. A more natural translation would use 'expression' in the sense of 'facial expression' more clearly.",
-    "suggestion": "Change exampleTranslation to '彼女の表情から、彼女が動揺していることがわかった。' or '彼女の表情は彼女が動揺していることを表していた。' for more natural Japanese.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (or -tion) is a derivational suffix, not a root. It forms nouns from verbs (press → expression)",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "expression",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Tile label should use standardized format for the nominalizing suffix -tion/-ion",
+    "suggestion": "(名詞化)"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '下/取り消す' is lengthy for a tile label and mixes two meanings. Should use the standard short form",
+    "suggestion": "de-"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (or -tion) is a derivational suffix, not a root. It forms nouns from verbs (press → depression)",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "depression",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Tile label should use standardized format for the nominalizing suffix -tion/-ion",
+    "suggestion": "(名詞化)"
   },
   {
     "word": "impression",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'im-' should be glossed as 'in/into' rather than '中に/内へ'. While both convey spatial meaning, the prefix in 'impression' comes from Latin 'in-' (into), and the gloss should reflect the directional sense of putting pressure into something.",
-    "suggestion": "Change to 'に/へ' or 'in' to be more precise",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (meaning nominalization) should be typed as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'at' (ad- prefix meaning 'to/toward') should be typed as 'prefix', not 'root'",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "attraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be typed as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "extraction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be typed as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "distraction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation '大きな気の散りでした' is unnatural Japanese. The phrase '気の散り' is awkward; the correct expression should use '気散らし' or '邪魔' or '気が散ったこと'.",
-    "suggestion": "Change to 'その音はテスト中の大きな邪魔でした。' or 'その音のせいでテスト中に気が散ってしまいました。'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be typed as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "permission",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'miss' is glossed as '送る' (to send), but in 'permission' it comes from Latin 'mittere' (to send/let). While '送る' captures part of the meaning, the more relevant sense here is 'let/allow' which better explains why 'permit' and 'permission' relate to allowing something to happen.",
-    "suggestion": "Change to '送る/許す' or '許す' to better capture the 'allow/let' sense",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be typed as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "transmission",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'trans-miss-ion' but 'miss' does not represent a morpheme meaning '送る' (send). The correct split should be 'trans-mit-ion' where 'mit' comes from Latin 'mittere' (to send).",
-    "suggestion": "Change parts[1].targetLang from 'miss' to 'mit'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be marked as 'suffix', not 'root'. It is a nominalizing suffix that converts verbs to nouns.",
+    "suggestion": "suffix"
   },
   {
-    "word": "transmission",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'miss' is not a valid English morpheme and does not mean '送る'. The actual morpheme is 'mit' (from Latin mittere), which correctly means 'to send'.",
-    "suggestion": "Change homeLang to '送る' (which is correct for 'mit') and update targetLang to 'mit'",
-    "source_file": "en-ja.json"
+    "word": "reception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be marked as 'suffix', not 'root'. It is a nominalizing suffix.",
+    "suggestion": "suffix"
   },
   {
-    "word": "commitment",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'com-mitt-ment' but the second part is shown as 'mitt' when it should be 'mit'. The correct Latin root is 'mittere' (to send), and the morpheme is 'mit' not 'mitt'.",
-    "suggestion": "Change parts[1].targetLang from 'mitt' to 'mit'",
-    "source_file": "en-ja.json"
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be marked as 'suffix', not 'root'. It is a nominalizing suffix.",
+    "suggestion": "suffix"
   },
   {
     "word": "deception",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation for 'de-' includes 'deconstruct' as an example, but 'deconstruct' is a neologism from literary theory (Derrida) and may not be the clearest standard example of the 'de-' prefix meaning. More conventional examples would be better.",
-    "suggestion": "Replace or supplement 'deconstruct' with more standard examples like 'decode' or 'decompose'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be marked as 'suffix', not 'root'. It is a nominalizing suffix.",
+    "suggestion": "suffix"
   },
   {
     "word": "reference",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The homeLang gloss '戻る' (return/go back) is misleading. While re- does have Latin roots related to 'back', the modern English morpheme re- primarily means 'again' in most contexts. The detailed explanation conflates historical etymology with synchronic morphology. For a language learner, '再び' (again) is more useful and accurate for modern English.",
-    "suggestion": "Change homeLang to '再び' (again) or keep both with clarification that the historical sense is less relevant to modern learners.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss should match the canonical glossary entry for 're-', which is '再び' (again), not '戻る' (return). While the homeLangDetails provide etymological context, the tile label must be concise and canonical.",
+    "suggestion": "再び"
   },
   {
     "word": "conversion",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss '回す、変える' (turn, change) is imprecise. The Latin 'vertere' means 'to turn', but in this morpheme context for English learners, '変える' alone is more direct and clear. The 'turn' sense is more of a historical/etymological note.",
-    "suggestion": "Simplify to '変える' (change/convert) or '向ける' (turn/direct), with 'turn' as secondary if etymological context is desired.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix (noun-forming), not a root. It attaches to 'vers' to form the noun 'conversion'.",
+    "suggestion": "suffix"
   },
   {
     "word": "introversion",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss '回す、向ける' (turn, direct) is etymologically correct but potentially confusing for learners. In the context of 'introversion', the morpheme 'vert' doesn't mean 'turn' in a literal sense—it means 'direct inward'. The dual gloss may mislead students into thinking about literal turning rather than direction of attention.",
-    "suggestion": "Use '向ける' (direct) or '曲げる' (bend/turn toward) alone, or clarify with 'inward-directed' to avoid confusion with the literal 'turn' sense.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'intro' is a prefix (bound morpheme), not a root. It precedes 'vers' to indicate direction.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'vers' is a root (meaning-bearing morpheme), but 'ion' is a suffix (noun-forming), not another root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ion' is a suffix (noun-forming), not a root. It converts the verb stem to a noun.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "subversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion (used for nominalization) should be marked as 'suffix', not 'root'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "occurrence",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme split is incorrect. 'oc' is not a standard morpheme boundary; the word should be split as 'oc' + 'cur' + 'rence', but 'oc' is a phonetic variant of 'ob' (a prefix meaning 'toward/against'), not a separate morpheme '~へ向かって' in this context. The actual morpheme is 'ob-/oc-' which assimilates before 'c'.",
-    "suggestion": "Either split as 'ob/oc' + 'cur' + 'rence' with 'ob/oc' glossed as 'toward, against' (showing the assimilation), or note that 'oc' is an assimilated form of the 'ob-' prefix.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'oc' (a variant of 'ob-') should be marked as 'prefix', not 'root'.",
+    "suggestion": "Change morphemeType to 'prefix'"
   },
   {
     "word": "occurrence",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'cur' (meaning 'run') should be marked as 'root', which is correct, but in context of 'occur' it is the core root. This entry is correct as-is.",
+    "suggestion": "No change needed"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-rence' (a variant/combination of -ence nominalization) should be marked as 'suffix', not 'root'. The -ence element is a nominalization suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'cur' meaning '走る' (run) is misleading. While 'currere' historically means 'run', in 'occurrence' the sense is 'happen/come about', not literally 'run'. The glossing should reflect the modern meaning in context rather than the etymological root.",
-    "suggestion": "Change homeLang to '起こる、発生する' (happen, occur) to reflect the actual meaning in this word.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss for 'cur' is given as '走る' (run), but in the context of 'occur', it should reflect the meaning 'happen' or 'come about'. The Latin currere (run) is the etymological root, but the modern sense is 'happen/occur'.",
+    "suggestion": "Change to '起こる' (happen/occur) to match the canonial glossary entry for 'cur'"
   },
   {
     "word": "recurrence",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 're-cur-rence' (prefix + root + suffix), but 'cur' alone is not the standard morpheme form. The root is 'curr-' (as in current, cursor), which becomes 'cur' before the suffix. The entry should clarify this or split it as 're' + 'curr' + 'ence'.",
-    "suggestion": "Split as 're' + 'curr' + 'ence', or keep 'cur' but note it's an allomorph of 'curr-' in the homeLangDetails.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "rence is a suffix (-ence), not a root. It's a derivational morpheme that forms nouns from verb roots.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "concurrent",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same as recurrence: 'cur' should be 'curr-' (the root of current). Before a vowel-starting suffix, it becomes 'cur-'.",
-    "suggestion": "Split as 'con' + 'curr' + 'ent', or clarify in homeLangDetails that 'cur' is an allomorph of 'curr-'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ent is a suffix (-ent), not a root. It's a derivational morpheme that forms adjectives from verb roots.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "recession",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Same issue: 'cess' should be 'cess-' or noted as an allomorph of 'ceed/cede'. The root is 'ced-/cede-' (to go), which appears as 'cess' in some contexts.",
-    "suggestion": "Split as 're' + 'cess' + 'ion', but clarify in homeLangDetails that 'cess' derives from the Latin 'cedere' (to go).",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (-ion), not a root. It's a derivational morpheme that forms nouns from verb roots.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is '後ろへ' but this contradicts the actual meaning in recession. The re- prefix here means 'back/again', and the description conflates it with other senses. For the tile label, '後ろへ' is too specific and misleading for a learner tile.",
+    "suggestion": "Change to 'もう一度' or '後ろに' to match the prefix convention and avoid confusion"
   },
   {
     "word": "succession",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The prefix 'suc' is actually 'sub-' (under/following), which assimilates to 'suc-' before 'c'. The homeLang gloss 'next to' is imprecise.",
-    "suggestion": "Change homeLang for 'suc' to '次に / 従って' or clarify in homeLangDetails that 'suc' is an assimilated form of 'sub-' (under, following).",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "suc is a prefix (from Latin sub- 'under'), not a root. In succession, suc is the reduced form of the prefix sub- that precedes cess (go), meaning 'go under/follow after'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "cess is a root element (from Latin cedere 'to go'), which is correct, but in the context of succession it is bound. Since it cannot stand alone in English, morphemeType 'root' is acceptable for the semantic core, but note it is a bound root.",
+    "suggestion": "Morpheme type 'root' is acceptable as-is (bound root)"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix (-ion), not a root. It's a derivational morpheme that forms nouns from verb roots.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "unprecedented",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word has 5 parts listed, but the morphological structure is unclear. 'unprecedented' should be 'un-' + 'precedent-' + '-ed', where 'precedent' is itself a complete word (adj./noun). The 'ent' is part of 'precedent', not a separate suffix. The current split treats '-ent' as a separate suffix after '-ced', which is redundant.",
-    "suggestion": "Restructure as 'un-' + 'precedent' + '-ed', or split as 'un-' + 'pre-' + 'ced-' + '-ent' + '-ed' but clarify that '-ent' is part of the adjective formation from the root 'ced', not a separate derivational step.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "ent is a suffix (-ent) that forms adjectives, not a root. It converts verbs to adjectives (e.g., precede → precedent).",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[4].morphemeType",
+    "issue": "ed is a suffix (-ed) that marks past participle/adjective form, not a root. It converts verbs to past participles or adjectives.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_gloss",
+    "field": "parts[4].homeLang",
+    "issue": "The gloss '-ed（過去形）' is misleading. In 'unprecedented', the -ed ending is not a past tense marker; it marks the adjectival/participial form of the word. The morpheme is part of the adjective 'precedented', not a separate past tense inflection.",
+    "suggestion": "Change to '(pp)' (past participle) or '(adj)' to reflect the adjectival function"
   },
   {
     "word": "transformation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss '横切って' (crossing/cutting across) is misleading. The Latin prefix 'trans-' means 'across' in a literal sense, but in 'transformation' it functions as a general prefix indicating change or movement, not specifically 'crossing.' The homeLangDetails conflate the prefix with verbs where it has different semantic loads.",
-    "suggestion": "Change homeLang to something like '越えて、通して、または変わって' or simplify to '~を通して、変わることを示す接頭辞' to reflect its function in transformation more accurately.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "reformation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'宗教改革' (Religious Reformation) is too specific and historically loaded. While it correctly applies to the capital-R 'Reformation' in the example, the morpheme-based translation should be more general since 'reformation' can mean any act of reforming/reshaping. The translation conflates the historical event with the general word meaning.",
-    "suggestion": "Change translationShort to '改革' or '再形成' to reflect the morphological meaning, and note in context that capitalized 'Reformation' refers to the specific historical event.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "information",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss '中へ' (into) is etymologically correct but misleading for understanding 'information.' The 'in-' prefix here means 'into' or 'within,' but this doesn't naturally convey how 'information' relates to 'putting into form.' The morphological analysis obscures rather than clarifies the meaning.",
-    "suggestion": "Either revise the homeLang to '~の中、または~に変える' or acknowledge that while the historical etymology involves 'in-', the modern sense of information is not transparently derivable from 'in + form + tion'. Consider whether this entry should be flagged as a frozen compound where the morphemic reading no longer reflects current usage.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "interruption",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix is listed as 'ion' but should be '-tion' for consistency with other entries. The '-t-' is part of the standard nominalizing suffix and should not be separated from '-ion'.",
-    "suggestion": "Change parts[2].targetLang from 'ion' to 'tion' and adjust homeLang to '-tion（名詞化）' for consistency with other entries.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "disruption",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix is listed as 'ion' but should be '-tion' for consistency with other entries. The '-t-' is part of the standard nominalizing suffix and should not be separated from '-ion'.",
-    "suggestion": "Change parts[2].targetLang from 'ion' to 'tion' and adjust homeLang to '-tion（名詞化）' for consistency with other entries.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ion is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "corruption",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'cor' does not mean \"一緒に/共に\" (together/with). The Latin prefix 'cor-' (from 'cum') does mean \"together,\" but in 'corruption' it is not the meaningful prefix. The word comes from Latin 'corruptus' (broken/spoiled), where 'cor-' is intensifying, not directional. The primary meaning comes from 'rupt' (break).",
-    "suggestion": "Either remove the 'cor' morpheme as a distinct unit (treating 'corruption' as a single root-derived word), or if keeping it, clarify that it's an intensifying prefix rather than 'together/with'. The splitting is misleading.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion should be labeled as 'suffix', not 'root'. It is a derivational suffix that forms nouns from verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "autobiography",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss for 'bio' as \"生命\" (life/living things) is incomplete and potentially misleading. In 'autobiography', 'bio' does not mean \"life\" in the sense of biology. It comes from Greek 'bios' (life/lifetime), so the gloss is not wrong per se, but the homeLangDetails example \"biography（伝記）\" creates confusion since 'biography' is actually \"the writing of a life\" not \"the life of writing.\" The gloss should clarify this is 'bios' (one's life/biography).",
-    "suggestion": "Revise homeLang to \"人生/生涯\" (life/lifetime/biography) or keep \"生命\" but clarify in homeLangDetails that in 'autobiography' it specifically means the person's own lifetime/life story.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "microphone",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss 'micro' as '非常に小さい' (very small) is misleading in the context of microphone. In 'microphone', 'micro-' means 'small' in the sense of sensitivity/amplification, not literally tiny size. The morpheme decomposition doesn't accurately reflect that a microphone works by converting small sound vibrations into electrical signals, not because it is a tiny device.",
-    "suggestion": "Consider clarifying in homeLangDetails that in 'microphone', 'micro-' refers to the ability to detect small/weak sounds and amplify them, not just physical size.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '自分自身' (oneself) is too long for a tile label. Should match canonical glossary: 'auto-' means 'auto-/self'. Use shorter form: '自動で' or follow glossary convention.",
+    "suggestion": "auto-"
   },
   {
-    "word": "anachronism",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation '誤った時代に置かれたもの' (something placed in the wrong time) is inaccurate. 'Anachronism' refers specifically to something that is out of its proper time period (either too early or too late), not necessarily 'wrong' in a moral sense. The definition should emphasize temporal displacement.",
-    "suggestion": "Change to '時代に合わないもの、またはその矛盾' or '本来の時代と異なる時代に存在するもの' to more accurately convey the chronological mismatch.",
-    "source_file": "en-ja.json"
+    "word": "autobiography",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '生命' is correct but the homeLangDetails field is overly long for a tile label context. For the morpheme tile itself, the gloss should be kept brief.",
+    "suggestion": "生命"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'bio' is a prefix (bound morpheme that precedes the root), not a prefix in the sense of an independent morpheme. However, in the structure auto-bio-graph-y, 'bio' functions as a prefix to 'graph'. Should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "autobiography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The morphemeType is missing but should be assigned. '-y' is a suffix that converts roots/nouns to nouns (or here, to nominalizing form).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'bio' is a prefix that precedes 'graph', not a standalone root in this word. Should be 'prefix'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "biography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType is missing but should be assigned. '-y' is a suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'photo' (from Greek 'photo-' meaning light) functions as a prefix in this compound, not a root. It precedes and modifies 'graph'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'graph' in photography functions as a root (the core meaning-bearing element), but in the compound photo+graph+y, it acts more as a combining form. However, since it carries the primary semantic load of 'writing/recording', 'root' is acceptable here but could also be argued as 'linking'. Keeping 'root' is standard.",
+    "suggestion": "root"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType is missing but should be assigned. '-y' is a suffix that nominalizes the base.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'sym' is a prefix (a variant of 'syn-/sym-' meaning 'together'), not a root. It precedes 'phon'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType is missing but should be assigned. '-y' is a suffix that nominalizes the base.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The linking vowel 'o' is labeled with '-' (empty/undefined), but it should have a gloss indicating it's a linking element with no independent meaning",
+    "suggestion": "linking vowel or (link)"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'syn' is labeled as 'root' but it is a prefix meaning 'together/with' — it is bound and must precede the root",
+    "suggestion": "prefix"
   },
   {
     "word": "psychology",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'psych' comes from Greek 'psyche' (soul/mind), not simply '心' (heart). While '心' is a reasonable translation, it's more precisely the soul or mind in classical Greek philosophy, not the physical organ.",
-    "suggestion": "Keep '心' as acceptable, but consider adding homeLangDetails to clarify it refers to 'mind/soul' rather than the physical heart organ",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "psych is a root morpheme but it's part of a compound; however, in the context of -logy words, 'psych' is a combining form/root that pairs with the suffix -logy. The morphemeType 'root' is acceptable here.",
+    "suggestion": "root (correct as-is)"
+  },
+  {
+    "word": "psychology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' linking vowel is missing a morphemeType. It should be classified as 'linking' since it is a combining vowel with no independent meaning.",
+    "suggestion": "linking"
   },
   {
     "word": "anthropology",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'人間の研究' is oversimplified and misses the essence. Anthropology is not just the study of humans but of human societies, cultures, and origins. The short translation should reflect this better.",
-    "suggestion": "Change to '人間社会と文化の研究' or '人類と文化の研究' to better match the actual scope of anthropology",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' linking vowel is missing a morphemeType. It should be classified as 'linking' since it is a combining vowel with no independent meaning.",
+    "suggestion": "linking"
+  },
+  {
+    "word": "dermatology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'o' linking vowel is missing a morphemeType. It should be classified as 'linking' since it is a combining vowel with no independent meaning.",
+    "suggestion": "linking"
   },
   {
     "word": "sympathy",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'同情、理解' is imprecise. Sympathy is primarily '同情' (compassion/pity), not general '理解' (understanding). Empathy is the one that better corresponds to deep understanding.",
-    "suggestion": "Change to '同情' or '共感' alone, or clarify as '他者への同情的な感情' to distinguish from empathy",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'sym' is a prefix (a bound morpheme that precedes the root), not a root. It means 'together/with' and modifies 'pathy'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'pathy' is a suffix (a bound morpheme that follows the root/prefix), not a root. It is a noun-forming suffix meaning feeling/emotion.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'em' is a prefix (a bound morpheme that precedes the root), not a root. It is the prefix form of 'en-' meaning 'in/into'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'pathy' is a suffix (a bound morpheme that follows the root/prefix), not a root. It is a noun-forming suffix meaning feeling/emotion.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "antipathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "pathy is a suffix (-pathy), not a root. It's a bound morpheme that only appears attached to other morphemes (sympathy, empathy, antipathy).",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "meta is a prefix, not a root. It is a bound morpheme that precedes the root morpheme.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "morph is a root (the primary meaning-bearing morpheme in this context), but in a Greek-derived word it functions as a bound root. The morphemeType should be 'root' which is already correct, but the issue is that part[3] (sis) is also labeled 'root' when it should be 'suffix'.",
+    "suggestion": "No change needed for parts[1]; flag parts[3] instead"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "sis is a suffix (-sis), a bound morpheme that follows the root to form a noun indicating a process or condition. It should not be labeled 'root'.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The 'o' part has no morphemeType assigned. This is a linking vowel (Greek combining vowel), not a root.",
+    "suggestion": "Assign morphemeType 'linking'"
   },
   {
     "word": "uncomfortable",
-    "category": "incomplete_split",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'comfort' is glossed only as '快適' (comfortable/cozy), but this misses the etymological structure. 'Comfort' itself is com- + fort (from Latin fortis 'strong'), so the gloss is incomplete for a morpheme dictionary that breaks down compounds.",
-    "suggestion": "Either split 'comfort' further into its Latin components (com + fort) with appropriate glosses, or acknowledge in homeLangDetails that 'comfort' is itself a derived word and provide fuller etymological context.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-できる' (can do) is misleading for this context. In 'uncomfortable', '-able' means 'having the quality of' or 'subject to', not 'able to do'. The canonical glossary shows '-able' as the suffix form.",
+    "suggestion": "Change to '-able' to match the glossary"
   },
   {
     "word": "unbelievable",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The gloss '信じがたい、驚くべき' is incomplete. While '信じがたい' (unbelievable/hard to believe) is correct, '驚くべき' (surprising/astonishing) conflates two different senses. 'Unbelievable' can mean 'incredible' in a positive sense, but the primary morphological meaning is simply 'not believable'.",
-    "suggestion": "Adjust to '信じられない、信じがたい' to focus on the core negation of 'believe', or clarify in homeLangDetails that the word can carry positive connotations in context.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "amorphous",
-    "category": "incomplete_split",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The suffix '-ous' is listed with only '-ous' as the homeLang gloss, providing no actual Japanese translation or meaning explanation. Other entries provide full glosses; this one is incomplete.",
-    "suggestion": "Add a proper gloss such as '～に満ちた、～のような' (full of, like) or provide the full homeLangDetails explaining that '-ous' is a Latin-derived suffix meaning 'full of' or 'characterized by'.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '-できる' (can do) is misleading for this context. In 'unbelievable', '-able' means 'capable of being believed' or 'worthy of belief', not simply 'able to do'. The canonical glossary shows '-able' as the suffix form.",
+    "suggestion": "Change to '-able' to match the glossary"
   },
   {
     "word": "unforgettable",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation '忘れられない、記憶に残る' is misleading. 'unforgettable' means something that cannot be forgotten (positive connotation), but the Japanese '忘れられない' literally means 'cannot be forgotten' which in Japanese can have ambiguous or sometimes negative connotation depending on context. A clearer translation would emphasize the memorable/noteworthy aspect.",
-    "suggestion": "Consider '忘れられない、心に残る' or '印象的な、記憶に深く残る' to better convey the positive memorable sense",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is too long and verbose. Tile labels must be brief (typically ~4 words or fewer). The current entry includes extensive historical and comparative linguistic detail that belongs in homeLangDetails, not the tile label.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "unrecognizable",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is too long and verbose. Tile labels must be brief (typically ~4 words or fewer). The current entry includes extensive historical and comparative linguistic detail that belongs in homeLangDetails, not the tile label.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is labeled as 'root', but it is a bound morpheme serving a grammatical/derivational function. In this word, -ing nominalizes the verb 'misunderstand' into a noun. It should be classified as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "misrepresentation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -tion suffix is labeled as 'root', but it is a bound morpheme serving a grammatical/derivational function. It should be classified as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "overwhelming",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The gloss of 'whelm' as '沈める、押し潰す' is historically inaccurate for modern English. While 'whelm' has Old English/Middle English roots relating to turning over or overturning, it is rarely used independently in modern English without 'over-'. The explanation suggests 'whelm' stands alone as a word, but it is archaic/obsolete and the modern morpheme to understand is 'over-whelm' as a unit.",
-    "suggestion": "Either note that 'whelm' is archaic and rarely appears independently, or restructure the morpheme split to treat 'overwhelm' more holistically as a semi-frozen compound",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "underestimate",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation is awkward and unnatural in Japanese. 「彼女の複雑な問題を解く能力を過小評価してはいけない」has awkward word order and phrasing.",
-    "suggestion": "彼女の複雑な問題を解く能力を過小評価してはいけません or 彼女が複雑な問題を解く能力を過小評価するな",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is labeled as 'root', but it is a bound morpheme serving a grammatical/derivational function. In this word, -ing converts the verb 'overwhelm' into an adjective. It should be classified as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "overestimation",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation uses が in a way that is slightly awkward. 「そのプロジェクトの予算の過大評価が」sounds stiff.",
-    "suggestion": "プロジェクトの予算を過大評価したことが財政問題につながった or プロジェクト予算の過大評価により財政問題が生じた",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-tion' suffix is marked as 'root', but it is a derivational suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
-    "word": "multicultural",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation is unnatural and overly literal. 「多くの異なる文化で構成された人口」is awkward; the phrase should focus on the population being multicultural, not on composition.",
-    "suggestion": "私たちの街は多文化的な人口で知られている or 私たちの街は様々な文化を持つ人々で知られている",
-    "source_file": "en-ja.json"
+    "word": "transcontinental",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is glossed as 'trans-/～を超えて' (trans-/beyond), but the canonical glossary entry for 'trans-' is 'trans-/across', which is more accurate for this morpheme's meaning. The current gloss is misleading.",
+    "suggestion": "trans-/横切って"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a suffix, not a root morpheme. It derives verbs from adjectives/nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-tion' is a suffix (noun-forming), not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The first morpheme is split as 'industrial' but should be further decomposed into 'industry' + '-al' (or 'industri' + '-al') to show the complete morphological structure. The entry shows 'industrial' as if it were a root, but it's itself a derived adjective.",
-    "suggestion": "Split into 'industry' (or 'industri') and '-al', then '-ize' and '-tion', so the full decomposition is clear: industry + -al + -ize + -tion",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ize' is a suffix, not a root morpheme. It derives verbs from adjectives/nouns.",
+    "suggestion": "suffix"
   },
   {
-    "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split into 4 morphemes, not 3. 'appoint' itself contains the morpheme 'ap-' (from Latin ad-) and 'point' (from Latin punctum). The current split treats 'appoint' as an unsplit unit.",
-    "suggestion": "Split further: dis + ap + point + ment, or at minimum acknowledge that 'appoint' is itself a compound that could be decomposed.",
-    "source_file": "en-ja.json"
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-tion' is a suffix (noun-forming), not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "acknowledgment",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "'acknowledge' is itself a complex morpheme (ac- + knowledge) that could be further split, but more critically, the entry should note this is already a derived verb before -ment is added.",
-    "suggestion": "Consider splitting as ac + knowledge + ment, or at least add details to 'acknowledge' explaining its own morphological structure.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should be a short gloss label, not the full word form. 'acknowledge' is the base form, but for a morpheme tile it should be labeled more concisely.",
+    "suggestion": "認める (or similar brief gloss describing the meaning)"
   },
   {
-    "word": "courageous",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Japanese translation is grammatically awkward. '危機の最中の彼女の勇敢な行動は命を救いました' sounds unnatural. A more natural phrasing would use '助けた' or restructure the sentence.",
-    "suggestion": "危機の中での彼女の勇敢な行動が多くの命を救いました。 or 危機的状況での彼女の勇敢な行動は命を救った。",
-    "source_file": "en-ja.json"
+    "word": "outrageous",
+    "category": "frozen_compound",
+    "field": "parts[0].homeLangDetails",
+    "issue": "The homeLangDetails correctly notes this is a frozen compound where 'outrage' no longer synchronically decomposes as 'out' + 'rage'. However, the parts list treats 'outrage' as a simple root, which is correct — but the player may be misled if they try to apply modern morphological analysis. The entry itself is correct, but the detailed explanation may confuse learners about productive vs. lexicalized forms.",
+    "suggestion": "Keep the current split as correct (outrage is treated as a single root), but consider whether the detailed explanation belongs in a teaching context for morpheme puzzles."
   },
   {
     "word": "extraordinary",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss '超える、～を超えた' (exceed, beyond) is imprecise. 'Extra' means 'outside of' or 'beyond', but the translation focuses on the verb 'exceed' rather than the prefix meaning 'outside/beyond'.",
-    "suggestion": "Change to '外側の、～の外に' or '普通以上の' to better reflect the prefix meaning",
-    "source_file": "en-ja.json"
+    "issue": "「超える、～を超えた」is a gloss for the prefix 'extra-' as a morpheme, but 'extra' here is presented as a root when it's actually a prefix. The gloss should reflect that it means 'beyond' or 'exceeding' in the prefix sense, and the morphemeType is incorrect.",
+    "suggestion": "(beyond) or (超える) with morphemeType changed to prefix"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'extra' is a prefix (extra-), not a root. It modifies 'ordinary'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'ordinary' is an adjective root being modified by the prefix 'extra-'. It should be marked as root, but in this compound it functions as the base. The morphemeType is correct as root, but the overall structure should reflect that 'extra-' is the prefix and 'ordinary' is the root.",
+    "suggestion": "root (no change needed, but part[0] should be prefix)"
   },
   {
     "word": "remarkable",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation uses 'けがからの回復が素晴らしかった' which translates back as 'the recovery was wonderful', but this doesn't accurately convey 'remarkable recovery'. The phrase should emphasize that the recovery was noteworthy or worth noting.",
-    "suggestion": "Change to '運動選手はけがからの回復が注目すべきものだった' or similar to better reflect 'remarkable'",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss for '-able' is too long and verbose for a tile label. It should be abbreviated to just '-able' or similar short form per the convention.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "predictable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss for '-able' is too long and verbose for a tile label. It should be abbreviated to just '-able' per the convention.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "adjustable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss for '-able' is too long and verbose for a tile label. It should be abbreviated to just '-able' per the convention.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "expandable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss for '-able' is too long and verbose for a tile label. It should be abbreviated to just '-able' per the convention.",
+    "suggestion": "-able"
   },
   {
     "word": "compartmentalize",
-    "category": "incomplete_split",
+    "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The word is split as compartment + al + ize, but 'compartment' itself should be further analyzed as com + partment, or at minimum the morpheme boundaries don't reflect how the word is actually formed. The standard analysis would be compartment (noun) + -alize (verb suffix), not compartment + al + ize as three separate morphemes.",
-    "suggestion": "Either split as: compartment + -alize (treating -alize as a single combined suffix), or provide compartment as a base word without further splitting it, since 'al' is not a separate morpheme in this context—it's part of the -alize suffix.",
-    "source_file": "en-ja.json"
+    "issue": "The word should be split as 'compartment' + 'alize', not 'compartment' + 'al' + 'ize'. The suffix is '-alize' (a single morpheme combining -al and -ize), not two separate suffixes.",
+    "suggestion": "Recombine parts[1] and parts[2] into a single 'alize' suffix"
   },
   {
-    "word": "incompatibility",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The example translation '2つのシステム間の互換性の問題により、統合が困難だった。' is awkward and somewhat contradicts the meaning. It says 'compatibility issue' when the word means 'incompatibility.' It should directly convey 'lack of compatibility' or 'incompatibility.'",
-    "suggestion": "The example translation should be something like '2つのシステムの非互換性により、統合が困難だった。' or '2つのシステムが両立しないため、統合が困難だった。'",
-    "source_file": "en-ja.json"
+    "word": "incomprehensible",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word 'incomprehensible' should be split into 'in' + 'comprehensible', but 'comprehensible' is itself a derived form (comprehend + -ible). The entry treats 'comprehensible' as a root, which is technically acceptable for a lexeme puzzle, but semantically the -ible suffix should be marked if showing full morphological decomposition. Current marking is acceptable as a pragmatic choice.",
+    "suggestion": "Current split is acceptable; no change needed if treating 'comprehensible' as a recognized lexeme"
   },
   {
     "word": "carefully",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "気をつけ is incomplete and awkward as a standalone morpheme gloss. It should be 気をつけ (to be careful) or simply 注意 (attention/care).",
-    "suggestion": "Use 注意 or 気をつけ (complete verb form) to better represent the root morpheme",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Gloss for -ful should follow the convention in the canonical glossary, which is '-ful' (the morpheme itself), not '～な・～い' (a description of its function). The tile label must be brief and match the standard morpheme label.",
+    "suggestion": "-ful"
   },
   {
     "word": "carelessly",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "気をつけ is incomplete and awkward as a standalone morpheme gloss. Should be consistent with other entries using 注意 or a complete form.",
-    "suggestion": "Use 注意 or 気をつけ (complete verb form) for consistency",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Gloss for -less should match the glossary convention. The glossary shows '-less' as the standard label, but this entry uses '～がない' which is descriptive rather than the morpheme label itself.",
+    "suggestion": "-less"
   },
   {
     "word": "carelessness",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "気をつけ is incomplete and awkward as a standalone morpheme gloss. Should be consistent with other entries.",
-    "suggestion": "Use 注意 or 気をつけ (complete verb form) for consistency",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Gloss for -less should match the glossary convention. The glossary shows '-less' as the standard label, but this entry uses '～がない' which is descriptive.",
+    "suggestion": "-less"
+  },
+  {
+    "word": "carelessness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Gloss for -ness should match the glossary convention. The glossary shows '-ness' as the standard label, but this entry uses '～さ' which is descriptive rather than the morpheme label itself.",
+    "suggestion": "-ness"
   },
   {
     "word": "helpfully",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "助け as a gloss is incomplete; it should specify the noun form or use a more complete representation like 助け (help/aid) or 助ける (to help).",
-    "suggestion": "Use 助け or 援助 consistently across related entries",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Gloss for -ful should match the glossary convention. The glossary shows '-ful' as the standard label, but this entry uses '～な・～い' which is descriptive.",
+    "suggestion": "-ful"
   },
   {
     "word": "helplessly",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "助け as a gloss is incomplete; it should specify the noun form or use a more complete representation like 助け (help/aid) or 助ける (to help).",
-    "suggestion": "Use 助け or 援助 consistently across related entries",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "Gloss for -less should match the glossary convention. The glossary shows '-less' as the standard label, but this entry uses '～がない' which is descriptive.",
+    "suggestion": "-less"
   },
   {
     "word": "hopefully",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The suffix '-ful' is glossed as '～な・～い' (having the quality of), but in 'hopefully' the meaning is not 'full of hope' in the descriptive sense. 'Hopefully' is an adverbial form meaning 'it is to be hoped that' or 'with hope', expressing speaker attitude rather than describing a state. The morphological analysis conflates the adjective 'hopeful' (which does mean 'full of hope') with the adverb 'hopefully' (which has evolved to mean 'I hope that').",
-    "suggestion": "Clarify that while 'hopeful' means '希望に満ちた', the adverb 'hopefully' has become a sentence adverb meaning '幸いなことに' or '願わくば', which is not simply the product of 'hope' + 'ful' + 'ly'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '～な・～い' is incorrect for '-ful' in this context. '-ful' means 'full of' or 'characterized by', not 'like/resembling'. The homeLang should reflect that 'hopeful' means 'full of hope', not 'hope-like'.",
+    "suggestion": "-ful"
+  },
+  {
+    "word": "hopefully",
+    "category": "wrong_translation",
+    "field": "translationShort",
+    "issue": "The translation '幸いなことに、うまくいくといいのだが' is misleading. 'Hopefully' as an adverb in 'Hopefully, the weather will improve' primarily means 'it is to be hoped that' or 'with hope', not 'fortunately'. The second part '(うまくいくといいのだが)' is speculative and not the core meaning.",
+    "suggestion": "希望を持って、幸いなことに"
   },
   {
     "word": "thankfully",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "Similar to 'hopefully', the suffix '-ful' is glossed as '～な・～い', but 'thankfully' as a sentence adverb does not mean 'in a manner full of thanks'. It means 'fortunately' or 'it is to be thankful for', expressing the speaker's attitude. While 'thankful' (adjective) does mean '感謝している', the adverb 'thankfully' has shifted to mean 'fortunately/luckily'.",
-    "suggestion": "Clarify that 'thankfully' as a sentence adverb means '幸いなことに' (fortunately), not a direct conversion of 'thankful' through productive morphology.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "hopefully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation '幸いなことに、明日は天気が良くなるといいですね。' is misleading. 'Hopefully, the weather will improve tomorrow' expresses the speaker's hope/expectation, not a statement of good fortune (幸いなことに). The translation makes it sound like good fortune has already occurred, when 'hopefully' expresses future uncertainty and hope.",
-    "suggestion": "Change to something like '願わくば、明日は天気が良くなるといいですね。' or '明日は天気が良くなるといいですね（願いを込めて）。'",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "thankfully",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation '幸いなことに、誰も事故で怪我をしませんでした。' is correct in meaning, but the translationLong field says '幸いにも、感謝の気持ちを持ちながら' which incorrectly emphasizes 'gratitude'. In 'Thankfully, no one was hurt', the adverb expresses fortune/relief, not active gratitude.",
-    "suggestion": "Revise translationLong to: '幸いなことに、幸運にも' (expressing good fortune/relief, not gratitude).",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "hopefully",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Japanese translation '幸いなことに、明日は天気が良くなるといいですね。' is grammatically awkward. '幸いなことに' (fortunately) should be used for past/present good fortune, not future conditional wishes. The sentence mixes registers unnaturally.",
-    "suggestion": "Use '明日は天気が良くなるといいですね。' (without '幸いなことに') or '願わくば、明日は天気が良くなるといいですね。'",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "thankfulness",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thank' is glossed as '感謝' (gratitude/appreciation as a noun), but 'thank' is a verb. The gloss should reflect the verb form.",
-    "suggestion": "Change to '感謝する' or '謝る' to accurately represent the verb 'thank'",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "thoughtfully",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thought' is glossed as '思考' (thinking/cognition as a noun), but in 'thoughtfully' it functions as an adjective root meaning 'considerate/mindful'. The gloss is misleading.",
-    "suggestion": "Change to '思慮深い' or '配慮のある' to reflect the adjectival meaning in this context",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "thoughtlessness",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The morpheme 'thought' is glossed as '思考' (thinking/cognition as a noun), but in 'thoughtlessness' it functions as an adjective root meaning 'inconsiderate/careless'. The gloss is misleading.",
-    "suggestion": "Change to '思慮' or '配慮' to better reflect the adjectival meaning in this context",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '～な・～い' is incorrect for '-ful'. '-ful' means 'full of' or 'characterized by', not 'like/resembling'. In 'thankful', it means 'full of gratitude/thanks'.",
+    "suggestion": "-ful"
   },
   {
     "word": "beautifully",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The entry splits 'beautifully' as 'beauty + ful + ly', but 'beauty' itself is already a derived noun (from 'beautiful'). The more transparent morphological analysis would be 'beautiful + ly', where 'beautiful' = 'beauty + -ful'. The current split obscures the actual morpheme structure.",
-    "suggestion": "Split as 'beautiful + ly' instead of 'beauty + ful + ly', or clarify in the notes that this represents a layered derivation. If keeping 'beauty + ful + ly', the homeLang should reflect that 'ful' here is converting a noun to an adjective.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "「beauti」is the root of the word beauty, but it's listed as 「美しさ」(beauty/beautiful). In the context of this word, it should be labeled as the root form without the -ty suffix. The gloss should reflect that this is the root morpheme, not a complete word.",
+    "suggestion": "美 or 美しい (to match the root meaning; alternatively keep 「美しさ」if treating the root as pre-suffix form)"
   },
   {
     "word": "successfully",
     "category": "wrong_translation",
     "field": "translationShort",
-    "issue": "The translation '成功させて' means 'making it succeed' or 'causing success', which is not accurate for the adverb 'successfully'. This reading suggests a causative verb form rather than an adverb modifying how an action was performed.",
-    "suggestion": "Change to '成功して' or '成功裏に' to better reflect the adverbial meaning of 'in a successful manner'.",
-    "source_file": "en-ja.json"
+    "issue": "「成功させて」is awkward and imprecise. The word means 'in a successful manner' or 'successfully', not 'causing success' or 'to cause success'. The translation should match the adverbial sense.",
+    "suggestion": "成功して or 無事に"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The label '不〜/ない' is too long for a tile label. Should be concise according to convention.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "development",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The label '下へ/取り消す' is too long for a tile label and inaccurate in this context. 'de-' here means 'away/out' (unwrapping), not negation.",
+    "suggestion": "(away)"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ement' is labeled as 'root' but it is a suffix (variant of -ment). Should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "improvement",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss '良くする' (make good) is oversimplified and misleading. The root 'prov' comes from Latin 'probare' (to approve/assent), not directly 'to make good.' The morpheme should reflect its actual etymological meaning.",
-    "suggestion": "Change homeLang to '認める/承認する' (approve/assent) to accurately reflect the Latin 'probare' origin, or provide more precise wording that connects to 'prove' rather than 'improve'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ement' is labeled as 'root' but it is a suffix (variant of -ment). Should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "advertisement",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as ad + vert + ise + ment, but 'advertise' is the actual morphological unit (ad + vert + ise), and 'ment' converts it to a noun. The current split treats 'ise' and 'ment' as separate suffixes, which obscures the fact that 'advertise' is a complete verb before nominalization.",
-    "suggestion": "Restructure to: ad + vertise (or ad + vert + ise) + ment, with clearer labeling showing that 'ment' nominalizes the full verb 'advertise'",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The label '~にする' is imprecise. The suffix '-ise/-ize' creates verbs from nouns/adjectives, and the gloss should match the glossary convention.",
+    "suggestion": "-ize"
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ement is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "retirement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The etymology explanation incorrectly connects 'tired' to the same root as 'retire'. 'Tired' comes from Old French 'tiré' (past participle of tirer), but in modern English, 'tired' means 'weary/fatigued' and has no meaningful connection to 'retire' beyond the coincidental historical morpheme. The claim that 'tired' shows the same root 'tir' meaning 'withdraw' is misleading—'tired' does not semantically relate to withdrawal.",
-    "suggestion": "Remove the reference to 'tired' or clarify that while both etymologically derive from 'tirer' (to pull/draw), the semantic paths diverged; 'retire' evolved to mean 'withdraw from work' while 'tired' evolved to mean 'fatigued'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ement is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "replacement",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The morpheme 're + place' is analyzed as if 'place' retains its noun meaning ('location/space'), but in 'replace' and 'replacement', 'place' functions as part of a verb stem derived from Old French 'placer' (to put/set). The modern analysis of 'place' as simply 'location' obscures that it represents the verb 'to place' (to put something somewhere), not the noun. The prefix 're-' + the verb 'place' gives 'replace' (put again/put back), then '-ment' nominalizes it.",
-    "suggestion": "Change parts[1].homeLang to 'place (verb: to put/set)' or provide homeLangDetails clarifying that 'place' here is the verb stem, not the noun 'location'.",
-    "source_file": "en-ja.json"
+    "issue": "In 'replacement', 'place' does not mean '場所' (place/location). It is the verb 'place' meaning to put or position something. The gloss should reflect the verbal sense.",
+    "suggestion": "置く、配置する"
   },
   {
     "word": "unfortunately",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as un + fortunate + ly, but 'fortunate' itself is a compound (fortune + -ate) that could be further analyzed. However, the core issue is that the morphological breakdown treats 'fortunate' as atomic when it could be split further for educational purposes. More importantly, the entry is missing the -ate suffix that forms the adjective from 'fortune'.",
-    "suggestion": "Consider splitting as: un + fortune + ate + ly, or if keeping 'fortunate' as one unit, acknowledge that it's a lexicalized form (fortune + -ate).",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '〜に' (to/at) is incorrect for the adverb-forming suffix -ly. In this word, -ly converts the adjective 'fortunate' into an adverb and should be glossed as '-ly' or '-的に' (adverbially).",
+    "suggestion": "-ly"
   },
   {
     "word": "unexpectedly",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The morpheme 'ed' is flagged as past participle, but in 'unexpectedly', the 'ed' is actually part of the adjective 'unexpected' (un + expect + ed), not a separate verbal past tense marker. The structure should be: un + expect + ed (adjective suffix creating 'unexpected') + ly (adverb suffix).",
-    "suggestion": "Change parts[2] homeLang from '（過去分詞）' to '（形容詞化接尾辞）' or '（過去分詞/形容詞化）' to clarify that -ed here forms an adjective, not a verb form.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ed' in 'expected' is labeled as 'root', but it is a suffix forming the past participle/adjective form.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unexpectedly",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The gloss '〜に' (to/at) is incorrect for the adverb-forming suffix -ly. It should indicate adverbial function.",
+    "suggestion": "-ly"
   },
   {
     "word": "unhealthy",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry shows 'health' + 'y', but this misses the intermediate step. The correct formation is: un + health + y. The -y suffix (shown in parts[2]) derives an adjective from a noun, making 'healthy'. Then 'un-' negates 'healthy'. The entry presents it as if negating 'health' directly, which is less accurate.",
-    "suggestion": "Consider restructuring to show: un + (health + y), or clarify in homeLangDetails that the -y first converts 'health' (noun) to 'healthy' (adjective), which is then negated by un-.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'y' is missing its morphemeType. As an adjective-forming suffix, it should be typed as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
-    "word": "unreasonable",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The entry shows un + reason + able, but this suggests negating 'reason' with -able, which is misleading. The actual formation is: un + (reason + able). The -able suffix first converts 'reason' (noun) into 'reasonable' (adjective), which is then negated by un-.",
-    "suggestion": "Clarify the structure in homeLangDetails: the -able suffix forms 'reasonable' from 'reason', and then 'un-' negates that adjective.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "unwillingness",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'willing' should be split further into 'will' + 'ing'. Currently 'will' is listed separately but 'willing' is the actual intermediate form before 'ness' is added. The structure should be: un- + will- + -ing + -ness, not un- + will + -ing + -ness.",
-    "suggestion": "Adjust the parts to show: un- (non-/not) + willing (adjective: willing) + -ness (state/quality), OR split more granularly as un- + will + -ing + -ness with 'willing' properly identified as the adjective form.",
-    "source_file": "en-ja.json"
+    "word": "unhealthy",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '（形容詞化）' (adjectivization) is a grammatical description rather than a concise tile label. It should follow the convention for adjective-forming suffixes.",
+    "suggestion": "-y"
   },
   {
     "word": "unwillingness",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation '彼が手伝う気が進まなかったのは残念でした。' is awkwardly phrased and doesn't clearly convey 'unwillingness' as a noun. It sounds more like a past-tense event rather than describing the state of unwillingness.",
-    "suggestion": "改め: '彼の手伝うことへの嫌がりは残念でした。' or '彼が手伝わない気持ちは残念でした。' or more naturally: '彼が協力を嫌がったのは残念でした。'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ing) is labeled as 'root' but -ing is a suffix forming gerunds/present participles",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang for 'ing' is labeled as '（動名詞）' which is a long grammatical description; should be concise suffix label like '-ing'",
+    "suggestion": "Change to '-ing'"
   },
   {
     "word": "reconsideration",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The detail states '-tion' is a 'noun接尾辞' (noun suffix) but the homeLang field just says '〜tion' without explanation. More importantly, the homeLangDetails incorrectly implies that '-tion' alone means the action/result, when it actually attaches to the Latin root (consider → consideration), not to English verbs directly in the way described.",
-    "suggestion": "Clarify that '-tion' converts verbs or Latin roots to nouns indicating an action or state, and that in 'reconsideration' it attaches to the root 'consider' (which itself comes from Latin 'considerare'). The homeLang could be more precise: '〜という行為、〜の結果' or similar.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ation) is labeled as 'root' but -ation is a nominalizing suffix, not a root",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "reconsideration",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang for 'ation' says '〜tion' which is too vague; should use standard glossary label '(名詞化)' per canonical glossary",
+    "suggestion": "Change to '(名詞化)'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType for 'iz' is set to 'root', but -iz is a suffix that forms verbs (derivational suffix, not a root).",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The morphemeType for 'ation' is set to 'root', but -ation is a suffix that nominalizes verbs (derivational suffix, not a root).",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "recycling",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 're' + 'cycl' + 'ing' (or 're' + 'cycle' + 'ing'), but 'cycle' is itself the gerund/participle form. The root is 'cycl' (from Latin cyclus, meaning circle), not 'cycle'. The morpheme 'cycle' presented here glosses the noun/verb form, but for morphological accuracy in a learning context, 'cycl' (the root) + 'ing' would be more precise, or clarify that 'cycle' here includes the base form.",
-    "suggestion": "Either split as 're + cycl + ing' and gloss 'cycl' as '循環、周期', or keep 're + cycle + ing' but note that 'cycle' here is the base form and 'ing' makes it a gerund. The current presentation conflates the root with the full word form.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "recycling",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation '資源の再利用は環境汚染を減らすのに役立つ。' uses '環境汚染' (environmental pollution), but the English says 'environmental waste' (環境廃棄物 or 廃棄物). These are related but distinct concepts.",
-    "suggestion": "Change to '資源の再利用は環境廃棄物を減らすのに役立つ。' or '環境廃棄物を削減するのに役立つ。'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morphemeType for 'ing' is set to 'root', but -ing is a suffix (gerund/progressive marker). It is not a root morpheme.",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "communication",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix is split as 'ication' when it should be split as 'ication' (which itself contains '-tion'). However, more fundamentally, 'mun' alone is not a standard morpheme; the root is 'munis' (duty/service) related to Latin 'communis' (common). The split should reflect 'com + munis + ication' or at minimum clarify that 'mun' is incomplete.",
-    "suggestion": "Revise the 'mun' entry to better explain it represents part of 'munis' (related to duty/service and commonality), or reconsider the morpheme boundary.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ication' is a suffix (derivational morpheme), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix (derivational morpheme), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "investigation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix (derivational morpheme), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "introduction",
-    "category": "wrong_boundary",
-    "field": "parts[0]",
-    "issue": "'intro' is presented as a single morpheme, but it should be split into 'in' (into) + 'tro' (turn/twist, from Latin 'troducere'). The current split masks the underlying structure.",
-    "suggestion": "Split as 'in + tro + duc + tion' to accurately reflect the Latin roots and morpheme structure.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'intro' is a prefix (bound morpheme meaning 'into'), not a root",
+    "suggestion": "prefix"
   },
   {
-    "word": "introduction",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "'序章' (prologue/preface of a book) is too specific. The example sentence refers to 'introduction' in a general sense (opening section), not necessarily the chapter/preface of a novel. The translation is somewhat misleading.",
-    "suggestion": "Use '序文' or 'はじめに' (introduction/opening) or 'その小説の冒頭部分は主要な対立を設定している' (the opening part of the novel sets up the main conflict).",
-    "source_file": "en-ja.json"
+    "word": "production",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss is too long (4+ words). Should be concise for tile label.",
+    "suggestion": "前へ/賛成"
   },
   {
     "word": "pronunciation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'pro-nunc-iation' but the correct morphological boundary is 'pro-nun-ci-ation'. The 'nunc' part is not a meaningful morpheme; 'nunci' (from Latin nunciare, to announce) is the root.",
-    "suggestion": "Split as: pro (forward) + nunci (announce/speak) + ation (noun suffix). Or reconsider whether this decomposition is pedagogically useful.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"音\" (sound) is correct for \"nunc-\", but the morphemeType should be \"root\" which is already correct. However, the part splitting is problematic: \"nunc\" is a bound root meaning \"sound/voice\" (from Latin nuntius), not a standalone morpheme in modern English. The entry conflates Latin etymology with English morphology.",
+    "suggestion": "Keep \"音\" but recognize this is a classical/etymological root, not a productive modern English morpheme"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "\"名詞化\" is correct as a gloss for the suffix, but \"iation\" should be labeled as a suffix (-iation), not a root. The morphemeType is incorrectly set to \"root\".",
+    "suggestion": "morphemeType should be \"suffix\""
   },
   {
     "word": "explanation",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'plan' is glossed as 'flat/level', but in 'explanation' the root is 'plain' (from Latin planus, flat/clear). The split 'ex-plan-ation' treats 'plan' as a standalone morpheme, but 'plane' (as in plane geometry) is the more transparent connection. The homeLang 'flat' is misleading—it should reflect the sense of 'making flat/clear'.",
-    "suggestion": "Change homeLang to '平らな（明確にする）' or '明らかにする' to better capture the sense of 'making plain/clear'. Or split as 'ex-plain-ation' (with 'plain' meaning to make clear/reveal).",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "\"平らな\" (flat) does not match the actual meaning of \"plan-\" in \"explanation\". The root \"plan-\" in this context comes from Latin \"planare\" (to make flat/level), but in \"explanation\" it should reflect the sense of \"to flatten out\" or \"to make clear/plain\", not literally \"flat\". However, the glossary entry for \"plan\" lists \"平らな\" which is the literal meaning. In context of \"explanation\", the sense is more about making something \"plain\" or \"clear\", not about flatness.",
+    "suggestion": "Consider \"明確な\" (clear/plain) or keep \"平らな\" noting it's the etymological sense"
+  },
+  {
+    "word": "explanation",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "\"名詞化\" is correct for the suffix \"-ation\", but morphemeType should be \"suffix\", not \"root\".",
+    "suggestion": "morphemeType should be \"suffix\""
   },
   {
     "word": "examination",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "'am' glossed as '計る' (measure) is misleading. In 'examination', the root is 'amin' or 'amen' (from Latin examinare), not related to 'am' meaning measure. The morpheme boundary and translation are both incorrect.",
-    "suggestion": "Correct the root to 'amin' or 'amen' (to examine/weigh) rather than 'am'. Update homeLang to reflect the actual meaning (examine, weigh, consider).",
-    "source_file": "en-ja.json"
+    "issue": "In \"examination\", \"ex-\" does not mean \"外へ/～から\" (outward/from). The prefix here means \"out\" in the sense of \"thoroughly\" or \"to test/try out\". The gloss should align with the meaning \"to examine thoroughly\", not simply \"outward/from\".",
+    "suggestion": "Consider \"徹底的に\" (thoroughly) or \"試す\" (to test) for this context, or clarify the gloss refers to the intensive/causative sense of ex-"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "\"計る\" (to measure) does not accurately reflect the meaning of \"am-\" in \"examination\". The root \"am-\" comes from Latin \"examinare\" (to weigh, test). In this context it relates more to \"testing\" or \"weighing\" rather than simply \"measuring\". The glossary lists \"am → 計る\" which is incomplete.",
+    "suggestion": "\"試す\" (to test) or \"量る\" (to weigh/assess) would be more accurate"
+  },
+  {
+    "word": "examination",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "\"名詞化\" is correct for the suffix, but morphemeType should be \"suffix\", not \"root\".",
+    "suggestion": "morphemeType should be \"suffix\""
   },
   {
     "word": "imagination",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "'ag' is glossed as '画像' (image), but in 'imagination' the root is 'agin' or 'ag' from Latin 'agere' or 'imaginari'. The split 'im-ag-ination' misrepresents the morphology. The actual root relates to 'image' but the boundary should be 'im-agin-ation' or recognized as a Latinate form where 'agin-' is the root meaning 'image/form'.",
-    "suggestion": "Correct the split to 'im-agin-ation' where 'agin' (from imago, image) is the root. Or use 'image' as the relatable English cognate rather than just '画像'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "In \"imagination\", \"im-\" does not mean \"中へ/～の中\" (into/inside). Here \"im-\" is the assimilated form of \"in-\" meaning \"in\", but combined with \"ag-\" (to drive/act), it forms the sense of \"to form in the mind\". The gloss should reflect this meaning more accurately.",
+    "suggestion": "\"～へ\" (into) or \"～の中へ\" (into/inside) is acceptable, but the homeLangDetails is misleading by emphasizing the negative sense"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "\"画像\" (image/picture) is too literal for \"ag-\". The root \"ag-/act-\" means \"to drive, move, or act\". While \"ag-\" can relate to \"act\" or \"do\", \"画像\" (image) is the result of imagining, not the meaning of the morpheme itself.",
+    "suggestion": "\"行動\" (action) or \"駆動\" (to drive/impel) would be more accurate; or keep \"画像\" but note it's the semantic result, not the morpheme meaning"
+  },
+  {
+    "word": "imagination",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "\"名詞化\" is correct, but morphemeType should be \"suffix\", not \"root\".",
+    "suggestion": "morphemeType should be \"suffix\""
   },
   {
     "word": "population",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "'ulation' is treated as a single suffix, but it should be further analyzed as '-u-lation' or '-ation' (noun suffix). The 'u' is a linking vowel and '-ation' is the productive suffix. However, 'ulation' as a unit is acceptable in a pedagogical context; the real issue is that 'pop' + 'ulation' obscures that this is 'popul-' (people) + '-ation'.",
-    "suggestion": "Consider splitting as 'popul-ation' or 'pop-ul-ation' to make the 'popul' (people) root more transparent. Alternatively, keep the current split but ensure it is pedagogically justified.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "\"名詞化\" is correct for the suffix \"-ulation\", but morphemeType should be \"suffix\", not \"root\".",
+    "suggestion": "morphemeType should be \"suffix\""
   },
   {
     "word": "conversation",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'vers' is glossed as '回る' (to turn/revolve), but in 'conversation' it comes from Latin 'versari' meaning 'to turn/occupy oneself with' or 'to associate with', not simply 'to turn'. The modern English meaning of 'conversation' derives from the sense of 'turning toward each other in dialogue', not literal turning.",
-    "suggestion": "Change homeLang to '向き合う/交わす' (to face each other/to exchange) or provide more precise context in homeLangDetails explaining the semantic connection to dialogue.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (or -tion) is a suffix, not a root. It is a bound morpheme that follows the root to form nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a suffix, not a root. It is a bound morpheme that follows the root to form nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "reflection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'光の反射' (reflection of light) is too narrow. While 'reflection' can mean light bouncing back, it more commonly in English refers to thinking deeply or contemplation. The translation should accommodate both meanings.",
-    "suggestion": "Change translationShort to '反射、または深い思考' (reflection/bouncing back, or deep thinking) or '思考の反省' to better capture the dual meaning.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a suffix, not a root. It is a bound morpheme that follows the root to form nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a suffix, not a root. It is a bound morpheme that follows the root to form nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "protection",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation for 'pro' as '前へ/前方' in the context of 'protection' is misleading. In 'protection', 'pro-' comes from Latin 'pro' meaning 'in front of' or 'before' (as in 'defending beforehand'), but the homeLangDetails examples (progress, produce) reflect different senses of 'pro-'. The connection to 'covering/shielding' is not clearly explained.",
-    "suggestion": "Add clarification to homeLangDetails: 'protection の場合、pro-は「前に/守る立場から」という意味で、誰かを危害から前もって守る、という意味です。' (In the case of 'protection', pro- means 'in front of/from a protective stance', meaning to protect someone beforehand from harm.)",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a suffix, not a root. It is a bound morpheme that follows the root to form nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "invitation",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The prefix 'in-' in 'invitation' means 'in/into' (related to the vit-/call meaning), not '〜ではない' (negation). The homeLang description conflates two different uses of 'in-' as if they apply equally here, when in 'invitation' it specifically means 'in/into' (calling someone in).",
-    "suggestion": "Change homeLang to '〜の中へ' or '〜に' to reflect the 'in/into' sense, and clarify that the negation sense does not apply here.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '中に' (into) is misleading for this word. In 'invitation', the prefix 'in-' means 'into' and is correct, but the homeLang label should be shorter and use the standard convention. The glossary entry 'in-/im-/il-/ir-' uses the label 'in-/not or into', but for a tile label, this should be concise. However, the core issue is that '中に' is too long for a tile label (violates the ~4 word limit).",
+    "suggestion": "(in)"
   },
   {
     "word": "invitation",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "'vit' should be split further or clarified: it comes from Latin 'vitare' (to call), but the modern English morpheme is 'vit-' which appears in invite/invitation. The split 'in-vit-ation' is correct, but 'vit' glossed as '呼ぶ' oversimplifies—it's not an independent English morpheme but a bound root.",
-    "suggestion": "Clarify that 'vit' is a bound Latin root meaning '呼ぶ/to call' and cannot stand alone in modern English.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "preparation",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "'par' should be glossed as coming from Latin 'parare' (to prepare/make ready), not simply as '準備する'. The morpheme 'par-' is the bound root; 'prepare' is the full word with prefix. The gloss conflates the root with the whole word.",
-    "suggestion": "Change homeLang to '準備する・作る' or provide homeLangDetails clarifying that 'par' is a bound Latin root meaning 'prepare/make ready'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '前に' is too long for a tile label (violates the ~4 word limit). Should use standard parenthetical convention.",
+    "suggestion": "(pre-)"
+  },
+  {
+    "word": "preparation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '体・道具' (body/tool) is incorrect. The root 'organ' relates to 'organize', meaning to arrange or systematize, not body/tool. The correct gloss should reflect the meaning 'arrange/organize'.",
+    "suggestion": "整理する"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-iz-' (or '-ify') is a derivational suffix that turns nouns into verbs, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ific' (part of '-ify') is a derivational suffix that turns adjectives into verbs, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "satisfaction",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The split 'sat-is-faction' is incorrect. The correct morphological analysis is 'sat-is-f-action' or more accurately 'satis-' (Latin for 'enough') + '-faction' (from Latin 'facere', to make/do). The current boundary separates 'is' incorrectly; 'satis' is a single Latin element.",
-    "suggestion": "Reanalyze as 'satis' (enough) + 'faction' (from facere, to make), or if keeping three parts, split as 'sat-is-' (bound form of satis) with appropriate explanation, not 'sat' + 'is' as separate morphemes with separate glosses.",
-    "source_file": "en-ja.json"
+    "issue": "The word should be split as 'satis-fy-action' or 'satis-fac-tion', not 'sat-is-faction'. The split point is incorrect; 'sat' alone is not the morpheme here.",
+    "suggestion": "Reconsider the split: satisfaction = satis + fac + tion (or satis + fy + tion)"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-is' or '-fy' is a derivational suffix (verbifying), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-faction' or '-tion' is a derivational suffix (nominalizing), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ファイ' is incorrect. The suffix '-ific' means 'making' or 'causing to be' (as in 'make specific/clear'), not '-ファイ'. The homeLangDetails explain the meaning correctly, but the tile label should match the glossary entry for -fic-/-fect-: '作る、成し遂げる' or a short equivalent like '(make)'.",
+    "suggestion": "(make)"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ific' is a suffix, not a root. It is a derivational suffix that creates adjectives or verbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix, not a root. It is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-ファイ' is incorrect. The suffix '-ific' should be glossed as '(make)' or similar, matching the glossary entry for -fic-: '作る、成し遂げる'.",
+    "suggestion": "(make)"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ific' is a suffix, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix, not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix is split as 'uation' but should be further divided into 'u' + 'ation'. The 'u' is a connecting vowel, and '-ation' is the productive nominalizing suffix (as seen in other entries like 'qualification').",
-    "suggestion": "Split into three parts: 'e' (prefix), 'val' (root), 'u' (connector), 'ation' (suffix). Or at minimum: 'eval' (root), 'uation' → 'u' + 'ation'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '外へ' is incomplete for the tile label. The homeLangDetails correctly explain the prefix, but for consistency with glossary convention and brevity, it should be '(out)' or similar short parenthetical form.",
+    "suggestion": "(out)"
+  },
+  {
+    "word": "evaluation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-uation' is a suffix (nominalizing suffix), not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "understandable",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '下に' is not the best tile label. According to glossary convention and the homeLangDetails provided, this prefix also carries the meaning 'too little' or 'insufficient' (underperform, underestimate). For the word 'understandable', a shorter, more contextually appropriate gloss like '(under)' or '足りない' would be clearer on a tile.",
+    "suggestion": "(under)"
+  },
+  {
+    "word": "understandable",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-アブル' does not match the glossary convention. The canonical glossary entry for -able is '-able', not a katakana transliteration. The tile label should be '-able'.",
+    "suggestion": "-able"
+  },
+  {
+    "word": "affordable",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The gloss 'stand' (立つ) for the 'stand' in 'understand' is misleading. In modern English, 'understand' is a frozen compound where 'stand' no longer retains its literal meaning of 'to stand'. The morpheme should be glossed as 'understand' (理解する) or labeled as a frozen root, not as the verb 'stand' (立つ).",
-    "suggestion": "Either gloss as 'understand/comprehend' or note this as a frozen compound where the synchronic reading of 'stand' as the verb is incorrect.",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '-アブル' does not match the glossary. The canonical entry is '-able', not a katakana transliteration.",
+    "suggestion": "-able"
   },
   {
     "word": "dependable",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "「頼る」is typically reflexive (to rely on), but here it should represent the sense of \"dependable\" which is about being reliable or trustworthy. A better gloss would be \"信頼できる\" or \"頼りになる\" at the root level.",
-    "suggestion": "Use a gloss that better captures reliability/trustworthiness, such as \"信頼\" (trust) or \"頼りになる\" (dependable)",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss \"-できる\" is misleading. The suffix -able/-ible doesn't mean \"can do\" but rather \"able to be\" or \"worthy of being\". In \"dependable\", it means \"worthy of being depended upon\", not \"can depend\".",
+    "suggestion": "-able"
   },
   {
     "word": "incredible",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "「信じる」(to believe) is not quite the right gloss for the Latin root \"cred\" in this context. While etymologically related to belief, in modern English \"incredible\" means \"amazing/unbelievable\" rather than literally \"not believable.\" The homeLang should reflect the actual morpheme meaning.",
-    "suggestion": "Use \"信じる\" or \"信仰\" to be consistent, but note that this entry conflates the literal etymological meaning with the modern semantic meaning",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss \"-できる\" is misleading for the same reason as dependable. The suffix -ible means \"able to be\" or \"worthy of being\", not \"can do\".",
+    "suggestion": "-able"
+  },
+  {
+    "word": "invisible",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss \"-できる\" is incorrect. In \"invisible\", the suffix -ible means \"able to be seen\" or more accurately \"not able to be seen\", not \"can do\".",
+    "suggestion": "-able"
   },
   {
     "word": "impossible",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "\"poss\" is itself a bound morpheme that could be analyzed further as \"poss-ible\" or \"poss\" from Latin \"posse\" (to be able). The split at \"poss\" instead of recognizing \"possible\" as a distinct unit may mislead learners about English morphology.",
-    "suggestion": "Consider splitting as \"im\" + \"possible\" where \"possible\" is itself recognized as a meaningful unit, or clarify that \"poss\" is a Latin root meaning \"able/possible\"",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss \"-できる\" is misleading. The suffix -ible should be glossed as \"-able\" (meaning \"able to be\" or \"worthy of being\").",
+    "suggestion": "-able"
   },
   {
     "word": "irresponsible",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "\"respons\" should likely be split further as \"respons-\" (from Latin \"respondere\") or the entry should recognize \"responsible\" as the base form. The current split may confuse learners about English word structure.",
-    "suggestion": "Split as \"ir\" + \"responsible\" where \"responsible\" is the base adjective, or clarify that \"respons-\" is a Latin-derived root",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss \"-できる\" is incorrect. The suffix -ible should be glossed as \"-able\".",
+    "suggestion": "-able"
+  },
+  {
+    "word": "irresponsible",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss \"応答する\" (answer/respond) is imprecise. The root \"respons-\" means \"answer\" or more broadly \"be answerable for/accountable for\", which better captures the sense of responsibility.",
+    "suggestion": "責任"
   },
   {
     "word": "irreversible",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as ir- + reverse + -ible, but 'ir' is presented as a separate part when it's the assimilated form of 'in-' before 'r'. The entry conflates 'ir' with the full 'in-' prefix explanation.",
-    "suggestion": "Either split as 'in-' + 'reverse' + '-ible' with a note about assimilation, or clarify that 'ir' is the assimilated allomorph of 'in-' before vowels/certain consonants",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-' is correct for the prefix, but in this word it means 'not' (negation), not 'into'. The homeLangDetails explain both meanings, but the tile label should reflect the actual meaning in this context.",
+    "suggestion": "(not)"
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'in-' is correct, but in this word it means 'not' (negation), not 'into'. The homeLangDetails explain both meanings, but the tile label should reflect the actual meaning in this context.",
+    "suggestion": "(not)"
   },
   {
     "word": "prehistoric",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "'historic' is itself a compound that can be further split into 'histo-' (history) + '-ic' (adjective suffix), similar to how other entries break down suffixes",
-    "suggestion": "Split as 'pre-' + 'histo-' + '-ric' or 'pre-' + 'history' + '-ic' to maintain consistency with the level of decomposition used in other entries",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'historic' is not a root; it is itself a derived adjective (from 'history' + '-ic'). However, in the context of this word, treating it as a complex root for puzzle purposes is acceptable. The real issue is that 'historic' should be analyzed as 'history' + '-ic' if we are decomposing fully, but since the entry treats it as a single unit, the morphemeType should be 'root' only if that unit is treated as irreducible for this puzzle. Given that the glossary and puzzle structure appear to treat 'historic' as a pre-formed adjective root here, the current 'root' assignment is acceptable.",
+    "suggestion": "root (acceptable as-is)"
   },
   {
     "word": "antibiotic",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The example 'anticipate' is misleading. 'Anticipate' contains 'anti-' but its meaning comes from Latin 'ante' (before), not 'anti' (against). This is a false cognate that should not be listed as an example of the 'anti-' prefix meaning 'against'.",
-    "suggestion": "Remove 'anticipate' from the examples or clarify that it has a different etymology. Better examples: antivirus, antisocial, antibacterial.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "tic is a suffix (-tic/-ic forms adjectives), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "automatically",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The morpheme split is incorrect. 'Automatically' should be split as 'automatic' + 'ally', not 'auto' + 'matic' + 'ally'. The root 'matic' does not exist as an independent morpheme with the meaning '動く'; rather, '-matic' is a suffix meaning 'relating to or characterized by'. The word should be analyzed as 'auto' + 'mat' + 'ic' + 'ally' at minimum.",
-    "suggestion": "Revise to: parts should be [auto (自動で), -matic (～的な), -ally (～に)] or preferably split 'automatic' as one unit before adding 'ally'.",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "matic is a suffix forming adjectives from nouns, not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "television",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'遠く映す' (project from far away) is inaccurate. Television means 'seeing from a distance' or 'distant viewing', not simply projecting. The phrase does not capture the essence of receiving/viewing content from a distance.",
-    "suggestion": "Use '遠く見る' (see from a distance) or '遠距離映像' (distant image viewing)",
-    "source_file": "en-ja.json"
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ally is a suffix forming adverbs from adjectives, not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "homeLang should match the glossary entry for geo-, which is 'geo-' not '地球'. The Japanese explanation is helpful but the tile label must be brief and match the canonical form.",
+    "suggestion": "geo-"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang should match the glossary entry for graph, which is '描く/書く' or similar short form, not '記述'. While close, '記述' is a noun; the morpheme means the action of writing/describing.",
+    "suggestion": "描く"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '(noun)' is incorrect. According to the glossary, '-y' (variant of -logy or a noun-forming suffix in this context) should be labeled according to its function. Here it creates a noun from the root; it should be '(noun化)' or similar, or left as the grammatical label. However, '(noun)' is not standard—it should match a brief grammatical label convention.",
+    "suggestion": "-logy"
   },
   {
     "word": "responsibility",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "\"respons\" is not a standard morpheme boundary. The correct split should be \"re-\" (prefix meaning back/again) + \"spond\" (root meaning to answer/respond) + \"-ibility\" (suffix forming nouns). The entry splits at an unnatural point that obscures the actual morphological structure.",
-    "suggestion": "Split as \"re\" + \"spond\" + \"ibility\" or acknowledge that \"responsibility\" is more naturally analyzed as \"responsible\" + \"-ity\", making it \"respons(ible)\" + \"ity\"",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ibility' is a suffix, not a root. It is a bound morpheme derived from '-able' + '-ity' that attaches to verb roots to form abstract nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "responsibility",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "According to the glossary, '-ibility' should be labeled as '～性' (the same as -ity), but the glossary entry shows 'ibility → ～性'. The homeLang should use the glossary form consistently.",
+    "suggestion": "～性"
   },
   {
     "word": "personality",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "\"ality\" is not a standard morpheme. The correct suffix is \"-ity\" (as shown in other entries like popularity and electricity). The \"al\" belongs to \"person-al\", making the correct split \"person\" + \"al\" + \"ity\" or \"personal\" + \"ity\".",
-    "suggestion": "Split as \"person\" + \"al\" + \"ity\" or \"personal\" + \"ity\"",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ality' is a suffix, not a root. It is a bound morpheme (variant of -ity) that attaches to noun or adjective roots to form abstract nouns denoting a quality or state.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "popularity",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'popular' is a complete adjective (root or root + affix internally), not a standalone root in this morphological split. If we are treating 'popular' as a pre-formed adjective root that enters the -ity suffix, it should be labeled 'root', which is correct. However, 'popular' itself contains bound elements (pop- + -ular); if the split is meant to show that, parts[0] should not be marked as 'root' but decomposed further. As presented (with 'popular' as one part), it should remain 'root'.",
+    "suggestion": "root"
   },
   {
     "word": "creativity",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The part 'iv' is incomplete; it should be '-ive' to show it's a suffix, not a standalone morpheme",
-    "suggestion": "Change 'iv' to '-ive' to clearly mark it as a suffix",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'iv' (-ive) is marked as 'root' but it is a suffix that derives adjectives from verbs/nouns",
+    "suggestion": "suffix"
   },
   {
     "word": "productivity",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The part 'iv' is incomplete; it should be '-ive' to show it's a suffix, not a standalone morpheme",
-    "suggestion": "Change 'iv' to '-ive' to clearly mark it as a suffix",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'iv' (-ive) is marked as 'root' but it is a suffix that derives adjectives from verbs/nouns",
+    "suggestion": "suffix"
   },
   {
     "word": "productivity",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The gloss '製品' (product/manufactured item) is too narrow. 'Product' here means the result of being productive, not just a manufactured item. The morpheme relates to 'produce' (生産する), not just physical products",
-    "suggestion": "Change homeLang to '生産' (production/produce) or add context that it refers to output/results",
-    "source_file": "en-ja.json"
+    "issue": "In the context of 'productivity', 'product' does not mean '製品' (product/manufactured goods). It comes from Latin 'producere' (to lead forth/produce), and here means 'produce/output'",
+    "suggestion": "生産する"
   },
   {
     "word": "flexibility",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The part 'ible' should be '-ible' to clearly mark it as a suffix",
-    "suggestion": "Change 'ible' to '-ible'",
-    "source_file": "en-ja.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-able' is correct for the morpheme's function, but should be marked as suffix not root. Also, 'ibil' in this word is part of the derived form 'flexible' (flex + -ible) where -ible is the suffix form, not -able",
+    "suggestion": "-ible"
   },
   {
     "word": "flexibility",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The example 'comfortable' is misleading; '-able' doesn't mean 'できる' (can do) in this context. 'Comfortable' comes from 'comfort' (noun), not a verb. The suffix means 'able/capable of' or 'worthy of', not 'can do'",
-    "suggestion": "Revise to clarify that '-ible/-able' means 'capable of being' or 'worthy of'; use better examples like 'readable' (読める), 'washable' (洗える)",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "nationality",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The phrase '国家的出身や認同' is awkward and unclear. '認同' is not the correct term for nationality recognition",
-    "suggestion": "Simplify to something like '特定の国の市民である地位、または国籍' or '国家に属する法的地位'",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "effectively",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The part 'iv' is incomplete; it should be '-ive' to show it's a suffix",
-    "suggestion": "Change 'iv' to '-ive'",
-    "source_file": "en-ja.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'ibil' (-ible) is marked as 'root' but it is a suffix that derives adjectives from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "productively",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The morpheme 'product' is glossed as '製品' (product/goods), but in 'productively', it comes from the adjective 'productive' which derives from 'produce' (produce/yield), not the noun 'product'. The gloss should reflect the meaning of productivity/production capacity, not the physical product.",
-    "suggestion": "Change '製品' to '生産する' or '産出する' to better reflect the etymological and semantic origin in 'produce'",
-    "source_file": "en-ja.json"
+    "issue": "「製品」is the noun meaning 'product', but here 'product' is part of the adjective root meaning 'producing results/output'. The gloss should reflect the sense 'produce/yield' rather than the noun.",
+    "suggestion": "生産する"
   },
   {
     "word": "researcher",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The 're-' prefix is glossed as '再-' (again/re-do), which is technically correct for Latin re-. However, in 'researcher', the 're-' is not functioning as a separate morpheme meaning 'again'—it's part of the lexicalized verb 'research' meaning to investigate thoroughly. The morpheme split suggests 're-' + 'search' implies 'searching again', but that's not the actual meaning. 'Research' itself is a single morphological unit from French recherche.",
-    "suggestion": "Either mark this as a frozen_compound where 'research' should not be split into 're+search', or revise the gloss of 're-' to note it doesn't carry its typical iterative meaning here",
-    "source_file": "en-ja.json"
+    "issue": "The gloss 「再-」is correct per the glossary, but in 'researcher' the 're-' prefix does not mean 'again/re-' — it is part of the root 'research' (from Old French 'cerchier'). The morpheme boundary is wrong: 'research' is a single root, not 're-' + 'search'.",
+    "suggestion": null
   },
   {
-    "word": "communicator",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The homeLangDetails for '-or' incorrectly lists examples like 'teacher', 'driver', and 'computer' which use the '-er' suffix, not '-or'. The description should focus on '-or' suffix words.",
-    "suggestion": "Revise to: '行為を実行する人を表す接尾辞です。ラテン語系の語根を持つ単語で使われることが多く、senator(上院議員)、actor(俳優)、instructor(講師)、communicator(コミュニケーター)などの例があります。'",
-    "source_file": "en-ja.json"
+    "word": "employee",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -ee suffix is marked as 'root' but it is a bound morpheme suffix, not a root. It has no independent meaning and only exists as an affix.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -graph- element is marked as 'root' but in this compound it functions as a bound combining form (a suffix-like element). While -graph- can be a root in some contexts, here it is combined with photo- as a bound morpheme in the word formation. It should be 'suffix' to reflect its role in building this derivative.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The word is incorrectly split into 'invest' + 'igat' + 'or'. The correct morphological boundary is 'investig-' (the root) + '-ate' (suffix forming a verb) + '-or' (agent suffix). The current split isolates 'igat' which is not a meaningful morpheme boundary.",
+    "suggestion": "Correct the split to: investig + ate + or"
+  },
+  {
+    "word": "investigator",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The homeLang gloss for 'igat' is listed as '-' (empty/no gloss). This part needs a proper gloss. If the split is corrected to 'ate', it should be glossed as '-ate' (a verb-forming suffix).",
+    "suggestion": "After correcting the boundary, gloss this part as '-ate'"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and overly descriptive. Should be concise per tile convention.",
+    "suggestion": "con-/together"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a derivational suffix that converts nouns/adjectives to verbs, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and overly descriptive. Should be concise per tile convention.",
+    "suggestion": "in-/into"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a derivational suffix that converts nouns/adjectives to verbs, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and overly descriptive. Should be concise per tile convention.",
+    "suggestion": "col-/together"
+  },
+  {
+    "word": "collaborate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a derivational suffix that converts nouns/adjectives to verbs, not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Gloss should match canonical glossary; 'part/部分' uses slash and mixes languages. Should use canonical format.",
+    "suggestion": "part"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'par' in participate is a bound root (part of the compound), not a free root or simple root morpheme standing alone. However, the standard morphemeType for Latin-derived roots in compounds is 'root'—this entry is acceptable as marked.",
+    "suggestion": null
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ate is a derivational suffix that converts nouns/adjectives to verbs, not a root.",
+    "suggestion": "suffix"
   },
   {
     "word": "congratulate",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Label is too long and overly descriptive. Should be concise per tile convention.",
+    "suggestion": "con-/together"
+  },
+  {
+    "word": "congratulate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ulate is a derivational suffix (diminutive/frequentative verb-forming), not a root.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '下へ/解く' is overly long and descriptive for a tile label. Should follow the convention of a short parenthetical or brief descriptor matching the glossary format.",
+    "suggestion": "(un-) or de-"
+  },
+  {
+    "word": "deconstruct",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The gloss '優雅さ' (elegance/grace) is misleading. While gratus does relate to pleasantness, the core meaning in congratulate is 'pleasing/gratifying' or 'joy', not 'elegance'. The homeLang should reflect the meaning relevant to the word's function.",
-    "suggestion": "Change to '喜ばしい/感謝の' or '喜び' to better capture the relevant meaning of gratus in this context",
-    "source_file": "en-ja.json"
+    "issue": "The gloss '一緒に/共に' is the correct meaning but the format is non-standard for a tile label. Should use a shorter, more concise form.",
+    "suggestion": "con-"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss '誤って/間違って' is overly descriptive. Should be brief and match glossary convention.",
+    "suggestion": "mis-"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '～の間に/相互に' is overly long and descriptive. Should follow tile label brevity convention.",
+    "suggestion": "inter-"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '説明する' is incorrect. The root 'pret' does not mean 'explain' in English morphology. In 'interpret', 'pret' comes from Latin 'praetere' but the actual root here is related to 'preis' or similar; however, the standard interpretation treats this as the bound root related to 'interpret' (to explain/understand meaning). The gloss provided in homeLangDetails is speculative and not grounded in standard English morpheme glosses.",
+    "suggestion": "pret- or interpret (bound root)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix '-et' is marked as 'root', but it is a historical suffix/ending, not a root. However, in modern English 'misinterpret', the '-et' does not appear—the word is 'misinterpret' not 'misinterprete'. This appears to be a segmentation error. The actual infinitive form is simply 'interpret' without '-et'.",
+    "suggestion": "This entire part may be an incorrect split; modern English uses 'misinterpret' without a separate '-et' suffix."
   },
   {
     "word": "misinterpret",
     "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The word is incorrectly split into 4 morphemes (mis-inter-pret-et). The correct split is mis-inter-pret (3 morphemes). The '-et' is not a separate morpheme; it's part of the root 'pret' which comes from Latin 'praetare' or the stem 'interpret-'. Modern English 'interpret' does not retain a separate '-et' suffix.",
-    "suggestion": "Combine parts[2] and parts[3] into a single morpheme 'pret' (or 'pret-'), removing the false 'et' morpheme entirely.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "false_cognate",
-    "field": "parts[2].homeLang",
-    "issue": "The gloss 'explain' for 'pret' is misleading. The morpheme comes from Latin 'praetare' meaning 'to make known/reveal,' not 'to explain.' While 'interpret' does involve explanation, attributing the meaning 'explain' to 'pret' alone is a false cognate that obscures the actual etymology.",
-    "suggestion": "Change 'homeLang' to something like '明らかにする/知らせる' (make known/reveal) to more accurately reflect the Latin origin.",
-    "source_file": "en-ja.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The explanation conflates the meaning of 'pret' with the composite meaning of 'interpret.' The phrase 'inter-（間）と pret-（説明）を組み合わせると「間にあるものを説明する」' treats 'explain' as the meaning of 'pret,' but this is circular reasoning. The actual analysis should reflect what 'pret' independently means.",
-    "suggestion": "Rewrite the homeLangDetails to explain 'pret' as relating to Latin 'praetare' (to reveal/make known) without conflating it with the full meaning of 'interpret.'",
-    "source_file": "en-ja.json"
+    "issue": "The split into 'mis', 'inter', 'pret', 'et' is problematic. Modern English 'misinterpret' does not have a separate '-et' ending. The correct morpheme boundary should be 'mis-' + 'interpret', with 'interpret' as the root (or further decomposed as 'inter-' + 'pret').",
+    "suggestion": "Reconsider the split: either 'mis-' + 'interpret' (as a whole), or 'mis-' + 'inter-' + 'pret' (without '-et')."
   }
 ]

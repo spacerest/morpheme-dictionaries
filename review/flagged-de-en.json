@@ -1,0 +1,44 @@
+[
+  {
+    "word": "Einwechslung",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The -l- is split out as a separate linking element, but it is properly part of the verb stem wechseln. The canonical root is 'wechs' and the -l- belongs to the verb's stem extension, making a three-way split (wechs / l / ung) debatable. A cleaner split may be ein + wechsl + ung, treating wechsl as the stem, or ein + wechs + l + ung with a note that -l- is a stem-internal linking element.",
+    "suggestion": "Consider whether to merge -l- into the root (wechsl) or keep it as a linking element with a clearer label. Human review needed to decide the canonical boundary."
+  },
+  {
+    "word": "misshandeln",
+    "category": "wrong_boundary",
+    "field": "parts[1].targetLang",
+    "issue": "The canonical glossary lists 'handel' as a root meaning trade/commerce, but the homeLangDetails acknowledge that the relevant sense here is 'handeln' (to act/handle), suggesting the root may be better cut as 'handl' with the infinitive stem, or that the -n split is slightly off given the -eln verb pattern.",
+    "suggestion": "Consider whether the root should be 'handl' (from handeln) with the linking '-e-' as a separate linking element, giving: miss + handl + e + n, or accept 'handel' as the conventional root form for display purposes."
+  },
+  {
+    "word": "verallgemeinern",
+    "category": "wrong_boundary",
+    "field": "parts[3].targetLang",
+    "issue": "The 'er' part is analysed as a comparative linking element from the adjective stem 'allgemeiner', but this reading is debatable. The word may be better split as ver- + allgemein + -er (verb-forming suffix, as in wandern, ändern) + -n (infinitive), or the -ern ending treated as a single verb-forming suffix. The comparative-er analysis is a structural decision.",
+    "suggestion": "Consider reanalysing as ver + allgemein + ern (verb-forming suffix, cf. ändern, wandern) with the final -n absorbed, or as ver + allgemein + er (verb suffix) + n (infinitive). A human should decide whether to split -ern or keep it as one suffix part."
+  },
+  {
+    "word": "bewerkstelligen",
+    "category": "frozen_compound",
+    "field": "id",
+    "issue": "bewerkstelligen is highly lexicalized. The internal structure be+werk+stell+ig+en is etymologically traceable but the composite meaning 'to accomplish/bring about' is not transparently compositional to a modern learner. The -ig- connector in particular no longer functions as a productive adjectival suffix here.",
+    "suggestion": "Consider adding a note in translationLong or a flag to the puzzle that this word is a frozen compound and the tiles give etymological clues rather than a compositional meaning."
+  },
+  {
+    "word": "industrialisieren",
+    "category": "wrong_boundary",
+    "field": "parts[2].targetLang",
+    "issue": "The canonical glossary lists 'is' as a verb-forming morpheme, but in industrialisieren the segmentation industri + al + is + ier + en may be over-splitting. The -is- element here is arguably part of the -isier- verbalizing block (from Latin -izare via French -iser), not a separate morpheme distinct from -ier-. A two-part split of -isieren versus -ieren is defensible, but treating -is- as an independent linking element is contested.",
+    "suggestion": "Consider merging parts[2] and parts[3] into a single -isier- suffix glossed as '-ize', leaving industri + al + isier + en. Or retain the current split but ensure homeLang labels make clear that -is- and -ier- together form '-ize'."
+  },
+  {
+    "word": "beinträchtigen",
+    "category": "wrong_boundary",
+    "field": "id",
+    "issue": "The entry ID is 'beinträchtigen' but the correct German word is 'beeinträchtigen' (with double-e). The example sentence correctly uses 'beeinträchtigen'. This also means the morpheme split is off: the prefix is 'be-' and the stem is 'einträcht-', which requires the full 'beein-' sequence — the 'e' of 'ein' is currently missing from the split.",
+    "suggestion": "Rename entry to 'beeinträchtigen' and verify the part split: be + einträcht + ig + en"
+  }
+]

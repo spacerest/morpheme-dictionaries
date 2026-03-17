@@ -1,1074 +1,1521 @@
 [
   {
-    "word": "injection",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The notation 'ind-/ikke eller ind' is confusing and inconsistent. The dash after 'ind' and the 'eller ikke' (or not) makes it unclear. Should clarify that 'in-' means 'ind' (into).",
-    "suggestion": "Change to simply 'ind' or 'ind-' (into) to match the clear format used in other entries",
-    "source_file": "en-da.json"
+    "word": "projection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root. It's a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
-    "word": "projection",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "The translation 'noget som stikker ud; et skøn eller en forudsigelse' (something that sticks out; an estimate or prediction) is incomplete. It doesn't capture the primary sense of 'projection' as something projected outward or displayed on a screen.",
-    "suggestion": "Expand to include: 'noget som projiceres eller kastes fremad; også et skøn eller en forudsigelse baseret på data'",
-    "source_file": "en-da.json"
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "ob- is a prefix meaning 'against/toward', not a root. It precedes the root ject.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ject is the root (meaning 'throw'), not part of a larger structure; this is correct as root.",
+    "suggestion": "root"
+  },
+  {
+    "word": "objection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root. It's a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "prediction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'Vejrudsigelsen for i morgen er regn' is slightly awkward. It should be 'Vejrudsigelsen for i morgen siger regn' or more naturally 'Vejrprognosen for i morgen er regn.'",
-    "suggestion": "Change to 'Vejrprognosen for i morgen er regn' or 'Vejrudsigelsen siger regn i morgen'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root. It's a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "contra- is a prefix meaning 'against', not a root. It precedes the root dict.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "contradiction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root. It's a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "jurisdiction",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "juris is glossed as 'ret' (law/right), but the gloss should be more specific to 'juridical' or 'legal' to clarify the legal meaning",
-    "suggestion": "Change homeLang to 'juridisk' or 'juridisk/lovmæssig'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "jurisdiction",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "dict is glossed as 'sige' (say), but dict- comes from Latin dictio (speaking/saying), not a direct modern equivalent. The gloss should reflect 'diktat/order/udtale' or clarify it means 'to speak/to say'",
-    "suggestion": "Change homeLang to 'tale/udtalelse' or 'diktat'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "-ion is a suffix, not a root. It's a derivational suffix that forms nouns from verb stems.",
+    "suggestion": "suffix"
   },
   {
     "word": "transportation",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation 'Offentlig transport er billigere end at køre bil' uses 'transport' as a shortened noun, but the example sentence uses 'transportation' as an adjective modifier. The translation should clarify this is about public transport services.",
-    "suggestion": "Consider 'Offentlig transport er billigere end at køre egen bil' or keep as is if 'offentlig transport' is the accepted Danish term (which it is, so this may be acceptable)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation/-tion is a derivational suffix forming action nouns, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "deportation",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "'Udvisningssagen' (the deportation case) is slightly awkward. 'Udvisningsprocessen' or 'Udvisningsproceduren' would be more natural for 'proceedings'.",
-    "suggestion": "Change to 'Udvisningsprocessen varede flere måneder' or 'Udvisningsproceduren varede flere måneder'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation/-tion is a derivational suffix forming action nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deportation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is too long and descriptive. Per convention, prefix glosses should be short parenthetical labels. 'ned/omvendt' is acceptable but the homeLangDetails field contains redundant explanation that should not be in the tile label.",
+    "suggestion": "ned/væk"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang contains 'ikke eller' (not or) which is misleading in this context. In 'importation', 'im-' means 'in/into', not 'not'. The glossary entry for 'im' shows 'u-' in Danish for the negation case, not 'ind-/ikke'.",
+    "suggestion": "ind-"
+  },
+  {
+    "word": "importation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation/-tion is a derivational suffix forming action nouns, not a root morpheme.",
+    "suggestion": "suffix"
   },
   {
     "word": "construction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "'Bygningen af den nye bro' is grammatically awkward in Danish. 'Bygningen' means 'the building' (noun), but here it should be 'Byggeriet' (the construction) or 'Konstruktionen'. Alternatively, use 'Opførelsen af den nye bro' (the erection/construction of the new bridge).",
-    "suggestion": "Change to 'Opførelsen af den nye bro vil tage to år' or 'Konstruktionen af den nye bro vil tage to år'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is a derivational suffix forming action nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is a derivational suffix forming action nouns, not a root morpheme.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "destruction",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang is too long and descriptive for a tile label. Should be a brief, parenthetical gloss per convention.",
+    "suggestion": "ned/væk"
+  },
+  {
+    "word": "reconstruction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ion is labeled as 'root' but it is a derivational suffix that forms nouns from verb roots",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "inspection",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Bygningen bestod sikkerheds inspektionen' is grammatically awkward. The word order is incorrect and 'sikkerheds' should be 'sikkerhedsm' or use a different construction.",
-    "suggestion": "Bygningen bestod sikkerhedsinspektionen. or Bygningen blev godkendt ved sikkerhedsinspektionen.",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'i/ikke eller ind' is too long and unclear for a tile label. In this word, 'in-' means 'in/into', not 'not'",
+    "suggestion": "in-/into or simply (in)"
+  },
+  {
+    "word": "inspection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is labeled as 'root' but it is a derivational suffix that forms nouns from verb roots",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "retrospective",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The verb form 'afholdta' is incorrect Danish. The correct past tense of 'afholde' is 'afholdtes' or 'blev afholdt'.",
-    "suggestion": "Museet afholdtes en retrospektiv udstilling af kunstnerens værker. or Museet blev afholdt en retrospektiv udstilling af kunstnerens værker. or Museet viste en retrospektiv udstilling af kunstnerens værker.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'retro' is a prefix, not a root. It is a bound morpheme that precedes the root 'spect'",
+    "suggestion": "Change to 'prefix'"
   },
   {
-    "word": "description",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'de' in 'description' does not mean 'ned/ophævelse' (down/removal). In 'description', 'de' is simply part of the Latin 'describere' and does not carry a reversal meaning. The morpheme breakdown is misleading.",
-    "suggestion": "Change 'de' homeLang to reflect its actual function in this word, or note that 'de' here is not a productive English prefix but part of the Latin root. Consider 'de' as 'fra/omkring' (from/about) for 'de + scribere' (write about).",
-    "source_file": "en-da.json"
+    "word": "expression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is labeled as 'root' but it is a derivational suffix forming nouns from verb roots",
+    "suggestion": "suffix"
   },
   {
     "word": "depression",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The prefix 'de' in 'depression' does not mean 'ned/ophævelse' in the same way it does in productive English prefixes. In 'depression', the 'de' comes from Latin 'deprimere' (press down) and the meaning 'down' is accurate, but the gloss 'ned/ophævelse' (down/removal) is inconsistent with how 'de' functions in 'description'. The entry uses the same gloss for two different morphological contexts.",
-    "suggestion": "For 'depression', 'de' should be glossed as 'ned' (down) since 'de + press' literally means 'press down'. Consider clarifying the distinction from 'description'.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is labeled as 'root' but it is a derivational suffix forming nouns from verb roots",
+    "suggestion": "suffix"
   },
   {
     "word": "impression",
-    "category": "wrong_article",
-    "field": "article",
-    "issue": "Article is empty but should be specified for Danish. 'Impression' as a noun in Danish requires an article (typically 'et' for neuter nouns or 'en').",
-    "suggestion": "Add article: 'et' (impression is neuter in Danish)",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss 'tryk' (pressure) is inconsistent with the glossary entry 'press → presse' used in other words like 'expression' and 'depression'. For consistency in the puzzle, use the same gloss across morphologically related words",
+    "suggestion": "presse"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is labeled as 'root' but it is a derivational suffix forming nouns from verb roots",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "impression",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '-ion' does not match the canonical glossary entry which uses '-tion' for this suffix. Should be '-tion' for consistency",
+    "suggestion": "-tion"
   },
   {
     "word": "attraction",
-    "category": "wrong_article",
-    "field": "article",
-    "issue": "Article is empty but should be specified. Missing article for Danish noun.",
-    "suggestion": "Add article: 'en' (attraction is common gender in Danish)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "parts[0] (at) is marked as 'root' but it is a prefix meaning 'to/toward' in this word",
+    "suggestion": "change to 'prefix'"
   },
   {
     "word": "attraction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "Spelling error: 'hovedattrraktionen' has three r's but should have two.",
-    "suggestion": "Change to 'hovedattraktionen'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "extraction",
-    "category": "wrong_article",
-    "field": "article",
-    "issue": "Article is empty but should be specified for Danish noun.",
-    "suggestion": "Add article: 'en' (extraction is common gender in Danish)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but it is a suffix (-tion) forming nouns from verbs",
+    "suggestion": "change to 'suffix'"
   },
   {
     "word": "distraction",
-    "category": "wrong_article",
-    "field": "article",
-    "issue": "Article is empty but should be specified for Danish noun.",
-    "suggestion": "Add article: 'en' (distraction is common gender in Danish)",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "distraction",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "Spelling error: 'distraktíon' has an accent mark that shouldn't be there and doesn't match standard Danish spelling.",
-    "suggestion": "Change to 'distraktion'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but it is a suffix (-tion) forming nouns from verbs",
+    "suggestion": "change to 'suffix'"
   },
   {
     "word": "permission",
-    "category": "wrong_article",
-    "field": "article",
-    "issue": "Article is empty but should be specified for Danish noun.",
-    "suggestion": "Add article: 'en' (permission is common gender in Danish)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but it is a suffix (-tion) forming nouns from verbs",
+    "suggestion": "change to 'suffix'"
   },
   {
-    "word": "commitment",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'mitt' is glossed as 'send', but in 'commitment' it comes from Latin 'mittere' (to send). However, the semantic chain here is: commit (Latin 'committere' = to put together/entrust) → mitt (entrust/put) not 'send'. The 'send' gloss is misleading for this specific word's morphology.",
-    "suggestion": "Change 'mitt' homeLang to 'sæt/betro' (put/entrust) or provide homeLangDetails explaining the semantic shift from 'mittere' in this context",
-    "source_file": "en-da.json"
+    "word": "transmission",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "parts[2] (ion) is marked as 'root' but it is a suffix (-tion) forming nouns from verbs",
+    "suggestion": "change to 'suffix'"
   },
   {
-    "word": "commitment",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'Hendes indsats for projektet var usvigelig' translates to 'Her effort/contribution for the project was unwavering', which changes the meaning. The original 'Her commitment to the project' emphasizes the pledge/dedication itself, not just the effort.",
-    "suggestion": "Use 'Hendes forpligtelse over for projektet var usvigelig' or 'Hendes dedikation til projektet var usvigelig'",
-    "source_file": "en-da.json"
+    "word": "reception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "perception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "deception",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "reference",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'tilbage' (back) is misleading for the synchronic English morpheme 're-'. While historically 're-' may derive from Latin 'back', in modern English it typically means 'again' (redo, redo, remake). The detailed explanation contradicts how English speakers understand the prefix today.",
-    "suggestion": "Change homeLang to 'igen' (again) or 'på ny' (anew), or clarify that this is an archaic/etymological gloss not reflecting modern English usage.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is marked as 'root' but it is a derivational suffix that forms nouns",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "conference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is marked as 'root' but it is a derivational suffix forming nouns from verbs",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "interference",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence is marked as 'root' but it is a derivational suffix forming nouns from verbs",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "conversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a derivational suffix forming nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "introversion",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation 'Hendes introversion gjorde, at hun foretrækker stille aftener hjemme' uses present tense 'foretrækker' (prefers) after a past tense construction 'gjorde' (made), which is unnatural. Should use past tense 'fortrukAK'.",
-    "suggestion": "Change to: 'Hendes introversion gjorde, at hun fortrukAK stille aftener hjemme.' or restructure as 'På grund af sin introversion fortrukAK hun stille aftener hjemme.'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'intro' is marked as 'root' but it is a prefix (from Latin intro- meaning 'inward/within'). The homeLang 'indad' is correct but the morphemeType is wrong.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introversion",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a derivational suffix forming nouns from verbs",
+    "suggestion": "suffix"
   },
   {
     "word": "subversion",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'vert' is incomplete. In 'subversion', the root is from Latin 'vertere' (to turn), and the full suffix structure is 'vert' + 'sion'. However, 'vert' itself should be recognized as the complete root morpheme.",
-    "suggestion": "Keep 'vert' as is, but clarify in homeLangDetails that it comes from Latin 'vertere' meaning 'to turn', which combines with 'sion' (derived from the Latin supine stem) to create the noun form.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion is marked as 'root' but it is a derivational suffix forming nouns from verbs",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "dependence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ence should be marked as 'suffix', not 'root'. It is a noun-forming derivational suffix.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "independence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ence should be marked as 'suffix', not 'root'. It is a noun-forming derivational suffix.",
+    "suggestion": "suffix"
   },
   {
     "word": "interdependence",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The example translation 'Globale økonomier viser stigende gensesidighed' is inaccurate. 'Gensesidighed' means 'reciprocity' but does not fully capture 'interdependence'. The translation should be closer to 'gensesidig afhængighed'.",
-    "suggestion": "Change exampleTranslation to: 'Globale økonomier viser stigende gensesidig afhængighed.'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ence should be marked as 'suffix', not 'root'. It is a noun-forming derivational suffix.",
+    "suggestion": "suffix"
   },
   {
     "word": "occurrence",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "'oc' is not the correct morpheme boundary. In 'occurrence', the prefix is 'oc-' (a variant of 'ob-' before 'c'), but it is typically analyzed as 'ob-' + 'cur' + 'rence'. The 'oc' split misrepresents the morpheme structure.",
-    "suggestion": "Consider revising to 'ob' (homeLang: 'mod/imod') + 'cur' (homeLang: 'løbe') + 'rence' (homeLang: '-ence'), or keep 'oc' but clarify it is a phonetic variant of 'ob-' in homeLangDetails.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix 'oc' (variant of 'ob-') should be marked as 'prefix', not 'root'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The root 'cur' (from Latin currere, 'to run') should be marked as 'root'. However, the entry has it correct as 'root', so no flag needed.",
+    "suggestion": "root"
+  },
+  {
+    "word": "occurrence",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -rence should be marked as 'suffix', not 'root'. It is a noun-forming derivational suffix (variant of -ence).",
+    "suggestion": "suffix"
   },
   {
     "word": "recurrence",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as re + cur + rence, but 'rence' should be further split into 'r' + 'ence'. The morpheme boundary is at 'cur' + 'rence', not 'cur' + 'rence' as a single unit. The '-ence' suffix attaches to 'curr-', so the split should be re + curr + ence.",
-    "suggestion": "Split as: re (igen) + curr (løbe - present stem) + ence (-ence suffix). Or accept 're + curr + ence' if distinguishing the stem form.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -rence should be marked as 'suffix', not 'root'. It is a noun-forming derivational suffix (variant of -ence).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "concurrent",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ent is a derivational suffix (adjective-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "recession",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word is split as re + cess + ion, but 'cess' should be 'ced' or 'ceed' to match the actual root (from Latin cedere 'to go/yield'). The split re + cess + ion masks the true morpheme boundary. It should be re + ced + (e) + ion or re + cede + ion.",
-    "suggestion": "Split as: re (tilbage) + ced/cede (gå) + ion (-tion). This parallels 'recession' from 'recede' more accurately.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion is a derivational suffix (noun-forming), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "recession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix re- is a bound prefix, not a root",
+    "suggestion": "prefix"
   },
   {
     "word": "succession",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Similar to recession, 'cess' is not the true morpheme. The root is from Latin cedere. The split should reflect 'suc' (under) + 'ced/cede' (gå) + 'ion' (-tion), not 'cess' as a standalone morpheme.",
-    "suggestion": "Split as: suc (under) + ced/cede (gå) + ion (-tion). This makes the root 'cede' (from cedere) explicit.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The prefix suc- (variant of sub-) is a bound prefix, not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "succession",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion is a derivational suffix (noun-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "unprecedented",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The final morpheme is split as separate 'ent' and 'ed' parts. These should be unified: 'ented' is a single adjectival ending, or the split should be 'un + pre + ced + ented' (where 'ented' or 'ed' is a single past participle/adjectival suffix). Splitting 'ent' and 'ed' separately is misleading.",
-    "suggestion": "Reconsider the split. Either: (1) un + pre + ceded + (adjective marker), or (2) un + precedent + ed, or (3) un + pre + ced + ented. The current five-part split with separate 'ent' and 'ed' is awkward and does not reflect standard morphological structure.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[4].morphemeType",
+    "issue": "The suffix -ed is a derivational suffix (past participle/adjective-forming), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unprecedented",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "The suffix -ent is a derivational suffix (adjective-forming), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "transformation",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The gloss 'på tværs af, gennem, eller ændring fra en tilstand til en anden' is misleading. The 'trans-' prefix primarily means 'across' or 'through', not 'change of state'. The sense of transformation comes from the combination with 'form', not from trans- alone.",
-    "suggestion": "Simplify to 'på tværs af, gennem' or 'hen over' and clarify that the meaning of 'change' emerges from the full word, not just the prefix.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation is a derivational suffix (noun-forming), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reformation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
+  },
+  {
+    "word": "information",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'i' is incomplete and does not convey the meaning. The glossary entry for 'in' shows it means 'u-' (un-, not-, in-) or 'in-/not or into'. The tile label should indicate the prefix sense.",
+    "suggestion": "in-/in"
+  },
+  {
+    "word": "interruption",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "disruption",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation is given as 'forstyrrelser' (plural), but the English entry is singular 'disruption'. The Danish singular form should be 'forstyrrelse'.",
-    "suggestion": "Change translationShort to 'forstyrrelse' (singular form)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "corruption",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The 'cor' part is glossed as 'sam-/sammen' (together), but 'cor-' in corruption comes from Latin 'com-' meaning 'together/with'. While semantically similar, it's misleading to gloss it as Danish 'sam-' when the morpheme is Latin in origin and should be explained as such.",
-    "suggestion": "Change homeLang to 'med-/sammen' or add context that this is a Latin prefix 'com-' meaning 'together'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "corruption",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'rupt' is glossed as 'bryde' (break), which is semantically correct, but 'rupt' comes from Latin 'rumpere' (to break). The gloss should reflect the Latin origin more clearly or note that it means 'to break' in the context of the word's etymology.",
-    "suggestion": "Consider glossing as 'bryde (fra latin rumpere)' or simply 'bryde' with added context that it's Latin-derived",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ion/-tion is marked as 'root' but it is a derivational suffix that forms nouns from verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "autobiography",
-    "category": "incomplete_split",
-    "field": "parts[3]",
-    "issue": "The '-y' suffix is listed as '(navneordsendelse)' which is unclear. In English morphology, '-y' here is typically analyzed as part of the suffix '-graphy', not as a separate morpheme from 'graph'. The entry splits it away from 'graph' when they form a unit.",
-    "suggestion": "Either combine 'graph' and 'y' into '-graphy' (which writes/describes), or clarify that '-y' converts the verb 'graph' into a noun",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "graph root should be glossed as '-graph-' (the morpheme form) not '-skrivning' (the meaning). The y part is the nominalizing suffix that converts it to a noun.",
+    "suggestion": "-graph-"
   },
   {
     "word": "biography",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "Same as autobiography: '-y' is split separately from 'graph' when '-graphy' functions as a single suffix meaning 'writing/description of'.",
-    "suggestion": "Either combine 'graph' and 'y' into '-graphy', or clarify the nominalizing function of '-y'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "graph root should be glossed as '-graph-' not '-skrivning'",
+    "suggestion": "-graph-"
   },
   {
     "word": "photography",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "Same issue: '-y' is split from 'graph' when '-graphy' is the functional unit.",
-    "suggestion": "Either combine 'graph' and 'y' into '-graphy', or clarify the nominalizing function of '-y'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "photo should be glossed as 'lys-' (prefix form) not 'lys' (standalone), as it is a bound morpheme combining with graph",
+    "suggestion": "lys-"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "graph root should be glossed as '-graph-' not '-skrivning'",
+    "suggestion": "-graph-"
+  },
+  {
+    "word": "photography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo is a prefix, not a root, in this compound",
+    "suggestion": "prefix"
   },
   {
     "word": "symphony",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym is a prefix (from Greek syn-), not a root",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "'sym' is glossed as 'sam-/sammen' but this is a Latin/Greek prefix 'syn-' meaning 'together'. While the semantic meaning is correct, glossing it as the Danish word 'sam-' is misleading because 'sym' is Greek, not Danish. This conflates etymological origin with semantic equivalence.",
-    "suggestion": "Clarify that 'sym-' is a Greek prefix meaning 'together/with' (similar to Danish sam-), rather than directly equating it to the Danish word",
-    "source_file": "en-da.json"
+    "issue": "sym should be glossed as 'sym-/sammen' (prefix form) to indicate it is a bound morpheme",
+    "suggestion": "sym-/sammen"
+  },
+  {
+    "word": "symphony",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "phon root should be glossed as '-phon-' (the morpheme form) not '-lyd' (the meaning alone)",
+    "suggestion": "-phon-"
   },
   {
     "word": "telephone",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "tele should be glossed as 'tele-' (prefix form) not 'fjern' (Danish meaning). The glossary entry is 'tele-/far' which shows the morpheme-form convention.",
+    "suggestion": "tele-"
+  },
+  {
+    "word": "telephone",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'phone' is listed as '-lyd' (sound), but 'phone' etymologically comes from Greek 'phōnē' meaning 'voice' or 'sound'. While '-lyd' is reasonable, it's incomplete—'phone' more precisely means 'voice/sound' rather than just 'lyd' in isolation. Consider clarifying or expanding.",
-    "suggestion": "homeLang should be '-lyd/stemme' (sound/voice) with homeLangDetails explaining the Greek origin",
-    "source_file": "en-da.json"
+    "issue": "phone root should be glossed as '-phone' or '-phon-' (the morpheme form) not '-lyd' (the meaning alone)",
+    "suggestion": "-phone"
   },
   {
     "word": "microphone",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'lille' (tiny) is correct for the micro- prefix meaning, but the homeLang label should follow the convention for prefixes with context. Given the glossary shows 'micro-' → 'micro-/tiny', the label should use the parenthetical convention.",
+    "suggestion": "(tiny)"
+  },
+  {
+    "word": "microphone",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "Same as telephone: 'phone' is glossed as '-lyd' but lacks nuance. Should acknowledge 'phone' means 'voice/sound'.",
-    "suggestion": "homeLang should be '-lyd/stemme' (sound/voice)",
-    "source_file": "en-da.json"
+    "issue": "The gloss '-lyd' is correct per glossary (phone → -lyd), but the morphemeType is marked 'root' when 'phone' here is a bound root (combining form). However, if treating it as the root of the compound, 'root' is acceptable. The homeLang label itself is correct.",
+    "suggestion": null
+  },
+  {
+    "word": "chronology",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'chron' is marked as 'root' but in this context it is a bound combining form (like -chron- in the glossary). It should be labeled as a root since it carries primary meaning, but the glossary entry '-chron-' shows it as a combining form. In English morphology, bound roots like 'chron' in compounds are still 'root' type.",
+    "suggestion": null
   },
   {
     "word": "synchronize",
-    "category": "false_cognate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'syn' is marked as 'root' but it is a prefix (variant of sym-, con-). According to the glossary, 'syn' → 'sam-/sammen' is a prefix meaning 'together'. It should be marked 'prefix', not 'root'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "'syn' is glossed as 'sam-/sammen' (together), which is the meaning, but the explanation that this is 'a variant of the sam- prefix from Greek' is potentially misleading. 'syn' is a Greek prefix meaning 'together/with', not a variant of Old Norse/Germanic 'sam-'. The homeLang translation is correct, but the homeLangDetails explanation conflates different linguistic origins.",
-    "suggestion": "homeLangDetails should clarify: 'Et græsk præfiks der betyder 'sammen' eller 'med'. I synkronisering sker begivenheder på samme tid.' Remove the reference to it being a 'variant of sam-'.",
-    "source_file": "en-da.json"
+    "issue": "The gloss 'sam-/sammen' is verbose for a tile label. The glossary shows 'syn' → 'sam-/sammen' but the homeLang convention for prefixes should use parenthetical form like '(together)' for brevity.",
+    "suggestion": "(together)"
+  },
+  {
+    "word": "synchronize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'chron' is marked as 'root' but in this context it is a bound combining form (part of a compound). Like 'microphone', treating it as a root is acceptable since it carries primary meaning, but consistency matters. In synchronize, 'chron' is not a free morpheme.",
+    "suggestion": null
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The part 'ana' is marked as 'root' but it is a prefix (ana- meaning 'back' or 'again'). The glossary entry shows 'ana' → 'tilbage' in the glossary. It should be marked 'prefix', not 'root'.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The gloss 'tilbage' is correct meaning but it's not in the standard parenthetical format for prefixes. Following the homeLang label convention, it should be '(back)' or '(again)' for brevity.",
+    "suggestion": "(back)"
+  },
+  {
+    "word": "anachronism",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'chron' is marked as 'root' but in this word it is a bound combining form within a Greek-derived compound. Treating it as 'root' is reasonable as it carries primary semantic weight, but consistency with modern English morphology suggests it may be better as a root since it is not a standard suffix or prefix.",
+    "suggestion": null
   },
   {
     "word": "psychology",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang for 'psych' is listed as 'sind' (mind), but this is incomplete. 'Psych' derives from Greek 'psyche' meaning soul/mind/spirit, not just 'sind'. The entry should clarify the Greek origin.",
-    "suggestion": "Change homeLang to 'sjæl/sind' or add homeLangDetails explaining the Greek origin of 'psych'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-' (empty/dash) is correct for a linking vowel (vokal forbinder) per the entry's own explanation, but should be marked as 'linking' morphemeType, not left null.",
+    "suggestion": null
   },
   {
     "word": "sympathy",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation states 'sym' means 'sammen' (together), but this is misleading phrasing. 'Sym-' is a Greek prefix meaning 'with/together', not a standalone word that means 'together'. The description conflates the prefix meaning with a translation of the standalone Danish word.",
-    "suggestion": "Revise to: 'En variant af syn-, et græsk præfiks der betyder \"med\" eller \"sammen med\"' (remove 'betyder sammen' as a direct translation and clarify it's a prefix)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "sym is a prefix (bound morpheme preceding the root), not a root. It's a variant of syn- meaning 'together/with'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "sympathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "pathy is a suffix (bound morpheme following the root), not a root. It's derived from Greek pathos but functions as a bound suffix in English compounds.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "empathy",
-    "category": "wrong_translation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "em is a prefix (bound morpheme preceding the root), not a root. It's a variant of en- meaning 'in/into'.",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "empathy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "pathy is a suffix (bound morpheme following the root), not a root. It's derived from Greek pathos but functions as a bound suffix in English compounds.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "meta is a prefix (pre-/before or prefix meaning 'change/beyond'), not a root",
+    "suggestion": "Change morphemeType to 'prefix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "morph is a combining form/root element, but in this context it's part of a derived word; however, morphemeType 'root' is acceptable for combining forms. But given the structure, morph here functions as a root within the compound.",
+    "suggestion": "Keep as 'root' — acceptable"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "sis is a suffix that creates a noun from a process/state concept (like -sis in analysis, basis); it should be 'suffix', not 'root'",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "metamorphosis",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The homeLang for 'em' is listed as 'ind-' (in-), but 'em-' derives from Greek 'en-' meaning 'in'. While 'ind-' is a reasonable Danish translation, the Greek original 'en-' should be acknowledged.",
-    "suggestion": "Change homeLang to 'en-' or add clarification that it translates to Danish 'ind-' but originates from Greek 'en-'",
-    "source_file": "en-da.json"
+    "issue": "homeLang should be a short tile label, not a long explanatory description. Glossary shows 'meta → ændring/ud over' but the tile label is too long and contains unnecessary detail.",
+    "suggestion": "Change to 'ændring/ud over' (keep it concise for a tile)"
   },
   {
-    "word": "amorphous",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-ous' is listed without a homeLang translation or homeLangDetails explanation. It should be properly glossed as the adjectival suffix (e.g., '-øs' or similar in Danish).",
-    "suggestion": "Add homeLang: '-øs/-eus' and homeLangDetails explaining that it forms adjectives from nouns (e.g., 'farlig, værdifuld')",
-    "source_file": "en-da.json"
+    "word": "metamorphosis",
+    "category": "wrong_gloss",
+    "field": "parts[3].homeLang",
+    "issue": "The homeLang label -sis is correct per glossary, but as a tile label for a suffix it could be clearer. However, '-sis' is acceptable as a suffix gloss per the glossary entry.",
+    "suggestion": "Acceptable as is"
   },
   {
-    "word": "uncomfortable",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The morpheme 'comfort' is listed without homeLangDetails, and the suffix '-able' at parts[2] lacks both homeLang and homeLangDetails.",
-    "suggestion": "Add homeLangDetails for 'comfort' (e.g., 'komfort, velvære') and provide complete information for '-able' including homeLang ('-bar/-abel') and homeLangDetails explaining it forms adjectives (e.g., 'læsbar, mulig')",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "unbelievable",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The suffix '-able' lacks homeLang and homeLangDetails explanation.",
-    "suggestion": "Add homeLang ('-bar/-abel') and homeLangDetails explaining that it forms adjectives (e.g., 'mulig at tro, trovværdig')",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "unrecognizable",
-    "category": "wrong_translation",
+    "word": "unforgettable",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The homeLang for 'recognize' is given as 'genkende', but 'recognize' means 'genkendes' or 'erkende' in Danish. 'Genkende' is closer to 'recognize' in the sense of 'know again', but the standard Danish translation for English 'recognize' in most contexts is 'erkende' or 'genkende'. However, 'genkende' is acceptable but should be consistent with how it's used in the full translation.",
-    "suggestion": "Consider 'erkende' or 'genkende' depending on context; the current choice is acceptable but could be clarified.",
-    "source_file": "en-da.json"
+    "issue": "homeLang shows 'forget' but the glossary lists 'forgett → forget'. The root here is 'forgett' (the stem before -able), and its gloss should match the root form, not the infinitive. However, 'forget' as a gloss is acceptable for clarity; the issue is that 'forgett' as a bound root is being glossed with the infinitive form rather than a semantic gloss.",
+    "suggestion": "Change to 'forglemmelse' or 'forget' — 'forget' is acceptable but could be more explicit about the bound root nature"
+  },
+  {
+    "word": "misunderstanding",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is marked as 'root', but it is a derivational suffix that forms a noun from the verb 'misunderstand'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "misrepresentation",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Artiklen indeholdt en misrepræsentation af faktaerne' uses 'misrepræsentation' which is awkward Danish. The Danish word 'misrepræsentation' exists but is less natural than alternatives.",
-    "suggestion": "Change to 'Artiklen indeholdt en forvrængning af faktaerne' or 'Artiklen gav en vildledende fremstilling af faktaerne' for more natural Danish.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ation suffix is marked as 'root', but it is a derivational suffix that forms a noun from the verb 'represent'.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "overwhelming",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The -ing suffix is marked as 'root', but it is a derivational suffix forming an adjective/participle from the verb 'overwhelm'.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "overestimation",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The suffix '-tion' is listed as a separate morpheme, but 'estimate' already contains this suffix. The word should be split as 'over' + 'estimate' + '-ion' (or recognize that '-tion' is part of the 'estimate' morpheme already). Listing '-tion' separately is redundant and suggests a misunderstanding of the morpheme boundary.",
-    "suggestion": "Remove the separate '-tion' entry and keep only 'over' and 'estimate', or clarify that '-tion' is integral to the 'estimate' morpheme and not a separate bound morpheme in this context.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-ion' part is a suffix, not a root. It is a derivational suffix that converts the verb 'estimate' into a noun.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
-    "word": "interchangeable",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'change' should be further analyzed. 'Change' itself is derived from Latin 'cambium', but more importantly, the splitting misses that '-able' attaches to 'change' to form 'changeable', and then 'inter-' prefixes to that. The current split suggests 'inter' + 'change' + 'able', which is structurally awkward. It should clarify that 'changeable' is a unit to which 'inter-' is prefixed.",
-    "suggestion": "Consider splitting as 'inter' + 'changeable' to reflect the actual morphological structure, or add a note explaining the layering of affixes.",
-    "source_file": "en-da.json"
+    "word": "multicultural",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'cultural' should be glossed as '(adj)' or '-al' since it is an adjective formed from 'culture' with the suffix '-al'. The gloss 'kulturel' is a translation but not a morpheme label.",
+    "suggestion": "-al"
+  },
+  {
+    "word": "multicultural",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'cultural' part is not a root; it is a derived adjective (culture + -al). The root is 'culture' and '-al' is a suffix forming the adjective.",
+    "suggestion": "This entry should have three parts: 'multi' (prefix), 'culture' (root), and '-al' (suffix). As currently split, 'cultural' should be marked as derived, but ideally it should be split further."
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The part 'continental' should be glossed as '(adj)' or '-al' since it is an adjective formed from 'continent' with the suffix '-al'. The gloss 'kontinental' is a translation but not a morpheme label.",
+    "suggestion": "-al"
+  },
+  {
+    "word": "transcontinental",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'continental' part is not a root; it is a derived adjective (continent + -al). The root is 'continent' and '-al' is a suffix forming the adjective.",
+    "suggestion": "This entry should have three parts: 'trans' (prefix), 'continent' (root), and '-al' (suffix). As currently split, 'continental' should be marked as derived, but ideally it should be split further."
+  },
+  {
+    "word": "disorganize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'organize' part is not a simple root; it is itself a derived verb (organ + -ize). However, within this word, 'organize' functions as the base to which 'dis-' is prefixed. If treating 'organize' as the immediate root for this morphological level, the type should reflect that it is the base form in this context. But strictly, it is a derived form.",
+    "suggestion": "Keep as 'root' if treating 'organize' as the base form at this level, but note that the entry could be further decomposed."
   },
   {
     "word": "modernization",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'ize' should be split into '-ize' (the suffix that creates verbs) not '-izer'. The '-izer' would create an agent noun (one who -izes), but here we have the verb-forming suffix followed by the nominalizing '-tion'.",
-    "suggestion": "Change parts[1].targetLang from 'ize' to '-ize' to clarify it's the suffix form",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "industrialization",
-    "category": "incomplete_split",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'ize' should be '-ize'. Additionally, parts[0] should be 'industrial' → 'industri' + '-al' since 'industrial' is itself a derived form (industri + -al). The entry shows the already-derived adjective rather than the root.",
-    "suggestion": "Either split 'industrial' further into 'industri' and '-al', or at minimum mark parts[1] as '-ize' (not 'ize')",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-izer' is incorrect for the morpheme 'iz' in this word. The morpheme 'iz' forms verbs (modernize), and the glossary entry for 'iz' is '-izer', but in the context of 'modernization', this morpheme should be glossed as '-ize' (the verb-forming suffix), not '-izer' (which denotes an agent noun). The '-izer' part appears only when the suffix is used on its own; here it's combined with 'ation' to form the noun.",
+    "suggestion": "-ize"
   },
   {
     "word": "modernization",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss '-izer' is incorrect. The suffix here is '-ize' (to make/become), not '-izer' (one who -izes). The '-tion' at the end converts the verb to a noun, not the '-izer'.",
-    "suggestion": "Change parts[1].homeLang from '-izer' to '-erer/-isere' (the verb-forming suffix) or more precisely to the marker that forms verbs from adjectives",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'iz' is marked as 'root' but it is a suffix that forms verbs from nouns/adjectives (modern → modernize). It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "modernization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ation' is marked as 'root' but it is a suffix that forms nouns from verbs (modernize → modernization). It should be 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "industrialization",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The word 'industrial' is already a derived adjective (industry + -al), not a root. The gloss 'industriel' is correct for the word itself, but this part should be analyzed further to show the underlying morpheme structure: it contains 'industry' + '-al' suffix. However, if treating 'industrial' as a single unit, the gloss is acceptable. The real issue is that parts[1] and parts[2] have incorrect type assignments.",
+    "suggestion": null
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The morpheme 'iz' is marked as 'root' but it is a suffix that forms verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'ation' is marked as 'root' but it is a suffix that forms nouns from verbs. It should be 'suffix'.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "industrialization",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "Same as modernization: the gloss '-izer' is incorrect. It should be '-ize' (the verb-forming suffix), not '-izer' (agent noun).",
-    "suggestion": "Change parts[1].homeLang from '-izer' to '-erer/-isere' or the appropriate Danish equivalent for the verb-forming suffix",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "disappointment",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as dis + appoint + ment, but 'appoint' is itself a compound (ap + point) that could be noted. More critically, 'dis' is presented as a prefix but 'appoint' is treated as a standalone root without acknowledging that 'ap-' is also a prefix (from Latin ad-). The morphological analysis is incomplete.",
-    "suggestion": "Either split appoint further into ap + point with explanations, or acknowledge in the homeLangDetails that appoint itself contains the prefix ap-.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "outrageous",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The Danish translation 'chokerende' (shocking/appalling) is somewhat narrow. The word 'outrageous' has a broader meaning that includes 'extravagant, excessive, absurd' beyond just 'shocking.' The example about price demonstrates this broader sense.",
-    "suggestion": "Consider a broader translation like 'voldsom' or 'skandaløs' that better captures the full semantic range, or expand translationShort to include the extravagance sense.",
-    "source_file": "en-da.json"
+    "issue": "The gloss '-izer' is incorrect for the morpheme 'iz' in this word context. Like 'modernization', this should be glossed as '-ize' (the verb-forming suffix).",
+    "suggestion": "-ize"
   },
   {
     "word": "extraordinary",
-    "category": "incomplete_split",
+    "category": "wrong_boundary",
     "field": "parts",
-    "issue": "The morpheme 'ordinary' should be further split into 'order' + '-ary' to show the full morphological structure, or the entry should acknowledge that 'ordinary' is itself a bound form.",
-    "suggestion": "Either split into three parts: extra + order + -ary, or keep as is but recognize 'ordinary' is a lexeme that contains bound morphology.",
-    "source_file": "en-da.json"
+    "issue": "The word is split into two roots (extra + ordinary), but 'extraordinary' is synchronically a prefix + root construction. The correct split is 'extra-' (prefix meaning 'beyond') + 'ordinary' (root meaning 'common/usual'). The morphemeType for 'extra' should be 'prefix', not 'root'.",
+    "suggestion": "Split should be: extra (prefix, 'beyond') + ordinary (root, 'almindelig'). Mark extra as prefix, not root."
   },
   {
-    "word": "remarkable",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'bemærk, iagttag' (note, observe) does not accurately reflect the morphological meaning of 'remark' as a base for '-able'. 'Remark' means to say or comment, not simply to observe. The gloss should reflect the verb meaning more precisely.",
-    "suggestion": "Change to 'kommentere, bemærke' or 'sige noget om' to better capture the meaning of the verb 'remark'.",
-    "source_file": "en-da.json"
+    "word": "extraordinary",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "'extra' functions as a prefix in 'extraordinary', not as an independent root.",
+    "suggestion": "Change morphemeType from 'root' to 'prefix'"
   },
   {
-    "word": "irresponsibility",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "Typo in Danish translation: 'uansvaarlighed' has incorrect spelling with double 'a'",
-    "suggestion": "Should be 'uansvarlighed' (as correctly shown in translationLong)",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "compartmentalize",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation 'opdeler deres arbejds- og privatliv i separate rum' is awkward. The word 'rum' (rooms/spaces) is too literal and unnatural in this psychological context.",
-    "suggestion": "Should be something like 'Nogle mennesker adskiller deres arbejds- og privatliv' or 'Nogle mennesker holder deres arbejds- og privatliv adskilt'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "compartmentalize",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "'opdele i rum' (divide into rooms) is too literal. The word means to mentally separate or isolate different aspects, not literally divide physical spaces.",
-    "suggestion": "Should be 'adskille mentalt' or 'isolere' or 'holde adskilt'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "carefully",
-    "category": "wrong_translation",
+    "word": "unconsciousness",
+    "category": "wrong_gloss",
     "field": "parts[1].homeLang",
-    "issue": "The homeLang is listed as '-fuld' but the correct Danish equivalent suffix for English '-ful' (meaning 'full of') is '-fuld' or '-fyldt'. However, the homeLangDetails examples (Smuk, omhyggelig, kraftig) don't match the suffix '-fuld' well. The suffix should more accurately be described in context.",
-    "suggestion": "Verify that '-fuld' is the correct mapping. Consider if the examples better reflect '-fuld' or if a different suffix description is needed.",
-    "source_file": "en-da.json"
+    "issue": "The homeLang for 'conscious' should be a concise gloss label (following the 4-word convention for tile labels), not a full definition. The current 'bevidst' is correct but the entry structure should keep it brief as a tile label.",
+    "suggestion": "bevidst (already correct, but ensure tile labels stay under ~4 words)"
+  },
+  {
+    "word": "compartmentalize",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "compartment is not a root in this word; it is itself a complex derived noun (com- + partment). For the purposes of this analysis, it should be treated as a bound root or the entry should split further, but marking it simply as 'root' is misleading. However, if the game treats whole etymological units as roots, this is acceptable. Flag for review.",
+    "suggestion": "Consider whether 'compartment' should be split into com-/part-/ment, or accept 'root' if treating derived nouns as atomic units."
   },
   {
     "word": "carefully",
-    "category": "unnatural_example",
+    "category": "wrong_translation",
     "field": "exampleTranslation",
-    "issue": "The translation 'Hun lagde vasen på hyldenen med omsorg' contains a typo: 'hyldenen' should be 'hylden' (the shelf).",
-    "suggestion": "Change to 'Hun lagde vasen på hylden med omsorg.' or 'Hun lagde vasen forsigtigt på hylden.'",
-    "source_file": "en-da.json"
+    "issue": "The Danish translation 'Hun lagde vasen på hyldenen med omsorg' is awkward. 'Hyldenen' should be 'hylden' (the shelf), and 'med omsorg' (with care) is not the natural way to express the adverbial 'carefully' in Danish. A more natural translation would be 'Hun lagde vasen forsigtigt på hylden' or 'Hun lagde vasen omhyggeligt på hylden.'",
+    "suggestion": "Change exampleTranslation to 'Hun lagde vasen forsigtigt på hylden.' or 'Hun lagde vasen omhyggeligt på hylden.'"
   },
   {
     "word": "carelessly",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Han tabte koppen uden omsorg' is awkward. 'Uden omsorg' is not a natural way to describe dropping something carelessly in Danish.",
-    "suggestion": "Change to 'Han tabte koppen uagtsomt.' or 'Han tabte koppen forsvarligt.'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "helplessly",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'på en hjælpeløs måde' is grammatically awkward in Danish. The adjective form should be 'hjælpeløst' when used adverbially in this context.",
-    "suggestion": "Change to 'på en hjælpeløs måde' (acceptable) or better yet 'magtesløst' to match the actual meaning",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "hopefully",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The homeLangDetails for '-fuld' lists 'Smuk, omhyggelig, kraftig' as examples, but these are adjectives, not words with the '-fuld' suffix. The examples should show words like 'smukt-fuld' or similar constructions with the suffix.",
-    "suggestion": "Provide actual examples with the '-fuld' suffix, such as 'påfaldende-fuld' (full of noticing) or similar compound adjectives that demonstrate the suffix in use.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "hopelessly",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Situationen så ud til at være desperat håbløs' is awkward and redundant. 'Desperat' (desperate) and 'håbløs' (hopeless) are near-synonymous here, creating an unnatural phrasing.",
-    "suggestion": "Change to 'Situationen så ud til at være håbløst håbløs' or better: 'Situationen så håbløst ud' or 'Situationen virked håbløs.'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "thankfully",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[0].homeLang",
-    "issue": "The root 'thank' is mapped to 'tak' (noun: thanks), but the morphological connection is not clear. In Danish, the verbal root is 'takk-' or adjective 'taknemlig', and 'tak' alone is the noun. The decomposition should clarify this is thank→thankful→thankfully, not thank→tak.",
-    "suggestion": "Consider clarifying that this traces back to the verb form, or map to 'taknemlig' (grateful/thankful) as the clearer Danish equivalent for the adjective base.",
-    "source_file": "en-da.json"
+    "issue": "The gloss 'omsorg' (care/concern) is contextually misleading. In 'carelessly', 'care' means attention/caution, not the emotion of care/concern. A shorter, more precise gloss would better serve the tile.",
+    "suggestion": "opmærksomhed or simply omit if root label is clear from context"
   },
   {
-    "word": "improvement",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Forbedringsgraden i hendes karakterer' is awkward and unnatural. 'Forbedringsgraden' (degree of improvement) is not the right phrasing here.",
-    "suggestion": "Should be 'Forbedringen i hendes karakterer var resultatet af hårdt arbejde.' or 'Hendes karakterer blev betydeligt forbedret på grund af hårdt arbejde.'",
-    "source_file": "en-da.json"
+    "word": "carelessness",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Same as carelessly: 'omsorg' (care/concern) is misleading. 'care' here means attention/caution.",
+    "suggestion": "opmærksomhed or simply omit"
+  },
+  {
+    "word": "helpfully",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'hjælp' (help) is too generic and the homeLangDetails explanation ('Smuk, omhyggelig, kraftig') does not match 'hjælp' at all—those examples describe '-ful', not 'help'. This is confusing.",
+    "suggestion": "hjælpsom or remove homeLangDetails that don't apply to the root"
+  },
+  {
+    "word": "unemployment",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "homeLang is 'employ' but should be the Danish gloss 'ansætte' to match the glossary entry and provide context for the player",
+    "suggestion": "ansætte"
+  },
+  {
+    "word": "development",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is too long and verbose for a tile. Should be concise, matching the convention for prefixes like 'de-/down' or similar short form.",
+    "suggestion": "de-/down"
   },
   {
     "word": "involvement",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'Hendes indsats i samfundsarbejde' uses 'indsats' (effort/commitment) rather than a direct translation of 'involvement'. While contextually sensible, it doesn't capture the actual morpheme meaning of 'involvement' as participation/being involved.",
-    "suggestion": "Should be 'Hendes involvering i samfundsarbejde blev bredt anerkendt.' or 'At hun var involveret i samfundsarbejde blev bredt anerkendt.'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ment' is marked as 'root', but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "involvement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is too long and verbose. Should follow the convention: short parenthetical or prefix form.",
+    "suggestion": "in-/not or into"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ment' is marked as 'root', but it is a derivational suffix that converts verbs to nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "improvement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label is too long and verbose. Should be brief, matching the convention for prefixes.",
+    "suggestion": "im-/not or into"
+  },
+  {
+    "word": "advertisement",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'ad-/til' does not match the canonical glossary entry 'ad-/til' exactly but the longer form in homeLangDetails is verbose. Keep the tile label short.",
+    "suggestion": "ad-/to"
   },
   {
     "word": "entertainment",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The etymology explanation is misleading. While 'tain' does come from Latin 'tenere' (to hold), the semantic link between 'enter + tain' = 'invite in while holding attention' is a false folk etymology. In reality, 'entertain' evolved from Old French 'entretenir' (to maintain, keep up), not as a transparent compound of enter + tain with the modern meaning.",
-    "suggestion": "Revise to clarify that 'entertain' is historically from Old French 'entretenir', not a transparent modern compound. The parts reflect historical morphology but not modern compositional semantics.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The morphemeType for 'enter' is null, but it should be assigned. 'Enter' is a root morpheme (from Latin intrare).",
+    "suggestion": "root"
+  },
+  {
+    "word": "requirement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ement is a suffix (-ment), not a root. It's a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
     "word": "retirement",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The claim that 'tired' comes from 'tir' (to pull/withdraw) is incorrect. 'Tired' (meaning fatigued) has a separate etymology and is not directly derived from the 'tir' root in 'retire'. This is a false cognate that misleads learners.",
-    "suggestion": "Remove the reference to 'tired' or clarify that while both may share Old French 'tirer', the modern meaning of 'tired' (fatigued) is not transparently related to the meaning of 'tir' in 'retire'.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ement is a suffix (-ment), not a root. It's a derivational suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType from 'root' to 'suffix'"
   },
   {
-    "word": "department",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The gloss 'de-/ned/tilbage' (down/back) misrepresents the 'de-' prefix in 'department'. In 'depart', 'de-' comes from Latin 'de-' (away/from) via Old French 'partir' (to divide, depart), not a productive prefix meaning 'down' or 'back'. The example 'decrease' fits better, but 'depart' and 'department' use 'de-' in a more archaic, non-transparent sense.",
-    "suggestion": "Clarify that 'de-' in 'department' is part of the historical 'depart' (from Old French 'departir'), where 'de-' means 'away from' or 'apart', and this is less transparently productive in modern English than the simpler gloss suggests.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "unfortunately",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split into 4 morphemes, not 3. 'fortunate' itself contains the prefix 'for-' (from Latin 'fortuna') and should be further analyzed as 'for' + 'tun' + 'ate', or at minimum 'fortun' + 'ate'. The current split treats 'fortunate' as a single root when it's itself a derived form.",
-    "suggestion": "Either split 'fortunate' further (e.g., 'fortun' + 'ate') or acknowledge in the entry that this is a complex root word.",
-    "source_file": "en-da.json"
+    "word": "replacement",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "place is used here as a root, but the entry shows morphemeType 'root' which is correct. However, checking the pattern: in 'replacement', 'place' is a root (from the verb 'place' meaning to put/position), so this is actually correct. No flag needed.",
+    "suggestion": ""
   },
   {
     "word": "unexpectedly",
-    "category": "incomplete_split",
-    "field": "parts[2]",
-    "issue": "The morpheme 'ed' is glossed as '(participium)' but this is misleading. In 'unexpected', the '-ed' is not a participial ending but rather part of the adjectival form. The structure is 'un' + 'expect' + 'ed' (adjective) + 'ly' (adverb). The gloss should clarify that '-ed' here creates an adjective, not a past participle.",
-    "suggestion": "Change homeLang for 'ed' to something like '-et (adjektivisk suffix)' or '(adjektivform)' and provide details that distinguish this from past participles.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "unreasonable",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss 'fornuft' (literally 'reason/intellect') is not the most natural or primary meaning when 'reason' combines with '-able'. In this context, 'reason' means 'sense, rationale' rather than the abstract noun 'fornuft'. A more precise gloss would be 'fornuftig grund' or simply 'logik/sans'.",
-    "suggestion": "Change homeLang to 'sans, logik' or 'fornuftig grund' to better reflect the meaning in 'unreasonable'.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "unacceptable",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The gloss 'acceptere' is a verb, but in 'unacceptable', 'accept' is used as a verbal root to form an adjective meaning 'capable of being accepted'. The Danish gloss should reflect the noun/root sense rather than just the infinitive verb form.",
-    "suggestion": "Change homeLang to 'accept (som verbal rod)' or simply leave it as 'acceptere' but clarify in homeLangDetails that it functions here as a verbal root, not an infinitive.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "reconsideration",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The suffix '-tion' is glossed as '-ing' in Danish, but this is incorrect. Danish uses '-ing' for gerunds/action nouns from verbs, while '-tion' (from Latin) corresponds more closely to Danish '-tion' or '-sion' (borrowed from Latin) or the suffix '-else' for abstract nouns. The homeLang should reflect the actual Danish equivalent.",
-    "suggestion": "Change homeLang from '-ing' to '-else' or '-sion' to accurately represent how this Latin suffix functions in Danish (genovervejelse uses '-else', not '-ing')",
-    "source_file": "en-da.json"
+    "issue": "The morpheme 'ed' is glossed as '(participium)' but in this context it functions as the past participle marker creating the adjectival base 'expected'. The gloss should follow the convention for grammatical suffixes in parentheses.",
+    "suggestion": "(pp)"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The morpheme 'y' is glossed as '(adjektivisk)' which is a Danish description, not a concise English morpheme label. It should be a short parenthetical following the convention.",
+    "suggestion": "(adj)"
+  },
+  {
+    "word": "unhealthy",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The morpheme 'y' is marked as null/missing morphemeType but it is a suffix that derives adjectives from nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ing' is a suffix that forms gerunds/nominalizations, not a root. The homeLang label '(substantivering)' is descriptive but should follow the convention. It should be labeled as the nominalization suffix.",
+    "suggestion": "-ing"
+  },
+  {
+    "word": "unwillingness",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ing' is marked as 'root' but it is a derivational suffix that nominalizes verbs.",
+    "suggestion": "suffix"
   },
   {
     "word": "reconsideration",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The description claims '-tion' 'svarer til dansk -ing og tysk -ung', but this is inaccurate. The '-tion' suffix (from Latin) does not correspond to Danish '-ing' (which is used for gerunds). It corresponds to Danish '-else', '-sion', or '-tion' (when borrowed). German '-ung' is a better match, but Danish '-ing' is misleading.",
-    "suggestion": "Revise to clarify that '-tion' corresponds to Danish '-else' (for abstract nouns) or borrowed '-tion'/'-sion', not '-ing'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "'-ation' is labeled as '-ing' but the glossary entry shows '-tion' maps to '-tion', not '-ing'. The correct Danish equivalent for the '-tion/-ation' suffix is '-tion' or '-ing' as a nominalization, but the homeLang should reflect the actual morpheme being labeled.",
+    "suggestion": "-tion"
+  },
+  {
+    "word": "reconsideration",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is marked as 'root' but it is a derivational suffix forming nouns from verbs (nominalization suffix).",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-iz' is a suffix (-ize), not a root. It is a derivational morpheme that converts nouns/adjectives to verbs.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "reorganization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "'-ation' is a suffix (-tion), not a root. It is a nominalization suffix that converts verbs to nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "recycling",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The word should be split as 're' + 'cycle' + 'ing', but 'cycle' itself may need clarification. More importantly, the morpheme 'cycle' in 'recycling' doesn't directly mean 'cykel' (bicycle) but rather refers to a circular process. The homeLang gloss 'cykel' is misleading for this context.",
-    "suggestion": "Either clarify that 'cycle' here means 'circular process' rather than 'cykel', or provide a more accurate homeLang gloss like 'cirkulær proces' or 'kreds'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "reintroduction",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'genbringelelse' contains a spelling error and is awkward. The more natural Danish term would be 'genintroduktion' which mirrors the English structure, or 'genindsættelse' in certain contexts.",
-    "suggestion": "Change 'genbringelelse, genindsættelse' to 'genintroduktion' or 'genindsættelse'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "reconnect",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation 'Efter år fra hinanden' is grammatically awkward. The phrase 'fra hinanden' (apart from each other) doesn't fit naturally here. It should be 'Efter år adskilt' or 'Efter år adskilte'.",
-    "suggestion": "Change to: 'Efter år adskilt, genoprettede vi kontakten ved festen' or 'Efter år adskilte, genoprettede vi kontakten ved festen'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ing' is a suffix, not a root. It is a productive suffix forming gerunds, participles, and other nominalizations.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "recycling",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "'Cykel' literally means 'bicycle' in Danish, which is misleading for the morpheme 'cycle' in 'recycling'. The 'cycle' here refers to a circular process, not a bicycle.",
-    "suggestion": "Change to a gloss that captures the meaning of 'circular process' or 'kreds', such as 'proces' or 'kreds'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss '(gerundium)' is too long and uses a technical grammatical term. Should use the standard label convention.",
+    "suggestion": "Change to '-ing'"
   },
   {
     "word": "communication",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'mun' is glossed as 'fælles' (common/shared), but this is misleading. The Latin root 'munis' relates to duty/obligation and 'communicare' means 'to share' or 'to make common,' but the gloss should reflect the actual Latin etymology more accurately as relating to 'munus' (duty/obligation/common good) rather than a standalone 'fælles' concept.",
-    "suggestion": "Consider expanding homeLang to 'munis/fælles' or adding homeLangDetails to explain that 'mun-' comes from Latin 'munis' (duty, obligation) and contributes to the sense of 'making common' or 'sharing'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ication' is a suffix (-tion variant), not a root. It is a nominalization suffix.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "education",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'e-' in 'education' means 'out' (from Latin 'educere' = to lead out), not the longer gloss 'ex-/ud af'. The tile label should be concise.",
+    "suggestion": "ud af"
+  },
+  {
+    "word": "education",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "investigation",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'vestig' is glossed as 'spor' (trace/footprint), but this is imprecise. The Latin root is 'vestigium' meaning 'footprint' or 'trace,' which is correct, but the gloss should reflect that it means 'track' or 'vestige' more clearly in the context of investigation (following a track).",
-    "suggestion": "Change homeLang to 'vestigium/spor/trop' (track/trace) or add homeLangDetails explaining the connection between 'vestig-' and the act of tracking/tracing",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ation' is a derivational suffix, not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "introduction",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme 'intro' should be split further into 'in' + 'tro'. The prefix 'in-' (in/into) is a standard Latin prefix that appears in other entries, and 'tro' relates to 'turn' (from Latin 'troeus'). The current split obscures the internal structure and consistency with other entries in this set.",
-    "suggestion": "Split 'intro' into 'in' (ind i) and 'tro' (vende), or keep 'intro' as one unit but add homeLangDetails explaining it as 'ind i' + 'turn'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'intro-' (from Latin 'intro') means 'inward/within', but the gloss 'intra-/inden for' conflates it with 'intra-' (which means 'within' in a different sense). For 'introduction', 'intro-' specifically means 'in' or 'inward'.",
+    "suggestion": "inward"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The element 'intro-' is a prefix, not a root.",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "introduction",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The element 'duc' (to lead) is a root, but in this morphological analysis it should be recognized as a bound root within a larger stem. However, as marked, 'root' is acceptable for a bound root.",
+    "suggestion": "root"
   },
   {
     "word": "pronunciation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split incorrectly as 'pro' + 'nunc' + 'iation'. The correct split should be 'pro' + 'nounce' + 'iation' or 'pronunci' + 'ation'. The current split 'nunc' doesn't correspond to the actual morpheme boundaries in 'pronunciation'.",
-    "suggestion": "Split as 'pro' + 'nounce' + 'ation' or 'pronunci' + 'ation'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss '-lyd' is too abbreviated and unclear as a tile label. The morpheme 'nunc' comes from Latin 'nuntius' (messenger/announcement) and relates to sound/speech. A clearer short gloss would be better.",
+    "suggestion": "lyd"
+  },
+  {
+    "word": "pronunciation",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The element '-iation' is a derivational suffix (a variant of '-ation'), not a root. It should be marked as 'suffix'.",
+    "suggestion": "suffix"
   },
   {
     "word": "explanation",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'ex' + 'plan' + 'ation', but 'plan' does not correspond to a morpheme in 'explanation'. The correct morpheme is 'plain' (from Latin 'planus'), not 'plan'. The split should be 'ex' + 'plain' + 'ation'.",
-    "suggestion": "Split as 'ex' + 'plain' + 'ation' and update parts[1] targetLang to 'plain' and homeLang to 'flad/klar' with note about 'plain' meaning flat/clear",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix, not a root. It is a bound morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "examination",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'am' in parts[1] does not correspond to actual morpheme boundaries. The word should be split 'ex' + 'amin' + 'ation', where 'amin' relates to Latin 'examinare' (to weigh, examine). The gloss 'veje' (ways) is also semantically unrelated.",
-    "suggestion": "Split as 'ex' + 'amin' + 'ation' and update parts[1] targetLang to 'amin' with a more appropriate homeLang gloss related to examining/testing",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix (or suffix sequence), not a root. It is a bound morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "imagination",
-    "category": "wrong_boundary",
-    "field": "parts[1]",
-    "issue": "The morpheme 'ag' does not accurately represent the morpheme in 'imagination'. The word should be split 'im' + 'agin' + 'ation', where 'agin' comes from Latin 'imago' (image). The current split 'ag' is incomplete.",
-    "suggestion": "Split as 'im' + 'agin' + 'ation' and update parts[1] targetLang to 'agin'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ination' is a suffix (or suffix sequence), not a root. It is a bound morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "population",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'pop' + 'ulation', but 'pop' does not correspond to a morpheme meaning 'mennesker' (people). The Latin 'populus' is the root, but the morpheme should be 'popul' not 'pop'. The split 'pop' + 'ulation' leaves 'ulation' as an incomplete suffix.",
-    "suggestion": "Split as 'popul' + 'ation' and update parts[0] targetLang to 'popul' with homeLang gloss 'folk/mennesker'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "'-ulation' is a suffix (or suffix sequence), not a root. It is a bound morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
   },
   {
     "word": "conversation",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'en uformel samtale' (an informal conversation) is too restrictive. 'Conversation' is not inherently informal; it can be formal or informal.",
-    "suggestion": "Change to 'en samtale' (a conversation) without the qualifier 'uformel'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "'-ation' is a suffix, not a root. It is a bound morpheme that attaches to roots to form nouns.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "collection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "reflection",
-    "category": "wrong_translation",
-    "field": "translationShort",
-    "issue": "The translation 'tilbagekastning af lys' (reflection of light) is too narrow and misses the primary meaning of the word in everyday use. While accurate for the physical sense, it doesn't capture the more common meaning of 'reflection' as thoughtful consideration.",
-    "suggestion": "Change to 'eftertanke' or 'overvejelse' (thoughtful consideration) as the primary meaning, or use 'tilbagekastning af lys eller eftertanke' to cover both senses",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "connection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "protection",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "invitation",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'vit' is glossed as 'kalde' (call), but it actually comes from Latin 'vitare' (to invite/call). The gloss should reflect the actual etymological meaning.",
-    "suggestion": "Change homeLang to 'invitere' or 'kalde til' to more accurately represent the Latin root meaning",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -tion should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "preparation",
-    "category": "wrong_boundary",
-    "field": "parts[1].targetLang",
-    "issue": "The morpheme 'par' does not correctly represent the root. The correct split should be 'pare' (to prepare/make ready), not 'par'.",
-    "suggestion": "Change parts[1].targetLang to 'pare' and adjust the homeLang gloss accordingly",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
   },
   {
     "word": "organization",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'legeme/værktøj' (body/tool) is misleading. While 'organ' historically derives from that, in the context of 'organization' the root relates to 'organon' meaning 'tool/instrument for work' in a more abstract sense of 'systematic arrangement'. The modern sense is better captured as relating to systematic arrangement or function.",
-    "suggestion": "Change homeLang to 'system/ordning' or 'at ordne systematisk' to reflect the actual meaning in this word family",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "iz is a suffix (-ize), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "organization",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "iz should be glossed as '-ize' (the suffix form), not the full explanation '-ize'; homeLang tile labels must be brief",
+    "suggestion": "-ize"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ific is a suffix (-ify), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "simplification",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "ific should be glossed as '-ify' (the suffix form), not the full explanation; homeLang tile labels must be brief",
+    "suggestion": "-ify"
   },
   {
     "word": "satisfaction",
-    "category": "incomplete_split",
-    "field": "parts[0].targetLang and parts[1].targetLang",
-    "issue": "The split 'sat + is + faction' is incorrect. The correct morphological split should be 'satis' (enough) + 'fac' (do/make) + 'tion' (result). Current split misrepresents the morpheme boundaries.",
-    "suggestion": "Change to parts: 'satis' (homeLang: 'nok/tilstrækkeligt'), 'fac' (homeLang: 'gøre'), 'tion' (homeLang: '-tion')",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "is is a suffix (-ify or -ize component), not a root; this is part of the -fy/-tion suffix chain",
+    "suggestion": "morphemeType should be 'suffix'"
   },
   {
     "word": "satisfaction",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss for 'sat' as simply 'nok' (enough) is too simplified and doesn't clarify the morpheme boundary issue with the split",
-    "suggestion": "Revise entire morpheme split (see incomplete_split flag above)",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "faction is a suffix (-tion), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "is should be glossed as '-ify' or '-ize', not the plain form 'gøre/lave'; homeLang tile labels must be brief and use conventional morpheme notation",
+    "suggestion": "-fy"
+  },
+  {
+    "word": "satisfaction",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "faction should be glossed as '-tion', not '-tion'; use the canonical short form",
+    "suggestion": "-tion"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "qual is a root, but morphemeType should reflect that; however, it is correctly marked as root",
+    "suggestion": ""
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ific is a suffix (-ify), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[3].morphemeType",
+    "issue": "ation is a suffix (-tion), not a root",
+    "suggestion": "morphemeType should be 'suffix'"
+  },
+  {
+    "word": "qualification",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "ific should be glossed as '-ify' (the suffix form), not the full explanation; homeLang tile labels must be brief",
+    "suggestion": "-ify"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The suffix -ific (meaning 'to make') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "identification",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -ation (meaning '-tion') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
     "word": "evaluation",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The 'e' is not a separate morpheme; 'eval-' should be the root. The prefix 'ex-' is not present in 'evaluation'—it comes from Latin 'e-' (out) + 'valere' (to be strong), but synchronically, 'e' alone is not a meaningful unit in English morphology.",
-    "suggestion": "Reconsider the split. The correct split should be: 'eval' (from Latin valere, to be worth/strong) + 'uation' (-tion suffix), or treat 'eval' as an indivisible root borrowed from Latin.",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The prefix 'e' should be glossed as 'ex-' (matching the glossary), not repeated as a single letter. The homeLang should follow the convention.",
+    "suggestion": "ex-"
   },
   {
     "word": "evaluation",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'styrke/værd' (strength/worth) is unclear and misleading. The 'val' root relates to Latin 'valere' (to be strong/worth), but the gloss should reflect the semantic contribution to the modern word more clearly.",
-    "suggestion": "Use 'værd/kraft' (worth/strength) or explain it as deriving from Latin 'valere' (to be worth).",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix -uation (meaning '-tion') should be marked as 'suffix', not 'root'",
+    "suggestion": "suffix"
   },
   {
-    "word": "affordable",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The translation 'billig' (cheap) is not quite the same as 'affordable'. 'Affordable' means something can be afforded within one's budget, while 'billig' strictly means cheap in price. A more precise translation would be 'overkommelig' or 'til overkommelig pris'.",
-    "suggestion": "Change to: 'Vi fandt en overkommelig lejlighed i byen.' or 'Vi fandt en lejlighed til en overkommelig pris i byen.'",
-    "source_file": "en-da.json"
+    "word": "dependable",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "The gloss should be '-able' (matching the glossary), not '-bar'. Danish glosses should align with English morpheme labels.",
+    "suggestion": "-able"
   },
   {
     "word": "incredible",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'in' + 'cred' + 'ible', but 'cred' is not a standalone morpheme in English. The correct split should be 'in' + 'credible', where 'credible' is the base adjective.",
-    "suggestion": "Split as: 'in' (u-) + 'credible' (-bar). Or if breaking down further: 'in' + 'cred' + 'ible' requires clarification that 'cred' comes from Latin 'credere' (to believe), but in modern English morphology, 'credible' functions as the base unit.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "invisible",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'in' + 'vis' + 'ible', but 'vis' is not a standard English morpheme. The correct split should be 'in' + 'visible', where 'visible' is the base adjective. 'Vis' only makes sense as a Latin root, not as a functioning English morpheme.",
-    "suggestion": "Split as: 'in' (u-) + 'visible' (-bar). The Latin root 'videre' (to see) is not productive in modern English word formation.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "impossible",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'im' + 'poss' + 'ible', but 'poss' is not a standalone morpheme in English. The correct split should be 'im' + 'possible', where 'possible' is the base adjective.",
-    "suggestion": "Split as: 'im' (u-) + 'possible' (-bar). The Latin root 'posse' (to be able) does not function as an independent English morpheme.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "irresponsible",
-    "category": "wrong_boundary",
-    "field": "parts",
-    "issue": "The word is split as 'ir' + 'respons' + 'ible', but the split breaks the morphology awkwardly. The correct split should be 'ir' + 'responsible', where 'responsible' is the base adjective, or 'ir' + 'respons' + 'ible' requires 'respons' to be better justified as a morpheme (it's Latin-based and not productive in English).",
-    "suggestion": "Split as: 'ir' (u-) + 'responsible' (-bar). Alternatively, if keeping three parts: clearly show that 'respons' comes from Latin 'respondere' but acknowledge it's not a modern productive English morpheme.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "irresponsible",
-    "category": "wrong_translation",
-    "field": "translationLong",
-    "issue": "There is a typo: 'uansvarllig' should be 'uansvarlig' (double 'l' is incorrect).",
-    "suggestion": "Change 'uansvarllig' to 'uansvarlig'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'ik-' is incorrect. The prefix 'in-' before 'cred' becomes 'in-' (not 'ik-'), and the gloss should follow the short convention: '(not)' or 'un-'.",
+    "suggestion": "un-"
   },
   {
     "word": "irreversible",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation uses 'irreversibel' which is a direct loan word from English, not a natural Danish rendering. The morpheme-based translation would be more consistent with the stated translation.",
-    "suggestion": "Use 'som ikke kan tilbageføres' instead of 'irreversibel' for consistency with the translationShort provided",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "indestructible",
-    "category": "wrong_translation",
-    "field": "exampleTranslation",
-    "issue": "The phrase 'udestructibelt' is not natural Danish. It should use the Danish morpheme-based translation instead of a Latinized form.",
-    "suggestion": "Change to 'som ikke kan ødelægges' to match the translationShort",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "indestructible",
-    "category": "false_cognate",
-    "field": "parts[0].homeLangDetails",
-    "issue": "The explanation conflates 'in-' (Latin prefix meaning 'not') with 'u-' (Danish negation prefix). While they can mean similar things, they have different etymological origins and the homeLang should specifically reference 'in-' or 'ikke-' not 'u-'.",
-    "suggestion": "Change homeLang to 'ikke-' or 'in-' and update homeLangDetails to clarify this is a Latin negation prefix similar to Danish 'ikke-'",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "automatically",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'matic' is glossed as 'bevægelse' (movement), but it actually derives from Greek 'automatos' meaning 'self-acting' or 'self-operating'. The 'matic' in 'automatic' relates to action/operation, not specifically movement.",
-    "suggestion": "Change 'bevægelse' to 'handling' or 'virken' (action/operation)",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "automatically",
-    "category": "wrong_translation",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "The suffix 'ally' is glossed as '-t', but '-t' is not the standard Danish adverbial suffix. The English '-ally' becomes '-t' in some cases but is more commonly '-isk' or '-e' in Danish. This glossing is misleading.",
-    "suggestion": "Change to '-t (adverbial suffix)' or provide more context, e.g., 'adverbial endelse'",
-    "source_file": "en-da.json"
+    "issue": "The suffix '-ible' is glossed as '-bar', which is correct per the glossary, but the homeLangDetails explanation is overly long and verbose for a tile label. The label itself '-bar' is correct.",
+    "suggestion": "No change needed to homeLang; homeLangDetails is explanatory, not the tile label."
+  },
+  {
+    "word": "indestructible",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang label 'u-' is correct but needs to be marked as a prefix gloss. The label should follow convention with parentheses.",
+    "suggestion": "(un-)"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'tic' is marked as 'root' but it is actually a suffix (-tic/-ic) that forms adjectives from roots.",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "antibiotic",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang '-isk' is correct in meaning but should use the canonical suffix form from glossary. The suffix -tic/-ic should be glossed as '-ic' or '-isk' in Danish convention, but the morphemeType error takes priority.",
+    "suggestion": "-isk"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "matic is a suffix (from -matic, meaning \"relating to or characterized by movement/action\"), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "automatically",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "ally is a suffix (the adverbial suffix -ally), not a root",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "geo is a prefix (geo- meaning earth), not a root. The gloss should reflect its prefix status",
+    "suggestion": "jord-"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "geo is a prefix, not a prefix (already correct labeling, but confirming)",
+    "suggestion": "prefix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "graph is a root combining form (from -graph-), and in this context it functions as a root element, not a standalone root. However, the morphemeType should reflect that it's a root combining form",
+    "suggestion": "root"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[1].homeLang",
+    "issue": "graph should be glossed as \"-skrivning\" (per canonical glossary) to match the standard English morpheme gloss, not \"-skrift\"",
+    "suggestion": "-skrivning"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "y is a suffix forming nouns (nominalizing suffix), not unmarked. Should be identified as suffix",
+    "suggestion": "suffix"
+  },
+  {
+    "word": "geography",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "homeLang for the final -y should be \"-i\" or left blank/minimal, not \"(noun)\" which is a morphemeType label, not a gloss",
+    "suggestion": "-i"
   },
   {
     "word": "responsibility",
-    "category": "wrong_boundary",
-    "field": "parts[0].targetLang",
-    "issue": "The morpheme split is incorrect. 'Responsibility' should be split as 'response' + 'ability' or 'respons' + 'ibility', but 'respons' is not a standalone morpheme in English. The correct split is 'response' (or the Latin root 'respons-') + 'ability'.",
-    "suggestion": "Split as 'response' + 'ability' or reconsider the morpheme boundaries to reflect the actual etymology",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ibility is a suffix (-ibility → -bar/-hed), not a root",
+    "suggestion": "suffix"
   },
   {
-    "word": "electricity",
-    "category": "false_cognate",
-    "field": "parts[0].homeLang",
-    "issue": "The gloss 'elektrisk' (adjective meaning electric) is presented as a morpheme component, but 'electricity' derives from 'electric' (the adjective) + '-ity' (noun-forming suffix). However, the homeLang should reflect that '-ic' is part of the suffix, not just 'elektrisk'. The morpheme is 'electr-' (from elektron) + '-ic' + '-ity', making the homeLang mapping imprecise.",
-    "suggestion": "Consider whether the split should be 'electr' + 'icity' with homeLang 'elektr' + '-itet', or clarify that 'electric' is the base form being nominalized",
-    "source_file": "en-da.json"
+    "word": "personality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "person is a root, but it is being used as part of a derived word; the morphemeType is correct as root",
+    "suggestion": "root"
+  },
+  {
+    "word": "personality",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "ality is a suffix (forming abstract nouns from adjectives), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "creativity",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'create' should be further split into its component parts. In English morphology, 'create' is a root, but the entry treats it as a single unit when it could be analyzed as creat- (root) + -e (infinitive marker). However, more critically, the three-part split create + iv + ity misses that 'creative' is the intermediate adjective form (create + -ive), so the structure should reflect: creat(e) + -ive + -ity.",
-    "suggestion": "Consider clarifying the morphological structure. If teaching word formation, it's clearer to show: 'create' → 'creative' (add -ive) → 'creativity' (add -ity). The current parts list obscures this step.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "iv is a suffix (-ive/-iv, forming adjectives), not a root",
+    "suggestion": "suffix"
   },
   {
     "word": "productivity",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Similar to creativity: the three-part split product + iv + ity misses the intermediate adjective 'productive'. The morphological chain should be: product → productive (add -ive) → productivity (add -ity), not a direct three-way split.",
-    "suggestion": "Restructure to show: 'product' → 'productive' (add -ive) → 'productivity' (add -ity), or clarify that -iv here already represents the adjective-forming suffix applied to the root.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'iv' is a suffix (-ive), not a root. It is a derivational suffix that forms adjectives from verbs/nouns.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "flexibility",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The three-part split flex + ible + ity obscures the actual morphological structure. The intermediate form is 'flexible' (flex + -ible), then 'flexibility' (flexible + -ity). The current breakdown suggests all three morphemes combine in parallel, which is misleading.",
-    "suggestion": "Restructure to clarify: 'flex' → 'flexible' (add -ible) → 'flexibility' (add -ity).",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "nationality",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "Similar issue: the three-part split nation + al + ity obscures that the intermediate form is 'national' (nation + -al), then 'nationality' (national + -ity). The structure should reflect this derivational chain.",
-    "suggestion": "Restructure to show: 'nation' → 'national' (add -al) → 'nationality' (add -ity).",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "effectively",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The three-part split effect + iv + ly obscures the morphological chain. The intermediate form is 'effective' (effect + -ive), then 'effectively' (effective + -ly). The current breakdown suggests these combine in parallel.",
-    "suggestion": "Restructure to show: 'effect' → 'effective' (add -iv) → 'effectively' (add -ly).",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "creatively",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "The homeLangDetails describes '-t' as forming adverbs and adjectives, but '-t' is not the Danish equivalent of English '-ly'. Danish uses '-t' for neuter adjectives (e.g., 'hurtig' → 'hurtigt'), not for adverb formation from adjectives. The adverbial form in Danish often uses the adjective directly or '-e' ending in some contexts.",
-    "suggestion": "Clarify that '-t' here represents the neuter/adverbial form of the adjective, not a dedicated adverb suffix like English '-ly'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The part 'ibil' is a suffix (-ible/-able), not a root. It is a derivational suffix that forms adjectives.",
+    "suggestion": "Change morphemeType to 'suffix'"
   },
   {
     "word": "productively",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "Same issue as 'creatively': the description of '-t' is inaccurate for Danish adverb formation",
-    "suggestion": "Clarify that '-t' here represents the neuter/adverbial form of the adjective, not a dedicated adverb suffix like English '-ly'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang gloss '-t' is incorrect for English '-ly'. Danish '-t' is an adjective-forming suffix (e.g., 'køn' → 'kønt'), not an adverb-forming suffix. English '-ly' forms adverbs and corresponds to Danish '-t' only in limited contexts. The standard Danish gloss for English adverbial '-ly' should reflect adverb formation.",
+    "suggestion": "-t (adv)"
   },
   {
     "word": "attractively",
-    "category": "wrong_translation",
-    "field": "parts[2].homeLangDetails",
-    "issue": "Same issue as 'creatively': the description of '-t' is inaccurate for Danish adverb formation",
-    "suggestion": "Clarify that '-t' here represents the neuter/adverbial form of the adjective, not a dedicated adverb suffix like English '-ly'",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "Same as productively: the homeLang gloss '-t' is misleading for English '-ly'. Danish '-t' is primarily an adjective suffix, not an adverb suffix. The gloss does not accurately capture the adverb-forming function of English '-ly'.",
+    "suggestion": "-t (adv)"
   },
   {
     "word": "researcher",
-    "category": "false_cognate",
-    "field": "parts[0]",
-    "issue": "The 're-' prefix in 'researcher' does not mean 'igen-' (again/re-). In 'researcher', the 're-' is part of the Latin root 'research' (from Old French 'cerchier'), not a productive prefix meaning repetition. The word does not mean 'one who searches again' but rather 'one who searches/investigates'.",
-    "suggestion": "Remove the 're-' analysis or clarify that it is etymological rather than synchronically meaningful in modern English morphology",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "The homeLang 're' is glossed as 'gen-' which is incorrect. According to the canonical glossary, 're' (the English prefix) corresponds to 'ge-' or 're-' in Danish, but 'gen-' is not a standard Danish prefix for the re- sense. The gloss should match the glossary entry 're-' with appropriate Danish equivalent.",
+    "suggestion": "gen- or re-"
   },
   {
-    "word": "developer",
-    "category": "wrong_translation",
-    "field": "parts[0].homeLang",
-    "issue": "The homeLang 'udvikl' is incomplete. The full Danish root is 'udvikle' (verb) or 'udvikling' (noun). 'udvikl' is a truncated form that doesn't represent a complete morpheme.",
-    "suggestion": "Change to 'udvikl-' (with hyphen to indicate it's a bound root) or 'udvikle' to match the actual Danish morpheme",
-    "source_file": "en-da.json"
+    "word": "employee",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -ee suffix is marked as 'root' but it is a derivational suffix, not a root morpheme.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "photo- is a combining form/root element, but in this word it is functioning as a root that combines with -graph. The morphemeType 'root' is correct, but the homeLang label 'foto-' with a hyphen suggests it is a prefix or combining form in isolation. For clarity in a tile game, this should be marked as root.",
+    "suggestion": "Keep as 'root' (correct as-is)"
+  },
+  {
+    "word": "photographer",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The -graph element is marked as 'root' but it is a bound morpheme that serves as a combining element. In this context, -graph is more accurately a root morpheme within the compound, but the label '-graf-' with hyphens on both sides indicates it is neither a pure root nor a standard suffix—it is part of a classical morpheme cluster. In English morphological analysis, -graph is typically treated as a root combining form.",
+    "suggestion": "Keep as 'root' (acceptable for combining forms in classical compounds)"
   },
   {
     "word": "investigator",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The homeLangDetails for '-or' incorrectly lists 'skuespiller' (actor) and 'instruktør' (instructor) as examples of '-or' suffix words with Latin roots. 'Skuespiller' is formed from 'skue' (look) + 'spille' (play) + '-er', not '-or'. 'Instruktør' does use '-or', but the list mixes different formation patterns inconsistently.",
-    "suggestion": "Provide clearer examples that genuinely use '-or' with Latin roots, such as 'senator', 'professor', 'director', or 'supervisor'. Avoid 'skuespiller' as it uses '-er' not '-or'.",
-    "source_file": "en-da.json"
+    "category": "wrong_boundary",
+    "field": "parts[1]",
+    "issue": "The morpheme split is incorrect. 'invest' + 'igat' + 'or' is wrong. The correct split is 'investigate' (the root, which may be further analyzed as in-vestig-ate) + 'or'. The entry splits after 'invest', leaving 'igat' as a meaningless fragment. The actual morpheme structure should reflect the derivational verb 'investigate' + agent suffix '-or'.",
+    "suggestion": "Correct the split to: investigate (root) + -or (suffix), removing the 'igat' part entirely, or reanalyze as in-vestig-ate-or if tracking the full etymology."
   },
   {
-    "word": "communicator",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The homeLangDetails for '-or' states 'Danner ord for personer eller ting, der udfører handlingen. Lærer, skuespiller, chauffør, computer.' This is copied from the '-er' entry and is misleading. The examples are primarily '-er' words (lærer, chauffør) or nouns without clear agentive suffixes (computer). The description doesn't accurately distinguish '-or' from '-er' or explain when '-or' is used.",
-    "suggestion": "Revise to explain that '-or' is a variant of '-er' used in more formal or Latinate contexts, with appropriate examples like 'senator', 'professor', 'translator', or other -or words with Latin/Romance roots.",
-    "source_file": "en-da.json"
+    "word": "investigator",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The 'igat' part is marked as 'root' but it is not a morpheme—it is a malformed split artifact. Once the boundary is corrected, this part should be removed or reanalyzed.",
+    "suggestion": "Remove or correct after fixing the word boundary"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The '-icate' part is marked as 'root' but -icate is a suffix (a variant of -ate used after certain roots). It should be marked as 'suffix'.",
+    "suggestion": "Change morphemeType to 'suffix'"
+  },
+  {
+    "word": "communicate",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The homeLang label '-ate' is too short and loses the nuance that -icate is a causative/verb-forming suffix. The full suffix is -icate, not just -ate. The label should reflect the specific function of this morpheme in this word context.",
+    "suggestion": "Change to '(-icate)' or 'make/cause' to clarify it is a causative verb-forming suffix"
+  },
+  {
+    "word": "investigate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ate' is labeled as 'root' but it is a derivational suffix that forms verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "collaborate",
-    "category": "unnatural_example",
-    "field": "exampleTranslation",
-    "issue": "The Danish translation uses present tense 'samarbejder' but the English sentence uses future tense 'will collaborate'.",
-    "suggestion": "Change to: 'Vi vil samarbejde om dette projekt med kolleger fra andre afdelinger.' or 'Vi skal samarbejde om dette projekt med kolleger fra andre afdelinger.'",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ate' is labeled as 'root' but it is a derivational suffix that forms verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "participate",
-    "category": "incomplete_split",
-    "field": "parts",
-    "issue": "The morpheme 'ticip' is not a standard morpheme split. The Latin root is 'participare' which should be split as 'par' (part) + 'ticip' (capere = take), but 'ticip' itself conflates 'ti' + 'cip'. A clearer analysis would separate 'capere' more explicitly or acknowledge the bound morpheme nature.",
-    "suggestion": "Either clarify that 'ticip' is a bound form containing 'capere' (to take), or split further if the educational goal is transparency. The current split is acceptable but the homeLang gloss 'tage' (take) for 'ticip' alone is misleading without acknowledging the morpheme is bound.",
-    "source_file": "en-da.json"
+    "category": "wrong_gloss",
+    "field": "parts[0].homeLang",
+    "issue": "Glossed as 'del' (part) but the glossary entry for 'par' is 'gøre klar' (prepare). The homeLang should match the glossary.",
+    "suggestion": "gøre klar"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[0].morphemeType",
+    "issue": "The root 'par' is labeled as 'root' but in the context of this word it functions as part of a compound root 'par-ticip-'. However, given the entry structure, if 'par' is treated as an independent morpheme here, the type is acceptable as 'root'.",
+    "suggestion": "Acceptable as 'root' in this analysis"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[1].morphemeType",
+    "issue": "The element 'ticip' is labeled as 'root' but it is a bound morpheme element that cannot stand alone; it is part of a Latin etymological compound",
+    "suggestion": "Change to 'suffix' or reconsider the morpheme split"
+  },
+  {
+    "word": "participate",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ate' is labeled as 'root' but it is a derivational suffix that forms verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
     "word": "congratulate",
-    "category": "wrong_translation",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The explanation claims 'gratus' relates to Danish 'nåde' (grace/mercy) and lists 'taknemmelig' (grateful) as a cognate. However, 'gratus' means 'pleasing/acceptable' and the connection to 'nåde' is weak. 'Taknemmelig' does relate to gratitude but 'nåde' (grace) is a different semantic field. The homeLang gloss 'nåde' is misleading.",
-    "suggestion": "Change homeLang to 'taknemlig' or 'behagelig' (pleasing), and revise homeLangDetails to clarify that 'gratus' means 'pleasing/welcome' and relates to gratitude and thankfulness rather than theological grace.",
-    "source_file": "en-da.json"
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The suffix '-ulate' is labeled as 'root' but it is a derivational suffix that forms verbs",
+    "suggestion": "Change to 'suffix'"
   },
   {
-    "word": "misinterpret",
-    "category": "false_cognate",
-    "field": "parts[1].homeLang",
-    "issue": "The morpheme 'inter' in 'misinterpret' does not mean 'mellem' (between). In this word, 'inter-' is part of the root 'interpret' (from Latin interpretari), not a separate prefix meaning 'between'. The word structure is mis- + interpret, not mis- + inter- + pret.",
-    "suggestion": "Remove the separate 'inter' morpheme entry. The word should be split as: mis- (wrong/badly) + interpret (the root, from Latin interpretari meaning to explain/translate).",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "misinterpret",
-    "category": "false_cognate",
+    "word": "deconstruct",
+    "category": "wrong_gloss",
     "field": "parts[2].homeLang",
-    "issue": "'Pret' does not mean 'forklare' (explain). The root 'interpret' comes from Latin 'interpretari' as a whole, not from 'inter-' + 'pret'. 'Pret' is not a meaningful standalone morpheme in English.",
-    "suggestion": "Remove this entry and combine the root as 'interpret' meaning 'to explain or translate (from Latin interpretari)'.",
-    "source_file": "en-da.json"
+    "issue": "The homeLang for 'struct' is given as 'struct-/bygge' but should be simplified to just the gloss without the morpheme itself. Following convention, it should be 'bygge'.",
+    "suggestion": "bygge"
   },
   {
     "word": "misinterpret",
-    "category": "false_cognate",
+    "category": "wrong_gloss",
+    "field": "parts[2].homeLang",
+    "issue": "The gloss 'pret-/forklare' is incorrect. The root is 'pret' from Latin 'praeterre' (to go before/pass by), not a prefix meaning 'to explain'. In 'interpret', the root is actually 'pret' which combines with 'inter-' to mean 'to explain between/among'. The homeLang should reflect the actual meaning of this root in context.",
+    "suggestion": "pret/forklare or pret/passage"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_morpheme_type",
+    "field": "parts[2].morphemeType",
+    "issue": "The part 'pret' is marked as 'root', but in the word 'misinterpret', the actual root is 'pret' which is bound and part of a larger Latin-derived root 'interpret'. Given the structure, 'pret' functions as a bound root element within the 'interpret' morpheme (mis-+interpret), not as an independent root.",
+    "suggestion": "This part should be reconsidered; 'interpret' may be better analyzed as mis- (prefix) + interpret (root), making 'inter' + 'pret' a false split. Flag for human review."
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split into 'mis' + 'inter' + 'pret' + 'et' is incorrect. The word should be analyzed as 'mis-' (prefix) + 'interpret' (root), where 'interpret' is a single bound root from Latin, not further decomposable into 'inter-' + 'pret' + 'et'. The modern English word 'interpret' is not productively decomposed as inter- + pret in synchronic analysis.",
+    "suggestion": "Reanalyze as: mis- (prefix) + interpret (root)"
+  },
+  {
+    "word": "misinterpret",
+    "category": "wrong_gloss",
     "field": "parts[3].homeLang",
-    "issue": "The '-et' is not an 'arkaisk eller poetisk endeelse' (archaic or poetic infinitive ending). Modern English 'misinterpret' is the base verb form; '-et' is not present in this word.",
-    "suggestion": "Remove this morpheme entry entirely. The word ends in the base form 'interpret', not with any suffix.",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "deconstruct",
-    "category": "incomplete_split",
-    "field": "parts[1]",
-    "issue": "The 'de-' prefix here is being paired with 'con-struct', but 'con-' is not a separate morpheme in 'deconstruct'. The word should be split as de- + construct, where 'construct' is itself a root (from Latin construere). The entry incorrectly treats 'con' as a morpheme within 'deconstruct'.",
-    "suggestion": "Change the split to: de- (reverse/undo) + construct (the root, meaning to build).",
-    "source_file": "en-da.json"
-  },
-  {
-    "word": "deconstruct",
-    "category": "false_cognate",
-    "field": "parts[1].homeLangDetails",
-    "issue": "The explanation for 'de-' says it 'ophæver ofte betydningen af grundordet' but then gives 'dekonstruktion' as an example, which is circular. The explanation conflates the prefix with the full word's meaning.",
-    "suggestion": "Simplify to: 'de- means to reverse, undo, or remove. Examples: decode, defrost, deconstruct.'",
-    "source_file": "en-da.json"
+    "issue": "The gloss 'et-(uendelighedsform)' is misleading and incorrect for this word. The '-et' here is not a separate morpheme; it is part of the Latin root 'interpretari' and does not function as a Danish infinitive marker in English.",
+    "suggestion": "This part should not be split out separately. Remove this part or restructure the analysis."
   }
 ]

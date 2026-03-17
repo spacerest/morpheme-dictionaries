@@ -1,0 +1,72 @@
+[
+  {
+    "word": "dalta",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split dalt + a is questionable. The -a is a nominative singular ending, but dalta is likely best treated as an unanalysable root for puzzle purposes, since the stem dalt does not circulate as a free morpheme and the ending is not a productive suffix players would recognise.",
+    "suggestion": "Consider treating dalta as a single root part, with the etymology handled in homeLangDetails."
+  },
+  {
+    "word": "cúnamh",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split 'cúna' + 'mh' is a mis-cut. The nominal suffix is '-amh', not '-mh', and the root is 'cún-', not 'cúna'.",
+    "suggestion": "Split as 'cún' (root, help/aid) + 'amh' (suffix, abstract noun marker), parallel to 'léamh', 'scríobh' patterns."
+  },
+  {
+    "word": "Athbhliain",
+    "category": "wrong_boundary",
+    "field": "parts[1] and parts[2]",
+    "issue": "The lenition mutation 'bh' is separated from its root 'liain', creating a spurious morpheme part. Lenition is a phonological process triggered by ath-, not an independent morpheme. The root should appear as a single part 'bhliain' (or ideally the tile simply labels the underlying root bliain with a note on lenition).",
+    "suggestion": "Merge parts[1] and parts[2] into a single part with targetLang 'bhliain', homeLang 'year', with the lenition explanation in homeLangDetails."
+  },
+  {
+    "word": "An-mhaith",
+    "category": "wrong_boundary",
+    "field": "parts[1], parts[2]",
+    "issue": "The root 'maith' is split into 'mh' (the lenited initial) and 'aith' (the remainder), leaving 'aith' as a non-morpheme fragment. A learner tile reading 'good' for 'aith' is phonologically stranded without its initial consonant.",
+    "suggestion": "Consider treating the lenition marker as part of the root tile: one part 'mh' labeled '-' (linking/phonological) and one part 'aith' is the current approach, but a cleaner split would be 'an-' + 'mhaith' (with a note that mhaith is the lenited form of maith). Alternatively collapse mh+aith into one root tile 'mhaith' glossed 'good (lenited)'."
+  },
+  {
+    "word": "Sofheicthe",
+    "category": "wrong_boundary",
+    "field": "parts[1], parts[2]",
+    "issue": "The root 'feic' (see) plus the past participle suffix '-the' are merged into one tile 'eicthe', while the silent 'fh' is a separate tile. This splits across the morpheme boundary of the original root feic.",
+    "suggestion": "Consider 'so-' + 'fheic' (root, glossed 'see') + '-the' (past participle). The silent fh would then stay with the root tile, which is where it belongs etymologically."
+  },
+  {
+    "word": "Oifigeach",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "Oifigeach is borrowed from English 'officer' / Latin 'officiarius' and the Irish morpheme boundary may not cleanly follow Oifig + each. The -each suffix is a genuine Irish suffix, but the loanword status makes the split potentially artificial — the word may have entered Irish already whole rather than being derived in Irish from oifig.",
+    "suggestion": "Consider flagging as a loanword with a note, or treat as a frozen compound if the oifig/each split is pedagogically misleading."
+  },
+  {
+    "word": "Poblacht",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "Poblacht is a coined/borrowed term (from Latin respublica, influenced by English 'republic') and the pobal + acht split, while plausible, may not reflect actual word formation — it could be a folk-etymological or deliberate Gaelicisation rather than a productive Irish derivation.",
+    "suggestion": "Consider a frozen_compound note acknowledging the Latin/English source alongside the Irish morphological gloss."
+  },
+  {
+    "word": "Faisnéis",
+    "category": "frozen_compound",
+    "field": "parts",
+    "issue": "The entry itself notes that faisnéis is synchronically semi-fused: the boundary between Fais- and -néis is historically motivated but no longer transparent to modern Irish speakers, and -néis is not a productive suffix.",
+    "suggestion": "Consider treating faisnéis as a single unanalysed root tile, or retain the split with a clear caveat that the division is etymological rather than morphologically productive."
+  },
+  {
+    "word": "Inmharthanacht",
+    "category": "wrong_boundary",
+    "field": "parts",
+    "issue": "The split into in- + mharth- + an + acht may not reflect the actual morphological boundary. Inmharthana is likely the adjective base (with -na as a participial ending on marthan-), and -acht nominalizes it. The -an element split off separately may be an artifact of that analysis rather than a genuine independent morpheme.",
+    "suggestion": "Consider whether the split should be in- + marthan + acht (three parts), with lenition of m- handled as a phonological note, or in- + mharthan + acht, keeping the lenited stem intact."
+  },
+  {
+    "word": "Míréasúntacht",
+    "category": "wrong_boundary",
+    "field": "parts[2]",
+    "issue": "The part 't' is isolated from the adjectival suffix '-ta' to which it belongs. The underlying adjective is réasúnta (réasún + -ta), and the abstract noun is built on that adjectival stem. Splitting off only 't' leaves '-ún' stranded inside the réasún part and misrepresents both morphemes.",
+    "suggestion": "Consider a three-way split: mí- | réasúnta (réasún + adjectival -ta treated as a single root tile) | -acht, or a four-way split mí- | réasún | -ta | -acht, moving the 'ún' back into the suffix where it belongs."
+  }
+]
