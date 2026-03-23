@@ -6,7 +6,7 @@ JSON dictionaries for a language-learning word puzzle game. Each entry splits a 
 
 ## Using a dictionary in the game
 
-The game is [Water Sorting Word Roots](../water_sorting_word_roots). Each dictionary is a JSON file covering one language pair, e.g. German words with English glosses (`de-en.json`).
+Each dictionary is a JSON file covering one language pair, e.g. German words with English glosses (`de-en.json`).
 
 ### Getting a dictionary
 
