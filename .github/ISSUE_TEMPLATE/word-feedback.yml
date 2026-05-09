@@ -1,13 +1,12 @@
 name: Word feedback
-description: Report a problem with a morpheme dictionary entry
+description: Report a problem with a dictionary entry
 labels: ["word-feedback"]
 body:
   - type: input
     id: word
     attributes:
       label: Word
-      description: The word ID exactly as it appears (case-sensitive)
-      placeholder: e.g. Erfahrung
+      description: The word exactly as it appears
     validations:
       required: true
 
@@ -16,7 +15,6 @@ body:
     attributes:
       label: Language pair
       description: Target language dash home language
-      placeholder: e.g. de-en
     validations:
       required: true
 
@@ -25,7 +23,6 @@ body:
     attributes:
       label: What's wrong?
       description: Describe the issue. Which part is wrong, and what should it say?
-      placeholder: The gloss for "fahr" says "experience" but it should be "travel" — the word means journey/travel, not experience.
     validations:
       required: true
 
