@@ -1,0 +1,38 @@
+name: Word feedback
+description: Report a problem with a morpheme dictionary entry
+labels: ["word-feedback"]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: Word
+      description: The word ID exactly as it appears (case-sensitive)
+      placeholder: e.g. Erfahrung
+    validations:
+      required: true
+
+  - type: input
+    id: pair
+    attributes:
+      label: Language pair
+      description: Target language dash home language
+      placeholder: e.g. de-en
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Describe the issue. Which part is wrong, and what should it say?
+      placeholder: The gloss for "fahr" says "experience" but it should be "travel" — the word means journey/travel, not experience.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix (optional)
+      description: If you know what the correct value should be, put it here.
+    validations:
+      required: false
