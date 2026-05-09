@@ -4,10 +4,10 @@ title: "[word feedback] "
 labels: ["word-feedback"]
 body:
   - type: input
-    id: word
+    id: pair
     attributes:
-      label: Word
-      description: The word exactly as it appears
+      label: Language pair
+      description: Target language dash home language
     validations:
       required: true
 
@@ -15,17 +15,9 @@ body:
     id: word_details
     attributes:
       label: Word details
-      description: Paste the full word details from the app
+      description: The word details from the app
     validations:
       required: false
-
-  - type: input
-    id: pair
-    attributes:
-      label: Language pair
-      description: Target language dash home language
-    validations:
-      required: true
 
   - type: textarea
     id: problem
