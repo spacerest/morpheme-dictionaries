@@ -6,10 +6,18 @@ body:
   - type: input
     id: word
     attributes:
-      label: Word parts
-      description: The morpheme parts as they appear (e.g. ver- + öffent + -lich + -en)
+      label: Word
+      description: The word exactly as it appears
     validations:
       required: true
+
+  - type: textarea
+    id: word_details
+    attributes:
+      label: Word details
+      description: Paste the full word details from the app
+    validations:
+      required: false
 
   - type: input
     id: pair
